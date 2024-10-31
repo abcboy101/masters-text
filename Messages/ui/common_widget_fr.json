@@ -191,6 +191,7 @@
     "common_widget/dialog_134": "Remarque : l'effet de cet objet ne sera actif\nque pendant le prochain combat.",
     "common_widget/dialog_135": "Les objets suivants ont dépassé\nla date d'expiration, et ont donc\nété automatiquement échangés.",
     "common_widget/dialog_136": "Remarque : les Pièces obtenues avec l'échange\nautomatique seront mises en attente dans\nle menu « Cadeaux ».",
+    "common_widget/dialog_138": "[Name:Item ]\n([Name:EventName ])",
     "common_widget/trainer_detail_001": "[Name:TrainerName ]",
     "common_widget/trainer_detail_002": "N.",
     "common_widget/trainer_detail_004": "MAX",

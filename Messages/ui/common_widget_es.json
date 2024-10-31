@@ -191,6 +191,7 @@
     "common_widget/dialog_134": "Nota: Los efectos de este objeto solamente estarán\nactivos en el próximo combate.",
     "common_widget/dialog_135": "Los siguientes objetos han caducado\ny se han canjeado automáticamente.",
     "common_widget/dialog_136": "Aviso: Las monedas obtenidas de canjes automáticos se\nguardarán en la sección Reserva de la caja de regalos.",
+    "common_widget/dialog_138": "[Name:Item ]\n([Name:EventName ])",
     "common_widget/trainer_detail_001": "[Name:TrainerName ]",
     "common_widget/trainer_detail_002": "Nv.",
     "common_widget/trainer_detail_004": "MÁX.",

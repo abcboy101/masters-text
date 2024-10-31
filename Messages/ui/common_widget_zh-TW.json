@@ -191,6 +191,7 @@
     "common_widget/dialog_134": "※此道具只會在下一場對戰發揮效果",
     "common_widget/dialog_135": "因超過使用期限\n下列道具已自動出售",
     "common_widget/dialog_136": "※因自動出售而轉換成的金幣\n會被送到禮物箱的「暫時保管」",
+    "common_widget/dialog_138": "「[Name:EventName ]」\n[Name:Item ]",
     "common_widget/trainer_detail_001": "[Name:TrainerName ]",
     "common_widget/trainer_detail_002": "Lv.",
     "common_widget/trainer_detail_004": "MAX",

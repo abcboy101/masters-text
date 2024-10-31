@@ -191,6 +191,7 @@
     "common_widget/dialog_134": "L'effetto di questo strumento si attiverà solo\nnella prossima lotta.",
     "common_widget/dialog_135": "I seguenti strumenti sono scaduti\ne sono stati scambiati automaticamente.",
     "common_widget/dialog_136": "Le monete ottenute tramite lo scambio automatico\nsaranno inviate alla sezione \"In attesa\" dei Regali.",
+    "common_widget/dialog_138": "[Name:Item ]\n([Name:EventName ])",
     "common_widget/trainer_detail_001": "[Name:TrainerName ]",
     "common_widget/trainer_detail_002": "L.",
     "common_widget/trainer_detail_004": "MAX",

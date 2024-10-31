@@ -191,6 +191,7 @@
     "common_widget/dialog_134": "※이 도구는 다음 배틀에서만 효과를 발휘합니다",
     "common_widget/dialog_135": "기한이 만료되어\n아래의 도구가 자동판매되었습니다",
     "common_widget/dialog_136": "※자동판매로 변환된 코인은\n프레젠트박스의 \"임시보관\"에 보관됩니다",
+    "common_widget/dialog_138": "\"[Name:EventName ]\"\n[Name:Item ]",
     "common_widget/trainer_detail_001": "[Name:TrainerName ]",
     "common_widget/trainer_detail_002": "Lv.",
     "common_widget/trainer_detail_004": "MAX",

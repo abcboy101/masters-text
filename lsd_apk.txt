@@ -7253,6 +7253,76 @@ kleinen Mädchens
 [quest_group_title_10301000000] Super Sandro
 [quest_group_title_10300000000] Cursilla
 [quest_group_title_10303000000] Poppy
+[quest_title_1040000140101011] Ein besonderer Tag mit
+Cheren (Teil 1)
+[quest_title_1040000140101021] Ein besonderer Tag mit
+Cheren (Teil 2)
+[quest_title_1030110000600900] Stolze Mythenforscher
+[quest_title_1030605000601000] Cherens Bitte
+[quest_title_1030605000601010] Bells Herausforderung
+[quest_title_1030605000601050] Vs. Trainer aus Passio 1
+[quest_title_1030605000601020] Test der Stärke
+[quest_title_1030605000601060] Vs. Trainer aus Passio 2
+[quest_title_1030605000601030] Zwei unterschiedliche
+Entscheidungen
+[quest_title_1030605000601070] Vs. Trainer aus Passio 3
+[quest_title_1030605000601040] Stärke heißt...
+[quest_title_1030605000601080] Vs. Trainer aus Passio 4
+[quest_title_1030605000601090] Täglicher schwerer Kampf
+[quest_title_1030605000601100] Herausforderungskampf 1
+[quest_title_1030605000601110] Herausforderungskampf 2
+[quest_title_1030220014900000] Ein Tag mit Cheren
+[quest_title_1030220102900000] Ein Tag mit Bell
+[quest_title_1030605000605000] Stelle dich Lotta! 1
+[quest_title_1030605000605010] Stelle dich Lotta! 2
+[quest_title_1030605000605020] Stelle dich Warren! 1
+[quest_title_1030605000605030] Stelle dich Warren! 2
+[quest_title_1030605000604000] Willkommen im Raum der
+Neo-Champs!
+[quest_title_1030605000604010] Stelle dich Neo-Champ
+Cheren! 1
+[quest_title_1030605000604020] Stelle dich Neo-Champ
+Cheren! 2
+[quest_title_1030605000604030] Stelle dich Neo-Champ
+Bell! 1
+[quest_title_1030605000604040] Stelle dich Neo-Champ
+Bell! 2
+[quest_title_1030460500101010] Vs. Cheren
+[quest_title_1030605000602000] Erfahrene Lehrmeister
+[quest_title_1030605000602010] Einfach ganz normal
+[quest_title_1030605000602050] Vs. Trainer aus Passio 1
+[quest_title_1030605000602020] Immer Feuer und Flamme
+[quest_title_1030605000602060] Vs. Trainer aus Passio 2
+[quest_title_1030605000602030] Unterschiedliche Einstellungen
+[quest_title_1030605000602070] Vs. Trainer aus Passio 3
+[quest_title_1030605000602040] Alles schnell erledigen
+[quest_title_1030605000602080] Vs. Trainer aus Passio 4
+[quest_title_1030605000602090] Täglicher schwerer Kampf
+[quest_title_1030605000602100] Herausforderungskampf 1
+[quest_title_1030605000602110] Herausforderungskampf 2
+[quest_title_1030220304000000] Ein Tag mit Aoki
+[quest_title_1030220252000000] Ein Tag mit Kabu
+[quest_title_1030605000603000] Spannende Ideen
+[quest_title_1030605000603020] Vs. Trainer aus Passio 1
+[quest_title_1030605000603030] Vs. Trainer aus Passio 2
+[quest_title_1030605000603040] Vs. Trainer aus Passio 3
+[quest_title_1030605000603050] Vs. Trainer aus Passio 4
+[quest_title_1030605000603060] Täglicher schwerer Kampf
+[quest_title_1030605000603010] Etwas Unvollendetes?
+[quest_group_title_10014900000] Cheren (Neo-Champ)
+[quest_group_title_10102900000] Bell (Neo-Champ)
+[quest_group_title_10304000000] Aoki
+[quest_group_title_10252000000] Kabu
+[quest_title_1030460500300010] Luxuriöse Geschenke 1
+[quest_title_1030460500301010] Luxuriöse Geschenke 2
+[quest_title_1030460500302010] Luxuriöse Geschenke 3
+[quest_title_1030460500303010] Luxuriöse Geschenke 4
+[quest_title_1030460500304010] Luxuriöse Geschenke 5
+[quest_title_1030460500305010] Luxuriöse Geschenke 6
+[quest_title_1030460500306010] Luxuriöse Geschenke 7
+[quest_title_1030460500307010] Luxuriöse Geschenke 8
+[quest_title_1030460500308010] Luxuriöse Geschenke 9
+[quest_title_1030451202001010] Vs. Entschlossene Nuit
 
 ===========
 story_quest_name_en.lsd
@@ -11112,6 +11182,72 @@ Nine Possibilities: Part 2
 [quest_group_title_10301000000] Brycen-Man
 [quest_group_title_10300000000] Bellelba
 [quest_group_title_10303000000] Poppy
+[quest_title_1040000140101011] A Special Day with Cheren: Part 1
+[quest_title_1040000140101021] A Special Day with Cheren: Part 2
+[quest_title_1030110000600900] Pride of the Myth Seekers
+[quest_title_1030605000601000] Cheren’s Invitation
+[quest_title_1030605000601010] Bianca’s Challenge
+[quest_title_1030605000601050] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030605000601020] Putting Strength to the Test
+[quest_title_1030605000601060] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030605000601030] Two Different Decisions
+[quest_title_1030605000601070] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030605000601040] Strength Is...
+[quest_title_1030605000601080] Challenge Pasio’s Trainers: Part 4
+[quest_title_1030605000601090] Daily Extreme Battle 1
+[quest_title_1030605000601100] Battle Challenge! Round 1
+[quest_title_1030605000601110] Battle Challenge! Round 2
+[quest_title_1030220014900000] A Day with Cheren
+[quest_title_1030220102900000] A Day with Bianca
+[quest_title_1030605000605000] Take On Hilda! Part 1
+[quest_title_1030605000605010] Take On Hilda! Part 2
+[quest_title_1030605000605020] Take On Hilbert! Part 1
+[quest_title_1030605000605030] Take On Hilbert! Part 2
+[quest_title_1030605000604000] Welcome to the Champions’ Room!
+[quest_title_1030605000604010] Challenge Champion Cheren:
+Part 1
+[quest_title_1030605000604020] Challenge Champion Cheren:
+Part 2
+[quest_title_1030605000604030] Challenge Champion Bianca:
+Part 1
+[quest_title_1030605000604040] Challenge Champion Bianca:
+Part 2
+[quest_title_1030460500101010] Challenge Cheren
+[quest_title_1030605000602000] Veteran Trainers Assemble!
+[quest_title_1030605000602010] Plain and Simple
+[quest_title_1030605000602050] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030605000602020] The Ever-Burning Man
+[quest_title_1030605000602060] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030605000602030] Different Values
+[quest_title_1030605000602070] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030605000602040] Knocking Out Tasks
+[quest_title_1030605000602080] Challenge Pasio’s Trainers: Part 4
+[quest_title_1030605000602090] Daily Extreme Battle 1
+[quest_title_1030605000602100] Battle Challenge! Round 1
+[quest_title_1030605000602110] Battle Challenge! Round 2
+[quest_title_1030220304000000] A Day with Larry
+[quest_title_1030220252000000] A Day with Kabu
+[quest_title_1030605000603000] Exciting Ideas
+[quest_title_1030605000603020] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030605000603030] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030605000603040] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030605000603050] Challenge Pasio’s Trainers: Part 4
+[quest_title_1030605000603060] Daily Extreme Battle 1
+[quest_title_1030605000603010] Incomplete Things?
+[quest_group_title_10014900000] Cheren (Champion)
+[quest_group_title_10102900000] Bianca (Champion)
+[quest_group_title_10304000000] Larry
+[quest_group_title_10252000000] Kabu
+[quest_title_1030460500300010] Luxurious Gifts: Part 1
+[quest_title_1030460500301010] Luxurious Gifts: Part 2
+[quest_title_1030460500302010] Luxurious Gifts: Part 3
+[quest_title_1030460500303010] Luxurious Gifts: Part 4
+[quest_title_1030460500304010] Luxurious Gifts: Part 5
+[quest_title_1030460500305010] Luxurious Gifts: Part 6
+[quest_title_1030460500306010] Luxurious Gifts: Part 7
+[quest_title_1030460500307010] Luxurious Gifts: Part 8
+[quest_title_1030460500308010] Luxurious Gifts: Part 9
+[quest_title_1030451202001010] Challenge a Super Serious Nita
 
 ===========
 story_quest_name_es.lsd
@@ -15322,6 +15458,75 @@ peque
 [quest_group_title_10301000000] Juncomán
 [quest_group_title_10300000000] Malignia
 [quest_group_title_10303000000] Pola
+[quest_title_1040000140101011] Un día especial con Cheren
+[quest_title_1040000140101021] Un día especial con Cheren (2)
+[quest_title_1030110000600900] Los estudiosos de los mitos
+[quest_title_1030605000601000] La propuesta de Cheren
+[quest_title_1030605000601010] La dificultad de Bel
+[quest_title_1030605000601050] VS. Entrenadores de Passio
+[quest_title_1030605000601020] ¿Qué significa ser fuerte?
+[quest_title_1030605000601060] VS. Entrenadores de Passio (2)
+[quest_title_1030605000601030] Dos decisiones diferentes
+[quest_title_1030605000601070] VS. Entrenadores de Passio (3)
+[quest_title_1030605000601040] Ser fuerte es...
+[quest_title_1030605000601080] VS. Entrenadores de Passio (4)
+[quest_title_1030605000601090] ¡Un combate difícil al día!
+[quest_title_1030605000601100] ¡Un combate desafiante!
+[quest_title_1030605000601110] ¡Un combate desafiante! (2)
+[quest_title_1030220014900000] Un día con Cheren
+[quest_title_1030220102900000] Un día con Bel
+[quest_title_1030605000605000] ¡Enfréntate a Liza!
+[quest_title_1030605000605010] ¡Enfréntate a Liza! (2)
+[quest_title_1030605000605020] ¡Enfréntate a Lucho!
+[quest_title_1030605000605030] ¡Enfréntate a Lucho! (2)
+[quest_title_1030605000604000] ¡Te estábamos esperando,
+aspirante!
+[quest_title_1030605000604010] ¡Enfréntate al Neocampeón
+Cheren!
+[quest_title_1030605000604020] ¡Enfréntate al Neocampeón
+Cheren! (2)
+[quest_title_1030605000604030] ¡Enfréntate a la Neocampeona
+Bel!
+[quest_title_1030605000604040] ¡Enfréntate a la Neocampeona
+Bel! (2)
+[quest_title_1030460500101010] VS. Cheren
+[quest_title_1030605000602000] Llamada a los Entrenadores
+veteranos
+[quest_title_1030605000602010] Lo normal no quita lo valiente
+[quest_title_1030605000602050] VS. Entrenadores de Passio
+[quest_title_1030605000602020] El veterano fervoroso
+[quest_title_1030605000602060] VS. Entrenadores de Passio (2)
+[quest_title_1030605000602030] Diferentes valores
+[quest_title_1030605000602070] VS. Entrenadores de Passio (3)
+[quest_title_1030605000602040] Quitarse las tareas
+farragosas de encima
+[quest_title_1030605000602080] VS. Entrenadores de Passio (4)
+[quest_title_1030605000602090] ¡Un combate difícil al día!
+[quest_title_1030605000602100] ¡Un combate desafiante!
+[quest_title_1030605000602110] ¡Un combate desafiante! (2)
+[quest_title_1030220304000000] Un día con Laureano
+[quest_title_1030220252000000] Un día con Naboru
+[quest_title_1030605000603000] ¡Qué buena idea!
+[quest_title_1030605000603020] VS. Entrenadores de Passio
+[quest_title_1030605000603030] VS. Entrenadores de Passio (2)
+[quest_title_1030605000603040] VS. Entrenadores de Passio (3)
+[quest_title_1030605000603050] VS. Entrenadores de Passio (4)
+[quest_title_1030605000603060] ¡Un combate difícil al día!
+[quest_title_1030605000603010] ¿Hay algo incompleto?
+[quest_group_title_10014900000] Cheren (Neocampeón)
+[quest_group_title_10102900000] Bel (Neocampeona)
+[quest_group_title_10304000000] Laureano
+[quest_group_title_10252000000] Naboru
+[quest_title_1030460500300010] Regaliktos de lujo
+[quest_title_1030460500301010] Regaliktos de lujo (2)
+[quest_title_1030460500302010] Regaliktos de lujo (3)
+[quest_title_1030460500303010] Regaliktos de lujo (4)
+[quest_title_1030460500304010] Regaliktos de lujo (5)
+[quest_title_1030460500305010] Regaliktos de lujo (6)
+[quest_title_1030460500306010] Regaliktos de lujo (7)
+[quest_title_1030460500307010] Regaliktos de lujo (8)
+[quest_title_1030460500308010] Regaliktos de lujo (9)
+[quest_title_1030451202001010] VS. Nocta con todo
 
 ===========
 story_quest_name_fr.lsd
@@ -20030,6 +20235,91 @@ Dresseurs de Passio IV
 [quest_group_title_10301000000] Zhuman
 [quest_group_title_10300000000] Jujube
 [quest_group_title_10303000000] Popi
+[quest_title_1040000140101011] Une journée spéciale
+avec Tcheren
+[quest_title_1040000140101021] Une journée spéciale
+avec Tcheren II
+[quest_title_1030110000600900] La fierté des férus
+de mythologie
+[quest_title_1030605000601000] La suggestion de Tcheren
+[quest_title_1030605000601010] Le défi de Bianca
+[quest_title_1030605000601050] Combat : Dresseurs de Passio
+[quest_title_1030605000601020] La définition de la force
+[quest_title_1030605000601060] Combat :
+Dresseurs de Passio II
+[quest_title_1030605000601030] Deux décisions différentes
+[quest_title_1030605000601070] Combat :
+Dresseurs de Passio III
+[quest_title_1030605000601040] La force, c'est...
+[quest_title_1030605000601080] Combat :
+Dresseurs de Passio IV
+[quest_title_1030605000601090] Combat difficile limité
+à une fois par jour !
+[quest_title_1030605000601100] Combat difficile
+[quest_title_1030605000601110] Combat difficile II
+[quest_title_1030220014900000] Une journée avec Tcheren
+[quest_title_1030220102900000] Une journée avec Bianca
+[quest_title_1030605000605000] Combat corsé : Ludvina
+[quest_title_1030605000605010] Combat corsé : Ludvina II
+[quest_title_1030605000605020] Combat corsé : Ludwig
+[quest_title_1030605000605030] Combat corsé : Ludwig II
+[quest_title_1030605000604000] Bienvenue dans la chambre
+des Néo-Maîtres !
+[quest_title_1030605000604010] Défi corsé :
+Tcheren (Néo-Maître)
+[quest_title_1030605000604020] Défi corsé :
+Tcheren (Néo-Maître) II
+[quest_title_1030605000604030] Défi corsé :
+Bianca (Néo-Maître)
+[quest_title_1030605000604040] Défi corsé :
+Bianca (Néo-Maître) II
+[quest_title_1030460500101010] Combat : Tcheren
+[quest_title_1030605000602000] Des Dresseurs vétérans
+se rassemblent
+[quest_title_1030605000602010] Simple et sans surprise
+[quest_title_1030605000602050] Combat : Dresseurs de Passio
+[quest_title_1030605000602020] La flamme qui ne faiblit
+jamais
+[quest_title_1030605000602060] Combat :
+Dresseurs de Passio II
+[quest_title_1030605000602030] Différentes valeurs
+[quest_title_1030605000602070] Combat :
+Dresseurs de Passio III
+[quest_title_1030605000602040] Finir les tâches aussi vite
+que possible
+[quest_title_1030605000602080] Combat :
+Dresseurs de Passio IV
+[quest_title_1030605000602090] Combat difficile limité
+à une fois par jour !
+[quest_title_1030605000602100] Combat difficile
+[quest_title_1030605000602110] Combat difficile II
+[quest_title_1030220304000000] Une journée avec Okuba
+[quest_title_1030220252000000] Une journée avec Kabu
+[quest_title_1030605000603000] Des idées innovantes
+[quest_title_1030605000603020] Combat : Dresseurs de Passio
+[quest_title_1030605000603030] Combat :
+Dresseurs de Passio II
+[quest_title_1030605000603040] Combat :
+Dresseurs de Passio III
+[quest_title_1030605000603050] Combat :
+Dresseurs de Passio IV
+[quest_title_1030605000603060] Combat difficile limité
+à une fois par jour !
+[quest_title_1030605000603010] Quelque chose d'imparfait ?
+[quest_group_title_10014900000] Tcheren (Néo-Maître)
+[quest_group_title_10102900000] Bianca (Néo-Maître)
+[quest_group_title_10304000000] Okuba
+[quest_group_title_10252000000] Kabu
+[quest_title_1030460500300010] Cadeaux de luxe
+[quest_title_1030460500301010] Cadeaux de luxe II
+[quest_title_1030460500302010] Cadeaux de luxe III
+[quest_title_1030460500303010] Cadeaux de luxe IV
+[quest_title_1030460500304010] Cadeaux de luxe V
+[quest_title_1030460500305010] Cadeaux de luxe VI
+[quest_title_1030460500306010] Cadeaux de luxe VII
+[quest_title_1030460500307010] Cadeaux de luxe VIII
+[quest_title_1030460500308010] Cadeaux de luxe IX
+[quest_title_1030451202001010] Combat : Nix sans merci
 
 ===========
 story_quest_name_it.lsd
@@ -23829,6 +24119,68 @@ Persone famose ovunque!
 [quest_group_title_10301000000] Fantasilvestro
 [quest_group_title_10300000000] Malicia
 [quest_group_title_10303000000] Verina
+[quest_title_1040000140101011] Un giorno speciale con Komor (1ª parte)
+[quest_title_1040000140101021] Un giorno speciale con Komor (2ª parte)
+[quest_title_1030110000600900] L'orgoglio dei cercatori di miti
+[quest_title_1030605000601000] Il suggerimento di Komor
+[quest_title_1030605000601010] La sfida di Belle
+[quest_title_1030605000601050] VS Allenatori di Pasio
+[quest_title_1030605000601020] La definizione di forza
+[quest_title_1030605000601060] VS Allenatori di Pasio 2
+[quest_title_1030605000601030] Due decisioni diverse
+[quest_title_1030605000601070] VS Allenatori di Pasio 3
+[quest_title_1030605000601040] La forza è...
+[quest_title_1030605000601080] VS Allenatori di Pasio 4
+[quest_title_1030605000601090] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030605000601100] Sfida ad alta difficoltà
+[quest_title_1030605000601110] Sfida ad alta difficoltà 2
+[quest_title_1030220014900000] Un giorno con Komor (Campione)
+[quest_title_1030220102900000] Un giorno con Belle (Campionessa)
+[quest_title_1030605000605000] Sfida un avversario potente: Anita
+[quest_title_1030605000605010] Sfida un avversario potente: Anita 2
+[quest_title_1030605000605020] Sfida un avversario potente: Alcide
+[quest_title_1030605000605030] Sfida un avversario potente: Alcide 2
+[quest_title_1030605000604000] Benvenuti nella sala dei Nuovi Campioni!
+[quest_title_1030605000604010] Sfida il Campione: Komor
+[quest_title_1030605000604020] Sfida il Campione: Komor 2
+[quest_title_1030605000604030] Sfida la Campionessa: Belle
+[quest_title_1030605000604040] Sfida la Campionessa: Belle 2
+[quest_title_1030460500101010] VS Komor
+[quest_title_1030605000602000] Allenatori veterani a raccolta!
+[quest_title_1030605000602010] La normalità è l'eccezione...
+[quest_title_1030605000602050] VS Allenatori di Pasio
+[quest_title_1030605000602020] Il veterano ardente come la brace
+[quest_title_1030605000602060] VS Allenatori di Pasio 2
+[quest_title_1030605000602030] Modi diversi di vedere il mondo
+[quest_title_1030605000602070] VS Allenatori di Pasio 3
+[quest_title_1030605000602040] Un paio di pratiche da sbrigare
+[quest_title_1030605000602080] VS Allenatori di Pasio 4
+[quest_title_1030605000602090] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030605000602100] Sfida ad alta difficoltà
+[quest_title_1030605000602110] Sfida ad alta difficoltà 2
+[quest_title_1030220304000000] Un giorno con Ubaldo
+[quest_title_1030220252000000] Un giorno con Kabu
+[quest_title_1030605000603000] Spremiamo le meningi!
+[quest_title_1030605000603020] VS Allenatori di Pasio
+[quest_title_1030605000603030] VS Allenatori di Pasio 2
+[quest_title_1030605000603040] VS Allenatori di Pasio 3
+[quest_title_1030605000603050] VS Allenatori di Pasio 4
+[quest_title_1030605000603060] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030605000603010] Qualcosa di incompleto...?
+[quest_group_title_10014900000] Komor (Campione)
+[quest_group_title_10102900000] Belle (Campionessa)
+[quest_group_title_10304000000] Ubaldo
+[quest_group_title_10252000000] Kabu
+[quest_title_1030460500300010] Regali di lusso
+[quest_title_1030460500301010] Regali di lusso 2
+[quest_title_1030460500302010] Regali di lusso 3
+[quest_title_1030460500303010] Regali di lusso 4
+[quest_title_1030460500304010] Regali di lusso 5
+[quest_title_1030460500305010] Regali di lusso 6
+[quest_title_1030460500306010] Regali di lusso 7
+[quest_title_1030460500307010] Regali di lusso 8
+[quest_title_1030460500308010] Regali di lusso 9
+[quest_title_1030451202001010] VS Notturna (risoluta)
 
 ===========
 story_quest_name_ja.lsd
@@ -27718,6 +28070,70 @@ story_quest_name_ja.lsd
 [quest_group_title_10301000000] ハチクマン
 [quest_group_title_10300000000] ジュジュベ
 [quest_group_title_10303000000] ポピー
+[quest_title_1040000140101011] チェレンとの特別な一日　前編
+[quest_title_1040000140101021] チェレンとの特別な一日　後編
+[quest_title_1030110000600900] 神話を解く者たちのプライド
+[quest_title_1030605000601000] チェレンの誘い
+[quest_title_1030605000601010] ベルの挑戦
+[quest_title_1030605000601050] ＶＳ　パシオのトレーナー
+[quest_title_1030605000601020] 問われる強さ
+[quest_title_1030605000601060] ＶＳ　パシオのトレーナー２
+[quest_title_1030605000601030] ふたりそれぞれの決断
+[quest_title_1030605000601070] ＶＳ　パシオのトレーナー３
+[quest_title_1030605000601040] 強さとは……
+[quest_title_1030605000601080] ＶＳ　パシオのトレーナー４
+[quest_title_1030605000601090] １日１回限定・高難度バトル！
+[quest_title_1030605000601100] チャレンジバトルで勝負！
+[quest_title_1030605000601110] チャレンジバトルで勝負！２
+[quest_title_1030220014900000] とある日のチェレン
+[quest_title_1030220102900000] とある日のベル
+[quest_title_1030605000605000] 強敵に挑戦！　ＶＳ　トウコ
+[quest_title_1030605000605010] 強敵に挑戦！　ＶＳ　トウコ２
+[quest_title_1030605000605020] 強敵に挑戦！　ＶＳ　トウヤ
+[quest_title_1030605000605030] 強敵に挑戦！　ＶＳ　トウヤ２
+[quest_title_1030605000604000] ようこそ　チャンピオンの間へ！
+[quest_title_1030605000604010] 挑戦！　チャンピオンチェレン
+[quest_title_1030605000604020] 挑戦！　チャンピオンチェレン２
+[quest_title_1030605000604030] 挑戦！　チャンピオンベル
+[quest_title_1030605000604040] 挑戦！　チャンピオンベル２
+[quest_title_1030460500101010] ＶＳ　チェレン
+[quest_title_1030605000602000] ベテラントレーナーたちに告ぐ！
+[quest_title_1030605000602010] 普通で　いいんです
+[quest_title_1030605000602050] ＶＳ　パシオのトレーナー
+[quest_title_1030605000602020] いつまでも燃える男
+[quest_title_1030605000602060] ＶＳ　パシオのトレーナー２
+[quest_title_1030605000602030] 価値観の違い
+[quest_title_1030605000602070] ＶＳ　パシオのトレーナー３
+[quest_title_1030605000602040] タスク完了と　いきましょう
+[quest_title_1030605000602080] ＶＳ　パシオのトレーナー４
+[quest_title_1030605000602090] １日１回限定・高難度バトル！
+[quest_title_1030605000602100] チャレンジバトルで勝負！
+[quest_title_1030605000602110] チャレンジバトルで勝負！２
+[quest_title_1030220304000000] とある日のアオキ
+[quest_title_1030220252000000] とある日のカブ
+[quest_title_1030605000603000] わきあがるアイデア
+[quest_title_1030605000603020] ＶＳ　パシオのトレーナー
+[quest_title_1030605000603030] ＶＳ　パシオのトレーナー２
+[quest_title_1030605000603040] ＶＳ　パシオのトレーナー３
+[quest_title_1030605000603050] ＶＳ　パシオのトレーナー４
+[quest_title_1030605000603060] １日１回限定・高難度バトル！
+[quest_title_1030605000603010] 不完全なもの……？
+[quest_group_title_10014900000] チェレン
+（チャンピオン）
+[quest_group_title_10102900000] ベル
+（チャンピオン）
+[quest_group_title_10304000000] アオキ
+[quest_group_title_10252000000] カブ
+[quest_title_1030460500300010] ゴージャスな贈り物
+[quest_title_1030460500301010] ゴージャスな贈り物２
+[quest_title_1030460500302010] ゴージャスな贈り物３
+[quest_title_1030460500303010] ゴージャスな贈り物４
+[quest_title_1030460500304010] ゴージャスな贈り物５
+[quest_title_1030460500305010] ゴージャスな贈り物６
+[quest_title_1030460500306010] ゴージャスな贈り物７
+[quest_title_1030460500307010] ゴージャスな贈り物８
+[quest_title_1030460500308010] ゴージャスな贈り物９
+[quest_title_1030451202001010] ＶＳ　超本気のラニュイ
 
 ===========
 story_quest_name_ko.lsd
@@ -31606,6 +32022,70 @@ story_quest_name_ko.lsd
 [quest_group_title_10301000000] 담죽맨
 [quest_group_title_10300000000] 주즈베
 [quest_group_title_10303000000] 뽀삐
+[quest_title_1040000140101011] 체렌과의 특별한 하루 전편
+[quest_title_1040000140101021] 체렌과의 특별한 하루 후편
+[quest_title_1030110000600900] 신화를 푸는 자들의 긍지
+[quest_title_1030605000601000] 체렌의 초대
+[quest_title_1030605000601010] 벨의 도전
+[quest_title_1030605000601050] VS 파시오의 트레이너
+[quest_title_1030605000601020] 시험받는 강함
+[quest_title_1030605000601060] VS 파시오의 트레이너2
+[quest_title_1030605000601030] 두 사람 각자의 결단
+[quest_title_1030605000601070] VS 파시오의 트레이너3
+[quest_title_1030605000601040] 강함이란...
+[quest_title_1030605000601080] VS 파시오의 트레이너4
+[quest_title_1030605000601090] 1일 1회 한정 고난도 배틀!
+[quest_title_1030605000601100] 챌린지배틀로 승부!
+[quest_title_1030605000601110] 챌린지배틀로 승부!2
+[quest_title_1030220014900000] 체렌의 어느 날
+[quest_title_1030220102900000] 벨의 어느 날
+[quest_title_1030605000605000] 강적에게 도전! VS 투희
+[quest_title_1030605000605010] 강적에게 도전! VS 투희2
+[quest_title_1030605000605020] 강적에게 도전! VS 투지
+[quest_title_1030605000605030] 강적에게 도전! VS 투지2
+[quest_title_1030605000604000] 챔피언의 공간에 온 걸 환영해!
+[quest_title_1030605000604010] 도전! 챔피언 체렌
+[quest_title_1030605000604020] 도전! 챔피언 체렌2
+[quest_title_1030605000604030] 도전! 챔피언 벨
+[quest_title_1030605000604040] 도전! 챔피언 벨2
+[quest_title_1030460500101010] VS 체렌
+[quest_title_1030605000602000] 베테랑 트레이너들에게 고한다!
+[quest_title_1030605000602010] 단순 명료한 것은 좋은 것입니다
+[quest_title_1030605000602050] VS 파시오의 트레이너
+[quest_title_1030605000602020] 영원히 불타는 사나이
+[quest_title_1030605000602060] VS 파시오의 트레이너2
+[quest_title_1030605000602030] 가치관의 차이
+[quest_title_1030605000602070] VS 파시오의 트레이너3
+[quest_title_1030605000602040] 업무를 완료하도록 하죠
+[quest_title_1030605000602080] VS 파시오의 트레이너4
+[quest_title_1030605000602090] 1일 1회 한정 고난도 배틀!
+[quest_title_1030605000602100] 챌린지배틀로 승부!
+[quest_title_1030605000602110] 챌린지배틀로 승부!2
+[quest_title_1030220304000000] 청목의 어느 날
+[quest_title_1030220252000000] 순무의 어느 날
+[quest_title_1030605000603000] 샘솟는 아이디어
+[quest_title_1030605000603020] VS 파시오의 트레이너
+[quest_title_1030605000603030] VS 파시오의 트레이너2
+[quest_title_1030605000603040] VS 파시오의 트레이너3
+[quest_title_1030605000603050] VS 파시오의 트레이너4
+[quest_title_1030605000603060] 1일 1회 한정 고난도 배틀!
+[quest_title_1030605000603010] 불완전한 것...?
+[quest_group_title_10014900000] 체렌
+(챔피언)
+[quest_group_title_10102900000] 벨
+(챔피언)
+[quest_group_title_10304000000] 청목
+[quest_group_title_10252000000] 순무
+[quest_title_1030460500300010] 럭셔리한 선물
+[quest_title_1030460500301010] 럭셔리한 선물2
+[quest_title_1030460500302010] 럭셔리한 선물3
+[quest_title_1030460500303010] 럭셔리한 선물4
+[quest_title_1030460500304010] 럭셔리한 선물5
+[quest_title_1030460500305010] 럭셔리한 선물6
+[quest_title_1030460500306010] 럭셔리한 선물7
+[quest_title_1030460500307010] 럭셔리한 선물8
+[quest_title_1030460500308010] 럭셔리한 선물9
+[quest_title_1030451202001010] VS 진심으로 전력을 다하는 라뉴이
 
 ===========
 story_quest_name_zh-TW.lsd
@@ -35494,6 +35974,70 @@ story_quest_name_zh-TW.lsd
 [quest_group_title_10301000000] 哈奇酷俠
 [quest_group_title_10300000000] 麗棗
 [quest_group_title_10303000000] 波琵
+[quest_title_1040000140101011] 與黑連的特別日子　前篇
+[quest_title_1040000140101021] 與黑連的特別日子　後篇
+[quest_title_1030110000600900] 解讀神話者們的自尊
+[quest_title_1030605000601000] 黑連的邀請
+[quest_title_1030605000601010] 白露的挑戰
+[quest_title_1030605000601050] ＶＳ　帕希歐的訓練家
+[quest_title_1030605000601020] 需要的強大
+[quest_title_1030605000601060] ＶＳ　帕希歐的訓練家２
+[quest_title_1030605000601030] 兩人各自的決斷
+[quest_title_1030605000601070] ＶＳ　帕希歐的訓練家３
+[quest_title_1030605000601040] 所謂的強大……
+[quest_title_1030605000601080] ＶＳ　帕希歐的訓練家４
+[quest_title_1030605000601090] １天僅限１次的高難度對戰！
+[quest_title_1030605000601100] 用挑戰對戰決勝負！
+[quest_title_1030605000601110] 用挑戰對戰決勝負！２
+[quest_title_1030220014900000] 某日的黑連
+[quest_title_1030220102900000] 某日的白露
+[quest_title_1030605000605000] 挑戰強敵！　ＶＳ　鬥子
+[quest_title_1030605000605010] 挑戰強敵！　ＶＳ　鬥子２
+[quest_title_1030605000605020] 挑戰強敵！　ＶＳ　鬥也
+[quest_title_1030605000605030] 挑戰強敵！　ＶＳ　鬥也２
+[quest_title_1030605000604000] 歡迎來到冠軍房間！
+[quest_title_1030605000604010] 挑戰！　冠軍黑連
+[quest_title_1030605000604020] 挑戰！　冠軍黑連２
+[quest_title_1030605000604030] 挑戰！　冠軍白露
+[quest_title_1030605000604040] 挑戰！　冠軍白露２
+[quest_title_1030460500101010] ＶＳ　黑連
+[quest_title_1030605000602000] 向資深訓練家們宣布！
+[quest_title_1030605000602010] 普通就很好
+[quest_title_1030605000602050] ＶＳ　帕希歐的訓練家
+[quest_title_1030605000602020] 烈焰不熄的男子漢！
+[quest_title_1030605000602060] ＶＳ　帕希歐的訓練家２
+[quest_title_1030605000602030] 價值觀的差異
+[quest_title_1030605000602070] ＶＳ　帕希歐的訓練家３
+[quest_title_1030605000602040] 把工作給解決了吧
+[quest_title_1030605000602080] ＶＳ　帕希歐的訓練家４
+[quest_title_1030605000602090] １天僅限１次的高難度對戰！
+[quest_title_1030605000602100] 用挑戰對戰決勝負！
+[quest_title_1030605000602110] 用挑戰對戰決勝負！２
+[quest_title_1030220304000000] 某日的青木
+[quest_title_1030220252000000] 某日的卡蕪
+[quest_title_1030605000603000] 源源不絕的創意
+[quest_title_1030605000603020] ＶＳ　帕希歐的訓練家
+[quest_title_1030605000603030] ＶＳ　帕希歐的訓練家２
+[quest_title_1030605000603040] ＶＳ　帕希歐的訓練家３
+[quest_title_1030605000603050] ＶＳ　帕希歐的訓練家４
+[quest_title_1030605000603060] １天僅限１次的高難度對戰！
+[quest_title_1030605000603010] 不完美的東西……？
+[quest_group_title_10014900000] 黑連
+（冠軍）
+[quest_group_title_10102900000] 白露
+（冠軍）
+[quest_group_title_10304000000] 青木
+[quest_group_title_10252000000] 卡蕪
+[quest_title_1030460500300010] 豪華贈禮
+[quest_title_1030460500301010] 豪華贈禮２
+[quest_title_1030460500302010] 豪華贈禮３
+[quest_title_1030460500303010] 豪華贈禮４
+[quest_title_1030460500304010] 豪華贈禮５
+[quest_title_1030460500305010] 豪華贈禮６
+[quest_title_1030460500306010] 豪華贈禮７
+[quest_title_1030460500307010] 豪華贈禮８
+[quest_title_1030460500308010] 豪華贈禮９
+[quest_title_1030451202001010] ＶＳ　火力全開的夜妮
 
 ===========
 trainer_description_de.lsd
@@ -36867,6 +37411,24 @@ dabei das volle Vertrauen seiner Untergebenen.
 [10121000001] Als Vorstand von Team Skull nimmt sie die Rolle einer
 großen Schwester ein. Wer ihre Leute schikaniert, 
 bekommt es mit ihr zu tun.
+[10014900000] Cheren trägt ein Outfit, das seinem neu gewonnenen Titel
+als Passios Neo-Champ würdig ist. Er sinniert gemeinsam
+mit Boreos über die Bedeutung von wahrer Stärke.
+[10102900000] Bell trägt ein Outfit, das ihrem neu gewonnenen Titel
+als Passios Neo-Champ würdig ist. Ihr Mitgefühl
+gegenüber anderen hat Viridium zutiefst gerührt.
+[10304000000] Dieser Leiter der Mesclarra-Arena ist gleichzeitig ein
+Mitglied der Top Vier in Paldea. Aufgrund seines vollen
+Terminkalenders sind ihm die Mahlzeiten während seiner
+Pausen besonders wichtig.
+[10252000000] Kabu ist ein Pokémon-Trainer vom Typ Feuer, der aus der
+Hoenn-Region nach Galar eingeladen wurde. Er hat sich
+eine Zeit lang schwer getan und nicht den gewünschten
+Erfolg gehabt, weswegen er sogar in die Unterliga des
+Champ-Cups von Galar abgestiegen ist.
+[10014010001] Ein talentierter Trainer, der in Einall zugleich als Lehrer
+und Arenaleiter tätig ist. Seinen Mangel an Erfahrung
+macht er durch Fleiß wett.
 
 ===========
 trainer_description_en.lsd
@@ -38082,6 +38644,22 @@ and his kindness has earned their devoted respect.
 [10121000001] This Team Skull Admin controls the rest of the team and
 is seen as something of a big sister type. She looks after
 the Grunts and won’t forgive anyone who bullies them.
+[10014900000] Cheren is dressed in an outfit honoring his earned title:
+Neo Champion of Pasio. He and Tornadus continue to
+ponder the meaning of strength together.
+[10102900000] Bianca is dressed in an outfit honoring her earned title:
+Neo Champion of Pasio. Her compassion for others
+touched Virizion’s heart.
+[10304000000] This Medali Gym Leader is also a member of the Paldea
+region’s Elite Four. He is particular about the meals he
+has during breaks in his busy work schedule.
+[10252000000] This Fire-type Gym Leader was invited from Hoenn to
+Galar. There was a time when he didn’t achieve the
+results he wanted and dropped to the minor division in
+the Galar League.
+[10014010001] A talented Trainer who is both a Gym Leader and a
+teacher in the Unova region, he is committed to fulfilling
+both roles well—even though he’s just starting out.
 
 ===========
 trainer_description_es.lsd
@@ -39499,6 +40077,24 @@ ha permitido granjearse el respeto de sus subordinados.
 siempre los defiende cuando alguien los deja a la altura
 del betún, por lo que es como una hermana mayor para
 ellos.
+[10014900000] Cheren se viste con un traje digno de su recién adquirido
+título de Neocampeón de Passio. Junto a su compi,
+Tornadus, sigue reflexionando sobre lo que significa ser
+fuerte.
+[10102900000] Bel vuelve vestida con un traje que hace honor a su
+recién adquirido título de Neocampeona de Passio. La
+solidaridad que profesa hacia los demás ha logrado
+conmover el corazón de Virizion.
+[10304000000] Líder de Gimnasio de Pueblo Mestura y miembro del
+Alto Mando de Paldea. Es muy particular a la hora de
+escoger lo que come durante los descansos del mediodía.
+[10252000000] Este Líder de Gimnasio de tipo Fuego es originario de
+Hoenn y acudió a Galar como invitado. Pasó por una
+época en la que sus esfuerzos no daban frutos y terminó
+descendiendo a segunda división.
+[10014010001] Talentoso Líder de Gimnasio y profesor de la región
+de Teselia. Se esfuerza como nadie para dar lo mejor
+de sí en ambos roles.
 
 ===========
 trainer_description_fr.lsd
@@ -40877,6 +41473,23 @@ de s'en faire aimer.
 Apocyne est considérée par ses Sbires comme étant
 une véritable grande sœur. Elle leur est particulièrement
 attachée et ne permet à personne de s'attaquer à eux.
+[10014900000] Tcheren est vêtu d'une tenue spéciale en l'honneur
+de son titre bien mérité de Néo-Maître de Passio.
+Aux côtés de Boréas, il continue de réfléchir
+à ce que cela veut vraiment dire d'être fort.
+[10102900000] Bianca est vêtue d'une tenue spéciale en l'honneur
+de son titre bien mérité de Néo-Maître de Passio.
+Sa compassion envers les autres a su toucher Viridium.
+[10304000000] Ce Champion d'Arène de Mezclamora assure également
+une permanence au Conseil 4 de Paldea. Il choisit
+avec soin les repas qu'il déguste lors de pauses
+dans son emploi du temps chargé.
+[10252000000] Ce Champion d'Arène de type Feu a déménagé à Galar
+depuis Hoenn. Il a traversé une période difficile
+où il s'est retrouvé relégué en deuxième division
+de la Ligue de Galar.
+[10014010001] À la fois Champion et enseignant à Unys, il fait tout
+pour être à la hauteur de ces deux rôles.
 
 ===========
 trainer_description_it.lsd
@@ -42207,6 +42820,23 @@ che lo ricambiano con una fiducia incondizionata.
 [10121000001] Ufficiale del Team Skull vista dal gruppo come una
 sorta di sorella maggiore. Coccola le Reclute e non
 sopporta che i suoi subalterni vengano maltrattati.
+[10014900000] Komor indossa un abito che celebra il suo meritato titolo:
+Nuovo Campione di Pasio. Insieme a Tornadus continua
+a interrogarsi sul significato della parola "forza".
+[10102900000] Belle indossa un abito che celebra il suo meritato titolo:
+Nuova Campionessa di Pasio. La sua empatia ha toccato
+il cuore di Virizion.
+[10304000000] Il Capopalestra di Mesturia, nonché un membro
+dei Superquattro di Paldea. È molto esigente riguardo
+ai pasti che riesce a inserire nelle sue pienissime
+giornate lavorative.
+[10252000000] Capopalestra esperto del tipo Fuoco originario di Hoenn.
+Per un periodo non ha ottenuto i risultati sperati e
+ha subito una temporanea retrocessione alla divisione
+minore della Lega di Galar.
+[10014010001] A Unima tutti conoscono le sue doti come Capopalestra
+e maestro della Scuola per Allenatori.
+Ha poca esperienza, ma s'impegna al massimo.
 
 ===========
 trainer_description_ja.lsd
@@ -43402,6 +44032,21 @@ trainer_description_ja.lsd
 [10121000001] スカル団の幹部で　団を束ねる　アネゴ的存在。
 したっぱたちを　かわいがっていて
 部下が　いじめられるのは　我慢ならない。
+[10014900000] パシオの　ネオ・チャンピオンとして　認められ
+名誉ある衣装に　身を包んだ　チェレン。
+トルネロスと共に　強さの意味を　考え続ける。
+[10102900000] パシオの　ネオ・チャンピオンとして　認められ
+名誉ある衣装に　身を包んだ　ベル。
+他者を想う優しさが　ビリジオンの心を　動かした。
+[10304000000] パルデア地方　チャンプルジムの　ジムリーダー。
+パルデアリーグの　四天王も　兼任しており
+激務の合間の　食事には　こだわりを　持っている。
+[10252000000] ガラル地方　ほのおタイプの　ジムリーダー。
+スカウトされ　ホウエン地方から　活躍の場を移した。
+いい結果をだせず　マイナー落ちした　過去もある。
+[10014010001] イッシュ地方で　ジムリーダーと　教師を　務める
+実力派の　トレーナー。　まだまだ　駆け出し　だが
+どちらの　務めも　こなせるよう　努力している。
 
 ===========
 trainer_description_ko.lsd
@@ -44596,6 +45241,21 @@ WPM 운영위원회의 대표도 맡고 있다.
 [10121000001] 스컬단의 간부이며 스컬단을 통솔하는 여두목 같은 존재.
 조무래기 단원들을 귀여워하고 있는 듯하며
 조무래기들이 당하는 것은 참을 수 없다고 한다.
+[10014900000] 파시오의 네오 챔피언으로 인정받아
+명예로운 의상을 입은 체렌.
+토네로스와 함께 강함의 의미에 대해 계속 고민한다.
+[10102900000] 파시오의 네오 챔피언으로 인정받아
+명예로운 의상을 입은 벨.
+남을 배려하는 다정함이 비리디온의 마음을 움직였다.
+[10304000000] 팔데아지방 참푸르체육관의 체육관 관장.
+팔데아지방 포켓몬리그의 사천왕도 겸임하고 있으며
+바쁜 일정 사이에 먹는 식사를 중요하게 여긴다.
+[10252000000] 가라르지방의 불꽃타입 체육관 관장.
+호연지방에서 초청되어 활동 지역을 옮기게 되었다.
+좋은 결과를 내지 못하고 마이너 클래스 강등을 경험한 적도 있다.
+[10014010001] 하나지방에서 체육관 관장과 교사를 맡고 있는
+실력파 트레이너. 아직 미숙하지만
+두 일 모두 훌륭하게 해내기 위해 노력하고 있다.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -45789,6 +46449,21 @@ trainer_description_zh-TW.lsd
 似乎很會照顧人，深受部下的信賴。
 [10121000001] 是骷髏隊的幹部，也是統領骷髏隊的大姐大。
 很疼愛手下們，無法忍受他們被欺負。
+[10014900000] 受認定成為帕希歐新・冠軍，
+穿上了代表榮譽的服裝的黑連。
+與龍捲雲一起不斷思考著強大的意義。
+[10102900000] 受認定成為帕希歐新・冠軍，
+穿上了代表榮譽的服裝的白露。
+她那為他人著想的溫柔打動了畢力吉翁的心。
+[10304000000] 帕底亞地區的錦匯道館的道館館主，
+同時也兼任帕底亞聯盟的四天王。
+很講究繁重業務空檔的飲食。
+[10252000000] 伽勒爾地區的火屬性的道館館主。
+從豐緣地區被挖角到伽勒爾地區大顯身手。
+也曾因為沒有獲得好成績而被降為二軍。
+[10014010001] 在合眾地區身兼教師與道館館主的
+實力派訓練家。雖然資歷尚淺，但為了
+兩邊都能勝任，正不斷地努力著。
 
 ===========
 trainer_name_de.lsd
@@ -46000,6 +46675,7 @@ trainer_name_de.lsd
 [ch0249] Kate
 [ch0250] Saida
 [ch0251] Nio
+[ch0252] Kabu
 [ch0254] Mac
 [ch0255] Mel
 [ch0256] Nezz
@@ -46067,6 +46743,7 @@ trainer_name_de.lsd
 [ch0301] Super Sandro
 [ch0302] Cay
 [ch0303] Poppy
+[ch0304] Aoki
 
 ===========
 trainer_name_en.lsd
@@ -46278,6 +46955,7 @@ trainer_name_en.lsd
 [ch0249] Nessa
 [ch0250] Bea
 [ch0251] Allister
+[ch0252] Kabu
 [ch0254] Gordie
 [ch0255] Melony
 [ch0256] Piers
@@ -46345,6 +47023,7 @@ trainer_name_en.lsd
 [ch0301] Brycen-Man
 [ch0302] Rika
 [ch0303] Poppy
+[ch0304] Larry
 
 ===========
 trainer_name_es.lsd
@@ -46556,6 +47235,7 @@ trainer_name_es.lsd
 [ch0249] Cathy
 [ch0250] Judith
 [ch0251] Alistair
+[ch0252] Naboru
 [ch0254] Morris
 [ch0255] Mel
 [ch0256] Nerio
@@ -46623,6 +47303,7 @@ trainer_name_es.lsd
 [ch0301] Juncomán
 [ch0302] Cayena
 [ch0303] Pola
+[ch0304] Laureano
 
 ===========
 trainer_name_fr.lsd
@@ -46834,6 +47515,7 @@ trainer_name_fr.lsd
 [ch0249] Donna
 [ch0250] Faïza
 [ch0251] Alistair
+[ch0252] Kabu
 [ch0254] Chaz
 [ch0255] Lona
 [ch0256] Peterson
@@ -46901,6 +47583,7 @@ trainer_name_fr.lsd
 [ch0301] Zhuman
 [ch0302] Cayenn
 [ch0303] Popi
+[ch0304] Okuba
 
 ===========
 trainer_name_it.lsd
@@ -47112,6 +47795,7 @@ trainer_name_it.lsd
 [ch0249] Azzurra
 [ch0250] Fabia
 [ch0251] Onion
+[ch0252] Kabu
 [ch0254] Milo
 [ch0255] Melania
 [ch0256] Ginepro
@@ -47179,6 +47863,7 @@ trainer_name_it.lsd
 [ch0301] Fantasilvestro
 [ch0302] Capsi
 [ch0303] Verina
+[ch0304] Ubaldo
 
 ===========
 trainer_name_ja.lsd
@@ -47390,6 +48075,7 @@ trainer_name_ja.lsd
 [ch0249] ルリナ
 [ch0250] サイトウ
 [ch0251] オニオン
+[ch0252] カブ
 [ch0254] マクワ
 [ch0255] メロン
 [ch0256] ネズ
@@ -47457,6 +48143,7 @@ trainer_name_ja.lsd
 [ch0301] ハチクマン
 [ch0302] チリ
 [ch0303] ポピー
+[ch0304] アオキ
 
 ===========
 trainer_name_ko.lsd
@@ -47668,6 +48355,7 @@ trainer_name_ko.lsd
 [ch0249] 야청
 [ch0250] 채두
 [ch0251] 어니언
+[ch0252] 순무
 [ch0254] 마쿠와
 [ch0255] 멜론
 [ch0256] 두송
@@ -47735,6 +48423,7 @@ trainer_name_ko.lsd
 [ch0301] 담죽맨
 [ch0302] 칠리
 [ch0303] 뽀삐
+[ch0304] 청목
 
 ===========
 trainer_name_zh-TW.lsd
@@ -47946,6 +48635,7 @@ trainer_name_zh-TW.lsd
 [ch0249] 露璃娜
 [ch0250] 彩豆
 [ch0251] 歐尼奧
+[ch0252] 卡蕪
 [ch0254] 瑪瓜
 [ch0255] 美蓉
 [ch0256] 聶梓
@@ -48013,6 +48703,7 @@ trainer_name_zh-TW.lsd
 [ch0301] 哈奇酷俠
 [ch0302] 辛俐
 [ch0303] 波琵
+[ch0304] 青木
 
 ===========
 trainer_verbose_name_de.lsd
@@ -48248,6 +48939,10 @@ trainer_verbose_name_de.lsd
 (Kostüm)
 [10021800001] Blau 
 (Kanto)
+[10014900000] Cheren 
+(Neo-Champ)
+[10102900000] Bell 
+(Neo-Champ)
 
 ===========
 trainer_verbose_name_en.lsd
@@ -48494,6 +49189,10 @@ Gladion
 (Special Costume)
 [10021800001] Blue 
 (Classic)
+[10014900000] Cheren 
+(Champion)
+[10102900000] Bianca 
+(Champion)
 
 ===========
 trainer_verbose_name_es.lsd
@@ -48702,6 +49401,10 @@ con Kimono)
 [10099400000] Israel (Especial)
 [10123400000] Selene (Especial)
 [10021800001] Azul (Kanto)
+[10014900000] Cheren 
+(Neocampeón)
+[10102900000] Bel 
+(Neocampeona)
 
 ===========
 trainer_verbose_name_fr.lsd
@@ -48929,6 +49632,10 @@ trainer_verbose_name_fr.lsd
 [10099400000] René (Spécial)
 [10123400000] Selene (Spécial)
 [10021800001] Blue (Classique)
+[10014900000] Tcheren 
+(Néo-Maître)
+[10102900000] Bianca 
+(Néo-Maître)
 
 ===========
 trainer_verbose_name_it.lsd
@@ -49165,6 +49872,10 @@ trainer_verbose_name_it.lsd
 (speciale)
 [10021800001] Blu 
 (classico)
+[10014900000] Komor 
+(Campione)
+[10102900000] Belle 
+(Campionessa)
 
 ===========
 trainer_verbose_name_ja.lsd
@@ -49401,6 +50112,10 @@ trainer_verbose_name_ja.lsd
 （スペシャル）
 [10021800001] グリーン
 （アナザー）
+[10014900000] チェレン
+（チャンピオン）
+[10102900000] ベル
+（チャンピオン）
 
 ===========
 trainer_verbose_name_ko.lsd
@@ -49637,6 +50352,10 @@ trainer_verbose_name_ko.lsd
 (스페셜)
 [10021800001] 그린
 (어나더)
+[10014900000] 체렌
+(챔피언)
+[10102900000] 벨
+(챔피언)
 
 ===========
 trainer_verbose_name_zh-TW.lsd
@@ -49873,6 +50592,10 @@ trainer_verbose_name_zh-TW.lsd
 （英雄）
 [10021800001] 青綠
 （關都）
+[10014900000] 黑連
+（冠軍）
+[10102900000] 白露
+（冠軍）
 
 ===========
 common_widget_de.lsd
@@ -50167,6 +50890,8 @@ eingetauscht.
 [common_widget/dialog_136] Hinweis: Münzen, die du durch den automatischen
 Tausch erhalten hast, werden im Lager deiner
 Geschenkbox abgelegt.
+[common_widget/dialog_138] “[Name:EventName ]”
+[Name:Item ]
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -50990,6 +51715,8 @@ for the next battle.
 have been automatically exchanged.
 [common_widget/dialog_136] Note: Coins obtained from auto-exchange will be
 stored in the Temp Storage section of your Present Box.
+[common_widget/dialog_138] [Name:EventName ]
+[Name:Item ]
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -51790,6 +52517,8 @@ activos en el próximo combate.
 y se han canjeado automáticamente.
 [common_widget/dialog_136] Aviso: Las monedas obtenidas de canjes automáticos se
 guardarán en la sección Reserva de la caja de regalos.
+[common_widget/dialog_138] [Name:Item ]
+([Name:EventName ])
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Nv.
 [common_widget/trainer_detail_004] MÁX.
@@ -52619,6 +53348,8 @@ la date d'expiration, et ont donc
 [common_widget/dialog_136] Remarque : les Pièces obtenues avec l'échange
 automatique seront mises en attente dans
 le menu « Cadeaux ».
+[common_widget/dialog_138] [Name:Item ]
+([Name:EventName ])
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] N.
 [common_widget/trainer_detail_004] MAX
@@ -53445,6 +54176,8 @@ nella prossima lotta.
 e sono stati scambiati automaticamente.
 [common_widget/dialog_136] Le monete ottenute tramite lo scambio automatico
 saranno inviate alla sezione "In attesa" dei Regali.
+[common_widget/dialog_138] [Name:Item ]
+([Name:EventName ])
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] L.
 [common_widget/trainer_detail_004] MAX
@@ -54254,6 +54987,8 @@ WPM編　第７章を
 [common_widget/dialog_136] ※自動売却で変換されたコインは
 プレゼントボックスの「一時保管」に
 保管されます
+[common_widget/dialog_138] 「[Name:EventName ]」
+[Name:Item ]
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -55074,6 +55809,8 @@ WPM 편 제7장을
 아래의 도구가 자동판매되었습니다
 [common_widget/dialog_136] ※자동판매로 변환된 코인은
 프레젠트박스의 "임시보관"에 보관됩니다
+[common_widget/dialog_138] "[Name:EventName ]"
+[Name:Item ]
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -55872,6 +56609,8 @@ WPM篇的第７章
 下列道具已自動出售
 [common_widget/dialog_136] ※因自動出售而轉換成的金幣
 會被送到禮物箱的「暫時保管」
+[common_widget/dialog_138] 「[Name:EventName ]」
+[Name:Item ]
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX

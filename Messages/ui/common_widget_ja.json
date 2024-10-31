@@ -191,6 +191,7 @@
     "common_widget/dialog_134": "※このどうぐは次のバトルでのみ効果を発揮します",
     "common_widget/dialog_135": "期限切れのため\n以下のどうぐが自動売却されました",
     "common_widget/dialog_136": "※自動売却で変換されたコインは\nプレゼントボックスの「一時保管」に\n保管されます",
+    "common_widget/dialog_138": "「[Name:EventName ]」\n[Name:Item ]",
     "common_widget/trainer_detail_001": "[Name:TrainerName ]",
     "common_widget/trainer_detail_002": "Lv.",
     "common_widget/trainer_detail_004": "MAX",
