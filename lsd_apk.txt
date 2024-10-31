@@ -2218,8 +2218,65 @@ Team Break
 [quest_title_1030110000280900] Alles für ein perfektes
 Halbfinale! 
 [quest_title_1030110000281000] Ein Ziel für die Zukunft
+[quest_group_title_10257000000] Roy
+[quest_group_title_10195000000] G-Cis
+[quest_title_1030304000603010] Siegeshungrig
+[quest_title_1030304000603020] Duraludons Rivale
+[quest_title_1030304000603030] Kampfinstinkt
+[quest_title_1030304000603040] Der Tag wird kommen...!
+[quest_title_1030220257000000] Ein Tag mit Roy
+[quest_title_1030304001001000] Ein Besuch von G-Cis
+[quest_title_1030304001001010] Abkehr von alten Ambitionen
+[quest_title_1030304001001020] Ein Herz voll Menschlichkeit
+[quest_title_1030304001001030] G-Cis’ wahre Intentionen
+[quest_title_1030304001001040] Seite an Seite
+[quest_title_1030304001001050] Und trotzdem...
+[quest_title_1030304001010050] Vs. G-Cis
+[quest_group_title_10249000000] Kate
+[quest_group_title_10250000000] Saida
+[quest_title_1030304000602070] Herausforderungskampf 1
+[quest_title_1030304000602080] Herausforderungskampf 2
+[quest_title_1030304000602020] Worin Stärke liegt
+[quest_title_1030430400101010] Angreifer-Intensivkurs 5
+[quest_title_1030430400102010] Taktiker-Intensivkurs 5
+[quest_title_1030430400103010] Helfer-Intensivkurs 5
+[quest_title_1030430400201010] Normal-, Pflanzen- und
+Unlicht-Intensivkurs 2
+[quest_title_1030430400202010] Gift-, Feen- und
+Käfer-Intensivkurs 2
+[quest_title_1030430400203010] Stahl-, Psycho- und
+Gesteins-Intensivkurs 2
+[quest_title_1030430400204010] Elektro-, Eis- und
+Boden-Intensivkurs 2
+[quest_title_1030430400205010] Flug-, Geister- und
+Wasser-Intensivkurs 2
+[quest_title_1030430400206010] Drachen-, Feuer- und
+Kampf-Intensivkurs 2
+[quest_title_1030304000601120] Vs. Sandra
+[quest_title_1030304000601130] Vs. Sandra 2
+[quest_title_1030304000601140] Vs. Sandra 3
+[quest_title_1030304000601150] Vs. Sandra 4
+[quest_title_1030304000602010] Wasser- und Kampfexperten
+[quest_title_1030220249000000] Ein Tag mit Kate
+[quest_title_1030220250000000] Ein Tag mit Saida
+[quest_title_1030304000604020] Vs. Legendäres Pokémon der
+Erde
+[quest_title_1030304000604030] Vs. Legendäres Pokémon der
+Meere
+[quest_title_1030304000604040] Vs. Legendäres Pokémon der
+Erde 2
+[quest_title_1030304000604050] Vs. Legendäres Pokémon der
+Meere 2
+[quest_title_1030304000604060] Vs. Legendäres Pokémon der
+Erde 3
+[quest_title_1030304000604070] Vs. Legendäres Pokémon der
+Meere 3
 [quest_title_1030110000280400] Vs. Team Break (Überfall) 2
 [quest_title_1030110000280600] Vs. Team Break (Überfall) 3
+[quest_title_1030304001011010] Vs. G-Cis 2
+[quest_title_1030304001011020] Vs. G-Cis 3
+[quest_title_1030304001011030] Vs. G-Cis 4
+[quest_title_1030304001011040] Vs. G-Cis 5
 
 ===========
 story_quest_name_en.lsd
@@ -3702,8 +3759,53 @@ story_quest_name_en.lsd
 [quest_title_1030110000280800] Team Break’s Final Stand
 [quest_title_1030110000280900] A Match to Remember
 [quest_title_1030110000281000] Vengeance vs. Ambition
+[quest_group_title_10257000000] Raihan
+[quest_group_title_10195000000] Ghetsis
+[quest_title_1030304000603010] A Rival to Beat
+[quest_title_1030304000603020] Duraludon’s Rival
+[quest_title_1030304000603030] Hear Me Roar!
+[quest_title_1030304000603040] Someday, Somehow!
+[quest_title_1030220257000000] A Day with Raihan
+[quest_title_1030304001001000] A Visit from Ghetsis
+[quest_title_1030304001001010] The End of an Ambition
+[quest_title_1030304001001020] A Human Heart
+[quest_title_1030304001001030] True Intentions
+[quest_title_1030304001001040] Side by Side
+[quest_title_1030304001001050] And Yet...
+[quest_title_1030304001010050] Challenge Ghetsis: Part 1
+[quest_group_title_10249000000] Nessa
+[quest_group_title_10250000000] Bea
+[quest_title_1030304000602070] Battle Challenge! Round 1
+[quest_title_1030304000602080] Battle Challenge! Round 2
+[quest_title_1030304000602020] What Makes You Strong?
+[quest_title_1030430400101010] Strike Drill 5
+[quest_title_1030430400102010] Tech Drill 5
+[quest_title_1030430400103010] Support Drill 5
+[quest_title_1030430400201010] Normal, Grass, and Dark Drill 2
+[quest_title_1030430400202010] Poison, Fairy, and Bug Drill 2
+[quest_title_1030430400203010] Steel, Psychic, and Rock Drill 2
+[quest_title_1030430400204010] Electric, Ice, and Ground Drill 2
+[quest_title_1030430400205010] Flying, Ghost, and Water Drill 2
+[quest_title_1030430400206010] Dragon, Fire, and Fighting Drill 2
+[quest_title_1030304000601120] Challenge Clair: Part 1
+[quest_title_1030304000601130] Challenge Clair: Part 2
+[quest_title_1030304000601140] Challenge Clair: Part 3
+[quest_title_1030304000601150] Challenge Clair: Part 4
+[quest_title_1030304000602010] Experts of Water and Fighting
+[quest_title_1030220249000000] A Day with Nessa
+[quest_title_1030220250000000] A Day with Bea
+[quest_title_1030304000604020] Defeat the Legend of the Land! Part 1
+[quest_title_1030304000604030] Defeat the Legend of the Sea! Part 1
+[quest_title_1030304000604040] Defeat the Legend of the Land! Part 2
+[quest_title_1030304000604050] Defeat the Legend of the Sea! Part 2
+[quest_title_1030304000604060] Defeat the Legend of the Land! Part 3
+[quest_title_1030304000604070] Defeat the Legend of the Sea! Part 3
 [quest_title_1030110000280400] Team Break Ambush! Part 2
 [quest_title_1030110000280600] Team Break Ambush! Part 3
+[quest_title_1030304001011010] Challenge Ghetsis: Part 2
+[quest_title_1030304001011020] Challenge Ghetsis: Part 3
+[quest_title_1030304001011030] Challenge Ghetsis: Part 4
+[quest_title_1030304001011040] Challenge Ghetsis: Part 5
 
 ===========
 story_quest_name_es.lsd
@@ -5248,8 +5350,60 @@ del Team Break
 [quest_title_1030110000280900] La semifinal más esperada
 [quest_title_1030110000281000] Una despedida del pasado,
 un mensaje hacia el futuro
+[quest_group_title_10257000000] Roy
+[quest_group_title_10195000000] Ghechis
+[quest_title_1030304000603010] ¡A por la victoria!
+[quest_title_1030304000603020] El rival de Duraludon
+[quest_title_1030304000603030] Instinto natural
+[quest_title_1030304000603040] ¡Ese día llegará!
+[quest_title_1030220257000000] Un día con Roy
+[quest_title_1030304001001000] La visita de Ghechis
+[quest_title_1030304001001010] Viejas ambiciones
+[quest_title_1030304001001020] Un corazón humano
+[quest_title_1030304001001030] Las verdaderas intenciones
+de Ghechis
+[quest_title_1030304001001040] Codo con codo
+[quest_title_1030304001001050] Quizás...
+[quest_title_1030304001010050] VS. Ghechis
+[quest_group_title_10249000000] Cathy
+[quest_group_title_10250000000] Judith
+[quest_title_1030304000602070] ¡Un combate desafiante!
+[quest_title_1030304000602080] ¡Un combate desafiante! (2)
+[quest_title_1030304000602020] El origen de nuestra fuerza
+[quest_title_1030430400101010] Entrenamiento de Ataque 5
+[quest_title_1030430400102010] Entrenamiento de Sabotaje 5
+[quest_title_1030430400103010] Entrenamiento de Apoyo 5
+[quest_title_1030430400201010] Entren. Normal, Planta
+y Siniestro 2
+[quest_title_1030430400202010] Entren. Veneno, Hada
+y Bicho 2
+[quest_title_1030430400203010] Entren. Acero, Psíquico
+y Roca 2
+[quest_title_1030430400204010] Entren. Eléctrico, Hielo
+y Tierra 2
+[quest_title_1030430400205010] Entren. Volador, Fantasma
+y Agua 2
+[quest_title_1030430400206010] Entren. Dragón, Fuego
+y Lucha 2
+[quest_title_1030304000601120] VS. Débora
+[quest_title_1030304000601130] VS. Débora (2)
+[quest_title_1030304000601140] VS. Débora (3)
+[quest_title_1030304000601150] VS. Débora (4)
+[quest_title_1030304000602010] Las expertas en Agua y Lucha
+[quest_title_1030220249000000] Un día con Cathy
+[quest_title_1030220250000000] Un día con Judith
+[quest_title_1030304000604020] ¡Derrota al Pokémon legendario de la tierra!
+[quest_title_1030304000604030] ¡Derrota al Pokémon legendario del mar!
+[quest_title_1030304000604040] ¡Derrota al Pokémon legendario de la tierra! (2)
+[quest_title_1030304000604050] ¡Derrota al Pokémon legendario del mar! (2)
+[quest_title_1030304000604060] ¡Derrota al Pokémon legendario de la tierra! (3)
+[quest_title_1030304000604070] ¡Derrota al Pokémon legendario del mar! (3)
 [quest_title_1030110000280400] VS. Ataque sorpresa del Team Break (2)
 [quest_title_1030110000280600] VS. Ataque sorpresa del Team Break (3)
+[quest_title_1030304001011010] VS. Ghechis (2)
+[quest_title_1030304001011020] VS. Ghechis (3)
+[quest_title_1030304001011030] VS. Ghechis (4)
+[quest_title_1030304001011040] VS. Ghechis (5)
 
 ===========
 story_quest_name_fr.lsd
@@ -6868,10 +7022,70 @@ de la Team Break
 membres de la Team Break
 [quest_title_1030110000280900] Pour une demi-finale épique
 [quest_title_1030110000281000] Aller de l'avant
+[quest_group_title_10257000000] Roy
+[quest_group_title_10195000000] Ghetis
+[quest_title_1030304000603010] La victoire à tout prix
+[quest_title_1030304000603020] Le rival de Duralugon
+[quest_title_1030304000603030] Instinct de combat
+[quest_title_1030304000603040] Ce jour viendra... !
+[quest_title_1030220257000000] Une journée avec Roy
+[quest_title_1030304001001000] Retrouvailles avec Ghetis
+[quest_title_1030304001001010] La fin des ambitions
+maléfiques
+[quest_title_1030304001001020] Un cœur empli d’humanité
+[quest_title_1030304001001030] Les véritables intentions
+de Ghetis
+[quest_title_1030304001001040] Côte à côte
+[quest_title_1030304001001050] Et pourtant... malgré tout... !
+[quest_title_1030304001010050] Combat : Ghetis
+[quest_group_title_10249000000] Donna
+[quest_group_title_10250000000] Faïza
+[quest_title_1030304000602070] Combat difficile
+[quest_title_1030304000602080] Combat difficile II
+[quest_title_1030304000602020] L'origine de notre force
+[quest_title_1030430400101010] Exercice Attaquant V
+[quest_title_1030430400102010] Exercice Tacticien V
+[quest_title_1030430400103010] Exercice Soutien V
+[quest_title_1030430400201010] Exercice Normal, Plante et
+Ténèbres II
+[quest_title_1030430400202010] Exercice Poison, Fée et
+Insecte II
+[quest_title_1030430400203010] Exercice Acier, Psy et
+Roche II
+[quest_title_1030430400204010] Exercice Électrik, Glace et
+Sol II
+[quest_title_1030430400205010] Exercice Vol, Spectre et
+Eau II
+[quest_title_1030430400206010] Exercice Dragon, Feu et
+Combat II
+[quest_title_1030304000601120] Combat : Sandra
+[quest_title_1030304000601130] Combat : Sandra II
+[quest_title_1030304000601140] Combat : Sandra III
+[quest_title_1030304000601150] Combat : Sandra IV
+[quest_title_1030304000602010] Expertes en types Eau
+et Combat
+[quest_title_1030220249000000] Une journée avec Donna
+[quest_title_1030220250000000] Une journée avec Faïza
+[quest_title_1030304000604020] Triomphez du Pokémon
+légendaire des continents !
+[quest_title_1030304000604030] Triomphez du Pokémon
+légendaire des océans !
+[quest_title_1030304000604040] Triomphez du Pokémon
+légendaire des continents ! II
+[quest_title_1030304000604050] Triomphez du Pokémon
+légendaire des océans ! II
+[quest_title_1030304000604060] Triomphez du Pokémon
+légendaire des continents ! III
+[quest_title_1030304000604070] Triomphez du Pokémon
+légendaire des océans ! III
 [quest_title_1030110000280400] Combat : L'attaque surprise
 de la Team Break II
 [quest_title_1030110000280600] Combat : L'attaque surprise
 de la Team Break III
+[quest_title_1030304001011010] Combat : Ghetis II
+[quest_title_1030304001011020] Combat : Ghetis III
+[quest_title_1030304001011030] Combat : Ghetis IV
+[quest_title_1030304001011040] Combat : Ghetis V
 
 ===========
 story_quest_name_it.lsd
@@ -8339,8 +8553,53 @@ story_quest_name_it.lsd
 [quest_title_1030110000280800] VS ultimi membri del Team Break
 [quest_title_1030110000280900] Un incontro perfetto
 [quest_title_1030110000281000] Un addio al passato con una promessa
+[quest_group_title_10257000000] Laburno
+[quest_group_title_10195000000] Ghecis
+[quest_title_1030304000603010] Un avversario da battere
+[quest_title_1030304000603020] Il rivale di Duraludon
+[quest_title_1030304000603030] Il ruggito dell'istinto
+[quest_title_1030304000603040] Sempre un passo avanti
+[quest_title_1030220257000000] Un giorno con Laburno
+[quest_title_1030304001001000] L'arrivo di Ghecis
+[quest_title_1030304001001010] La fine delle ambizioni
+[quest_title_1030304001001020] Il cuore delle persone
+[quest_title_1030304001001030] Le reali intenzioni di Ghecis
+[quest_title_1030304001001040] Fianco a fianco
+[quest_title_1030304001001050] Sarebbe stato bello...
+[quest_title_1030304001010050] VS Ghecis
+[quest_group_title_10249000000] Azzurra
+[quest_group_title_10250000000] Fabia
+[quest_title_1030304000602070] Sfida ad alta difficoltà
+[quest_title_1030304000602080] Sfida ad alta difficoltà 2
+[quest_title_1030304000602020] Cosa ci rende più forti
+[quest_title_1030430400101010] Allenamento Attaccanti 5
+[quest_title_1030430400102010] Allenamento Tecnici 5
+[quest_title_1030430400103010] Allenamento Aiutanti 5
+[quest_title_1030430400201010] Allenamento Normale, Erba e Buio 2
+[quest_title_1030430400202010] Allenamento Veleno, Folletto e Coleottero 2
+[quest_title_1030430400203010] Allenamento Acciaio, Psico e Roccia 2
+[quest_title_1030430400204010] Allenamento Elettro, Ghiaccio e Terra 2
+[quest_title_1030430400205010] Allenamento Volante, Spettro e Acqua 2
+[quest_title_1030430400206010] Allenamento Drago, Fuoco e Lotta 2
+[quest_title_1030304000601120] VS Sandra
+[quest_title_1030304000601130] VS Sandra 2
+[quest_title_1030304000601140] VS Sandra 3
+[quest_title_1030304000601150] VS Sandra 4
+[quest_title_1030304000602010] Due esperte dei tipi Acqua e Lotta
+[quest_title_1030220249000000] Un giorno con Azzurra
+[quest_title_1030220250000000] Un giorno con Fabia
+[quest_title_1030304000604020] Sconfiggi il leggendario Pokémon Continente!
+[quest_title_1030304000604030] Sconfiggi il leggendario Pokémon Oceano!
+[quest_title_1030304000604040] Sconfiggi il leggendario Pokémon Continente! 2
+[quest_title_1030304000604050] Sconfiggi il leggendario Pokémon Oceano! 2
+[quest_title_1030304000604060] Sconfiggi il leggendario Pokémon Continente! 3
+[quest_title_1030304000604070] Sconfiggi il leggendario Pokémon Oceano! 3
 [quest_title_1030110000280400] VS Team Break a sorpresa 2
 [quest_title_1030110000280600] VS Team Break a sorpresa 3
+[quest_title_1030304001011010] VS Ghecis 2
+[quest_title_1030304001011020] VS Ghecis 3
+[quest_title_1030304001011030] VS Ghecis 4
+[quest_title_1030304001011040] VS Ghecis 5
 
 ===========
 story_quest_name_ja.lsd
@@ -9824,8 +10083,53 @@ story_quest_name_ja.lsd
 [quest_title_1030110000280800] ＶＳ　最後のブレイク団
 [quest_title_1030110000280900] 最高の準決勝のために
 [quest_title_1030110000281000] 過去への決別と未来への宣言
+[quest_group_title_10257000000] キバナ
+[quest_group_title_10195000000] ゲーチス
+[quest_title_1030304000603010] 勝ちたいアイツ
+[quest_title_1030304000603020] ジュラルドンのライバル
+[quest_title_1030304000603030] 本能よ　ほえろ！
+[quest_title_1030304000603040] いつか必ず……！
+[quest_title_1030220257000000] とある日のキバナ
+[quest_title_1030304001001000] ゲーチスの来訪
+[quest_title_1030304001001010] 野望の果てに
+[quest_title_1030304001001020] 人の心
+[quest_title_1030304001001030] ゲーチスの真意
+[quest_title_1030304001001040] 並び立つ者
+[quest_title_1030304001001050] それでも……
+[quest_title_1030304001010050] ＶＳ　ゲーチス
+[quest_group_title_10249000000] ルリナ
+[quest_group_title_10250000000] サイトウ
+[quest_title_1030304000602070] チャレンジバトルで勝負！
+[quest_title_1030304000602080] チャレンジバトルで勝負！２
+[quest_title_1030304000602020] 強さの理由は……？
+[quest_title_1030430400101010] アタッカーの鍛錬５
+[quest_title_1030430400102010] テクニカルの鍛錬５
+[quest_title_1030430400103010] サポートの鍛錬５
+[quest_title_1030430400201010] ノーマル＆くさ＆あくの鍛錬２
+[quest_title_1030430400202010] どく＆フェアリー＆むしの鍛錬２
+[quest_title_1030430400203010] はがね＆エスパー＆いわの鍛錬２
+[quest_title_1030430400204010] でんき＆こおり＆じめんの鍛錬２
+[quest_title_1030430400205010] ひこう＆ゴースト＆みずの鍛錬２
+[quest_title_1030430400206010] ドラゴン＆ほのお＆かくとうの鍛錬２
+[quest_title_1030304000601120] ＶＳ　イブキ
+[quest_title_1030304000601130] ＶＳ　イブキ２
+[quest_title_1030304000601140] ＶＳ　イブキ３
+[quest_title_1030304000601150] ＶＳ　イブキ４
+[quest_title_1030304000602010] みずと　かくとうの　専門家たち
+[quest_title_1030220249000000] とある日のルリナ
+[quest_title_1030220250000000] とある日のサイトウ
+[quest_title_1030304000604020] 大地の伝説ポケモンを倒せ！
+[quest_title_1030304000604030] 海の伝説ポケモンを倒せ！
+[quest_title_1030304000604040] 大地の伝説ポケモンを倒せ！２
+[quest_title_1030304000604050] 海の伝説ポケモンを倒せ！２
+[quest_title_1030304000604060] 大地の伝説ポケモンを倒せ！３
+[quest_title_1030304000604070] 海の伝説ポケモンを倒せ！３
 [quest_title_1030110000280400] ＶＳ　奇襲するブレイク団２
 [quest_title_1030110000280600] ＶＳ　奇襲するブレイク団３
+[quest_title_1030304001011010] ＶＳ　ゲーチス２
+[quest_title_1030304001011020] ＶＳ　ゲーチス３
+[quest_title_1030304001011030] ＶＳ　ゲーチス４
+[quest_title_1030304001011040] ＶＳ　ゲーチス５
 
 ===========
 story_quest_name_ko.lsd
@@ -11308,8 +11612,53 @@ story_quest_name_ko.lsd
 [quest_title_1030110000280800] VS 마지막 브레이크단
 [quest_title_1030110000280900] 최고의 준결승을 위해
 [quest_title_1030110000281000] 과거와의 결별과 미래로의 선언
+[quest_group_title_10257000000] 금랑
+[quest_group_title_10195000000] 게치스
+[quest_title_1030304000603010] 이기고 싶은 그 녀석
+[quest_title_1030304000603020] 두랄루돈의 라이벌
+[quest_title_1030304000603030] 본능이여 울부짖어라!
+[quest_title_1030304000603040] 언젠가 반드시...!
+[quest_title_1030220257000000] 금랑의 어느 날
+[quest_title_1030304001001000] 게치스의 방문
+[quest_title_1030304001001010] 야망의 끝
+[quest_title_1030304001001020] 사람의 마음
+[quest_title_1030304001001030] 게치스의 진의
+[quest_title_1030304001001040] 나란히 서서
+[quest_title_1030304001001050] 그런데도...
+[quest_title_1030304001010050] VS 게치스
+[quest_group_title_10249000000] 야청
+[quest_group_title_10250000000] 채두
+[quest_title_1030304000602070] 챌린지배틀로 승부!
+[quest_title_1030304000602080] 챌린지배틀로 승부!2
+[quest_title_1030304000602020] 강력한 이유는...?
+[quest_title_1030430400101010] 어태커의 단련5
+[quest_title_1030430400102010] 테크니컬의 단련5
+[quest_title_1030430400103010] 서포트의 단련5
+[quest_title_1030430400201010] 노말&풀&악의 단련2
+[quest_title_1030430400202010] 독&페어리&벌레의 단련2
+[quest_title_1030430400203010] 강철&에스퍼&바위의 단련2
+[quest_title_1030430400204010] 전기&얼음&땅의 단련2
+[quest_title_1030430400205010] 비행&고스트&물의 단련2
+[quest_title_1030430400206010] 드래곤&불꽃&격투의 단련2
+[quest_title_1030304000601120] VS 이향
+[quest_title_1030304000601130] VS 이향2
+[quest_title_1030304000601140] VS 이향3
+[quest_title_1030304000601150] VS 이향4
+[quest_title_1030304000602010] 물과 격투의 전문가들
+[quest_title_1030220249000000] 야청의 어느 날
+[quest_title_1030220250000000] 채두의 어느 날
+[quest_title_1030304000604020] 대지의 전설 포켓몬을 쓰러뜨려라!
+[quest_title_1030304000604030] 바다의 전설 포켓몬을 쓰러뜨려라!
+[quest_title_1030304000604040] 대지의 전설 포켓몬을 쓰러뜨려라!2
+[quest_title_1030304000604050] 바다의 전설 포켓몬을 쓰러뜨려라!2
+[quest_title_1030304000604060] 대지의 전설 포켓몬을 쓰러뜨려라!3
+[quest_title_1030304000604070] 바다의 전설 포켓몬을 쓰러뜨려라!3
 [quest_title_1030110000280400] VS 브레이크단의 기습2
 [quest_title_1030110000280600] VS 브레이크단의 기습3
+[quest_title_1030304001011010] VS 게치스2
+[quest_title_1030304001011020] VS 게치스3
+[quest_title_1030304001011030] VS 게치스4
+[quest_title_1030304001011040] VS 게치스5
 
 ===========
 story_quest_name_zh-TW.lsd
@@ -12792,8 +13141,53 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030110000280800] ＶＳ　最後的破壞隊
 [quest_title_1030110000280900] 為了最精彩的準決賽
 [quest_title_1030110000281000] 與過去的道別和對未來的宣言
+[quest_group_title_10257000000] 奇巴納
+[quest_group_title_10195000000] 魁奇思
+[quest_title_1030304000603010] 想贏過的那傢伙
+[quest_title_1030304000603020] 鋁鋼龍的勁敵
+[quest_title_1030304000603030] 吶喊吧……我的本能！
+[quest_title_1030304000603040] 總有一天一定會……！
+[quest_title_1030220257000000] 某日的奇巴納
+[quest_title_1030304001001000] 魁奇思來訪
+[quest_title_1030304001001010] 野心的盡頭
+[quest_title_1030304001001020] 人心
+[quest_title_1030304001001030] 魁奇思真正的目的
+[quest_title_1030304001001040] 並駕齊驅之人
+[quest_title_1030304001001050] 即使如此……
+[quest_title_1030304001010050] ＶＳ　魁奇思
+[quest_group_title_10249000000] 露璃娜
+[quest_group_title_10250000000] 彩豆
+[quest_title_1030304000602070] 用挑戰對戰決勝負！
+[quest_title_1030304000602080] 用挑戰對戰決勝負！２
+[quest_title_1030304000602020] 強大的理由是……？
+[quest_title_1030430400101010] 攻擊型鍛鍊５
+[quest_title_1030430400102010] 技術型鍛鍊５
+[quest_title_1030430400103010] 輔助型鍛鍊５
+[quest_title_1030430400201010] 一般＆草＆惡屬性鍛鍊２
+[quest_title_1030430400202010] 毒＆妖精＆蟲屬性鍛鍊２
+[quest_title_1030430400203010] 鋼＆超能力＆岩石屬性鍛鍊２
+[quest_title_1030430400204010] 電＆冰＆地面屬性鍛鍊２
+[quest_title_1030430400205010] 飛行＆幽靈＆水屬性鍛鍊２
+[quest_title_1030430400206010] 龍＆火＆格鬥屬性鍛鍊２
+[quest_title_1030304000601120] ＶＳ　小椿
+[quest_title_1030304000601130] ＶＳ　小椿２
+[quest_title_1030304000601140] ＶＳ　小椿３
+[quest_title_1030304000601150] ＶＳ　小椿４
+[quest_title_1030304000602010] 水屬性和格鬥屬性的專家們
+[quest_title_1030220249000000] 某日的露璃娜
+[quest_title_1030220250000000] 某日的彩豆
+[quest_title_1030304000604020] 打倒大地的傳說的寶可夢！
+[quest_title_1030304000604030] 打倒海洋的傳說的寶可夢！
+[quest_title_1030304000604040] 打倒大地的傳說的寶可夢！２
+[quest_title_1030304000604050] 打倒海洋的傳說的寶可夢！２
+[quest_title_1030304000604060] 打倒大地的傳說的寶可夢！３
+[quest_title_1030304000604070] 打倒海洋的傳說的寶可夢！３
 [quest_title_1030110000280400] ＶＳ　發動奇襲的破壞隊２
 [quest_title_1030110000280600] ＶＳ　發動奇襲的破壞隊３
+[quest_title_1030304001011010] ＶＳ　魁奇思２
+[quest_title_1030304001011020] ＶＳ　魁奇思３
+[quest_title_1030304001011030] ＶＳ　魁奇思４
+[quest_title_1030304001011040] ＶＳ　魁奇思５
 
 ===========
 trainer_description_de.lsd
@@ -13257,6 +13651,20 @@ Haarband mit den langen, flauschigen Ohren.
 seinem speziellen Outfit, das mit seiner Farbenpracht jedes
 Künstlerherz höherschlagen lässt. Sein Partner Togepi ist
 ebenso künstlerisch begabt wie er.
+[10249000000] Diese Arenaleiterin aus Galar ist ein bekanntes Model.
+Dank ihrer Eltern hat sie ein enges Verhältnis zu Wasser-
+Pokémon. Mit Sania verbindet sie eine gute Freundschaft.
+[10250000000] Diese Trainerin aus der Galar-Region ist ein Wunderkind
+des Galar-Karate und trainiert täglich mit eiserner
+Disziplin. Ihre Schwäche für Süßigkeiten hält sie am
+liebsten geheim.
+[10257000000] Dieser Trainer genießt den Ruf des stärksten Arenaleiters
+der Galar-Region. Sobald der Kampf beginnt, weicht
+seine typische Gelassenheit einem glühenden Siegeswillen.
+[10195000000] Dieser Mann ist der Drahtzieher hinter Team Plasma und
+dessen wahrer Anführer. Er ist eiskalt, berechnend und ein
+Meister der Manipulation. Einst unternahm er den Versuch,
+N zu benutzen, um die Weltherrschaft zu erlangen.
 
 ===========
 trainer_description_en.lsd
@@ -13697,6 +14105,18 @@ finding things. May loves her long, fluffy ears.
 [10170400000] Burgh is dressed up in a special outfit to raise excitement
 for egg hunts along with Togepi, a great artistic partner.
 His colorful outfit is an inspiration for his artistic muse.
+[10249000000] This Gym Leader from Galar is also a popular model. She
+grew up playing with Water-type Pokémon thanks to her
+parents’ influence and is good friends with Sonia.
+[10250000000] This Gym Leader is a karate prodigy from Galar who is
+highly disciplined and trains daily. She also loves sweets,
+but she likes to keep that a secret.
+[10257000000] Said to be the strongest Gym Leader in Galar, this
+Trainer has an easygoing personality that quickly changes
+to a fiery determination to win once he starts to battle.
+[10195000000] The mastermind behind Team Plasma and its true leader.
+He is a cold and calculating master manipulator who once
+tried to use N to take over the world.
 
 ===========
 trainer_description_es.lsd
@@ -14222,6 +14642,21 @@ huevos. Para ello, se ha puesto un traje muy especial y
 viene acompañado por Togepi, un compi con mucho arte.
 El colorido atuendo, además, estimula su creatividad e
 inspiración artística.
+[10249000000] Esta Líder de Gimnasio de Galar también es una conocida
+modelo. Hija de un pescador y de una comerciante, pasó
+toda su infancia rodeada de Pokémon de tipo Agua. Sonia
+es una de sus mejores amigas.
+[10250000000] Esta disciplinada karateka de la región de Galar tiene por
+costumbre entrenar todos los días, sin excepción alguna.
+Tiene cierta debilidad por los dulces, aunque trata de
+mantenerla en secreto.
+[10257000000] Dicen que en Galar no hay otro Líder de Gimnasio tan
+fuerte como él. Tan simpático a primera vista como
+implacable en combate, su carácter se transforma por
+completo cuando pelea por la victoria.
+[10195000000] Este ser cruel y manipulador es el verdadero cerebro que
+se esconde tras el Equipo Plasma. Hace un tiempo intentó
+dominar el mundo utilizando a N como títere.
 
 ===========
 trainer_description_fr.lsd
@@ -14675,6 +15110,17 @@ la chasse aux œufs en compagnie de Togepi, qui, avec
 son enthousiasme pour le dessin, est le partenaire idéal.
 Ses vêtements colorés sont pour lui une source
 d'inspiration artistique.
+[10249000000] Cette Championne de Galar est également un mannequin
+très populaire. Elle a grandi en jouant avec des Pokémon
+de type Eau, influencée par son père, pêcheur,
+et sa mère, commerçante. Elle est amie avec Sonya.
+[10250000000] Stoïque, elle étudie l'art du karaté à Galar avec assiduité.
+Elle a un penchant secret pour les sucreries.
+[10257000000] Le Champion d'Arène le plus puissant de Galar.
+D'ordinaire amical, il est impitoyable en combat.
+[10195000000] L'homme qui dirigeait la Team Plasma dans l'ombre.
+Cruel et manipulateur, il a, par le passé,
+essayé de dominer le monde en se servant de N.
 
 ===========
 trainer_description_it.lsd
@@ -15153,6 +15599,20 @@ le sue orecchie soffici e lunghe.
 della caccia alle uova ed è accompagnato da un partner
 artistico d'eccezione, Togepi. I suoi vestiti colorati sono
 di grande ispirazione per le sue opere.
+[10249000000] Famosa modella e Capopalestra di Galar. Figlia
+di un pescatore e di una commerciante, grazie
+ai suoi genitori è cresciuta a stretto contatto
+con i Pokémon di tipo Acqua. Lei e Sonia sono ottime
+amiche.
+[10250000000] Capopalestra di Galar e prodigio del karate, si allena
+strenuamente ogni giorno con una disciplina ferrea.
+Nasconde a tutti la sua passione per i dolci.
+[10257000000] Considerato da molti il Capopalestra più forte di Galar,
+ha un temperamento gioviale, ma mostra tutta la sua
+determinazione non appena comincia una lotta.
+[10195000000] La mente dietro i piani malvagi del Team Plasma.
+Un crudele manipolatore, ha cercato di dominare il mondo
+manovrando N come un burattino.
 
 ===========
 trainer_description_ja.lsd
@@ -15592,6 +16052,18 @@ trainer_description_ja.lsd
 [10170400000] タマゴハントを　盛りあげる　衣装を着た　アーティ。
 トゲピーは　アートを　描く　大事な　パートナー。
 カラフルな　衣装が　芸術家の　心を　刺激する。
+[10249000000] モデルとしても　人気な　ガラルの　ジムリーダー。
+漁師の父と　市場で働く母の影響で　みずポケモンと
+遊んで　育った。ソニアとは　仲のいい　友人。
+[10250000000] 歴史ある　ガラルカラテの　申し子。
+ストイックな性格で　日々の鍛錬に　余念がない。
+本人は　隠しているが　甘い物が　大好き。
+[10257000000] ガラル地方で　最強と　いわれる　ジムリーダー。
+ポケモン勝負になると　気さくな性格から　一変するが
+それは勝負に対して　全力であることの表れだ。
+[10195000000] プラズマ団を　動かす　実質的な　ボスである男。
+かつては　Ｎを操って　世界の支配を　企んだ。
+人心掌握に　たけており　とても冷酷な　性格。
 
 ===========
 trainer_description_ko.lsd
@@ -16031,6 +16503,18 @@ trainer_description_ko.lsd
 [10170400000] 알 헌트의 분위기를 띄우기 위한 의상을 입은 아티.
 토게피는 정말 소중한 예술적 파트너이다.
 다채로운 의상이 예술가의 마음을 자극한다.
+[10249000000] 모델로서도 인기 있는 가라르지방의 체육관 관장.
+어부인 아버지와 시장에서 일하는 어머니의 영향인지
+물포켓몬과 놀면서 자랐다. 소니아와는 사이좋은 친구다.
+[10250000000] 깊은 역사를 자랑하는 가라르태권도의 천재.
+매우 엄격한 성격으로 매일 단련에 여념이 없다.
+본인은 숨기고 있지만 단것을 정말 좋아한다.
+[10257000000] 가라르지방에서 최강이라 불리는 체육관 관장.
+포켓몬 승부가 시작되면 온화한 성격에서 매섭게 변하지만
+그건 승부에 전력을 다하기 때문이다.
+[10195000000] 플라스마단을 움직이는 실질적인 보스인 남자.
+과거에는 N을 조종해 세계 정복을 꿈꿨다.
+인심 장악에 뛰어나고 매우 냉정한 성격이다.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -16469,6 +16953,18 @@ trainer_description_zh-TW.lsd
 [10170400000] 身上服裝能夠炒熱找蛋活動氣氛的亞堤。
 波克比是他藝術創作的重要夥伴。
 色彩繽紛的服裝能刺激他那顆藝術家之心。
+[10249000000] 伽勒爾的道館館主，同時也是人氣模特兒。
+受到當漁夫的父親和在市場工作的母親影響，
+從小在水寶可夢的陪伴下長大。和索妮亞是好朋友。
+[10250000000] 是歷史悠久的伽勒爾空手道的天才。
+個性嚴以律己，每天都專注於鍛鍊。
+本人不願透露，但其實非常喜歡甜食。
+[10257000000] 被稱為伽勒爾最強的道館館主。
+在寶可夢對戰時，他平易近人的個性會徹底改變，
+但那正是他全力迎戰的證明。
+[10195000000] 操控著等離子隊的男人，是等離子隊真正的老大。
+過去曾企圖控制Ｎ來支配世界。
+擅長操縱人心，個性十分冷酷。
 
 ===========
 trainer_name_de.lsd
@@ -16615,7 +17111,10 @@ trainer_name_de.lsd
 [ch0170] Artie
 [ch0183] Marlon
 [ch0190] Ryuki
+[ch0192] Marc
+[ch0193] Adrian
 [ch0194] Zyrus
+[ch0195] G-Cis
 [ch0196] Flordelis
 [ch0198] Lotte
 [ch0215] Xenia
@@ -16624,7 +17123,10 @@ trainer_name_de.lsd
 [ch0243] Gloria
 [ch0245] Mary
 [ch0247] Delion
+[ch0249] Kate
+[ch0250] Saida
 [ch0256] Nezz
+[ch0257] Roy
 
 ===========
 trainer_name_en.lsd
@@ -16771,7 +17273,10 @@ trainer_name_en.lsd
 [ch0170] Burgh
 [ch0183] Molayne
 [ch0190] Ryuki
+[ch0192] Maxie
+[ch0193] Archie
 [ch0194] Cyrus
+[ch0195] Ghetsis
 [ch0196] Lysandre
 [ch0198] Lucy
 [ch0215] Lisia
@@ -16780,7 +17285,10 @@ trainer_name_en.lsd
 [ch0243] Gloria
 [ch0245] Marnie
 [ch0247] Leon
+[ch0249] Nessa
+[ch0250] Bea
 [ch0256] Piers
+[ch0257] Raihan
 
 ===========
 trainer_name_es.lsd
@@ -16927,7 +17435,10 @@ trainer_name_es.lsd
 [ch0170] Camus
 [ch0183] Lario
 [ch0190] Olano
+[ch0192] Magno
+[ch0193] Aquiles
 [ch0194] Helio
+[ch0195] Ghechis
 [ch0196] Lysson
 [ch0198] Fortunia
 [ch0215] Ariana
@@ -16936,7 +17447,10 @@ trainer_name_es.lsd
 [ch0243] Gloria
 [ch0245] Roxy
 [ch0247] Lionel
+[ch0249] Cathy
+[ch0250] Judith
 [ch0256] Nerio
+[ch0257] Roy
 
 ===========
 trainer_name_fr.lsd
@@ -17083,7 +17597,10 @@ trainer_name_fr.lsd
 [ch0170] Artie
 [ch0183] Molène
 [ch0190] Solane
+[ch0192] Max
+[ch0193] Arthur
 [ch0194] Hélio
+[ch0195] Ghetis
 [ch0196] Lysandre
 [ch0198] Charline
 [ch0215] Atalante
@@ -17092,7 +17609,10 @@ trainer_name_fr.lsd
 [ch0243] Gloria
 [ch0245] Rosemary
 [ch0247] Tarak
+[ch0249] Donna
+[ch0250] Faïza
 [ch0256] Peterson
+[ch0257] Roy
 
 ===========
 trainer_name_it.lsd
@@ -17239,7 +17759,10 @@ trainer_name_it.lsd
 [ch0170] Artemisio
 [ch0183] Tapso
 [ch0190] Morel
+[ch0192] Max
+[ch0193] Ivan
 [ch0194] Cyrus
+[ch0195] Ghecis
 [ch0196] Elisio
 [ch0198] Fortunata
 [ch0215] Orthilla
@@ -17248,7 +17771,10 @@ trainer_name_it.lsd
 [ch0243] Gloria
 [ch0245] Mary
 [ch0247] Dandel
+[ch0249] Azzurra
+[ch0250] Fabia
 [ch0256] Ginepro
+[ch0257] Laburno
 
 ===========
 trainer_name_ja.lsd
@@ -17395,7 +17921,10 @@ trainer_name_ja.lsd
 [ch0170] アーティ
 [ch0183] マーレイン
 [ch0190] リュウキ
+[ch0192] マツブサ
+[ch0193] アオギリ
 [ch0194] アカギ
+[ch0195] ゲーチス
 [ch0196] フラダリ
 [ch0198] アザミ
 [ch0215] ルチア
@@ -17404,7 +17933,10 @@ trainer_name_ja.lsd
 [ch0243] ユウリ
 [ch0245] マリィ
 [ch0247] ダンデ
+[ch0249] ルリナ
+[ch0250] サイトウ
 [ch0256] ネズ
+[ch0257] キバナ
 
 ===========
 trainer_name_ko.lsd
@@ -17551,7 +18083,10 @@ trainer_name_ko.lsd
 [ch0170] 아티
 [ch0183] 멀레인
 [ch0190] 용규
+[ch0192] 마적
+[ch0193] 아강
 [ch0194] 태홍
+[ch0195] 게치스
 [ch0196] 플라드리
 [ch0198] 다슬
 [ch0215] 루티아
@@ -17560,7 +18095,10 @@ trainer_name_ko.lsd
 [ch0243] 우리
 [ch0245] 마리
 [ch0247] 단델
+[ch0249] 야청
+[ch0250] 채두
 [ch0256] 두송
+[ch0257] 금랑
 
 ===========
 trainer_name_zh-TW.lsd
@@ -17707,7 +18245,10 @@ trainer_name_zh-TW.lsd
 [ch0170] 亞堤
 [ch0183] 馬睿因
 [ch0190] 龍葵
+[ch0192] 赤焰松
+[ch0193] 水梧桐
 [ch0194] 赤日
+[ch0195] 魁奇思
 [ch0196] 弗拉達利
 [ch0198] 小薊
 [ch0215] 琉琪亞
@@ -17716,7 +18257,10 @@ trainer_name_zh-TW.lsd
 [ch0243] 小優
 [ch0245] 瑪俐
 [ch0247] 丹帝
+[ch0249] 露璃娜
+[ch0250] 彩豆
 [ch0256] 聶梓
+[ch0257] 奇巴納
 
 ===========
 common_widget_de.lsd
@@ -23765,6 +24309,11 @@ kampfunfähigen Gefährten vollständig geheilt.
 [home/legend_battle_030] Belohnung fürs Erledigen
 aller Missionen
 [home/legend_battle_031] Kampftipps
+[home/legend_battle_032] Im Legendenkampf sind jetzt
+Eventmissionen verfügbar. Bist du
+bereit für die Herausforderung?
+[home/legend_battle_033] Eventmissionen laufen!
+[home/legend_battle_034] Eventmissionen
 [home/sp_battle_001] Die Zahl der zu Event-Kollektivkämpfen
 aufgebrochenen Gefährten sowie der
 gegnerische Zustand (KP etc.) werden
@@ -24482,6 +25031,11 @@ challenge is reset.
 [home/legend_battle_030] Mission Completion
 Rewards
 [home/legend_battle_031] Battle Tips
+[home/legend_battle_032] Legendary Arena event missions
+available now! Are you ready to
+take on the challenge?
+[home/legend_battle_033] Event Missions
+[home/legend_battle_034] Event Missions
 [home/sp_battle_001] The number of sync pairs engaged in
 Full-Force Battles as well as your
 opponents’ HP and battle status
@@ -25167,6 +25721,11 @@ parejas de compis debilitadas se recuperen.
 [home/legend_battle_030] Premios por completar
 todas las misiones
 [home/legend_battle_031] Consejos para vencer
+[home/legend_battle_032] ¡Ponte a prueba con las misiones de
+evento de los combates legendarios,
+ya disponibles! 
+[home/legend_battle_033] ¡Misiones de evento en curso!
+[home/legend_battle_034] Misiones de evento
 [home/sp_battle_001] Se restablecerá todo el progreso del
 combate colectivo, los PS restantes de
 los rivales y los compis usados.
@@ -25878,6 +26437,11 @@ Vous ne pouvez pas partir à l'aventure.
 [home/legend_battle_028] Réinitialiser soignera les Duos qui ont été mis K.O.
 [home/legend_battle_030] Récompenses de mission
 [home/legend_battle_031] Conseils
+[home/legend_battle_032] Bataille Légendaire : missions
+de l'évènement en cours !
+Relevez les défis !
+[home/legend_battle_033] Missions de l'évènement en cours
+[home/legend_battle_034] Missions de l'évènement
 [home/sp_battle_001] Les PV des ennemis seront restaurés
 et le nombre de Duos utilisés pendant
 le Combat Collectif retombera à 0.
@@ -26617,6 +27181,11 @@ in squadra sono esauste.
 le Unità.
 [home/legend_battle_030] Ricompensa missioni
 [home/legend_battle_031] Consigli per vincere
+[home/legend_battle_032] Vuoi metterti alla prova? Sono ora
+disponibili delle missioni per la Lotta
+Leggendaria!
+[home/legend_battle_033] Missioni evento
+[home/legend_battle_034] Missioni evento
 [home/sp_battle_001] Il ripristino azzererà il numero di Unità
 alleate partite per la Lotta Collettiva
 e rimetterà del tutto in sesto i nemici.
@@ -27338,6 +27907,12 @@ GRADE一覧に戻ります
 [home/legend_battle_030] 全ミッション
 達成報酬
 [home/legend_battle_031] バトルに勝つために
+[home/legend_battle_032] レジェンドバトルで
+イベントミッションが開催中です
+
+挑戦しましょう！
+[home/legend_battle_033] イベントミッション開催中
+[home/legend_battle_034] イベントミッション
 [home/sp_battle_001] リセットを実行すると同イベントの挑戦中
 ソウリョクバトルの味方の出発数や
 敵のＨＰなどの状態がリセットされます
@@ -28055,6 +28630,11 @@ GRADE 목록으로 돌아갑니다
 [home/legend_battle_030] 모든 미션
 달성 보상
 [home/legend_battle_031] 배틀에 이기기 위해서는
+[home/legend_battle_032] 레전드배틀에서
+이벤트 미션이 개최 중입니다
+도전해봅시다!
+[home/legend_battle_033] 이벤트 미션 개최 중
+[home/legend_battle_034] 이벤트 미션
 [home/sp_battle_001] 초기화하면 같은 이벤트에서 도전 중인
 총력배틀에서 출발 가능한 같은 편의 버디즈 수나
 상대의 HP 등의 상태가 초기화됩니다
@@ -28723,6 +29303,11 @@ home_zh-TW.lsd
 [home/legend_battle_028] ※瀕死狀態會在重設後回復
 [home/legend_battle_030] 達成全部任務時的報酬
 [home/legend_battle_031] 為了贏得對戰
+[home/legend_battle_032] 傳說對戰的
+活動任務舉辦中
+立刻前往挑戰！
+[home/legend_battle_033] 活動任務現正舉辦中
+[home/legend_battle_034] 活動任務
 [home/sp_battle_001] 一旦進行重設，本活動內挑戰中
 大對戰的我方出發數與敵人的
 ＨＰ狀態將會重設
