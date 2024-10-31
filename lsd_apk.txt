@@ -2590,6 +2590,55 @@ Schweigsamen
 [quest_title_1030220251000000] Ein Tag mit Nio
 [quest_title_1030220159000000] Ein Tag mit Perenus
 [quest_title_1030110000410600] Vs. Rüpel von Team Rocket 4
+[quest_group_title_10158400000] Diantha (Kostüm)
+[quest_group_title_10004400000] Lotta (Kostüm)
+[quest_group_title_10125400000] Bromley (Kostüm)
+[quest_group_title_10113400000] Jasmin (Kostüm)
+[quest_title_1030310000601000] Die Spiele beginnen
+[quest_title_1030310000601010] Beide Seiten ziehen los
+[quest_title_1030310000601020] Im Kampf um das Nugget
+[quest_title_1030310000601030] Lotta ist in Schwierigkeiten
+[quest_title_1030310000601040] Der alles entscheidende
+Kampf
+[quest_title_1030310000601050] Herausforderungskampf:
+Astor
+[quest_title_1030310000601060] Herausforderungskampf:
+Astor 2
+[quest_title_1030310000601070] Herausforderungskampf:
+Frosina
+[quest_title_1030310000601080] Herausforderungskampf:
+Frosina 2
+[quest_title_1030310000602000] Ein ritterliches Duell
+[quest_title_1030310000602010] Vs. Bromley
+[quest_title_1030310000602020] Vs. Bromley 2
+[quest_title_1030310000602030] Vs. Bromley 3
+[quest_title_1030310000602040] Vs. Bromley 4
+[quest_title_1030310000602060] Ritterin Diantha
+[quest_title_1030310000604000] Außenseiter
+[quest_title_1030310000604010] Vs. Diantha
+[quest_title_1030310000604020] Vs. Diantha 2
+[quest_title_1030310000604030] Vs. Diantha 3
+[quest_title_1030310000604040] Vs. Diantha 4
+[quest_title_1030310000604060] Unerwartete Trainingspartner
+[quest_title_1030310000603000] Zwei Prinzessinnen und ein
+Filmstar
+[quest_title_1030310000603010] Vs. Jasmin
+[quest_title_1030310000603020] Vs. Jasmin 2
+[quest_title_1030310000603030] Vs. Jasmin 3
+[quest_title_1030310000603040] Vs. Jasmin 4
+[quest_title_1030310000603060] Und der Gewinner ist...
+[quest_title_1030310000605000] Stählerne Ultrabestie
+[quest_title_1030310000605040] Vs. Lotta 4
+[quest_title_1030310000605060] Kaguron und die Prinzessin
+[quest_title_1030431000402010] Geschenke für alle!
+[quest_title_1030431000403010] Spezielle Herausforderung
+[quest_title_1030431000202010] Vs. Mayla 2
+[quest_title_1030431000203010] Vs. Mayla 3
+[quest_title_1030431000204010] Vs. Mayla 4
+[quest_title_1030310000605030] Vs. Lotta 3
+[quest_title_1030310000605010] Vs. Lotta
+[quest_title_1030310000605020] Vs. Lotta 2
+[quest_title_1030431000201010] Vs. Mayla
 [quest_title_1030110000400600] Vs. Rüpel von Team Rocket
 [quest_title_1030110000400700] Vs. Rüpel von Team Rocket 2
 [quest_title_1030110000400800] Vs. Rüpel von Team Rocket 3
@@ -2613,6 +2662,15 @@ Schweigsamen
 Lasst uns Items sammeln!
 [quest_title_1030309000603110] Herausforderungskampf 1
 [quest_title_1030309000603120] Herausforderungskampf 2
+[quest_title_1030431000205010] Täglicher Bonus-Kampf
+[quest_title_1030431000101010] Vs. Trainer aus Passio 1
+[quest_title_1030431000102010] Vs. Trainer aus Passio 2
+[quest_title_1030431000103010] Vs. Trainer aus Passio 3
+[quest_title_1030431000104010] Vs. Trainer aus Passio 4
+[quest_title_1030310000605050] Täglicher schwerer Kampf
+[quest_title_1030310000603050] Täglicher schwerer Kampf
+[quest_title_1030310000604050] Täglicher schwerer Kampf
+[quest_title_1030310000602050] Täglicher schwerer Kampf
 
 ===========
 story_quest_name_en.lsd
@@ -4408,6 +4466,53 @@ story_quest_name_en.lsd
 [quest_title_1030220251000000] A Day with Allister
 [quest_title_1030220159000000] A Day with Darach
 [quest_title_1030110000410600] Challenge the Rocket Grunts: Part 4
+[quest_group_title_10158400000] Diantha
+(Special Costume)
+[quest_group_title_10004400000] Hilda
+(Special Costume)
+[quest_group_title_10125400000] Guzma
+(Special Costume)
+[quest_group_title_10113400000] Jasmine
+(Special Costume)
+[quest_title_1030310000601000] Capture the Golden Spheres!
+[quest_title_1030310000601010] Team Huddle
+[quest_title_1030310000601020] Clash of Factions
+[quest_title_1030310000601030] Turning Tables
+[quest_title_1030310000601040] The Final Stretch
+[quest_title_1030310000601050] Grimsley’s Battle Challenge! Round 1
+[quest_title_1030310000601060] Grimsley’s Battle Challenge! Round 2
+[quest_title_1030310000601070] Glacia’s Battle Challenge! Round 1
+[quest_title_1030310000601080] Glacia’s Battle Challenge! Round 2
+[quest_title_1030310000602000] A Knight’s Duel
+[quest_title_1030310000602010] Challenge Guzma: Part 1
+[quest_title_1030310000602020] Challenge Guzma: Part 2
+[quest_title_1030310000602030] Challenge Guzma: Part 3
+[quest_title_1030310000602040] Challenge Guzma: Part 4
+[quest_title_1030310000602060] The Role of Lady Diantha
+[quest_title_1030310000604000] Cut from the Same Cloth
+[quest_title_1030310000604010] Challenge Diantha: Part 1
+[quest_title_1030310000604020] Challenge Diantha: Part 2
+[quest_title_1030310000604030] Challenge Diantha: Part 3
+[quest_title_1030310000604040] Challenge Diantha: Part 4
+[quest_title_1030310000604060] Bring Out the Best
+[quest_title_1030310000603000] Pokéstar Pro Advice
+[quest_title_1030310000603010] Challenge Jasmine: Part 1
+[quest_title_1030310000603020] Challenge Jasmine: Part 2
+[quest_title_1030310000603030] Challenge Jasmine: Part 3
+[quest_title_1030310000603040] Challenge Jasmine: Part 4
+[quest_title_1030310000603060] Princess vs. Princess
+[quest_title_1030310000605000] Ultra Steel
+[quest_title_1030310000605040] Challenge Hilda: Part 4
+[quest_title_1030310000605060] A Launching Friendship
+[quest_title_1030431000402010] Pika-Presents for Everyone!
+[quest_title_1030431000403010] Special Pika-Challenge!
+[quest_title_1030431000202010] Challenge Olivia: Part 2
+[quest_title_1030431000203010] Challenge Olivia: Part 3
+[quest_title_1030431000204010] Challenge Olivia: Part 4
+[quest_title_1030310000605030] Challenge Hilda: Part 3
+[quest_title_1030310000605010] Challenge Hilda: Part 1
+[quest_title_1030310000605020] Challenge Hilda: Part 2
+[quest_title_1030431000201010] Challenge Olivia: Part 1
 [quest_title_1030110000400600] Challenge the Rocket Grunts: Part 1
 [quest_title_1030110000400700] Challenge the Rocket Grunts: Part 2
 [quest_title_1030110000400800] Challenge the Rocket Grunts: Part 3
@@ -4430,6 +4535,15 @@ story_quest_name_en.lsd
 [quest_title_1030309000603100] Bountiful Bonus Battle 1
 [quest_title_1030309000603110] Battle Challenge! Round 1
 [quest_title_1030309000603120] Battle Challenge! Round 2
+[quest_title_1030431000205010] Daily Bonus Battle 1
+[quest_title_1030431000101010] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030431000102010] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030431000103010] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030431000104010] Challenge Pasio’s Trainers: Part 4
+[quest_title_1030310000605050] Daily Extreme Battle 1
+[quest_title_1030310000603050] Daily Extreme Battle 1
+[quest_title_1030310000604050] Daily Extreme Battle 1
+[quest_title_1030310000602050] Daily Extreme Battle 1
 
 ===========
 story_quest_name_es.lsd
@@ -6346,6 +6460,56 @@ puerta
 [quest_title_1030220251000000] Un día con Alistair
 [quest_title_1030220159000000] Un día con Kokuran
 [quest_title_1030110000410600] VS. Reclutas del Team Rocket (4)
+[quest_group_title_10158400000] Dianta (Especial)
+[quest_group_title_10004400000] Liza (Especial)
+[quest_group_title_10125400000] Guzmán (Especial)
+[quest_group_title_10113400000] Yasmina (Especial)
+[quest_title_1030310000601000] ¡A por las Pepitas!
+[quest_title_1030310000601010] Los bandos se preparan
+[quest_title_1030310000601020] El combate por la Pepita
+[quest_title_1030310000601030] La crisis de Liza
+[quest_title_1030310000601040] El lugar del combate final
+[quest_title_1030310000601050] ¡Un combate desafiante
+contra Aza!
+[quest_title_1030310000601060] ¡Un combate desafiante
+contra Aza! (2)
+[quest_title_1030310000601070] ¡Un combate desafiante
+contra Nívea!
+[quest_title_1030310000601080] ¡Un combate desafiante
+contra Nívea! (2)
+[quest_title_1030310000602000] Un duelo de caballeros
+[quest_title_1030310000602010] VS. Guzmán
+[quest_title_1030310000602020] VS. Guzmán (2)
+[quest_title_1030310000602030] VS. Guzmán (3)
+[quest_title_1030310000602040] VS. Guzmán (4)
+[quest_title_1030310000602060] Dianta y su deber de
+caballero
+[quest_title_1030310000604000] Un par de parias
+[quest_title_1030310000604010] VS. Dianta
+[quest_title_1030310000604020] VS. Dianta (2)
+[quest_title_1030310000604030] VS. Dianta (3)
+[quest_title_1030310000604040] VS. Dianta (4)
+[quest_title_1030310000604060] Guzmán, a darlo todo
+[quest_title_1030310000603000] Dos princesas y una estrella
+de Pokéwood
+[quest_title_1030310000603010] VS. Yasmina
+[quest_title_1030310000603020] VS. Yasmina (2)
+[quest_title_1030310000603030] VS. Yasmina (3)
+[quest_title_1030310000603040] VS. Yasmina (4)
+[quest_title_1030310000603060] La ganadora del duelo de
+princesas
+[quest_title_1030310000605000] Ultraente de tipo Acero
+[quest_title_1030310000605040] VS. Liza (4)
+[quest_title_1030310000605060] Un vínculo ultraférreo
+[quest_title_1030431000402010] ¡Pikarregalos para todos!
+[quest_title_1030431000403010] ¡Desafío especial en curso!
+[quest_title_1030431000202010] VS. Mayla (2)
+[quest_title_1030431000203010] VS. Mayla (3)
+[quest_title_1030431000204010] VS. Mayla (4)
+[quest_title_1030310000605030] VS. Liza (3)
+[quest_title_1030310000605010] VS. Liza
+[quest_title_1030310000605020] VS. Liza (2)
+[quest_title_1030431000201010] VS. Mayla
 [quest_title_1030110000400600] VS. Reclutas del Team Rocket
 [quest_title_1030110000400700] VS. Reclutas del Team Rocket (2)
 [quest_title_1030110000400800] VS. Reclutas del Team Rocket (3)
@@ -6371,6 +6535,15 @@ Kanto! (2)
 ¡Objetos por doquier!
 [quest_title_1030309000603110] ¡Un combate desafiante!
 [quest_title_1030309000603120] ¡Un combate desafiante! (2)
+[quest_title_1030431000205010] ¡Un combate extra al día!
+[quest_title_1030431000101010] VS. Entrenadores de Passio
+[quest_title_1030431000102010] VS. Entrenadores de Passio (2)
+[quest_title_1030431000103010] VS. Entrenadores de Passio (3)
+[quest_title_1030431000104010] VS. Entrenadores de Passio (4)
+[quest_title_1030310000605050] ¡Un combate difícil al día!
+[quest_title_1030310000603050] ¡Un combate difícil al día!
+[quest_title_1030310000604050] ¡Un combate difícil al día!
+[quest_title_1030310000602050] ¡Un combate difícil al día!
 
 ===========
 story_quest_name_fr.lsd
@@ -8406,6 +8579,53 @@ de champignons !
 [quest_title_1030220159000000] Une journée avec Parsley
 [quest_title_1030110000410600] Combat :
 Sbires Team Rocket IV
+[quest_group_title_10158400000] Dianthéa (Look Spécial)
+[quest_group_title_10004400000] Ludvina (Look Spécial)
+[quest_group_title_10125400000] Guzma (Look Spécial)
+[quest_group_title_10113400000] Jasmine (Look Spécial)
+[quest_title_1030310000601000] Que le Tournoi des 5 pépites
+commence !
+[quest_title_1030310000601010] Les équipes s'élancent
+[quest_title_1030310000601020] Le combat pour la pépite
+[quest_title_1030310000601030] Le souci de Ludvina
+[quest_title_1030310000601040] Le lieu du combat final
+[quest_title_1030310000601050] Combat difficile : Pieris
+[quest_title_1030310000601060] Combat difficile : Pieris II
+[quest_title_1030310000601070] Combat difficile : Glacia
+[quest_title_1030310000601080] Combat difficile : Glacia II
+[quest_title_1030310000602000] Un combat chevaleresque
+[quest_title_1030310000602010] Combat : Guzma
+[quest_title_1030310000602020] Combat : Guzma II
+[quest_title_1030310000602030] Combat : Guzma III
+[quest_title_1030310000602040] Combat : Guzma IV
+[quest_title_1030310000602060] Le devoir du chevalier
+Dianthéa
+[quest_title_1030310000604000] Des camarades sur la même
+longueur d'onde
+[quest_title_1030310000604010] Combat : Dianthéa
+[quest_title_1030310000604020] Combat : Dianthéa II
+[quest_title_1030310000604030] Combat : Dianthéa III
+[quest_title_1030310000604040] Combat : Dianthéa IV
+[quest_title_1030310000604060] Un entraînement musclé
+[quest_title_1030310000603000] Deux princesses et
+une actrice en herbe
+[quest_title_1030310000603010] Combat : Jasmine
+[quest_title_1030310000603020] Combat : Jasmine II
+[quest_title_1030310000603030] Combat : Jasmine III
+[quest_title_1030310000603040] Combat : Jasmine IV
+[quest_title_1030310000603060] Et la gagnante est...
+[quest_title_1030310000605000] Un Pokémon ultra-solide
+[quest_title_1030310000605040] Combat : Ludvina IV
+[quest_title_1030310000605060] La princesse et Bamboiselle
+[quest_title_1030431000402010] Cadeaux Pika Pika pour tous !
+[quest_title_1030431000403010] Pika-défi spécial en cours !
+[quest_title_1030431000202010] Combat : Alyxia II
+[quest_title_1030431000203010] Combat : Alyxia III
+[quest_title_1030431000204010] Combat : Alyxia IV
+[quest_title_1030310000605030] Combat : Ludvina III
+[quest_title_1030310000605010] Combat : Ludvina
+[quest_title_1030310000605020] Combat : Ludvina II
+[quest_title_1030431000201010] Combat : Alyxia
 [quest_title_1030110000400600] Combat : Sbires Team Rocket
 [quest_title_1030110000400700] Combat :
 Sbires Team Rocket II
@@ -8439,6 +8659,23 @@ Dresseurs de Passio IV
 Objets en folie !
 [quest_title_1030309000603110] Combat difficile
 [quest_title_1030309000603120] Combat difficile II
+[quest_title_1030431000205010] Combat bonus limité
+à une fois par jour !
+[quest_title_1030431000101010] Combat : Dresseurs de Passio
+[quest_title_1030431000102010] Combat :
+Dresseurs de Passio II
+[quest_title_1030431000103010] Combat :
+Dresseurs de Passio III
+[quest_title_1030431000104010] Combat :
+Dresseurs de Passio IV
+[quest_title_1030310000605050] Combat difficile limité
+à une fois par jour !
+[quest_title_1030310000603050] Combat difficile limité
+à une fois par jour !
+[quest_title_1030310000604050] Combat difficile limité
+à une fois par jour !
+[quest_title_1030310000602050] Combat difficile limité
+à une fois par jour !
 
 ===========
 story_quest_name_it.lsd
@@ -10210,6 +10447,49 @@ story_quest_name_it.lsd
 [quest_title_1030220251000000] Un giorno con Onion
 [quest_title_1030220159000000] Un giorno con Paride
 [quest_title_1030110000410600] VS Reclute del Team Rocket 4
+[quest_group_title_10158400000] Diantha (speciale)
+[quest_group_title_10004400000] Anita (speciale)
+[quest_group_title_10125400000] Guzman (speciale)
+[quest_group_title_10113400000] Jasmine (speciale)
+[quest_title_1030310000601000] A caccia di Sfere dorate!
+[quest_title_1030310000601010] I primi movimenti delle due squadre
+[quest_title_1030310000601020] Lotte infuocate per le Sfere dorate
+[quest_title_1030310000601030] Anita è in difficoltà?!
+[quest_title_1030310000601040] Il confronto finale
+[quest_title_1030310000601050] Sfida ad alta difficoltà: Mirton
+[quest_title_1030310000601060] Sfida ad alta difficoltà: Mirton 2
+[quest_title_1030310000601070] Sfida ad alta difficoltà: Frida
+[quest_title_1030310000601080] Sfida ad alta difficoltà: Frida 2
+[quest_title_1030310000602000] Un duello cavalleresco
+[quest_title_1030310000602010] VS Guzman
+[quest_title_1030310000602020] VS Guzman 2
+[quest_title_1030310000602030] VS Guzman 3
+[quest_title_1030310000602040] VS Guzman 4
+[quest_title_1030310000602060] Il ruolo del cavaliere Diantha
+[quest_title_1030310000604000] Fatti della stessa pasta
+[quest_title_1030310000604010] VS Diantha
+[quest_title_1030310000604020] VS Diantha 2
+[quest_title_1030310000604030] VS Diantha 3
+[quest_title_1030310000604040] VS Diantha 4
+[quest_title_1030310000604060] Tirare fuori il meglio dal proprio compagno
+[quest_title_1030310000603000] Due principesse e una stella del Pokéwood
+[quest_title_1030310000603010] VS Jasmine
+[quest_title_1030310000603020] VS Jasmine 2
+[quest_title_1030310000603030] VS Jasmine 3
+[quest_title_1030310000603040] VS Jasmine 4
+[quest_title_1030310000603060] La principessa vincente
+[quest_title_1030310000605000] L'Ultracreatura di tipo Acciaio
+[quest_title_1030310000605040] VS Anita 4
+[quest_title_1030310000605060] La principessa e Celesteela
+[quest_title_1030431000402010] Regali preziosi per tutti!
+[quest_title_1030431000403010] Sfida speciale in corso!
+[quest_title_1030431000202010] VS Alyxia 2
+[quest_title_1030431000203010] VS Alyxia 3
+[quest_title_1030431000204010] VS Alyxia 4
+[quest_title_1030310000605030] VS Anita 3
+[quest_title_1030310000605010] VS Anita
+[quest_title_1030310000605020] VS Anita 2
+[quest_title_1030431000201010] VS Alyxia
 [quest_title_1030110000400600] VS Reclute del Team Rocket
 [quest_title_1030110000400700] VS Reclute del Team Rocket 2
 [quest_title_1030110000400800] VS Reclute del Team Rocket 3
@@ -10232,6 +10512,15 @@ story_quest_name_it.lsd
 [quest_title_1030309000603100] Lotta bonus: tanti strumenti!
 [quest_title_1030309000603110] Sfida ad alta difficoltà
 [quest_title_1030309000603120] Sfida ad alta difficoltà 2
+[quest_title_1030431000205010] Lotta bonus (una al giorno)!
+[quest_title_1030431000101010] VS Allenatori di Pasio
+[quest_title_1030431000102010] VS Allenatori di Pasio 2
+[quest_title_1030431000103010] VS Allenatori di Pasio 3
+[quest_title_1030431000104010] VS Allenatori di Pasio 4
+[quest_title_1030310000605050] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030310000603050] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030310000604050] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030310000602050] Lotta ad alta difficoltà (una al giorno)!
 
 ===========
 story_quest_name_ja.lsd
@@ -12028,6 +12317,53 @@ story_quest_name_ja.lsd
 [quest_title_1030220251000000] とある日のオニオン
 [quest_title_1030220159000000] とある日のコクラン
 [quest_title_1030110000410600] ＶＳ　ロケット団のしたっぱ４
+[quest_group_title_10158400000] カルネ
+（スペシャル）
+[quest_group_title_10004400000] トウコ
+（スペシャル）
+[quest_group_title_10125400000] グズマ
+（スペシャル）
+[quest_group_title_10113400000] ミカン
+（スペシャル）
+[quest_title_1030310000601000] 手に入れろ！　きんのたま
+[quest_title_1030310000601010] 動き始める　両陣営
+[quest_title_1030310000601020] きんのたまを巡る戦い
+[quest_title_1030310000601030] トウコの危機
+[quest_title_1030310000601040] 決戦の行方
+[quest_title_1030310000601050] チャレンジバトル！　ギーマ
+[quest_title_1030310000601060] チャレンジバトル！　ギーマ２
+[quest_title_1030310000601070] チャレンジバトル！　プリム
+[quest_title_1030310000601080] チャレンジバトル！　プリム２
+[quest_title_1030310000602000] 騎士の決闘
+[quest_title_1030310000602010] ＶＳ　グズマ
+[quest_title_1030310000602020] ＶＳ　グズマ２
+[quest_title_1030310000602030] ＶＳ　グズマ３
+[quest_title_1030310000602040] ＶＳ　グズマ４
+[quest_title_1030310000602060] 騎士カルネの役目
+[quest_title_1030310000604000] 似た者同士
+[quest_title_1030310000604010] ＶＳ　カルネ
+[quest_title_1030310000604020] ＶＳ　カルネ２
+[quest_title_1030310000604030] ＶＳ　カルネ３
+[quest_title_1030310000604040] ＶＳ　カルネ４
+[quest_title_1030310000604060] 相手を受け入れ　活かすこと
+[quest_title_1030310000603000] ふたりの姫と　ポケウッドの姫
+[quest_title_1030310000603010] ＶＳ　ミカン
+[quest_title_1030310000603020] ＶＳ　ミカン２
+[quest_title_1030310000603030] ＶＳ　ミカン３
+[quest_title_1030310000603040] ＶＳ　ミカン４
+[quest_title_1030310000603060] お姫様対決の勝者
+[quest_title_1030310000605000] ウルトラなはがねポケモン
+[quest_title_1030310000605040] ＶＳ　トウコ４
+[quest_title_1030310000605060] 姫とテッカグヤ
+[quest_title_1030431000402010] みんなにピカピカなプレゼント！
+[quest_title_1030431000403010] 特別チャレンジ開催チュウ！
+[quest_title_1030431000202010] ＶＳ　ライチ２
+[quest_title_1030431000203010] ＶＳ　ライチ３
+[quest_title_1030431000204010] ＶＳ　ライチ４
+[quest_title_1030310000605030] ＶＳ　トウコ３
+[quest_title_1030310000605010] ＶＳ　トウコ
+[quest_title_1030310000605020] ＶＳ　トウコ２
+[quest_title_1030431000201010] ＶＳ　ライチ
 [quest_title_1030110000400600] ＶＳ　ロケット団のしたっぱ
 [quest_title_1030110000400700] ＶＳ　ロケット団のしたっぱ２
 [quest_title_1030110000400800] ＶＳ　ロケット団のしたっぱ３
@@ -12050,6 +12386,15 @@ story_quest_name_ja.lsd
 [quest_title_1030309000603100] どうぐ大量・ボーナスバトル！
 [quest_title_1030309000603110] チャレンジバトルで勝負！
 [quest_title_1030309000603120] チャレンジバトルで勝負！２
+[quest_title_1030431000205010] １日１回限定・ボーナスバトル！
+[quest_title_1030431000101010] ＶＳ　パシオのトレーナー
+[quest_title_1030431000102010] ＶＳ　パシオのトレーナー２
+[quest_title_1030431000103010] ＶＳ　パシオのトレーナー３
+[quest_title_1030431000104010] ＶＳ　パシオのトレーナー４
+[quest_title_1030310000605050] １日１回限定・高難度バトル！
+[quest_title_1030310000603050] １日１回限定・高難度バトル！
+[quest_title_1030310000604050] １日１回限定・高難度バトル！
+[quest_title_1030310000602050] １日１回限定・高難度バトル！
 
 ===========
 story_quest_name_ko.lsd
@@ -13845,6 +14190,53 @@ story_quest_name_ko.lsd
 [quest_title_1030220251000000] 어니언의 어느 날
 [quest_title_1030220159000000] 코크런의 어느 날
 [quest_title_1030110000410600] VS 로켓단의 조무래기4
+[quest_group_title_10158400000] 카르네
+(스페셜)
+[quest_group_title_10004400000] 투희
+(스페셜)
+[quest_group_title_10125400000] 구즈마
+(스페셜)
+[quest_group_title_10113400000] 규리
+(스페셜)
+[quest_title_1030310000601000] 금구슬을 획득하라!
+[quest_title_1030310000601010] 움직이기 시작하는 두 세력
+[quest_title_1030310000601020] 금구슬을 둘러싼 승부
+[quest_title_1030310000601030] 투희의 위기
+[quest_title_1030310000601040] 결전의 승자는?
+[quest_title_1030310000601050] 챔피언배틀! 블래리
+[quest_title_1030310000601060] 챔피언배틀! 블래리2
+[quest_title_1030310000601070] 챔피언배틀! 미혜
+[quest_title_1030310000601080] 챔피언배틀! 미혜2
+[quest_title_1030310000602000] 기사의 결투
+[quest_title_1030310000602010] VS 구즈마
+[quest_title_1030310000602020] VS 구즈마2
+[quest_title_1030310000602030] VS 구즈마3
+[quest_title_1030310000602040] VS 구즈마4
+[quest_title_1030310000602060] 기사 카르네의 임무
+[quest_title_1030310000604000] 서로 닮은 존재
+[quest_title_1030310000604010] VS 카르네
+[quest_title_1030310000604020] VS 카르네2
+[quest_title_1030310000604030] VS 카르네3
+[quest_title_1030310000604040] VS 카르네4
+[quest_title_1030310000604060] 상대를 받아들이고 장점을 살리는 것
+[quest_title_1030310000603000] 두 공주와 포켓우드의 공주
+[quest_title_1030310000603010] VS 규리
+[quest_title_1030310000603020] VS 규리2
+[quest_title_1030310000603030] VS 규리3
+[quest_title_1030310000603040] VS 규리4
+[quest_title_1030310000603060] 공주 대결의 승자
+[quest_title_1030310000605000] 울트라 강철 포켓몬
+[quest_title_1030310000605040] VS 투희4
+[quest_title_1030310000605060] 공주와 철화구야
+[quest_title_1030431000402010] 모두에게 피카피카 선물!
+[quest_title_1030431000403010] 특별 챌린지 개최 중!
+[quest_title_1030431000202010] VS 라이치2
+[quest_title_1030431000203010] VS 라이치3
+[quest_title_1030431000204010] VS 라이치4
+[quest_title_1030310000605030] VS 투희3
+[quest_title_1030310000605010] VS 투희
+[quest_title_1030310000605020] VS 투희2
+[quest_title_1030431000201010] VS 라이치
 [quest_title_1030110000400600] VS 로켓단의 조무래기
 [quest_title_1030110000400700] VS 로켓단의 조무래기2
 [quest_title_1030110000400800] VS 로켓단의 조무래기3
@@ -13867,6 +14259,15 @@ story_quest_name_ko.lsd
 [quest_title_1030309000603100] 도구 대량 보너스 배틀!
 [quest_title_1030309000603110] 챌린지배틀로 승부!
 [quest_title_1030309000603120] 챌린지배틀로 승부!2
+[quest_title_1030431000205010] 1일 1회 한정 보너스 배틀!
+[quest_title_1030431000101010] VS 파시오의 트레이너
+[quest_title_1030431000102010] VS 파시오의 트레이너2
+[quest_title_1030431000103010] VS 파시오의 트레이너3
+[quest_title_1030431000104010] VS 파시오의 트레이너4
+[quest_title_1030310000605050] 1일 1회 한정 고난도 배틀!
+[quest_title_1030310000603050] 1일 1회 한정 고난도 배틀!
+[quest_title_1030310000604050] 1일 1회 한정 고난도 배틀!
+[quest_title_1030310000602050] 1일 1회 한정 고난도 배틀!
 
 ===========
 story_quest_name_zh-TW.lsd
@@ -15662,6 +16063,53 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030220251000000] 某日的歐尼奧
 [quest_title_1030220159000000] 某日的石蘭
 [quest_title_1030110000410600] ＶＳ　火箭隊手下４
+[quest_group_title_10158400000] 卡露妮
+（鎧甲）
+[quest_group_title_10004400000] 鬥子
+（禮服）
+[quest_group_title_10125400000] 古茲馬
+（鎧甲）
+[quest_group_title_10113400000] 阿蜜
+（禮服）
+[quest_title_1030310000601000] 收集金珠吧！
+[quest_title_1030310000601010] 開始行動的兩個陣營
+[quest_title_1030310000601020] 金珠爭奪戰
+[quest_title_1030310000601030] 鬥子的危機
+[quest_title_1030310000601040] 決戰的局勢
+[quest_title_1030310000601050] 挑戰對戰！　越橘
+[quest_title_1030310000601060] 挑戰對戰！　越橘２
+[quest_title_1030310000601070] 挑戰對戰！　波妮
+[quest_title_1030310000601080] 挑戰對戰！　波妮２
+[quest_title_1030310000602000] 騎士的決鬥
+[quest_title_1030310000602010] ＶＳ　古茲馬
+[quest_title_1030310000602020] ＶＳ　古茲馬２
+[quest_title_1030310000602030] ＶＳ　古茲馬３
+[quest_title_1030310000602040] ＶＳ　古茲馬４
+[quest_title_1030310000602060] 騎士卡露妮的職責
+[quest_title_1030310000604000] 相似的兩者
+[quest_title_1030310000604010] ＶＳ　卡露妮
+[quest_title_1030310000604020] ＶＳ　卡露妮２
+[quest_title_1030310000604030] ＶＳ　卡露妮３
+[quest_title_1030310000604040] ＶＳ　卡露妮４
+[quest_title_1030310000604060] 接受對方並發揮優勢
+[quest_title_1030310000603000] 兩位公主與寶可夢好萊塢的公主
+[quest_title_1030310000603010] ＶＳ　阿蜜
+[quest_title_1030310000603020] ＶＳ　阿蜜２
+[quest_title_1030310000603030] ＶＳ　阿蜜３
+[quest_title_1030310000603040] ＶＳ　阿蜜４
+[quest_title_1030310000603060] 公主對決的勝利者
+[quest_title_1030310000605000] 究極的鋼寶可夢
+[quest_title_1030310000605040] ＶＳ　鬥子４
+[quest_title_1030310000605060] 公主與鐵火輝夜
+[quest_title_1030431000402010] 贈送大家閃閃發亮的禮物！
+[quest_title_1030431000403010] 特別挑戰現正舉辦中！
+[quest_title_1030431000202010] ＶＳ　麗姿２
+[quest_title_1030431000203010] ＶＳ　麗姿３
+[quest_title_1030431000204010] ＶＳ　麗姿４
+[quest_title_1030310000605030] ＶＳ　鬥子３
+[quest_title_1030310000605010] ＶＳ　鬥子
+[quest_title_1030310000605020] ＶＳ　鬥子２
+[quest_title_1030431000201010] ＶＳ　麗姿
 [quest_title_1030110000400600] ＶＳ　火箭隊手下
 [quest_title_1030110000400700] ＶＳ　火箭隊手下２
 [quest_title_1030110000400800] ＶＳ　火箭隊手下３
@@ -15684,6 +16132,15 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030309000603100] 獲得大量道具的獎勵對戰！
 [quest_title_1030309000603110] 用挑戰對戰決勝負！
 [quest_title_1030309000603120] 用挑戰對戰決勝負！２
+[quest_title_1030431000205010] １天僅限１次的獎勵對戰！
+[quest_title_1030431000101010] ＶＳ　帕希歐的訓練家
+[quest_title_1030431000102010] ＶＳ　帕希歐的訓練家２
+[quest_title_1030431000103010] ＶＳ　帕希歐的訓練家３
+[quest_title_1030431000104010] ＶＳ　帕希歐的訓練家４
+[quest_title_1030310000605050] １天僅限１次的高難度對戰！
+[quest_title_1030310000603050] １天僅限１次的高難度對戰！
+[quest_title_1030310000604050] １天僅限１次的高難度對戰！
+[quest_title_1030310000602050] １天僅限１次的高難度對戰！
 
 ===========
 trainer_description_de.lsd
@@ -16289,6 +16746,22 @@ Menschen in die Welt der Geister-Pokémon.
 [10095400000] Kattlea trägt ein Outfit, das perfekt auf Zobiris abgestimmt
 ist. Gerüchten zufolge werden jene, die ihren Schlaf
 stören, zu einem mysteriösen Ball eingeladen.
+[10125400000] Bromley trägt eine spezielle Rüstung. Als furchtloser
+Anführer steht er an der Spitze seines Teams und
+beschreitet zusammen mit Masskito den Pfad der
+Zerstörung.
+[10158400000] Diantha erscheint in einer speziellen Rüstung. Mit ihrem
+bezaubernden Auftreten spornt sie ihr Team zu
+Höchstleistungen an. Die tiefe Bindung zwischen ihr und
+Keldeo macht die beiden noch stärker.
+[10113400000] Jasmins besonderes Kleid verleiht ihr ein Gefühl von
+Stärke. Sie unterstützt ihr Team tatkräftig, indem sie die
+Verteidigung von allen Gefährten erhöht. Den Körper ihres
+Kaguron hält sie stets glänzend sauber.
+[10004400000] Lotta trägt ein umwerfendes Kleid. Auch in den
+fesselndsten Kämpfen denkt sie stets an den Sieg ihres
+Teams. Ihr Outfit gleicht Diancie, was ihr noch mehr
+Selbstvertrauen und Motivation verleiht.
 
 ===========
 trainer_description_en.lsd
@@ -16849,6 +17322,18 @@ and usher them into the world of Ghost-type Pokémon.
 [10095400000] Caitlin is wearing an outfit that matches her partner,
 Sableye. Rumor has it that those who disturb her slumber
 are invited to an enchantingly elegant ball.
+[10125400000] Guzma is back in a special costume, fearlessly leading
+his team from the front of the pack. He lets out mighty
+battle cries of destruction together with Buzzwole.
+[10158400000] Diantha is back in a special costume, rallying her team
+with her professional acting chops. She and Keldeo
+challenge each other to reach even greater heights.
+[10113400000] Jasmine is back in a special costume. She uses her
+steel-clad defense to protect her team and is always
+polishing Celesteela until its body is nice and shiny.
+[10004400000] Hilda is back in a special costume designed to match
+her partner, Diancie. Even as she captivates audiences
+in battle, she aims for victory without ever holding back.
 
 ===========
 trainer_description_es.lsd
@@ -17507,6 +17992,20 @@ internan en el mundo de los Pokémon de tipo Fantasma.
 [10095400000] Catleya se alegra de haber encontrado un traje a juego
 con Sableye. Quien interrumpa su plácido sueño recibirá
 una invitación a un misterioso baile.
+[10125400000] Guzmán se viste con un traje especial para liderar a su
+equipo en la Competición Pokémon y sembrar la
+destrucción junto con Buzzwole.
+[10158400000] Dianta se viste con un traje especial para inspirar a su
+equipo en la Competición Pokémon. Gracias a su vínculo
+con Keldeo y a su experiencia en las artes escénicas,
+ofrece una actuación impecable.
+[10113400000] Yasmina se viste con un traje especial para defender a su
+equipo en la Competición Pokémon. Le encanta sacar
+brillo al pulido cuerpo metálico de su compi Celesteela.
+[10004400000] Liza se viste con un traje especial para hacer brillar a
+su equipo en la Competición Pokémon. Incluso en los
+combates más intensos, su vestido y su compi Diancie
+relucen como los diamantes.
 
 ===========
 trainer_description_fr.lsd
@@ -18105,6 +18604,21 @@ des Pokémon Spectre.
 [10095400000] Percila porte une belle tenue assortie à son Ténéfix.
 Ceux qui osent troubler son sommeil sont conviés
 à un bal aussi mystérieux qu'élégant.
+[10125400000] Vêtu de son Look Spécial, Guzma se bat vaillamment
+en première ligne et guide ses troupes. Accompagné
+de son puissant Mouscoto, il a soif de destruction
+et n'a pas peur de le faire savoir !
+[10158400000] Vêtue de son Look Spécial, Dianthéa est de retour pour
+motiver son équipe grâce à ses talents d'actrice.
+Avec Keldeo à ses côtés, elle vise de nouveaux sommets.
+[10113400000] Jasmine est de retour, cette fois-ci dans un Look Spécial.
+Elle protège son équipe grâce à sa défense impénétrable,
+puis s'amuse à polir le corps d'acier de Bamboiselle
+afin de le faire briller.
+[10004400000] Vêtue de son Look Spécial, Ludvina est de retour et vise
+la victoire même lors des défis les plus difficiles afin
+de faire gagner son équipe. Sa tenue, assortie à Diancie,
+lui donne toute la motivation nécessaire.
 
 ===========
 trainer_description_it.lsd
@@ -18714,6 +19228,22 @@ di far appassionare le persone ai Pokémon di tipo Spettro.
 [10095400000] Catlina indossa un abito che si abbina alla perfezione
 con Sableye. Coloro che osano disturbare il suo riposo
 vengono invitati a un ballo misterioso e molto elegante.
+[10125400000] Guzman indossa un'armatura speciale, e trascina
+la sua squadra lottando valorosamente in prima linea.
+Insieme al suo fidato Buzzwole, ha sete di distruzione
+e vuole sbriciolare il mondo.
+[10158400000] Diantha, protetta da un'armatura speciale, infonde vigore
+alla squadra grazie al suo talento come attrice.
+Lei e Keldeo sono uniti da un profondo legame
+che sprona entrambi a migliorare.
+[10113400000] Jasmine indossa un elegante abito speciale, e cerca
+di aiutare la squadra sfruttando al massimo la sua difesa
+d'acciaio. Lucida spesso il suo Celesteela per tirarlo
+a specchio.
+[10004400000] Anita indossa un abito speciale che richiama lo stile
+di Diancie e che le dona tutto l'entusiasmo necessario
+per affrontare al meglio anche le sfide più ardue insieme
+alla sua squadra.
 
 ===========
 trainer_description_ja.lsd
@@ -19273,6 +19803,18 @@ trainer_description_ja.lsd
 [10095400000] ヤミラミと　お似合いの　仮装を　楽しむ　カトレア。
 その眠りを　さまたげて　しまった　者は
 妖しく　エレガントな　舞踏会へ　誘われるという。
+[10125400000] スペシャルな　衣装を　身にまとった　グズマ。
+恐れず　先陣を　切って　チームを　引っぱる。
+マッシブーンと　共に　破壊の　雄たけびを　あげる。
+[10158400000] スペシャルな　衣装を　身にまとった　カルネ。
+輝く　プロの　演技で　チームを　盛りあげる。
+ケルディオとは　お互いを　高めあう　関係。
+[10113400000] スペシャルな　衣装を　身にまとった　ミカン。
+鉄壁ガードを　最大限に　いかして　チームに　貢献。
+テッカグヤのボディは　いつもピカピカに　している。
+[10004400000] スペシャルな　衣装を　身にまとった　トウコ。
+魅せる勝負も　手は抜かず　チームで勝利を　目指す。
+ディアンシーを　イメージした衣装で　気合いも充分。
 
 ===========
 trainer_description_ko.lsd
@@ -19832,6 +20374,18 @@ WPM 운영위원회의 대표도 맡고 있다.
 [10095400000] 깜까미와 어울리는 분장을 즐기고 있는 카틀레야.
 그녀의 잠을 방해해버린 자는
 수상하고 엘레강트한 무도회에 끌려간다고 한다.
+[10125400000] 스페셜 의상을 입은 구즈마.
+두려움 없이 앞장서서 팀을 이끈다.
+매시붕과 함께 파괴의 포효를 지른다.
+[10158400000] 스페셜 의상을 입은 카르네.
+빛나는 프로의 연기로 팀 분위기를 고조시킨다.
+케르디오와 서로 성장해나가는 관계.
+[10113400000] 스페셜 의상을 입은 규리.
+철벽 방어를 최대한으로 살려서 팀에 공헌한다.
+철화구야는 항상 반짝반짝 빛나고 있다.
+[10004400000] 스페셜 의상을 입은 투희.
+사람들을 매료시키는 승부도 봐주지 않고 팀으로 승리를 노린다.
+디안시를 표현한 의상으로 기합도 가득하다.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -20390,6 +20944,18 @@ trainer_description_zh-TW.lsd
 [10095400000] 裝扮成和勾魂眼搭配的樣子，
 並樂在其中的嘉德麗雅。妨礙她睡覺的人，
 據說會受邀參加詭怪優雅的舞會。
+[10125400000] 身穿特別服裝的古茲馬。
+無所畏懼地帶頭領導著隊伍。
+他會和爆肌蚊一起發出破壞的吼聲。
+[10158400000] 身穿特別服裝的卡露妮。
+用閃耀動人的專業演技炒熱隊伍氣氛。
+她與凱路迪歐是互相切磋砥礪的夥伴。
+[10113400000] 身穿特別服裝的阿蜜。
+將銅牆鐵壁般的防守發揮到極致為隊伍貢獻。
+她總是把鐵火輝夜的身體擦得閃閃發亮。
+[10004400000] 身穿特別服裝的鬥子。即使是進行令人著迷的
+對戰也會和隊伍一起邁向勝利，不會因此鬆懈。
+以蒂安希為靈感的服裝也讓她幹勁十足。
 
 ===========
 trainer_name_de.lsd
@@ -21836,6 +22402,14 @@ trainer_verbose_name_de.lsd
 (Saison 2021)
 [10095400000] Kattlea
 (Saison 2021)
+[10125400000] Bromley
+(Kostüm)
+[10158400000] Diantha
+(Kostüm)
+[10113400000] Jasmin
+(Kostüm)
+[10004400000] Lotta
+(Kostüm)
 
 ===========
 trainer_verbose_name_en.lsd
@@ -21901,6 +22475,14 @@ Cynthia
 (Fall 2021)
 [10095400000] Caitlin
 (Fall 2021)
+[10125400000] Guzma
+(Special Costume)
+[10158400000] Diantha
+(Special Costume)
+[10113400000] Jasmine
+(Special Costume)
+[10004400000] Hilda
+(Special Costume)
 
 ===========
 trainer_verbose_name_es.lsd
@@ -21959,6 +22541,12 @@ trainer_verbose_name_es.lsd
 (Temporada 21)
 [10095400000] Catleya
 (Temporada 21)
+[10125400000] Guzmán
+(Especial)
+[10158400000] Dianta (Especial)
+[10113400000] Yasmina
+(Especial)
+[10004400000] Liza (Especial)
 
 ===========
 trainer_verbose_name_fr.lsd
@@ -22019,6 +22607,14 @@ trainer_verbose_name_fr.lsd
 (Saison 2021)
 [10095400000] Percila
 (Saison 2021)
+[10125400000] Guzma
+(Spécial)
+[10158400000] Dianthéa
+(Spécial)
+[10113400000] Jasmine
+(Spécial)
+[10004400000] Ludvina
+(Spécial)
 
 ===========
 trainer_verbose_name_it.lsd
@@ -22082,6 +22678,14 @@ trainer_verbose_name_it.lsd
 (feste 2021)
 [10095400000] Catlina
 (feste 2021)
+[10125400000] Guzman
+(speciale)
+[10158400000] Diantha
+(speciale)
+[10113400000] Jasmine
+(speciale) 
+[10004400000] Anita
+(speciale)
 
 ===========
 trainer_verbose_name_ja.lsd
@@ -22145,6 +22749,14 @@ trainer_verbose_name_ja.lsd
 （２１シーズン）
 [10095400000] カトレア
 （２１シーズン）
+[10125400000] グズマ
+（スペシャル）
+[10158400000] カルネ
+（スペシャル）
+[10113400000] ミカン
+（スペシャル）
+[10004400000] トウコ
+（スペシャル）
 
 ===========
 trainer_verbose_name_ko.lsd
@@ -22208,6 +22820,14 @@ trainer_verbose_name_ko.lsd
 (21시즌)
 [10095400000] 카틀레야
 (21시즌)
+[10125400000] 구즈마
+(스페셜)
+[10158400000] 카르네
+(스페셜)
+[10113400000] 규리
+(스페셜)
+[10004400000] 투희
+(스페셜)
 
 ===========
 trainer_verbose_name_zh-TW.lsd
@@ -22271,6 +22891,14 @@ trainer_verbose_name_zh-TW.lsd
 （２０２１秋季）
 [10095400000] 嘉德麗雅
 （２０２１秋季）
+[10125400000] 古茲馬
+（鎧甲）
+[10158400000] 卡露妮
+（鎧甲）
+[10113400000] 阿蜜
+（禮服）
+[10004400000] 鬥子
+（禮服）
 
 ===========
 common_widget_de.lsd
@@ -22730,6 +23358,7 @@ hast.
 [common_widget/release_014] Wird in einem zukünftigem Update freigeschaltet.
 [common_widget/release_018] Dieser Event ist nur im Multimodus verfügbar. Der Multimodus wird nach Abschluss von „Vorhang auf für die WPM!“ im Zwischenspiel 1 der Hauptgeschichte freigeschaltet.
 [common_widget/release_019] Dieser Event ist nur im Multimodus verfügbar. Den Modus kannst du über die Schaltfläche oben auf dem Bildschirm wechseln.
+[common_widget/release_020] Wird freigeschaltet, indem du das erste Ei ausbrütest, das du von Professor Daisy erhalten hast.
 [common_widget/egg_hatched_cutin_001] Oh?
 [common_widget/egg_hatched_cutin_002] Ein [Name:PokemonName ] ist aus
 dem Ei geschlüpft!
@@ -23198,6 +23827,8 @@ Let the Tournament Begin!
 [common_widget/release_019] This is a co-op-only event.
 You can switch to co-op view by tapping
 the button at the top of the screen.
+[common_widget/release_020] To unlock, hatch the Egg you first
+received from Professor Bellis.
 [common_widget/egg_hatched_cutin_001] Oh?
 [common_widget/egg_hatched_cutin_002] [Name:PokemonName ] hatched
 from the Egg!
@@ -23683,6 +24314,9 @@ te entregue.
 [common_widget/release_014] Disponible en una próxima actualización.
 [common_widget/release_018] Este evento solo está disponible en modo multijugador. Para desbloquear este modo, completa "¡Que comience el WPM!", del primer interludio de la historia principal.
 [common_widget/release_019] Este evento solo está disponible en modo multijugador. Puedes seleccionar este modo tocando el botón en la parte superior de la pantalla.
+[common_widget/release_020] Disponible cuando eclosione el primer
+Huevo que te entregó la Profesora
+Margarita.
 [common_widget/egg_hatched_cutin_001] Anda...
 [common_widget/egg_hatched_cutin_002] El Huevo ha eclosionado y ha salido un
 [Name:PokemonName ].
@@ -24175,6 +24809,8 @@ dans l'intermède.
 Vous pouvez accéder au mode coop
 en appuyant sur le bouton
 en haut de l'écran.
+[common_widget/release_020] Débloqué après avoir fait éclore l'Œuf
+que la Professeure Bellis vous a confié.
 [common_widget/egg_hatched_cutin_001] Oh ?!
 [common_widget/egg_hatched_cutin_002] Un [Name:PokemonName ] est
 sorti de l'Œuf !
@@ -24653,6 +25289,9 @@ della storia.
 in modalità multigiocatore. Puoi accedere
 a questa modalità toccando il pulsante
 "Gioca in compagnia" in alto a destra.
+[common_widget/release_020] Fai schiudere il primo Uovo ricevuto
+dalla Professoressa Bellisperia per
+sbloccare questa funzione.
 [common_widget/egg_hatched_cutin_001] Oh!
 [common_widget/egg_hatched_cutin_002] Dall'Uovo è nato [Name:PokemonName ]!
 [common_widget/egg_detail_001] Inserisci un nome.
@@ -25138,6 +25777,9 @@ HARDクリアで解放
 「みんなであそぶ」には
 画面上部のボタンから
 切り替えることができます
+[common_widget/release_020] 初めてヒナギク博士から
+預かったタマゴをふかさせると
+解放されます
 [common_widget/egg_hatched_cutin_001] おや？
 [common_widget/egg_hatched_cutin_002] タマゴが　かえって
 [Name:PokemonName ]が　うまれた！
@@ -25621,6 +26263,8 @@ Lv.MAX
 "멀티플레이"를 하기 위해서는
 화면 위쪽의 버튼을 눌러서
 변경할 수 있습니다
+[common_widget/release_020] 데이지박사에게 처음 받은
+알을 부화시키면 해방됩니다
 [common_widget/egg_hatched_cutin_001] 어라?
 [common_widget/egg_hatched_cutin_002] 알이 부화해서
 [Name:PokemonName ][Kor:Particle char="ga" ] 태어났다!
@@ -26071,6 +26715,8 @@ EX服裝！
 [common_widget/release_019] 這是「多隊模式」專用活動
 透過畫面上方的按鈕
 即可切換成「多隊模式」
+[common_widget/release_020] 首次孵化雛菊博士
+給的蛋之後將會開放
 [common_widget/egg_hatched_cutin_001] ……咦？
 [common_widget/egg_hatched_cutin_002] 蛋孵化成[Name:PokemonName ]了！
 [common_widget/egg_detail_001] 請輸入暱稱
@@ -28317,6 +28963,14 @@ Belohnung erhalten!
 [home/quest_list_163] Update zum Schurken-Event
 [home/quest_list_164] Schurken-Event
 [home/quest_list_165] Hauptgeschichte
+[home/quest_list_166] Nutze Items zur Freischaltung
+[home/quest_list_167] Möchtest du diese Items zur Freischaltung einsetzen?
+[Name:Item ] × [Digit:5digits ]
+[home/quest_list_168] Du hast nicht genügend Exemplare des Items [Name:Item ] zur Freischaltung.
+[home/quest_list_169] Freischalten
+[home/quest_list_170] Wird in [Digit:3digits ] Tag[DE:Qty P="en" ] freigeschaltet.
+[home/quest_list_171] Wird freigeschaltet in:
+[Name:DateTime ]
 [home/quest_detail_003] Empfohlener Typ
 [home/quest_detail_005] Details
 [home/quest_detail_009] Teamauswahl
@@ -28473,6 +29127,7 @@ Boosts pro Tag gewinnen.
 [home/quest_detail_143] Hinweis: Punkte, die die maximale Punktzahl überschreiten, werden nicht mitgerechnet.
 [home/quest_detail_144] Hinweis: Stärke-Boni gelten für die folgenden Statuswerte: Angriff, Verteidigung, Sp.-Ang. und Sp.-Vert.
 Boni werden nicht addiert. Gefährten mit mehreren Attributen erhalten nur den Bonus mit dem größten Effekt. 
+[home/quest_detail_145] Im Besitz
 [home/home_001] Laden
 [home/home_002] Abenteuer
 [home/home_003] Team
@@ -28518,6 +29173,14 @@ Schaue im Laden vorbei, um mehr zu
 erfahren.
 [home/home_036] Ticket-G-Suche
 [home/home_037] Ticket-G-Suche x10
+[home/home_038] Frohe G-Suche
+[home/home_039] Meisterfestival
+[home/home_040] PokéFestival
+[home/home_041] G-Suche × 10
+[home/home_042] Die Frohe G-Suche läuft!
+[home/home_043] Trainings-Sets für Gefährten
+[home/home_044] Mit dem Kauf eines Trainings-Sets kannst du Items erhalten, die einige Gefährten auf Level 120 bringen können. Schaue im Laden unter „Spezial-Sets kaufen“ vorbei.
+[home/home_048] Pokémon-Masters-Tag
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missionen
 [home/global_menu_008] Freunde
@@ -29080,6 +29743,15 @@ Points Earned!
 [home/quest_list_163] Villain Arc Update
 [home/quest_list_164] Villain Event
 [home/quest_list_165] Main Story
+[home/quest_list_166] Use items to unlock
+[home/quest_list_167] Use [Name:Item ] ×[Digit:5digits ]
+to unlock?
+[home/quest_list_168] You don’t have enough items yet.
+To unlock, collect more:
+[Name:Item ].
+[home/quest_list_169] Unlock
+[home/quest_list_170] Unlocks in [Digit:3digits ] day(s)
+[home/quest_list_171] Unlocks in [Name:DateTime ]
 [home/quest_detail_003] Recommended Types
 [home/quest_detail_005] Area Details
 [home/quest_detail_009] Preset Teams
@@ -29235,6 +29907,7 @@ battle. You can win up to a total of three boosts per day.
 [home/quest_detail_143] Total does not include points that exceed the maximum.
 [home/quest_detail_144] Note: Strength bonuses apply to the following stats: Attack, Defense, Sp. Atk, Sp. Def.
 If multiple bonuses apply to the same sync pair, the larger bonus will take effect. (These bonuses do not stack.)
+[home/quest_detail_145] Stock
 [home/home_001] Shop
 [home/home_002] Explore
 [home/home_003] Team
@@ -29275,6 +29948,17 @@ Available for a limited time!
 Check out the shop for more details.
 [home/home_036] Ticket Scout
 [home/home_037] 10-Pair Ticket Scout
+[home/home_038] Happy Scout
+[home/home_039] Master Fair
+[home/home_040] Poké Fair
+[home/home_041] Ticket Scout
+[home/home_042] Happy Scout
+[home/home_043] Sync Pair Training Bundles
+[home/home_044] Sync pair training bundles contain
+items for raising certain sync pairs to
+Lv. 120. You can find them in the
+Purchase Bundles section of the shop.
+[home/home_048] Pokémon Masters Day
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missions
 [home/global_menu_008] Friends
@@ -29798,6 +30482,16 @@ aprender.
 [home/quest_list_163] ¡Trama equipo villano!
 [home/quest_list_164] Evento villano
 [home/quest_list_165] Historia principal
+[home/quest_list_166] Se desbloqueará tras usar el objeto indicado.
+[home/quest_list_167] ¿Quieres desbloquear esta ubicación?
+Se consumirá[ES:Qty P="n" ] [ES:Qty S="el" P="los" ] siguiente[ES:Qty P="s" ] objeto[ES:Qty P="s" ]:
+[Name:Item ] ×[Digit:5digits ]
+[home/quest_list_168] No se puede desbloquear porque no
+tienes bastante del siguiente objeto:
+[Name:Item ]
+[home/quest_list_169] Desbloquear
+[home/quest_list_170] Se desbloqueará en [Digit:3digits ] día[ES:Qty P="s" ].
+[home/quest_list_171] Se desbloqueará en [Name:DateTime ].
 [home/quest_detail_003] Tipos recomendados
 [home/quest_detail_005] Detalles
 [home/quest_detail_009] Elegir equipo
@@ -29957,6 +30651,7 @@ puede activarse un máximo de tres veces al día.
 características: Ataque, Defensa, At. Esp. y Def. Esp.
 Si una pareja de compis cuenta con más de un bonus,
 solo se aplicará el más alto.
+[home/quest_detail_145] Tienes:
 [home/home_001] Tienda
 [home/home_002] Aventura
 [home/home_003] Equipo
@@ -29999,6 +30694,18 @@ por tiempo limitado:
 
 [home/home_036] Reclutamiento billete
 [home/home_037] Reclutamiento billete ×10
+[home/home_038] ¡Recl. Fortuna!
+[home/home_039] ¡Pokéfest. maestro!
+[home/home_040] ¡Pokéfestival!
+[home/home_041] ¡10 recl. sin coste!
+[home/home_042] ¡Recl. Fortuna en curso!
+[home/home_043] Lotes de desarrollo de compis
+[home/home_044] Los lotes de desarrollo de compis
+contienen objetos con los que puedes
+mejorar compis hasta el nivel 120.
+Puedes adquirirlos en la sección
+"Comprar lotes" de la tienda.
+[home/home_048] ¡Día de Pokémon Masters!
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Misiones
 [home/global_menu_008] Amigos
@@ -30538,6 +31245,15 @@ Récompense obtenue !
 [home/quest_list_163] Mise à jour : L'organisation maléfique
 [home/quest_list_164] Évènement de l'organisation maléfique
 [home/quest_list_165] Scénario principal
+[home/quest_list_166] Débloqué en utilisant les objets spécifiés.
+[home/quest_list_167] Débloquer en utilisant ces objets ?
+[Name:Item ] × [Digit:5digits ]
+[home/quest_list_168] Vous n'avez pas assez d'objets.
+Nécessaire pour débloquer :
+« [Name:Item ] »
+[home/quest_list_169] Débloquer
+[home/quest_list_170] Se débloque dans [Digit:3digits ] jour(s).
+[home/quest_list_171] Se débloque dans [Name:DateTime ].
 [home/quest_detail_003] Types conseillés
 [home/quest_detail_005] Infos
 [home/quest_detail_009] Équipes
@@ -30696,6 +31412,7 @@ Vous recevrez alors plus de points lors de votre prochain combat.
 Déf., Atq. Spé. et Déf. Spé. Pour les Duos ayant plusieurs
 mots-clés et qui sont éligibles pour recevoir le bonus,
 seul le bonus avec l'effet le plus important s'applique.
+[home/quest_detail_145] Vous avez
 [home/home_001] Boutique
 [home/home_002] Aventure
 [home/home_003] Équipe
@@ -30741,6 +31458,19 @@ Rendez-vous dans la boutique
 pour en savoir plus !
 [home/home_036] Appel Duo avec Bons
 [home/home_037] 10 Appels Duo avec Bons
+[home/home_038] Appel Duo Bonheur
+[home/home_039] Master festival en cours !
+[home/home_040] Festival !
+[home/home_041] Appel Duo avec Bons
+[home/home_042] Appel Duo Bonheur en cours
+[home/home_043] Lots d'Entraînement pour Duos
+[home/home_044] Les Lots d'Entraînement pour Duos
+contiennent les objets permettant
+à certains Duos d'atteindre
+le niveau 120. Vous pouvez
+les trouver dans la section
+« Achat de lots » de la boutique.
+[home/home_048] Journée Pokémon Masters en cours
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missions
 [home/global_menu_008] Amis
@@ -31321,6 +32051,16 @@ Nuova ricompensa!
 [home/quest_list_163] I gruppi malvagi: aggiornamento
 [home/quest_list_164] Evento gruppo malvagio
 [home/quest_list_165] Storia
+[home/quest_list_166] Si sblocca usando gli strumenti indicati.
+[home/quest_list_167] Vuoi usare questi strumenti
+per sbloccare la Guida area?
+[Name:Item ] ×[Digit:5digits ]
+[home/quest_list_168] Non hai abbastanza strumenti.
+Ti serve: [Name:Item ].
+[home/quest_list_169] Sblocca
+[home/quest_list_170] Giorni mancanti allo sblocco: [Digit:3digits ]
+[home/quest_list_171] Tempo mancante allo sblocco:
+[Name:DateTime ]
 [home/quest_detail_003] Tipi consigliati
 [home/quest_detail_005] Info area
 [home/quest_detail_009] Scegli squadra
@@ -31477,6 +32217,7 @@ attivarsi fino a un massimo di tre volte al giorno.
 Attacco, Difesa, Attacco Speciale e Difesa Speciale.
 Nel caso di Unità appartenenti a più gruppi con bonus,
 si attiverà solo quello col valore più alto.
+[home/quest_detail_145] Ne hai:
 [home/home_001] Negozio
 [home/home_002] Avventura
 [home/home_003] Squadra
@@ -31523,6 +32264,18 @@ Unicerche limitate:
 Scoprile subito nel negozio!
 [home/home_036] Unicerca con ticket
 [home/home_037] 10 ricerche Unità con ticket
+[home/home_038] Felicerca
+[home/home_039] Mastergala
+[home/home_040] Masterparty
+[home/home_041] Unicerca con ticket
+[home/home_042] Felicerca
+[home/home_043] Pacchetti allenamento Unità
+[home/home_044] I pacchetti allenamento Unità includono
+strumenti con i quali puoi portare
+alcune Unità al livello 120. Puoi trovarli
+nella sezione "Acquisto pacchetti"
+del negozio.
+[home/home_048] Pokémon Masters Day
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missioni
 [home/global_menu_008] Amici
@@ -31659,7 +32412,7 @@ previsto.
 [home/legend_battle_016] Come ottenerlo
 [home/legend_battle_017] Emblemi
 [home/legend_battle_018] Ricompense danni
-[home/legend_battle_019] Riduci al [Digit:3digits Idx="1" ]% la [Digit:2digits ]ª barra PS.
+[home/legend_battle_019] [Digit:2digits ]ª barra PS rimanente: [Digit:3digits Idx="1" ]%
 [home/legend_battle_020] Altre ricompense
 [home/legend_battle_021] Puoi ottenere ricompense in base ai danni inflitti al boss.
 [home/legend_battle_023] Puoi effettuare un ripristino per azzerare il numero
@@ -32087,6 +32840,14 @@ Lv.[Digit:2digits ]で解放
 [home/quest_list_163] 悪の組織編更新
 [home/quest_list_164] 悪の組織イベント
 [home/quest_list_165] メインストーリー
+[home/quest_list_166] 指定のどうぐ消費で解放
+[home/quest_list_167] [Name:Item ]×[Digit:5digits ]
+を消費して解放しますか？
+[home/quest_list_168] [Name:Item ]
+が足りないため解放できません
+[home/quest_list_169] 解放
+[home/quest_list_170] あと[Digit:3digits ]日で解放
+[home/quest_list_171] あと[Name:DateTime ]で解放
 [home/quest_detail_003] おすすめのタイプ
 [home/quest_detail_005] エリア詳細
 [home/quest_detail_009] チーム選択
@@ -32241,6 +33002,7 @@ Lv.[Digit:2digits ]で解放
 こうげき、ぼうぎょ、とくこう、とくぼう
 ※複数のタグが対象になるバディーズのボーナスは
 加算されずにより高い値が適用されます
+[home/quest_detail_145] 所持
 [home/home_001] ショップ
 [home/home_002] ぼうけん
 [home/home_003] チーム
@@ -32285,6 +33047,18 @@ Lv.[Digit:2digits ]で解放
 さっそくショップに行ってみよう
 [home/home_036] 無料10連開催中
 [home/home_037] 無料10連Bサーチ開催中
+[home/home_038] ハッピーBサーチ
+[home/home_039] マスターフェス
+[home/home_040] ポケマスフェス
+[home/home_041] 無料10連
+[home/home_042] ハッピーBサーチ開催中
+[home/home_043] バディーズ育成パック
+[home/home_044] バディーズ育成パックを購入すると
+一部のバディーズのLv.120までの
+強化に必要などうぐが獲得できます
+育成パックはショップの
+「おとくなパック購入」から購入できます
+[home/home_048] ポケマスデー開催チュウ
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] ミッション
 [home/global_menu_008] ともだち
@@ -32844,6 +33618,14 @@ Lv.[Digit:2digits ]에서 해방
 [home/quest_list_163] 악의 조직 편 갱신
 [home/quest_list_164] 악의 조직 이벤트
 [home/quest_list_165] 메인 스토리
+[home/quest_list_166] 지정된 도구를 사용하여 해방
+[home/quest_list_167] [Name:Item ]×[Digit:5digits ]
+사용해서 해방하겠습니까?
+[home/quest_list_168] [Name:Item ][Kor:Particle char="ga" ]
+부족하여 해방할 수 없습니다
+[home/quest_list_169] 해방
+[home/quest_list_170] 앞으로 [Digit:3digits ]일 뒤에 해방
+[home/quest_list_171] 앞으로 [Name:DateTime ] 뒤에 해방
 [home/quest_detail_003] 추천타입
 [home/quest_detail_005] 에리어 상세
 [home/quest_detail_009] 팀 선택
@@ -32996,6 +33778,7 @@ Lv.[Digit:2digits ]에서 해방
 공격, 방어, 특수공격, 특수방어
 ※다수의 태그가 대상이 된 버디즈의 보너스는
 가산되지 않으며 더 높은 수치가 적용됩니다
+[home/quest_detail_145] 보유
 [home/home_001] 숍
 [home/home_002] 모험
 [home/home_003] 팀
@@ -33037,6 +33820,18 @@ Lv.[Digit:2digits ]에서 해방
 바로 숍으로 가봅시다
 [home/home_036] 무료 10연속 개최 중
 [home/home_037] 무료 10연속 B서치 개최 중
+[home/home_038] 해피 B서치
+[home/home_039] 마스터페스티벌
+[home/home_040] PM페스티벌
+[home/home_041] 무료 10연속
+[home/home_042] 해피 B서치 개최 중
+[home/home_043] 버디즈 육성 팩
+[home/home_044] 버디즈 육성 팩을 구입하면
+일부 버디즈의 Lv.120까지
+강화에 필요한 도구를 획득할 수 있습니다
+육성 팩은 숍의
+"스페셜 팩 구입"에서 구입할 수 있습니다
+[home/home_048] 포켓몬 마스터즈 데이 개최 중
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] 미션
 [home/global_menu_008] 친구
@@ -33571,6 +34366,14 @@ home_zh-TW.lsd
 [home/quest_list_163] 邪惡組織篇更新
 [home/quest_list_164] 邪惡組織活動
 [home/quest_list_165] 主線劇情
+[home/quest_list_166] 消耗指定道具即可開放
+[home/quest_list_167] 要消耗[Name:Item ]×[Digit:5digits ]
+來開放嗎？
+[home/quest_list_168] [Name:Item ]不足
+無法開放
+[home/quest_list_169] 開放
+[home/quest_list_170] 還剩[Digit:3digits ]天開放
+[home/quest_list_171] 還剩[Name:DateTime ]開放
 [home/quest_detail_003] 推薦屬性
 [home/quest_detail_005] 區域詳情
 [home/quest_detail_009] 選擇隊伍
@@ -33718,6 +34521,7 @@ home_zh-TW.lsd
 攻擊、防禦、特攻和特防
 ※當指定拍組擁有多個標籤時
 將適用於數值較高的獎勵而不會重複累計
+[home/quest_detail_145] 持有
 [home/home_001] 商店
 [home/home_002] 冒險
 [home/home_003] 隊伍
@@ -33759,6 +34563,18 @@ home_zh-TW.lsd
 快去商店看看吧！
 [home/home_036] 免費連續１０次現正舉辦中
 [home/home_037] 免費連續１０次拍組搜尋現正舉辦中
+[home/home_038] 開心拍組搜尋
+[home/home_039] 大師盛典
+[home/home_040] 群星盛典
+[home/home_041] 免費連續１０次
+[home/home_042] 開心拍組搜尋現正舉辦中
+[home/home_043] 拍組培育組合包
+[home/home_044] 購買拍組培育組合包
+即可獲得將部分拍組
+強化至Lv.120所需的道具
+培育組合包可以從商店的
+「購買超值組合包」中購買
+[home/home_048] 群星盛典日現正舉辦中
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] 任務
 [home/global_menu_008] 朋友
@@ -34065,7 +34881,7 @@ shop_de.lsd
 ===========
 [shop/shop_top_001] Laden
 [shop/shop_top_003] Gefährtensuche
-[shop/shop_top_004] Juwelen-Kauf
+[shop/shop_top_004] Juwelen kaufen
 [shop/shop_top_005] Item-Tausch
 [shop/shop_top_006] Kauf abschließen
 [shop/shop_top_008] Ausrüstungstausch
@@ -34080,6 +34896,10 @@ shop_de.lsd
 [shop/shop_top_018] Erhalte Gefährten z. B. durch Tickets!
 [shop/shop_top_019] Ticket-Gefährtensuche
 [shop/shop_top_020] Tausche Ausrüstung gegen Münzen und Items
+[shop/shop_top_021] Spezial-Sets kaufen
+[shop/shop_top_022] Spezial-Sets kaufen
+[shop/shop_top_023] Kaufe Juwelen
+[shop/shop_top_024] Kaufe Spezial-Sets
 [shop/shop_common_001] Handelstransaktionen
 [shop/shop_common_002] Zahlungsgesetze
 [shop/shop_common_003] Kauflimit
@@ -34182,6 +35002,33 @@ einem Kauf lesen.
 [shop/shop_medal_044] Geschenk
 [shop/shop_medal_045] [Name:Item ] (1 Mal)
 24-Stunden-Abhollimit
+[shop/shop_medal_046] Gekaufte Juwelen
+[shop/shop_medal_047] Kostenlose Juwelen
+[shop/shop_medal_048] Geschenk
+[shop/shop_medal_049] Abgeholt
+[shop/shop_medal_050] Bereits abgeholt
+[shop/shop_medal_051] Gekauft
+[shop/shop_medal_052] Kostenlos
+[shop/shop_medal_053] Normal
+[shop/shop_medal_054] Täglich
+[shop/shop_medal_055] Wöchentlich
+[shop/shop_medal_056] Monatlich
+[shop/shop_medal_057] Spezial-Sets kaufen
+[shop/shop_medal_058] Derzeit sind keine Waren verfügbar.
+[shop/shop_medal_059] Juwelen abholen
+[shop/shop_medal_060] Die folgenden Juwelen wurden abgeholt:
+[shop/shop_medal_061] Starthilfe
+[shop/shop_medal_062] Login-Bonus
+[shop/shop_medal_063] Eier
+[shop/shop_medal_064] Juwelen kaufen
+[shop/shop_medal_065] Für alle, die einen Vorsprung wollen!
+[shop/shop_medal_066] Für alle, die fortlaufend Boni erhalten wollen!
+[shop/shop_medal_067] Für alle, die zahlreiche Eier ausbrüten wollen!
+[shop/shop_medal_068] Wird monatlich zurückgesetzt
+[shop/shop_medal_069] Wird wöchentlich zurückgesetzt
+[shop/shop_medal_070] Wird täglich zurückgesetzt
+[shop/shop_medal_071] Manche Waren sind nur für limitierte Zeit erhältlich.
+[shop/shop_medal_073] Items (abgesehen von Juwelen), die das maximale Speicherlimit überschreiten, werden gelöscht.
 [shop/shop_itemexchange_001] Item-Tausch
 [shop/shop_itemexchange_003] Tauschen
 [shop/shop_itemexchange_004] Tauschen
@@ -34672,6 +35519,10 @@ shop_en.lsd
 [shop/shop_top_018] Team up with sync pairs using tickets, etc.
 [shop/shop_top_019] Ticket Scout
 [shop/shop_top_020] Exchange unwanted gear for items and coins
+[shop/shop_top_021] Purchase Bundles
+[shop/shop_top_022] Purchase Bundles
+[shop/shop_top_023] Purchase gems
+[shop/shop_top_024] Purchase special bundles
 [shop/shop_common_001] Commercial Transactions
 [shop/shop_common_002] Payment Laws
 [shop/shop_common_003] Purchase Limits
@@ -34774,6 +35625,36 @@ Present Box for a limited time.
 [shop/shop_medal_044] Present
 [shop/shop_medal_045] [Name:Item ] (1 use)
 Note: Must claim within 24 hours
+[shop/shop_medal_046] Paid Gems
+[shop/shop_medal_047] Non-paid Gems
+[shop/shop_medal_048] Gift Gems
+[shop/shop_medal_049] Claimed
+[shop/shop_medal_050] Already Claimed
+[shop/shop_medal_051] Paid
+[shop/shop_medal_052] Non-paid
+[shop/shop_medal_053] General
+[shop/shop_medal_054] Daily
+[shop/shop_medal_055] Weekly
+[shop/shop_medal_056] Monthly
+[shop/shop_medal_057] Purchase Bundles
+[shop/shop_medal_058] No products are currently available
+for purchase.
+[shop/shop_medal_059] Gems Claimed
+[shop/shop_medal_060] The following gems have
+been claimed:
+[shop/shop_medal_061] New Players
+[shop/shop_medal_062] Log-In Bonuses
+[shop/shop_medal_063] Eggs
+[shop/shop_medal_064] Purchase Gems
+[shop/shop_medal_065] Recommended for players who want to jump-start their adventure!
+[shop/shop_medal_066] Recommended for players who want to receive consistent bonuses!
+[shop/shop_medal_067] Recommended for players who want to hatch lots of Eggs!
+[shop/shop_medal_068] Resets monthly
+[shop/shop_medal_069] Resets weekly
+[shop/shop_medal_070] Resets daily
+[shop/shop_medal_071] Some event-related products are only available for a limited time.
+[shop/shop_medal_073] Items other than gems that exceed the maximum storage
+limit will be deleted.
 [shop/shop_itemexchange_001] Exchange Items
 [shop/shop_itemexchange_003] Exchanged
 [shop/shop_itemexchange_004] Exchange
@@ -35125,6 +36006,10 @@ shop_es.lsd
 [shop/shop_top_018] Usa billetes para obtener compis.
 [shop/shop_top_019] Reclutamiento billete
 [shop/shop_top_020] Canjea accesorios por objetos y monedas
+[shop/shop_top_021] Comprar lotes
+[shop/shop_top_022] Comprar lotes
+[shop/shop_top_023] Consigue joyas.
+[shop/shop_top_024] Consigue lotes especiales.
 [shop/shop_common_001] Transacciones comerciales específicas
 [shop/shop_common_002] Legislación relativa a los pagos
 [shop/shop_common_003] Límite de compra
@@ -35226,6 +36111,35 @@ no hayas aceptado desaparecerán pasado un tiempo.
 [shop/shop_medal_044] Regalo
 [shop/shop_medal_045] [Name:Item ] (un uso)
 Tienes 24 horas para recibirlo.
+[shop/shop_medal_046] Joyas de pago
+[shop/shop_medal_047] Joyas sin coste
+[shop/shop_medal_048] De regalo
+[shop/shop_medal_049] Aceptado
+[shop/shop_medal_050] Ya aceptado
+[shop/shop_medal_051] De pago
+[shop/shop_medal_052] Sin coste
+[shop/shop_medal_053] Normales
+[shop/shop_medal_054] Diarias
+[shop/shop_medal_055] Semanales
+[shop/shop_medal_056] Mensuales
+[shop/shop_medal_057] Comprar lotes
+[shop/shop_medal_058] Ahora mismo no hay productos
+disponibles.
+[shop/shop_medal_059] Joyas aceptadas
+[shop/shop_medal_060] Has recibido las siguientes joyas:
+[shop/shop_medal_061] Ayudas de iniciación
+[shop/shop_medal_062] Bonif. de inicio
+[shop/shop_medal_063] Huevos
+[shop/shop_medal_064] Comprar joyas
+[shop/shop_medal_065] ¡Para nuevos jugadores que quieran un empujón!
+[shop/shop_medal_066] ¡Para quienes quieran recibir bonificaciones continuamente!
+[shop/shop_medal_067] ¡Para quienes quieran incubar montones de Huevos!
+[shop/shop_medal_068] Estos lotes de joyas se restablecen cada mes.
+[shop/shop_medal_069] Estos lotes de joyas se restablecen cada semana.
+[shop/shop_medal_070] Estos lotes de joyas se restablecen a diario.
+[shop/shop_medal_071] ¡Estos lotes de joyas limitados cambian según los eventos activos!
+[shop/shop_medal_073] Aviso: Los objetos por encima del límite (excepto las joyas)
+se eliminarán.
 [shop/shop_itemexchange_001] Canjear objetos
 [shop/shop_itemexchange_003] Canjear
 [shop/shop_itemexchange_004] Canjear
@@ -35539,6 +36453,10 @@ shop_fr.lsd
 [shop/shop_top_018] Vous pouvez obtenir des Duos en utilisant des Bons, etc.
 [shop/shop_top_019] Appel Duo avec Bons
 [shop/shop_top_020] Échangez votre équipement contre objets et Pièces.
+[shop/shop_top_021] Achat de lots
+[shop/shop_top_022] Achat de lots
+[shop/shop_top_023] Acheter des Diamants
+[shop/shop_top_024] Acheter des lots spéciaux
 [shop/shop_common_001] Transactions commerciales spécifiées
 [shop/shop_common_002] Lois relatives aux paiements
 [shop/shop_common_003] Limite d'achat
@@ -35637,6 +36555,35 @@ seront récupérables pendant une période limitée.
 [shop/shop_medal_044] Cadeau
 [shop/shop_medal_045] [Name:Item ] (1 fois)
 À récupérer dans les 24 h.
+[shop/shop_medal_046] Diamants payants
+[shop/shop_medal_047] Diamants non payants
+[shop/shop_medal_048] Diamants en cadeau
+[shop/shop_medal_049] Reçu
+[shop/shop_medal_050] Déjà reçu
+[shop/shop_medal_051] Payants
+[shop/shop_medal_052] Non payants
+[shop/shop_medal_053] Standard
+[shop/shop_medal_054] Journalier
+[shop/shop_medal_055] Hebdomadaire
+[shop/shop_medal_056] Mensuel
+[shop/shop_medal_057] Achat de lots
+[shop/shop_medal_058] Aucun produit n'est disponible
+à l'achat actuellement.
+[shop/shop_medal_059] Diamants reçus
+[shop/shop_medal_060] Vous avez reçu les Diamants suivants :
+[shop/shop_medal_061] Nouveaux joueurs
+[shop/shop_medal_062] Bonus de connexion
+[shop/shop_medal_063] Œufs
+[shop/shop_medal_064] Achat de Diamants
+[shop/shop_medal_065] Pour les joueurs désirant un coup de pouce dans leurs aventures !
+[shop/shop_medal_066] Pour les joueurs souhaitant recevoir des bonus de façon continue !
+[shop/shop_medal_067] Pour les joueurs souhaitant faire éclore plein d'Œufs !
+[shop/shop_medal_068] Se réinitialise chaque mois.
+[shop/shop_medal_069] Se réinitialise chaque semaine.
+[shop/shop_medal_070] Se réinitialise chaque jour.
+[shop/shop_medal_071] Les produits liés aux évènements ont une disponibilité limitée.
+[shop/shop_medal_073] À l'exception des Diamants, tout objet dont la quantité
+dépasse la limite de stockage sera supprimé.
 [shop/shop_itemexchange_001] Échange d'objets
 [shop/shop_itemexchange_003] Échange
 [shop/shop_itemexchange_004] Échanger
@@ -35958,6 +36905,10 @@ shop_it.lsd
 [shop/shop_top_018] Puoi ottenere Unità con ticket e in altri modi.
 [shop/shop_top_019] Ricerca Unità con ticket
 [shop/shop_top_020] Scambio accessori con monete e materiali
+[shop/shop_top_021] Acquisto pacchetti
+[shop/shop_top_022] Acquisto pacchetti
+[shop/shop_top_023] Puoi comprare gemme.
+[shop/shop_top_024] Puoi comprare pacchetti vantaggiosi.
 [shop/shop_common_001] Transazioni commerciali
 [shop/shop_common_002] Leggi relative ai pagamenti
 [shop/shop_common_003] Limiti di acquisto
@@ -36061,6 +37012,35 @@ devono essere ritirati entro la scadenza prefissata.
 [shop/shop_medal_044] Regalo
 [shop/shop_medal_045] [Name:Item ] (1 accesso)
 Da ritirare entro 24 ore.
+[shop/shop_medal_046] Gemme a pagamento
+[shop/shop_medal_047] Gemme senza costo
+[shop/shop_medal_048] Regalo gemme
+[shop/shop_medal_049] Ricevuto
+[shop/shop_medal_050] Già ricevuto
+[shop/shop_medal_051] A pagamento
+[shop/shop_medal_052] Senza costo
+[shop/shop_medal_053] Comuni
+[shop/shop_medal_054] Giornalieri
+[shop/shop_medal_055] Settimanali
+[shop/shop_medal_056] Mensili
+[shop/shop_medal_057] Acquisto pacchetti
+[shop/shop_medal_058] Al momento non ci sono prodotti
+disponibili per l'acquisto.
+[shop/shop_medal_059] Gemme ricevute
+[shop/shop_medal_060] Hai ricevuto le seguenti gemme:
+[shop/shop_medal_061] Nuovi giocatori
+[shop/shop_medal_062] Bonus accesso
+[shop/shop_medal_063] Uova
+[shop/shop_medal_064] Acquisto gemme
+[shop/shop_medal_065] Consigliati per chi vuole partire in quarta!
+[shop/shop_medal_066] Consigliati per chi vuole ricevere regali regolarmente!
+[shop/shop_medal_067] Consigliati per chi vuole far schiudere tante Uova!
+[shop/shop_medal_068] Ripristinati ogni mese.
+[shop/shop_medal_069] Ripristinati ogni settimana.
+[shop/shop_medal_070] Ripristinati ogni giorno.
+[shop/shop_medal_071] Alcune offerte per eventi sono disponibili per un periodo limitato.
+[shop/shop_medal_073] Gli strumenti (salvo le gemme) che superano il limite
+massimo verranno eliminati.
 [shop/shop_itemexchange_001] Scambio strumenti
 [shop/shop_itemexchange_003] Scambiati
 [shop/shop_itemexchange_004] Scambia
@@ -36450,6 +37430,10 @@ shop_ja.lsd
 [shop/shop_top_018] チケット等を使ってバディーズを獲得できます
 [shop/shop_top_019] チケット専用バディーズサーチ
 [shop/shop_top_020] 装備を売却して素材やコインと交換できます
+[shop/shop_top_021] おとくなパック購入
+[shop/shop_top_022] おとくなパック購入
+[shop/shop_top_023] ダイヤを購入できます
+[shop/shop_top_024] おとくなパックを購入できます
 [shop/shop_common_001] 特定商取引に基づく表示
 [shop/shop_common_002] 資金決済法に基づく表示
 [shop/shop_common_003] 課金上限／残高について
@@ -36557,6 +37541,33 @@ ONにしてください
 [shop/shop_medal_044] プレゼント
 [shop/shop_medal_045] [Name:Item ]（1回分）
 ※受取期限24時間
+[shop/shop_medal_046] 有償ダイヤ
+[shop/shop_medal_047] 無償ダイヤ
+[shop/shop_medal_048] 無料
+[shop/shop_medal_049] 受取
+[shop/shop_medal_050] 受取済み
+[shop/shop_medal_051] 有償
+[shop/shop_medal_052] 無償
+[shop/shop_medal_053] 通常
+[shop/shop_medal_054] デイリー
+[shop/shop_medal_055] ウィークリー
+[shop/shop_medal_056] マンスリー
+[shop/shop_medal_057] おとくなパック購入
+[shop/shop_medal_058] 現在、購入できる商品はありません
+[shop/shop_medal_059] ダイヤ受け取り
+[shop/shop_medal_060] 以下のダイヤを受け取りました
+[shop/shop_medal_061] 初心者応援
+[shop/shop_medal_062] ログインボーナス
+[shop/shop_medal_063] タマゴ
+[shop/shop_medal_064] ダイヤ購入
+[shop/shop_medal_065] スタートダッシュにおすすめ！
+[shop/shop_medal_066] 継続ボーナスを受けたい人におすすめ！
+[shop/shop_medal_067] タマゴをたくさんふかしたい人におすすめ！
+[shop/shop_medal_068] 月ごとに回数が更新されます
+[shop/shop_medal_069] 週ごとに回数が更新されます
+[shop/shop_medal_070] 日ごとに回数が更新されます
+[shop/shop_medal_071] イベント等に合わせて販売される期間限定の商品も要チェック！
+[shop/shop_medal_073] ※ダイヤ以外の所持上限を超えたどうぐは破棄されます
 [shop/shop_itemexchange_001] どうぐ交換
 [shop/shop_itemexchange_003] 交換
 [shop/shop_itemexchange_004] 交換
@@ -36939,6 +37950,10 @@ shop_ko.lsd
 [shop/shop_top_018] 티켓 등을 사용해서 버디즈를 획득할 수 있습니다
 [shop/shop_top_019] 티켓 전용 버디즈서치
 [shop/shop_top_020] 장비를 판매하여 소재나 코인과 교환할 수 있습니다
+[shop/shop_top_021] 스페셜 팩 구입
+[shop/shop_top_022] 스페셜 팩 구입
+[shop/shop_top_023] 다이아를 구입할 수 있습니다
+[shop/shop_top_024] 스페셜 팩을 구입할 수 있습니다
 [shop/shop_common_001] 일본 특정상거래법에 의거하는 표기
 [shop/shop_common_002] 일본 자금결제법에 의거하는 표기
 [shop/shop_common_003] 과금상한 및 잔액에 대하여
@@ -37043,6 +38058,33 @@ ON으로 바꿔주십시오
 [shop/shop_medal_044] 선물
 [shop/shop_medal_045] [Name:Item ](1회 분량)
 ※수령 기한 24시간
+[shop/shop_medal_046] 유료 다이아
+[shop/shop_medal_047] 무료 다이아
+[shop/shop_medal_048] 무료
+[shop/shop_medal_049] 받기
+[shop/shop_medal_050] 이미 받음
+[shop/shop_medal_051] 유료
+[shop/shop_medal_052] 무료
+[shop/shop_medal_053] 일반
+[shop/shop_medal_054] 일일
+[shop/shop_medal_055] 주간
+[shop/shop_medal_056] 월간
+[shop/shop_medal_057] 스페셜 팩 구입
+[shop/shop_medal_058] 현재 구입할 수 있는 상품이 없습니다
+[shop/shop_medal_059] 다이아 수령
+[shop/shop_medal_060] 아래 다이아를 받았습니다.
+[shop/shop_medal_061] 초급자 응원
+[shop/shop_medal_062] 로그인 보너스
+[shop/shop_medal_063] 알
+[shop/shop_medal_064] 다이아 구입
+[shop/shop_medal_065] 스타트 대시에 추천!
+[shop/shop_medal_066] 계속해서 보너스를 받고 싶은 사람에게 추천!
+[shop/shop_medal_067] 알을 많이 부화시키고 싶은 사람에게 추천!
+[shop/shop_medal_068] 매월 횟수가 갱신됩니다
+[shop/shop_medal_069] 매주 횟수가 갱신됩니다
+[shop/shop_medal_070] 매일 횟수가 갱신됩니다
+[shop/shop_medal_071] 이벤트 등에 맞춰 판매되는 기간 한정 상품도 체크해보자!
+[shop/shop_medal_073] ※다이아 이외에 보유 상한을 넘은 도구는 파기됩니다
 [shop/shop_itemexchange_001] 도구 교환
 [shop/shop_itemexchange_003] 교환
 [shop/shop_itemexchange_004] 교환
@@ -37446,6 +38488,10 @@ shop_zh-TW.lsd
 [shop/shop_top_018] 使用票券等道具可獲得拍組
 [shop/shop_top_019] 票券專用拍組搜尋
 [shop/shop_top_020] 可出售裝備來交換成材料或金幣
+[shop/shop_top_021] 購買超值組合包
+[shop/shop_top_022] 購買超值組合包
+[shop/shop_top_023] 可購買鑽石
+[shop/shop_top_024] 可購買超值組合包
 [shop/shop_common_001] 基於特定商業交易法顯示內容
 [shop/shop_common_002] 基於資金結算法顯示內容
 [shop/shop_common_003] 關於消費額上限／餘額
@@ -37543,6 +38589,33 @@ shop_zh-TW.lsd
 [shop/shop_medal_044] 禮物
 [shop/shop_medal_045] [Name:Item ]（1次份）
 ※領取期限24小時
+[shop/shop_medal_046] 付費鑽石
+[shop/shop_medal_047] 免費鑽石
+[shop/shop_medal_048] 免費
+[shop/shop_medal_049] 領取
+[shop/shop_medal_050] 已領取
+[shop/shop_medal_051] 付費
+[shop/shop_medal_052] 免費
+[shop/shop_medal_053] 一般
+[shop/shop_medal_054] 每日
+[shop/shop_medal_055] 每週
+[shop/shop_medal_056] 每月
+[shop/shop_medal_057] 購買超值組合包
+[shop/shop_medal_058] 目前沒有可以購買的商品
+[shop/shop_medal_059] 領取鑽石
+[shop/shop_medal_060] 已領取下列鑽石
+[shop/shop_medal_061] 初學者聲援
+[shop/shop_medal_062] 登入獎勵
+[shop/shop_medal_063] 蛋
+[shop/shop_medal_064] 購買鑽石
+[shop/shop_medal_065] 推薦給一開始就想全力衝刺的人！
+[shop/shop_medal_066] 推薦給想連續領取報酬的人！
+[shop/shop_medal_067] 推薦給想孵化很多顆蛋的人！
+[shop/shop_medal_068] 次數會每月更新
+[shop/shop_medal_069] 次數會每週更新
+[shop/shop_medal_070] 次數會每天更新
+[shop/shop_medal_071] 不要忘了確認配合活動等販賣的期間限定商品！
+[shop/shop_medal_073] ※除鑽石以外，其他超過持有上限的道具將會作廢
 [shop/shop_itemexchange_001] 交換道具
 [shop/shop_itemexchange_003] 交換
 [shop/shop_itemexchange_004] 交換
