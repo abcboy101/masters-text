@@ -453,11 +453,11 @@ country_ja.lsd
 [RO] ルーマニア
 [LU] ルクセンブルク大公国
 [RU] ロシア
-[KR] 大韓民国
+[KR] 韓国
 [MO] マカオ
 [HK] 香港
 [TW] 台湾
-[JP] 日本国
+[JP] 日本
 [ZZ] その他
 
 ===========
@@ -1523,6 +1523,28 @@ story_quest_name_de.lsd
 [quest_group_title_10106100000] MaMo-Kamilla
 [quest_group_title_10151000000] Lamina
 [quest_group_title_10114000000] Sabrina
+[quest_title_1030203000709001] Glitzernder Eisnebel
+[quest_title_1030203010709001] Glänzender Schnee
+[quest_title_1030203020709001] Ein prächtiger Eiskristall
+[quest_title_1030203030709001] Wunderschönes Eis
+[quest_title_1030203000709002] Stelle dich dem Taktiker!
+[quest_title_1030203010709002] Bezwinge den Draufgänger!
+[quest_title_1030203020709002] Besiege das Talent!
+[quest_title_1030203000710001] Giftige Töne
+[quest_title_1030203010710001] Eine giftige Komposition
+[quest_title_1030203020710001] Ein giftiges Echo
+[quest_title_1030203030710001] Eine giftige Aufführung
+[quest_title_1030203000710002] Stelle dich dem Tiefgrün!
+[quest_title_1030203010710002] Bezwinge das frische Grün!
+[quest_title_1030203020710002] Besiege das Dunkelgrün!
+[quest_title_1030203000711001] Flug-Versammlung!
+[quest_title_1030203000713001] Die Flug-Pokémon-Experten
+[quest_group_title_10125000000] Bromley
+[quest_group_title_10121000000] Fran
+[quest_group_title_10131000000] Citro
+[quest_title_1030210125000000] Ein Tag mit Bromley
+[quest_title_1030210121000000] Ein Tag mit Fran
+[quest_title_1030210131000000] Ein Tag mit Citro
 [quest_title_1030202001001060] Mewtu greift an! 2
 [quest_title_1030202000601080] Zwei auf Reisen
 [quest_title_1030202000601090] Andrang beim Fotoshooting
@@ -1546,6 +1568,29 @@ Sie ist ein Supermodel!
 [quest_title_1030202000601060] Vs. Team Break 2
 [quest_title_1030202000601070] Vs. Team Break 3
 [quest_title_1030202000601180] Einladung zur Modenschau
+[quest_title_1030203000601080] Platt mit Bromley!
+[quest_title_1030203000601090] Spaziergang mit Fran
+[quest_title_1030203000601100] Die Plattmacher
+[quest_title_1030203000601110] Überraschende Gefährten
+[quest_title_1030203000601120] Aufdringliche Erwachsene
+[quest_title_1030203000601130] Stärker werden
+[quest_title_1030203000601140] Da! Ein Tectass!
+[quest_title_1030203000601150] Experiment in Freundlichkeit
+[quest_title_1030203000601160] Fürsorglicher Ben
+[quest_title_1030203000601170] Ein niedliches Pokémon
+[quest_title_1030203000601200] Irgendwann auf Alola
+[quest_title_1030203000601010] Kapitel 1: Der knallharte Boss
+von Team Skull
+[quest_title_1030203000601020] Kapitel 2: Ein Lehrling bei
+Team Skull?
+[quest_title_1030203000601030] Kapitel 3: Plattmachen mit
+Team Skull!
+[quest_title_1030203000601040] Kapitel 4: Team Skull ist...
+nett?!
+[quest_title_1030203000601050] Vs. Team Break
+[quest_title_1030203000601060] Vs. Team Break 2
+[quest_title_1030203000601070] Vs. Team Break 3
+[quest_title_1030203000601180] Geschnappt von Team Skull?!
 
 ===========
 story_quest_name_en.lsd
@@ -1601,9 +1646,9 @@ story_quest_name_en.lsd
 [quest_title_1030100000070100] The Truth Comes to Light
 [quest_title_1030100000070200] Challenge on the Boulevard
 [quest_title_1030100000070300] What Lurks in the Wilderness
-[quest_title_1030100000070400] Challenge on the Trail: Team  Break
+[quest_title_1030100000070400] Challenge on the Trail: Team Break
 [quest_title_1030100000070500] A Scramble to the Summit!
-[quest_title_1030100000070600] Challenge on the Trail: Team  Break,  Part  2
+[quest_title_1030100000070600] Challenge on the Trail: Team Break, Part 2
 [quest_title_1030100000070700] Summit Showdown
 [quest_title_1030100000070800] Challenge Norman
 [quest_title_1030100000070900] Between a Rock and a Hard  Place
@@ -2386,6 +2431,28 @@ story_quest_name_en.lsd
 [quest_group_title_10106100000] Sygna Suit Elesa
 [quest_group_title_10151000000] Fantina
 [quest_group_title_10114000000] Sabrina
+[quest_title_1030203000709001] Glittering Frost
+[quest_title_1030203010709001] Sparkling Snowfall
+[quest_title_1030203020709001] Enchanting Ice Crystals
+[quest_title_1030203030709001] Silvery Snowflakes
+[quest_title_1030203000709002] Out-Scheme the Schemer!
+[quest_title_1030203010709002] Outwit the Strategist!
+[quest_title_1030203020709002] Out-Think the Mastermind!
+[quest_title_1030203000710001] Acidic Anthem
+[quest_title_1030203010710001] Heart-Pounding Poison Melody
+[quest_title_1030203020710001] Intoxicating Reverb
+[quest_title_1030203030710001] Venomous Symphony
+[quest_title_1030203000710002] Defy the Deep Dark Green!
+[quest_title_1030203010710002] Topple the Verdant Forest!
+[quest_title_1030203020710002] Suppress the Bold Undergrowth!
+[quest_title_1030203000711001] Flying Types Incoming
+[quest_title_1030203000713001] Flying-Type Masters
+[quest_group_title_10125000000] Guzma
+[quest_group_title_10121000000] Plumeria
+[quest_group_title_10131000000] Clemont
+[quest_title_1030210125000000] A Day with Guzma
+[quest_title_1030210121000000] A Day with Plumeria
+[quest_title_1030210131000000] A Day with Clemont
 [quest_title_1030202001001060] Mewtwo Strikes! Round 2
 [quest_title_1030202000601080] A Friendly Outing
 [quest_title_1030202000601090] Photo Shoot Frenzy
@@ -2405,6 +2472,25 @@ story_quest_name_en.lsd
 [quest_title_1030202000601060] Challenge Team Break: Part 2
 [quest_title_1030202000601070] Challenge Team Break: Part 3
 [quest_title_1030202000601180] A Personal Invitation
+[quest_title_1030203000601080] Destruction with Guzma
+[quest_title_1030203000601090] Downtime with Plumeria
+[quest_title_1030203000601100] Beatdown Buddies
+[quest_title_1030203000601110] Can’t Judge a Book by Its Cover
+[quest_title_1030203000601120] Meddling Old Folks
+[quest_title_1030203000601130] Advice from Big Sister
+[quest_title_1030203000601140] I Spy Golisopod
+[quest_title_1030203000601150] Guzma to the Rescue
+[quest_title_1030203000601160] A Troubled Tate
+[quest_title_1030203000601170] A Kindred Spirit?
+[quest_title_1030203000601200] Ticket to Alola
+[quest_title_1030203000601010] Part 1: Team Skull’s Big Bad Boss
+[quest_title_1030203000601020] Part 2: Team Skull’s New Apprentice?
+[quest_title_1030203000601030] Part 3: A Team Skull Beatdown!
+[quest_title_1030203000601040] Part 4: Team Skull’s...Kindness?!
+[quest_title_1030203000601050] Challenge Team Break: Part 1
+[quest_title_1030203000601060] Challenge Team Break: Part 2
+[quest_title_1030203000601070] Challenge Team Break: Part 3
+[quest_title_1030203000601180] Team Skull Represent!
 
 ===========
 story_quest_name_es.lsd
@@ -3247,6 +3333,28 @@ en la más oscura noche
 [quest_group_title_10106100000] Camila (Traje S)
 [quest_group_title_10151000000] Fantina
 [quest_group_title_10114000000] Sabrina
+[quest_title_1030203000709001] La centelleante niebla helada
+[quest_title_1030203010709001] La pureza de la nieve
+[quest_title_1030203020709001] Espléndidos cristales de hielo
+[quest_title_1030203030709001] El magnífico hielo plateado
+[quest_title_1030203000709002] ¡Contra un avispado estratega!
+[quest_title_1030203010709002] ¡Vence al Entrenador temerario!
+[quest_title_1030203020709002] ¡La ley del más fuerte!
+[quest_title_1030203000710001] El ritmo del veneno
+[quest_title_1030203010710001] Una melodía envenenada
+[quest_title_1030203020710001] La reverberación del veneno
+[quest_title_1030203030710001] Un recital tóxico
+[quest_title_1030203000710002] ¡Contra la verde naturaleza!
+[quest_title_1030203010710002] ¡Vence al verdor exuberante!
+[quest_title_1030203020710002] ¡Contra la valiente espesura!
+[quest_title_1030203000711001] Pokédada Volador
+[quest_title_1030203000713001] Expertos en Pokémon tipo Volador
+[quest_group_title_10125000000] Guzmán
+[quest_group_title_10121000000] Francine
+[quest_group_title_10131000000] Lem
+[quest_title_1030210125000000] Un día con Guzmán
+[quest_title_1030210121000000] Un día con Francine
+[quest_title_1030210131000000] Un día con Lem
 [quest_title_1030202001001060] ¡Mewtwo entra en acción! (2)
 [quest_title_1030202000601080] Aventuras en compañía
 [quest_title_1030202000601090] Sesión de fotos de calidad
@@ -3267,6 +3375,25 @@ en la más oscura noche
 [quest_title_1030202000601070] VS. Team Break (3)
 [quest_title_1030202000601180] Invitación al espectáculo
 de moda
+[quest_title_1030203000601080] ¡Guzmán quiere guerra!
+[quest_title_1030203000601090] Paseo con Francine
+[quest_title_1030203000601100] Compi de armas tomar
+[quest_title_1030203000601110] Las apariencias engañan
+[quest_title_1030203000601120] El perro viejo, si ladra, da consejo
+[quest_title_1030203000601130] El secreto para hacerse fuerte
+[quest_title_1030203000601140] ¡Un Golisopod descubierto!
+[quest_title_1030203000601150] Saliendo de la zona de confort
+[quest_title_1030203000601160] Vito, ojo avizor
+[quest_title_1030203000601170] Buen gusto
+[quest_title_1030203000601200] ¡Alola, Alola!
+[quest_title_1030203000601010] Capítulo 1: ¡El poderoso jefe del Team Skull!
+[quest_title_1030203000601020] Capítulo 2: ¿Niños en el Team Skull?
+[quest_title_1030203000601030] Capítulo 3: ¡Vence al Team Skull!
+[quest_title_1030203000601040] Capítulo 4: ¿Un Team Skull benévolo?
+[quest_title_1030203000601050] VS. Team Break
+[quest_title_1030203000601060] VS. Team Break (2)
+[quest_title_1030203000601070] VS. Team Break (3)
+[quest_title_1030203000601180] ¿Rehén del Team Skull?
 
 ===========
 story_quest_name_fr.lsd
@@ -4121,11 +4248,39 @@ cieux (2)
 [quest_title_1030210137000000] Let's Go avec Chen !
 [quest_title_1030210137000004] Une journée avec Chen
 [quest_group_title_10129000000] Amaryllis
-[quest_group_title_10137000000] Raphaël Chen
+[quest_group_title_10137000000] Samuel Chen
 [quest_group_title_10157000000] Valériane
 [quest_group_title_10106100000] Inezia (Look Ultime)
 [quest_group_title_10151000000] Kiméra
 [quest_group_title_10114000000] Morgane
+[quest_title_1030203000709001] Les frimas scintillants
+[quest_title_1030203010709001] Le grésil brillant
+[quest_title_1030203020709001] Les spectaculaires
+cristaux glacés
+[quest_title_1030203030709001] Les sublimes
+glaces étincelantes
+[quest_title_1030203000709002] Les puissants stratèges
+[quest_title_1030203010709002] L'art de prendre des risques
+[quest_title_1030203020709002] Le génie de la
+sélection naturelle
+[quest_title_1030203000710001] Une mélodie entêtante
+[quest_title_1030203010710001] Une chanson envoûtante
+[quest_title_1030203020710001] Un écho exaltant
+[quest_title_1030203030710001] Une symphonie fatale
+[quest_title_1030203000710002] Les forces majestueuses
+de jade
+[quest_title_1030203010710002] Les imposants ennemis
+vert brillant
+[quest_title_1030203020710002] Les valeureux
+adversaires ophite
+[quest_title_1030203000711001] Réunion Vol
+[quest_title_1030203000713001] Experts du type Vol
+[quest_group_title_10125000000] Guzma
+[quest_group_title_10121000000] Apocyne
+[quest_group_title_10131000000] Lem
+[quest_title_1030210125000000] Une journée avec Guzma
+[quest_title_1030210121000000] Une journée avec Apocyne
+[quest_title_1030210131000000] Une journée avec Lem
 [quest_title_1030202001001060] Mewtwo attaque ! II
 [quest_title_1030202000601080] Une balade à deux
 [quest_title_1030202000601090] Une séance photo prisée
@@ -4145,6 +4300,30 @@ cieux (2)
 [quest_title_1030202000601060] Combat : Team Break II
 [quest_title_1030202000601070] Combat : Team Break III
 [quest_title_1030202000601180] L'invitation au défilé
+[quest_title_1030203000601080] Le boss que tout le monde
+déteste
+[quest_title_1030203000601090] Promenade avec Apocyne
+[quest_title_1030203000601100] Éclatage de têtes à deux
+[quest_title_1030203000601110] Apparences trompeuses
+[quest_title_1030203000601120] Les empêcheurs de tourner
+en rond
+[quest_title_1030203000601130] Devenir plus fort
+[quest_title_1030203000601140] Alerte ! Sarmuraï !
+[quest_title_1030203000601150] Le poison de l'habitude
+[quest_title_1030203000601160] Lévy, le surveillant
+[quest_title_1030203000601170] Tu me plais bien !
+[quest_title_1030203000601200] Un jour, à Alola
+[quest_title_1030203000601010] 1. Le boss de la Team Skull
+est trop fort !
+[quest_title_1030203000601020] 2. Faire ses classes
+chez la Team Skull ?
+[quest_title_1030203000601030] 3. Éclatez des têtes
+avec la Team Skull !
+[quest_title_1030203000601040] 4. La Team Skull, sympa ?
+[quest_title_1030203000601050] Combat : Team Break
+[quest_title_1030203000601060] Combat : Team Break II
+[quest_title_1030203000601070] Combat : Team Break III
+[quest_title_1030203000601180] Le piège de la Team Skull !
 
 ===========
 story_quest_name_it.lsd
@@ -4957,7 +5136,7 @@ story_quest_name_it.lsd
 [quest_title_1030110000240200] VS Team Break a sorpresa
 [quest_title_1030110000240300] Un palco scintillante (parte 2)
 [quest_title_1030110000240400] VS Camelia Costumax & co.
-[quest_title_1030110000240500] Un principe irrecuperabile
+[quest_title_1030110000240500] Un palco scintillante (parte 3)
 [quest_title_1030110010240400] VS Camelia Costumax & co.
 [quest_title_1030110020240400] VS Camelia Costumax & co.
 [quest_title_1030110030240400] VS Camelia Costumax & co.
@@ -4983,6 +5162,28 @@ story_quest_name_it.lsd
 [quest_group_title_10106100000] Camelia Costumax
 [quest_group_title_10151000000] Fannie
 [quest_group_title_10114000000] Sabrina
+[quest_title_1030203000709001] Nebbia luccicante
+[quest_title_1030203010709001] Neve brillante
+[quest_title_1030203020709001] Cristalli di ghiaccio sfavillanti
+[quest_title_1030203030709001] Ghiaccio abbagliante
+[quest_title_1030203000709002] Fronteggia lo stratega della lotta!
+[quest_title_1030203010709002] Domina il signore della lotta!
+[quest_title_1030203020709002] Annienta il genio della lotta!
+[quest_title_1030203000710001] Note nocive
+[quest_title_1030203010710001] Un riff intossicante
+[quest_title_1030203020710001] Un assolo venefico
+[quest_title_1030203030710001] Un pezzo virulento
+[quest_title_1030203000710002] Fronteggia il verde maestoso!
+[quest_title_1030203010710002] Doma il verde imponente!
+[quest_title_1030203020710002] Abbatti il verde valoroso!
+[quest_title_1030203000711001] Raduno Volante!
+[quest_title_1030203000713001] Esperti di tipo Volante
+[quest_group_title_10125000000] Guzman
+[quest_group_title_10121000000] Plumeria
+[quest_group_title_10131000000] Lem
+[quest_title_1030210125000000] Un giorno con Guzman
+[quest_title_1030210121000000] Un giorno con Plumeria
+[quest_title_1030210131000000] Un giorno con Lem
 [quest_title_1030202001001060] Mewtwo all'attacco! 2
 [quest_title_1030202000601080] Un'uscita in due
 [quest_title_1030202000601090] Un servizio di successo
@@ -5002,6 +5203,25 @@ story_quest_name_it.lsd
 [quest_title_1030202000601060] VS Team Break 2
 [quest_title_1030202000601070] VS Team Break 3
 [quest_title_1030202000601180] Invito alla sfilata
+[quest_title_1030203000601080] Sbriciolando con Guzman!
+[quest_title_1030203000601090] Una passeggiata con Plumeria
+[quest_title_1030203000601100] L'Unità che sbriciola ogni cosa
+[quest_title_1030203000601110] L'abito non fa l'Unità
+[quest_title_1030203000601120] Adulti invadenti
+[quest_title_1030203000601130] Diventare più forte
+[quest_title_1030203000601140] Ho trovato un Golisopod!
+[quest_title_1030203000601150] Provare qualcosa di nuovo
+[quest_title_1030203000601160] Le osservazioni di Tell
+[quest_title_1030203000601170] Un Pokémon adorabile
+[quest_title_1030203000601200] Un giorno ci vedremo ad Alola
+[quest_title_1030203000601010] 1. Il fortissimo capo del Team Skull
+[quest_title_1030203000601020] 2. Una discepola nel Team Skull?
+[quest_title_1030203000601030] 3. Sbriciolando col Team Skull!
+[quest_title_1030203000601040] 4. La gentilezza del Team Skull?!
+[quest_title_1030203000601050] VS Team Break
+[quest_title_1030203000601060] VS Team Break 2
+[quest_title_1030203000601070] VS Team Break 3
+[quest_title_1030203000601180] L'insistenza del Team Skull
 
 ===========
 story_quest_name_ja.lsd
@@ -5843,6 +6063,28 @@ story_quest_name_ja.lsd
 [quest_group_title_10106100000] マジコスカミツレ
 [quest_group_title_10151000000] メリッサ
 [quest_group_title_10114000000] ナツメ
+[quest_title_1030203000709001] 煌めく氷霧のゆくえ
+[quest_title_1030203010709001] 鮮やかな氷雪のゆくえ
+[quest_title_1030203020709001] 華々しい氷晶のゆくえ
+[quest_title_1030203030709001] 壮美なる氷銀のゆくえ
+[quest_title_1030203000709002] 勝敗を握る策士に立ち向かえ！
+[quest_title_1030203010709002] 雌雄を決する勝負師を制圧せよ！
+[quest_title_1030203020709002] 優勝劣敗を見定める才子を倒せ！
+[quest_title_1030203000710001] 軽快なる毒音のゆくえ
+[quest_title_1030203010710001] 心躍る毒曲のゆくえ
+[quest_title_1030203020710001] 高揚する毒響のゆくえ
+[quest_title_1030203030710001] 熱狂する毒奏のゆくえ
+[quest_title_1030203000710002] 堂々たる深緑に立ち向かえ！
+[quest_title_1030203010710002] 凛然とした鮮緑を制圧せよ！
+[quest_title_1030203020710002] 勇猛なる濃緑を倒せ！
+[quest_title_1030203000711001] ひこうタイプ集結！
+[quest_title_1030203000713001] ひこうポケモンの熟練者たち
+[quest_group_title_10125000000] グズマ
+[quest_group_title_10121000000] プルメリ
+[quest_group_title_10131000000] シトロン
+[quest_title_1030210125000000] とある日のグズマ
+[quest_title_1030210121000000] とある日のプルメリ
+[quest_title_1030210131000000] とある日のシトロン
 [quest_title_1030202001001060] 襲撃のミュウツー！２
 [quest_title_1030202000601080] ふたりでお出かけ
 [quest_title_1030202000601090] 撮影会は大人気
@@ -5862,6 +6104,25 @@ story_quest_name_ja.lsd
 [quest_title_1030202000601060] ＶＳ　ブレイク団２
 [quest_title_1030202000601070] ＶＳ　ブレイク団３
 [quest_title_1030202000601180] ファッションショーにご招待
+[quest_title_1030203000601080] グズマとブッ壊そう！
+[quest_title_1030203000601090] プルメリとお散歩
+[quest_title_1030203000601100] ブッ壊しバディーズ
+[quest_title_1030203000601110] みかけによらないバディーズ
+[quest_title_1030203000601120] お節介な大人たち
+[quest_title_1030203000601130] 強くなるために
+[quest_title_1030203000601140] 発見！　グソクムシャ
+[quest_title_1030203000601150] 慣れないことはするものじゃない
+[quest_title_1030203000601160] 見守っていたフウ
+[quest_title_1030203000601170] 気になるあの子
+[quest_title_1030203000601200] いつかアローラで
+[quest_title_1030203000601010] 第１話　スカル団のボスは強い！
+[quest_title_1030203000601020] 第２話　スカル団に弟子入り？
+[quest_title_1030203000601030] 第３話　スカル団とブッ壊し！
+[quest_title_1030203000601040] 第４話　スカル団はやさしい！？
+[quest_title_1030203000601050] ＶＳ　ブレイク団
+[quest_title_1030203000601060] ＶＳ　ブレイク団２
+[quest_title_1030203000601070] ＶＳ　ブレイク団３
+[quest_title_1030203000601180] スカル団に　つかまった！？
 
 ===========
 story_quest_name_ko.lsd
@@ -6702,6 +6963,28 @@ story_quest_name_ko.lsd
 [quest_group_title_10106100000] 궁극코스 카밀레
 [quest_group_title_10151000000] 멜리사
 [quest_group_title_10114000000] 초련
+[quest_title_1030203000709001] 반짝이는 얼음 안개의 행방
+[quest_title_1030203010709001] 선명한 눈구름의 행방
+[quest_title_1030203020709001] 눈부신 얼음 결정의 행방
+[quest_title_1030203030709001] 장미한 은빛 얼음의 행방
+[quest_title_1030203000709002] 승패를 쥔 책사에 맞서라!
+[quest_title_1030203010709002] 자웅을 겨룰 승부사를 제압하라!
+[quest_title_1030203020709002] 우승열패를 결정할 자를 제압하라!
+[quest_title_1030203000710001] 경쾌한 소리 속 독의 행방
+[quest_title_1030203010710001] 설레는 노래 속 독의 행방
+[quest_title_1030203020710001] 고조되는 울림 속 독의 행방
+[quest_title_1030203030710001] 열광하는 연주 속 독의 행방
+[quest_title_1030203000710002] 당당하고 깊은 초록에 맞서라!
+[quest_title_1030203010710002] 늠름하고 선명한 초록을 제압하라!
+[quest_title_1030203020710002] 용맹하고 짙은 초록을 쓰러뜨려라!
+[quest_title_1030203000711001] 비행타입 집합!
+[quest_title_1030203000713001] 비행포켓몬의 숙련자들
+[quest_group_title_10125000000] 구즈마
+[quest_group_title_10121000000] 플루메리
+[quest_group_title_10131000000] 시트론
+[quest_title_1030210125000000] 구즈마의 어느 날
+[quest_title_1030210121000000] 플루메리의 어느 날
+[quest_title_1030210131000000] 시트론의 어느 날
 [quest_title_1030202001001060] 뮤츠의 습격!2
 [quest_title_1030202000601080] 둘이서 외출
 [quest_title_1030202000601090] 촬영회는 대인기
@@ -6721,6 +7004,25 @@ story_quest_name_ko.lsd
 [quest_title_1030202000601060] VS 브레이크단2
 [quest_title_1030202000601070] VS 브레이크단3
 [quest_title_1030202000601180] 초대받은 패션쇼
+[quest_title_1030203000601080] 구즈마랑 박살 내자!
+[quest_title_1030203000601090] 플루메리와 산책
+[quest_title_1030203000601100] 박살 내는 버디즈
+[quest_title_1030203000601110] 겉보기와 다른 버디즈
+[quest_title_1030203000601120] 참견이 많은 어른들
+[quest_title_1030203000601130] 강해지기 위해서
+[quest_title_1030203000601140] 발견! 갑주무사
+[quest_title_1030203000601150] 익숙하지 않은 일은 하지 말자
+[quest_title_1030203000601160] 지켜보고 있던 풍
+[quest_title_1030203000601170] 신경 쓰이는 저 아이
+[quest_title_1030203000601200] 언젠가 알로라에서
+[quest_title_1030203000601010] 제1화 스컬단의 보스는 강해!
+[quest_title_1030203000601020] 제2화 스컬단의 제자로?
+[quest_title_1030203000601030] 제3화 스컬단과 박살 내기!
+[quest_title_1030203000601040] 제4화 스컬단은 상냥해!?
+[quest_title_1030203000601050] VS 브레이크단
+[quest_title_1030203000601060] VS 브레이크단2
+[quest_title_1030203000601070] VS 브레이크단3
+[quest_title_1030203000601180] 스컬단에게 붙잡혔어!?
 
 ===========
 story_quest_name_zh-TW.lsd
@@ -7561,6 +7863,28 @@ story_quest_name_zh-TW.lsd
 [quest_group_title_10106100000] 美極套裝小菊兒
 [quest_group_title_10151000000] 梅麗莎
 [quest_group_title_10114000000] 娜姿
+[quest_title_1030203000709001] 閃耀冰霧的去向
+[quest_title_1030203010709001] 燦爛冰雪的去向
+[quest_title_1030203020709001] 華麗冰晶的去向
+[quest_title_1030203030709001] 壯美冰銀的去向
+[quest_title_1030203000709002] 面對掌握勝敗的謀士！
+[quest_title_1030203010709002] 壓制來決雌雄的賭徒！
+[quest_title_1030203020709002] 打倒鑑別優勝劣敗的才子！
+[quest_title_1030203000710001] 輕快毒音的去向
+[quest_title_1030203010710001] 興奮毒曲的去向
+[quest_title_1030203020710001] 高昂毒響的去向
+[quest_title_1030203030710001] 狂熱毒奏的去向
+[quest_title_1030203000710002] 面對堂堂深綠！
+[quest_title_1030203010710002] 壓制堅毅鮮綠！
+[quest_title_1030203020710002] 打倒勇猛濃綠！
+[quest_title_1030203000711001] 飛行屬性集合！
+[quest_title_1030203000713001] 精通飛行屬性寶可夢的高手們
+[quest_group_title_10125000000] 古茲馬
+[quest_group_title_10121000000] 布爾美麗
+[quest_group_title_10131000000] 希特隆
+[quest_title_1030210125000000] 某日的古茲馬
+[quest_title_1030210121000000] 某日的布爾美麗
+[quest_title_1030210131000000] 某日的希特隆
 [quest_title_1030202001001060] 奇襲的超夢！２
 [quest_title_1030202000601080] 兩人去郊遊
 [quest_title_1030202000601090] 攝影會人氣旺
@@ -7580,6 +7904,25 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030202000601060] ＶＳ　破壞隊２
 [quest_title_1030202000601070] ＶＳ　破壞隊３
 [quest_title_1030202000601180] 小菊兒的時裝秀
+[quest_title_1030203000601080] 與古茲馬一起破壞吧！
+[quest_title_1030203000601090] 和布爾美麗一起散步
+[quest_title_1030203000601100] 全力搞破壞的拍組
+[quest_title_1030203000601110] 拍組不可貌相
+[quest_title_1030203000601120] 愛管閒事的大人們
+[quest_title_1030203000601130] 為了變得更強
+[quest_title_1030203000601140] 發現具甲武者！
+[quest_title_1030203000601150] 別做不習慣的事
+[quest_title_1030203000601160] 在旁守護的小楓
+[quest_title_1030203000601170] 令人在意的那孩子
+[quest_title_1030203000601200] 有朝一日相偕去阿羅拉
+[quest_title_1030203000601010] 第１話　骷髏隊的老大真是強！
+[quest_title_1030203000601020] 第２話　成為骷髏隊的徒弟？
+[quest_title_1030203000601030] 第３話　與骷髏隊一起破壞！
+[quest_title_1030203000601040] 第４話　骷髏隊很溫柔！？
+[quest_title_1030203000601050] ＶＳ　破壞隊
+[quest_title_1030203000601060] ＶＳ　破壞隊２
+[quest_title_1030203000601070] ＶＳ　破壞隊３
+[quest_title_1030203000601180] 被骷髏隊給纏上了！？
 
 ===========
 trainer_description_de.lsd
@@ -7859,6 +8202,15 @@ ein und nimmt auch erfolgreich an Wettbewerben teil.
 [10137000000] Er ist eine Koryphäe in der Pokémon-Forschung und soll
 früher ein zielstrebiger Trainer gewesen sein. Er ist Blaus
 Großvater.
+[10125000000] Der Boss von Team Skull aus Alola ist stark genug, um
+diese verschrobenen Schurken anzuführen und genießt
+dabei das volle Vertrauen seiner Untergebenen.
+[10121000000] Als Vorstand von Team Skull nimmt sie die Rolle einer
+großen Schwester ein. Wer ihre Leute schikaniert, 
+bekommt es mit ihr zu tun.
+[10131000000] Der Arenaleiter von Illumina City lebt für das Erfinden.
+Seine bahnbrechenden Maschinen helfen zahlreichen
+Trainern.
 
 ===========
 trainer_description_en.lsd
@@ -8139,6 +8491,15 @@ battles. She is known for her avid study of Pokémon.
 [10137000000] This pioneering Pokémon Professor was an accomplished
 Trainer in his heyday and has since become an authority
 on Pokémon research. He is also Blue’s grandfather.
+[10125000000] He is the strong leader of a group of toughs in Alola
+called Team Skull. The group’s rowdy members obey him,
+and his kindness has earned their devoted respect.
+[10121000000] This Team Skull Admin controls the rest of the team and
+is seen as something of a big sister type. She looks after
+the Grunts and won’t forgive anyone who bullies them.
+[10131000000] This Lumiose City Gym Leader has a burning passion for
+inventing. His scientific discoveries lead the path to the
+future and help out a large number of other Trainers.
 
 ===========
 trainer_description_es.lsd
@@ -8453,6 +8814,18 @@ forjado su reputación en concursos y combates Pokémon.
 [10137000000] Una eminencia en el mundo de la investigación Pokémon.
 Parece que en sus años mozos también era un portentoso
 Entrenador. Es el abuelo de Azul.
+[10125000000] Jefe de una organización de rufianes de la región de
+Alola conocida como Team Skull. Posee un don para
+controlar a los parias más rebeldes y su gentileza le
+ha permitido granjearse el respeto de sus subordinados.
+[10121000000] Comandante del Team Skull. Vela por sus subordinados y
+siempre los defiende cuando alguien los deja a la altura
+del betún, por lo que es como una hermana mayor para
+ellos.
+[10131000000] Apasionado inventor y Líder del Gimnasio de Ciudad
+Luminalia que ayuda a montones de Entrenadores con
+invenciones y avances científicos que alumbran el camino
+hacia el futuro.
 
 ===========
 trainer_description_fr.lsd
@@ -8713,6 +9086,16 @@ ce qui lui a permis de devenir aussi Championne d'Arène.
 [10137000000] Grand-père de Blue et l'une des plus grandes autorités
 en matière de recherche Pokémon. On dit qu'il était
 également un Dresseur chevronné dans sa jeunesse.
+[10125000000] Le boss d'une bande de bons à rien d'Alola nommée la
+Team Skull. Sa force lui permet de se faire obéir par cette
+bande hétéroclite, et sa gentillesse de s'en faire aimer.
+[10121000000] Admin de la Team Skull, elle se comporte plus comme
+une grande sœur qu'un chef. Elle vole à leur rescousse
+au moindre tracas, et ne supporte pas qu'on les humilie.
+[10131000000] Le Champion de la Tour Prismatique d'Illumis.
+Il vient en aide aux autres Dresseurs grâce à
+sa passion dévorante pour les découvertes
+scientifiques qui « ouvriront la voie ».
 
 ===========
 trainer_description_it.lsd
@@ -8993,6 +9376,15 @@ Capopalestra grazie all'assiduo studio dei Pokémon.
 [10137000000] Un luminare nel campo della ricerca sui Pokémon.
 Pare che da giovane fosse un Allenatore davvero
 in gamba. È il nonno di Blu.
+[10125000000] Carismatico capo del Team Skull, un gruppo di lestofanti
+di Alola. Controlla e si prende cura dei suoi sottoposti, 
+che lo ricambiano con una fiducia incondizionata.
+[10121000000] Ufficiale del Team Skull vista dal gruppo come una
+sorta di sorella maggiore. Coccola le reclute e non
+sopporta che i suoi subalterni vengano maltrattati.
+[10131000000] Capopalestra di Luminopoli, ha una grande passione per
+le invenzioni. Aiuta molti Allenatori con le sue scoperte
+scientifiche, aprendo la strada verso il futuro.
 
 ===========
 trainer_description_ja.lsd
@@ -9273,6 +9665,15 @@ trainer_description_ja.lsd
 [10137000000] ポケモン研究の　第一人者にして　権威。
 昔は　バリバリの　トレーナーだった　らしい。
 グリーンの　祖父。
+[10125000000] アローラ地方の　ならず者集団　スカル団のボス。
+ひねくれ者や　荒くれ者たちを　率いる　力量を持つ。
+面倒みはいいようで　部下からの　信頼は　厚い。
+[10121000000] スカル団の幹部で　団を束ねる　アネゴ的存在。
+したっぱたちを　かわいがっていて
+部下が　いじめられるのは　我慢ならない。
+[10131000000] 発明に情熱を燃やす　ミアレシティの　ジムリーダー。
+未来を　切りひらく　サイエンスな　発明は
+多くの　トレーナーたちを　サポートしている。
 
 ===========
 trainer_description_ko.lsd
@@ -9553,6 +9954,15 @@ trainer_description_ko.lsd
 [10137000000] 포켓몬 연구의 일인자이자 권위자.
 예전엔 이름 날리던 트레이너였던 듯하다.
 그린의 할아버지.
+[10125000000] 알로라지방의 불량배 집단 스컬단의 보스.
+비뚤어지거나 거친 사람들을 이끄는 역량을 가지고 있다.
+부하들을 잘 챙겨주어 부하들의 신뢰가 깊다.
+[10121000000] 스컬단의 간부이며 스컬단을 통솔하는 여두목 같은 존재.
+조무래기 단원들을 귀여워하고 있는 듯하며
+조무래기들이 당하는 것은 참을 수 없다고 한다.
+[10131000000] 발명에 정열을 불태우는 미르시티의 체육관 관장.
+미래를 개척하는 과학적 발명이
+많은 트레이너를 도와주고 있다.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -9833,6 +10243,14 @@ trainer_description_zh-TW.lsd
 [10137000000] 是寶可夢研究的第一把交椅，
 也是青綠的爺爺。
 據說年輕時是個非常活躍的訓練家。
+[10125000000] 在阿羅拉地區愛鬧事的集團，骷髏隊的老大。
+擁有率領個性彆扭､粗暴的成員的實力。
+似乎很會照顧人，深受部下的信賴。
+[10121000000] 是骷髏隊的幹部，也是統領骷髏隊的大姐大。
+很疼愛手下們，無法忍受他們被欺負。
+[10131000000] 對發明燃燒著熱情的密阿雷市道館館主。
+他用各種開拓未來的科學發明
+幫助著許多訓練家們。
 
 ===========
 trainer_name_de.lsd
@@ -9942,9 +10360,12 @@ trainer_name_de.lsd
 [ch0111] Siegfried
 [ch0112] Klarin
 [ch0114] Sabrina
+[ch0121] Fran
 [ch0124] Maho
+[ch0125] Bromley
 [ch0127] Wassili
 [ch0129] Amalia
+[ch0131] Citro
 [ch0137] Eich
 [ch0140] Giovanni
 [ch0151] Lamina
@@ -10060,9 +10481,12 @@ trainer_name_en.lsd
 [ch0111] Lance
 [ch0112] Ethan
 [ch0114] Sabrina
+[ch0121] Plumeria
 [ch0124] Mallow
+[ch0125] Guzma
 [ch0127] Wallace
 [ch0129] Zinnia
+[ch0131] Clemont
 [ch0137] Professor Oak
 [ch0140] Giovanni
 [ch0151] Fantina
@@ -10178,9 +10602,12 @@ trainer_name_es.lsd
 [ch0111] Lance
 [ch0112] Eco
 [ch0114] Sabrina
+[ch0121] Francine
 [ch0124] Lulú
+[ch0125] Guzmán
 [ch0127] Plubio
 [ch0129] Tristana
+[ch0131] Lem
 [ch0137] Oak
 [ch0140] Giovanni
 [ch0151] Fantina
@@ -10296,9 +10723,12 @@ trainer_name_fr.lsd
 [ch0111] Peter
 [ch0112] Luth
 [ch0114] Morgane
+[ch0121] Apocyne
 [ch0124] Barbara
+[ch0125] Guzma
 [ch0127] Marc
 [ch0129] Amaryllis
+[ch0131] Lem
 [ch0137] Chen
 [ch0140] Giovanni
 [ch0151] Kiméra
@@ -10414,9 +10844,12 @@ trainer_name_it.lsd
 [ch0111] Lance
 [ch0112] Armonio
 [ch0114] Sabrina
+[ch0121] Plumeria
 [ch0124] Ibis
+[ch0125] Guzman
 [ch0127] Adriano
 [ch0129] Lyris
+[ch0131] Lem
 [ch0137] Professor Oak
 [ch0140] Giovanni
 [ch0151] Fannie
@@ -10532,9 +10965,12 @@ trainer_name_ja.lsd
 [ch0111] ワタル
 [ch0112] ヒビキ
 [ch0114] ナツメ
+[ch0121] プルメリ
 [ch0124] マオ
+[ch0125] グズマ
 [ch0127] ミクリ
 [ch0129] ヒガナ
+[ch0131] シトロン
 [ch0137] オーキド
 [ch0140] サカキ
 [ch0151] メリッサ
@@ -10650,9 +11086,12 @@ trainer_name_ko.lsd
 [ch0111] 목호
 [ch0112] 심향
 [ch0114] 초련
+[ch0121] 플루메리
 [ch0124] 마오
+[ch0125] 구즈마
 [ch0127] 윤진
 [ch0129] 피아나
+[ch0131] 시트론
 [ch0137] 오박사
 [ch0140] 비주기
 [ch0151] 멜리사
@@ -10768,9 +11207,12 @@ trainer_name_zh-TW.lsd
 [ch0111] 阿渡
 [ch0112] 阿響
 [ch0114] 娜姿
+[ch0121] 布爾美麗
 [ch0124] 瑪奧
+[ch0125] 古茲馬
 [ch0127] 米可利
 [ch0129] 希嘉娜
+[ch0131] 希特隆
 [ch0137] 大木
 [ch0140] 阪木
 [ch0151] 梅麗莎
@@ -15084,9 +15526,23 @@ keinen Erstbonus.
 Möchtest du dieses Gebiet noch mal
 spielen?
 [home/quest_list_082] Nicht mehr anzeigen.
+[home/quest_list_083] Eigenes Team erstellen
+[home/quest_list_084] Mit anderen spielen
+[home/quest_list_085] Eigenes Team
+erstellen
+[home/quest_list_086] In den drei Teams befindet sich 
+mehrfach der gleiche Trainer. 
+Du kannst nicht aufbrechen.
 [home/quest_list_087] Wird freigeschaltet nach Abschluss von
 „[Name:QuestTitle ]“ ([Name:QuestGroupTitle ])
 im [Name:SoloMulti ].
+[home/quest_list_088] Neuer Schwierigkeitsgrad
+[home/quest_list_089] Das Team in der mittleren Position
+kann nicht aufgelöst oder entfernt
+werden.
+[home/quest_list_090] Du kannst nicht aufbrechen, weil du
+nicht drei Teams ausgewählt hast.
+[home/quest_list_093] freigeschaltet!
 [home/quest_detail_003] Empfohlener Typ
 [home/quest_detail_005] Details
 [home/quest_detail_009] Teamauswahl
@@ -15186,6 +15642,12 @@ nächstes Mal!
 [home/login_bonus_007] BONUS!
 [home/login_bonus_008] Nächster
 [home/login_bonus_009] Das erhältst du
+nächstes Mal!
+[home/login_bonus_012] Login-Bonus:
+Willkommen Zurück
+
+[home/login_bonus_013] Willkommen zurück!
+Das erhältst du
 nächstes Mal!
 [home/app_review_001] Bewertung
 [home/app_review_002] Vielen Dank, dass du
@@ -15328,9 +15790,19 @@ no longer available.
 
 Would you like to replay this area?
 [home/quest_list_082] Do not show me this again.
+[home/quest_list_083] Create Your Own Team
+[home/quest_list_084] Team Up with Other Players
+[home/quest_list_085] Create Your
+Own Team
+[home/quest_list_086] The same Trainer is assigned to more
+than one team. Please edit your teams.
 [home/quest_list_087] To unlock, complete [Name:QuestGroupTitle ],
 [Name:QuestTitle ]
 ([Name:SoloMulti ])
+[home/quest_list_088] New Difficulty
+[home/quest_list_089] Teams in the center position cannot be removed or disbanded.
+[home/quest_list_090] Your team is incomplete. All three team slots must be filled to continue.
+[home/quest_list_093] Unlocked!
 [home/quest_detail_003] Recommended Types
 [home/quest_detail_005] Area Details
 [home/quest_detail_009] Preset Teams
@@ -15431,6 +15903,10 @@ you log in!
 [home/login_bonus_008] Next up...
 [home/login_bonus_009] Receive this next time
 you log in!
+[home/login_bonus_012] Welcome Back Log-In Bonus
+[home/login_bonus_013] Welcome back!
+Receive this next
+time you log in!
 [home/app_review_001] Review
 [home/app_review_002] Thank you for playing
 [Name:TitleName ]!
@@ -15575,9 +16051,22 @@ por completarla de nuevo.
 ¿Quieres volver a jugar de todas
 formas?
 [home/quest_list_082] No volver a mostrar.
+[home/quest_list_083] Formar tu propio equipo
+[home/quest_list_084] Formar equipo con otros
+[home/quest_list_085] Formar tu
+propio equipo
+[home/quest_list_086] Has asignado el mismo Entrenador
+o pareja de compis más de una vez en
+tu propio equipo, por lo que no puedes
+continuar. Reorganiza tu equipo.
 [home/quest_list_087] Disponible tras completar
 [Name:QuestTitle ] ([Name:SoloMulti ])
 de [Name:QuestGroupTitle ].
+[home/quest_list_088] Nueva dificultad
+[home/quest_list_089] No puedes disolver el equipo
+de la posición central.
+[home/quest_list_090] Necesitas tres equipos para poder iniciar la aventura.
+[home/quest_list_093] desbloqueada
 [home/quest_detail_003] Tipos recomendados
 [home/quest_detail_005] Detalles
 [home/quest_detail_009] Elegir equipo
@@ -15677,6 +16166,10 @@ bonificación!
 [home/login_bonus_007] RECOMPENSA
 [home/login_bonus_008] Siguiente
 [home/login_bonus_009] ¡Esta será tu próxima
+bonificación!
+[home/login_bonus_012] Bonif. de inicio de regreso
+[home/login_bonus_013] ¡Hola de nuevo!
+¡Esta será tu próxima
 bonificación!
 [home/app_review_001] Valoración
 [home/app_review_002] ¡Muchas gracias por jugar a
@@ -15819,9 +16312,22 @@ obtenu les récompenses pour votre
 première victoire. Voulez-vous
 rejouer ?
 [home/quest_list_082] Ne plus afficher ce message
+[home/quest_list_083] Créer son équipe
+[home/quest_list_084] Jouer avec d'autres joueurs
+[home/quest_list_085] Créer son
+équipe
+[home/quest_list_086] Un Dresseur est assigné à plusieurs
+équipes.
+Veuillez modifier vos équipes.
 [home/quest_list_087] Débloqué après avoir terminé
 [Name:QuestGroupTitle ] ([Name:SoloMulti ])
 « [Name:QuestTitle ] »
+[home/quest_list_088] Nouvelle difficulté
+[home/quest_list_089] Les équipes placées au centre ne
+peuvent pas être dissoutes ni retirées.
+[home/quest_list_090] Vous devez avoir trois équipes
+complètes avant de pouvoir continuer.
+[home/quest_list_093] débloquée !
 [home/quest_detail_003] Types conseillés
 [home/quest_detail_005] Infos
 [home/quest_detail_009] Équipes
@@ -15921,6 +16427,10 @@ récompense !
 [home/login_bonus_008] À venir
 [home/login_bonus_009] Voici votre prochaine
 récompense !
+[home/login_bonus_012] Bonus « retour »
+[home/login_bonus_013] Ravis de vous revoir !
+Voici votre prochain
+bonus de connexion !
 [home/app_review_001] Avis
 [home/app_review_002] Merci d'avoir joué à
 [Name:TitleName ] !
@@ -16065,8 +16575,21 @@ Guida area.
 
 Vuoi rivedere la storia comunque?
 [home/quest_list_082] Non visualizzare più
+[home/quest_list_083] Crea tu le squadre
+[home/quest_list_084] Cerca altri giocatori
+[home/quest_list_085] Crea tu
+le squadre
+[home/quest_list_086] Non è possibile affrontare la sfida
+perché gli stessi Allenatori sono stati
+inseriti più volte nelle tre squadre.
 [home/quest_list_087] Si sblocca completando "[Name:QuestTitle ]"
 in "[Name:QuestGroupTitle ]" in modalità [Name:SoloMulti ].
+[home/quest_list_088] Nuova difficoltà
+[home/quest_list_089] Non è possibile sciogliere o rimuovere
+la squadra centrale.
+[home/quest_list_090] Devi scegliere i componenti di tutte e
+tre le squadre per affrontare la sfida.
+[home/quest_list_093] sbloccata!
 [home/quest_detail_003] Tipi consigliati
 [home/quest_detail_005] Info area
 [home/quest_detail_009] Scegli squadra
@@ -16167,6 +16690,10 @@ la prossima volta!
 [home/login_bonus_008] DOMANI
 [home/login_bonus_009] Ecco cosa otterrai
 la prossima volta!
+[home/login_bonus_012] Bonus "Bentornati"
+[home/login_bonus_013] Ci fa piacere rivederti!
+Ecco cosa otterrai
+la prossima volta!
 [home/app_review_001] Lascia una recensione
 [home/app_review_002] Grazie per aver giocato
 a [Name:TitleName ]!
@@ -16211,7 +16738,7 @@ secondari!
 [home/episode_event_014] Congratulazioni!
 
 Hai ottenuto tutti gli episodi!
-[home/episode_event_015] Gli episodi secondari che non sono stati sbloccati in questa mappa riappariranno nella successiva.
+[home/episode_event_015] Gli episodi secondari che non sono stati sbloccati in questa mappa riappariranno nelle successive.
 [home/episode_event_016] Quando raggiungi il traguardo, sbloccherai un episodio principale e avanzerai alla mappa successiva.
 [home/episode_event_017] Arrivando al traguardo, avanzerai alla mappa successiva. Vuoi proseguire?
 [home/episode_event_018] Arrivando al traguardo, avanzerai alla mappa successiva.
@@ -16311,9 +16838,21 @@ Lv.[Digit:2digits ]で解放
 
 ストーリーを再度見ますか？
 [home/quest_list_082] 再度表示しない
+[home/quest_list_083] 自分でチームを編成する
+[home/quest_list_084] 他の人とマッチングする
+[home/quest_list_085] 自分でチームを
+編成する
+[home/quest_list_086] 三つのチーム内に同一のトレーナーが
+編成されているため出発できません
 [home/quest_list_087] [Name:QuestGroupTitle ]（[Name:SoloMulti ]）
 「[Name:QuestTitle ]」
 クリアで解放
+[home/quest_list_088] 新しい難易度
+[home/quest_list_089] センターのチームを解散したり
+はずすことはできません
+[home/quest_list_090] 3チームが編成されていないため
+出発できません
+[home/quest_list_093] 解放！
 [home/quest_detail_003] おすすめのタイプ
 [home/quest_detail_005] エリア詳細
 [home/quest_detail_009] チーム選択
@@ -16410,6 +16949,10 @@ Lv.[Digit:2digits ]で解放
 [home/login_bonus_007] GET!
 [home/login_bonus_008] NEXT
 [home/login_bonus_009] 次回はこちらが
+もらえますよ！
+[home/login_bonus_012] カムバックログインボーナス
+[home/login_bonus_013] おかえりなさい！
+次回はこちらが
 もらえますよ！
 [home/app_review_001] レビュー
 [home/app_review_002] [Name:TitleName ]をプレイいただき
@@ -16561,9 +17104,21 @@ Lv.[Digit:2digits ]에서 해방
 
 스토리를 다시 보겠습니까?
 [home/quest_list_082] 다시 표시하지 않는다
+[home/quest_list_083] 스스로 팀을 편성한다
+[home/quest_list_084] 다른 사람과 매칭한다
+[home/quest_list_085] 스스로 팀을
+편성한다
+[home/quest_list_086] 3개의 팀 중에 같은 트레이너가
+편성되어 있어 출발할 수 없습니다
 [home/quest_list_087] [Name:QuestGroupTitle ]([Name:SoloMulti ])
 "[Name:QuestTitle ]"[Kor:Particle char="wo" ]
 클리어하여 해방
+[home/quest_list_088] 새로운 난이도
+[home/quest_list_089] 센터에 위치한 팀을 해산하거나
+제외할 수는 없습니다
+[home/quest_list_090] 세 팀이 편성되지 않았기 때문에
+출발할 수 없습니다
+[home/quest_list_093] 해방!
 [home/quest_detail_003] 추천타입
 [home/quest_detail_005] 에리어 상세
 [home/quest_detail_009] 팀 선택
@@ -16659,6 +17214,10 @@ Lv.[Digit:2digits ]에서 해방
 [home/login_bonus_007] GET!
 [home/login_bonus_008] NEXT
 [home/login_bonus_009] 다음엔 이것을
+받을 수 있습니다!
+[home/login_bonus_012] 컴백 로그인 보너스
+[home/login_bonus_013] 어서 오세요!
+다음엔 이것을
 받을 수 있습니다!
 [home/app_review_001] 리뷰
 [home/app_review_002] [Name:TitleName ][Kor:Particle char="wo" ] 플레이해주셔서
@@ -16810,9 +17369,20 @@ home_zh-TW.lsd
 
 確定要開啟劇情嗎？
 [home/quest_list_082] 不再顯示
+[home/quest_list_083] 自行編制隊伍
+[home/quest_list_084] 與他人配對
+[home/quest_list_085] 自行編制
+隊伍
+[home/quest_list_086] 有同一個訓練家被重複選擇
+無法出發
 [home/quest_list_087] 開放條件：
 成功過關[Name:QuestGroupTitle ]（[Name:SoloMulti ]）
 「[Name:QuestTitle ]」
+[home/quest_list_088] 新難度
+[home/quest_list_089] 位於中鋒的隊伍無法解散或移除
+[home/quest_list_090] 尚未編制3組隊伍
+無法出發
+[home/quest_list_093] 開放！
 [home/quest_detail_003] 推薦屬性
 [home/quest_detail_005] 區域詳情
 [home/quest_detail_009] 選擇隊伍
@@ -16905,6 +17475,9 @@ home_zh-TW.lsd
 [home/login_bonus_007] GET!
 [home/login_bonus_008] NEXT
 [home/login_bonus_009] 下次可以獲得這個喔！
+[home/login_bonus_012] 回歸活動登入獎勵
+[home/login_bonus_013] 歡迎回來！
+下次可以獲得這個喔！
 [home/app_review_001] 評論
 [home/app_review_002] 非常感謝您對
 [Name:TitleName ]的支持！
@@ -17269,7 +17842,8 @@ kann. Im Fokus stehen Gefährten mit einer
 Gefährten-Attacke desselben Typs. Bei Gefährten mit
 dem Typ bzw. den Typen im Fokus ist die Erscheinungsrate
 höher als bei anderen Gefährten mit derselben ★-Anzahl.
-[shop/scout_077] Erhalte noch ein 5★-Gefährtengespann!
+[shop/scout_077] Erhalte nach einer Gefährtensuche × 10
+zusätzlich ein 5★-Gefährtengespann!
 [shop/scout_078] Spezielle G-Suche × 10
 [shop/scout_079] Hinweis: Dadurch werden gekaufte Juwelen verbraucht.
 Selbst wenn du Gefährten schon hast und sich bei ihnen
@@ -17579,7 +18153,7 @@ When you see a * displayed after a Pokémon name in the offering rate, that mean
 This scout features sync pairs with certain type(s) of sync moves.
 
 Sync pairs of the currently featured type(s) have a higher offering rate than other sync pairs with the same number of ★s.
-[shop/scout_077] Choose an additional 5★ sync pair!
+[shop/scout_077] You can also choose a 5★ sync pair!
 [shop/scout_078] Special Scout ×10
 [shop/scout_079] This will use your paid gems. When you are scouting, sync pairs are shown with unevolved Pokémon even if you have previously acquired and evolved them.
 You may select your additional sync pair after the initial 10 scouts are completed. If a connection error occurs during this process and you need to reselect your sync pair, please select an available sync pair within one week of this special scout’s end date. You will not be able to obtain your additional sync pair after this time.
@@ -17836,7 +18410,7 @@ Las tasas de aparición de cada pareja de compis se aplican cada vez que se efec
 Es posible obtener una pareja de compis repetida en un reclutamiento. Aunque el Pokémon de la pareja de compis ya obtenida haya evolucionado, en la pantalla de reclutamiento aparecerá siempre la primera fase evolutiva.
 Los Pokémon de las parejas de compis marcadas con un asterisco (*) en la pantalla de las tasas de aparición podrán evolucionar tras completar el episodio de evolución correspondiente.
 Las tasas de aparición de las parejas de compis con los tipos destacados serán mayores que las de otras con el mismo número de ★. Las parejas de compis incluidas en la promoción de destacados serán aquellas que tengan un movimiento compi del tipo destacado.
-[shop/scout_077] ¡Consigue los compis de 5★ que quieras!
+[shop/scout_077] ¡Elige una pareja de compis de 5★!
 [shop/scout_078] Recl. ×10 especial
 [shop/scout_079] Nota: Se usarán joyas de pago. Aunque el Pokémon de una pareja de compis haya evolucionado, si reclutas una pareja de compis idéntica, el Pokémon aparecerá siempre en su primera fase evolutiva.
 Podrás obtener una pareja de compis a tu elección tras realizar el reclutamiento de compis ×10. Si se produce un error durante el proceso, dispondrás de una semana desde que se realizó el reclutamiento en cuestión para elegir la pareja de compis que tú quieras. No podrás obtener la pareja pasado este tiempo.
@@ -18075,7 +18649,8 @@ montée au niveau [Digit:1digit ].
 [shop/scout_073] Remarque : les Diamants non payants seront utilisés en premier. Si vous appelez un Duo que vous avez déjà et dont vous avez fait évoluer le Pokémon, le Pokémon avant évolution apparaîtra dans le Duo affiché dans les résultats.
 [shop/scout_074] Liste des bonus
 [shop/scout_075] Remarque : les pourcentages de chance par nombre d'★ affichés étant arrondis après la quatrième décimale, il peut arriver que leur somme totale ne soit pas égale à 100 %. Les pourcentages réels ne sont ni arrondis au supérieur ni à l'inférieur. Les pourcentages s'appliquent à chaque Appel Duo indépendamment. Même si vous passez un certain nombre d'Appels Duo, il est possible qu'un certain Duo n'apparaisse pas du tout. Il est possible qu'un même Duo apparaisse plusieurs fois. Si vous appelez un Duo que vous avez déjà et dont vous avez fait évoluer le Pokémon, le Pokémon avant évolution apparaîtra dans le Duo affiché dans les résultats. Lorsqu'un astérisque (*) est affiché après le nom d'un Pokémon sur l'écran des pourcentages, le Duo peut faire évoluer le Pokémon grâce à un épisode d'évolution. À nombre d'★ égal, les Duos dont le type est à l'affiche en ce moment auront plus de chances d'être appelés que les autres Duos. Un type est à l'affiche quand des Duos possédant des capacités de ce type sont à l'affiche.
-[shop/scout_077] Recevez un deuxième Duo 5★ !
+[shop/scout_077] Effectuez 10 Appels Duo d'un coup et
+choisissez un des Duos 5★ proposés !
 [shop/scout_078] 10 Appels Duo (spécial)
 [shop/scout_079] Remarque : vos Diamants payants seront utilisés. Si vous appelez un Duo que vous avez déjà, le Pokémon avant évolution apparaîtra, ce même si vous avez déjà fait évoluer le Pokémon du Duo. Vous pourrez obtenir le Duo de votre choix après avoir passé les 10 Appels Duos. Si une erreur de communication devait se produire pendant l'opération et que vous devez choisir à nouveau, assurez-vous de récupérer votre Duo au plus tard une semaine après avoir passé les Appels Duos. Après cette période, vous ne pourrez plus obtenir le Duo.
 [shop/scout_080] Choisissez le Duo 5★ que vous voulez !
@@ -18369,7 +18944,8 @@ I Pokémon con un asterisco dopo il nome, visualizzato nel tasso di comparsa del
 Questa ricerca Unità comprende Unità la cui Unimossa appartiene a determinati tipi.
 
 Le Unità dei tipi VIP hanno un tasso di comparsa più elevato delle altre Unità con lo stesso numero di ★.
-[shop/scout_077] Ottieni un'altra Unità 5★a piacere!
+[shop/scout_077] Se effettui una Ricerca Unità ×10,
+potrai scegliere un'Unità 5★!
 [shop/scout_078] Ricerca Unità speciale x10
 [shop/scout_079] Verranno usate le gemme a pagamento.
 Nella ricerca Unità, le Unità sono mostrate con Pokémon
@@ -18408,7 +18984,8 @@ I Pokémon con un asterisco dopo il nome, visualizzato nel tasso di comparsa del
 [shop/scout_093] Le Unità nella lista sono mostrate con i loro valori di partenza.
 [shop/scout_094] Info
 regali
-[shop/scout_095] Probabilità di 5★: [Digit:4digits ]%!
+[shop/scout_095] Probabilità di 5★:
+[Digit:4digits ]%!
 [shop/deck_item_sale_001] Scambio accessori
 [shop/deck_item_sale_002] Accessori
 [shop/deck_item_sale_003] Filtra
