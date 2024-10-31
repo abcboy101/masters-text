@@ -4963,7 +4963,7 @@ Alptraum
 [quest_title_1030110000440300] Erinnerungen...
 [quest_title_1030110000440800] Vs. Galaktik Rüpel 6
 [quest_title_1030110000440400] Zeit, aufzuwachen
-[quest_title_1030110000440900] Vs. Zyrus 2
+[quest_title_1030110000440900] Vs. MaMo-Zyrus
 [quest_title_1030110000440500] Das Streben nach einem
 vollkommenen Geist
 [quest_title_1030440100201010] Kampf um Musik-Münzen
@@ -5376,6 +5376,45 @@ erfolgreichen Trainings
 [quest_title_1030406000606040] Kampfsport-Training 4
 [quest_title_1030220012100000] Ein Tag mit MaMo-Connie
 [quest_title_1030220243800000] Ein Tag mit Gloria
+[quest_group_title_100104] Hoenn
+[quest_group_title_10019100000] MaMo-Brix
+[quest_group_title_10126100000] MaMo-Maike
+[quest_group_title_10217000000] LeBelle
+[quest_group_title_10222000000] Jördis
+[quest_group_detail_100104] Himmel, Erde und Meer
+[quest_title_1030440600116011] Vs. Ulrich
+[quest_title_1030440600109011] Vs. Antonia
+[quest_title_1030440600114011] Vs. Frosina
+[quest_title_1030440600111011] Vs. Dragan
+[quest_title_1030440600103011] Vs. Troy
+[quest_title_1030440600105011] Vs. Wassili
+[quest_title_1030110000470100] Hintergedanken
+[quest_title_1030110000470600] Vs. Team Magma 1
+[quest_title_1030110000470200] Kampf um Naturenergie
+[quest_title_1030110000470700] Vs. Team Aqua 1
+[quest_title_1030110000470300] Urzeitliche Pokémon
+[quest_title_1030110000470800] Vs. Team Magma 2
+[quest_title_1030110000470400] Unabänderliche Prinzipien
+[quest_title_1030110000470900] Vs. Team Aqua 2
+[quest_title_1030110000470500] Unkontrollierbare Kräfte
+[quest_title_1030407000601010] Vs. Team Magma 1
+[quest_title_1030407000601020] Vs. Team Magma 2
+[quest_title_1030407000601030] Vs. Team Magma 3
+[quest_title_1030407000601040] Täglicher schwerer Kampf
+[quest_title_1030407000601050] Herausforderungskampf 1
+[quest_title_1030407000601060] Herausforderungskampf 2
+[quest_title_1030407000602010] Stelle dich Amalia! 1
+[quest_title_1030407000602020] Stelle dich Amalia! 2
+[quest_title_1030407000602030] Stelle dich Heiko! 1
+[quest_title_1030407000602040] Stelle dich Heiko! 2
+[quest_title_1030440700401010] Vs. Trainer aus Passio 1
+[quest_title_1030440700402010] Vs. Trainer aus Passio 2
+[quest_title_1030440700403010] Vs. Trainer aus Passio 3
+[quest_title_1030440700404010] Vs. Trainer aus Passio 4
+[quest_title_1030220019100000] Ein Tag mit MaMo-Brix
+[quest_title_1030220126100000] Ein Tag mit MaMo-Maike
+[quest_title_1030220217000000] Ein Tag mit LeBelle
+[quest_title_1030220222000000] Ein Tag mit Jördis
 
 ===========
 story_quest_name_en.lsd
@@ -6117,7 +6156,7 @@ story_quest_name_en.lsd
 [quest_title_1030201001001010] Off to the Glaciers!
 [quest_title_1030201001001020] Fight Now, Talk Later
 [quest_title_1030201001001030] Chasing a Lost Mission
-[quest_title_1030201001001040] The Sky-Rending Dragon, Part 1
+[quest_title_1030201001001040] The Sky-Rending Dragon: Part 1
 [quest_title_1030201001001050] Wish upon a Star...and a Dragon
 [quest_title_1030201001001060] A New Beginning
 [quest_title_1030201001001070] Take Down Zinnia! Round 1
@@ -6206,9 +6245,9 @@ story_quest_name_en.lsd
 [quest_group_detail_100026] Rival Face-Off!
 [quest_group_detail_100028] Hearts Connected by Fashion
 [quest_group_detail_100029] A Shining Spotlight
-[quest_title_1030201001001550] The Sky-Rending Dragon, Part 2
-[quest_title_1030201001001610] Challenge Team Break, Part 1
-[quest_title_1030201001001620] Challenge Team Break, Part 2
+[quest_title_1030201001001550] The Sky-Rending Dragon: Part 2
+[quest_title_1030201001001610] Challenge Team Break: Part 1
+[quest_title_1030201001001620] Challenge Team Break: Part 2
 [quest_title_1030210137000000] Let’s Go, Professor Oak!
 [quest_title_1030210137000004] A Day with Professor Oak
 [quest_group_title_10129000000] Zinnia
@@ -7381,7 +7420,7 @@ story_quest_name_en.lsd
 [quest_title_1030110000440300] Intertwined Pasts
 [quest_title_1030110000440800] Challenge the Galactic Grunts: Part 6
 [quest_title_1030110000440400] The Time of Awakening
-[quest_title_1030110000440900] Challenge Cyrus: Part 2
+[quest_title_1030110000440900] Challenge Sygna Suit Cyrus
 [quest_title_1030110000440500] A Mission to Complete
 [quest_title_1030440100201010] Music Coin Challenge!
 [quest_title_1030401000603000] Our First Palentine’s
@@ -7784,6 +7823,45 @@ story_quest_name_en.lsd
 [quest_title_1030406000606040] The Fourth Trial
 [quest_title_1030220012100000] A Day with Sygna Suit Korrina
 [quest_title_1030220243800000] A Day with Gloria
+[quest_group_title_100104] Hoenn
+[quest_group_title_10019100000] Sygna Suit Brendan
+[quest_group_title_10126100000] Sygna Suit May
+[quest_group_title_10217000000] Looker
+[quest_group_title_10222000000] Courtney
+[quest_group_detail_100104] Delta of Land, Sea, and Sky
+[quest_title_1030440600116011] Sidney
+[quest_title_1030440600109011] Phoebe
+[quest_title_1030440600114011] Glacia
+[quest_title_1030440600111011] Drake
+[quest_title_1030440600103011] Steven
+[quest_title_1030440600105011] Wallace
+[quest_title_1030110000470100] Differing Perspectives
+[quest_title_1030110000470600] Challenge Team Magma: Part 1
+[quest_title_1030110000470200] Battle over Natural Energy
+[quest_title_1030110000470700] Challenge Team Aqua: Part 1
+[quest_title_1030110000470300] Super-Ancient Pokémon and People
+[quest_title_1030110000470800] Challenge Team Magma: Part 2
+[quest_title_1030110000470400] Justice Serving Beliefs
+[quest_title_1030110000470900] Challenge Team Aqua: Part 2
+[quest_title_1030110000470500] Uncontrollable Power
+[quest_title_1030407000601010] Challenge Team Magma: Part 1
+[quest_title_1030407000601020] Challenge Team Magma: Part 2
+[quest_title_1030407000601030] Challenge Team Magma: Part 3
+[quest_title_1030407000601040] Daily Extreme Battle 1
+[quest_title_1030407000601050] Battle Challenge! Round 1
+[quest_title_1030407000601060] Battle Challenge! Round 2
+[quest_title_1030407000602010] Take On Zinnia! Part 1
+[quest_title_1030407000602020] Take On Zinnia! Part 2
+[quest_title_1030407000602030] Take On Wally! Part 1
+[quest_title_1030407000602040] Take On Wally! Part 2
+[quest_title_1030440700401010] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030440700402010] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030440700403010] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030440700404010] Challenge Pasio’s Trainers: Part 4
+[quest_title_1030220019100000] A Day with Sygna Suit Brendan
+[quest_title_1030220126100000] A Day with Sygna Suit May
+[quest_title_1030220217000000] A Day with Looker
+[quest_title_1030220222000000] A Day with Courtney
 
 ===========
 story_quest_name_es.lsd
@@ -9941,7 +10019,7 @@ Galaxia (5)
 [quest_title_1030110000440800] VS. Reclutas del Equipo
 Galaxia (6)
 [quest_title_1030110000440400] ¡Hora de despertarse!
-[quest_title_1030110000440900] VS. Helio (2)
+[quest_title_1030110000440900] VS. Helio (Traje S)
 [quest_title_1030110000440500] En busca de un mundo
 perfecto
 [quest_title_1030440100201010] ¡Combate por Monedas
@@ -10400,6 +10478,48 @@ entrenar
 [quest_title_1030406000606040] La cuarta prueba
 [quest_title_1030220012100000] Un día con Corelia (Traje S)
 [quest_title_1030220243800000] Un día con Gloria
+[quest_group_title_100104] Trama de Hoenn
+[quest_group_title_10019100000] Bruno (Traje S)
+[quest_group_title_10126100000] Aura (Traje S)
+[quest_group_title_10217000000] Handsome
+[quest_group_title_10222000000] Carola
+[quest_group_detail_100104] Tierra, océano y cielo
+[quest_title_1030440600116011] VS. Sixto
+[quest_title_1030440600109011] VS. Fátima
+[quest_title_1030440600114011] VS. Nívea
+[quest_title_1030440600111011] VS. Dracón
+[quest_title_1030440600103011] VS. Máximo
+[quest_title_1030440600105011] VS. Plubio
+[quest_title_1030110000470100] Cada cual con su plan
+[quest_title_1030110000470600] VS. Equipo Magma
+[quest_title_1030110000470200] Combate por la energía
+natural
+[quest_title_1030110000470700] VS. Equipo Aqua
+[quest_title_1030110000470300] Humanos y Pokémon
+ancestrales
+[quest_title_1030110000470800] VS. Equipo Magma (2)
+[quest_title_1030110000470400] La defensa de un ideal
+irrenunciable
+[quest_title_1030110000470900] VS. Equipo Aqua (2)
+[quest_title_1030110000470500] Un poder desbocado
+[quest_title_1030407000601010] VS. Equipo Magma
+[quest_title_1030407000601020] VS. Equipo Magma (2)
+[quest_title_1030407000601030] VS. Equipo Magma (3)
+[quest_title_1030407000601040] ¡Un combate difícil al día!
+[quest_title_1030407000601050] ¡Un combate desafiante!
+[quest_title_1030407000601060] ¡Un combate desafiante! (2)
+[quest_title_1030407000602010] ¡Enfréntate a Tristana!
+[quest_title_1030407000602020] ¡Enfréntate a Tristana! (2)
+[quest_title_1030407000602030] ¡Enfréntate a Blasco!
+[quest_title_1030407000602040] ¡Enfréntate a Blasco! (2)
+[quest_title_1030440700401010] VS. Entrenadores de Passio
+[quest_title_1030440700402010] VS. Entrenadores de Passio (2)
+[quest_title_1030440700403010] VS. Entrenadores de Passio (3)
+[quest_title_1030440700404010] VS. Entrenadores de Passio (4)
+[quest_title_1030220019100000] Un día con Bruno (Traje S)
+[quest_title_1030220126100000] Un día con Aura (Traje S)
+[quest_title_1030220217000000] Un día con Handsome
+[quest_title_1030220222000000] Un día con Carola
 
 ===========
 story_quest_name_fr.lsd
@@ -12694,7 +12814,7 @@ Sbires Team Galaxie V
 [quest_title_1030110000440800] Combat :
 Sbires Team Galaxie VI
 [quest_title_1030110000440400] L'heure du réveil
-[quest_title_1030110000440900] Combat : Hélio II
+[quest_title_1030110000440900] Combat : Hélio (Look Ultime)
 [quest_title_1030110000440500] À la recherche d'un cœur
 parfait
 [quest_title_1030440100201010] Combat du Défi
@@ -13216,6 +13336,51 @@ de s'entraîner
 [quest_title_1030220012100000] Une journée avec Cornélia
 (Look Ultime)
 [quest_title_1030220243800000] Une journée avec Gloria
+[quest_group_title_100104] Hoenn
+[quest_group_title_10019100000] Brice (Look Ultime)
+[quest_group_title_10126100000] Flora (Look Ultime)
+[quest_group_title_10217000000] Beladonis
+[quest_group_title_10222000000] Courtney
+[quest_group_detail_100104] Terre, mer et ciel
+[quest_title_1030440600116011] Combat : Damien
+[quest_title_1030440600109011] Combat : Spectra
+[quest_title_1030440600114011] Combat : Glacia
+[quest_title_1030440600111011] Combat : Aragon
+[quest_title_1030440600103011] Combat : Pierre Rochard
+[quest_title_1030440600105011] Combat : Marc
+[quest_title_1030110000470100] Faire preuve de patience
+[quest_title_1030110000470600] Combat : Team Magma
+[quest_title_1030110000470200] Lutte pour l'énergie naturelle
+[quest_title_1030110000470700] Combat : Team Aqua
+[quest_title_1030110000470300] Pokémon ancestraux
+[quest_title_1030110000470800] Combat : Team Magma II
+[quest_title_1030110000470400] Faire ce qui est juste
+[quest_title_1030110000470900] Combat : Team Aqua II
+[quest_title_1030110000470500] Fureur destructrice
+[quest_title_1030407000601010] Combat : Team Magma
+[quest_title_1030407000601020] Combat : Team Magma II
+[quest_title_1030407000601030] Combat : Team Magma III
+[quest_title_1030407000601040] Combat difficile limité
+à une fois par jour !
+[quest_title_1030407000601050] Combat difficile
+[quest_title_1030407000601060] Combat difficile II
+[quest_title_1030407000602010] Combat corsé : Amaryllis
+[quest_title_1030407000602020] Combat corsé : Amaryllis II
+[quest_title_1030407000602030] Combat corsé : Timmy
+[quest_title_1030407000602040] Combat corsé : Timmy II
+[quest_title_1030440700401010] Combat : Dresseurs de Passio
+[quest_title_1030440700402010] Combat :
+Dresseurs de Passio II
+[quest_title_1030440700403010] Combat :
+Dresseurs de Passio III
+[quest_title_1030440700404010] Combat :
+Dresseurs de Passio IV
+[quest_title_1030220019100000] Une journée avec Brice
+(Look Ultime)
+[quest_title_1030220126100000] Une journée avec Flora
+(Look Ultime)
+[quest_title_1030220217000000] Une journée avec Beladonis
+[quest_title_1030220222000000] Une journée avec Courtney
 
 ===========
 story_quest_name_it.lsd
@@ -15184,7 +15349,7 @@ story_quest_name_it.lsd
 [quest_title_1030110000440300] Passati intrecciati
 [quest_title_1030110000440800] VS Reclute del Team Galassia 6
 [quest_title_1030110000440400] Risveglio
-[quest_title_1030110000440900] VS Cyrus 2
+[quest_title_1030110000440900] VS Cyrus Costumax
 [quest_title_1030110000440500] Alla ricerca di uno spirito completo
 [quest_title_1030440100201010] Lotta per le Chiavi musicali
 [quest_title_1030401000603000] Il nostro primo Giorno dell'affetto
@@ -15577,6 +15742,45 @@ story_quest_name_it.lsd
 [quest_title_1030406000606040] La quarta prova
 [quest_title_1030220012100000] Un giorno con Ornella Costumax
 [quest_title_1030220243800000] Un giorno con Gloria
+[quest_group_title_100104] Hoenn
+[quest_group_title_10019100000] Brendon Costumax
+[quest_group_title_10126100000] Vera Costumax
+[quest_group_title_10217000000] Bellocchio
+[quest_group_title_10222000000] Rossella
+[quest_group_detail_100104] Delta di terra, mare e cielo
+[quest_title_1030440600116011] VS Fosco
+[quest_title_1030440600109011] VS Ester
+[quest_title_1030440600114011] VS Frida
+[quest_title_1030440600111011] VS Drake
+[quest_title_1030440600103011] VS Rocco
+[quest_title_1030440600105011] VS Adriano
+[quest_title_1030110000470100] A ognuno i propri piani
+[quest_title_1030110000470600] VS Team Magma
+[quest_title_1030110000470200] La lotta per l'energia naturale
+[quest_title_1030110000470700] VS Team Idro
+[quest_title_1030110000470300] Esseri umani e Pokémon millenari
+[quest_title_1030110000470800] VS Team Magma 2
+[quest_title_1030110000470400] Ciò che è giusto fare per i propri ideali
+[quest_title_1030110000470900] VS Team Idro 2
+[quest_title_1030110000470500] Una furia incontrollabile
+[quest_title_1030407000601010] VS Team Magma
+[quest_title_1030407000601020] VS Team Magma 2
+[quest_title_1030407000601030] VS Team Magma 3
+[quest_title_1030407000601040] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030407000601050] Sfida ad alta difficoltà
+[quest_title_1030407000601060] Sfida ad alta difficoltà 2
+[quest_title_1030407000602010] Sfida un'avversaria potente: Lyris
+[quest_title_1030407000602020] Sfida un'avversaria potente: Lyris 2
+[quest_title_1030407000602030] Sfida un avversario potente: Lino
+[quest_title_1030407000602040] Sfida un avversario potente: Lino 2
+[quest_title_1030440700401010] VS Allenatori di Pasio
+[quest_title_1030440700402010] VS Allenatori di Pasio 2
+[quest_title_1030440700403010] VS Allenatori di Pasio 3
+[quest_title_1030440700404010] VS Allenatori di Pasio 4
+[quest_title_1030220019100000] Un giorno con Brendon Costumax
+[quest_title_1030220126100000] Un giorno con Vera Costumax
+[quest_title_1030220217000000] Un giorno con Bellocchio
+[quest_title_1030220222000000] Un giorno con Rossella
 
 ===========
 story_quest_name_ja.lsd
@@ -17583,7 +17787,7 @@ story_quest_name_ja.lsd
 [quest_title_1030110000440300] 交錯する過去
 [quest_title_1030110000440800] ＶＳ　ギンガ団のしたっぱ６
 [quest_title_1030110000440400] 目覚める時間
-[quest_title_1030110000440900] ＶＳ　アカギ２
+[quest_title_1030110000440900] ＶＳ　マジコスアカギ
 [quest_title_1030110000440500] 完全なる心を求めて
 [quest_title_1030440100201010] ミュージックコイン獲得バトル！
 [quest_title_1030401000603000] はじめてのサンクスデイ
@@ -17986,6 +18190,45 @@ story_quest_name_ja.lsd
 [quest_title_1030406000606040] 武の試練　四
 [quest_title_1030220012100000] とある日のマジコスコルニ
 [quest_title_1030220243800000] とある日のユウリ
+[quest_group_title_100104] ホウエン編
+[quest_group_title_10019100000] マジコスユウキ
+[quest_group_title_10126100000] マジコスハルカ
+[quest_group_title_10217000000] ハンサム
+[quest_group_title_10222000000] カガリ
+[quest_group_detail_100104] 大地と海と空のデルタ
+[quest_title_1030440600116011] ＶＳ　カゲツ
+[quest_title_1030440600109011] ＶＳ　フヨウ
+[quest_title_1030440600114011] ＶＳ　プリム
+[quest_title_1030440600111011] ＶＳ　ゲンジ
+[quest_title_1030440600103011] ＶＳ　ダイゴ
+[quest_title_1030440600105011] ＶＳ　ミクリ
+[quest_title_1030110000470100] それぞれの思惑
+[quest_title_1030110000470600] ＶＳ　マグマ団
+[quest_title_1030110000470200] 自然エネルギーを巡る争い
+[quest_title_1030110000470700] ＶＳ　アクア団
+[quest_title_1030110000470300] 超古代ポケモンと人間たち
+[quest_title_1030110000470800] ＶＳ　マグマ団２
+[quest_title_1030110000470400] 理念のための正義
+[quest_title_1030110000470900] ＶＳ　アクア団２
+[quest_title_1030110000470500] 暴走する力
+[quest_title_1030407000601010] ＶＳ　マグマ団
+[quest_title_1030407000601020] ＶＳ　マグマ団２
+[quest_title_1030407000601030] ＶＳ　マグマ団３
+[quest_title_1030407000601040] １日１回限定・高難度バトル！
+[quest_title_1030407000601050] チャレンジバトルで勝負！
+[quest_title_1030407000601060] チャレンジバトルで勝負！２
+[quest_title_1030407000602010] 強敵に挑戦！　ＶＳ　ヒガナ
+[quest_title_1030407000602020] 強敵に挑戦！　ＶＳ　ヒガナ２
+[quest_title_1030407000602030] 強敵に挑戦！　ＶＳ　ミツル
+[quest_title_1030407000602040] 強敵に挑戦！　ＶＳ　ミツル２
+[quest_title_1030440700401010] ＶＳ　パシオのトレーナー
+[quest_title_1030440700402010] ＶＳ　パシオのトレーナー２
+[quest_title_1030440700403010] ＶＳ　パシオのトレーナー３
+[quest_title_1030440700404010] ＶＳ　パシオのトレーナー４
+[quest_title_1030220019100000] とある日のマジコスユウキ
+[quest_title_1030220126100000] とある日のマジコスハルカ
+[quest_title_1030220217000000] とある日のハンサム
+[quest_title_1030220222000000] とある日のカガリ
 
 ===========
 story_quest_name_ko.lsd
@@ -19991,7 +20234,7 @@ story_quest_name_ko.lsd
 [quest_title_1030110000440300] 교착하는 과거
 [quest_title_1030110000440800] VS 갤럭시단의 조무래기6
 [quest_title_1030110000440400] 깨어날 시간
-[quest_title_1030110000440900] VS 태홍2
+[quest_title_1030110000440900] VS 궁극코스 태홍
 [quest_title_1030110000440500] 완전한 마음을 추구하며
 [quest_title_1030440100201010] 뮤직코인 획득 배틀!
 [quest_title_1030401000603000] 첫 번째 스위트데이
@@ -20394,6 +20637,45 @@ story_quest_name_ko.lsd
 [quest_title_1030406000606040] 무술 시련4
 [quest_title_1030220012100000] 궁극코스 코르니의 어느 날
 [quest_title_1030220243800000] 우리의 어느 날
+[quest_group_title_100104] 호연지방 편
+[quest_group_title_10019100000] 궁극코스 휘웅
+[quest_group_title_10126100000] 궁극코스 봄이
+[quest_group_title_10217000000] 핸섬
+[quest_group_title_10222000000] 구열
+[quest_group_detail_100104] 대지와 바다와 하늘의 델타
+[quest_title_1030440600116011] VS 혁진
+[quest_title_1030440600109011] VS 회연
+[quest_title_1030440600114011] VS 미혜
+[quest_title_1030440600111011] VS 권수
+[quest_title_1030440600103011] VS 성호
+[quest_title_1030440600105011] VS 윤진
+[quest_title_1030110000470100] 각각의 속셈
+[quest_title_1030110000470600] VS 마그마단
+[quest_title_1030110000470200] 자연 에너지를 둘러싼 싸움
+[quest_title_1030110000470700] VS 아쿠아단
+[quest_title_1030110000470300] 초 고대포켓몬과 인간들
+[quest_title_1030110000470800] VS 마그마단2
+[quest_title_1030110000470400] 이념을 위한 정의
+[quest_title_1030110000470900] VS 아쿠아단2
+[quest_title_1030110000470500] 폭주하는 힘
+[quest_title_1030407000601010] VS 마그마단
+[quest_title_1030407000601020] VS 마그마단2
+[quest_title_1030407000601030] VS 마그마단3
+[quest_title_1030407000601040] 1일 1회 한정 고난도 배틀!
+[quest_title_1030407000601050] 챌린지배틀로 승부!
+[quest_title_1030407000601060] 챌린지배틀로 승부!2
+[quest_title_1030407000602010] 강적에게 도전! VS 피아나
+[quest_title_1030407000602020] 강적에게 도전! VS 피아나2
+[quest_title_1030407000602030] 강적에게 도전! VS 민진
+[quest_title_1030407000602040] 강적에게 도전! VS 민진2
+[quest_title_1030440700401010] VS 파시오의 트레이너
+[quest_title_1030440700402010] VS 파시오의 트레이너2
+[quest_title_1030440700403010] VS 파시오의 트레이너3
+[quest_title_1030440700404010] VS 파시오의 트레이너4
+[quest_title_1030220019100000] 궁극코스 휘웅의 어느 날
+[quest_title_1030220126100000] 궁극코스 봄이의 어느 날
+[quest_title_1030220217000000] 핸섬의 어느 날
+[quest_title_1030220222000000] 구열의 어느 날
 
 ===========
 story_quest_name_zh-TW.lsd
@@ -22399,7 +22681,7 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030110000440300] 交錯的過去
 [quest_title_1030110000440800] ＶＳ　銀河隊手下６
 [quest_title_1030110000440400] 夢醒時分
-[quest_title_1030110000440900] ＶＳ　赤日２
+[quest_title_1030110000440900] ＶＳ　美極套裝赤日
 [quest_title_1030110000440500] 尋求完美的心
 [quest_title_1030440100201010] 獲得音樂幣的對戰！
 [quest_title_1030401000603000] 第一次參與感謝日
@@ -22802,6 +23084,45 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030406000606040] 武術考驗　四
 [quest_title_1030220012100000] 某日的美極套裝可爾妮
 [quest_title_1030220243800000] 某日的小優
+[quest_group_title_100104] 豐緣篇
+[quest_group_title_10019100000] 美極套裝小悠
+[quest_group_title_10126100000] 美極套裝小遙
+[quest_group_title_10217000000] 帥哥
+[quest_group_title_10222000000] 火雁
+[quest_group_detail_100104] 大地、海洋、天空的德爾塔
+[quest_title_1030440600116011] ＶＳ　花月
+[quest_title_1030440600109011] ＶＳ　芙蓉
+[quest_title_1030440600114011] ＶＳ　波妮
+[quest_title_1030440600111011] ＶＳ　源治
+[quest_title_1030440600103011] ＶＳ　大吾
+[quest_title_1030440600105011] ＶＳ　米可利
+[quest_title_1030110000470100] 各自的意圖
+[quest_title_1030110000470600] ＶＳ　熔岩隊
+[quest_title_1030110000470200] 爭奪自然能量
+[quest_title_1030110000470700] ＶＳ　海洋隊
+[quest_title_1030110000470300] 超古代寶可夢與人類
+[quest_title_1030110000470800] ＶＳ　熔岩隊２
+[quest_title_1030110000470400] 堅持理念的正義
+[quest_title_1030110000470900] ＶＳ　海洋隊２
+[quest_title_1030110000470500] 失控的力量
+[quest_title_1030407000601010] ＶＳ　熔岩隊
+[quest_title_1030407000601020] ＶＳ　熔岩隊２
+[quest_title_1030407000601030] ＶＳ　熔岩隊３
+[quest_title_1030407000601040] １天僅限１次的高難度對戰！
+[quest_title_1030407000601050] 用挑戰對戰決勝負！
+[quest_title_1030407000601060] 用挑戰對戰決勝負！２
+[quest_title_1030407000602010] 挑戰強敵！　ＶＳ　希嘉娜
+[quest_title_1030407000602020] 挑戰強敵！　ＶＳ　希嘉娜２
+[quest_title_1030407000602030] 挑戰強敵！　ＶＳ　滿充
+[quest_title_1030407000602040] 挑戰強敵！　ＶＳ　滿充２
+[quest_title_1030440700401010] ＶＳ　帕希歐的訓練家
+[quest_title_1030440700402010] ＶＳ　帕希歐的訓練家２
+[quest_title_1030440700403010] ＶＳ　帕希歐的訓練家３
+[quest_title_1030440700404010] ＶＳ　帕希歐的訓練家４
+[quest_title_1030220019100000] 某日的美極套裝小悠
+[quest_title_1030220126100000] 某日的美極套裝小遙
+[quest_title_1030220217000000] 某日的帥哥
+[quest_title_1030220222000000] 某日的火雁
 
 ===========
 trainer_description_de.lsd
@@ -23565,6 +23886,23 @@ beiden sind aber perfekt.
 zurück. Es ist ihr besonders lieb und teuer, denn es steckt
 voller Erinnerungen an die Zeit, die sie dort mit Wulaosu
 verbracht hat.
+[10019100000] Brix trägt eine neue Machtmontur und zeigt gemeinsam
+mit Latios die Stärke seines guten Herzens. Die beiden
+fliegen auch gerne zusammen bis hoch ans Himmelszelt.
+[10126100000] Maike ist in einer Machtmontur zurück, die ihre innere
+Kämpfernatur zum Vorschein bringt. Ihr Partner Lohgock ist
+seit ihren gemeinsamen Abenteuern in Hoenn an ihrer
+Seite. Die beiden teilen eine starke und leidenschaftliche
+Bindung und stellen sich jeder Herausforderung.
+[10217000000] Ein Agent der Internationalen Polizei, der die ganze Welt
+bereist. LeBelle ist lediglich sein Codename, denn sein
+echter Name ist streng geheim. Seine Mission ist es, das
+Böse zu bekämpfen und für Gerechtigkeit zu sorgen.
+[10222000000] Ein Vorstand von Team Magma, die von einer mysteriösen
+Aura umgeben ist. Als ehemalige Forscherin setzt sie ihr
+Wissen und ihre Fähigkeiten nun für die Zwecke ihres
+Teams ein. Wenn etwas ihr Interesse geweckt hat, wird
+sie nicht ruhen, bis sie es im Detail analysiert hat.
 
 ===========
 trainer_description_en.lsd
@@ -24246,6 +24584,18 @@ that they shadow each other in perfect unison.
 [10243800000] Gloria’s back in the training uniform she wore on the Isle
 of Armor. The outfit reminds her of all the time she spent
 training together with Urshifu, so it’s one of her favorites.
+[10019100000] Brendan is back in a sygna suit, and he has the same
+strength and kind heart as Latios. He thinks it feels great
+when they soar through the sky together.
+[10126100000] May is back in a sygna suit, which fires up her fighting
+spirit. She traveled around Hoenn with her partner
+Blaziken, and they battle together with a deep bond.
+[10217000000] This member of the International Police travels the world.
+His code name is Looker, but his real name is top secret.
+He hates evil and always fights for justice.
+[10222000000] This petite Team Magma admin is a former scientist with
+a mysterious aura. She uses her knowledge to help her
+team and thoroughly analyzes the things that interest her.
 
 ===========
 trainer_description_es.lsd
@@ -25047,6 +25397,21 @@ complementan a la perfección.
 [10243800000] Gloria luce el uniforme del Dojo Maestro de la Isla de la
 Armadura. Es un traje imbuido de buenos recuerdos con
 Urshifu, así que le tiene especial cariño.
+[10019100000] Bruno llega con un Traje Summum que refleja la bondad
+de su corazón y la de su compi Latios. Disfrutan mucho
+volando juntos.
+[10126100000] Aura vuelve con un Traje Summum que arde con espíritu
+de lucha. Muestra un vínculo muy estrecho en combate
+con su compi Blaziken, que ha estado a su lado desde sus
+aventuras por Hoenn.
+[10217000000] Un miembro de la Policía Internacional que recorre el
+mundo. Su nombre en clave es Handsome; su nombre
+real, alto secreto. Aborrece el mal y siempre combate en
+nombre de la justicia.
+[10222000000] Enigmática Comandante del Equipo Magma que usa sus
+conocimientos como excientífica para ayudar a su
+organización. Cuando algo le resulta muy interesante,
+no puede parar hasta investigarlo a fondo.
 
 ===========
 trainer_description_fr.lsd
@@ -25804,6 +26169,24 @@ timide, la combinaison de leurs talents est parfaite.
 [10243800000] Gloria a revêtu l'uniforme qu'elle portait à Isolarmure.
 Elle l'aime beaucoup, car il lui rappelle de nombreux
 souvenirs de moments passés avec Shifours.
+[10019100000] Brice est de retour en Look Ultime. Son partenaire, Latios,
+et lui partagent la même force et ils ont tous deux
+un cœur d'or. Brice adore la sensation lorsqu'ils
+s'envolent ensemble dans les cieux.
+[10126100000] Flora est de retour dans un Look Ultime faisant ressortir
+son esprit combatif. Braségali, son partenaire Pokémon,
+l'accompagne depuis ses aventures à Hoenn.
+Ils combattent ensemble grâce à la puissance
+de leurs liens profonds.
+[10217000000] Un membre des Forces de Police Internationales
+se déplaçant aux quatre coins du monde. Son nom
+de code est Beladonis, mais son véritable nom est
+top secret. Il se bat contre le mal et au nom de la justice.
+[10222000000] Une Admin de la Team Magma, petite, mais dégageant
+un air mystérieux. En tant qu'ancienne scientifique,
+elle utilise son savoir et son talent au profit de la
+Team Magma. Quand quelque chose l'intéresse, elle
+ne peut s'empêcher d'analyser tout ce qui y touche.
 
 ===========
 trainer_description_it.lsd
@@ -26551,6 +26934,22 @@ tra loro è perfetta.
 [10243800000] Gloria indossa l'Uniforme dojo che usava sull'Isola
 dell'Armatura. Le ricorda tutti i momenti vissuti assieme
 a Urshifu, e per questo le è particolarmente affezionata.
+[10019100000] Brendon indossa un Costumax. È dotato di una forza
+simile a quella di Latios, derivante da un animo gentile.
+I due adorano solcare i cieli insieme.
+[10126100000] Vera indossa un Costumax che infiamma il suo spirito
+combattivo. Blaziken è con lei dai tempi di Hoenn, e
+insieme affrontano le lotte con la fervida forza del loro
+legame.
+[10217000000] Agente della Polizia Internazionale che viaggia in tutto
+il mondo, Bellocchio è il suo nome in codice e la sua vera
+identità è top secret. Odia il male stesso, non le persone
+che hanno preso una cattiva strada, e lotta ogni giorno
+per la giustizia.
+[10222000000] Minuta e misteriosa Magmatenente, è un'ex-scienziata
+che mette le sue conoscenze al servizio del Team Magma.
+Quando trova qualcosa che le interessa davvero, non può
+fare a meno di indagare approfonditamente.
 
 ===========
 trainer_description_ja.lsd
@@ -27230,6 +27629,18 @@ trainer_description_ja.lsd
 [10243800000] ヨロイ島で使っていた道着を　身にまとった　ユウリ。
 ウーラオスとの思い出が　たくさん詰まっているので
 ユウリも　気に入っている。
+[10019100000] マジコスを　身にまとった　ユウキ。
+ラティオスと同じ　優しい心の強さを　感じられる。
+一緒に　空を　飛ぶと　気持ちがいい　らしい。
+[10126100000] 闘志を感じる　マジコスを　身にまとった　ハルカ。
+バディのバシャーモは　ホウエンを旅したパートナー。
+強く　熱い　きずなで　勝負に　挑む。
+[10217000000] 世界中を　飛び回る　国際警察の　メンバー。
+ハンサムはコードネーム　本名はトップシークレット。
+悪を憎んで　人を憎まず　今日も　正義のため　戦う。
+[10222000000] 小柄で　不思議な　雰囲気の　マグマ団　幹部。
+元科学者で　その知識を　マグマ団で　役立てている。
+強い　興味を　持つと　調べつくしたくなる　性格。
 
 ===========
 trainer_description_ko.lsd
@@ -27909,6 +28320,18 @@ WPM 운영위원회의 대표도 맡고 있다.
 [10243800000] 갑옷섬에서 입었던 도복을 몸에 두른 우리.
 우라오스와의 추억이 가득해서
 우리도 마음에 들어 한다.
+[10019100000] 궁극코스를 몸에 두른 휘웅.
+라티오스와 같은 상냥한 마음씨의 강함이 느껴진다.
+함께 하늘을 날면 기분이 좋다고 한다.
+[10126100000] 투지가 느껴지는 궁극코스를 몸에 두른 봄이.
+버디인 번치코는 호연지방을 여행했던 파트너.
+강하고 뜨거운 유대로 승부에 임한다.
+[10217000000] 세계 곳곳을 돌아다니는 국제경찰의 일원.
+핸섬은 코드네임이며 본명은 중요 기밀 사항.
+악은 미워하나 사람은 미워하지 않으며 오늘도 정의를 위해 싸운다.
+[10222000000] 작은 몸집에 신기한 분위기를 가진 마그마단 간부.
+이전에는 과학자였으며 그 지식을 마그마단에서 살리고 있다.
+큰 흥미를 느끼면 철저하게 조사하고 싶어지는 성격이다.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -28587,6 +29010,18 @@ trainer_description_zh-TW.lsd
 [10243800000] 身穿在鎧島時穿的修行服的小優。
 由於充滿了和武道熊師相處的回憶，
 小優本身也很喜歡這套服裝。
+[10019100000] 身穿美極套裝的小悠。從他身上能感受到
+他與拉帝歐斯都有一顆強大的溫柔之心。
+他似乎覺得和拉帝歐斯一起飛在空中很舒服。
+[10126100000] 身穿能感受到鬥志的美極套裝的小遙。
+她的拍檔的火焰雞是曾一起在豐緣冒險的夥伴。
+他們將以強烈且火熱的牽絆來面對對戰。
+[10217000000] 奔走於世界各地的國際警察成員。
+帥哥是他的代號，本名則是最高機密。
+憎恨邪惡而不憎惡人，每天都為了正義而戰。
+[10222000000] 體型嬌小且氣質神秘的熔岩隊幹部。
+利用原是科學家的知識為熔岩隊做出貢獻。
+凡是有強烈興趣的事物，都會想要調查透徹。
 
 ===========
 trainer_name_de.lsd
@@ -28792,6 +29227,10 @@ trainer_name_de.lsd
 [ch0538] Galaktik Rüpel
 [ch0539] Galaktik Rüpel
 [ch0264] Ash
+[ch0626] Magma Rüpel
+[ch0627] Magma Rüpel
+[ch0502] Aqua Rüpel
+[ch0503] Aqua Rüpel
 
 ===========
 trainer_name_en.lsd
@@ -28997,6 +29436,10 @@ trainer_name_en.lsd
 [ch0538] Team Galactic Grunt
 [ch0539] Team Galactic Grunt
 [ch0264] Ash
+[ch0626] Team Magma Grunt
+[ch0627] Team Magma Grunt
+[ch0502] Team Aqua Grunt
+[ch0503] Team Aqua Grunt
 
 ===========
 trainer_name_es.lsd
@@ -29202,6 +29645,10 @@ trainer_name_es.lsd
 [ch0538] Recluta del Equipo Galaxia
 [ch0539] Recluta del Equipo Galaxia
 [ch0264] Ash
+[ch0626] Recluta del Equipo Magma
+[ch0627] Recluta del Equipo Magma
+[ch0502] Recluta del Equipo Aqua
+[ch0503] Recluta del Equipo Aqua
 
 ===========
 trainer_name_fr.lsd
@@ -29407,6 +29854,10 @@ trainer_name_fr.lsd
 [ch0538] Sbire Team Galaxie
 [ch0539] Sbire Team Galaxie
 [ch0264] Sacha
+[ch0626] Sbire Team Magma
+[ch0627] Sbire Team Magma
+[ch0502] Sbire Team Aqua
+[ch0503] Sbire Team Aqua
 
 ===========
 trainer_name_it.lsd
@@ -29612,6 +30063,10 @@ trainer_name_it.lsd
 [ch0538] Recluta del Team Galassia
 [ch0539] Recluta del Team Galassia
 [ch0264] Ash
+[ch0626] Recluta del Team Magma
+[ch0627] Recluta del Team Magma
+[ch0502] Recluta del Team Idro
+[ch0503] Recluta del Team Idro
 
 ===========
 trainer_name_ja.lsd
@@ -29817,6 +30272,10 @@ trainer_name_ja.lsd
 [ch0538] ギンガだんの　したっぱ
 [ch0539] ギンガだんの　したっぱ
 [ch0264] サトシ
+[ch0626] マグマだんの　したっぱ
+[ch0627] マグマだんの　したっぱ
+[ch0502] アクアだんの　したっぱ
+[ch0503] アクアだんの　したっぱ
 
 ===========
 trainer_name_ko.lsd
@@ -30022,6 +30481,10 @@ trainer_name_ko.lsd
 [ch0538] 갤럭시단의 조무래기
 [ch0539] 갤럭시단의 조무래기
 [ch0264] 지우
+[ch0626] 마그마단의 조무래기
+[ch0627] 마그마단의 조무래기
+[ch0502] 아쿠아단의 조무래기
+[ch0503] 아쿠아단의 조무래기
 
 ===========
 trainer_name_zh-TW.lsd
@@ -30227,6 +30690,10 @@ trainer_name_zh-TW.lsd
 [ch0538] 銀河隊手下
 [ch0539] 銀河隊手下
 [ch0264] 小智
+[ch0626] 熔岩隊手下
+[ch0627] 熔岩隊手下
+[ch0502] 海洋隊手下
+[ch0503] 海洋隊手下
 
 ===========
 trainer_verbose_name_de.lsd
@@ -30345,6 +30812,8 @@ trainer_verbose_name_de.lsd
 [10012100000] MaMo-Connie
 [10243800000] Gloria 
 (Dojo-Outfit)
+[10019100000] MaMo-Brix
+[10126100000] MaMo-Maike
 
 ===========
 trainer_verbose_name_en.lsd
@@ -30470,6 +30939,9 @@ Giovanni
 Korrina
 [10243800000] Gloria
 (Dojo Uniform)
+[10019100000] Sygna Suit
+Brendan
+[10126100000] Sygna Suit May
 
 ===========
 trainer_verbose_name_es.lsd
@@ -30575,6 +31047,8 @@ arqueóloga)
 [10012100000] Corelia (Traje S)
 [10243800000] Gloria 
 (Dojo Maestro)
+[10019100000] Bruno (Traje S)
+[10126100000] Aura (Traje S)
 
 ===========
 trainer_verbose_name_fr.lsd
@@ -30689,6 +31163,8 @@ trainer_verbose_name_fr.lsd
 (Saison 2022)
 [10012100000] Cornélia (Ultime)
 [10243800000] Gloria (Dojo)
+[10019100000] Brice (Ultime)
+[10126100000] Flora (Ultime)
 
 ===========
 trainer_verbose_name_it.lsd
@@ -30808,6 +31284,8 @@ trainer_verbose_name_it.lsd
 [10012100000] Ornella Costumax
 [10243800000] Gloria 
 (Uniforme dojo)
+[10019100000] Brendon Costumax
+[10126100000] Vera Costumax
 
 ===========
 trainer_verbose_name_ja.lsd
@@ -30927,6 +31405,8 @@ trainer_verbose_name_ja.lsd
 [10012100000] マジコスコルニ
 [10243800000] ユウリ
 （アナザー）
+[10019100000] マジコスユウキ
+[10126100000] マジコスハルカ
 
 ===========
 trainer_verbose_name_ko.lsd
@@ -31046,6 +31526,8 @@ trainer_verbose_name_ko.lsd
 [10012100000] 궁극코스 코르니
 [10243800000] 우리
 (어나더)
+[10019100000] 궁극코스 휘웅
+[10126100000] 궁극코스 봄이
 
 ===========
 trainer_verbose_name_zh-TW.lsd
@@ -31165,6 +31647,8 @@ trainer_verbose_name_zh-TW.lsd
 [10012100000] 美極套裝可爾妮
 [10243800000] 小優
 （修行套裝）
+[10019100000] 美極套裝小悠
+[10126100000] 美極套裝小遙
 
 ===========
 common_widget_de.lsd
@@ -31377,10 +31861,30 @@ Items konnten nicht abgeholt werden:
 [common_widget/dialog_087] Hinweis nicht mehr anzeigen.
 [common_widget/dialog_088] Möchtest du das erste Kapitel der Hauptgeschichte (Tutorial) überspringen?
 [common_widget/dialog_089] Hinweis: Du erhältst alle Erstboni des übersprungenen Kapitels und jedes Gefährtengespann erhält Erfahrungspunkte für die übersprungenen Kämpfe. Du kannst zudem jederzeit zur übersprungenen Geschichte zurückkehren.
+[common_widget/dialog_090] Hier erhältlich:
+[common_widget/dialog_091] Im Besitz
+[common_widget/dialog_092] Hier erhältlich:
+[common_widget/dialog_093] Abenteuer
+[common_widget/dialog_094] Laden
+[common_widget/dialog_095] Sonstiges
+[common_widget/dialog_096] Erstbonus
+[common_widget/dialog_097] Abschlussbonus
+[common_widget/dialog_098] Belohnung
+[common_widget/dialog_099] Im Moment kannst du dieses Item nicht
+oder nur auf besondere Weise erhalten.
 [common_widget/dialog_100] Du kannst diese Glücksfähigkeit erlernen,
 indem du das folgende Item einsetzt:
 [Name:Item ].
+[common_widget/dialog_101] Champkampf
+[common_widget/dialog_102] Kampfvilla
+[common_widget/dialog_103] Legendenkampf
+[common_widget/dialog_104] Item-Tausch
+[common_widget/dialog_105] Ausrüstungstausch
+[common_widget/dialog_106] Mission
+[common_widget/dialog_107] Kampfpunktebonus
 [common_widget/dialog_108] Details
+[common_widget/dialog_109] Das Datum hat sich geändert. Du kehrst
+ins Pokémon-Center zurück.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -31450,6 +31954,9 @@ Angreifer
 Angreifer
 [common_widget/trainer_detail_066] Taktiker
 [common_widget/trainer_detail_067] Helfer
+[common_widget/trainer_detail_068] Diese Gefährten erscheinen öfter
+im Pokémon-Center.
+[common_widget/trainer_detail_069] Verstärken
 [common_widget/dialog_special_item_001] [Name:Item ]
 erhalten!
 [common_widget/dialog_special_item_002] Noch [Digit:1digit ] Orden!
@@ -31676,6 +32183,8 @@ hast.
 [common_widget/release_018] Dieser Event ist nur im Multimodus verfügbar. Der Multimodus wird nach Abschluss von „Vorhang auf für die WPM!“ im Zwischenspiel 1 der Hauptgeschichte freigeschaltet.
 [common_widget/release_019] Dieser Event ist nur im Multimodus verfügbar. Den Modus kannst du über die Schaltfläche oben auf dem Bildschirm wechseln.
 [common_widget/release_020] Wird freigeschaltet, indem du das erste Ei ausbrütest, das du von Professor Daisy erhalten hast.
+[common_widget/release_021] Wird freigeschaltet nach Abschluss von
+„[Name:QuestTitle ]“
 [common_widget/egg_hatched_cutin_001] Oh?
 [common_widget/egg_hatched_cutin_002] Ein [Name:PokemonName ] ist aus
 dem Ei geschlüpft!
@@ -31728,6 +32237,8 @@ kannst.
 ein! Mit Kampfpunkte-G-Tickets kannst du
 im Laden exklusive Gefährten erhalten!
 [common_widget/battle_point_015] Erhalte exklusive Gefährten!
+[common_widget/battle_point_016] Wo du Kampf-
+punkte erhältst
 [common_widget/juke_box_001] Musikbox
 [common_widget/juke_box_002] Lieder anhören
 [common_widget/juke_box_003] Du kannst dir freigeschaltene Lieder anhören.
@@ -31798,6 +32309,24 @@ abgeholt werden, selbst wenn die Bedingungen nicht erfüllt wurden.
 dem Schwierigkeitsgrad Schwer Lv. 1 ab und betritt die Ruhmeshalle!
 [common_widget/spreward_027] Erhalte Fragmente des Emblems einer beliebigen Region im
 Champkampf auf dem Schwierigkeitsgrad Schwer Lv. 1!
+[common_widget/short_cut_001] Laden
+[common_widget/short_cut_002] Abenteuer
+[common_widget/short_cut_003] Gefährten
+[common_widget/short_cut_004] Team ändern
+[common_widget/short_cut_005] Verstärken
+[common_widget/short_cut_006] Ausrüstung verstärken
+[common_widget/short_cut_007] Labor
+[common_widget/short_cut_008] Gefährtensuche
+[common_widget/short_cut_009] Poryfon-Menü
+[common_widget/short_cut_010] Profil
+[common_widget/short_cut_011] Einstellungen
+[common_widget/short_cut_012] Freunde
+[common_widget/short_cut_013] Beutel
+[common_widget/short_cut_014] Einladungen
+[common_widget/short_cut_015] Juwelen kaufen
+[common_widget/short_cut_016] Item-Tausch
+[common_widget/short_cut_017] Kampfpunkte
+[common_widget/short_cut_018] Pokémon-Center
 
 ===========
 common_widget_en.lsd
@@ -32001,10 +32530,30 @@ unable to claim the following items.
 [common_widget/dialog_088] Skip Chapter 1 (tutorial) of the
 main story?
 [common_widget/dialog_089] First-time rewards from skipped stories will all be received. XP from skipped battles will be granted to each sync pair. Skipped stories can be played through later.
+[common_widget/dialog_090] Where to Find
+[common_widget/dialog_091] Stock
+[common_widget/dialog_092] Where to Find
+[common_widget/dialog_093] Explore
+[common_widget/dialog_094] Shop
+[common_widget/dialog_095] Other
+[common_widget/dialog_096] First-Time Rewards
+[common_widget/dialog_097] Completion Rewards
+[common_widget/dialog_098] Battle Rewards
+[common_widget/dialog_099] This is currently unobtainable or obtained
+in a special way.
 [common_widget/dialog_100] Using a [Name:Item ]
 allows you to learn the following
 lucky skill.
+[common_widget/dialog_101] Champion Stadium
+[common_widget/dialog_102] Battle Villa
+[common_widget/dialog_103] Legendary Arena
+[common_widget/dialog_104] Exchange Items
+[common_widget/dialog_105] Exchange Gear
+[common_widget/dialog_106] Missions
+[common_widget/dialog_107] Battle Point Rewards
 [common_widget/dialog_108] Details
+[common_widget/dialog_109] The date has changed.
+Returning to the Pokémon Center.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -32071,6 +32620,9 @@ Strike
 Strike
 [common_widget/trainer_detail_066] Tech
 [common_widget/trainer_detail_067] Support
+[common_widget/trainer_detail_068] This sync pair will visit the
+Pokémon Center often.
+[common_widget/trainer_detail_069] Upgrade
 [common_widget/dialog_special_item_001] [Name:Item ]
 [common_widget/dialog_special_item_002] Only [Digit:1digit ] more [EN:Qty S="badge" P="badges" ] to go!
 [common_widget/dialog_special_item_003] All badges acquired! Time to compete in the PML!
@@ -32272,6 +32824,7 @@ You can switch to co-op view by tapping
 the button at the top of the screen.
 [common_widget/release_020] To unlock, hatch the Egg you first
 received from Professor Bellis.
+[common_widget/release_021] To unlock, complete [Name:QuestTitle ]
 [common_widget/egg_hatched_cutin_001] Oh?
 [common_widget/egg_hatched_cutin_002] [Name:PokemonName ] hatched
 from the Egg!
@@ -32323,6 +32876,7 @@ of your Present Box.
 [common_widget/battle_point_013] Reset
 [common_widget/battle_point_014] Collect battle points to get rewards! You can exchange BP Sync Pair Vouchers in the shop to team up with exclusive sync pairs!
 [common_widget/battle_point_015] Team up with exclusive sync pairs!
+[common_widget/battle_point_016] Battle Point Areas
 [common_widget/juke_box_001] Jukebox
 [common_widget/juke_box_002] Music Player
 [common_widget/juke_box_003] Listen to songs you’ve unlocked
@@ -32388,6 +32942,24 @@ claim all special rewards 60 days after purchasing a bundle.
 and enter the Pasio Hall of Fame on Hard Lv. 1
 [common_widget/spreward_027] Fill in all pieces of the Champion Stadium MVP medal for
 any region on Hard Lv. 1
+[common_widget/short_cut_001] Shop
+[common_widget/short_cut_002] Explore
+[common_widget/short_cut_003] Sync Pairs
+[common_widget/short_cut_004] Edit Team
+[common_widget/short_cut_005] Upgrades
+[common_widget/short_cut_006] Upgrade Gear
+[common_widget/short_cut_007] Lab
+[common_widget/short_cut_008] Sync Pair Scout
+[common_widget/short_cut_009] Poryphone Menu
+[common_widget/short_cut_010] Profile
+[common_widget/short_cut_011] Settings
+[common_widget/short_cut_012] Friends
+[common_widget/short_cut_013] Bag
+[common_widget/short_cut_014] Invitations
+[common_widget/short_cut_015] Purchase Gems
+[common_widget/short_cut_016] Exchange Items
+[common_widget/short_cut_017] Battle Points
+[common_widget/short_cut_018] Pokémon Center
 
 ===========
 common_widget_es.lsd
@@ -32604,10 +33176,30 @@ No has podido recibir los siguientes:
 [common_widget/dialog_088] ¿Quieres omitir el capítulo 1 de la
 historia principal (es decir, el tutorial)?
 [common_widget/dialog_089] Aviso: Recibirás todos los premios por primera vez de las ubicaciones que omitas, así como la experiencia de los combates correspondientes. Además, podrás volver a jugar más tarde en las ubicaciones que hayas omitido.
+[common_widget/dialog_090] Se obtiene en:
+[common_widget/dialog_091] Tienes:
+[common_widget/dialog_092] Se obtiene en:
+[common_widget/dialog_093] Aventura
+[common_widget/dialog_094] Tienda
+[common_widget/dialog_095] Otros
+[common_widget/dialog_096] Primera vez
+[common_widget/dialog_097] Premios
+[common_widget/dialog_098] Botín
+[common_widget/dialog_099] No disponible ahora mismo, o disponible
+solo en circunstancias especiales.
 [common_widget/dialog_100] Puedes desbloquear la siguiente 
 habilidad fortuita utilizando la
 [Name:Item ]:
+[common_widget/dialog_101] Combates de Campeones
+[common_widget/dialog_102] Residencia Batalla
+[common_widget/dialog_103] Combates legendarios
+[common_widget/dialog_104] Canjear objetos
+[common_widget/dialog_105] Canjear accesorios
+[common_widget/dialog_106] Misiones
+[common_widget/dialog_107] Premios por ptos. de combate
 [common_widget/dialog_108] Detalles
+[common_widget/dialog_109] La fecha ha cambiado.
+Regresando al Centro Pokémon.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Nv.
 [common_widget/trainer_detail_004] MÁX.
@@ -32670,6 +33262,9 @@ Físico
 Especial
 [common_widget/trainer_detail_066] Sabotaje
 [common_widget/trainer_detail_067] Apoyo
+[common_widget/trainer_detail_068] Se pasará con frecuencia
+por el Centro Pokémon.
+[common_widget/trainer_detail_069] Mejorar
 [common_widget/dialog_special_item_001] Has conseguido:
 [Name:Item ]
 [common_widget/dialog_special_item_002] Medallas restantes: [Digit:1digit ]
@@ -32881,6 +33476,7 @@ te entregue.
 [common_widget/release_020] Disponible cuando eclosione el primer
 Huevo que te entregó la Profesora
 Margarita.
+[common_widget/release_021] Disponible tras completar "[Name:QuestTitle ]".
 [common_widget/egg_hatched_cutin_001] Anda...
 [common_widget/egg_hatched_cutin_002] El Huevo ha eclosionado y ha salido un
 [Name:PokemonName ].
@@ -32929,6 +33525,8 @@ breve período de tiempo.
 [common_widget/battle_point_013] Restablecer
 [common_widget/battle_point_014] ¡Gana puntos de combate y obtén grandes recompensas! ¡Puedes canjear el Cupón Reclutacompis por compis exclusivos!
 [common_widget/battle_point_015] ¡Parejas de compis exclusivas!
+[common_widget/battle_point_016] Dónde obtener
+ptos. de combate
 [common_widget/juke_box_001] Gramola
 [common_widget/juke_box_002] Reproducir música
 [common_widget/juke_box_003] Escucha las pistas que hayas desbloqueado.
@@ -33006,6 +33604,24 @@ premios especiales tras 60 días desde la compra de un lote.
 región en Difícil (nivel 1) y entra en el Hall de la Fama!
 [common_widget/spreward_027] ¡Consigue todas las piezas para completar el emblema en los
 Combates de Campeones de cualquier región en Difícil (nivel 1)!
+[common_widget/short_cut_001] Tienda
+[common_widget/short_cut_002] Aventura
+[common_widget/short_cut_003] Compis
+[common_widget/short_cut_004] Cambiar formación
+[common_widget/short_cut_005] Mejorar
+[common_widget/short_cut_006] Mejorar accesorios
+[common_widget/short_cut_007] Laboratorio Pokémon
+[common_widget/short_cut_008] Reclutamiento
+[common_widget/short_cut_009] Menú Porygófono
+[common_widget/short_cut_010] Perfil
+[common_widget/short_cut_011] Ajustes
+[common_widget/short_cut_012] Amigos
+[common_widget/short_cut_013] Bolsa
+[common_widget/short_cut_014] Invitaciones
+[common_widget/short_cut_015] Comprar joyas
+[common_widget/short_cut_016] Canjear objetos
+[common_widget/short_cut_017] Ptos. de combate
+[common_widget/short_cut_018] Centro Pokémon
 
 ===========
 common_widget_fr.lsd
@@ -33220,10 +33836,30 @@ reçu les objets suivants :
 de chaque épisode passé. Tous les Duos recevront
 l'expérience acquise de chaque combat passé.
 Vous pourrez rejouer ces épisodes à tout moment.
+[common_widget/dialog_090] Disponible depuis
+[common_widget/dialog_091] Sac
+[common_widget/dialog_092] Disponible depuis
+[common_widget/dialog_093] Aventure
+[common_widget/dialog_094] Boutique
+[common_widget/dialog_095] Autres
+[common_widget/dialog_096] Récompense (1re fois)
+[common_widget/dialog_097] Récompense
+[common_widget/dialog_098] Récompenses bonus
+[common_widget/dialog_099] Actuellement indisponible ou disponible
+uniquement sous certaines conditions.
 [common_widget/dialog_100] Vous pouvez apprendre le talent
 surprise suivant en utilisant :
 [Name:Item ].
+[common_widget/dialog_101] Combat de Maître
+[common_widget/dialog_102] Villa de Combat
+[common_widget/dialog_103] Bataille Légendaire
+[common_widget/dialog_104] Échange d'objets
+[common_widget/dialog_105] Échanger équipement
+[common_widget/dialog_106] Missions
+[common_widget/dialog_107] Récompenses de points de combat
 [common_widget/dialog_108] Détails
+[common_widget/dialog_109] La date a changé.
+Retour au Centre Pokémon.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] N.
 [common_widget/trainer_detail_004] MAX
@@ -33292,6 +33928,9 @@ Physique
 Spécial
 [common_widget/trainer_detail_066] Tacticien
 [common_widget/trainer_detail_067] Soutien
+[common_widget/trainer_detail_068] Ce Duo apparaîtra souvent
+au Centre Pokémon.
+[common_widget/trainer_detail_069] Renforcement
 [common_widget/dialog_special_item_001] Vous avez obtenu
 1 [Name:Item ] !
 [common_widget/dialog_special_item_002] Encore [Digit:1digit ] Badge[FR:Qty P="s" ] à obtenir !
@@ -33515,6 +34154,7 @@ en appuyant sur le bouton
 en haut de l'écran.
 [common_widget/release_020] Débloqué après avoir fait éclore l'Œuf
 que la Professeure Bellis vous a confié.
+[common_widget/release_021] Disponible après avoir fini : « [Name:QuestTitle ] »
 [common_widget/egg_hatched_cutin_001] Oh ?!
 [common_widget/egg_hatched_cutin_002] Un [Name:PokemonName ] est
 sorti de l'Œuf !
@@ -33565,6 +34205,8 @@ dans le menu « Cadeaux ».
 Échangez vos Coupons PCo invite-Duo
 à la boutique contre des Duos exclusifs !
 [common_widget/battle_point_015] Faites équipe avec des Duos exclusifs !
+[common_widget/battle_point_016] Emplacement des
+points de combat
 [common_widget/juke_box_001] Jukebox
 [common_widget/juke_box_002] Lecteur de musique
 [common_widget/juke_box_003] Écoutez les morceaux débloqués ici.
@@ -33643,6 +34285,24 @@ toutes les récompenses spéciales 60 jours après l'achat d'un pack.
 quelle région en difficulté « Difficile N. 1 » et entrez au Panthéon de Passio !
 [common_widget/spreward_027] Obtenez tous les morceaux pour compléter l'emblème du Combat
 de Maître de n'importe quelle région en difficulté « Difficile N. 1 » !
+[common_widget/short_cut_001] Boutique
+[common_widget/short_cut_002] Aventure
+[common_widget/short_cut_003] Duos
+[common_widget/short_cut_004] Modifier équipe
+[common_widget/short_cut_005] Renforcement
+[common_widget/short_cut_006] Renforcer l'équipement
+[common_widget/short_cut_007] Laboratoire Pokémon
+[common_widget/short_cut_008] Appel Duo
+[common_widget/short_cut_009] Menu du Porygophone
+[common_widget/short_cut_010] Profil
+[common_widget/short_cut_011] Paramètres
+[common_widget/short_cut_012] Liste d'amis
+[common_widget/short_cut_013] Sac
+[common_widget/short_cut_014] Inviter
+[common_widget/short_cut_015] Achat de Diamants
+[common_widget/short_cut_016] Échange d'objets
+[common_widget/short_cut_017] Points de combat
+[common_widget/short_cut_018] Aller au Centre Pokémon
 
 ===========
 common_widget_it.lsd
@@ -33848,9 +34508,29 @@ della storia?
 e le tue Unità riceveranno Punti Esperienza per le lotte
 saltate. Potrai rivedere e giocare le sequenze saltate
 in qualsiasi momento.
+[common_widget/dialog_090] Dove ottenere
+[common_widget/dialog_091] Ne hai
+[common_widget/dialog_092] Dove ottenere lo strumento
+[common_widget/dialog_093] Avventura
+[common_widget/dialog_094] Negozio
+[common_widget/dialog_095] Altro
+[common_widget/dialog_096] Prima ricompensa
+[common_widget/dialog_097] Ricompensa completamento
+[common_widget/dialog_098] Ricompensa lotta
+[common_widget/dialog_099] Momentaneamente non ottenibile o
+ottenibile solo in circostanze speciali.
 [common_widget/dialog_100] Utilizzando un [Name:Item ],
 è possibile scoprire il seguente talento:
+[common_widget/dialog_101] Lotte dei Campioni
+[common_widget/dialog_102] Residenza Lotta
+[common_widget/dialog_103] Lotte Leggendarie
+[common_widget/dialog_104] Scambio strumenti
+[common_widget/dialog_105] Scambio accessori
+[common_widget/dialog_106] Missioni
+[common_widget/dialog_107] Ricompense Punti Lotta
 [common_widget/dialog_108] Dettagli
+[common_widget/dialog_109] La data è cambiata.
+Ritorno al Centro Pokémon.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] L.
 [common_widget/trainer_detail_004] MAX
@@ -33916,6 +34596,9 @@ fisico
 speciale
 [common_widget/trainer_detail_066] Tecnico
 [common_widget/trainer_detail_067] Aiutante
+[common_widget/trainer_detail_068] Apparirà spesso
+nel Centro Pokémon.
+[common_widget/trainer_detail_069] Rinforzo
 [common_widget/dialog_special_item_001] Hai ottenuto: [Name:Item ]!
 [common_widget/dialog_special_item_002] Medaglie mancanti: [Digit:1digit ]!
 [common_widget/dialog_special_item_003] Ora hai tutte le medaglie! Puoi affrontare il WPM!
@@ -34130,6 +34813,7 @@ a questa modalità toccando il pulsante
 [common_widget/release_020] Fai schiudere il primo Uovo ricevuto
 dalla Professoressa Bellisperia per
 sbloccare questa funzione.
+[common_widget/release_021] Completa prima "[Name:QuestTitle ]".
 [common_widget/egg_hatched_cutin_001] Oh!
 [common_widget/egg_hatched_cutin_002] Dall'Uovo è nato [Name:PokemonName ]!
 [common_widget/egg_detail_001] Inserisci un nome.
@@ -34180,6 +34864,8 @@ accumulati sono stati ripristinati.
 ricompense! Puoi scambiare Coupon
 Unichiamata (PL) con Unità esclusive!
 [common_widget/battle_point_015] Fai squadra con Unità esclusive!
+[common_widget/battle_point_016] Dove ottenere
+Punti Lotta
 [common_widget/juke_box_001] Jukebox
 [common_widget/juke_box_002] Ascolta musica
 [common_widget/juke_box_003] Ascolta i brani sbloccati.
@@ -34257,6 +34943,24 @@ tutte le ricompense speciali senza soddisfare i requisiti.
 regione ed entra nella Sala d'Onore di Pasio in difficoltà "Difficile L. 1".
 [common_widget/spreward_027] Completa l'emblema "Sala d'onore" di una qualsiasi regione
 in difficoltà "Difficile L. 1".
+[common_widget/short_cut_001] Negozio
+[common_widget/short_cut_002] Avventura
+[common_widget/short_cut_003] Unità
+[common_widget/short_cut_004] Modifica squadra
+[common_widget/short_cut_005] Rinforzo
+[common_widget/short_cut_006] Rinforzo accessori
+[common_widget/short_cut_007] Laboratorio
+[common_widget/short_cut_008] Ricerca Unità
+[common_widget/short_cut_009] Menu Porygofono
+[common_widget/short_cut_010] Profilo
+[common_widget/short_cut_011] Impostazioni
+[common_widget/short_cut_012] Amici
+[common_widget/short_cut_013] Borsa
+[common_widget/short_cut_014] Inviti
+[common_widget/short_cut_015] Acquisto gemme
+[common_widget/short_cut_016] Scambio strumenti
+[common_widget/short_cut_017] Punti Lotta
+[common_widget/short_cut_018] Vai al Centro Pokémon
 
 ===========
 common_widget_ja.lsd
@@ -34460,9 +35164,28 @@ EXカラー衣装が　かくとくできます
 [common_widget/dialog_089] ※スキップしたストーリーの初回報酬は全て付与されます
 ※スキップしたバトルで得られる経験値は各バディーズに付与されます
 ※スキップしたストーリーはあとから遊ぶことができます
+[common_widget/dialog_090] 獲得場所
+[common_widget/dialog_091] 所持
+[common_widget/dialog_092] 獲得場所
+[common_widget/dialog_093] ぼうけん
+[common_widget/dialog_094] ショップ
+[common_widget/dialog_095] その他
+[common_widget/dialog_096] 初回報酬
+[common_widget/dialog_097] クリア報酬
+[common_widget/dialog_098] ドロップ報酬
+[common_widget/dialog_099] 現在獲得不可か　特別な方法で獲得可能です
 [common_widget/dialog_100] [Name:Item ]を使用すると
 以下のポテンシャルが習得できます
+[common_widget/dialog_101] チャンピオンバトル
+[common_widget/dialog_102] バトルヴィラ
+[common_widget/dialog_103] レジェンドバトル
+[common_widget/dialog_104] どうぐ交換
+[common_widget/dialog_105] 装備売却
+[common_widget/dialog_106] ミッション
+[common_widget/dialog_107] バトルポイント報酬
 [common_widget/dialog_108] 詳細
+[common_widget/dialog_109] 日付が変わりました
+ポケモンセンターに戻ります
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -34527,6 +35250,9 @@ MAX
 [common_widget/trainer_detail_065] 特殊アタッカー
 [common_widget/trainer_detail_066] テクニカル
 [common_widget/trainer_detail_067] サポート
+[common_widget/trainer_detail_068] ポケモンセンターに
+よく登場するようになります
+[common_widget/trainer_detail_069] 強化
 [common_widget/dialog_special_item_001] [Name:Item ]を
 獲得しました！
 [common_widget/dialog_special_item_002] のこるバッジは　あと[Digit:1digit ]個！
@@ -34752,6 +35478,8 @@ HARDクリアで解放
 [common_widget/release_020] 初めてヒナギク博士から
 預かったタマゴをふかさせると
 解放されます
+[common_widget/release_021] 「[Name:QuestTitle ]」
+クリアで解放
 [common_widget/egg_hatched_cutin_001] おや？
 [common_widget/egg_hatched_cutin_002] タマゴが　かえって
 [Name:PokemonName ]が　うまれた！
@@ -34803,6 +35531,8 @@ HARDクリアで解放
 ＢＰバディーズ呼出券は　どうぐ交換で
 限定バディーズを　呼び出すことができます
 [common_widget/battle_point_015] 限定バディーズを仲間に！
+[common_widget/battle_point_016] バトルポイント
+獲得場所
 [common_widget/juke_box_001] ジュークボックス
 [common_widget/juke_box_002] 楽曲鑑賞
 [common_widget/juke_box_003] 解放した楽曲を自由に鑑賞できます
@@ -34880,6 +35610,24 @@ SP報酬が解放！
 すべてクリアしてパシオ殿堂入りをしよう
 [common_widget/spreward_027] いずれかの地方のチャンピオンバトル「HARD Lv.1」で
 タイプに応じたピースを埋めてエンブレムを完成させよう
+[common_widget/short_cut_001] ショップ
+[common_widget/short_cut_002] ぼうけん
+[common_widget/short_cut_003] バディーズ
+[common_widget/short_cut_004] チーム編成
+[common_widget/short_cut_005] 強化
+[common_widget/short_cut_006] 装備強化
+[common_widget/short_cut_007] 研究所
+[common_widget/short_cut_008] バディーズサーチ
+[common_widget/short_cut_009] ポリゴンフォンメニュー
+[common_widget/short_cut_010] プロフィール
+[common_widget/short_cut_011] せってい
+[common_widget/short_cut_012] ともだち
+[common_widget/short_cut_013] バッグ
+[common_widget/short_cut_014] おさそい
+[common_widget/short_cut_015] ダイヤ購入
+[common_widget/short_cut_016] どうぐ交換
+[common_widget/short_cut_017] バトルポイント
+[common_widget/short_cut_018] ポケモンセンターへ
 
 ===========
 common_widget_ko.lsd
@@ -35079,9 +35827,29 @@ EX컬러 의상을 획득할 수 있습니다
 [common_widget/dialog_089] ※건너뛴 스토리의 첫 클리어 보상은 모두 지급됩니다
 ※건너뛴 배틀에서 얻는 경험치는 각 버디즈에 부여됩니다
 ※건너뛴 스토리는 나중에 다시 플레이할 수 있습니다
+[common_widget/dialog_090] 획득 장소
+[common_widget/dialog_091] 보유
+[common_widget/dialog_092] 획득 장소
+[common_widget/dialog_093] 모험
+[common_widget/dialog_094] 숍
+[common_widget/dialog_095] 그 외
+[common_widget/dialog_096] 첫 클리어 보상
+[common_widget/dialog_097] 클리어 보상
+[common_widget/dialog_098] 드롭 보상
+[common_widget/dialog_099] 현재 획득할 수 없거나
+특별한 방법으로 획득할 수 있습니다
 [common_widget/dialog_100] [Name:Item ][Kor:Particle char="wo" ] 사용하면
 아래의 포텐셜을 습득할 수 있습니다
+[common_widget/dialog_101] 챔피언배틀
+[common_widget/dialog_102] 배틀빌라
+[common_widget/dialog_103] 레전드배틀
+[common_widget/dialog_104] 도구 교환
+[common_widget/dialog_105] 장비 판매
+[common_widget/dialog_106] 미션
+[common_widget/dialog_107] 배틀포인트 보상
 [common_widget/dialog_108] 상세
+[common_widget/dialog_109] 날짜가 변경되었습니다
+포켓몬센터로 돌아갑니다
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -35147,6 +35915,9 @@ Lv.1 상태
 [common_widget/trainer_detail_065] 특수 어태커
 [common_widget/trainer_detail_066] 테크니컬
 [common_widget/trainer_detail_067] 서포트
+[common_widget/trainer_detail_068] 포켓몬센터에
+자주 등장하게 됩니다
+[common_widget/trainer_detail_069] 강화
 [common_widget/dialog_special_item_001] [Name:Item ][Kor:Particle char="wo" ]
 획득했습니다!
 [common_widget/dialog_special_item_002] 남은 배지는 앞으로 [Digit:1digit ]개!
@@ -35369,6 +36140,8 @@ Lv.MAX
 변경할 수 있습니다
 [common_widget/release_020] 데이지박사에게 처음 받은
 알을 부화시키면 해방됩니다
+[common_widget/release_021] "[Name:QuestTitle ]"[Kor:Particle char="wo" ]
+클리어하여 해방
 [common_widget/egg_hatched_cutin_001] 어라?
 [common_widget/egg_hatched_cutin_002] 알이 부화해서
 [Name:PokemonName ][Kor:Particle char="ga" ] 태어났다!
@@ -35418,6 +36191,8 @@ Lv.MAX
 BP 버디즈 호출권은 도구 교환에서
 한정 버디즈를 불러낼 수 있습니다
 [common_widget/battle_point_015] 한정 버디즈를 동료로!
+[common_widget/battle_point_016] 배틀포인트
+획득 장소
 [common_widget/juke_box_001] 주크박스
 [common_widget/juke_box_002] 악곡 감상
 [common_widget/juke_box_003] 해방한 음악을 자유롭게 감상할 수 있습니다
@@ -35492,6 +36267,24 @@ SP 보상이 해방!
 모두 클리어하고 파시오 전당등록을 하자
 [common_widget/spreward_027] 어느 한 지방의 챔피언배틀 "HARD Lv.1"에서
 타입에 따라 피스를 채워서 엠블럼을 완성시키자
+[common_widget/short_cut_001] 숍
+[common_widget/short_cut_002] 모험
+[common_widget/short_cut_003] 버디즈
+[common_widget/short_cut_004] 팀 편성
+[common_widget/short_cut_005] 강화
+[common_widget/short_cut_006] 장비강화
+[common_widget/short_cut_007] 연구소
+[common_widget/short_cut_008] 버디즈서치
+[common_widget/short_cut_009] 폴리곤폰 메뉴
+[common_widget/short_cut_010] 프로필
+[common_widget/short_cut_011] 설정
+[common_widget/short_cut_012] 친구
+[common_widget/short_cut_013] 가방
+[common_widget/short_cut_014] 초대
+[common_widget/short_cut_015] 다이아 구입
+[common_widget/short_cut_016] 도구 교환
+[common_widget/short_cut_017] 배틀포인트
+[common_widget/short_cut_018] 포켓몬센터로
 
 ===========
 common_widget_zh-TW.lsd
@@ -35677,9 +36470,28 @@ common_widget_zh-TW.lsd
 [common_widget/dialog_089] ※跳過劇情仍會賦予所有的首次過關報酬
 ※跳過的對戰中可獲得的經驗值仍會賦予給各對拍組
 ※跳過的劇情以後仍可遊玩
+[common_widget/dialog_090] 獲得地點
+[common_widget/dialog_091] 持有
+[common_widget/dialog_092] 獲得地點
+[common_widget/dialog_093] 冒險
+[common_widget/dialog_094] 商店
+[common_widget/dialog_095] 其他
+[common_widget/dialog_096] 首次過關報酬
+[common_widget/dialog_097] 過關報酬
+[common_widget/dialog_098] 掉落報酬
+[common_widget/dialog_099] 現在無法獲得或需透過特殊方式獲得
 [common_widget/dialog_100] 使用[Name:Item ]後
 可學習下列潛能
+[common_widget/dialog_101] 冠軍對戰
+[common_widget/dialog_102] 對戰莊園
+[common_widget/dialog_103] 傳說對戰
+[common_widget/dialog_104] 交換道具
+[common_widget/dialog_105] 出售裝備
+[common_widget/dialog_106] 任務
+[common_widget/dialog_107] 對戰點數報酬
 [common_widget/dialog_108] 詳情
+[common_widget/dialog_109] 日期已切換
+即將回到寶可夢中心
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -35742,6 +36554,9 @@ MAX
 [common_widget/trainer_detail_065] 特殊攻擊型
 [common_widget/trainer_detail_066] 技術型
 [common_widget/trainer_detail_067] 輔助型
+[common_widget/trainer_detail_068] 此拍組將會常出現在
+寶可夢中心
+[common_widget/trainer_detail_069] 強化
 [common_widget/dialog_special_item_001] 獲得了
 [Name:Item ]！
 [common_widget/dialog_special_item_002] 還剩下[Digit:1digit ]個徽章！
@@ -35947,6 +36762,8 @@ EX服裝！
 即可切換成「多隊模式」
 [common_widget/release_020] 首次孵化雛菊博士
 給的蛋之後將會開放
+[common_widget/release_021] 開放條件：
+成功過關「[Name:QuestTitle ]」
 [common_widget/egg_hatched_cutin_001] ……咦？
 [common_widget/egg_hatched_cutin_002] 蛋孵化成[Name:PokemonName ]了！
 [common_widget/egg_detail_001] 請輸入暱稱
@@ -35993,6 +36810,8 @@ EX服裝！
 對戰點數拍組召喚券可在交換道具時
 召喚出限定拍組
 [common_widget/battle_point_015] 與限定拍組成為夥伴吧！
+[common_widget/battle_point_016] 對戰點數
+獲得地點
 [common_widget/juke_box_001] 點播機
 [common_widget/juke_box_002] 欣賞樂曲
 [common_widget/juke_box_003] 可自由欣賞已解鎖的樂曲
@@ -36067,6 +36886,24 @@ EX服裝！
 來登入帕希歐名人堂吧
 [common_widget/spreward_027] 在任一地區的冠軍對戰「HARD Lv.1」中
 根據屬性讓勳章結晶填入相應的位置來完成勳章吧
+[common_widget/short_cut_001] 商店
+[common_widget/short_cut_002] 冒險
+[common_widget/short_cut_003] 拍組
+[common_widget/short_cut_004] 編制隊伍
+[common_widget/short_cut_005] 強化
+[common_widget/short_cut_006] 強化裝備
+[common_widget/short_cut_007] 研究所
+[common_widget/short_cut_008] 拍組搜尋
+[common_widget/short_cut_009] 多邊手機選單
+[common_widget/short_cut_010] 個人資訊
+[common_widget/short_cut_011] 設定
+[common_widget/short_cut_012] 朋友
+[common_widget/short_cut_013] 包包
+[common_widget/short_cut_014] 邀請
+[common_widget/short_cut_015] 購買鑽石
+[common_widget/short_cut_016] 交換道具
+[common_widget/short_cut_017] 對戰點數
+[common_widget/short_cut_018] 回到寶可夢中心
 
 ===========
 error_dialog_contents_de.lsd
@@ -38648,6 +39485,12 @@ spezielle Abschlussbonus ist jetzt
 erhältlich! Beim Kauf des Champ-Sets
 kannst du sogar noch mehr Juwelen
 erhalten!
+[home/home_054] Gefährten
+[home/home_055] Team ändern
+[home/home_056] Verstärken
+[home/home_057] Ausrüstung
+verstärken
+[home/home_058] Labor
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missionen
 [home/global_menu_008] Freunde
@@ -39562,6 +40405,11 @@ include gems, are now available for
 completing the Champion Stadium!
 You can get more gems by purchasing
 a Champion Bundle!
+[home/home_054] Sync Pairs
+[home/home_055] Edit Team
+[home/home_056] Upgrades
+[home/home_057] Upgrade Gear
+[home/home_058] Lab
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missions
 [home/global_menu_008] Friends
@@ -40453,6 +41301,13 @@ especiales al completar los Combates
 de Campeones! ¡Ya están disponibles,
 y puedes obtener aún más joyas al
 comprar el lote de Campeones!
+[home/home_054] Compis
+[home/home_055] Cambiar formación
+[home/home_056] Mejorar
+[home/home_057] Mejorar
+accesorios
+[home/home_058] Laboratorio
+Pokémon
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Misiones
 [home/global_menu_008] Amigos
@@ -41388,6 +42243,11 @@ le Combat de Maître !
 Et vous pouvez obtenir encore
 plus de Diamants en achetant 
 le Pack Maître !
+[home/home_054] Duos
+[home/home_055] Modifier équipe
+[home/home_056] Renforcement
+[home/home_057] Renforcer l'équipement
+[home/home_058] Laboratoire Pokémon
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missions
 [home/global_menu_008] Amis
@@ -42376,6 +43236,11 @@ ottenere gemme completando la Lotta
 dei Campioni! Se acquisti il Pacchetto
 dei Campioni, potrai ottenere ancora
 più gemme!
+[home/home_054] Unità
+[home/home_055] Modifica squadra
+[home/home_056] Rinforzo
+[home/home_057] Rinforzo accessori
+[home/home_058] Laboratorio
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missioni
 [home/global_menu_008] Amici
@@ -43334,6 +44199,11 @@ Lv.[Digit:2digits ]で解放
 [home/home_053] チャンピオンバトルをクリアするとダイヤがもらえる
 スペシャルクリア報酬が登場！
 チャンピオンパック購入でさらに多くのダイヤがもらえる！
+[home/home_054] バディーズ
+[home/home_055] チーム編成
+[home/home_056] 強化
+[home/home_057] 装備強化
+[home/home_058] 研究所
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] ミッション
 [home/global_menu_008] ともだち
@@ -44278,6 +45148,11 @@ Lv.[Digit:2digits ]에서 해방
 받을 수 있는 스페셜 클리어 보상이 등장!
 챔피언 팩을 구입하면 더 많은 다이아를
 받을 수 있다!
+[home/home_054] 버디즈
+[home/home_055] 팀 편성
+[home/home_056] 강화
+[home/home_057] 장비강화
+[home/home_058] 연구소
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] 미션
 [home/global_menu_008] 친구
@@ -45187,6 +46062,11 @@ home_zh-TW.lsd
 [home/home_053] 成功過關冠軍對戰就能獲得鑽石的
 特別過關報酬登場！
 購買冠軍包還能獲得更多鑽石！
+[home/home_054] 拍檔組合
+[home/home_055] 編制隊伍
+[home/home_056] 強化
+[home/home_057] 強化裝備
+[home/home_058] 研究所
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] 任務
 [home/global_menu_008] 朋友
@@ -47894,7 +48774,7 @@ résultats.
 [shop/scout_129] Confirmation
 [shop/scout_130] Cadeaux
 [shop/scout_131] L'Appel Duo suivant est disponible depuis le menu «  Appel Duo avec Bons  » :
-[Name:Scout ].
+[Name:Scout ]
 [shop/scout_132] Vous pouvez utiliser des Bons pour obtenir un Duo 5★ !
 [shop/scout_133] Voulez-vous vraiment utiliser [Digit:2digits ] × [Name:Item ] et passer un [Name:Scout ] [Digit:2digits Idx="1" ] fois ?
 [shop/scout_134] Appeler
