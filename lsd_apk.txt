@@ -912,6 +912,7 @@ story_quest_name_de.lsd
 [quest_title_1030210061000000] Ein Tag mit Agathe
 [quest_title_1030210062000000] Ein Tag mit Melanie
 [quest_title_1030210063000000] Ein Tag mit Eugen
+[quest_title_1030210089000000] Ein Tag mit N
 [quest_title_1030210091000000] Ein Tag mit Cynthia
 [quest_title_1030210092000000] Ein Tag mit Lilia
 [quest_title_1030210094000000] Ein Tag mit Dragan
@@ -1880,6 +1881,68 @@ Verstärkungsintensivkurs
 [quest_title_1030420800703010] Vs. Agathe
 [quest_title_1030420800704010] Vs. Siegfried
 [quest_title_1030420800705010] Vs. Blau
+[quest_group_title_10115000000] Volkner
+[quest_title_1030210115000000] Ein Tag mit Volkner
+[quest_title_1030209000601000] Volkners Auftrag
+[quest_title_1030209000601010] Ein ausgebrannter Ignaz 
+[quest_title_1030209000601020] Zwei Maschinentüftler
+[quest_title_1030209000601030] Ein elektrisierender Kampf!
+[quest_title_1030209000601040] Die Stromausfall-Ursache
+[quest_title_1030209000601050] Ein Kampf, bei dem die
+Funken fliegen! 1
+[quest_title_1030209000601060] Ein Kampf, bei dem die
+Funken fliegen! 2
+[quest_title_1030209000601070] Ein Kampf, bei dem die
+Funken fliegen! 3
+[quest_title_1030209000601080] Ein Kampf, bei dem die
+Funken fliegen! 4
+[quest_title_1030209000601100] Kollektivkampf 1
+[quest_title_1030209000601110] Kollektivkampf 2
+[quest_title_1030420900101010] Vs. Trainer aus Passio 1
+[quest_title_1030420900101011] Vs. Trainer aus Passio 2
+[quest_title_1030420900101012] Vs. Trainer aus Passio 3
+[quest_title_1030420900101013] Vs. Trainer aus Passio 4
+[quest_title_1030209000602000] Die Süßigkeiten-Jagd!
+[quest_title_1030209000602010] Motto: Pokémon-Kampf!
+[quest_title_1030209000602020] Wer hat sich da versteckt?
+[quest_title_1030209000602030] Gib mir Süßes!
+[quest_title_1030209000602040] Willkommen beim nächtlichen
+Festzug!
+[quest_title_1030209000602060] Kämpfen oder Saures! 1
+[quest_title_1030209000602070] Kämpfen oder Saures! 2
+[quest_title_1030209000602071] Kämpfen oder Saures! 3
+[quest_title_1030209000602072] Kämpfen oder Saures! 4
+[quest_title_1030209000602090] Kämpfen oder Saures! 5
+[quest_title_1030209000602091] Kämpfen oder Saures! 6
+[quest_title_1030209000602092] Kämpfen oder Saures! 7
+[quest_title_1030209000602100] Kämpfen oder Saures! 8
+[quest_title_1030209000602110] Kollektivkampf 1
+[quest_title_1030209000602120] Kollektivkampf 2
+[quest_group_title_100033] Kapitel 26
+[quest_group_title_100034] Zwischenspiel 6
+[quest_title_1030110000260100] Unser nächster Gegner ist
+der Champ...
+[quest_title_1030110100260200] Kämpfe auf der Straße
+[quest_title_1030110000260300] Gefährten-Herbeirufmaschine
+AN!
+[quest_title_1030110100260400] Vs. Herbeigerufene Trainer 1
+[quest_title_1030110000260500] Zwei unablässige Erfinder
+[quest_title_1030110100260600] Vs. Herbeigerufene Trainer 2
+[quest_title_1030110000260700] Aller guten Dinge sind drei?
+[quest_title_1030110100260800] Vs. Herbeigerufene Trainer 3
+[quest_title_1030110000260900] Aus Fehlern lernt man
+[quest_title_1030110100261000] Vs. Team Marlon
+[quest_title_1030110000261100] Ein unerwarteter Besucher
+[quest_title_1030110000261200] Der Tag des Viertelfinales!
+[quest_title_1030110000265100] Ein unverhofftes Wiedersehen
+[quest_group_title_10183000000] Marlon
+[quest_title_1030210183000000] Ein Tag mit Marlon
+[quest_title_1030209000601090] Ein Kampf, bei dem die
+Funken fliegen! 5
+[quest_group_title_10007400000] Lola (Saison 2020)
+[quest_group_title_10020400000] Warren (Saison 2020)
+[quest_group_detail_100033] Die Zukunft ist jetzt!
+[quest_group_detail_100034] Der Einzelkämpfer
 
 ===========
 story_quest_name_en.lsd
@@ -2099,6 +2162,7 @@ story_quest_name_en.lsd
 [quest_title_1030210061000000] A Day with Agatha
 [quest_title_1030210062000000] A Day with Karen
 [quest_title_1030210063000000] A Day with Marshal
+[quest_title_1030210089000000] A Day with N
 [quest_title_1030210091000000] A Day with Cynthia
 [quest_title_1030210092000000] A Day with Iris
 [quest_title_1030210094000000] A Day with Drake
@@ -3046,6 +3110,62 @@ story_quest_name_en.lsd
 [quest_title_1030420800703010] Agatha
 [quest_title_1030420800704010] Lance
 [quest_title_1030420800705010] Blue
+[quest_group_title_10115000000] Volkner
+[quest_title_1030210115000000] A Day with Volkner
+[quest_title_1030209000601000] Volkner’s Request
+[quest_title_1030209000601010] Burned to Cinders
+[quest_title_1030209000601020] A Pair of Tinkerers
+[quest_title_1030209000601030] A Fiery, Electric Showdown!
+[quest_title_1030209000601040] The Blackout Sparker
+[quest_title_1030209000601050] Make Some Sparks! Round 1
+[quest_title_1030209000601060] Make Some Sparks! Round 2
+[quest_title_1030209000601070] Make Some Sparks! Round 3
+[quest_title_1030209000601080] Make Some Sparks! Round 4
+[quest_title_1030209000601100] Full-Force Battle! Round 1
+[quest_title_1030209000601110] Full-Force Battle! Round 2
+[quest_title_1030420900101010] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030420900101011] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030420900101012] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030420900101013] Challenge Pasio’s Trainers: Part 4
+[quest_title_1030209000602000] Trick or Treat!
+[quest_title_1030209000602010] Frightful Festivities
+[quest_title_1030209000602020] Halt! Who Goes There?!
+[quest_title_1030209000602030] Off to Find Some Candy!
+[quest_title_1030209000602040] The Midnight Parade
+[quest_title_1030209000602060] Fight or Fright! Round 1
+[quest_title_1030209000602070] Fight or Fright! Round 2
+[quest_title_1030209000602071] Fight or Fright! Round 3
+[quest_title_1030209000602072] Fight or Fright! Round 4
+[quest_title_1030209000602090] Fight or Fright! Round 5
+[quest_title_1030209000602091] Fight or Fright! Round 6
+[quest_title_1030209000602092] Fight or Fright! Round 7
+[quest_title_1030209000602100] Fight or Fright! Round 8
+[quest_title_1030209000602110] Full-Force Battle! Round 1
+[quest_title_1030209000602120] Full-Force Battle! Round 2
+[quest_group_title_100033] Chapter 26
+[quest_group_title_100034] Interlude 6
+[quest_title_1030110000260100] How to Defeat a Champion
+[quest_title_1030110100260200] Challenge on the Boulevard
+[quest_title_1030110000260300] Sync Pair Pinger, Activate!
+[quest_title_1030110100260400] Who’s That Sync Pair?! Part 1
+[quest_title_1030110000260500] Steadfast Inventors
+[quest_title_1030110100260600] Who’s That Sync Pair?! Part 2
+[quest_title_1030110000260700] Third Time’s the Charm
+[quest_title_1030110100260800] Who’s That Sync Pair?! Part 3
+[quest_title_1030110000260900] Progress Is Progress!
+[quest_title_1030110100261000] Challenge Molayne & Co.
+[quest_title_1030110000261100] An Unexpected Visitor
+[quest_title_1030110000261200] To the Quarterfinals!
+[quest_title_1030110000265100] A Less-Than-Perfect Reunion
+[quest_group_title_10183000000] Molayne
+[quest_title_1030210183000000] A Day with Molayne
+[quest_title_1030209000601090] Make Some Sparks! Round 5
+[quest_group_title_10007400000] Acerola
+(Fall 2020)
+[quest_group_title_10020400000] Hilbert
+(Fall 2020)
+[quest_group_detail_100033] The Future Is Now!
+[quest_group_detail_100034] Royally Alone
 
 ===========
 story_quest_name_es.lsd
@@ -3265,6 +3385,7 @@ story_quest_name_es.lsd
 [quest_title_1030210061000000] Un día con Agatha
 [quest_title_1030210062000000] Un día con Karen
 [quest_title_1030210063000000] Un día con Lotto
+[quest_title_1030210089000000] Un día con N
 [quest_title_1030210091000000] Un día con Cintia
 [quest_title_1030210092000000] Un día con Iris
 [quest_title_1030210094000000] Un día con Dracón
@@ -4154,19 +4275,19 @@ corazones
 [quest_group_title_610060] Área de nivel máximo 2
 [quest_group_title_610061] Área de mejora de
 habilidad de tipo
-[quest_title_1030420800501010] Entrenamiento Normal, Planta
+[quest_title_1030420800501010] Entren. Normal, Planta
 y Siniestro 1
-[quest_title_1030420800502010] Entrenamiento Veneno, Hada
+[quest_title_1030420800502010] Entren. Veneno, Hada
 y Bicho 1
-[quest_title_1030420800503010] Entrenamiento Acero,
-Psíquico y Roca 1
-[quest_title_1030420800504010] Entrenamiento Eléctrico, Hielo
+[quest_title_1030420800503010] Entren. Acero, Psíquico
+y Roca 1
+[quest_title_1030420800504010] Entren. Eléctrico, Hielo
 y Tierra 1
-[quest_title_1030420800505010] Entrenamiento Volador,
-Fantasma y Agua 1
-[quest_title_1030420800506010] Entrenamiento Dragón, Fuego
-y Lucha 1
-[quest_title_1030420800601010] Entrenamiento para mejorar
+[quest_title_1030420800505010] Entren. Volador, Fantasma
+y Agua 1
+[quest_title_1030420800506010] Entren. Dragón, Fuego
+y Lucha 1	
+[quest_title_1030420800601010] Entren. para mejorar
 habilidades de tipo
 [quest_group_title_10194000000] Helio
 [quest_title_1030210091010001] Un día con Cintia (Traje S)
@@ -4227,6 +4348,63 @@ fuertes
 [quest_title_1030420800703010] VS. Agatha
 [quest_title_1030420800704010] VS. Lance
 [quest_title_1030420800705010] VS. Azul
+[quest_group_title_10115000000] Lectro
+[quest_title_1030210115000000] Un día con Lectro
+[quest_title_1030209000601000] La petición de Lectro
+[quest_title_1030209000601010] Fausto exhausto
+[quest_title_1030209000601020] Los fans de las máquinas
+[quest_title_1030209000601030] ¡Un combate ardiente y
+electrizante!
+[quest_title_1030209000601040] El origen de los apagones
+[quest_title_1030209000601050] ¡Un combate electrizante!
+[quest_title_1030209000601060] ¡Un combate electrizante! (2)
+[quest_title_1030209000601070] ¡Un combate electrizante! (3)
+[quest_title_1030209000601080] ¡Un combate electrizante! (4)
+[quest_title_1030209000601100] ¡Un combate colectivo!
+[quest_title_1030209000601110] ¡Un combate colectivo! (2)
+[quest_title_1030420900101010] VS. Entrenadores de Passio
+[quest_title_1030420900101011] VS. Entrenadores de Passio (2)
+[quest_title_1030420900101012] VS. Entrenadores de Passio (3)
+[quest_title_1030420900101013] VS. Entrenadores de Passio (4)
+[quest_title_1030209000602000] ¡A buscar chuches!
+[quest_title_1030209000602010] Las palabras mágicas
+[quest_title_1030209000602020] ¡¿Quién anda ahí?!
+[quest_title_1030209000602030] ¡Dadnos vuestras chuches!
+[quest_title_1030209000602040] ¿Participamos en el desfile nocturno?
+[quest_title_1030209000602060] Combate o travesura
+[quest_title_1030209000602070] Combate o travesura (2)
+[quest_title_1030209000602071] Combate o travesura (3)
+[quest_title_1030209000602072] Combate o travesura (4)
+[quest_title_1030209000602090] Combate o travesura (5)
+[quest_title_1030209000602091] Combate o travesura (6)
+[quest_title_1030209000602092] Combate o travesura (7)
+[quest_title_1030209000602100] Combate o travesura (8)
+[quest_title_1030209000602110] ¡Un combate colectivo!
+[quest_title_1030209000602120] ¡Un combate colectivo! (2)
+[quest_group_title_100033] Capítulo 26
+[quest_group_title_100034] Sexto interludio
+[quest_title_1030110000260100] Toca enfrentarse a una Campeona...
+[quest_title_1030110100260200] VS. Entrenadores callejeros
+[quest_title_1030110000260300] ¡Buscacompis! ¡Activacióoon!
+[quest_title_1030110100260400] VS. Entrenadores invocados
+[quest_title_1030110000260500] Estos dos nunca tiran la toalla
+[quest_title_1030110100260600] VS. Entrenadores invocados (2)
+[quest_title_1030110000260700] ¡A la tercera va la vencida!
+[quest_title_1030110100260800] VS. Entrenadores invocados (3)
+[quest_title_1030110000260900] ¡Los teníamos delante de nuestras narices!
+[quest_title_1030110100261000] VS. Lario y su equipo
+[quest_title_1030110000261100] Un adversario inesperado
+[quest_title_1030110000261200] ¡A por los cuartos de final!
+[quest_title_1030110000265100] Un reencuentro indeseado
+[quest_group_title_10183000000] Lario
+[quest_title_1030210183000000] Un día con Lario
+[quest_title_1030209000601090] ¡Un combate electrizante! (5)
+[quest_group_title_10007400000] Zarala
+(Temporada 20)
+[quest_group_title_10020400000] Lucho
+(Temporada 20)
+[quest_group_detail_100033] ¡El camino hacia el futuro!
+[quest_group_detail_100034] Todos contra uno
 
 ===========
 story_quest_name_fr.lsd
@@ -4447,6 +4625,7 @@ Ultime)
 [quest_title_1030210061000000] Une journée avec Agatha
 [quest_title_1030210062000000] Une journée avec Marion
 [quest_title_1030210063000000] Une journée avec Kunz
+[quest_title_1030210089000000] Une journée avec N
 [quest_title_1030210091000000] Une journée avec Cynthia
 [quest_title_1030210092000000] Une journée avec Iris
 [quest_title_1030210094000000] Une journée avec Aragon
@@ -5473,6 +5652,72 @@ Dresseurs de Passio IV
 [quest_title_1030420800703010] Combat : Agatha
 [quest_title_1030420800704010] Combat : Peter
 [quest_title_1030420800705010] Combat : Blue
+[quest_group_title_10115000000] Tanguy
+[quest_title_1030210115000000] Une journée avec Tanguy
+[quest_title_1030209000601000] Le problème de Tanguy
+[quest_title_1030209000601010] Rallumer le feu d'Adrien
+[quest_title_1030209000601020] Les deux inventeurs
+[quest_title_1030209000601030] Combat électrique ardent
+[quest_title_1030209000601040] L'origine de la panne
+[quest_title_1030209000601050] L'étincelle des combats
+[quest_title_1030209000601060] L'étincelle des combats II
+[quest_title_1030209000601070] L'étincelle des combats III
+[quest_title_1030209000601080] L'étincelle des combats IV
+[quest_title_1030209000601100] Combat Collectif :
+l'affrontement !
+[quest_title_1030209000601110] Combat Collectif :
+l'affrontement ! II
+[quest_title_1030420900101010] Combat : Dresseurs de Passio
+[quest_title_1030420900101011] Combat :
+Dresseurs de Passio II
+[quest_title_1030420900101012] Combat :
+Dresseurs de Passio III
+[quest_title_1030420900101013] Combat :
+Dresseurs de Passio IV
+[quest_title_1030209000602000] À la chasse aux bonbons !
+[quest_title_1030209000602010] Les mots magiques
+[quest_title_1030209000602020] Qui va là ?
+[quest_title_1030209000602030] À nous les friandises !
+[quest_title_1030209000602040] Tous à la Parade Nocturne !
+[quest_title_1030209000602060] Des friandises ou un sort !
+[quest_title_1030209000602070] Des friandises ou un sort ! II
+[quest_title_1030209000602071] Des friandises ou un sort ! III
+[quest_title_1030209000602072] Des friandises ou un sort ! IV
+[quest_title_1030209000602090] Des friandises ou un sort ! V
+[quest_title_1030209000602091] Des friandises ou un sort ! VI
+[quest_title_1030209000602092] Des friandises ou un
+sort ! VII
+[quest_title_1030209000602100] Des friandises ou un
+sort ! VIII
+[quest_title_1030209000602110] Combat Collectif :
+l'affrontement !
+[quest_title_1030209000602120] Combat Collectif :
+l'affrontement ! II
+[quest_group_title_100033] Chapitre 26
+[quest_group_title_100034] Intermède 6
+[quest_title_1030110000260100] Se battre contre un Maître...
+[quest_title_1030110100260200] Combat : Dresseurs (chemin)
+[quest_title_1030110000260300] Aimant-à-Duo-Tron activé !
+[quest_title_1030110100260400] Combat : Dresseurs attirés
+[quest_title_1030110000260500] Esprit de persévérance
+[quest_title_1030110100260600] Combat : Dresseurs attirés II
+[quest_title_1030110000260700] Jamais deux sans trois ?
+[quest_title_1030110100260800] Combat : Dresseurs attirés III
+[quest_title_1030110000260900] Continuer malgré les échecs
+[quest_title_1030110100261000] Combat : l'équipe de
+Molène
+[quest_title_1030110000261100] Un visiteur inattendu ?
+[quest_title_1030110000261200] Les quarts de finale !
+[quest_title_1030110000265100] Drôles de retrouvailles
+[quest_group_title_10183000000] Molène
+[quest_title_1030210183000000] Une journée avec Molène
+[quest_title_1030209000601090] L'étincelle des combats V
+[quest_group_title_10007400000] Margie
+(Saison 2020)
+[quest_group_title_10020400000] Ludwig
+(Saison 2020)
+[quest_group_detail_100033] La science ouvrira la voie !
+[quest_group_detail_100034] Seul contre tous
 
 ===========
 story_quest_name_it.lsd
@@ -5692,6 +5937,7 @@ story_quest_name_it.lsd
 [quest_title_1030210061000000] Un giorno con Agatha
 [quest_title_1030210062000000] Un giorno con Karen
 [quest_title_1030210063000000] Un giorno con Marzio
+[quest_title_1030210089000000] Un giorno con N
 [quest_title_1030210091000000] Un giorno con Camilla
 [quest_title_1030210092000000] Un giorno con Iris
 [quest_title_1030210094000000] Un giorno con Drake
@@ -6635,6 +6881,60 @@ story_quest_name_it.lsd
 [quest_title_1030420800703010] VS Agatha
 [quest_title_1030420800704010] VS Lance
 [quest_title_1030420800705010] VS Blu
+[quest_group_title_10115000000] Corrado
+[quest_title_1030210115000000] Un giorno con Corrado
+[quest_title_1030209000601000] La richiesta di Corrado
+[quest_title_1030209000601010] Un Vulcano spento
+[quest_title_1030209000601020] Due appassionati di macchine
+[quest_title_1030209000601030] Una sfida ardente ed elettrizzante!
+[quest_title_1030209000601040] La causa del blackout
+[quest_title_1030209000601050] Una lotta scintillante!
+[quest_title_1030209000601060] Una lotta scintillante! 2
+[quest_title_1030209000601070] Una lotta scintillante! 3
+[quest_title_1030209000601080] Una lotta scintillante! 4
+[quest_title_1030209000601100] Una Lotta Collettiva!
+[quest_title_1030209000601110] Una Lotta Collettiva! 2
+[quest_title_1030420900101010] VS Allenatori di Pasio
+[quest_title_1030420900101011] VS Allenatori di Pasio 2
+[quest_title_1030420900101012] VS Allenatori di Pasio 3
+[quest_title_1030420900101013] VS Allenatori di Pasio 4
+[quest_title_1030209000602000] Raccogliamo i dolcetti insieme!
+[quest_title_1030209000602010] Le parole magiche per la sfida!
+[quest_title_1030209000602020] Chi c'è laggiù?
+[quest_title_1030209000602030] Dateci i vostri dolcetti!
+[quest_title_1030209000602040] Benvenuti alla sfilata notturna!
+[quest_title_1030209000602060] Lotta o scherzetto?
+[quest_title_1030209000602070] Lotta o scherzetto? 2
+[quest_title_1030209000602071] Lotta o scherzetto? 3
+[quest_title_1030209000602072] Lotta o scherzetto? 4
+[quest_title_1030209000602090] Lotta o scherzetto? 5
+[quest_title_1030209000602091] Lotta o scherzetto? 6
+[quest_title_1030209000602092] Lotta o scherzetto? 7
+[quest_title_1030209000602100] Lotta o scherzetto? 8
+[quest_title_1030209000602110] Una Lotta Collettiva!
+[quest_title_1030209000602120] Una Lotta Collettiva! 2
+[quest_group_title_100033] Capitolo 26
+[quest_group_title_100034] Capitolo speciale 6
+[quest_title_1030110000260100] Affronteremo una Campionessa...
+[quest_title_1030110100260200] VS Allenatori: strada
+[quest_title_1030110000260300] Attira-Unità... Accensione!
+[quest_title_1030110100260400] VS Allenatori attirati
+[quest_title_1030110000260500] Due che non si fanno scoraggiare
+[quest_title_1030110100260600] VS Allenatori attirati 2
+[quest_title_1030110000260700] La terza volta sarà quella buona?
+[quest_title_1030110100260800] VS Allenatori attirati 3
+[quest_title_1030110000260900] Stiamo tutti facendo progressi
+[quest_title_1030110100261000] VS squadra di Tapso
+[quest_title_1030110000261100] Un visitatore inaspettato
+[quest_title_1030110000261200] I quarti di finale!
+[quest_title_1030110000265100] Un incontro in circostanze difficili
+[quest_group_title_10183000000] Tapso
+[quest_title_1030210183000000] Un giorno con Tapso
+[quest_title_1030209000601090] Una lotta scintillante! 5
+[quest_group_title_10007400000] Malpi (feste 2020)
+[quest_group_title_10020400000] Alcide (feste 2020)
+[quest_group_detail_100033] Il trionfo della scienza
+[quest_group_detail_100034] Una lotta solitaria
 
 ===========
 story_quest_name_ja.lsd
@@ -6854,6 +7154,7 @@ story_quest_name_ja.lsd
 [quest_title_1030210061000000] とある日のキクコ
 [quest_title_1030210062000000] とある日のカリン
 [quest_title_1030210063000000] とある日のレンブ
+[quest_title_1030210089000000] とある日のN
 [quest_title_1030210091000000] とある日のシロナ
 [quest_title_1030210092000000] とある日のアイリス
 [quest_title_1030210094000000] とある日のゲンジ
@@ -7802,6 +8103,62 @@ story_quest_name_ja.lsd
 [quest_title_1030420800703010] ＶＳ　キクコ
 [quest_title_1030420800704010] ＶＳ　ワタル
 [quest_title_1030420800705010] ＶＳ　グリーン
+[quest_group_title_10115000000] デンジ
+[quest_title_1030210115000000] とある日のデンジ
+[quest_title_1030209000601000] デンジの依頼
+[quest_title_1030209000601010] 燃え尽き過ぎたオーバ
+[quest_title_1030209000601020] ふたりの機械好き
+[quest_title_1030209000601030] 熱き電撃勝負！
+[quest_title_1030209000601040] 停電の原因は……？
+[quest_title_1030209000601050] スパークする戦いを！
+[quest_title_1030209000601060] スパークする戦いを！２
+[quest_title_1030209000601070] スパークする戦いを！３
+[quest_title_1030209000601080] スパークする戦いを！４
+[quest_title_1030209000601100] ソウリョクバトルで勝負！
+[quest_title_1030209000601110] ソウリョクバトルで勝負！２
+[quest_title_1030420900101010] ＶＳ　パシオのトレーナー
+[quest_title_1030420900101011] ＶＳ　パシオのトレーナー２
+[quest_title_1030420900101012] ＶＳ　パシオのトレーナー３
+[quest_title_1030420900101013] ＶＳ　パシオのトレーナー４
+[quest_title_1030209000602000] みんなで　お菓子を　集めよう！
+[quest_title_1030209000602010] 合言葉で　ポケモン勝負！
+[quest_title_1030209000602020] そこにいるの　だ～れだ？
+[quest_title_1030209000602030] お菓子をちょうだい！
+[quest_title_1030209000602040] ナイトパレードに　ようこそ！
+[quest_title_1030209000602060] トリック　オア　バトル
+[quest_title_1030209000602070] トリック　オア　バトル２
+[quest_title_1030209000602071] トリック　オア　バトル３
+[quest_title_1030209000602072] トリック　オア　バトル４
+[quest_title_1030209000602090] トリック　オア　バトル５
+[quest_title_1030209000602091] トリック　オア　バトル６
+[quest_title_1030209000602092] トリック　オア　バトル７
+[quest_title_1030209000602100] トリック　オア　バトル８
+[quest_title_1030209000602110] ソウリョクバトルで勝負！
+[quest_title_1030209000602120] ソウリョクバトルで勝負！２
+[quest_group_title_100033] 第２６章
+[quest_group_title_100034] 幕間の物語６
+[quest_title_1030110000260100] 次の相手はチャンピオン……
+[quest_title_1030110100260200] ＶＳ　街道のトレーナー
+[quest_title_1030110000260300] バディーズ呼びだしマシン起動！
+[quest_title_1030110100260400] ＶＳ　呼びだされたトレーナー
+[quest_title_1030110000260500] 諦めないふたり
+[quest_title_1030110100260600] ＶＳ　呼びだされたトレーナー２
+[quest_title_1030110000260700] ３度目の正直？
+[quest_title_1030110100260800] ＶＳ　呼びだされたトレーナー３
+[quest_title_1030110000260900] みんな前に進んでる
+[quest_title_1030110100261000] ＶＳ　マーレインチーム
+[quest_title_1030110000261100] 思いがけぬ訪問者？
+[quest_title_1030110000261200] 準々決勝当日！
+[quest_title_1030110000265100] 望まぬ形の再会
+[quest_group_title_10183000000] マーレイン
+[quest_title_1030210183000000] とある日のマーレイン
+[quest_title_1030209000601090] スパークする戦いを！５
+[quest_group_title_10007400000] アセロラ
+（２０シーズン）
+[quest_group_title_10020400000] トウヤ
+（２０シーズン）
+[quest_group_detail_100033] 未来を切りひらくサイエンス！
+[quest_group_detail_100034] たった独りの戦い
 
 ===========
 story_quest_name_ko.lsd
@@ -8021,6 +8378,7 @@ story_quest_name_ko.lsd
 [quest_title_1030210061000000] 국화의 어느 날
 [quest_title_1030210062000000] 카렌의 어느 날
 [quest_title_1030210063000000] 연무의 어느 날
+[quest_title_1030210089000000] N의 어느 날
 [quest_title_1030210091000000] 난천의 어느 날
 [quest_title_1030210092000000] 아이리스의 어느 날
 [quest_title_1030210094000000] 권수의 어느 날
@@ -8968,6 +9326,62 @@ story_quest_name_ko.lsd
 [quest_title_1030420800703010] VS 국화
 [quest_title_1030420800704010] VS 목호
 [quest_title_1030420800705010] VS 그린
+[quest_group_title_10115000000] 전진
+[quest_title_1030210115000000] 전진의 어느 날
+[quest_title_1030209000601000] 전진의 부탁
+[quest_title_1030209000601010] 완전 연소한 대엽
+[quest_title_1030209000601020] 기계를 좋아하는 둘
+[quest_title_1030209000601030] 뜨거운 전격 승부!
+[quest_title_1030209000601040] 정전의 원인은...?
+[quest_title_1030209000601050] 스파크 튀는 전투를!
+[quest_title_1030209000601060] 스파크 튀는 전투를!2
+[quest_title_1030209000601070] 스파크 튀는 전투를!3
+[quest_title_1030209000601080] 스파크 튀는 전투를!4
+[quest_title_1030209000601100] 총력배틀로 승부!
+[quest_title_1030209000601110] 총력배틀로 승부!2
+[quest_title_1030420900101010] VS 파시오의 트레이너
+[quest_title_1030420900101011] VS 파시오의 트레이너2
+[quest_title_1030420900101012] VS 파시오의 트레이너3
+[quest_title_1030420900101013] VS 파시오의 트레이너4
+[quest_title_1030209000602000] 다 함께 과자를 모으자!
+[quest_title_1030209000602010] 암호를 외치며 포켓몬 승부!
+[quest_title_1030209000602020] 누구냐!?
+[quest_title_1030209000602030] 과자를 주세요!
+[quest_title_1030209000602040] 어서 오세요 나이트 퍼레이드에!
+[quest_title_1030209000602060] 트릭 오어 배틀
+[quest_title_1030209000602070] 트릭 오어 배틀2
+[quest_title_1030209000602071] 트릭 오어 배틀3
+[quest_title_1030209000602072] 트릭 오어 배틀4
+[quest_title_1030209000602090] 트릭 오어 배틀5
+[quest_title_1030209000602091] 트릭 오어 배틀6
+[quest_title_1030209000602092] 트릭 오어 배틀7
+[quest_title_1030209000602100] 트릭 오어 배틀8
+[quest_title_1030209000602110] 총력배틀로 승부!
+[quest_title_1030209000602120] 총력배틀로 승부!2
+[quest_group_title_100033] 제26장
+[quest_group_title_100034] 막간의 이야기6
+[quest_title_1030110000260100] 다음 상대는 챔피언...
+[quest_title_1030110100260200] VS 거리의 트레이너
+[quest_title_1030110000260300] 버디즈 호출 머신 기동!
+[quest_title_1030110100260400] VS 호출된 트레이너
+[quest_title_1030110000260500] 포기하지 않는 두 사람
+[quest_title_1030110100260600] VS 호출된 트레이너2
+[quest_title_1030110000260700] 3번째엔 성공?
+[quest_title_1030110100260800] VS 호출된 트레이너3
+[quest_title_1030110000260900] 다들 앞으로 나아가고 있다
+[quest_title_1030110100261000] VS 멀레인 팀
+[quest_title_1030110000261100] 생각지 못한 방문자?
+[quest_title_1030110000261200] 준준결승 당일!
+[quest_title_1030110000265100] 바라지 않은 형태의 재회
+[quest_group_title_10183000000] 멀레인
+[quest_title_1030210183000000] 멀레인의 어느 날
+[quest_title_1030209000601090] 스파크 튀는 전투를!5
+[quest_group_title_10007400000] 아세로라
+(20시즌)
+[quest_group_title_10020400000] 투지
+(20시즌)
+[quest_group_detail_100033] 미래를 개척하는 과학!
+[quest_group_detail_100034] 홀로 치르는 전투
 
 ===========
 story_quest_name_zh-TW.lsd
@@ -9187,6 +9601,7 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030210061000000] 某日的菊子
 [quest_title_1030210062000000] 某日的梨花
 [quest_title_1030210063000000] 某日的連武
+[quest_title_1030210089000000] 某日的Ｎ
 [quest_title_1030210091000000] 某日的竹蘭
 [quest_title_1030210092000000] 某日的艾莉絲
 [quest_title_1030210094000000] 某日的源治
@@ -10134,6 +10549,62 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030420800703010] ＶＳ　菊子
 [quest_title_1030420800704010] ＶＳ　阿渡
 [quest_title_1030420800705010] ＶＳ　青綠
+[quest_group_title_10115000000] 電次
+[quest_title_1030210115000000] 某日的電次
+[quest_title_1030209000601000] 電次的委託
+[quest_title_1030209000601010] 燃燒殆盡的大葉
+[quest_title_1030209000601020] 兩位機械愛好者
+[quest_title_1030209000601030] 熾熱的電擊對戰！
+[quest_title_1030209000601040] 停電的原因……？
+[quest_title_1030209000601050] 來場火花四射的對戰！
+[quest_title_1030209000601060] 來場火花四射的對戰！２
+[quest_title_1030209000601070] 來場火花四射的對戰！３
+[quest_title_1030209000601080] 來場火花四射的對戰！４
+[quest_title_1030209000601100] 用大對戰決勝負！
+[quest_title_1030209000601110] 用大對戰決勝負！２
+[quest_title_1030420900101010] ＶＳ　帕希歐的訓練家
+[quest_title_1030420900101011] ＶＳ　帕希歐的訓練家２
+[quest_title_1030420900101012] ＶＳ　帕希歐的訓練家３
+[quest_title_1030420900101013] ＶＳ　帕希歐的訓練家４
+[quest_title_1030209000602000] 大家一起收集點心！
+[quest_title_1030209000602010] 說出口號來場寶可夢對戰！
+[quest_title_1030209000602020] 在那裡的是～誰？
+[quest_title_1030209000602030] 交出點心來！
+[quest_title_1030209000602040] 歡迎參加夜間遊行！
+[quest_title_1030209000602060] 不對戰就搗蛋
+[quest_title_1030209000602070] 不對戰就搗蛋２
+[quest_title_1030209000602071] 不對戰就搗蛋３
+[quest_title_1030209000602072] 不對戰就搗蛋４
+[quest_title_1030209000602090] 不對戰就搗蛋５
+[quest_title_1030209000602091] 不對戰就搗蛋６
+[quest_title_1030209000602092] 不對戰就搗蛋７
+[quest_title_1030209000602100] 不對戰就搗蛋８
+[quest_title_1030209000602110] 用大對戰決勝負！
+[quest_title_1030209000602120] 用大對戰決勝負！２
+[quest_group_title_100033] 第２６章
+[quest_group_title_100034] 中場故事６
+[quest_title_1030110000260100] 下一個對手是冠軍……
+[quest_title_1030110100260200] ＶＳ　街上的訓練家
+[quest_title_1030110000260300] 啟動拍組召喚機！
+[quest_title_1030110100260400] ＶＳ　被召喚來的訓練家
+[quest_title_1030110000260500] 不肯放棄的兩人
+[quest_title_1030110100260600] ＶＳ　被召喚來的訓練家２
+[quest_title_1030110000260700] 第三次一定會成功？
+[quest_title_1030110100260800] ＶＳ　被召喚來的訓練家３
+[quest_title_1030110000260900] 大家都在向前邁進
+[quest_title_1030110100261000] ＶＳ　馬睿因隊
+[quest_title_1030110000261100] 意想不到的訪客？
+[quest_title_1030110000261200] 半準決賽當天！
+[quest_title_1030110000265100] 非己所願的再會
+[quest_group_title_10183000000] 馬睿因
+[quest_title_1030210183000000] 某日的馬睿因
+[quest_title_1030209000601090] 來場火花四射的對戰！５
+[quest_group_title_10007400000] 阿塞蘿拉
+（２０２０秋季）
+[quest_group_title_10020400000] 鬥也
+（２０２０秋季）
+[quest_group_detail_100033] 開拓未來的科學！
+[quest_group_detail_100034] 獨自一人的戰鬥
 
 ===========
 trainer_description_de.lsd
@@ -10490,6 +10961,18 @@ streben stets danach, die Allerbesten zu sein.
 [10017100000] Leaf trägt eine sportliche Machtmontur. Sie und ihr Bisaflor
 vertrauen sich blind und schwören, ihre Freunde mit aller
 Kraft zu beschützen.
+[10115000000] Volkner ist als der stärkste Arenaleiter der Sinnoh-Region
+bekannt. Er ist kampfbegeistert und renoviert regelmäßig
+seine Arena, während er auf starke Gegner wartet.
+[10183000000] Marlon ist der offenherzige und neugierige Verwalter der
+PC-Boxen in Alola und Leiter der Hokulani-Sternwarte. Er
+ist eng mit Kukui befreundet und der Cousin von Chrys.
+[10007400000] Lola hat sich als Mimigma verkleidet und fordert in der
+festlich dekorierten Stadt Gefährten zu Pokémon-Kämpfen
+heraus, um Süßigkeiten zu erhaschen.
+[10020400000] Warren hat sich als Magnayen verkleidet und sammelt in
+der festlich dekorierten Stadt Süßigkeiten. Er kämpft sogar
+gegen Geister-Pokémon, um seine Freunde zu schützen.
 
 ===========
 trainer_description_en.lsd
@@ -10843,6 +11326,18 @@ pursuit to become the greatest Trainer.
 [10017100000] Leaf’s sygna suit has a sporty look. Together with her
 trusted partner, Venusaur, she has pledged to fight with
 all her strength to protect her friends.
+[10115000000] Said to be the top Gym Leader in Sinnoh, Volkner is a
+passionate Trainer always looking for thrilling battles. He
+renovates his Gym while waiting for worthy challengers.
+[10183000000] The friendly and highly curious Molayne runs the Hokulani
+Observatory and manages the PC box system in Alola. He
+is Sophocles’s cousin and friends with Professor Kukui.
+[10007400000] Acerola is back—this time in a Mimikyu costume. She is
+ready to head out into the festively decorated town to
+challenge sync pairs to battles and win candy.
+[10020400000] Hilbert is back and ready to get some candy in his
+Mightyena costume. He is determined to stand up against
+even spooky Ghost types in order to protect his allies.
 
 ===========
 trainer_description_es.lsd
@@ -11246,6 +11741,23 @@ objetivo convertirse en el más fuerte junto a su Blastoise.
 [10017100000] Hoja luce su nuevo Traje Summum, que le otorga un
 aspecto muy deportivo. Juró emplear toda su fuerza en
 defender a sus amigos junto a su fiel Venusaur.
+[10115000000] Conocido como el mejor líder de Sinnoh, este Entrenador
+se pasa la vida renovando su gimnasio con el objetivo de
+atraer a contendientes que estén a su altura. Posee una
+pasión ferviente y se deleita combatiendo.
+[10183000000] Amigo de Kukui y primo de Chris. Además de ser el
+encargado del Observatorio de Hokulani, también se
+ocupa de supervisar las Cajas del PC de la región de
+Alola. Es muy amistoso y siempre lo mueve una fuerte
+curiosidad por las cosas.
+[10007400000] Ataviada con su divertido disfraz de Mimikyu, Zarala
+recorre las coloridas calles de la ciudad desafiando a
+todo Entrenador que se cruza en su camino para
+conseguir chuches.
+[10020400000] Con su disfraz de Mightyena, Lucho recorre las coloridas
+calles de la ciudad en busca de chuches. Con tal de
+proteger a sus amigos, es capaz de hacer frente a su
+peor miedo: los Pokémon de tipo Fantasma.
 
 ===========
 trainer_description_fr.lsd
@@ -11585,6 +12097,21 @@ adversaires parmi les plus coriaces !
 [10017100000] Avec son Look Ultime très sport, Leaf a juré de protéger
 ses amis et de se battre de toutes ses forces aux côtés de
 son Florizarre avec qui elle partage un lien indéfectible.
+[10115000000] Connu comme le meilleur Champion d'Arène de Sinnoh,
+ce jeune homme passionné recherche l'engouement dans
+les combats Pokémon. Il passe son temps à rénover son
+Arène en attendant l'arrivée de Dresseurs dignes de lui.
+[10183000000] Responsable des Boîtes PC de la région d'Alola et
+directeur de l'Observatoire Hokulani, Molène est une
+personne aimable à la curiosité débordante. Il est un
+ami proche du Professeur Euphorbe et le cousin de Chrys.
+[10007400000] Margie passe à l'attaque avec ses amis dans son superbe
+costume de Mimiqui et part à la chasse aux friandises
+dans la ville décorée pour l'occasion !
+[10020400000] Déguisé en Grahyèna, Ludwig se lance dans la chasse
+aux bonbons au travers la ville décorée pour l'occasion.
+Si c'est pour protéger ses amis, il n'hésite pas à faire face
+aux Pokémon Spectre dont il a pourtant peur !
 
 ===========
 trainer_description_it.lsd
@@ -11950,6 +12477,22 @@ avversari formidabili.
 giura di lottare con tutte le forze per proteggere
 i suoi compagni insieme a Venusaur, a cui è legata
 da un profondo sentimento di fiducia.
+[10115000000] Considerato il Capopalestra più forte di Sinnoh,
+è un uomo capace di grande entusiasmo che ricerca
+il divertimento nelle lotte di Pokémon. Mentre aspetta
+che si presentino degli sfidanti in gamba, si dedica
+a ristrutturare la sua Palestra.
+[10183000000] È il direttore dell'Osservatorio Hokulani e il responsabile
+dei Box del PC di Alola. Aperto e curioso di carattere,
+è grande amico del Professor Kukui e cugino di Chrys.
+[10007400000] Malpi travestita da Mimikyu si aggira per la città
+addobbata a festa per sfidare le Unità che incontra
+e farsi dare da loro dei dolcetti.
+[10020400000] Alcide travestito da Mightyena raccoglie dolcetti in giro
+per le strade della città, appositamente decorate
+per la festa. È disposto ad affrontare la sua paura
+dei Pokémon di tipo Spettro pur di proteggere
+i suoi compagni.
 
 ===========
 trainer_description_ja.lsd
@@ -12302,6 +12845,18 @@ trainer_description_ja.lsd
 [10017100000] スポーティな　マジコスを　身にまとう　リーフ。
 心から　信頼しあっている　フシギバナと　共に
 仲間を守り　全力で戦うと　誓う。
+[10115000000] シンオウ地方　一番と　いわれる　ジムリーダー。
+ポケモン勝負の　楽しさを　追い求める　熱い男。
+手ごわい　挑戦者を　待ちながら　ジムを　改造する。
+[10183000000] アローラ地方の　パソコンの　ボックス管理者で
+ホクラニ天文台の　所長。　気さくで　好奇心旺盛。
+ククイの　親友で　マーマネとは　従兄弟である。
+[10007400000] ミミッキュに　なりきる　仮装した　アセロラ。
+彩られた　街で　お菓子を　もらうために
+バディーズたちに　ポケモン勝負を　挑んでいる。
+[10020400000] グラエナに　なりきる　仮装した　トウヤ。
+彩られた　街で　お菓子を　集める。　仲間を守るため
+苦手な　ゴーストタイプにも　立ち向かう。
 
 ===========
 trainer_description_ko.lsd
@@ -12479,7 +13034,7 @@ trainer_description_ko.lsd
 속으로는 정이 많고 포켓몬 승부의 실력도 뛰어나다.
 [10057000000] 사람도 포켓몬도 단련한만큼 강해진다는
 신조 아래 극한까지 단련하고 있는 사천왕 중 한 사람.
-후~! 하압!이라는 구호로 기합을 넣는다.
+우~! 하~앗!이라는 구호로 기합을 넣는다.
 [10058000000] 세계를 돌며 활약하는 엄격한 성격의
 천재 프로골퍼. 포켓몬 승부에서는
 봐주지 않고 진지하게 임하는 사천왕이기도 하다.
@@ -12654,6 +13209,18 @@ trainer_description_ko.lsd
 [10017100000] 스포티한 궁극코스를 입은 리프.
 진심으로 신뢰하는 이상해꽃과 함께
 동료를 지키며 전력으로 싸우겠다고 맹세한다.
+[10115000000] 신오지방 최고의 체육관 관장이라고 일컬어지고 있다.
+포켓몬 승부의 즐거움을 추구하는 뜨거운 남자.
+강한 도전자를 기다리며 체육관을 개조한다.
+[10183000000] 알로라지방 PC의 박스 관리자이자 호쿠라니천문대의 소장.
+싹싹하고 호기심이 왕성하다.
+쿠쿠이의 친한 친구이며 마마네와는 사촌지간이다.
+[10007400000] 따라큐 분장을 한 아세로라.
+여러 장식으로 꾸며진 거리에서 과자를 받기 위해
+버디즈들에게 포켓몬 승부를 걸고 있다.
+[10020400000] 그라에나 분장을 한 투지.
+여러 장식으로 꾸며진 거리에서 과자를 모은다.
+고스트타입을 무서워하지만 동료를 지키기 위해 맞선다.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -13005,6 +13572,18 @@ trainer_description_zh-TW.lsd
 [10017100000] 身穿輕便美極套裝的葉子。
 與她全心信賴的妙蛙花一起，
 發誓為守護夥伴全力作戰！
+[10115000000] 被譽為神奧地區第一的道館館主。
+是個追尋寶可夢對戰樂趣，充滿熱情的男人。
+他總是一邊改造道館，一邊等待著值得一戰的挑戰者到來。
+[10183000000] 阿羅拉地區電腦盒子的管理人暨輝克拉尼天文台台長，
+性格直率親切且好奇心旺盛。
+是庫庫伊最要好的朋友，同時是馬瑪內的表哥。
+[10007400000] 變裝成謎擬Ｑ的阿塞蘿拉。
+為了得到點心而在裝飾繽紛的街上，
+向拍組們發起寶可夢對戰。
+[10020400000] 變裝成大狼犬的鬥也。
+在裝飾繽紛的街上收集點心，並為了守護夥伴
+勇敢面對他害怕的幽靈屬性寶可夢。
 
 ===========
 trainer_name_de.lsd
@@ -13115,6 +13694,7 @@ trainer_name_de.lsd
 [ch0112] Klarin
 [ch0113] Jasmin
 [ch0114] Sabrina
+[ch0115] Volkner
 [ch0116] Lucia
 [ch0118] Lilly
 [ch0119] Gladio
@@ -13137,6 +13717,7 @@ trainer_name_de.lsd
 [ch9000] 
 [ch0159] Perenus
 [ch0170] Artie
+[ch0183] Marlon
 [ch0190] Ryuki
 [ch0194] Zyrus
 [ch0198] Lotte
@@ -13253,6 +13834,7 @@ trainer_name_en.lsd
 [ch0112] Ethan
 [ch0113] Jasmine
 [ch0114] Sabrina
+[ch0115] Volkner
 [ch0116] Dawn
 [ch0118] Lillie
 [ch0119] Gladion
@@ -13275,6 +13857,7 @@ trainer_name_en.lsd
 [ch9000] 
 [ch0159] Darach
 [ch0170] Burgh
+[ch0183] Molayne
 [ch0190] Ryuki
 [ch0194] Cyrus
 [ch0198] Lucy
@@ -13391,6 +13974,7 @@ trainer_name_es.lsd
 [ch0112] Eco
 [ch0113] Yasmina
 [ch0114] Sabrina
+[ch0115] Lectro
 [ch0116] Maya
 [ch0118] Lylia
 [ch0119] Gladio
@@ -13413,6 +13997,7 @@ trainer_name_es.lsd
 [ch9000] 
 [ch0159] Kokuran
 [ch0170] Camus
+[ch0183] Lario
 [ch0190] Olano
 [ch0194] Helio
 [ch0198] Fortunia
@@ -13529,6 +14114,7 @@ trainer_name_fr.lsd
 [ch0112] Luth
 [ch0113] Jasmine
 [ch0114] Morgane
+[ch0115] Tanguy
 [ch0116] Aurore
 [ch0118] Lilie
 [ch0119] Gladio
@@ -13551,6 +14137,7 @@ trainer_name_fr.lsd
 [ch9000] 
 [ch0159] Parsley
 [ch0170] Artie
+[ch0183] Molène
 [ch0190] Solane
 [ch0194] Hélio
 [ch0198] Charline
@@ -13667,6 +14254,7 @@ trainer_name_it.lsd
 [ch0112] Armonio
 [ch0113] Jasmine
 [ch0114] Sabrina
+[ch0115] Corrado
 [ch0116] Lucinda
 [ch0118] Lylia
 [ch0119] Iridio
@@ -13689,6 +14277,7 @@ trainer_name_it.lsd
 [ch9000] 
 [ch0159] Paride
 [ch0170] Artemisio
+[ch0183] Tapso
 [ch0190] Morel
 [ch0194] Cyrus
 [ch0198] Fortunata
@@ -13805,6 +14394,7 @@ trainer_name_ja.lsd
 [ch0112] ヒビキ
 [ch0113] ミカン
 [ch0114] ナツメ
+[ch0115] デンジ
 [ch0116] ヒカリ
 [ch0118] リーリエ
 [ch0119] グラジオ
@@ -13827,6 +14417,7 @@ trainer_name_ja.lsd
 [ch9000] 
 [ch0159] コクラン
 [ch0170] アーティ
+[ch0183] マーレイン
 [ch0190] リュウキ
 [ch0194] アカギ
 [ch0198] アザミ
@@ -13943,6 +14534,7 @@ trainer_name_ko.lsd
 [ch0112] 심향
 [ch0113] 규리
 [ch0114] 초련
+[ch0115] 전진
 [ch0116] 빛나
 [ch0118] 릴리에
 [ch0119] 글라디오
@@ -13965,6 +14557,7 @@ trainer_name_ko.lsd
 [ch9000] 
 [ch0159] 코크런
 [ch0170] 아티
+[ch0183] 멀레인
 [ch0190] 용규
 [ch0194] 태홍
 [ch0198] 다슬
@@ -14081,6 +14674,7 @@ trainer_name_zh-TW.lsd
 [ch0112] 阿響
 [ch0113] 阿蜜
 [ch0114] 娜姿
+[ch0115] 電次
 [ch0116] 小光
 [ch0118] 莉莉艾
 [ch0119] 格拉吉歐
@@ -14103,6 +14697,7 @@ trainer_name_zh-TW.lsd
 [ch9000] 
 [ch0159] 石蘭
 [ch0170] 亞堤
+[ch0183] 馬睿因
 [ch0190] 龍葵
 [ch0194] 赤日
 [ch0198] 小薊
@@ -14283,6 +14878,8 @@ zu diesen Gefährten öffnest.
 [common_widget/dialog_068] Wenn du das Potenzial eines
 Gefährtengespanns auf 6★ EX
 erhöhst, erhältst du sein EX-Farboutfit.
+[common_widget/dialog_072] Hinweis: Diese Items werden nicht automatisch
+eingetauscht.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -14473,6 +15070,7 @@ gekauften Juwelen und ab diesem
 Wert jeweils in Schritten von je 20 000
 Juwelen pro Monat.
 [common_widget/template_001] Gefährten
+[common_widget/template_002] Anzeige wechseln
 [common_widget/dialog_release_001] Wird nach Abschluss von „Herzen im
 Einklang“ in Kapitel 1 der
 Hauptgeschichte freigeschaltet.
@@ -14721,6 +15319,7 @@ look now? You can also switch looks
 later on the sync pair’s details screen.
 [common_widget/dialog_068] Raising a sync pair to 6★ EX unlocks
 their EX style.
+[common_widget/dialog_072] Note: This will not be automatically exchanged for coins.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -14902,6 +15501,7 @@ month reach or exceed 3,000 gems,
 as every time 20,000 gems beyond
 that are purchased.
 [common_widget/template_001] Sync Pairs
+[common_widget/template_002] Switch View
 [common_widget/dialog_release_001] To unlock, complete Chapter 1: The More the Merrier.
 [common_widget/dialog_release_002] To unlock, complete Chapter 2: A Friendly New Rival.
 [common_widget/dialog_release_004] To unlock, complete Chapter 4: A Blossoming Flower.
@@ -15137,6 +15737,7 @@ de esta pareja de compis.
 [common_widget/dialog_068] Cuando una pareja alcance un
 potencial de 6★ EX, conseguirás
 su Traje EX especial.
+[common_widget/dialog_072] Nota: Este objeto no se canjeará automáticamente.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Nv.
 [common_widget/trainer_detail_004] MÁX.
@@ -15321,6 +15922,7 @@ Para cantidades superiores, recibirás
 avisos por cada 20 000 joyas que
 compres.
 [common_widget/template_001] Compis
+[common_widget/template_002] Cambiar lista
 [common_widget/dialog_release_001] Completa la ubicación "Corazones al unísono" del capítulo 1 de la historia principal.
 [common_widget/dialog_release_002] Completa la ubicación "Un aliado esperanzador" del capítulo 2 de la historia principal.
 [common_widget/dialog_release_004] Completa la ubicación "La más linda flor" del capítulo 4 de la historia principal.
@@ -15349,8 +15951,7 @@ historia principal.
 historia principal.
 [common_widget/release_008] Completa "Un espíritu inquebrantable"
 del capítulo 7 de la historia principal.
-[common_widget/dialog_release_010] Completa "Hay que derrotar al Team Break" del
-capítulo 2 de la historia principal.
+[common_widget/dialog_release_010] Completa "Hay que derrotar al Team Break" del capítulo 2 de la historia principal.
 [common_widget/release_009] Completa "Hay que derrotar al Team Break" del
 capítulo 2 de la historia principal.
 [common_widget/release_010] Disponible cuando eclosione el primer Huevo que te
@@ -15557,6 +16158,8 @@ l'écran de description du Duo.
 [common_widget/dialog_068] Quand le potentiel d'un Duo passe
 à 6★ EX, vous obtenez une Tenue
 Couleur EX.
+[common_widget/dialog_072] Remarque : les objets ne seront automatiquement
+convertis en Pièces.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] N.
 [common_widget/trainer_detail_004] MAX
@@ -15743,6 +16346,7 @@ lorsque vous achèterez plus de 3 000,
 et tous les 20 000 Diamants par la
 suite.
 [common_widget/template_001] Duos
+[common_widget/template_002] Changer de vue
 [common_widget/dialog_release_001] Débloqué après avoir terminé
 « L'écho des cœurs »
 dans le chapitre 1.
@@ -15982,6 +16586,7 @@ Vuoi far cambiare subito l'Unità?
 [common_widget/dialog_068] Puoi ottenere un Costume EX
 aumentando il numero di ★ di un'Unità
 fino a 6★ EX.
+[common_widget/dialog_072] Non verrà scambiato automaticamente.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] L.
 [common_widget/trainer_detail_004] MAX
@@ -16164,6 +16769,7 @@ raggiungerà o supererà le seguenti
 soglie: 3.000, 6.000, 10.000
 e poi ogni 20.000 gemme comprate.
 [common_widget/template_001] Unità
+[common_widget/template_002] Cambia lista
 [common_widget/dialog_release_001] Si sblocca completando "Sintonia
 rinsaldata" del capitolo 1 della storia.
 [common_widget/dialog_release_002] Si sblocca completando "Amicizie
@@ -16389,6 +16995,7 @@ EXカラー衣装に　変更しますか？
 変更することもできます
 [common_widget/dialog_068] バディーズを★6EXにすることで
 EXカラー衣装が　かくとくできます
+[common_widget/dialog_072] ※自動売却されません
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -16569,6 +17176,7 @@ Lv.MAX
 以降は20000個ごとに
 通知が表示されます
 [common_widget/template_001] バディーズ
+[common_widget/template_002] 表示切替
 [common_widget/dialog_release_001] メインストーリー第１章
 「共鳴する心」
 クリアで解放されます
@@ -16806,6 +17414,7 @@ EX컬러 의상으로 변경하겠습니까?
 변경할 수도 있습니다
 [common_widget/dialog_068] 버디즈를 ★6EX로 만들면
 EX컬러 의상을 획득할 수 있습니다
+[common_widget/dialog_072] ※자동판매되지 않습니다
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -16985,6 +17594,7 @@ Lv.MAX
 이후에는 20,000개마다
 알림이 표시됩니다
 [common_widget/template_001] 버디즈
+[common_widget/template_002] 표시 변경
 [common_widget/dialog_release_001] 메인 스토리 제1장
 "공명하는 마음"을
 클리어하면 해방됩니다
@@ -17209,6 +17819,7 @@ common_widget_zh-TW.lsd
 拍組詳細資訊中更改
 [common_widget/dialog_068] 讓拍組成長為★6EX
 可獲得EX服裝
+[common_widget/dialog_072] ※不會被自動出售
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -17379,6 +17990,7 @@ EX服裝！
 其後，將以每20000個鑽石為單位
 傳送通知
 [common_widget/template_001] 拍檔組合
+[common_widget/template_002] 切換顯示
 [common_widget/dialog_release_001] 成功過關主線劇情第１章
 「心心相鳴」即可開放
 [common_widget/dialog_release_002] 成功過關主線劇情第２章
@@ -19511,6 +20123,14 @@ nicht drei Teams ausgewählt hast.
 [home/quest_list_097] Noch [Digit:2digits ] Mal
 [home/quest_list_098] Legenden-Event
 [home/quest_list_100] 1-Jahres-Jubiläum
+[home/quest_list_101] Aktion läuft!
+[home/quest_list_102] Aktion läuft!
+[home/quest_list_103] P.
+[home/quest_list_104] Verdiene dir in Kämpfen
+Bewegungspunkte!
+
+[home/quest_list_105] Episodenkarte
+[home/quest_list_106] Nicht verfügbar
 [home/quest_detail_003] Empfohlener Typ
 [home/quest_detail_005] Details
 [home/quest_detail_009] Teamauswahl
@@ -19607,6 +20227,13 @@ verfügt, kannst du nicht aufbrechen.
 [home/quest_detail_093] Nötiger Lv.
 [home/quest_detail_095] Hinweis: Deine Eierbox ist voll. Du kannst keine
 weiteren Eier ablegen.
+[home/quest_detail_096] Bonus-Effekte
+[home/quest_detail_097] Ausgewählte Gefährten
+[home/quest_detail_098] Ausgewählte Items
+[home/quest_detail_100] Hinweis: Gewinne Kämpfe mit ausgewählten Typen
+oder Gefährten, um zusätzliche Items zu erhalten.
+Beinhaltet das Gefährtengespann bereits den
+Typen, gilt nur der höhere Bonus.
 [home/home_001] Laden
 [home/home_002] Abenteuer
 [home/home_003] Team
@@ -19996,6 +20623,13 @@ than one team. Please edit your teams.
 [home/quest_list_097] Attempts Left: [Digit:2digits ]
 [home/quest_list_098] Legendary Event
 [home/quest_list_100] One-Year Anniversary
+[home/quest_list_101] Rally ongoing!
+[home/quest_list_102] Rally ongoing!
+[home/quest_list_103]  
+[home/quest_list_104] Get travel tokens for the
+event map by battling!
+[home/quest_list_105] Event Map
+[home/quest_list_106] Currently Unavailable
 [home/quest_detail_003] Recommended Types
 [home/quest_detail_005] Area Details
 [home/quest_detail_009] Preset Teams
@@ -20092,6 +20726,13 @@ this battle.
 [home/quest_detail_093] Required Lv.
 [home/quest_detail_095] Note: You can’t receive any more Eggs right now
 because your Egg Box is full.
+[home/quest_detail_096] Special Bonuses
+[home/quest_detail_097] Featured Sync Pairs
+[home/quest_detail_098] Featured Items
+[home/quest_detail_100] You can get additional featured items as rewards for
+completing certain battles with the featured sync pairs
+or types on your team. If multiple bonuses apply to
+the same sync pair, the larger bonus will take effect.
 [home/home_001] Shop
 [home/home_002] Explore
 [home/home_003] Team
@@ -20478,6 +21119,13 @@ a través de la Caja Búsqueda.
 [home/quest_list_097] [Digit:2digits ] ve[ES:Qty S="z" P="ces" ] más
 [home/quest_list_098] Evento legendario
 [home/quest_list_100] Evento de aniversario
+[home/quest_list_101] ¡Promoción en curso!
+[home/quest_list_102] ¡Promoción en curso!
+[home/quest_list_103] Puntos
+[home/quest_list_104] ¡Combate para conseguir
+puntos de desplazamiento!
+[home/quest_list_105] Mapa de evento
+[home/quest_list_106] No disponible
 [home/quest_detail_003] Tipos recomendados
 [home/quest_detail_005] Detalles
 [home/quest_detail_009] Elegir equipo
@@ -20574,6 +21222,13 @@ ubicación.
 [home/quest_detail_093] Nivel necesario
 [home/quest_detail_095] Aviso: No tienes más espacio en la Caja Huevo,
 así que no puedes aceptar más Huevos.
+[home/quest_detail_096] Bonus especiales
+[home/quest_detail_097] Compis con bonus
+[home/quest_detail_098] Objetos con bonus
+[home/quest_detail_100] Notas: Completa combates con los compis o tipos con
+bonus para conseguir más objetos con bonus. Si una
+pareja cuenta con más de un bonus, solo se aplicará
+el bonus más alto.
 [home/home_001] Tienda
 [home/home_002] Aventura
 [home/home_003] Equipo
@@ -20950,6 +21605,13 @@ complètes avant de pouvoir continuer.
 [home/quest_list_097] Encore [Digit:2digits ] fois
 [home/quest_list_098] Évènement légendaire
 [home/quest_list_100] Évènement d'anniversaire
+[home/quest_list_101] Campagne en cours !
+[home/quest_list_102] Campagne en cours !
+[home/quest_list_103]  
+[home/quest_list_104] Obtenez des Points de
+Mouvement en combat !
+[home/quest_list_105] Carte
+[home/quest_list_106] Indisponible
 [home/quest_detail_003] Types conseillés
 [home/quest_detail_005] Infos
 [home/quest_detail_009] Équipes
@@ -21047,6 +21709,13 @@ le niveau requis pour participer
 [home/quest_detail_095] La Boîte à Œufs est pleine. 
 Vous ne pouvez pas déposer
 d'Œuf supplémentaire.
+[home/quest_detail_096] Effets bonus
+[home/quest_detail_097] Duos en vedette
+[home/quest_detail_098] Objets en vedette
+[home/quest_detail_100] Vous pouvez recevoir plus d'objets en vedette en
+remportant des combats avec les Duos ou les types en
+vedette. Les effets bonus sur les Duos et les types ne
+sont pas cumulables et seul le plus élevé est appliqué.
 [home/home_001] Boutique
 [home/home_002] Aventure
 [home/home_003] Équipe
@@ -21442,6 +22111,13 @@ tre le squadre per affrontare la sfida.
 [home/quest_list_097] Completamenti residui: [Digit:2digits ]
 [home/quest_list_098] Eventi leggendari
 [home/quest_list_100] Evento per l'anniversario
+[home/quest_list_101] Campagna in corso
+[home/quest_list_102] Campagna in corso
+[home/quest_list_103] PM
+[home/quest_list_104] Lotta, ricevi PM e avanza
+nelle Mappe episodi!
+[home/quest_list_105] Mappa episodi
+[home/quest_list_106] Non disponibile
 [home/quest_detail_003] Tipi consigliati
 [home/quest_detail_005] Info area
 [home/quest_detail_009] Scegli squadra
@@ -21537,6 +22213,13 @@ necessario.
 [home/quest_detail_093] Livello necessario
 [home/quest_detail_095] Non puoi ricevere altre Uova perché il tuo Box
 Uova è pieno.
+[home/quest_detail_096] Effetti bonus
+[home/quest_detail_097] Unità con bonus
+[home/quest_detail_098] Strumenti a cui si applica il bonus
+[home/quest_detail_100] Se inserisci in squadra le Unità o i tipi indicati e vinci
+in certe lotte, otterrai gli strumenti indicati in maggiore
+quantità. Se una delle Unità indicate è anche di uno
+dei tipi indicati, verrà applicato solo il bonus più alto.
 [home/home_001] Negozio
 [home/home_002] Avventura
 [home/home_003] Squadra
@@ -21928,6 +22611,13 @@ Lv.[Digit:2digits ]で解放
 [home/quest_list_097] あと[Digit:2digits ]回
 [home/quest_list_098] 伝説ポケモンイベント
 [home/quest_list_100] アニバーサリーイベント
+[home/quest_list_101] キャンペーン中
+[home/quest_list_102] キャンペーン中
+[home/quest_list_103] pt
+[home/quest_list_104] バトルで移動ポイントを入手して
+エピソードマップを進めよう！
+[home/quest_list_105] エピソードマップへ
+[home/quest_list_106] 開催期間外
 [home/quest_detail_003] おすすめのタイプ
 [home/quest_detail_005] エリア詳細
 [home/quest_detail_009] チーム選択
@@ -22019,6 +22709,13 @@ Lv.[Digit:2digits ]で解放
 [home/quest_detail_093] 必要レベル
 [home/quest_detail_095] ※タマゴボックスがいっぱいのため
 これ以上タマゴを預かることができません
+[home/quest_detail_096] ボーナス効果
+[home/quest_detail_097] 対象バディーズ
+[home/quest_detail_098] 対象どうぐ
+[home/quest_detail_100] ※対象タイプ・バディーズを編成して特定バトルに勝利すると
+対象どうぐの獲得数にボーナスがつきます
+※対象バディーズが対象タイプにも含まれる場合
+効果値は加算されずにより高い値が適用されます
 [home/home_001] ショップ
 [home/home_002] ぼうけん
 [home/home_003] チーム
@@ -22371,7 +23068,7 @@ Lv.[Digit:2digits ]에서 해방
 [home/quest_list_078] 버디즈를 강화하고 실력을 테스트해보자!
 [home/quest_list_079] [Name:QuestGroupTitle ]([Name:SoloMulti ])
 "[Name:QuestTitle ]"
-[Name:QuestDifficulty ][Kor:Particle char="wo" ] 클리어하여 해방
+[Name:QuestDifficulty ](을)를 클리어하여 해방
 [home/quest_list_080] 배틀빌라(멀티)
 [home/quest_list_081] 1번 클리어한 스토리이므로
 최초 클리어 보상은 없습니다
@@ -22403,6 +23100,13 @@ Lv.[Digit:2digits ]에서 해방
 [home/quest_list_097] 앞으로 [Digit:2digits ]회
 [home/quest_list_098] 전설 포켓몬 이벤트
 [home/quest_list_100] 1주년 기념 이벤트
+[home/quest_list_101] 캠페인 중
+[home/quest_list_102] 캠페인 중
+[home/quest_list_103] 포인트
+[home/quest_list_104] 배틀에서 이동포인트를 획득하여
+에피소드 맵을 진행하자
+[home/quest_list_105] 에피소드 맵으로
+[home/quest_list_106] 개최 기간이 아닙니다
 [home/quest_detail_003] 추천타입
 [home/quest_detail_005] 에리어 상세
 [home/quest_detail_009] 팀 선택
@@ -22492,6 +23196,13 @@ Lv.[Digit:2digits ]에서 해방
 [home/quest_detail_093] 필요 레벨
 [home/quest_detail_095] ※알박스가 가득 차 있기 때문에
 이 이상 알을 받을 수 없습니다
+[home/quest_detail_096] 보너스 효과
+[home/quest_detail_097] 대상 버디즈
+[home/quest_detail_098] 대상 도구
+[home/quest_detail_100] ※대상 타입, 버디즈를 편성하여 특정 배틀에서 승리하면
+대상 도구를 획득할 때 보너스가 추가됩니다
+※대상 버디즈가 대상 타입에도 포함되는 경우
+보너스는 중복되지 않으며 더 높은 쪽의 수치가 적용됩니다
 [home/home_001] 숍
 [home/home_002] 모험
 [home/home_003] 팀
@@ -22862,6 +23573,13 @@ home_zh-TW.lsd
 [home/quest_list_097] 還剩[Digit:2digits ]次
 [home/quest_list_098] 傳說的寶可夢活動
 [home/quest_list_100] 上線週年慶
+[home/quest_list_101] 舉辦中
+[home/quest_list_102] 舉辦中
+[home/quest_list_103] pt
+[home/quest_list_104] 透過對戰來獲得移動點數
+並進行劇情地圖！
+[home/quest_list_105] 前往劇情地圖
+[home/quest_list_106] 非舉辦期間
 [home/quest_detail_003] 推薦屬性
 [home/quest_detail_005] 區域詳情
 [home/quest_detail_009] 選擇隊伍
@@ -22947,6 +23665,13 @@ home_zh-TW.lsd
 [home/quest_detail_093] 等級需求
 [home/quest_detail_095] ※蛋盒已滿
 無法寄放更多蛋
+[home/quest_detail_096] 獎勵效果
+[home/quest_detail_097] 指定拍組
+[home/quest_detail_098] 指定道具
+[home/quest_detail_100] ※在特定對戰中編制指定屬性／拍組並取勝
+所獲得之指定道具的數量將會附加額外獎勵
+※當指定拍組中包含指定屬性時
+將適用數值較高的效果而不會重複累計
 [home/home_001] 商店
 [home/home_002] 冒險
 [home/home_003] 隊伍
@@ -23199,6 +23924,9 @@ shop_de.lsd
 [shop/shop_top_014] Tausche Items und Münzen ein.
 [shop/shop_top_015] Tausche Juwelen gegen Items für die Eier-Forschung ein.
 [shop/shop_top_016] Tausche Ausrüstung gegen Münzen.
+[shop/shop_top_017] Ticket-G-Suche
+[shop/shop_top_018] Erhalte Gefährten z. B. durch Tickets!
+[shop/shop_top_019] Ticket-Gefährtensuche
 [shop/shop_common_001] Handelstransaktionen
 [shop/shop_common_002] Zahlungsgesetze
 [shop/shop_common_003] Kauflimit
@@ -23276,6 +24004,7 @@ eines Erziehungsberechtigten.
 Hast du die Zustimmung eingeholt?
 [shop/shop_medal_026] Ausgabenwarnung
 [shop/shop_medal_027] Gekauft
+[shop/shop_medal_028] Weitere Hinweise
 [shop/shop_medal_029] Juwelensets
 [shop/shop_medal_030] Gekauft
 (Abgeholte Boni: [Digit:3digits ]/[Digit:3digits Idx="1" ])
@@ -23599,8 +24328,8 @@ durchzuführen?
 [shop/scout_109] Nur ein Mal
 [shop/scout_110] Geschenk-
 details
-[shop/scout_111] Geschenk bei Erhalt ausgewählter Gefährten!
-[shop/scout_112] Gefährten im Fokus
+[shop/scout_111] Bonus bei Erhalt ausgewählter Gefährten!
+[shop/scout_112] Ausgewählte Gefährten
 [shop/scout_113] Geschenk für die [Digit:2digits ]. Suche
 
 [shop/scout_114] Hinweis: Diese Geschenke werden im Lager deiner
@@ -23608,6 +24337,17 @@ Geschenkbox abgelegt.
 [shop/scout_116] Spezielle G-Suche × 11
 [shop/scout_117] Geschenkeliste
 [shop/scout_118] Geschenk ab der [Digit:2digits ]. Suche
+[shop/scout_119] Garantierte 5★-Ticket-
+Gefährtensuche
+[shop/scout_120] Erhalte ein 5★-Gefährtengespann
+mit [Name:Item ]s.
+[shop/scout_121] [Digit:2digits ] × [Name:Item ] 
+einsetzen, um eine Ticket-
+Gefährtensuche durchzuführen?
+[shop/scout_123] Hinweis: Selbst wenn du Gefährten schon hast und sich
+bei ihnen das Pokémon schon entwickelt hat, wird das
+Pokémon vor der Entwicklung angezeigt, wenn du sie
+durch Gefährtensuchen erhältst.
 [shop/deck_item_sale_001] Ausrüstungstausch
 [shop/deck_item_sale_002] Ausrüstung
 [shop/deck_item_sale_003] Filter
@@ -23653,6 +24393,9 @@ shop_en.lsd
 [shop/shop_top_014] Exchange coins and items for other items
 [shop/shop_top_015] Exchange gems for Egg-hatching items
 [shop/shop_top_016] Exchange unwanted gear for coins
+[shop/shop_top_017] Ticket Scout
+[shop/shop_top_018] Team up with sync pairs using tickets, etc.
+[shop/shop_top_019] Ticket Scout
 [shop/shop_common_001] Commercial Transactions
 [shop/shop_common_002] Payment Laws
 [shop/shop_common_003] Purchase Limits
@@ -23721,6 +24464,7 @@ gems. Do you have the permission of
 your parent or guardian?
 [shop/shop_medal_026] Spending Notifications
 [shop/shop_medal_027] Purchased
+[shop/shop_medal_028] Notes
 [shop/shop_medal_029] Gem Bundles
 [shop/shop_medal_030] Bundle Purchased
 (Bonuses claimed: [Digit:3digits ]/[Digit:3digits Idx="1" ])
@@ -23950,6 +24694,14 @@ section of your Present Box.
 [shop/scout_116] Special Scout ×11
 [shop/scout_117] Bonus Present Details
 [shop/scout_118] Bonus presents for scout no. [Digit:2digits ] onward
+[shop/scout_119] 5★-Guaranteed Scout
+[shop/scout_120] You can use [Name:Item ]s
+to scout one 5★ sync pair!
+[shop/scout_121] Use [Name:Item ] ×[Digit:2digits ]
+to scout one sync pair?
+[shop/scout_123] When you are scouting, sync pairs are shown with
+unevolved Pokémon even if you have previously
+acquired and evolved them.
 [shop/deck_item_sale_001] Exchange Gear
 [shop/deck_item_sale_002] Gear
 [shop/deck_item_sale_003] Filter
@@ -23995,6 +24747,9 @@ shop_es.lsd
 [shop/shop_top_014] Cambia objetos y monedas por otros objetos.
 [shop/shop_top_015] Canjea joyas por objetos de investigación de Huevos.
 [shop/shop_top_016] Vende accesorios y obtén monedas a cambio.
+[shop/shop_top_017] Reclutamiento billete
+[shop/shop_top_018] Usa billetes para obtener compis.
+[shop/shop_top_019] Reclutamiento billete
 [shop/shop_common_001] Transacciones comerciales específicas
 [shop/shop_common_002] Legislación relativa a los pagos
 [shop/shop_common_003] Límite de compra
@@ -24059,8 +24814,10 @@ reciban la autorización de un padre o
 tutor legal.
 ¿Has recibido la autorización de un
 padre o tutor legal?
-[shop/shop_medal_026] Sobre la alerta límite de compra
+[shop/shop_medal_026] Sobre la alerta
+límite de compra
 [shop/shop_medal_027] Comprado
+[shop/shop_medal_028] Avisos
 [shop/shop_medal_029] Lotes de joyas
 [shop/shop_medal_030] Compra finalizada
 Bonificaciones aceptadas: [Digit:3digits ]/[Digit:3digits Idx="1" ]
@@ -24266,6 +25023,13 @@ Reserva de la caja de regalos.
 [shop/scout_116] Reclutamiento ×11 especial
 [shop/scout_117] Lista de regalos
 [shop/scout_118] Regalos a partir de la [Digit:2digits ].ª vez
+[shop/scout_119] Reclutamiento billete 5★
+garantizadas
+[shop/scout_120] Puedes conseguir una pareja de 5★ usando: [Name:Item ].
+[shop/scout_121] ¿Quieres usar estos objetos para
+realizar un reclutamiento billete?
+[Name:Item ] ×[Digit:2digits ]
+[shop/scout_123] Nota: Aunque el Pokémon de una pareja de compis haya evolucionado, si reclutas una pareja de compis idéntica, el Pokémon aparecerá siempre en su primera fase evolutiva.
 [shop/deck_item_sale_001] Canjear accesorios
 [shop/deck_item_sale_002] Accesorios
 [shop/deck_item_sale_003] Filtrar
@@ -24311,6 +25075,9 @@ shop_fr.lsd
 [shop/shop_top_014] Vous pouvez effectuer des échanges en utilisant vos Pièces et vos objets.
 [shop/shop_top_015] Vous pouvez récupérer des objets utiles pour l'éclosion des Œufs
 [shop/shop_top_016] Vous pouvez échanger votre équipement contre des Pièces.
+[shop/shop_top_017] Appel Duo avec Bons
+[shop/shop_top_018] Vous pouvez obtenir des Duos en utilisant des Bons, etc.
+[shop/shop_top_019] Appel Duo avec Bons
 [shop/shop_common_001] Transactions commerciales spécifiées
 [shop/shop_common_002] Lois relatives aux paiements
 [shop/shop_common_003] Limite d'achat
@@ -24375,6 +25142,7 @@ Avez-vous reçu l'autorisation de votre
 parent ou tuteur légal ?
 [shop/shop_medal_026] Alertes d'achat
 [shop/shop_medal_027] Acheté(s)
+[shop/shop_medal_028] Notes
 [shop/shop_medal_029] Pack de Diamants
 [shop/shop_medal_030] Achat effectué.
 (Nombre de bonus reçus : [Digit:3digits ]/[Digit:3digits Idx="1" ])
@@ -24565,6 +25333,18 @@ payants pour passer 11 Appels Duo ?
 [shop/scout_116] 11 Appels Duo (spécial)
 [shop/scout_117] Liste des cadeaux bonus
 [shop/scout_118] Cadeaux bonus à partir de [Digit:2digits ] appels
+[shop/scout_119] Appel Duo avec
+Bons 5★ garanti
+[shop/scout_120] Vous pouvez obtenir un Duo 5★ avec :
+[Name:Item ]
+[shop/scout_121] L'objet suivant sera utilisé pour passer
+un Appel Duo avec Bons :
+[Name:Item ] ×[Digit:2digits ]
+Voulez-vous confirmer ?
+[shop/scout_123] Si vous appelez un Duo que vous avez déjà et dont
+vous avez fait évoluer le Pokémon, le Pokémon avant
+évolution apparaîtra dans le Duo affiché dans les
+résultats.
 [shop/deck_item_sale_001] Échanger équipement
 [shop/deck_item_sale_002] Équipement
 [shop/deck_item_sale_003] Filtrer
@@ -24611,6 +25391,9 @@ shop_it.lsd
 [shop/shop_top_014] Puoi scambiare strumenti o monete con altri strumenti.
 [shop/shop_top_015] Puoi ottenere strumenti per la ricerca sulle Uova.
 [shop/shop_top_016] Puoi scambiare gli accessori con monete.
+[shop/shop_top_017] Unicerca con ticket
+[shop/shop_top_018] Puoi ottenere Unità con ticket e in altri modi.
+[shop/shop_top_019] Ricerca Unità con ticket
 [shop/shop_common_001] Transazioni commerciali
 [shop/shop_common_002] Leggi relative ai pagamenti
 [shop/shop_common_003] Limiti di acquisto
@@ -24680,6 +25463,7 @@ Hai ottenuto l'autorizzazione
 di un genitore o di chi ne fa le veci?
 [shop/shop_medal_026] Notifiche spese
 [shop/shop_medal_027] Acquistati
+[shop/shop_medal_028] Altre avvertenze
 [shop/shop_medal_029] Pacchetti gemme
 [shop/shop_medal_030] Acquistato
 Bonus ricevuto [Digit:3digits ]/[Digit:3digits Idx="1" ] volt[IT:Qty S="a" P="e" ]
@@ -24936,6 +25720,18 @@ dei Regali.
 [shop/scout_116] Unicerca speciale ×11
 [shop/scout_117] Lista dei regali
 [shop/scout_118] Regali [Digit:2digits ]ª volta e successive
+[shop/scout_119] Unicerca con ticket
+con Unità 5★ garantita
+[shop/scout_120] Puoi ottenere un'Unità 5★ tramite
+[Name:Item ]!
+[shop/scout_121] Vuoi usare i seguenti strumenti
+per effettuare un'Unicerca con ticket?
+
+[Name:Item ] ×[Digit:2digits ]
+[shop/scout_123] Anche se il Pokémon di un'Unità già ottenuta
+si è evoluto, le Unità identiche nella ricerca Unità
+saranno visualizzate con un Pokémon non ancora
+evoluto.
 [shop/deck_item_sale_001] Scambio accessori
 [shop/deck_item_sale_002] Accessori
 [shop/deck_item_sale_003] Filtra
@@ -24982,6 +25778,9 @@ shop_ja.lsd
 [shop/shop_top_014] どうぐやコインを他のどうぐと交換できます
 [shop/shop_top_015] タマゴ研究に役立つどうぐを購入できます
 [shop/shop_top_016] 装備を売却してコインと交換できます
+[shop/shop_top_017] チケット専用バディーズサーチ
+[shop/shop_top_018] チケット等を使ってバディーズを獲得できます
+[shop/shop_top_019] チケット専用バディーズサーチ
 [shop/shop_common_001] 特定商取引に基づく表示
 [shop/shop_common_002] 資金決済法に基づく表示
 [shop/shop_common_003] 課金上限／残高について
@@ -25057,6 +25856,7 @@ ONにしてください
 保護者の同意を受けましたか？
 [shop/shop_medal_026] 使いすぎ通知について
 [shop/shop_medal_027] 購入
+[shop/shop_medal_028] その他注意
 [shop/shop_medal_029] ダイヤパック
 [shop/shop_medal_030] 購入済み
 受取回数　[Digit:3digits ]/[Digit:3digits Idx="1" ]
@@ -25313,6 +26113,16 @@ Lv.[Digit:1digit ]になりました
 [shop/scout_116] スペシャル　11連バディーズサーチ
 [shop/scout_117] プレゼント一覧
 [shop/scout_118] 獲得[Digit:2digits ]回目以降のプレゼント
+[shop/scout_119] チケット専用　★５確定Ｂサーチ
+[shop/scout_120] [Name:Item ]を使用して
+★５バディーズを１組獲得！
+[shop/scout_121] [Name:Item ]を[Digit:2digits ]枚消費して
+チケット専用バディーズサーチを１回します
+
+よろしいですか？
+[shop/scout_123] ※ポケモン進化後の同一バディーズを
+既に所持している場合でも
+バディーズサーチでは進化前のバディーズが表示されます
 [shop/deck_item_sale_001] 装備売却
 [shop/deck_item_sale_002] 装備
 [shop/deck_item_sale_003] フィルター
@@ -25357,6 +26167,9 @@ shop_ko.lsd
 [shop/shop_top_014] 도구나 코인을 다른 도구와 교환할 수 있습니다
 [shop/shop_top_015] 알 연구에 도움이 되는 도구를 구입할 수 있습니다
 [shop/shop_top_016] 장비를 판매하여 코인과 교환할 수 있습니다
+[shop/shop_top_017] 티켓 전용 버디즈서치
+[shop/shop_top_018] 티켓 등을 사용해서 버디즈를 획득할 수 있습니다
+[shop/shop_top_019] 티켓 전용 버디즈서치
 [shop/shop_common_001] 일본 특정상거래법에 의거하는 표기
 [shop/shop_common_002] 일본 자금결제법에 의거하는 표기
 [shop/shop_common_003] 과금상한 및 잔액에 대하여
@@ -25429,6 +26242,7 @@ ON으로 바꿔주십시오
 보호자의 동의를 얻으셨습니까?
 [shop/shop_medal_026] 구입량 알림 설정에 대하여
 [shop/shop_medal_027] 구입
+[shop/shop_medal_028] 그 외 주의
 [shop/shop_medal_029] 다이아 팩
 [shop/shop_medal_030] 구입 완료
 받은 횟수 [Digit:3digits ]/[Digit:3digits Idx="1" ]
@@ -25699,6 +26513,15 @@ Lv.[Digit:1digit ][Kor:Particle char="ga" ] 되었습니다
 [shop/scout_116] 스페셜 11연속 버디즈서치
 [shop/scout_117] 선물 목록
 [shop/scout_118] 획득 [Digit:2digits ]번째 이후의 선물
+[shop/scout_119] 티켓 전용 ★5 확정 B서치
+[shop/scout_120] [Name:Item ][Kor:Particle char="wo" ] 사용해서
+★5 버디즈를 하나 획득!
+[shop/scout_121] [Name:Item ][Kor:Particle char="wo" ] [Digit:2digits ]장 사용하여
+티켓 전용 버디즈서치를 1회 진행합니다
+괜찮겠습니까?
+[shop/scout_123] ※포켓몬 진화 후의 같은 버디즈를
+이미 보유하고 있는 경우에도
+버디즈서치에서는 진화 전 버디즈가 표시됩니다
 [shop/deck_item_sale_001] 장비 판매
 [shop/deck_item_sale_002] 장비
 [shop/deck_item_sale_003] 필터
@@ -25743,6 +26566,9 @@ shop_zh-TW.lsd
 [shop/shop_top_014] 可用道具和金幣來交換成其他的道具
 [shop/shop_top_015] 可購買有助於蛋研究的道具
 [shop/shop_top_016] 可出售裝備來交換成金幣
+[shop/shop_top_017] 票券專用拍組搜尋
+[shop/shop_top_018] 使用票券等道具可獲得拍組
+[shop/shop_top_019] 票券專用拍組搜尋
 [shop/shop_common_001] 基於特定商業交易法顯示內容
 [shop/shop_common_002] 基於資金結算法顯示內容
 [shop/shop_common_003] 關於消費額上限／餘額
@@ -25812,6 +26638,7 @@ shop_zh-TW.lsd
 您已取得家長或監護人的同意了嗎？
 [shop/shop_medal_026] 關於遊戲消費通知
 [shop/shop_medal_027] 購買
+[shop/shop_medal_028] 其他注意事項
 [shop/shop_medal_029] 鑽石組合包
 [shop/shop_medal_030] 購買完成
 領取次數　[Digit:3digits ]/[Digit:3digits Idx="1" ]
@@ -26037,6 +26864,13 @@ shop_zh-TW.lsd
 [shop/scout_116] 特別版　連續11次拍組搜尋
 [shop/scout_117] 禮物一覽
 [shop/scout_118] 獲得第[Digit:2digits ]次之後的禮物
+[shop/scout_119] 票券專用　必得★５拍組搜尋
+[shop/scout_120] 可使用[Name:Item ]
+獲得１對★５拍組！
+[shop/scout_121] 確定要消耗[Digit:2digits ]張[Name:Item ]
+進行１次票券專用拍組搜尋嗎？
+[shop/scout_123] ※即使您持有的是寶可夢進化後的拍組
+在拍組搜尋時仍只會顯示寶可夢進化前的該拍組
 [shop/deck_item_sale_001] 出售裝備
 [shop/deck_item_sale_002] 裝備
 [shop/deck_item_sale_003] 篩選
