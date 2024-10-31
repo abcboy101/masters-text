@@ -1686,6 +1686,9 @@ nett?!
 [quest_title_1030420500104012] Vs. Anissa
 [quest_title_1030420500104014] Vs. Anissa 2
 [quest_title_1030205000600000] Der Gefährtenwettbewerb
+[quest_title_1030205510701001] Vs. Entei 1
+[quest_title_1030205520701001] Vs. Entei 2
+[quest_title_1030205530701001] Vs. Entei 3
 [quest_title_1030420400101011] Vs. Trainer aus Passio
 [quest_title_1030205040702001] Ein hartnäckiger Felsen
 
@@ -2674,6 +2677,9 @@ story_quest_name_en.lsd
 [quest_title_1030420500104012] Challenge Shauntal: Part 1
 [quest_title_1030420500104014] Challenge Shauntal: Part 2
 [quest_title_1030205000600000] Let the Contest Begin!
+[quest_title_1030205510701001] Entei’s Challenge: Part 1
+[quest_title_1030205520701001] Entei’s Challenge: Part 2
+[quest_title_1030205530701001] Entei’s Challenge: Part 3
 [quest_title_1030420400101011] Challenge Pasio’s Trainers
 [quest_title_1030205040702001] A Daunting Cliff Face
 
@@ -3665,6 +3671,9 @@ de moda
 [quest_title_1030420500104012] VS. Anís
 [quest_title_1030420500104014] VS. Anís (2)
 [quest_title_1030205000600000] ¡El concurso de compis!
+[quest_title_1030205510701001] VS. Entei
+[quest_title_1030205520701001] VS. Entei (2)
+[quest_title_1030205530701001] VS. Entei (3)
 [quest_title_1030420400101011] VS. Entrenadores de Passio
 [quest_title_1030205040702001] La enorme roca inquebrantable
 
@@ -4685,6 +4694,9 @@ Ultime)
 [quest_title_1030420500104012] Combat : Anis
 [quest_title_1030420500104014] Combat : Anis 2
 [quest_title_1030205000600000] Le Concours des Duos !
+[quest_title_1030205510701001] Combat : Entei
+[quest_title_1030205520701001] Combat : Entei 2
+[quest_title_1030205530701001] Combat : Entei 3
 [quest_title_1030420400101011] Combat : Dresseurs de Passio
 [quest_title_1030205040702001] Robustesse du grand roc
 
@@ -5671,6 +5683,9 @@ story_quest_name_it.lsd
 [quest_title_1030420500104012] VS Antemia
 [quest_title_1030420500104014] VS Antemia 2
 [quest_title_1030205000600000] Inizia la Gara delle Unità!
+[quest_title_1030205510701001] VS Entei
+[quest_title_1030205520701001] VS Entei 2
+[quest_title_1030205530701001] VS Entei 3
 [quest_title_1030420400101011] VS Allenatori di Pasio
 [quest_title_1030205040702001] Un muro di roccia incrollabile
 
@@ -6660,6 +6675,9 @@ story_quest_name_ja.lsd
 [quest_title_1030420500104012] ＶＳ　シキミ
 [quest_title_1030420500104014] ＶＳ　シキミ２
 [quest_title_1030205000600000] バディーズコンテスト開催！
+[quest_title_1030205510701001] ＶＳ　エンテイ
+[quest_title_1030205520701001] ＶＳ　エンテイ２
+[quest_title_1030205530701001] ＶＳ　エンテイ３
 [quest_title_1030420400101011] ＶＳ　パシオのトレーナー
 [quest_title_1030205040702001] 頑強なる巨岩のゆくえ
 
@@ -7648,6 +7666,9 @@ story_quest_name_ko.lsd
 [quest_title_1030420500104012] VS 망초
 [quest_title_1030420500104014] VS 망초2
 [quest_title_1030205000600000] 버디즈 콘테스트 개최!
+[quest_title_1030205510701001] VS 앤테이
+[quest_title_1030205520701001] VS 앤테이2
+[quest_title_1030205530701001] VS 앤테이3
 [quest_title_1030420400101011] VS 파시오의 트레이너
 [quest_title_1030205040702001] 완강한 거대 암석의 행방
 
@@ -8636,6 +8657,9 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030420500104012] ＶＳ　婉龍
 [quest_title_1030420500104014] ＶＳ　婉龍２
 [quest_title_1030205000600000] 拍組華麗大賽開幕！
+[quest_title_1030205510701001] ＶＳ　炎帝
+[quest_title_1030205520701001] ＶＳ　炎帝２
+[quest_title_1030205530701001] ＶＳ　炎帝３
 [quest_title_1030420400101011] ＶＳ　帕希歐的訓練家
 [quest_title_1030205040702001] 頑強巨岩的去向
 
@@ -12189,6 +12213,7 @@ common_widget_de.lsd
 [common_widget/cell_040] × [Digit:3digits ]-[Digit:3digits Idx="1" ]
 [common_widget/cell_041] Stufe
 [common_widget/cell_042] × [Digit:3digits ]
+[common_widget/cell_043] Im Gang
 [common_widget/button_001] OK
 [common_widget/button_002] Ja
 [common_widget/button_003] Nein
@@ -12563,6 +12588,7 @@ common_widget_en.lsd
 [common_widget/cell_040] ×[Digit:3digits ]–[Digit:3digits Idx="1" ]
 [common_widget/cell_041] Pool
 [common_widget/cell_042] ×[Digit:3digits ]
+[common_widget/cell_043] In progress
 [common_widget/button_001] OK
 [common_widget/button_002] Yes
 [common_widget/button_003] No
@@ -12820,7 +12846,7 @@ purchased in a single month exceeds
 certain thresholds.
 
 Would you like to enable this setting?
-<attr color=’EB1414’ size="18">You can change your preferences
+<attr color='EB1414' size="18">You can change your preferences
 at any time using the Settings menu.</attr>
 [common_widget/purchase_003] You can change your preferences at any time
 using the Settings menu.
@@ -12896,6 +12922,7 @@ common_widget_es.lsd
 [common_widget/cell_040] × [Digit:3digits ] - [Digit:3digits Idx="1" ]
 [common_widget/cell_041] Fase
 [common_widget/cell_042] × [Digit:3digits ]
+[common_widget/cell_043] En curso
 [common_widget/button_001] Vale
 [common_widget/button_002] Sí
 [common_widget/button_003] No
@@ -13075,7 +13102,7 @@ se hará más fuerte.
 [common_widget/cutin_trainer_003] [Name:TrainerName ]
 [common_widget/cutin_trainer_004] 
 [common_widget/cutin_trainer_005] Movimiento compi
-[common_widget/cutin_trainer_006] Nv. 
+[common_widget/cutin_trainer_006] Nv.[Character2:EndSpace ]
 [common_widget/cutin_trainer_007] [Digit:1digit ]
 [common_widget/cutin_trainer_008] /[Digit:1digit ]
 [common_widget/cutin_trainer_009] Movimiento compi
@@ -13245,6 +13272,7 @@ common_widget_fr.lsd
 [common_widget/cell_040] × [Digit:3digits ]-[Digit:3digits Idx="1" ]
 [common_widget/cell_041] Étape
 [common_widget/cell_042] × [Digit:3digits ]
+[common_widget/cell_043] En cours
 [common_widget/button_001] OK
 [common_widget/button_002] Oui
 [common_widget/button_003] Non
@@ -13598,6 +13626,7 @@ common_widget_it.lsd
 [common_widget/cell_040] ×[Digit:3digits ]-[Digit:3digits Idx="1" ]
 [common_widget/cell_041] Scrigno
 [common_widget/cell_042] ×[Digit:3digits ]
+[common_widget/cell_043] Sfida in corso
 [common_widget/button_001] Ok
 [common_widget/button_002] Sì
 [common_widget/button_003] No
@@ -13680,7 +13709,7 @@ mosse e il limite massimo di Unità
 in squadra sono stati ripristinati.
 [common_widget/dialog_041] La data cambia tutti i giorni alle [Name:DateTime ].
 [common_widget/dialog_043] Non puoi partire perché hai in squadra
-Unità oltre il limite giornaliero.
+Unità oltre il limite.
 [common_widget/dialog_044] Il limite di Unità in squadra verrà ripristinato al cambio data.
 [common_widget/dialog_045] Non puoi partire perché tutte le Unità
 in squadra sono esauste.
@@ -13767,7 +13796,7 @@ Vuoi andare agli episodi Unità?
 [common_widget/cutin_trainer_003] [Name:TrainerName ]
 [common_widget/cutin_trainer_004] 
 [common_widget/cutin_trainer_005] NUOVO LIVELLO
-[common_widget/cutin_trainer_006] Livello 
+[common_widget/cutin_trainer_006] Livello[Character2:EndSpace ]
 [common_widget/cutin_trainer_007] [Digit:1digit ]
 [common_widget/cutin_trainer_008] /[Digit:1digit ]
 [common_widget/cutin_trainer_009] Livello massimo
@@ -13834,7 +13863,7 @@ dell'evoluzione?
 [common_widget/sort_022] L. massimi sbloccati
 [common_widget/sort_023] Livello mosse
 [common_widget/cutin_001] NUOVO LIVELLO!
-[common_widget/cutin_002] L. 
+[common_widget/cutin_002] L.[Character2:EndSpace ]
 [common_widget/cutin_003] AUMENTO ★!
 [common_widget/account_001] Trasferimento effettuato
 [common_widget/account_002] I dati di salvataggio di backup sono
@@ -13933,6 +13962,7 @@ common_widget_ja.lsd
 [common_widget/cell_040] ×[Digit:3digits ]-[Digit:3digits Idx="1" ]
 [common_widget/cell_041] STEP
 [common_widget/cell_042] ×[Digit:3digits ]
+[common_widget/cell_043] 挑戦中
 [common_widget/button_001] OK
 [common_widget/button_002] はい
 [common_widget/button_003] いいえ
@@ -14282,6 +14312,7 @@ common_widget_ko.lsd
 [common_widget/cell_040] ×[Digit:3digits ]-[Digit:3digits Idx="1" ]
 [common_widget/cell_041] STEP
 [common_widget/cell_042] ×[Digit:3digits ]
+[common_widget/cell_043] 도전 중
 [common_widget/button_001] OK
 [common_widget/button_002] 네
 [common_widget/button_003] 아니요
@@ -14627,6 +14658,7 @@ common_widget_zh-TW.lsd
 [common_widget/cell_040] ×[Digit:3digits ]-[Digit:3digits Idx="1" ]
 [common_widget/cell_041] STEP
 [common_widget/cell_042] ×[Digit:3digits ]
+[common_widget/cell_043] 挑戰中
 [common_widget/button_001] OK
 [common_widget/button_002] 是
 [common_widget/button_003] 否
@@ -17020,6 +17052,8 @@ weiter auf der Karte fortschreiten.
 [home/global_menu_018] Gekaufte Juwelen
 [home/global_menu_019] Kostenlose Juwelen
 [home/global_menu_020] Google Play
+[home/global_menu_021] Embleme
+[home/global_menu_022] Poryfon-Menü
 [home/login_bonus_001] Login-Bonus
 [home/login_bonus_002] Logge dich täglich ein, um Boni zu erhalten!
 [home/login_bonus_003] BONUS!
@@ -17089,6 +17123,52 @@ Du hast alle Episoden erhalten!
 [home/episode_event_023] Bewegungspunkte einsetzen, um diese Episode zu erhalten?
 [home/episode_event_024] Bewegungspunkte einsetzen, um das Ziel zu erreichen?
 [home/episode_event_025] Ziel
+[home/legend_battle_001] Legendenkampf
+[home/legend_battle_002] Im Gang
+[home/legend_battle_003] Event beendet
+[home/legend_battle_005] Aktueller Kampf
+[home/legend_battle_006] Abbrechen
+[home/legend_battle_007] Es ist nicht möglich, an mehr als einem
+Legendenkampf zugleich teilzunehmen.
+
+Wenn du trotzdem an einem anderen
+Legendenkampf teilnehmen möchtest,
+musst du den aktuellen Legendenkampf
+zuerst abbrechen.
+[home/legend_battle_008] Wenn du die Teilnahme abbrichst,
+werden dein Kampffortschritt und
+Schadensbelohnungen zurückgesetzt.
+
+Willst du wirklich fortfahren?
+[home/legend_battle_009] Hinweis: Du behältst alle bereits erhaltenen Embleme
+sowie Erstboni von Schadensbelohnungen.
+[home/legend_battle_010] Dein Fortschritt wurde zurückgesetzt,
+da deine letzte Teilnahme bereits zu
+lange zurückliegt.
+[home/legend_battle_011] Schadensbelohnung
+[home/legend_battle_012] Abbrechen
+[home/legend_battle_013] Spezialbelohnung
+[home/legend_battle_014] Belohnung fürs Erledigen aller Missionen
+[home/legend_battle_016] Voraussetzung für den Erhalt
+[home/legend_battle_017] Emblem
+[home/legend_battle_018] Schadensbelohnung
+[home/legend_battle_019] Senkt das [Digit:2digits ]. Segment auf [Digit:3digits Idx="1" ] %
+[home/legend_battle_020] Standardpreis
+[home/legend_battle_021] Je nachdem, wie viel Schaden dem Boss zugefügt
+wurde, erhältst du verschiedene Belohnungen.
+[home/legend_battle_023] Hinweis: Brichst du die Teilnahme ab, wird die Anzahl
+der aufgebrochenen Gefährten zurückgesetzt.
+[home/legend_battle_024] Du hast den Legendenkampf
+gewonnen! Versuche dich am
+besten gleich am nächsten!
+[home/legend_battle_026] Dein Kampffortschritt und die 
+Schadensbelohnungen für den aktuellen
+Kampf wurden zurückgesetzt.
+[home/legend_battle_027] Alle Gefährten im Team sind
+kampfunfähig. Du kannst nicht
+aufbrechen.
+[home/legend_battle_028] Hinweis: Brichst du die Teilnahme ab, werden alle
+kampfunfähigen Gefährten vollständig geheilt.
 
 ===========
 home_en.lsd
@@ -17288,6 +17368,8 @@ longer progress through this map.
 [home/global_menu_018] Gems (Paid)
 [home/global_menu_019] Gems (Non-paid)
 [home/global_menu_020] Google Play
+[home/global_menu_021] Medals
+[home/global_menu_022] Poryphone Menu
 [home/login_bonus_001] Log-In Bonus
 [home/login_bonus_002] Log in every day to receive bonus items!
 [home/login_bonus_003] Bonus!
@@ -17360,6 +17442,50 @@ this story!
 [home/episode_event_024] Use travel tokens to reach
 this checkpoint?
 [home/episode_event_025] Checkpoint
+[home/legend_battle_001] Legendary Arena
+[home/legend_battle_002] In progress
+[home/legend_battle_003] Currently Unavailable
+[home/legend_battle_005] Current Challenge
+[home/legend_battle_006] Reset
+[home/legend_battle_007] You can take on only one challenge at
+a time in the Legendary Arena.
+
+If you’d like to take on a different
+challenge, tap the Reset button.
+[home/legend_battle_008] Resetting will erase your
+current battle status and
+damage reward progress.
+
+Are you sure you want to reset?
+[home/legend_battle_009] Note: First-time damage rewards and medal progress
+will not be reset.
+[home/legend_battle_010] The time frame to resume this
+challenge has ended.
+Your progress has been reset.
+[home/legend_battle_011] Damage Rewards
+[home/legend_battle_012] Reset
+[home/legend_battle_013] Arena Rewards
+[home/legend_battle_014] Mission Completion Rewards
+[home/legend_battle_016] Conditions
+[home/legend_battle_017] Medals
+[home/legend_battle_018] Damage Rewards
+[home/legend_battle_019] Reduce HP gauge [Digit:2digits ] to [Digit:3digits Idx="1" ]%
+[home/legend_battle_020] General Rewards
+[home/legend_battle_021] Rewards are based on how much damage is
+dealt to the boss Pokémon.
+[home/legend_battle_023] Note: Upon reset, the number of sync pairs engaged in
+this challenge will return to zero.
+[home/legend_battle_024] Congratulations!
+You triumphed in the Legendary Arena!
+
+Next, try testing your might in
+another challenge!
+[home/legend_battle_026] Your battle status and damage reward
+progress have been reset.
+[home/legend_battle_027] None of the sync pairs currently on
+your team are able to battle.
+[home/legend_battle_028] Note: Fainted Pokémon recover when the
+challenge is reset.
 
 ===========
 home_es.lsd
@@ -17560,6 +17686,8 @@ seguir avanzando por este mapa.
 [home/global_menu_018] Joyas de pago
 [home/global_menu_019] Joyas sin coste
 [home/global_menu_020] Google Play
+[home/global_menu_021] Emblemas
+[home/global_menu_022] Menú del Porygófono
 [home/login_bonus_001] Bonificación de inicio
 [home/login_bonus_002] ¡Inicia sesión a diario para conseguir regalos!
 [home/login_bonus_003] RECOMPENSA
@@ -17627,6 +17755,48 @@ episodios!
 [home/episode_event_023] ¿Quieres usar puntos de desplazamiento para obtener esta ubicación?
 [home/episode_event_024] ¿Quieres usar puntos de desplazamiento para alcanzar la meta?
 [home/episode_event_025] Meta
+[home/legend_battle_001] Combates legendarios
+[home/legend_battle_002] En curso
+[home/legend_battle_003] No disponible
+[home/legend_battle_005] Combate en curso
+[home/legend_battle_006] Restablecer
+[home/legend_battle_007] Mientras libras un combate legendario,
+no es posible acceder a otros.
+
+Si quieres disputar otros combates
+legendarios, toca "Restablecer".
+[home/legend_battle_008] Si restableces un combate, perderás el
+progreso del mismo y de los premios
+por daño que aún no hayas obtenido.
+¿Quieres continuar aun así?
+[home/legend_battle_009] Aviso: No se pueden restablecer los emblemas o los
+premios por daño que se obtienen por primera vez.
+[home/legend_battle_010] Se ha rebasado el límite de tiempo,
+por lo que se ha restablecido el
+progreso.
+[home/legend_battle_011] Premios por daño
+[home/legend_battle_012] Restablecer
+[home/legend_battle_013] Premios especiales
+[home/legend_battle_014] Premios de misión
+[home/legend_battle_016] Requisitos de obtención
+[home/legend_battle_017] Emblemas
+[home/legend_battle_018] Premios por daño
+[home/legend_battle_019] Reduce al [Digit:3digits Idx="1" ] % la [Digit:2digits ].ª barra de PS
+[home/legend_battle_020] Premios normales
+[home/legend_battle_021] Puedes obtener premios en función del daño que inflijas
+al jefe.
+[home/legend_battle_023] Aviso: Puedes elegir la opción Restablecer para que el
+número de parejas de compis usadas pase a ser cero.
+[home/legend_battle_024] ¡Enhorabuena por la victoria!
+
+Ponte a prueba con otro combate
+legendario.
+[home/legend_battle_026] Se han restablecido el progreso del
+combate y los premios por daño.
+[home/legend_battle_027] No puedes comenzar porque tu
+equipo actual está fuera de combate.
+[home/legend_battle_028] Aviso: Puedes elegir la opción Restablecer para que las
+parejas de compis debilitadas se recuperen.
 
 ===========
 home_fr.lsd
@@ -17828,6 +17998,8 @@ pouvez plus progresser sur la carte.
 [home/global_menu_018] Payants
 [home/global_menu_019] Non payants
 [home/global_menu_020] Google Play
+[home/global_menu_021] Emblèmes
+[home/global_menu_022] Menu du Porygophone
 [home/login_bonus_001] Bonus de connexion
 [home/login_bonus_002] Gagnez des récompenses en vous connectant chaque jour !
 [home/login_bonus_003] Récompense
@@ -17898,6 +18070,52 @@ Vous avez terminé tous les épisodes !
 [home/episode_event_023] Dépenser des Points de Mouvement pour obtenir ces infos de zone ?
 [home/episode_event_024] Dépenser des Points de Mouvement pour atteindre l'objectif ?
 [home/episode_event_025] Objectif
+[home/legend_battle_001] Bataille Légendaire
+[home/legend_battle_002] En cours
+[home/legend_battle_003] Indisponible
+[home/legend_battle_005] Bataille en cours
+[home/legend_battle_006] Réinitialiser
+[home/legend_battle_007] Vous ne pouvez participer qu'à une
+seule Bataille Légendaire à la fois.
+
+Pour prendre part à une autre Bataille
+Légendaire, veuillez réinitialiser celle
+en cours.
+[home/legend_battle_008] Réinitialiser effacera votre progression
+dans la bataille ainsi que
+les récompenses de dégâts que
+vous auriez pu obtenir.
+Voulez-vous réinitialiser ?
+[home/legend_battle_009] Notez que les récompenses de première fois et
+les emblèmes liés aux récompenses de dégâts ne
+seront pas réinitialisés.
+[home/legend_battle_010] Vous avez dépassé la limite
+de temps. Votre progression a
+été réinitialisée.
+[home/legend_battle_011] Récompenses de dégâts
+[home/legend_battle_012] Réinitialiser
+[home/legend_battle_013] Récompenses spéciales
+[home/legend_battle_014] Récompenses de mission
+[home/legend_battle_016] Conditions d'obtention
+[home/legend_battle_017] Emblèmes
+[home/legend_battle_018] Récompenses de dégâts
+[home/legend_battle_019] Jauge nº [Digit:2digits ] baissée à [Digit:3digits Idx="1" ] %
+[home/legend_battle_020] Autres récompenses
+[home/legend_battle_021] Vous pouvez recevoir des récompenses en fonction
+de la quantité de dégâts totaux infligée au boss.
+[home/legend_battle_023] Réinitialiser fera retomber le nombre
+de Duos utilisés à 0.
+[home/legend_battle_024] Vous avez remporté la bataille !
+
+Tentez votre chance dans la Bataille
+Légendaire suivante !
+[home/legend_battle_026] Votre progression dans la bataille ainsi
+que les récompenses de dégâts que
+vous aviez obtenues ont été
+réinitialisées.
+[home/legend_battle_027] Les Duos de votre équipe sont K.O.
+Vous ne pouvez pas partir à l'aventure.
+[home/legend_battle_028] Réinitialiser soignera les Duos qui ont été mis K.O.
 
 ===========
 home_it.lsd
@@ -18098,6 +18316,8 @@ possibile proseguire sulla mappa.
 [home/global_menu_018] Gemme a pagamento
 [home/global_menu_019] Gemme senza costo
 [home/global_menu_020] Google Play
+[home/global_menu_021] Emblemi
+[home/global_menu_022] Menu Porygofono
 [home/login_bonus_001] Bonus accesso
 [home/login_bonus_002] Accedi tutti i giorni per ottenere ricompense!
 [home/login_bonus_003] RICOMPENSE
@@ -18168,6 +18388,52 @@ Hai ottenuto tutti gli episodi!
 [home/episode_event_023] Vuoi usare i Punti Movimento per sbloccare quest'episodio?
 [home/episode_event_024] Vuoi usare i Punti Movimento per arrivare al traguardo?
 [home/episode_event_025] Traguardo
+[home/legend_battle_001] Lotte Leggendarie
+[home/legend_battle_002] In corso
+[home/legend_battle_003] Non disponibile
+[home/legend_battle_005] Lotta in corso
+[home/legend_battle_006] Ripristina
+[home/legend_battle_007] Se stai già affrontando una Lotta
+Leggendaria, non puoi accedere
+alle altre.
+
+Se vuoi affrontare un'altra Lotta
+Leggendaria, tocca il pulsante
+"Ripristina".
+[home/legend_battle_008] Se effettui il ripristino, la lotta in corso
+verrà riportata allo stato iniziale e
+i progressi relativi alle ricompense
+danni verranno azzerati.
+Vuoi procedere?
+[home/legend_battle_009] Le prime ricompense danni e gli emblemi ottenuti
+non vengono ripristinati.
+[home/legend_battle_010] I tuoi progressi sono stati ripristinati
+perché hai superato il tempo massimo
+previsto.
+[home/legend_battle_011] Ricompense danni
+[home/legend_battle_012] Ripristino
+[home/legend_battle_013] Ricompense speciali
+[home/legend_battle_014] Ricompensa missioni
+[home/legend_battle_016] Come ottenerlo
+[home/legend_battle_017] Emblemi
+[home/legend_battle_018] Ricompense danni
+[home/legend_battle_019] Riduci al [Digit:3digits Idx="1" ]% la [Digit:2digits ]ª barra PS.
+[home/legend_battle_020] Altre ricompense
+[home/legend_battle_021] Puoi ottenere ricompense in base ai danni inflitti al boss.
+[home/legend_battle_023] Puoi effettuare un ripristino per azzerare il numero
+di Unità partite.
+[home/legend_battle_024] Congratulazioni per la vittoria!
+
+Ora perché non ti metti alla prova
+con un'altra Lotta Leggendaria?
+[home/legend_battle_026] La lotta in corso è stata riportata
+allo stato iniziale e i progressi relativi
+alle ricompense danni sono stati
+azzerati.
+[home/legend_battle_027] Non puoi partire perché tutte le Unità
+in squadra sono esauste.
+[home/legend_battle_028] Puoi effettuare un ripristino per rimettere in sesto
+le Unità.
 
 ===========
 home_ja.lsd
@@ -18368,6 +18634,8 @@ Lv.[Digit:2digits ]で解放
 [home/global_menu_018] 有償
 [home/global_menu_019] 無償
 [home/global_menu_020] GooglePlay
+[home/global_menu_021] エンブレム
+[home/global_menu_022] ポリゴンフォンメニュー
 [home/login_bonus_001] ログインボーナス
 [home/login_bonus_002] 毎日ログインで特典ゲット！
 [home/login_bonus_003] GET!
@@ -18444,6 +18712,44 @@ Lv.[Digit:2digits ]で解放
 [home/episode_event_024] 移動ポイントを消費して
 ゴールしますか？
 [home/episode_event_025] ゴール
+[home/legend_battle_001] レジェンドバトル
+[home/legend_battle_002] 挑戦中
+[home/legend_battle_003] 開催期間外
+[home/legend_battle_005] 挑戦中のバトル
+[home/legend_battle_006] リセット
+[home/legend_battle_007] レジェンドバトルに挑戦している時は
+他のレジェンドバトルに挑戦できません
+
+他のレジェンドバトルに挑戦したい時は
+リセットを実行してください
+[home/legend_battle_008] リセットを実行すると
+挑戦中バトルの状態とダメージ報酬の
+進捗がリセットされます
+
+よろしいですか？
+[home/legend_battle_009] ※ダメージ報酬の初回報酬やエンブレムの
+取得状況などはリセットされません
+[home/legend_battle_010] 保持期間が切れたため
+進捗がリセットされました
+[home/legend_battle_011] ダメージ報酬受取
+[home/legend_battle_012] RESET
+[home/legend_battle_013] 特別報酬
+[home/legend_battle_014] 全ミッション達成報酬
+[home/legend_battle_016] 獲得条件
+[home/legend_battle_017] エンブレム
+[home/legend_battle_018] ダメージ報酬
+[home/legend_battle_019] [Digit:2digits ]ゲージ目を[Digit:3digits Idx="1" ]%まで減らす
+[home/legend_battle_020] 通常報酬
+[home/legend_battle_021] ボスに与えたダメージの進捗によって報酬がもらえます
+[home/legend_battle_023] ※出発数はリセットすると初期化されます
+[home/legend_battle_024] レジェンドバトルに勝利しました！
+
+次のレジェンドバトルに挑戦しましょう
+[home/legend_battle_026] 挑戦中バトルの状態とダメージ報酬の
+進捗がリセットされました
+[home/legend_battle_027] 編成されているすべてのバディーズが
+ひんしのため出発できません
+[home/legend_battle_028] ※ひんし状態はリセットすると回復します
 
 ===========
 home_ko.lsd
@@ -18643,6 +18949,8 @@ Lv.[Digit:2digits ]에서 해방
 [home/global_menu_018] 유료
 [home/global_menu_019] 무료
 [home/global_menu_020] GooglePlay
+[home/global_menu_021] 엠블럼
+[home/global_menu_022] 폴리곤폰 메뉴
 [home/login_bonus_001] 로그인 보너스
 [home/login_bonus_002] 매일 로그인하고 선물을 받자!
 [home/login_bonus_003] GET!
@@ -18721,6 +19029,45 @@ Lv.[Digit:2digits ]에서 해방
 [home/episode_event_024] 이동포인트를 사용하여
 골인하겠습니까?
 [home/episode_event_025] 골
+[home/legend_battle_001] 레전드배틀
+[home/legend_battle_002] 도전 중
+[home/legend_battle_003] 개최 기간이 아닙니다
+[home/legend_battle_005] 도전 중인 배틀
+[home/legend_battle_006] 초기화
+[home/legend_battle_007] 레전드배틀에 도전하고 있을 때는
+다른 레전드배틀에 도전할 수 없습니다
+
+다른 레전드배틀에 도전하고 싶을 때는
+초기화를 해 주십시오
+[home/legend_battle_008] 초기화하면
+도전 중인 배틀의 상태와
+데미지 보상의 진척 상황이 초기화됩니다
+
+괜찮겠습니까?
+[home/legend_battle_009] ※데미지 보상의 첫 클리어 보상이나
+엠블럼의 획득 상황 등은 초기화되지 않습니다
+[home/legend_battle_010] 유지 기간이 끝나
+진척 상황이 초기화되었습니다
+[home/legend_battle_011] 데미지 보상 받기
+[home/legend_battle_012] RESET
+[home/legend_battle_013] 특별 보상
+[home/legend_battle_014] 모든 미션 달성 보상
+[home/legend_battle_016] 획득조건
+[home/legend_battle_017] 엠블럼
+[home/legend_battle_018] 데미지 보상
+[home/legend_battle_019] [Digit:2digits ]번째 게이지를 [Digit:3digits Idx="1" ]%까지 줄인다
+[home/legend_battle_020] 일반 보상
+[home/legend_battle_021] 보스에게 준 데미지의 진척 상황에 따라 보상을 받을 수 있습니다
+[home/legend_battle_023] ※출발 가능한 버디즈 수는
+초기화하면 원래대로 돌아옵니다
+[home/legend_battle_024] 레전드배틀에서 승리했습니다!
+
+다음 레전드배틀에 도전합시다
+[home/legend_battle_026] 도전 중인 배틀의 상태와
+데미지 보상의 진척 상황이 초기화되었습니다
+[home/legend_battle_027] 편성된 모든 버디즈가 기절했기 때문에
+출발할 수 없습니다
+[home/legend_battle_028] ※기절 상태는 초기화하면 회복됩니다
 
 ===========
 home_zh-TW.lsd
@@ -18913,6 +19260,8 @@ home_zh-TW.lsd
 [home/global_menu_018] 付費
 [home/global_menu_019] 免費
 [home/global_menu_020] GooglePlay
+[home/global_menu_021] 勳章
+[home/global_menu_022] 多邊手機選單
 [home/login_bonus_001] 登入獎勵
 [home/login_bonus_002] 天天登入即可獲得獎勵！
 [home/login_bonus_003] GET!
@@ -18979,6 +19328,43 @@ home_zh-TW.lsd
 [home/episode_event_023] 要消耗移動點數來獲得劇情嗎？
 [home/episode_event_024] 要消耗移動點數來抵達終點嗎？
 [home/episode_event_025] 終點
+[home/legend_battle_001] 傳說對戰
+[home/legend_battle_002] 挑戰中
+[home/legend_battle_003] 非舉辦期間
+[home/legend_battle_005] 挑戰中的對戰
+[home/legend_battle_006] 重設
+[home/legend_battle_007] 在挑戰傳說對戰時
+無法挑戰其他的傳說對戰
+
+若想挑戰其他的傳說對戰
+請進行重設
+[home/legend_battle_008] 進行重設後
+將會復原挑戰中對戰的狀態
+和傷害報酬的進度
+
+確定要重設嗎？
+[home/legend_battle_009] ※傷害報酬的首次過關報酬和勳章獲得狀況不會重設
+[home/legend_battle_010] 因保留期間已過
+遊戲進度已重設
+[home/legend_battle_011] 領取傷害報酬
+[home/legend_battle_012] RESET
+[home/legend_battle_013] 特別報酬
+[home/legend_battle_014] 達成全部任務時的報酬
+[home/legend_battle_016] 獲得條件
+[home/legend_battle_017] 勳章
+[home/legend_battle_018] 傷害報酬
+[home/legend_battle_019] 將第[Digit:2digits ]條ＨＰ計量槽減少至[Digit:3digits Idx="1" ]%
+[home/legend_battle_020] 一般報酬
+[home/legend_battle_021] 依據給予頭目的傷害程度可以獲得報酬
+[home/legend_battle_023] ※出發組數會在重設後初始化
+[home/legend_battle_024] 傳說對戰勝利了！
+
+挑戰下一個傳說對戰吧
+[home/legend_battle_026] 挑戰中對戰的狀態
+和傷害報酬的進度已重設
+[home/legend_battle_027] 編制的所有拍組皆為瀕死狀態
+無法出發
+[home/legend_battle_028] ※瀕死狀態會在重設後回復
 
 ===========
 shop_de.lsd
