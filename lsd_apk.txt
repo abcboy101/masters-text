@@ -2273,6 +2273,83 @@ Erde 3
 Meere 3
 [quest_title_1030110000280400] Vs. Team Break (Überfall) 2
 [quest_title_1030110000280600] Vs. Team Break (Überfall) 3
+[quest_group_title_10192000000] Marc
+[quest_group_title_10193000000] Adrian
+[quest_group_title_100038] Kapitel 29
+[quest_group_title_10160000000] Tracy
+[quest_group_title_10149000000] Kiawe
+[quest_group_title_10161000000] Hala
+[quest_group_title_10117000000] Mask Royale
+[quest_title_1030305000603010] Kämpfe in Kanto-Formation
+(zum Aufwärmen)
+[quest_title_1030305000603020] Kämpfe in Kanto-Formation
+(in Fahrt)
+[quest_title_1030305000603030] Kämpfe in Kanto-Formation
+(intensiv)
+[quest_title_1030305000603040] Kämpfe in Johto-Formation
+(zum Aufwärmen)
+[quest_title_1030305000603050] Kämpfe in Johto-Formation
+(in Fahrt)
+[quest_title_1030305000603060] Kämpfe in Johto-Formation
+(intensiv)
+[quest_title_1030305000603070] Kämpfe in Hoenn-Formation
+(zum Aufwärmen)
+[quest_title_1030305000603080] Kämpfe in Hoenn-Formation
+(in Fahrt)
+[quest_title_1030305000603090] Kämpfe in Hoenn-Formation
+(intensiv)
+[quest_title_1030305000603100] Kämpfe in Sinnoh-Formation
+(zum Aufwärmen)
+[quest_title_1030305000603110] Kämpfe in Sinnoh-Formation
+(in Fahrt)
+[quest_title_1030305000603120] Kämpfe in Sinnoh-Formation
+(intensiv)
+[quest_title_1030305000604000] Urzeitliche Pokémon
+gesichtet!
+[quest_title_1030305000604010] Gefahr im Verzug
+[quest_title_1030305000604020] Ist Adrian noch zu stoppen?
+[quest_title_1030305000604030] Marcs Plan
+[quest_title_1030305000604040] Aqua und Magma verbünden
+sich!
+[quest_title_1030305000604090] Täglicher schwerer Kampf 2
+[quest_title_1030305000605010] Vs. Die Personifizierung des
+Landes
+[quest_title_1030305000605020] Vs. Die Personifizierung des
+Meeres
+[quest_title_1030305000605030] Vs. Die Personifizierung des
+Landes 2
+[quest_title_1030305000605040] Vs. Die Personifizierung des
+Meeres 2
+[quest_title_1030220192000000] Ein Tag mit Marc
+[quest_title_1030220193000000] Ein Tag mit Adrian
+[quest_title_1030110000290100] Entscheidungskampf gegen
+Lyer, Teil 1
+[quest_title_1030110000290200] Entscheidungskampf gegen
+Lyer, Teil 2
+[quest_title_1030110000290300] Vs. Lyer und sein Team
+[quest_title_1030110000290400] Entscheidungskampf gegen
+Lyer, Teil 3
+[quest_title_1030305000601010] Alolaner versammeln sich!
+[quest_title_1030305000602010] Setze Wasser-Attacken ein!
+[quest_title_1030305000602020] Setze Wasser-Attacken ein! 2
+[quest_title_1030305000602040] Setze Feuer-Attacken ein!
+[quest_title_1030305000602050] Setze Feuer-Attacken ein! 2
+[quest_title_1030305000602070] Setze Eis-Attacken ein!
+[quest_title_1030305000602080] Setze Eis-Attacken ein! 2
+[quest_title_1030305000602090] Täglicher schwerer Kampf 3
+[quest_title_1030305000602100] Setze Unlicht-Attacken ein!
+[quest_title_1030305000602110] Setze Unlicht-Attacken ein! 2
+[quest_title_1030305000602120] Täglicher schwerer Kampf 4
+[quest_title_1030305000601020] Der Reiz am Angeln
+[quest_title_1030305000601030] Feuer und Flamme für den
+Tanz
+[quest_title_1030305000601040] Ha-Ha-Hala!
+[quest_title_1030305000601050] Kräftemessen der Masken
+[quest_title_1030220160000000] Ein Tag mit Tracy
+[quest_title_1030220149000000] Ein Tag mit Kiawe
+[quest_title_1030220161000000] Ein Tag mit Hala
+[quest_title_1030220117000000] Ein Tag mit Mask Royale
+[quest_group_detail_100039] Das Halbfinale
 [quest_title_1030304001011010] Vs. G-Cis 2
 [quest_title_1030304001011020] Vs. G-Cis 3
 [quest_title_1030304001011030] Vs. G-Cis 4
@@ -3676,7 +3753,7 @@ story_quest_name_en.lsd
 [quest_title_1030302000601010] Exhibition Match Kick-Off
 [quest_title_1030302000601020] Believe to Achieve!
 [quest_title_1030302000601030] A Champion Time for All
-[quest_title_1030302000602050] Daily Super Tough Battle!
+[quest_title_1030302000602050] Daily Extreme Battle 1
 [quest_title_1030302000602060] Full-Force Battle! Round 1
 [quest_title_1030302000602070] Full-Force Battle! Round 2
 [quest_title_1030302000601040] Lost Champion
@@ -3802,6 +3879,61 @@ story_quest_name_en.lsd
 [quest_title_1030304000604070] Defeat the Legend of the Sea! Part 3
 [quest_title_1030110000280400] Team Break Ambush! Part 2
 [quest_title_1030110000280600] Team Break Ambush! Part 3
+[quest_group_title_10192000000] Maxie
+[quest_group_title_10193000000] Archie
+[quest_group_title_100038] Chapter 29
+[quest_group_title_10160000000] Lana
+[quest_group_title_10149000000] Kiawe
+[quest_group_title_10161000000] Hala
+[quest_group_title_10117000000] The Masked Royal
+[quest_title_1030305000603010] Kanto Team-Up: Beginner
+[quest_title_1030305000603020] Kanto Team-Up: Intermediate
+[quest_title_1030305000603030] Kanto Team-Up: Advanced
+[quest_title_1030305000603040] Johto Team-Up: Beginner
+[quest_title_1030305000603050] Johto Team-Up: Intermediate
+[quest_title_1030305000603060] Johto Team-Up: Advanced
+[quest_title_1030305000603070] Hoenn Team-Up: Beginner
+[quest_title_1030305000603080] Hoenn Team-Up: Intermediate
+[quest_title_1030305000603090] Hoenn Team-Up: Advanced
+[quest_title_1030305000603100] Sinnoh Team-Up: Beginner
+[quest_title_1030305000603110] Sinnoh Team-Up: Intermediate
+[quest_title_1030305000603120] Sinnoh Team-Up: Advanced
+[quest_title_1030305000604000] Super-Ancient Pokémon Spotted!
+[quest_title_1030305000604010] A Creeping Crisis
+[quest_title_1030305000604020] Stop Archie!
+[quest_title_1030305000604030] Maxie’s Objective
+[quest_title_1030305000604040] Aqua and Magma Unite!
+[quest_title_1030305000604090] Daily Extreme Battle 2
+[quest_title_1030305000605010] Fight the Land Incarnate! Part 1
+[quest_title_1030305000605020] Fight the Sea Incarnate! Part 1
+[quest_title_1030305000605030] Fight the Land Incarnate! Part 2
+[quest_title_1030305000605040] Fight the Sea Incarnate! Part 2
+[quest_title_1030220192000000] A Day with Maxie
+[quest_title_1030220193000000] A Day with Archie
+[quest_title_1030110000290100] Semifinal Showdown: Part 1
+[quest_title_1030110000290200] Semifinal Showdown: Part 2
+[quest_title_1030110000290300] Challenge Team Lear
+[quest_title_1030110000290400] Semifinal Showdown: Part 3
+[quest_title_1030305000601010] Alolans Assemble!
+[quest_title_1030305000602010] Drench with Water-Type Moves! Part 1
+[quest_title_1030305000602020] Drench with Water-Type Moves! Part 2
+[quest_title_1030305000602040] Scorch with Fire-Type Moves! Part 1
+[quest_title_1030305000602050] Scorch with Fire-Type Moves! Part 2
+[quest_title_1030305000602070] Freeze with Ice-Type Moves! Part 1
+[quest_title_1030305000602080] Freeze with Ice-Type Moves! Part 2
+[quest_title_1030305000602090] Daily Extreme Battle 3
+[quest_title_1030305000602100] Terrify with Dark-Type Moves! Part 1
+[quest_title_1030305000602110] Terrify with Dark-Type Moves! Part 2
+[quest_title_1030305000602120] Daily Extreme Battle 4
+[quest_title_1030305000601020] The Joy of Fishing!
+[quest_title_1030305000601030] A Sizzling Fire Dance!
+[quest_title_1030305000601040] Holler for Hala!
+[quest_title_1030305000601050] A Masked Face-Off!
+[quest_title_1030220160000000] A Day with Lana
+[quest_title_1030220149000000] A Day with Kiawe
+[quest_title_1030220161000000] A Day with Hala
+[quest_title_1030220117000000] A Day with the Masked Royal
+[quest_group_detail_100039] Semifinal Showdown
 [quest_title_1030304001011010] Challenge Ghetsis: Part 2
 [quest_title_1030304001011020] Challenge Ghetsis: Part 3
 [quest_title_1030304001011030] Challenge Ghetsis: Part 4
@@ -5400,6 +5532,88 @@ y Lucha 2
 [quest_title_1030304000604070] ¡Derrota al Pokémon legendario del mar! (3)
 [quest_title_1030110000280400] VS. Ataque sorpresa del Team Break (2)
 [quest_title_1030110000280600] VS. Ataque sorpresa del Team Break (3)
+[quest_group_title_10192000000] Magno
+[quest_group_title_10193000000] Aquiles
+[quest_group_title_100038] Capítulo 29
+[quest_group_title_10160000000] Nereida
+[quest_group_title_10149000000] Kiawe
+[quest_group_title_10161000000] Kaudan
+[quest_group_title_10117000000] Royale, el Enmascarado
+[quest_title_1030305000603010] Combate con un equipo de
+Kanto: Principiante
+[quest_title_1030305000603020] Combate con un equipo de
+Kanto: Intermedio
+[quest_title_1030305000603030] Combate con un equipo de
+Kanto: Avanzado
+[quest_title_1030305000603040] Combate con un equipo de
+Johto: Principiante
+[quest_title_1030305000603050] Combate con un equipo de
+Johto: Intermedio
+[quest_title_1030305000603060] Combate con un equipo de
+Johto: Avanzado
+[quest_title_1030305000603070] Combate con un equipo de
+Hoenn: Principiante
+[quest_title_1030305000603080] Combate con un equipo de
+Hoenn: Intermedio
+[quest_title_1030305000603090] Combate con un equipo de
+Hoenn: Avanzado
+[quest_title_1030305000603100] Combate con un equipo de
+Sinnoh: Principiante
+[quest_title_1030305000603110] Combate con un equipo de
+Sinnoh: Intermedio
+[quest_title_1030305000603120] Combate con un equipo de
+Sinnoh: Avanzado
+[quest_title_1030305000604000] La llegada de los Pokémon
+ancestrales
+[quest_title_1030305000604010] La amenaza que acecha Passio
+[quest_title_1030305000604020] Parando los pies a Aquiles
+[quest_title_1030305000604030] El plan de Magno
+[quest_title_1030305000604040] Una alianza entre la tierra
+y el mar
+[quest_title_1030305000604090] ¡Un combate difícil al día! (2)
+[quest_title_1030305000605010] ¡Enfréntate a la encarnación
+de la tierra!
+[quest_title_1030305000605020] ¡Enfréntate a la encarnación
+del mar!
+[quest_title_1030305000605030] ¡Enfréntate a la encarnación
+de la tierra! (2)
+[quest_title_1030305000605040] ¡Enfréntate a la encarnación
+del mar! (2)
+[quest_title_1030220192000000] Un día con Magno
+[quest_title_1030220193000000] Un día con Aquiles
+[quest_title_1030110000290100] El combate decisivo de Alik
+[quest_title_1030110000290200] El combate decisivo de Alik (2)
+[quest_title_1030110000290300] VS. Alik y su equipo
+[quest_title_1030110000290400] El combate decisivo de Alik (3)
+[quest_title_1030305000601010] ¡Reunión de compis de Alola!
+[quest_title_1030305000602010] ¡Al ataque con movimientos
+de tipo Agua!
+[quest_title_1030305000602020] ¡Al ataque con movimientos
+de tipo Agua! (2)
+[quest_title_1030305000602040] ¡Al ataque con movimientos
+de tipo Fuego!
+[quest_title_1030305000602050] ¡Al ataque con movimientos
+de tipo Fuego! (2)
+[quest_title_1030305000602070] ¡Al ataque con movimientos
+de tipo Hielo!
+[quest_title_1030305000602080] ¡Al ataque con movimientos
+de tipo Hielo! (2)
+[quest_title_1030305000602090] ¡Un combate difícil al día! (3)
+[quest_title_1030305000602100] ¡Al ataque con movimientos
+de tipo Siniestro!
+[quest_title_1030305000602110] ¡Al ataque con movimientos
+de tipo Siniestro! (2)
+[quest_title_1030305000602120] ¡Un combate difícil al día! (4)
+[quest_title_1030305000601020] El placer de la pesca
+[quest_title_1030305000601030] La danza más fogosa
+[quest_title_1030305000601040] ¡Qué caudales de emoción!
+[quest_title_1030305000601050] Choque de máscaras
+[quest_title_1030220160000000] Un día con Nereida
+[quest_title_1030220149000000] Un día con Kiawe
+[quest_title_1030220161000000] Un día con Kaudan
+[quest_title_1030220117000000] Un día con Royale,
+el Enmascarado
+[quest_group_detail_100039] El combate decisivo de Alik
 [quest_title_1030304001011010] VS. Ghechis (2)
 [quest_title_1030304001011020] VS. Ghechis (3)
 [quest_title_1030304001011030] VS. Ghechis (4)
@@ -7082,6 +7296,96 @@ légendaire des océans ! III
 de la Team Break II
 [quest_title_1030110000280600] Combat : L'attaque surprise
 de la Team Break III
+[quest_group_title_10192000000] Max
+[quest_group_title_10193000000] Arthur
+[quest_group_title_100038] Chapitre 29
+[quest_group_title_10160000000] Néphie
+[quest_group_title_10149000000] Kiawe
+[quest_group_title_10161000000] Pectorius
+[quest_group_title_10117000000] Royal Mask
+[quest_title_1030305000603010] Combat avec une équipe
+de Kanto (Débutant)
+[quest_title_1030305000603020] Combat avec une équipe
+de Kanto (Avancé)
+[quest_title_1030305000603030] Combat avec une équipe
+de Kanto (Pro)
+[quest_title_1030305000603040] Combat avec une équipe
+de Johto (Débutant)
+[quest_title_1030305000603050] Combat avec une équipe
+de Johto (Avancé)
+[quest_title_1030305000603060] Combat avec une équipe
+de Johto (Pro)
+[quest_title_1030305000603070] Combat avec une équipe
+de Hoenn (Débutant)
+[quest_title_1030305000603080] Combat avec une équipe
+de Hoenn (Avancé)
+[quest_title_1030305000603090] Combat avec une équipe
+de Hoenn (Pro)
+[quest_title_1030305000603100] Combat avec une équipe
+de Sinnoh (Débutant)
+[quest_title_1030305000603110] Combat avec une équipe
+de Sinnoh (Avancé)
+[quest_title_1030305000603120] Combat avec une équipe
+de Sinnoh (Pro)
+[quest_title_1030305000604000] Un Pokémon ancestral
+est apparu !
+[quest_title_1030305000604010] Danger imminent à Passio
+[quest_title_1030305000604020] Il faut arrêter Arthur !
+[quest_title_1030305000604030] Le plan de Max
+[quest_title_1030305000604040] Une alliance entre
+terre et mer
+[quest_title_1030305000604090] Combat difficile limité
+à une fois par jour ! II
+[quest_title_1030305000605010] Combattez l'avatar
+des continents !
+[quest_title_1030305000605020] Combattez l'avatar
+des océans !
+[quest_title_1030305000605030] Combattez l'avatar
+des continents ! II
+[quest_title_1030305000605040] Combattez l'avatar
+des océans ! II
+[quest_title_1030220192000000] Une journée avec Max
+[quest_title_1030220193000000] Une journée avec Arthur
+[quest_title_1030110000290100] Combat de demi-finale
+contre Alexis !
+[quest_title_1030110000290200] Combat de demi-finale
+contre Alexis ! II
+[quest_title_1030110000290300] Combat : Alexis
+et son équipe
+[quest_title_1030110000290400] Combat de demi-finale
+contre Alexis ! III
+[quest_title_1030305000601010] Les Duos d'Alola
+se rassemblent
+[quest_title_1030305000602010] Attaquez avec des capacités
+de type Eau !
+[quest_title_1030305000602020] Attaquez avec des capacités
+de type Eau ! II
+[quest_title_1030305000602040] Attaquez avec des capacités
+de type Feu !
+[quest_title_1030305000602050] Attaquez avec des capacités
+de type Feu ! II
+[quest_title_1030305000602070] Attaquez avec des capacités
+de type Glace !
+[quest_title_1030305000602080] Attaquez avec des capacités
+de type Glace ! II
+[quest_title_1030305000602090] Combat difficile limité
+à une fois par jour ! III
+[quest_title_1030305000602100] Attaquez avec des capacités
+de type Ténèbres !
+[quest_title_1030305000602110] Attaquez avec des capacités
+de type Ténèbres ! II
+[quest_title_1030305000602120] Combat difficile limité
+à une fois par jour ! IV
+[quest_title_1030305000601020] Les joies de la pêche
+[quest_title_1030305000601030] Une danse enflammée
+[quest_title_1030305000601040] Quel suspens !
+[quest_title_1030305000601050] Défi masqué
+[quest_title_1030220160000000] Une journée avec Néphie
+[quest_title_1030220149000000] Une journée avec Kiawe
+[quest_title_1030220161000000] Une journée avec Pectorius
+[quest_title_1030220117000000] Une journée avec Royal Mask
+[quest_group_detail_100039] Combat de demi-finale
+contre Alexis !
 [quest_title_1030304001011010] Combat : Ghetis II
 [quest_title_1030304001011020] Combat : Ghetis III
 [quest_title_1030304001011030] Combat : Ghetis IV
@@ -8596,6 +8900,61 @@ story_quest_name_it.lsd
 [quest_title_1030304000604070] Sconfiggi il leggendario Pokémon Oceano! 3
 [quest_title_1030110000280400] VS Team Break a sorpresa 2
 [quest_title_1030110000280600] VS Team Break a sorpresa 3
+[quest_group_title_10192000000] Max
+[quest_group_title_10193000000] Ivan
+[quest_group_title_100038] Capitolo 29
+[quest_group_title_10160000000] Suiren
+[quest_group_title_10149000000] Kawe
+[quest_group_title_10161000000] Hala
+[quest_group_title_10117000000] Mister Royale
+[quest_title_1030305000603010] Lotta con Unità di Kanto in squadra! (Principiante)
+[quest_title_1030305000603020] Lotta con Unità di Kanto in squadra! (Intermedio)
+[quest_title_1030305000603030] Lotta con Unità di Kanto in squadra! (Avanzato)
+[quest_title_1030305000603040] Lotta con Unità di Johto in squadra! (Principiante)
+[quest_title_1030305000603050] Lotta con Unità di Johto in squadra! (Intermedio)
+[quest_title_1030305000603060] Lotta con Unità di Johto in squadra! (Avanzato)
+[quest_title_1030305000603070] Lotta con Unità di Hoenn in squadra! (Principiante)
+[quest_title_1030305000603080] Lotta con Unità di Hoenn in squadra! (Intermedio)
+[quest_title_1030305000603090] Lotta con Unità di Hoenn in squadra! (Avanzato)
+[quest_title_1030305000603100] Lotta con Unità di Sinnoh in squadra! (Principiante)
+[quest_title_1030305000603110] Lotta con Unità di Sinnoh in squadra! (Intermedio)
+[quest_title_1030305000603120] Lotta con Unità di Sinnoh in squadra! (Avanzato)
+[quest_title_1030305000604000] L'arrivo dei Pokémon millenari
+[quest_title_1030305000604010] La minaccia che incombe su Pasio
+[quest_title_1030305000604020] Dobbiamo fermare Ivan!
+[quest_title_1030305000604030] Le mire di Max
+[quest_title_1030305000604040] Max e Ivan: fronte unito!
+[quest_title_1030305000604090] Lotta ad alta difficoltà (una al giorno)! 2
+[quest_title_1030305000605010] Affronta il Pokémon della terra!
+[quest_title_1030305000605020] Affronta il Pokémon del mare!
+[quest_title_1030305000605030] Affronta il Pokémon della terra! 2
+[quest_title_1030305000605040] Affronta il Pokémon del mare! 2
+[quest_title_1030220192000000] Un giorno con Max
+[quest_title_1030220193000000] Un giorno con Ivan
+[quest_title_1030110000290100] Sfida decisiva con Kelian (parte 1)
+[quest_title_1030110000290200] Sfida decisiva con Kelian (parte 2)
+[quest_title_1030110000290300] VS Kelian & co.
+[quest_title_1030110000290400] Sfida decisiva con Kelian (parte 3)
+[quest_title_1030305000601010] Unità di Alola a raccolta!
+[quest_title_1030305000602010] Attacca con mosse di tipo Acqua!
+[quest_title_1030305000602020] Attacca con mosse di tipo Acqua! 2
+[quest_title_1030305000602040] Attacca con mosse di tipo Fuoco!
+[quest_title_1030305000602050] Attacca con mosse di tipo Fuoco! 2
+[quest_title_1030305000602070] Attacca con mosse di tipo Ghiaccio!
+[quest_title_1030305000602080] Attacca con mosse di tipo Ghiaccio! 2
+[quest_title_1030305000602090] Lotta ad alta difficoltà (una al giorno)! 3
+[quest_title_1030305000602100] Attacca con mosse di tipo Buio!
+[quest_title_1030305000602110] Attacca con mosse di tipo Buio! 2
+[quest_title_1030305000602120] Lotta ad alta difficoltà (una al giorno)! 4
+[quest_title_1030305000601020] Le gioie della pesca
+[quest_title_1030305000601030] Scontro infuocato a colpi di danza
+[quest_title_1030305000601040] Uno sviluppo interessante
+[quest_title_1030305000601050] Sfida mascherata!
+[quest_title_1030220160000000] Un giorno con Suiren
+[quest_title_1030220149000000] Un giorno con Kawe
+[quest_title_1030220161000000] Un giorno con Hala
+[quest_title_1030220117000000] Un giorno con Mister Royale
+[quest_group_detail_100039] Sfida decisiva con Kelian
 [quest_title_1030304001011010] VS Ghecis 2
 [quest_title_1030304001011020] VS Ghecis 3
 [quest_title_1030304001011030] VS Ghecis 4
@@ -10126,6 +10485,61 @@ story_quest_name_ja.lsd
 [quest_title_1030304000604070] 海の伝説ポケモンを倒せ！３
 [quest_title_1030110000280400] ＶＳ　奇襲するブレイク団２
 [quest_title_1030110000280600] ＶＳ　奇襲するブレイク団３
+[quest_group_title_10192000000] マツブサ
+[quest_group_title_10193000000] アオギリ
+[quest_group_title_100038] 第２９章
+[quest_group_title_10160000000] スイレン
+[quest_group_title_10149000000] カキ
+[quest_group_title_10161000000] ハラ
+[quest_group_title_10117000000] ロイヤルマスク
+[quest_title_1030305000603010] カントー編成でバトル！・初級
+[quest_title_1030305000603020] カントー編成でバトル！・中級
+[quest_title_1030305000603030] カントー編成でバトル！・上級
+[quest_title_1030305000603040] ジョウト編成でバトル！・初級
+[quest_title_1030305000603050] ジョウト編成でバトル！・中級
+[quest_title_1030305000603060] ジョウト編成でバトル！・上級
+[quest_title_1030305000603070] ホウエン編成でバトル！・初級
+[quest_title_1030305000603080] ホウエン編成でバトル！・中級
+[quest_title_1030305000603090] ホウエン編成でバトル！・上級
+[quest_title_1030305000603100] シンオウ編成でバトル！・初級
+[quest_title_1030305000603110] シンオウ編成でバトル！・中級
+[quest_title_1030305000603120] シンオウ編成でバトル！・上級
+[quest_title_1030305000604000] 出現！　超古代ポケモン！
+[quest_title_1030305000604010] パシオに忍び寄る危機
+[quest_title_1030305000604020] アオギリを止めろ！
+[quest_title_1030305000604030] マツブサの狙い！
+[quest_title_1030305000604040] 共闘！　海と陸のリーダー！
+[quest_title_1030305000604090] １日１回限定・高難度バトル！２
+[quest_title_1030305000605010] 大地の化身に挑め！
+[quest_title_1030305000605020] 海の化身に挑め！
+[quest_title_1030305000605030] 大地の化身に挑め！２
+[quest_title_1030305000605040] 海の化身に挑め！２
+[quest_title_1030220192000000] とある日のマツブサ
+[quest_title_1030220193000000] とある日のアオギリ
+[quest_title_1030110000290100] 最終決戦！　ライヤー！　前編
+[quest_title_1030110000290200] 最終決戦！　ライヤー！　中編
+[quest_title_1030110000290300] ＶＳ　チーム・ライヤー
+[quest_title_1030110000290400] 最終決戦！　ライヤー！　後編
+[quest_title_1030305000601010] アローラのみんなが集まった！
+[quest_title_1030305000602010] みずのわざで攻めよう！
+[quest_title_1030305000602020] みずのわざで攻めよう！２
+[quest_title_1030305000602040] ほのおのわざで攻めよう！
+[quest_title_1030305000602050] ほのおのわざで攻めよう！２
+[quest_title_1030305000602070] こおりのわざで攻めよう！
+[quest_title_1030305000602080] こおりのわざで攻めよう！２
+[quest_title_1030305000602090] １日１回限定・高難度バトル！３
+[quest_title_1030305000602100] あくのわざで攻めよう！
+[quest_title_1030305000602110] あくのわざで攻めよう！２
+[quest_title_1030305000602120] １日１回限定・高難度バトル！４
+[quest_title_1030305000601020] 釣りの楽しみ教えます！
+[quest_title_1030305000601030] 燃えあがれダンスの炎！
+[quest_title_1030305000601040] ハラハラしますな！
+[quest_title_1030305000601050] 念願の仮面対決！
+[quest_title_1030220160000000] とある日のスイレン
+[quest_title_1030220149000000] とある日のカキ
+[quest_title_1030220161000000] とある日のハラ
+[quest_title_1030220117000000] とある日のロイヤルマスク
+[quest_group_detail_100039] 最終決戦！　ライヤー！
 [quest_title_1030304001011010] ＶＳ　ゲーチス２
 [quest_title_1030304001011020] ＶＳ　ゲーチス３
 [quest_title_1030304001011030] ＶＳ　ゲーチス４
@@ -11655,6 +12069,61 @@ story_quest_name_ko.lsd
 [quest_title_1030304000604070] 바다의 전설 포켓몬을 쓰러뜨려라!3
 [quest_title_1030110000280400] VS 브레이크단의 기습2
 [quest_title_1030110000280600] VS 브레이크단의 기습3
+[quest_group_title_10192000000] 마적
+[quest_group_title_10193000000] 아강
+[quest_group_title_100038] 제29장
+[quest_group_title_10160000000] 수련
+[quest_group_title_10149000000] 키아웨
+[quest_group_title_10161000000] 할라
+[quest_group_title_10117000000] 로열마스크
+[quest_title_1030305000603010] 관동지방 편성으로 배틀! 초급
+[quest_title_1030305000603020] 관동지방 편성으로 배틀! 중급
+[quest_title_1030305000603030] 관동지방 편성으로 배틀! 상급
+[quest_title_1030305000603040] 성도지방 편성으로 배틀! 초급
+[quest_title_1030305000603050] 성도지방 편성으로 배틀! 중급
+[quest_title_1030305000603060] 성도지방 편성으로 배틀! 상급
+[quest_title_1030305000603070] 호연지방 편성으로 배틀! 초급
+[quest_title_1030305000603080] 호연지방 편성으로 배틀! 중급
+[quest_title_1030305000603090] 호연지방 편성으로 배틀! 상급
+[quest_title_1030305000603100] 신오지방 편성으로 배틀! 초급
+[quest_title_1030305000603110] 신오지방 편성으로 배틀! 중급
+[quest_title_1030305000603120] 신오지방 편성으로 배틀! 상급
+[quest_title_1030305000604000] 출현! 초 고대포켓몬!
+[quest_title_1030305000604010] 파시오에 다가오는 위기
+[quest_title_1030305000604020] 아강을 막아라!
+[quest_title_1030305000604030] 마적의 목적!
+[quest_title_1030305000604040] 협동! 바다와 대지의 리더!
+[quest_title_1030305000604090] 1일 1회 한정 고난도 배틀!2
+[quest_title_1030305000605010] 대지의 화신에게 도전하라!
+[quest_title_1030305000605020] 바다의 화신에게 도전하라!
+[quest_title_1030305000605030] 대지의 화신에게 도전하라!2
+[quest_title_1030305000605040] 바다의 화신에게 도전하라!2
+[quest_title_1030220192000000] 마적의 어느 날
+[quest_title_1030220193000000] 아강의 어느 날
+[quest_title_1030110000290100] 최종 결전! 라이어! 전편
+[quest_title_1030110000290200] 최종 결전! 라이어! 중편
+[quest_title_1030110000290300] VS 팀 라이어
+[quest_title_1030110000290400] 최종 결전! 라이어! 후편
+[quest_title_1030305000601010] 알로라, 모두 모였다!
+[quest_title_1030305000602010] 물타입 기술로 공격하자!
+[quest_title_1030305000602020] 물타입 기술로 공격하자!2
+[quest_title_1030305000602040] 불꽃타입 기술로 공격하자!
+[quest_title_1030305000602050] 불꽃타입 기술로 공격하자!2
+[quest_title_1030305000602070] 얼음타입 기술로 공격하자!
+[quest_title_1030305000602080] 얼음타입 기술로 공격하자!2
+[quest_title_1030305000602090] 1일 1회 한정 고난도 배틀!3
+[quest_title_1030305000602100] 악타입 기술로 공격하자!
+[quest_title_1030305000602110] 악타입 기술로 공격하자!2
+[quest_title_1030305000602120] 1일 1회 한정 고난도 배틀!4
+[quest_title_1030305000601020] 낚시의 즐거움을 알려드리죠!
+[quest_title_1030305000601030] 타올라라, 댄스의 불꽃!
+[quest_title_1030305000601040] 두근두근하구나!
+[quest_title_1030305000601050] 염원의 가면 대결!
+[quest_title_1030220160000000] 수련의 어느 날
+[quest_title_1030220149000000] 키아웨의 어느 날
+[quest_title_1030220161000000] 할라의 어느 날
+[quest_title_1030220117000000] 로열마스크의 어느 날
+[quest_group_detail_100039] 최종 결전! 라이어!
 [quest_title_1030304001011010] VS 게치스2
 [quest_title_1030304001011020] VS 게치스3
 [quest_title_1030304001011030] VS 게치스4
@@ -13124,7 +13593,7 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030303000701011] ＶＳ　龍捲雲
 [quest_title_1030303010701021] ＶＳ　龍捲雲２
 [quest_title_1030303020701031] ＶＳ　龍捲雲３
-[quest_title_1030303000601000] 找蛋就給我們吧
+[quest_title_1030303000601000] 找蛋就交給我們吧
 [quest_title_1030303000601010] 蛋中有蛋！？
 [quest_title_1030303000601020] 狂熱的找蛋活動！
 [quest_title_1030303000601030] 尋找寶可夢蛋　尋找波克比
@@ -13184,6 +13653,61 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030304000604070] 打倒海洋的傳說的寶可夢！３
 [quest_title_1030110000280400] ＶＳ　發動奇襲的破壞隊２
 [quest_title_1030110000280600] ＶＳ　發動奇襲的破壞隊３
+[quest_group_title_10192000000] 赤焰松
+[quest_group_title_10193000000] 水梧桐
+[quest_group_title_100038] 第２９章
+[quest_group_title_10160000000] 水蓮
+[quest_group_title_10149000000] 卡奇
+[quest_group_title_10161000000] 哈拉
+[quest_group_title_10117000000] 皇家蒙面人
+[quest_title_1030305000603010] 編制關都隊伍來對戰！・初級
+[quest_title_1030305000603020] 編制關都隊伍來對戰！・中級
+[quest_title_1030305000603030] 編制關都隊伍來對戰！・高級
+[quest_title_1030305000603040] 編制城都隊伍來對戰！・初級
+[quest_title_1030305000603050] 編制城都隊伍來對戰！・中級
+[quest_title_1030305000603060] 編制城都隊伍來對戰！・高級
+[quest_title_1030305000603070] 編制豐緣隊伍來對戰！・初級
+[quest_title_1030305000603080] 編制豐緣隊伍來對戰！・中級
+[quest_title_1030305000603090] 編制豐緣隊伍來對戰！・高級
+[quest_title_1030305000603100] 編制神奧隊伍來對戰！・初級
+[quest_title_1030305000603110] 編制神奧隊伍來對戰！・中級
+[quest_title_1030305000603120] 編制神奧隊伍來對戰！・高級
+[quest_title_1030305000604000] 超古代寶可夢現身！
+[quest_title_1030305000604010] 悄悄逼近帕希歐的危機
+[quest_title_1030305000604020] 阻止水梧桐！
+[quest_title_1030305000604030] 赤焰松的目的！
+[quest_title_1030305000604040] 並肩作戰！海與陸地的老大！
+[quest_title_1030305000604090] １天僅限１次的高難度對戰！２
+[quest_title_1030305000605010] 挑戰大地的化身！
+[quest_title_1030305000605020] 挑戰海的化身！
+[quest_title_1030305000605030] 挑戰大地的化身！２
+[quest_title_1030305000605040] 挑戰海的化身！２
+[quest_title_1030220192000000] 某日的赤焰松
+[quest_title_1030220193000000] 某日的水梧桐
+[quest_title_1030110000290100] 與鎯琊的最終決戰！　前篇
+[quest_title_1030110000290200] 與鎯琊的最終決戰！　中篇
+[quest_title_1030110000290300] ＶＳ　鎯琊隊
+[quest_title_1030110000290400] 與鎯琊的最終決戰！　後篇
+[quest_title_1030305000601010] 阿羅拉的大家齊聚一堂！
+[quest_title_1030305000602010] 用水屬性招式猛攻吧！
+[quest_title_1030305000602020] 用水屬性招式猛攻吧！２
+[quest_title_1030305000602040] 用火屬性招式猛攻吧！
+[quest_title_1030305000602050] 用火屬性招式猛攻吧！２
+[quest_title_1030305000602070] 用冰屬性招式猛攻吧！
+[quest_title_1030305000602080] 用冰屬性招式猛攻吧！２
+[quest_title_1030305000602090] １天僅限１次的高難度對戰！３
+[quest_title_1030305000602100] 用惡屬性招式猛攻吧！
+[quest_title_1030305000602110] 用惡屬性招式猛攻吧！２
+[quest_title_1030305000602120] １天僅限１次的高難度對戰！４
+[quest_title_1030305000601020] 讓我分享釣魚的樂趣！
+[quest_title_1030305000601030] 燃燒吧！舞蹈之焰！
+[quest_title_1030305000601040] 緊張地哇哇大叫！
+[quest_title_1030305000601050] 期待已久的蒙面對決！
+[quest_title_1030220160000000] 某日的水蓮
+[quest_title_1030220149000000] 某日的卡奇
+[quest_title_1030220161000000] 某日的哈拉
+[quest_title_1030220117000000] 某日的皇家蒙面人
+[quest_group_detail_100039] 與鎯琊的最終決戰！
 [quest_title_1030304001011010] ＶＳ　魁奇思２
 [quest_title_1030304001011020] ＶＳ　魁奇思３
 [quest_title_1030304001011030] ＶＳ　魁奇思４
@@ -13665,6 +14189,43 @@ seine typische Gelassenheit einem glühenden Siegeswillen.
 dessen wahrer Anführer. Er ist eiskalt, berechnend und ein
 Meister der Manipulation. Einst unternahm er den Versuch,
 N zu benutzen, um die Weltherrschaft zu erlangen.
+[10117000000] Ein berühmter Profi-Wrestler aus der Alola-Region, der es
+sich zum Ziel gesetzt hat, das Vermächtnis des Battle
+Royale weiterzuführen. Als Zeichen der Unterstützung
+tragen seine Fans bei seinen Kämpfen Masken.
+[10192000000] Der Anführer von Team Magma träumt davon, eine ideale
+Welt für die Menschheit zu erschaffen. Sein Denken stützt
+sich auf logische Analysen. Er ist bereit, für die Erreichung
+seiner Ziele Opfer zu bringen.
+[10193000000] Der Anführer von Team Aqua strebt eine ideale Welt für
+Pokémon an. Mit seiner wilden, aufgeschlossenen Art hat
+er sich das Vertrauen seiner Untergebenen verdient.
+[10161000000] Hala ist Talis Großvater und der Inselkönig von
+Mele-Mele in Alola. Er ist ein erstklassiger Trainer und
+Meister des Sumokampfs im Alola-Stil.
+[10160000000] Tracy ist eine passionierte Anglerin und einer der Captains
+der Insel Akala. Sie liebt ihre Familie und unterstützt diese
+bei diversen häuslichen Pflichten sowie beim Aufpassen
+auf ihre beiden jüngeren Zwillingsschwestern.
+[10149000000] Kiawe ist ein aufstrebender Tänzer, der von einer
+professionellen Karriere träumt. Er studiert den
+traditionellen Tanz, der in Alola seit Generationen
+weitergegeben wird.
+[10008000001] Eine elegante Arenaleiterin mit einer Schwäche für
+liebenswerte und schöne Pflanzen-Pokémon. In Kanto
+lehrt sie die Kunst des Blumensteckens.
+[10035000001] Dieser Experte für Elektro-Pokémon ist ein umsichtiger
+Arenaleiter, der seine Arena mit diversen Mechanismen
+sichert. Er liebt es, Gegner im Kampf zu paralysieren.
+[10148000001] Dieser Arenaleiter kämpft mit Pokémon vom Typ Geist und
+kann durch sein geheimes Training in der Arena von Teak
+City sehen, was normalen Menschen verborgen bleibt.
+[10062000001] Ein intelligentes und ruhiges Mitglied der Top Vier mit
+einer Leidenschaft für Pokémon. Wilde, harte Unlicht-
+Pokémon haben es ihr besonders angetan.
+[10129000001] Eine geheimnisvolle Frau mit einem verwegenen Lächeln.
+In der Hoenn-Region hat sie versucht, ihre Mission als
+Wissenshüterin des Volks der Meteoraner zu erfüllen.
 
 ===========
 trainer_description_en.lsd
@@ -14117,6 +14678,39 @@ to a fiery determination to win once he starts to battle.
 [10195000000] The mastermind behind Team Plasma and its true leader.
 He is a cold and calculating master manipulator who once
 tried to use N to take over the world.
+[10117000000] A famous pro wrestler from the Alola region whose
+mission is to carry on the legacy of the Battle Royal. His
+fans wear masks to his battles to show their support.
+[10192000000] As the leader of Team Magma, Maxie dreams of creating
+an ideal world for humans. He’s a logical thinker and
+willing to make sacrifices to accomplish his objectives.
+[10193000000] As the leader of Team Aqua, Archie aims to create an
+ideal world for Pokémon. He has a wild, outgoing
+personality and has earned the trust of his subordinates.
+[10161000000] Hala is Hau’s grandfather and the Island Kahuna of
+Melemele Island in Alola. He’s a top-class Trainer and a
+master of Alolan sumo.
+[10160000000] Lana is an avid fisher and one of the captains of Akala
+Island. She loves her family and is constantly helping the
+family business or babysitting her twin sisters.
+[10149000000] Kiawe is a captain of Akala Island and an aspiring dancer
+who hopes to go pro one day. With Marowak, he studies
+the traditional dances passed down in the Alola region. 
+[10008000001] A cute Gym Leader who loves Grass-type Pokémon,
+this well-mannered Trainer teaches flower arrangement
+in Kanto.
+[10035000001] This cautious Electric-type Gym Leader sets a lot of traps
+in his Gym. He excels at paralyzing his opponents
+in battle.
+[10148000001] This Ghost-type Gym Leader has secretly trained at the
+Ecruteak City Gym his entire life. As a result, he can now
+see what others cannot.
+[10062000001] Beneath her calm, cerebral exterior, a passion for
+Pokémon lurks in this Elite Four member’s heart.
+She likes wild and tough Dark-type Pokémon.
+[10129000001] This mysterious Trainer journeyed throughout the Hoenn
+region to carry out her mission as the Lorekeeper of the
+Draconid people.
 
 ===========
 trainer_description_es.lsd
@@ -14657,6 +15251,42 @@ completo cuando pelea por la victoria.
 [10195000000] Este ser cruel y manipulador es el verdadero cerebro que
 se esconde tras el Equipo Plasma. Hace un tiempo intentó
 dominar el mundo utilizando a N como títere.
+[10117000000] Este proverbial luchador de Alola se ha puesto como
+misión dar a conocer la gloriosa tradición del Battle
+Royale. Sus seguidores se ponen máscaras para animarle
+durante los combates.
+[10192000000] El líder del Equipo Magma sueña con crear un mundo
+a la medida de la humanidad. Es un gran estratega,
+dispuesto a sacrificarlo todo para alcanzar sus fines.
+[10193000000] El líder del Equipo Aqua quiere construir un mundo ideal
+para los Pokémon. Su carácter extrovertido le ha servido
+para ganarse la confianza de sus subalternos.
+[10161000000] El Kahuna de Melemele es a su vez el abuelo de Tilo.
+Su pericia lo convierte en uno de los máximos exponentes
+de la lucha tradicional de Alola.
+[10160000000] Esta Capitana de Akala es una extraordinaria pescadora,
+como su padre. Es bastante hogareña y le encanta pasar
+tiempo en familia o cuidar de sus dos hermanas gemelas.
+[10149000000] Este Capitán de Akala es además aspirante a bailarín
+profesional. Se dedica a aprender los pasos de baile
+tradicionales de la región de Alola.
+[10008000001] Entrenadora que adora a los Pokémon de tipo Planta e
+impartir clases de arreglos florales. Ejerce como Líder
+de Gimnasio en Kanto.
+[10035000001] Experto en tipo Eléctrico, este cauto Líder tiene
+un gimnasio lleno de obstáculos. En combates,
+su especialidad consiste en paralizar al rival.
+[10148000001] Este líder especializado en tipo Fantasma ha entrenado
+muchas veces en secreto en el Gimnasio de Iris, por lo
+que ahora es capaz de ver lo que otros no pueden.
+[10062000001] Miembro del Alto Mando, inteligente y tranquila, que
+siente una gran pasión por los Pokémon. Muestra
+predilección por el tipo Siniestro, debido a su
+naturaleza fuerte y salvaje.
+[10129000001] Esta joven de sonrisa enigmática y envuelta en misterio
+es la Cronista heredera del legado del Clan Meteoro.
+Viajó por la región de Hoenn con el objetivo de cumplir
+la misión que le fue encomendada.
 
 ===========
 trainer_description_fr.lsd
@@ -15121,6 +15751,44 @@ D'ordinaire amical, il est impitoyable en combat.
 [10195000000] L'homme qui dirigeait la Team Plasma dans l'ombre.
 Cruel et manipulateur, il a, par le passé,
 essayé de dominer le monde en se servant de N.
+[10117000000] Un Catcheur célèbre de la région d'Alola, dont la mission
+est de préserver l'héritage de la Bataille Royale.
+Ses fans portent des masques lors de ses combats
+pour afficher leur soutien.
+[10192000000] Le leader de la Team Magma rêve de créer un monde
+parfait pour l'humanité. Il possède un esprit pratique
+et n'hésite pas à faire des sacrifices pour atteindre
+ses objectifs.
+[10193000000] Le leader de la Team Aqua souhaite créer un monde
+parfait pour les Pokémon. Il est extraverti et possède
+une forte personnalité, ce qui lui a permis de créer
+un lien de confiance avec ses subalternes.
+[10161000000] Ce Doyen de l'île de Mele-Mele d'Alola est aussi
+le grand-père de Tili. Dresseur de très haut niveau,
+il est également expert en lutte traditionnelle d'Alola.
+[10160000000] Cette Capitaine de l'île d'Akala est passionnée de pêche.
+Elle ne manque jamais une occasion d'aider sa famille
+ou de s'occuper de ses petites sœurs.
+[10149000000] Ce Capitaine d'Akala est passionné de danse
+et veut un jour en faire son métier. Accompagné
+de son Ossatueur, il étudie les danses traditionnelles
+d'Alola transmises de génération en génération.
+[10008000001] Une élégante Championne d'Arène qui trouve
+tous les Pokémon Plante adorables et donne
+des cours d'arrangement floral à Kanto.
+[10035000001] Prudent, ce Champion de type Électrik a truffé
+son Arène de pièges divers. Il réussit souvent
+à paralyser ses adversaires.
+[10148000001] Champion d'Arène du type Spectre, Mortimer passe son
+temps à l'Arène de Rosalia à suivre son entraînement
+secret ! Il est ainsi capable de voir ce que les autres
+ne voient pas.
+[10062000001] Intelligente et calme, cette membre de Conseil 4
+voue une passion dévorante aux Pokémon Ténèbres
+les plus sauvages.
+[10129000001] Une jeune fille mystérieuse au sourire énigmatique. Elle
+fera tout pour remplir sa mission en tant que Gardienne
+du Savoir du Peuple du Météore.
 
 ===========
 trainer_description_it.lsd
@@ -15613,6 +16281,43 @@ determinazione non appena comincia una lotta.
 [10195000000] La mente dietro i piani malvagi del Team Plasma.
 Un crudele manipolatore, ha cercato di dominare il mondo
 manovrando N come un burattino.
+[10117000000] Un celebre wrestler di Alola la cui missione è fare
+conoscere al mondo lo stile della Battle Royale.
+I suoi tifosi indossano una maschera come la sua
+per fare il tifo ai suoi incontri.
+[10192000000] Capo del Team Magma, sogna di creare un mondo
+ideale per l'umanità. Avido e calcolatore, per lui il fine
+giustifica sempre i mezzi.
+[10193000000] Capo del Team Idro, sogna di creare un mondo ideale
+per i Pokémon. Il suo carattere energico ed estroverso
+gli ha permesso di guadagnarsi la fiducia dei suoi seguaci.
+[10161000000] Nonno di Hau e Kahuna dell'isola di Mele Mele,
+è un Allenatore di prima categoria e un vero prodigio
+nell'antica arte della lotta tradizionale di Alola.
+[10160000000] Suiren è un'abile pescatrice, nonché una dei Capitani
+dell'isola di Akala, nella regione di Alola. Adora
+la sua famiglia e si prende molta cura delle sue due
+sorelle minori.
+[10149000000] Uno dei Capitani dell'isola di Akala ad Alola, pratica
+la danza tradizionale della sua regione. Il suo sogno
+è diventare un danzatore del fuoco professionista.
+[10008000001] Adorabile Capopalestra con un debole per i Pokémon
+di tipo Erba più carini. A Kanto vanno molto i suoi corsi
+di composizione floreale.
+[10035000001] Capopalestra esperto del tipo Elettro e in mosse
+paralizzanti. È molto cauto, tanto che la sua Palestra
+è piena di dispositivi.
+[10148000001] Capopalestra specializzato in Pokémon di tipo Spettro.
+Grazie ai lunghi allenamenti segreti nella Palestra
+di Amarantopoli, riesce ora a vedere ciò che gli altri
+non vedono.
+[10062000001] Superquattro in apparenza calma e razionale, ma che
+cela una grande passione per i Pokémon.
+In particolare adora quelli di tipo Buio per l'aspetto
+"duro e ribelle".
+[10129000001] Una ragazza misteriosa dal sorriso sprezzante. A Hoenn
+ha cercato di portare a termine la sua missione in qualità
+di Custode del segreto del popolo delle meteore.
 
 ===========
 trainer_description_ja.lsd
@@ -16064,6 +16769,39 @@ trainer_description_ja.lsd
 [10195000000] プラズマ団を　動かす　実質的な　ボスである男。
 かつては　Ｎを操って　世界の支配を　企んだ。
 人心掌握に　たけており　とても冷酷な　性格。
+[10117000000] アローラ地方では　有名な　プロレスラー。
+バトルロイヤルの　伝道師で　みんなの　人気者。
+ファンは　みんな　覆面を被って　試合を　応援する。
+[10192000000] 人類にとっての　理想の世界を　追い求める
+マグマ団の　リーダー。目的のためなら　犠牲がでても
+仕方がないと　考える　冷徹な思想の　持ち主。
+[10193000000] ポケモンに　とっての　理想郷を　築くという　目的を
+追い求める　アクア団の　リーダー。豪快な性格で
+部下たちからの　信頼も　厚い。
+[10161000000] アローラ地方にある　メレメレ島の　しまキングで
+ハウのおじいさん。アローラ地方で　トップクラスの
+実力の持ち主。アローラ相撲の　親方でも　ある。
+[10160000000] アローラ地方　アーカラ島の　キャプテンの　ひとり。
+漁師の娘で　かなりのつり好き。家族思いで　普段は
+家業を手伝ったり　双子の妹たちの　面倒をみている。
+[10149000000] アローラ地方　アーカラ島の　キャプテンの　ひとり。
+プロのダンサーを　目指している。ガラガラと　ともに
+アローラ地方に　伝わる踊りを　学んでいる。
+[10008000001] きれいで　かわいらしい　くさポケモンが　好きな
+ジムリーダー。　カントーでは　いけ花教室を
+開いている　おしとやかな　トレーナーだ。
+[10035000001] 用心深い性格で　ジムに　たくさんの　しかけを
+ほどこしている　でんきタイプの　ジムリーダー。
+相手を　まひ　させる　戦いが　得意。
+[10148000001] ゴーストタイプの　ジムリーダー。
+エンジュジムで　秘密の　修行を　積み重ね
+人には　みえないものが　みえるようになった。
+[10062000001] 落ち着いた雰囲気を持つ　理知的な　女性の四天王だが
+心の中には　ポケモンへの　熱い情熱を　秘めている。
+ワイルドで　タフな　あくポケモンが　好みのタイプ。
+[10129000001] 不敵な　笑みを　浮かべる　謎の　多い　少女。
+ホウエン地方では　流星の民の　伝承者として
+使命を　果たすために　行動していた。
 
 ===========
 trainer_description_ko.lsd
@@ -16515,6 +17253,39 @@ trainer_description_ko.lsd
 [10195000000] 플라스마단을 움직이는 실질적인 보스인 남자.
 과거에는 N을 조종해 세계 정복을 꿈꿨다.
 인심 장악에 뛰어나고 매우 냉정한 성격이다.
+[10117000000] 알로라지방에서는 유명한 프로레슬러.
+배틀로열의 전도사이자 모두에게 인기가 있다.
+팬들은 다들 가면을 쓰고 시합을 응원한다.
+[10192000000] 인류에게 이상적인 세계를 추구하는 마그마단의 리더.
+목적을 위해서라면 희생이 생기더라도
+어쩔 수 없다고 생각하는 냉철한 사상의 소유자.
+[10193000000] 포켓몬에게 이상향을 만들겠다는 목적을
+추구하는 아쿠아단의 리더.
+호쾌한 성격으로 부하들의 신뢰도 두텁다.
+[10161000000] 알로라지방에 있는 멜레멜레섬의 섬의 왕이자 하우의 할아버지.
+알로라지방에서 톱클래스에 드는 실력의 소유자.
+알로라 전통씨름의 달인이기도 하다.
+[10160000000] 알로라지방 아칼라섬의 캡틴 중 한 명.
+어부의 딸이자 낚시를 상당히 좋아한다. 가족을 생각하는 마음으로
+평소에는 가업을 돕거나 쌍둥이 여동생을 돌봐주고 있다.
+[10149000000] 알로라지방 아칼라섬의 캡틴 중 한 명.
+프로 댄서를 꿈꾸고 있다. 텅구리와 함께
+알로라지방에 전해 내려오는 춤을 공부하고 있다.
+[10008000001] 예쁘고 귀여운 풀포켓몬을 좋아하는
+체육관 관장. 관동에서는 꽃꽂이 교실도
+하는 조용한 트레이너다.
+[10035000001] 조심성이 많은 성격이라 체육관에 여러 가지 장치를
+설치해둔 전기타입의 체육관 관장.
+상대를 마비시키는 배틀 방식이 특기다.
+[10148000001] 고스트타입의 체육관 관장.
+인주체육관에서 비밀스러운 수행을 거듭하여
+사람들에겐 보이지 않는 것을 볼 수 있게 되었다.
+[10062000001] 차분한 분위기의 이지적인 여성 사천왕이지만
+마음속에는 포켓몬에 대한 뜨거운 열정을 숨기고 있다.
+와일드하고 터프한 악타입 포켓몬을 좋아한다.
+[10129000001] 기분 나쁜 미소를 짓는 수수께끼 많은 소녀.
+호연지방에선 유성의 민족의 전승자로서
+사명을 다하기 위해 행동하고 있었다.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -16944,7 +17715,7 @@ trainer_description_zh-TW.lsd
 [10122000000] 非常喜歡寶可夢和冒險的訓練家。
 阿羅拉地區的諸島巡禮讓他不斷成長，
 連庫庫伊博士都對他的實力甘拜下風。
-[10123000000] 好奇興旺盛，個性不拘小節的訓練家。
+[10123000000] 好奇心旺盛，個性不拘小節的訓練家。
 對任何人都很友善，馬上就能變成好朋友。
 對小事不太在意，總是憑直覺行動。
 [10126400000] 身穿可愛找蛋服裝的小遙。擅長找東西的
@@ -16965,6 +17736,39 @@ trainer_description_zh-TW.lsd
 [10195000000] 操控著等離子隊的男人，是等離子隊真正的老大。
 過去曾企圖控制Ｎ來支配世界。
 擅長操縱人心，個性十分冷酷。
+[10117000000] 阿羅拉地區有名的職業摔角手。
+也是皇家對戰的傳道師，深受大家的歡迎。
+粉絲會戴著面罩為他的比賽加油。
+[10192000000] 熔岩隊的老大，追求著屬於人類的理想世界。
+是個冷酷無情的人，認為只要是為了達成目的，
+即使有所犧牲也是在所難免。
+[10193000000] 海洋隊的老大，他的目標是
+為寶可夢建立一個理想世界。
+他的個性豪爽，深受部下們的信賴。
+[10161000000] 哈烏的爺爺，也是阿羅拉地區美樂美樂島的
+島嶼之王。他的實力在阿羅拉地區數一數二，
+同時也是阿羅拉相撲的掌門人。
+[10160000000] 阿羅拉地區阿卡拉島的隊長之一。
+她是漁夫的女兒，相當喜歡釣魚。很重視家人，
+平時會幫忙家裡的工作，或是照顧雙胞胎妹妹們。
+[10149000000] 阿羅拉地區阿卡拉島的隊長之一，
+目標是成為專業的舞者。目前正與嘎啦嘎啦一起，
+學習阿羅拉自古流傳的舞蹈。
+[10008000001] 關都地區的道館館主，同時也經營
+插花教室。喜歡漂亮可愛的草屬性寶可夢，
+是一位嫻淑高雅的訓練家。
+[10035000001] 電屬性道館館主。個性小心謹慎，
+在自己的道館裡設下了許多機關。
+擅長在對戰中使用讓對手麻痺的招式。
+[10148000001] 幽靈屬性的道館館主。
+在緣朱道館中不斷持續秘密修行，
+令他能看見一般人看不見的東西。
+[10062000001] 外表看起來沉穩冷靜且充滿理性，但內心
+對寶可夢懷有無比熱情的女性四天王。
+喜歡使用狂野又頑強的惡屬性寶可夢。
+[10129000001] 面帶無懼笑容的謎樣少女。
+在豐緣地區時，身為流星之民傳承者的她
+曾經為了完成自己的使命而行動。
 
 ===========
 trainer_name_de.lsd
@@ -17080,6 +17884,7 @@ trainer_name_de.lsd
 [ch0114] Sabrina
 [ch0115] Volkner
 [ch0116] Lucia
+[ch0117] Mask Royale
 [ch0118] Lilly
 [ch0119] Gladio
 [ch0120] Samantha
@@ -17108,6 +17913,7 @@ trainer_name_de.lsd
 [ch0158] Diantha
 [ch0159] Perenus
 [ch0160] Tracy
+[ch0161] Hala
 [ch0170] Artie
 [ch0183] Marlon
 [ch0190] Ryuki
@@ -17242,6 +18048,7 @@ trainer_name_en.lsd
 [ch0114] Sabrina
 [ch0115] Volkner
 [ch0116] Dawn
+[ch0117] The Masked Royal
 [ch0118] Lillie
 [ch0119] Gladion
 [ch0120] Lusamine
@@ -17270,6 +18077,7 @@ trainer_name_en.lsd
 [ch0158] Diantha
 [ch0159] Darach
 [ch0160] Lana
+[ch0161] Hala
 [ch0170] Burgh
 [ch0183] Molayne
 [ch0190] Ryuki
@@ -17404,6 +18212,7 @@ trainer_name_es.lsd
 [ch0114] Sabrina
 [ch0115] Lectro
 [ch0116] Maya
+[ch0117] Royale, el Enmascarado
 [ch0118] Lylia
 [ch0119] Gladio
 [ch0120] Samina
@@ -17432,6 +18241,7 @@ trainer_name_es.lsd
 [ch0158] Dianta
 [ch0159] Kokuran
 [ch0160] Nereida
+[ch0161] Kaudan
 [ch0170] Camus
 [ch0183] Lario
 [ch0190] Olano
@@ -17566,6 +18376,7 @@ trainer_name_fr.lsd
 [ch0114] Morgane
 [ch0115] Tanguy
 [ch0116] Aurore
+[ch0117] Royal Mask
 [ch0118] Lilie
 [ch0119] Gladio
 [ch0120] Elsa-Mina
@@ -17594,6 +18405,7 @@ trainer_name_fr.lsd
 [ch0158] Dianthéa
 [ch0159] Parsley
 [ch0160] Néphie
+[ch0161] Pectorius
 [ch0170] Artie
 [ch0183] Molène
 [ch0190] Solane
@@ -17728,6 +18540,7 @@ trainer_name_it.lsd
 [ch0114] Sabrina
 [ch0115] Corrado
 [ch0116] Lucinda
+[ch0117] Mister Royale
 [ch0118] Lylia
 [ch0119] Iridio
 [ch0120] Samina
@@ -17756,6 +18569,7 @@ trainer_name_it.lsd
 [ch0158] Diantha
 [ch0159] Paride
 [ch0160] Suiren
+[ch0161] Hala
 [ch0170] Artemisio
 [ch0183] Tapso
 [ch0190] Morel
@@ -17890,6 +18704,7 @@ trainer_name_ja.lsd
 [ch0114] ナツメ
 [ch0115] デンジ
 [ch0116] ヒカリ
+[ch0117] ロイヤルマスク
 [ch0118] リーリエ
 [ch0119] グラジオ
 [ch0120] ルザミーネ
@@ -17918,6 +18733,7 @@ trainer_name_ja.lsd
 [ch0158] カルネ
 [ch0159] コクラン
 [ch0160] スイレン
+[ch0161] ハラ
 [ch0170] アーティ
 [ch0183] マーレイン
 [ch0190] リュウキ
@@ -18052,6 +18868,7 @@ trainer_name_ko.lsd
 [ch0114] 초련
 [ch0115] 전진
 [ch0116] 빛나
+[ch0117] 로열마스크
 [ch0118] 릴리에
 [ch0119] 글라디오
 [ch0120] 루자미네
@@ -18080,6 +18897,7 @@ trainer_name_ko.lsd
 [ch0158] 카르네
 [ch0159] 코크런
 [ch0160] 수련
+[ch0161] 할라
 [ch0170] 아티
 [ch0183] 멀레인
 [ch0190] 용규
@@ -18214,6 +19032,7 @@ trainer_name_zh-TW.lsd
 [ch0114] 娜姿
 [ch0115] 電次
 [ch0116] 小光
+[ch0117] 皇家蒙面人
 [ch0118] 莉莉艾
 [ch0119] 格拉吉歐
 [ch0120] 露莎米奈
@@ -18242,6 +19061,7 @@ trainer_name_zh-TW.lsd
 [ch0158] 卡露妮
 [ch0159] 石蘭
 [ch0160] 水蓮
+[ch0161] 哈拉
 [ch0170] 亞堤
 [ch0183] 馬睿因
 [ch0190] 龍葵
@@ -18442,6 +19262,8 @@ Team wurde vollständig geheilt.
 eingetauscht.
 [common_widget/dialog_073] Teamausw.-Limit wird nach vollst. Heilung zurückgesetzt.
 [common_widget/dialog_074] Kampfunfähigkeit wird nach vollst. Heilung zurückgesetzt.
+[common_widget/dialog_075] Erhältst du Gefährten zum ersten Mal, schließen sie sich deinem Team an. Mit jedem weiteren Mal steigen die Stärke ihrer Gefährtenattacke und ihr Attacken-Level.
+[common_widget/dialog_076] Hinweis: Für dieses Gefährtengespann gibt es keine Gefährtenepisode.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -18743,6 +19565,22 @@ auffüllen.
 deine Geschenkbox geschickt, da du
 nicht mehr von ihnen aufbewahren
 kannst.
+[common_widget/battle_point_001] Kampfpunkteboni
+[common_widget/battle_point_002] Runde [Digit:3digits ]
+[common_widget/battle_point_004] Gesamtpunkte
+[common_widget/battle_point_005] Pkt.
+[common_widget/battle_point_006] Hauptpreis [Digit:3digits ]
+[common_widget/battle_point_007] [Digit:9digits ] Pkt.
+[common_widget/battle_point_008] [Digit:9digits ] Pkt. erreicht!
+[common_widget/battle_point_009] Belohnung erhalten!
+[common_widget/battle_point_010] Komplett!
+[common_widget/battle_point_011] Deine Gesamtpunkte und Kampfpunkteboni wurden zurückgesetzt.
+[common_widget/battle_point_012] Hinweis: Alle verbliebenen Kampfpunkte bleiben erhalten.
+[common_widget/battle_point_013] Zurücksetzen
+[common_widget/battle_point_014] Tausche Kampfpunkte für tolle Belohnungen
+ein! Mit Kampfpunkte-G-Tickets kannst du
+im Laden exklusive Gefährten erhalten!
+[common_widget/battle_point_015] Erhalte exklusive Gefährten!
 
 ===========
 common_widget_en.lsd
@@ -18907,6 +19745,11 @@ for the day.
 [common_widget/dialog_072] Note: This will not be automatically exchanged for coins.
 [common_widget/dialog_073] Note: Using a full recovery resets team restrictions.
 [common_widget/dialog_074] Note: Using a full recovery recovers fainted Pokémon.
+[common_widget/dialog_075] Sync pairs join your team the first time
+you obtain them.
+From the second time on, their sync
+moves and move level will level up.
+[common_widget/dialog_076] Note: This sync pair does not have a sync pair story.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -19176,6 +20019,20 @@ further right now.
 maximum storage limit. They have
 been sent to the Temp Storage section
 of your Present Box.
+[common_widget/battle_point_001] Battle Point Tier Rewards
+[common_widget/battle_point_002] Round [Digit:3digits ]
+[common_widget/battle_point_004] Total Points
+[common_widget/battle_point_005] pts
+[common_widget/battle_point_006] Featured Reward [Digit:3digits ]
+[common_widget/battle_point_007] [Digit:9digits ] pts
+[common_widget/battle_point_008] [Digit:9digits ] Total Points Earned!
+[common_widget/battle_point_009] Reward earned!
+[common_widget/battle_point_010] Complete!
+[common_widget/battle_point_011] Your total points and battle point tier rewards have been reset.
+[common_widget/battle_point_012] Note: Any leftover battle points have been carried over.
+[common_widget/battle_point_013] Reset
+[common_widget/battle_point_014] Collect battle points to get rewards! You can exchange BP Sync Pair Vouchers in the shop to team up with exclusive sync pairs!
+[common_widget/battle_point_015] Team up with exclusive sync pairs!
 
 ===========
 common_widget_es.lsd
@@ -19350,6 +20207,12 @@ de hoy.
 [common_widget/dialog_072] Nota: Este objeto no se canjeará automáticamente.
 [common_widget/dialog_073] Nota: Las limitaciones de formación se restablecerán al realizar la recuperación completa.
 [common_widget/dialog_074] Nota: Los compis debilitados se recuperarán al realizar la recuperación completa.
+[common_widget/dialog_075] Puedes canjear tus puntos de combate
+para reclutar a una pareja de compis.
+Si ya la tienes, podrás usar tus puntos
+para potenciar los movimientos y los
+movimientos compi de dicha pareja.
+[common_widget/dialog_076] Nota: No hay ningún episodio compi dedicado a esta pareja.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Nv.
 [common_widget/trainer_detail_004] MÁX.
@@ -19626,6 +20489,20 @@ o de uno o varios objetos. Los objetos
 se enviarán a la caja de regalos,
 donde se almacenarán durante un
 breve período de tiempo.
+[common_widget/battle_point_001] Premios ptos. combate
+[common_widget/battle_point_002] Semana [Digit:3digits ]
+[common_widget/battle_point_004] Puntos totales
+[common_widget/battle_point_005] ptos.
+[common_widget/battle_point_006] Premio especial [Digit:3digits ]
+[common_widget/battle_point_007] [Digit:9digits ] puntos
+[common_widget/battle_point_008] ¡[Digit:9digits ] puntos!
+[common_widget/battle_point_009] ¡Premio conseguido!
+[common_widget/battle_point_010] ¡Completado!
+[common_widget/battle_point_011] Se han restablecido los premios y los puntos de combate.
+[common_widget/battle_point_012] Nota: Se han conservado los puntos de combate no canjeados.
+[common_widget/battle_point_013] Restablecer
+[common_widget/battle_point_014] ¡Gana puntos de combate y obtén grandes recompensas! ¡Puedes canjear el Cupón Reclutacompis por compis exclusivos!
+[common_widget/battle_point_015] ¡Parejas de compis exclusivas!
 
 ===========
 common_widget_fr.lsd
@@ -19796,6 +20673,9 @@ Vous recevez une restauration totale.
 convertis en Pièces.
 [common_widget/dialog_073] La restauration totale réinitialise les limites d'équipe.
 [common_widget/dialog_074] La restauration totale soigne vos Duos mis K.O.
+[common_widget/dialog_075] La première fois que vous obtenez un Duo, ce dernier rejoindra votre équipe.
+Le niveau de ses capacités et de sa capacité Duo augmentera toutes les fois suivantes.
+[common_widget/dialog_076] Il n'y a pas d'épisode Duo associé à ce Duo.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] N.
 [common_widget/trainer_detail_004] MAX
@@ -20086,6 +20966,22 @@ de votre Vigueur.
 [common_widget/stamina_014] Vous avez atteint la limite.
 Le surplus a été placé en attente
 dans le menu « Cadeaux ».
+[common_widget/battle_point_001] Récomp. pts de combat
+[common_widget/battle_point_002] Semaine [Digit:3digits ]
+[common_widget/battle_point_004] Points totaux
+[common_widget/battle_point_005] pts
+[common_widget/battle_point_006] Grand prix [Digit:3digits ]
+[common_widget/battle_point_007] [Digit:9digits ] pts
+[common_widget/battle_point_008] [Digit:9digits ] pts obtenus !
+[common_widget/battle_point_009] Récompense obtenue !
+[common_widget/battle_point_010] Terminé !
+[common_widget/battle_point_011] Les récomp. pts de combat et le total des points ont été réinitialisés.
+[common_widget/battle_point_012] Les points de combat restants ont été conservés.
+[common_widget/battle_point_013] Réinitialiser
+[common_widget/battle_point_014] Obtenez des récompenses grâce aux PCo.
+Échangez vos Coupons PCo invite-Duo
+à la boutique contre des Duos exclusifs !
+[common_widget/battle_point_015] Faites équipe avec des Duos exclusifs !
 
 ===========
 common_widget_it.lsd
@@ -20249,6 +21145,12 @@ un ripristino totale.
 [common_widget/dialog_072] Non verrà scambiato automaticamente.
 [common_widget/dialog_073] Puoi ripristinare il limite di Unità con un ripristino totale.
 [common_widget/dialog_074] Puoi rimettere in sesto le Unità con un ripristino totale.
+[common_widget/dialog_075] La prima volta che ottieni un'Unità,
+questa si unirà alla tua squadra.
+Dalla seconda volta in poi, invece,
+aumenterà la potenza delle sue mosse
+e delle sue Unimosse.
+[common_widget/dialog_076] Questa Unità non ha un episodio Unità.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] L.
 [common_widget/trainer_detail_004] MAX
@@ -20523,6 +21425,23 @@ delle gemme?
 alcuni strumenti, che pertanto sono
 stati inviati alla sezione "In attesa"
 dei Regali.
+[common_widget/battle_point_001] Ricompense Punti Lotta
+[common_widget/battle_point_002] [Digit:3digits ]ª volta
+[common_widget/battle_point_004] Punti totali
+[common_widget/battle_point_005]  
+[common_widget/battle_point_006] Premio principale [Digit:3digits ]
+[common_widget/battle_point_007] [Digit:9digits ] punti
+[common_widget/battle_point_008] [Digit:9digits ] punti!
+[common_widget/battle_point_009] Nuova ricompensa!
+[common_widget/battle_point_010] Lista completata!
+[common_widget/battle_point_011] Le ricompense Punti Lotta e i punti
+accumulati sono stati ripristinati.
+[common_widget/battle_point_012] Manterrai tutti i Punti Lotta in eccesso.
+[common_widget/battle_point_013] Ripristino
+[common_widget/battle_point_014] Accumula Punti Lotta e otterrai fantastiche
+ricompense! Puoi scambiare Coupon
+Unichiamata (PL) con Unità esclusive!
+[common_widget/battle_point_015] Fai squadra con Unità esclusive!
 
 ===========
 common_widget_ja.lsd
@@ -20683,6 +21602,11 @@ EXカラー衣装が　かくとくできます
 [common_widget/dialog_072] ※自動売却されません
 [common_widget/dialog_073] ※編成上限は全回復を実行するとリセットされます
 [common_widget/dialog_074] ※ひんし状態は全回復を実行するとリセットされます
+[common_widget/dialog_075] 初回は　仲間になります
+二回目以降は
+バディーズわざと　わざの威力が上昇します
+[common_widget/dialog_076] ※このバディーズには
+バディーズエピソードがありません
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -20969,6 +21893,23 @@ HARDクリアで解放
 [common_widget/stamina_014] 所持上限を超える一部のどうぐは
 プレゼントボックスの
 一時保管に送りました
+[common_widget/battle_point_001] バトルポイント累計報酬
+[common_widget/battle_point_002] [Digit:3digits ]周目
+[common_widget/battle_point_004] 累計ポイント
+[common_widget/battle_point_005] pt
+[common_widget/battle_point_006] 目玉報酬[Digit:3digits ]
+[common_widget/battle_point_007] [Digit:9digits ]pt
+[common_widget/battle_point_008] [Digit:9digits ]pt達成！
+[common_widget/battle_point_009] 報酬獲得！
+[common_widget/battle_point_010] コンプリート！
+[common_widget/battle_point_011] バトルポイント累計報酬と
+累計ポイントがリセットされました
+[common_widget/battle_point_012] ※超過したバトルポイントは持ち越されています
+[common_widget/battle_point_013] RESET
+[common_widget/battle_point_014] バトルptを集めて　豪華報酬を獲得しましょう
+ＢＰバディーズ呼出券は　どうぐ交換で
+限定バディーズを　呼び出すことができます
+[common_widget/battle_point_015] 限定バディーズを仲間に！
 
 ===========
 common_widget_ko.lsd
@@ -21127,6 +22068,11 @@ EX컬러 의상을 획득할 수 있습니다
 [common_widget/dialog_072] ※자동판매되지 않습니다
 [common_widget/dialog_073] ※편성 상한은 모두 회복하면 초기화됩니다
 [common_widget/dialog_074] ※기절 상태는 모두 회복하면 초기화됩니다
+[common_widget/dialog_075] 최초에는 동료가 됩니다
+2번째 이후에는
+버디즈기술과 기술의 위력이 상승합니다
+[common_widget/dialog_076] ※이 버디즈에게는
+버디즈 에피소드가 없습니다
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -21410,6 +22356,23 @@ Lv.MAX
 [common_widget/stamina_013] 무료
 [common_widget/stamina_014] 보유 상한을 넘은 일부 도구는
 프레젠트박스의 임시보관에서 확인해주십시오
+[common_widget/battle_point_001] 배틀포인트 합계 보상
+[common_widget/battle_point_002] [Digit:3digits ]회차
+[common_widget/battle_point_004] 합계포인트
+[common_widget/battle_point_005] pt
+[common_widget/battle_point_006] 주요 보상 [Digit:3digits ]
+[common_widget/battle_point_007] [Digit:9digits ]pt
+[common_widget/battle_point_008] [Digit:9digits ]pt 달성!
+[common_widget/battle_point_009] 보상 획득!
+[common_widget/battle_point_010] 컴플리트!
+[common_widget/battle_point_011] 배틀포인트 합계 보상과
+합계포인트가 초기화되었습니다
+[common_widget/battle_point_012] ※초과한 배틀포인트는 이월됩니다
+[common_widget/battle_point_013] RESET
+[common_widget/battle_point_014] 배틀포인트를 모아 호화로운 보상을 획득합시다
+BP 버디즈 호출권은 도구 교환에서
+한정 버디즈를 불러낼 수 있습니다
+[common_widget/battle_point_015] 한정 버디즈를 동료로!
 
 ===========
 common_widget_zh-TW.lsd
@@ -21557,6 +22520,11 @@ common_widget_zh-TW.lsd
 [common_widget/dialog_072] ※不會被自動出售
 [common_widget/dialog_073] ※編制上限在執行完全回復後即會重設
 [common_widget/dialog_074] ※瀕死狀態在執行完全回復後即會重設
+[common_widget/dialog_075] 第一次會成為夥伴
+第二次以後
+會提升拍組招式和招式的威力
+[common_widget/dialog_076] ※這對拍組
+沒有拍組劇情
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -21820,6 +22788,23 @@ EX服裝！
 [common_widget/stamina_013] 免費
 [common_widget/stamina_014] 部分超過持有上限的道具
 已送到禮物箱的「暫時保管」中
+[common_widget/battle_point_001] 對戰點數總計報酬
+[common_widget/battle_point_002] 第[Digit:3digits ]次
+[common_widget/battle_point_004] 總計點數
+[common_widget/battle_point_005] pt
+[common_widget/battle_point_006] 特級報酬[Digit:3digits ]
+[common_widget/battle_point_007] [Digit:9digits ]pt
+[common_widget/battle_point_008] [Digit:9digits ]pt達成！
+[common_widget/battle_point_009] 獲得報酬！
+[common_widget/battle_point_010] 完成！
+[common_widget/battle_point_011] 對戰點數總計報酬和
+總計點數已重設
+[common_widget/battle_point_012] ※超過上限的對戰點數已保留至下次使用
+[common_widget/battle_point_013] RESET
+[common_widget/battle_point_014] 收集對戰點數來獲得豪華報酬吧
+對戰點數拍組召喚券可在交換道具時
+召喚出限定拍組
+[common_widget/battle_point_015] 與限定拍組成為夥伴吧！
 
 ===========
 error_dialog_contents_de.lsd
@@ -24119,6 +25104,8 @@ Boosts pro Tag gewinnen.
 [home/quest_detail_141] Gesamtpunktebonus
 [home/quest_detail_142] Rangbonus
 [home/quest_detail_143] Hinweis: Punkte, die die maximale Punktzahl überschreiten, werden nicht mitgerechnet.
+[home/quest_detail_144] Hinweis: Stärke-Boni gelten für die folgenden Statuswerte: Angriff, Verteidigung, Sp.-Ang. und Sp.-Vert.
+Boni werden nicht addiert. Gefährten mit mehreren Attributen erhalten nur den Bonus mit dem größten Effekt. 
 [home/home_001] Laden
 [home/home_002] Abenteuer
 [home/home_003] Team
@@ -24682,7 +25669,7 @@ been eliminated from the ranking.
 [home/quest_list_152] Prestige Rank Leaderboard
 [home/quest_list_153] Reward Group Ranking
 [home/quest_list_154] To unlock, obtain the designated item.
-[home/quest_list_155] Complete the designated mission to unlock
+[home/quest_list_155] To unlock, complete the designated mission.
 [home/quest_list_156] To unlock, obtain all of the
 designated items.
 [home/quest_list_157] Can be obtained from the Exchange
@@ -24849,6 +25836,8 @@ battle. You can win up to a total of three boosts per day.
 [home/quest_detail_141] Tier Rewards
 [home/quest_detail_142] Prestige Rewards
 [home/quest_detail_143] Total does not include points that exceed the maximum.
+[home/quest_detail_144] Note: Strength bonuses apply to the following stats: Attack, Defense, Sp. Atk, Sp. Def.
+If multiple bonuses apply to the same sync pair, the larger bonus will take effect. (These bonuses do not stack.)
 [home/home_001] Shop
 [home/home_002] Explore
 [home/home_003] Team
@@ -25489,9 +26478,8 @@ bonus para conseguir más objetos con bonus. Si una
 pareja cuenta con más de un bonus, solo se aplicará
 el bonus más alto.
 [home/quest_detail_101] Puntos
-[home/quest_detail_102] Notas: La bonificación de fuerza no afecta a los PS.
-La bonificación de puntos se calcula para cada
-pareja de compis.
+[home/quest_detail_102] Notas: El bonus de fuerza no afecta a los PS.
+El bonus de puntos se calcula para cada pareja de compis.
 [home/quest_detail_103] Tiempo necesario
 [home/quest_detail_104] Puntos de rango que obtendrás
 [home/quest_detail_105] Detalles
@@ -25540,6 +26528,10 @@ puede activarse un máximo de tres veces al día.
 [home/quest_detail_141] Premios por puntuación
 [home/quest_detail_142] Premios por clasificación
 [home/quest_detail_143] Los puntos que superen el límite no se sumarán al total.
+[home/quest_detail_144] Notas: Los bonus de fuerza solo afectan a estas
+características: Ataque, Defensa, At. Esp. y Def. Esp.
+Si una pareja de compis cuenta con más de un bonus,
+solo se aplicará el más alto.
 [home/home_001] Tienda
 [home/home_002] Aventura
 [home/home_003] Equipo
@@ -26247,6 +27239,10 @@ Vous recevrez alors plus de points lors de votre prochain combat.
 [home/quest_detail_141] Récompenses (points totaux)
 [home/quest_detail_142] Récompenses (classement)
 [home/quest_detail_143] Les points obtenus qui dépassent la limite de points totaux ne comptent pas.
+[home/quest_detail_144] Le bonus de Force s'applique aux stats suivantes : Atq.,
+Déf., Atq. Spé. et Déf. Spé. Pour les Duos ayant plusieurs
+mots-clés et qui sont éligibles pour recevoir le bonus,
+seul le bonus avec l'effet le plus important s'applique.
 [home/home_001] Boutique
 [home/home_002] Aventure
 [home/home_003] Équipe
@@ -26994,6 +27990,10 @@ attivarsi fino a un massimo di tre volte al giorno.
 [home/quest_detail_141] Ricompensa punteggio
 [home/quest_detail_142] Ricompensa classifica
 [home/quest_detail_143] Non puoi ottenere punti oltre il limite massimo.
+[home/quest_detail_144] I bonus potenza si applicano alle seguenti statistiche:
+Attacco, Difesa, Attacco Speciale e Difesa Speciale.
+Nel caso di Unità appartenenti a più gruppi con bonus,
+si attiverà solo quello col valore più alto.
 [home/home_001] Negozio
 [home/home_002] Avventura
 [home/home_003] Squadra
@@ -27561,7 +28561,7 @@ Lv.[Digit:2digits ]で解放
 [home/quest_list_152] TOPランキング
 [home/quest_list_153] 報酬区分ランキング
 [home/quest_list_154] 指定のどうぐ獲得で解放
-[home/quest_list_155] 指定のミッションクリアで解放
+[home/quest_list_155] 指定のミッション達成で解放
 [home/quest_list_156] 指定のどうぐを全て
 手に入れると解放されます
 [home/quest_list_157] ショップメニューの
@@ -27724,6 +28724,10 @@ Lv.[Digit:2digits ]で解放
 [home/quest_detail_141] 累計報酬
 [home/quest_detail_142] ランキング報酬
 [home/quest_detail_143] ※獲得ポイントの上限を超えた分は加算されません
+[home/quest_detail_144] ※「つよさ」ボーナスは以下のステータスに適用されます
+こうげき、ぼうぎょ、とくこう、とくぼう
+※複数のタグが対象になるバディーズのボーナスは
+加算されずにより高い値が適用されます
 [home/home_001] ショップ
 [home/home_002] ぼうけん
 [home/home_003] チーム
@@ -28284,7 +29288,7 @@ Lv.[Digit:2digits ]에서 해방
 [home/quest_list_152] TOP 랭킹
 [home/quest_list_153] 보상 구분 랭킹
 [home/quest_list_154] 지정된 도구를 획득하여 해방
-[home/quest_list_155] 지정 미션을 클리어하면 해방
+[home/quest_list_155] 지정 미션을 달성하면 해방
 [home/quest_list_156] 지정된 도구를 모두
 획득하면 해방됩니다
 [home/quest_list_157] 숍 메뉴의
@@ -28445,6 +29449,10 @@ Lv.[Digit:2digits ]에서 해방
 [home/quest_detail_141] 합계 보상
 [home/quest_detail_142] 랭킹 보상
 [home/quest_detail_143] ※획득포인트는 상한 이상 획득할 수 없습니다
+[home/quest_detail_144] ※"능력치" 보너스는 아래 능력에 적용됩니다
+공격, 방어, 특수공격, 특수방어
+※다수의 태그가 대상이 된 버디즈의 보너스는
+가산되지 않으며 더 높은 수치가 적용됩니다
 [home/home_001] 숍
 [home/home_002] 모험
 [home/home_003] 팀
@@ -28981,7 +29989,7 @@ home_zh-TW.lsd
 [home/quest_list_153] 報酬類別排名
 [home/quest_list_154] 獲得指定道具即可開放
 [home/quest_list_155] 開放條件：
-成功過關指定的任務
+成功達成指定的任務
 [home/quest_list_156] 獲得所有指定道具
 即可開放
 [home/quest_list_157] 可以從商店選單中的
@@ -29136,6 +30144,10 @@ home_zh-TW.lsd
 [home/quest_detail_141] 總計報酬
 [home/quest_detail_142] 排名報酬
 [home/quest_detail_143] ※超過獲得上限的點數不會列入計算
+[home/quest_detail_144] ※「戰力」獎勵將適用於以下能力
+攻擊、防禦、特攻和特防
+※當指定拍組擁有多個標籤時
+將適用於數值較高的獎勵而不會重複累計
 [home/home_001] 商店
 [home/home_002] 冒險
 [home/home_003] 隊伍
@@ -29630,6 +30642,9 @@ Tausch nicht möglich.
 [shop/shop_itemexchange_041] Du hast nicht genug Items/Münzen.
 [shop/shop_itemexchange_042] Dieses Item kann nicht mehr
 eingetauscht werden.
+[shop/shop_itemexchange_043] Kampfpkt.
+[shop/shop_itemexchange_044] Kampfpunkte
+[shop/shop_itemexchange_045] Hinweis: Dieser Tausch kann jeweils nur ein Mal durchgeführt werden.
 [shop/scout_001] Gefährtensuche
 [shop/scout_002] G-Suche-
 Punkte
@@ -29646,9 +30661,6 @@ Beliebige Gefährtensuche
 [shop/scout_015] Erscheinungsrate
 [shop/scout_017] Gefährtensuche-Punkte
 [shop/scout_018] Aktuelle Gefährtensuche-Punkte
-[shop/scout_019] Wenn du das Punkte-Maximum
-erreichst, kannst du nach einem
-beliebigen Gefährtengespann suchen!
 [shop/scout_020] Mit Bonus
 [shop/scout_021] Bestätigen
 [shop/scout_022] [Digit:4digits ] Juwelen einsetzen,
@@ -30189,6 +31201,9 @@ for this exchange?
 [shop/shop_itemexchange_040] You don’t have enough coins.
 [shop/shop_itemexchange_041] You don’t have enough items or coins.
 [shop/shop_itemexchange_042] That item can no longer be exchanged.
+[shop/shop_itemexchange_043] BP
+[shop/shop_itemexchange_044] Battle Points
+[shop/shop_itemexchange_045] Only one of this exchange can be performed at a time.
 [shop/scout_001] Sync Pair Scout
 [shop/scout_002] Scout
 Points
@@ -30205,8 +31220,6 @@ Scout the sync pair you want!
 [shop/scout_015] Offering Rate
 [shop/scout_017] Scout Points
 [shop/scout_018] Current Scout Points
-[shop/scout_019] When you reach the max, you can
-scout any one sync pair you want!
 [shop/scout_020] Bonus
 [shop/scout_021] Confirm
 [shop/scout_022] Do you want to use [Digit:4digits ] gems
@@ -30619,6 +31632,9 @@ No se puede realizar el canje.
 [shop/shop_itemexchange_041] Objetos o monedas insuficientes.
 [shop/shop_itemexchange_042] Se ha terminado el período de canje
 de este objeto.
+[shop/shop_itemexchange_043] Ptos. combate
+[shop/shop_itemexchange_044] Puntos de combate
+[shop/shop_itemexchange_045] Nota: Solo puedes hacer un canje cada vez.
 [shop/scout_001] Reclutamiento
 [shop/scout_002] Puntos
 reclut.
@@ -30635,9 +31651,6 @@ reclut.
 [shop/scout_015] Tasas de aparición
 [shop/scout_017] Puntos reclutamiento
 [shop/scout_018] Puntos de reclutamiento actuales
-[shop/scout_019] Cuando alcances el máximo, podrás
-reclutar a la pareja de compis que
-elijas.
 [shop/scout_020] ¡Con bonus!
 [shop/scout_021] Confirmar
 [shop/scout_022] ¿Quieres gastar [Digit:4digits ] joyas en diez reclutamientos de compis?
@@ -31009,6 +32022,10 @@ votre Jauge Capacité.
 [shop/shop_itemexchange_041] Pas assez d'objets ni de Pièces.
 [shop/shop_itemexchange_042] La période d'échange pour cet objet
 est terminée.
+[shop/shop_itemexchange_043] PCo
+[shop/shop_itemexchange_044] Points de combat
+[shop/shop_itemexchange_045] Vous ne pouvez effectuer qu'un échange
+de ce type à la fois.
 [shop/scout_001] Appel Duo
 [shop/scout_002] Pts d'Appel
 Duo
@@ -31025,9 +32042,6 @@ Appelez le Duo de votre choix !
 [shop/scout_015] Chances d'obtention
 [shop/scout_017] Points d'Appel Duo
 [shop/scout_018] Vos Points d'Appel Duo :
-[shop/scout_019] Quand vous aurez atteint le maximum
-de points, vous pourrez appeler le Duo
-de votre choix.
 [shop/scout_020] Bonus inclus
 [shop/scout_021] Confirmation
 [shop/scout_022] Voulez-vous utiliser [Digit:4digits ] Diamants
@@ -31407,6 +32421,9 @@ mosse è aumentato di 1.
 [shop/shop_itemexchange_041] Strumenti e monete insufficienti.
 [shop/shop_itemexchange_042] Lo strumento non può più essere
 scambiato.
+[shop/shop_itemexchange_043] PL
+[shop/shop_itemexchange_044] Punti Lotta
+[shop/shop_itemexchange_045] È possibile effettuare un solo scambio alla volta.
 [shop/scout_001] Ricerca Unità
 [shop/scout_002] Punti
 Unicerca
@@ -31423,8 +32440,6 @@ Cerca un'Unità a piacere!
 [shop/scout_015] Tasso comparsa
 [shop/scout_017] Punti Unicerca
 [shop/scout_018] I tuoi punti Unicerca attuali
-[shop/scout_019] Quando raggiungerai il massimo dei
-punti, potrai cercare un'Unità a scelta!
 [shop/scout_020] Bonus incluso
 [shop/scout_021] Conferma
 [shop/scout_022] Vuoi usare [Digit:4digits ] gemme per fare
@@ -31875,6 +32890,9 @@ ONにしてください
 [shop/shop_itemexchange_041] どうぐとコインが足りません
 [shop/shop_itemexchange_042] そのどうぐは
 交換可能な期間を過ぎています
+[shop/shop_itemexchange_043] バトルpt
+[shop/shop_itemexchange_044] バトルポイント
+[shop/shop_itemexchange_045] ※この交換は１つずつしか行えません
 [shop/scout_001] バディーズサーチ
 [shop/scout_002] Ｂサーチ
 ポイント
@@ -31891,9 +32909,6 @@ ONにしてください
 [shop/scout_015] 提供割合
 [shop/scout_017] バディーズサーチポイント
 [shop/scout_018] 現在のバディーズサーチポイント
-[shop/scout_019] マックスになると
-好きなバディーズ１体を
-サーチできます！
 [shop/scout_020] おまけ付き
 [shop/scout_021] 確認
 [shop/scout_022] ダイヤを[Digit:4digits ]個消費して
@@ -32336,6 +33351,9 @@ ON으로 바꿔주십시오
 [shop/shop_itemexchange_041] 도구와 코인이 부족합니다
 [shop/shop_itemexchange_042] 해당 도구는
 교환 가능한 기간이 지났습니다
+[shop/shop_itemexchange_043] 배틀pt
+[shop/shop_itemexchange_044] 배틀포인트
+[shop/shop_itemexchange_045] ※이 교환은 1개씩만 진행할 수 있습니다
 [shop/scout_001] 버디즈서치
 [shop/scout_002] B서치
 포인트
@@ -32352,9 +33370,6 @@ ON으로 바꿔주십시오
 [shop/scout_015] 제공 확률
 [shop/scout_017] 버디즈서치 포인트
 [shop/scout_018] 현재 버디즈서치 포인트
-[shop/scout_019] 최대치가 되면
-좋아하는 버디즈 하나를
-찾을 수 있습니다!
 [shop/scout_020] 추가 증정
 [shop/scout_021] 확인
 [shop/scout_022] 다이아를 [Digit:4digits ]개 사용하여
@@ -32810,6 +33825,9 @@ shop_zh-TW.lsd
 [shop/shop_itemexchange_040] 持有的金幣不足
 [shop/shop_itemexchange_041] 持有的道具和金幣不足
 [shop/shop_itemexchange_042] 此道具已超過可以交換的期限
+[shop/shop_itemexchange_043] 對戰點數
+[shop/shop_itemexchange_044] 對戰點數
+[shop/shop_itemexchange_045] ※此交換每次只能執行一項
 [shop/scout_001] 拍組搜尋
 [shop/scout_002] 拍組搜尋
 點數
@@ -32826,8 +33844,6 @@ shop_zh-TW.lsd
 [shop/scout_015] 提供比例
 [shop/scout_017] 拍組搜尋點數
 [shop/scout_018] 目前的拍組搜尋點數
-[shop/scout_019] 點數全滿後
-即可搜尋１對喜歡的拍組！
 [shop/scout_020] 附贈品
 [shop/scout_021] 確認
 [shop/scout_022] 確定要消耗[Digit:4digits ]個鑽石
@@ -33263,23 +34279,23 @@ verknüpfen
 [title/title_015] EULA
 [title/title_016] Wohnort
 [title/title_017] Du musst der EULA und der
-Datenschutzrichtlinie zustimmen,
+Datenschutzbestimmung zustimmen,
 um diesen Service nutzen zu können.
 [title/title_018] EULA
-[title/title_019] Datenschutzrichtlinie
+[title/title_019] Datenschutzbestimmung
 [title/title_020] Weiter
 [title/title_021] Weiter
 [title/title_022] Die EULA wurde aktualisiert.
 Bitte stimme der neuesten Version zu.
 [title/title_023] Du musst der EULA und der
-Datenschutzrichtlinie zustimmen,
+Datenschutzbestimmung zustimmen,
 um diesen Service nutzen zu können.
 [title/title_024] Altersangabe
 [title/title_028] Persönliche Daten
 [title/title_029] [Name:TitleName ]
 (im Folgenden „die App“ genannt)
 nutzt Nutzungsdaten und persönliche Daten wie in
-der <attr color='E27707'>Datenschutzrichtlinie</attr> angegeben. Bitte lies sie
+der <attr color='E27707'>Datenschutzbestimmung</attr> angegeben. Bitte lies sie
 dir durch und stimme zu.
 <attr color='EB1414'>Du kannst deine Einstellungen später ändern.</attr>
 [title/title_030] Datennutzung für Spielmitteilungen
@@ -33355,7 +34371,7 @@ Erziehungsberechtigten.
 Events, Werbeaktionen und weiteren
 Informationen rund um diesen Service.
 Bist du damit einverstanden?
-[title/title_080] Unsere Datenschutzrichtlinie wurde
+[title/title_080] Unsere Datenschutzbestimmung wurde
 aktualisiert. Bitte stimme der neuesten
 Version zu.
 [title/title_081] Häufig gestellte Fragen
@@ -33381,7 +34397,7 @@ abgeschlossen.
 [title/title_098] Ich habe die EULA
 (Endnutzerlizenzvereinbarung)
 gelesen und stimme ihr zu.
-[title/title_099] Ich habe die Datenschutzrichtlinie
+[title/title_099] Ich habe die Datenschutzbestimmung
 gelesen und stimme ihr zu.
 [title/title_100] Stufe fortsetzen
 [title/title_101] Du wurdest mitten in einer Stufe
