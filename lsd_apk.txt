@@ -840,6 +840,7 @@ story_quest_name_de.lsd
 [quest_title_1030102000160200] Vs. Koga & Janina
 [quest_title_1030102000170200] Vs. Lola, Antonia & Agathe
 [quest_title_1030102000180200] Vs. Cheren, Warren & Lotta
+[quest_title_1030210000000000] Ein Tag mit MaMo-Rot
 [quest_title_1030210002000000] Ein Tag mit Lyra
 [quest_title_1030210003000000] Ein Tag mit Kalem
 [quest_title_1030210004000000] Ein Tag mit Lotta
@@ -925,8 +926,22 @@ story_quest_name_de.lsd
 [quest_title_1030220099000200] Pliprin entwickelt sich
 [quest_title_1030220004000100] Floink entwickelt sich
 [quest_title_1030220004000200] Ferkokel entwickelt sich
+[quest_title_1030220020000100] Ottaro entwickelt sich
+[quest_title_1030220020000200] Zwottronin entwickelt sich
+[quest_title_1030220011000100] Rollum entwickelt sich
 [quest_title_1030220019000100] Geckarbor entwickelt sich
 [quest_title_1030220019000200] Reptain entwickelt sich
+[quest_title_1030220003000100] Psiau entwickelt sich
+[quest_title_1030220033000100] Mebrana entwickelt sich
+[quest_title_1030220037000100] Ultrigaria entwickelt sich
+[quest_title_1030220038000100] Koknodon entwickelt sich
+[quest_title_1030220035000100] Voltobal entwickelt sich
+[quest_title_1030220043000100] Makuhita entwickelt sich
+[quest_title_1030220044000100] Nasgnet entwickelt sich
+[quest_title_1030220049000100] Zwirrklop entwickelt sich
+[quest_title_1030220050000100] Meditie entwickelt sich
+[quest_title_1030220053000100] Amarino entwickelt sich
+[quest_title_1030220059000100] Ponita entwickelt sich
 [quest_title_1030401001500001] Zusatzherausforderung: Rocko
 [quest_title_1030401001500002] Zusatzherausforderung: Rocko
 [quest_title_1030401010100001] Zusatzherausforderung: Rosy
@@ -1095,6 +1110,7 @@ story_quest_name_de.lsd
 [quest_group_title_500017] Helfertraining+: Matsurika
 [quest_group_title_500018] Verstärkungstraining+: Eugen
 [quest_group_title_500019] Goldtraining+: Svenja
+[quest_group_title_10000000000] MaMo-Rot
 [quest_group_title_10001000000] Kukui
 [quest_group_title_10002000000] Lyra
 [quest_group_title_10003000000] Kalem
@@ -1425,7 +1441,77 @@ story_quest_name_de.lsd
 [quest_title_1030201000601090] Gemeinsamer Kampf: Troy 2
 [quest_title_1030201000601100] Konfrontation: Troy
 [quest_title_1030201000601110] Konfrontation: Troy 2
+[quest_title_1030720201000001] Vs. Villa-Trainer 1
+[quest_title_1030720201000002] Vs. Villa-Trainer 2
+[quest_title_1030720201000003] Vs. Villa-Trainer 3
+[quest_title_1030720201000004] Vs. Erika
+[quest_title_1030720201000005] Vs. Chetta
+[quest_title_1030720201000006] Vs. Villa-Trainer 4
+[quest_title_1030720201000007] Vs. Villa-Trainer 5
+[quest_title_1030720201000008] Vs. Villa-Trainer 6
+[quest_title_1030720201000009] Vs. Agathe
+[quest_title_1030720201000010] Vs. Drival
+[quest_title_1030720201000011] Vs. Villa-Trainer 7
+[quest_title_1030720201000012] Vs. Villa-Trainer 8
+[quest_title_1030720201000013] Vs. Villa-Trainer 9
+[quest_title_1030720201000014] Vs. Lyra
+[quest_title_1030720201000015] Vs. Lotta
+[quest_title_1030720201000016] Vs. Villa-Trainer 10
+[quest_title_1030720201000017] Vs. Villa-Trainer 11
+[quest_title_1030720201000018] Vs. Villa-Trainer 12
+[quest_title_1030720201000019] Vs. Ben & Svenja
+[quest_title_1030720201000020] Vs. Kevin
+[quest_title_1030720201000021] Vs. Villa-Trainer 13
+[quest_title_1030720201000022] Vs. Villa-Trainer 14
+[quest_title_1030720201000023] Vs. Villa-Trainer 15
+[quest_title_1030720201000024] Vs. Krista
+[quest_title_1030720201000025] Vs. Distmar
+[quest_title_1030720203000026] Vs. Kevin
+[quest_title_1030720203000027] Vs. Distmar
+[quest_title_1030202000701001] Im Dunkeln leuchtende Augen
+[quest_title_1030202010701001] Der Alptraum im Dunkeln
+[quest_title_1030202020701001] Ein fürchterlicher Fluch
+[quest_title_1030202030701001] Ein verborgener Schatten
+[quest_title_1030202000701002] Stelle dich der Dunkelheit!
+[quest_title_1030202010701002] Bezwinge die Geisterwelt!
+[quest_title_1030202020701002] Besiege den Geisterboten!
+[quest_title_1030110000220100] Dein Rivale Kilian!
+[quest_title_1030110000220200] Vs. Kilian/Thymelot/Galantho
+[quest_title_1030110000220300] Dein Rivale Kilian! 2
+[quest_title_1030110010220200] Vs. Kilian/Thymelot/Galantho
+[quest_title_1030110020220200] Vs. Kilian/Thymelot/Galantho
+[quest_title_1030110030220200] Vs. Kilian/Thymelot/Galantho
+[quest_title_1030110000230100] Die Maid aus dem alten Land
+[quest_title_1030110000230200] Kämpfe auf der Straße
+[quest_title_1030110000230300] Ich will ein Pokémon werden
+[quest_title_1030110000230400] Vs. Kamilla-Fans
+[quest_title_1030110000230500] Wen Valerie treffen will
+[quest_title_1030110000230600] Kämpfe im Wald
+[quest_title_1030110000230700] Leafs Vorschlag
+[quest_title_1030110000230800] Vs. Valerie
+[quest_title_1030110000230900] Die, die uns voraus sind
+[quest_title_1030110010230800] Vs. Valerie
+[quest_title_1030110020230800] Vs. Valerie
+[quest_title_1030110030230800] Vs. Valerie
+[quest_title_1030110000240100] Die leuchtende Bühne
+[quest_title_1030110000240200] Vs. Team Break (Überfall)
+[quest_title_1030110000240300] Die leuchtende Bühne 2
+[quest_title_1030110000240400] Vs. Team MaMo-Kamilla
+[quest_title_1030110000240500] Die leuchtende Bühne 3
+[quest_title_1030110010240400] Vs. Team MaMo-Kamilla
+[quest_title_1030110020240400] Vs. Team MaMo-Kamilla
+[quest_title_1030110030240400] Vs. Team MaMo-Kamilla
+[quest_title_1030210157000000] Ein Tag mit Valerie
+[quest_title_1030210106100000] Ein Tag mit MaMo-Kamilla
+[quest_title_1030210151000000] Ein Tag mit Lamina
+[quest_title_1030210114000000] Ein Tag mit Sabrina
 [quest_title_1030201000601120] Konfrontation: Troy 3
+[quest_group_title_100026] Kapitel 22
+[quest_group_title_100028] Kapitel 23
+[quest_group_title_100029] Kapitel 24
+[quest_group_detail_100026] Dein Rivale Kilian!
+[quest_group_detail_100028] Durch Mode verbunden
+[quest_group_detail_100029] Auf der leuchtenden Bühne
 [quest_title_1030201001001550] Besiege den Drachen 2
 [quest_title_1030201001001610] Vs. Team Break
 [quest_title_1030201001001620] Vs. Team Break 2
@@ -1433,6 +1519,33 @@ story_quest_name_de.lsd
 [quest_title_1030210137000004] Ein Tag mit Eich
 [quest_group_title_10129000000] Amalia
 [quest_group_title_10137000000] Eich
+[quest_group_title_10157000000] Valerie
+[quest_group_title_10106100000] MaMo-Kamilla
+[quest_group_title_10151000000] Lamina
+[quest_group_title_10114000000] Sabrina
+[quest_title_1030202001001060] Mewtu greift an! 2
+[quest_title_1030202000601080] Zwei auf Reisen
+[quest_title_1030202000601090] Andrang beim Fotoshooting
+[quest_title_1030202000601100] Das neueste Werk
+[quest_title_1030202000601110] Der Quizkampf
+[quest_title_1030202000601120] Alles für die Fans
+[quest_title_1030202000601130] Rotom dreht auf
+[quest_title_1030202000601140] Ein toller Partner
+[quest_title_1030202000601150] Sei stets du selbst
+[quest_title_1030202000601160] Willis Prognose
+[quest_title_1030202000601170] Mir wird schwindlig!
+[quest_title_1030202000601010] Kapitel 1:
+Unverhofft kommt oft
+[quest_title_1030202000601020] Kapitel 2:
+1. Akt mit Hindernissen
+[quest_title_1030202000601030] Kapitel 3:
+Halsbrecherische Wendungen
+[quest_title_1030202000601040] Kapitel 4:
+Sie ist ein Supermodel!
+[quest_title_1030202000601050] Vs. Team Break
+[quest_title_1030202000601060] Vs. Team Break 2
+[quest_title_1030202000601070] Vs. Team Break 3
+[quest_title_1030202000601180] Einladung zur Modenschau
 
 ===========
 story_quest_name_en.lsd
@@ -1588,6 +1701,7 @@ story_quest_name_en.lsd
 [quest_title_1030102000160200] Challenge Koga & Janine
 [quest_title_1030102000170200] Challenge Acerola & Phoebe &  Agatha
 [quest_title_1030102000180200] Challenge Cheren & Hilbert &  Hilda
+[quest_title_1030210000000000] A Day with Sygna Suit Red
 [quest_title_1030210002000000] A Day with Lyra
 [quest_title_1030210003000000] A Day with Calem
 [quest_title_1030210004000000] A Day with Hilda
@@ -1673,8 +1787,22 @@ story_quest_name_en.lsd
 [quest_title_1030220099000200] Prinplup’s Evolution
 [quest_title_1030220004000100] Tepig’s Evolution
 [quest_title_1030220004000200] Pignite’s Evolution
+[quest_title_1030220020000100] Oshawott’s Evolution
+[quest_title_1030220020000200] Dewott’s Evolution
+[quest_title_1030220011000100] Whirlipede’s Evolution
 [quest_title_1030220019000100] Treecko’s Evolution
 [quest_title_1030220019000200] Grovyle’s Evolution
+[quest_title_1030220003000100] Espurr’s Evolution
+[quest_title_1030220033000100] Palpitoad’s Evolution
+[quest_title_1030220037000100] Weepinbell’s Evolution
+[quest_title_1030220038000100] Cranidos’s Evolution
+[quest_title_1030220035000100] Voltorb’s Evolution
+[quest_title_1030220043000100] Makuhita’s Evolution
+[quest_title_1030220044000100] Nosepass’s Evolution
+[quest_title_1030220049000100] Dusclops’s Evolution
+[quest_title_1030220050000100] Meditite’s Evolution
+[quest_title_1030220053000100] Amaura’s Evolution
+[quest_title_1030220059000100] Ponyta’s Evolution
 [quest_title_1030401001500001] EX Challenge: Brock
 [quest_title_1030401001500002] EX Challenge: Brock
 [quest_title_1030401010100001] EX Challenge: Rosa
@@ -1843,6 +1971,7 @@ story_quest_name_en.lsd
 [quest_group_title_500017] Support Supercourse: Mina
 [quest_group_title_500018] Level-Up Supercourse: Marshal
 [quest_group_title_500019] Coin Supercourse: Liza
+[quest_group_title_10000000000] Sygna Suit Red
 [quest_group_title_10001000000] Kukui
 [quest_group_title_10002000000] Lyra
 [quest_group_title_10003000000] Calem
@@ -2175,7 +2304,77 @@ story_quest_name_en.lsd
 [quest_title_1030201000601090] Unite with Steven! Round 2
 [quest_title_1030201000601100] Take Down Steven! Round 1
 [quest_title_1030201000601110] Take Down Steven! Round 2
+[quest_title_1030720201000001] Challenge in the Villa: Part 1
+[quest_title_1030720201000002] Challenge in the Villa: Part 2
+[quest_title_1030720201000003] Challenge in the Villa: Part 3
+[quest_title_1030720201000004] Challenge Erika
+[quest_title_1030720201000005] Challenge Rachel
+[quest_title_1030720201000006] Challenge in the Villa: Part 4
+[quest_title_1030720201000007] Challenge in the Villa: Part 5
+[quest_title_1030720201000008] Challenge in the Villa: Part 6
+[quest_title_1030720201000009] Challenge Agatha
+[quest_title_1030720201000010] Challenge Sawyer
+[quest_title_1030720201000011] Challenge in the Villa: Part 7
+[quest_title_1030720201000012] Challenge in the Villa: Part 8
+[quest_title_1030720201000013] Challenge in the Villa: Part 9
+[quest_title_1030720201000014] Challenge Lyra
+[quest_title_1030720201000015] Challenge Hilda
+[quest_title_1030720201000016] Challenge in the Villa: Part 10
+[quest_title_1030720201000017] Challenge in the Villa: Part 11
+[quest_title_1030720201000018] Challenge in the Villa: Part 12
+[quest_title_1030720201000019] Challenge Tate & Liza
+[quest_title_1030720201000020] Challenge Noland
+[quest_title_1030720201000021] Challenge in the Villa: Part 13
+[quest_title_1030720201000022] Challenge in the Villa: Part 14
+[quest_title_1030720201000023] Challenge in the Villa: Part 15
+[quest_title_1030720201000024] Challenge Kris
+[quest_title_1030720201000025] Challenge Thorton
+[quest_title_1030720203000026] Challenge Noland
+[quest_title_1030720203000027] Challenge Thorton
+[quest_title_1030202000701001] Eyes That Shine in the Night
+[quest_title_1030202010701001] Nightmares Crawling in the Dark
+[quest_title_1030202020701001] A Spine-Tingling Curse
+[quest_title_1030202030701001] A Spook in the Shadows
+[quest_title_1030202000701002] Quell the Infinite Darkness!
+[quest_title_1030202010701002] Dispel the Minions of the Spirit Realm!
+[quest_title_1030202020701002] Thwart the Soul-Seeking Shadow!
+[quest_title_1030110000220100] Rival Face-Off! Round 1
+[quest_title_1030110000220200] Challenge Paulo & Wikstrom & Wulfric
+[quest_title_1030110000220300] Rival Face-Off! Round 2
+[quest_title_1030110010220200] Challenge Paulo & Wikstrom & Wulfric
+[quest_title_1030110020220200] Challenge Paulo & Wikstrom & Wulfric
+[quest_title_1030110030220200] Challenge Paulo & Wikstrom & Wulfric
+[quest_title_1030110000230100] The Maiden from a Land with History
+[quest_title_1030110000230200] Challenge on the Boulevard
+[quest_title_1030110000230300] To Be a Pokémon
+[quest_title_1030110000230400] The Elesa Fan Club
+[quest_title_1030110000230500] A Fellow Fashionista?
+[quest_title_1030110000230600] Challenge in the Forest
+[quest_title_1030110000230700] Leaf’s Idea
+[quest_title_1030110000230800] Challenge Valerie
+[quest_title_1030110000230900] The Stage Awaits
+[quest_title_1030110010230800] Challenge Valerie
+[quest_title_1030110020230800] Challenge Valerie
+[quest_title_1030110030230800] Challenge Valerie
+[quest_title_1030110000240100] A Dazzling New Stage: Part 1
+[quest_title_1030110000240200] Team Break Ambush!
+[quest_title_1030110000240300] A Dazzling New Stage: Part 2
+[quest_title_1030110000240400] Challenge Sygna Suit Elesa & Team
+[quest_title_1030110000240500] A Dazzling New Stage: Part 3
+[quest_title_1030110010240400] Challenge Sygna Suit Elesa & Team
+[quest_title_1030110020240400] Challenge Sygna Suit Elesa & Team
+[quest_title_1030110030240400] Challenge Sygna Suit Elesa & Team
+[quest_title_1030210157000000] A Day with Valerie
+[quest_title_1030210106100000] A Day with Sygna Suit Elesa
+[quest_title_1030210151000000] A Day with Fantina
+[quest_title_1030210114000000] A Day with Sabrina
 [quest_title_1030201000601120] Take Down Steven! Round 3
+[quest_group_title_100026] Chapter 22
+[quest_group_title_100028] Chapter 23
+[quest_group_title_100029] Chapter 24
+[quest_group_detail_100026] Rival Face-Off!
+[quest_group_detail_100028] Hearts Connected by Fashion
+[quest_group_detail_100029] A Shining Spotlight
 [quest_title_1030201001001550] The Sky-Rending Dragon, Part 2
 [quest_title_1030201001001610] Challenge Team Break, Part 1
 [quest_title_1030201001001620] Challenge Team Break, Part 2
@@ -2183,6 +2382,29 @@ story_quest_name_en.lsd
 [quest_title_1030210137000004] A Day with Professor Oak
 [quest_group_title_10129000000] Zinnia
 [quest_group_title_10137000000] Professor Oak
+[quest_group_title_10157000000] Valerie
+[quest_group_title_10106100000] Sygna Suit Elesa
+[quest_group_title_10151000000] Fantina
+[quest_group_title_10114000000] Sabrina
+[quest_title_1030202001001060] Mewtwo Strikes! Round 2
+[quest_title_1030202000601080] A Friendly Outing
+[quest_title_1030202000601090] Photo Shoot Frenzy
+[quest_title_1030202000601100] A Designer Debut
+[quest_title_1030202000601110] Quiz Off, Quiz On!
+[quest_title_1030202000601120] All for the Fans
+[quest_title_1030202000601130] Rotom’s Tricks
+[quest_title_1030202000601140] Best Buddiezzz
+[quest_title_1030202000601150] Your Best Self
+[quest_title_1030202000601160] Will’s Foresight
+[quest_title_1030202000601170] Head-Spinning Enthusiasm
+[quest_title_1030202000601010] Part 1: A Surprise Opening Act
+[quest_title_1030202000601020] Part 2: A Dramatic Intro
+[quest_title_1030202000601030] Part 3: A Head-Spinning Twist
+[quest_title_1030202000601040] Part 4: A Genuine Supermodel
+[quest_title_1030202000601050] Challenge Team Break: Part 1
+[quest_title_1030202000601060] Challenge Team Break: Part 2
+[quest_title_1030202000601070] Challenge Team Break: Part 3
+[quest_title_1030202000601180] A Personal Invitation
 
 ===========
 story_quest_name_es.lsd
@@ -2338,6 +2560,7 @@ story_quest_name_es.lsd
 [quest_title_1030102000160200] VS. Koga y Sachiko
 [quest_title_1030102000170200] VS. Zarala, Fátima y Agatha
 [quest_title_1030102000180200] VS. Cheren, Lucho y Liza
+[quest_title_1030210000000000] Un día con Rojo (Traje S)
 [quest_title_1030210002000000] Un día con Lira
 [quest_title_1030210003000000] Un día con Kalm
 [quest_title_1030210004000000] Un día con Liza
@@ -2423,8 +2646,22 @@ story_quest_name_es.lsd
 [quest_title_1030220099000200] ¡Prinplup evoluciona!
 [quest_title_1030220004000100] ¡Tepig evoluciona!
 [quest_title_1030220004000200] ¡Pignite evoluciona!
+[quest_title_1030220020000100] ¡Oshawott evoluciona!
+[quest_title_1030220020000200] ¡Dewott evoluciona!
+[quest_title_1030220011000100] ¡Whirlipede evoluciona!
 [quest_title_1030220019000100] ¡Treecko evoluciona!
 [quest_title_1030220019000200] ¡Grovyle evoluciona!
+[quest_title_1030220003000100] ¡Espurr evoluciona!
+[quest_title_1030220033000100] ¡Palpitoad evoluciona!
+[quest_title_1030220037000100] ¡Weepinbell evoluciona!
+[quest_title_1030220038000100] ¡Cranidos evoluciona!
+[quest_title_1030220035000100] ¡Voltorb evoluciona!
+[quest_title_1030220043000100] ¡Makuhita evoluciona!
+[quest_title_1030220044000100] ¡Nosepass evoluciona!
+[quest_title_1030220049000100] ¡Dusclops evoluciona!
+[quest_title_1030220050000100] ¡Meditite evoluciona!
+[quest_title_1030220053000100] ¡Amaura evoluciona!
+[quest_title_1030220059000100] ¡Ponyta evoluciona!
 [quest_title_1030401001500001] Reto EX: Brock
 [quest_title_1030401001500002] Reto EX: Brock
 [quest_title_1030401010100001] Reto EX: Nanci
@@ -2593,6 +2830,7 @@ story_quest_name_es.lsd
 [quest_group_title_500017] Superprueba apoyo: Rika
 [quest_group_title_500018] Superprueba mejora: Lotto
 [quest_group_title_500019] Superprueba lucrativa: Leti
+[quest_group_title_10000000000] Rojo (Traje S)
 [quest_group_title_10001000000] Profesor Kukui
 [quest_group_title_10002000000] Lira
 [quest_group_title_10003000000] Kalm
@@ -2926,7 +3164,78 @@ hielo
 [quest_title_1030201000601090] Combate junto a Máximo (2)
 [quest_title_1030201000601100] ¡Vence a Máximo!
 [quest_title_1030201000601110] ¡Vence a Máximo! (2)
+[quest_title_1030720201000001] VS. Entrenadores de la residencia
+[quest_title_1030720201000002] VS. Entrenadores de la residencia (2)
+[quest_title_1030720201000003] VS. Entrenadores de la residencia (3)
+[quest_title_1030720201000004] VS. Erika
+[quest_title_1030720201000005] VS. Serra
+[quest_title_1030720201000006] VS. Entrenadores de la residencia (4)
+[quest_title_1030720201000007] VS. Entrenadores de la residencia (5)
+[quest_title_1030720201000008] VS. Entrenadores de la residencia (6)
+[quest_title_1030720201000009] VS. Agatha
+[quest_title_1030720201000010] VS. Néstor
+[quest_title_1030720201000011] VS. Entrenadores de la residencia (7)
+[quest_title_1030720201000012] VS. Entrenadores de la residencia (8)
+[quest_title_1030720201000013] VS. Entrenadores de la residencia (9)
+[quest_title_1030720201000014] VS. Lira
+[quest_title_1030720201000015] VS. Liza
+[quest_title_1030720201000016] VS. Entrenadores de la residencia (10)
+[quest_title_1030720201000017] VS. Entrenadores de la residencia (11)
+[quest_title_1030720201000018] VS. Entrenadores de la residencia (12)
+[quest_title_1030720201000019] VS. Vito y Leti
+[quest_title_1030720201000020] VS. Sabino
+[quest_title_1030720201000021] VS. Entrenadores de la residencia (13)
+[quest_title_1030720201000022] VS. Entrenadores de la residencia (14)
+[quest_title_1030720201000023] VS. Entrenadores de la residencia (15)
+[quest_title_1030720201000024] VS. Cristi
+[quest_title_1030720201000025] VS. Espinal
+[quest_title_1030720203000026] VS. Sabino
+[quest_title_1030720203000027] VS. Espinal
+[quest_title_1030202000701001] Los ojos que brillan en la oscuridad
+[quest_title_1030202010701001] Las pesadillas que acechan
+en la más oscura noche
+[quest_title_1030202020701001] La maldición nefasta
+[quest_title_1030202030701001] La sombra sospechosa
+[quest_title_1030202000701002] ¡Vence la oscuridad eterna!
+[quest_title_1030202010701002] ¡Doma al que viene del más allá!
+[quest_title_1030202020701002] Derriba al mensajero del más allá
+[quest_title_1030110000220100] Paolo, tu rival
+[quest_title_1030110000220200] VS. Paolo, Tileo y Édel
+[quest_title_1030110000220300] Paolo, tu rival (2)
+[quest_title_1030110010220200] VS. Paolo, Tileo y Édel
+[quest_title_1030110020220200] VS. Paolo, Tileo y Édel
+[quest_title_1030110030220200] VS. Paolo, Tileo y Édel
+[quest_title_1030110000230100] La chica más glamurosa
+[quest_title_1030110000230200] VS. Entrenadores callejeros
+[quest_title_1030110000230300] Soñando con convertirse en Pokémon
+[quest_title_1030110000230400] VS. Club de fans de Camila
+[quest_title_1030110000230500] Valeria ansía conocer a alguien
+[quest_title_1030110000230600] VS. Entrenadores del bosque
+[quest_title_1030110000230700] ¡Hoja tiene una idea!
+[quest_title_1030110000230800] VS. Valeria
+[quest_title_1030110000230900] Los adversarios que nos aguardan
+[quest_title_1030110010230800] VS. Valeria
+[quest_title_1030110020230800] VS. Valeria
+[quest_title_1030110030230800] VS. Valeria
+[quest_title_1030110000240100] Sobre el escenario
+[quest_title_1030110000240200] VS. Ataque sorpresa del Team Break
+[quest_title_1030110000240300] Sobre el escenario (2)
+[quest_title_1030110000240400] VS. Camila (Traje S) y su equipo
+[quest_title_1030110000240500] Sobre el escenario (3)
+[quest_title_1030110010240400] VS. Camila (Traje S) y su equipo
+[quest_title_1030110020240400] VS. Camila (Traje S) y su equipo
+[quest_title_1030110030240400] VS. Camila (Traje S) y su equipo
+[quest_title_1030210157000000] Un día con Valeria
+[quest_title_1030210106100000] Un día con Camila (Traje S)
+[quest_title_1030210151000000] Un día con Fantina
+[quest_title_1030210114000000] Un día con Sabrina
 [quest_title_1030201000601120] ¡Vence a Máximo! (3)
+[quest_group_title_100026] Capítulo 22
+[quest_group_title_100028] Capítulo 23
+[quest_group_title_100029] Capítulo 24
+[quest_group_detail_100026] Paolo, tu rival
+[quest_group_detail_100028] La moda une corazones
+[quest_group_detail_100029] Sobre el escenario
 [quest_title_1030201001001550] El dragón que rasga los cielos (2)
 [quest_title_1030201001001610] VS. Team Break
 [quest_title_1030201001001620] VS. Team Break (2)
@@ -2934,6 +3243,30 @@ hielo
 [quest_title_1030210137000004] Un día con Oak
 [quest_group_title_10129000000] Tristana
 [quest_group_title_10137000000] Oak
+[quest_group_title_10157000000] Valeria
+[quest_group_title_10106100000] Camila (Traje S)
+[quest_group_title_10151000000] Fantina
+[quest_group_title_10114000000] Sabrina
+[quest_title_1030202001001060] ¡Mewtwo entra en acción! (2)
+[quest_title_1030202000601080] Aventuras en compañía
+[quest_title_1030202000601090] Sesión de fotos de calidad
+[quest_title_1030202000601100] Las últimas creaciones de Camila
+[quest_title_1030202000601110] Un combate de acertijos
+[quest_title_1030202000601120] Por y para una fan
+[quest_title_1030202000601130] Los trucos de Rotom
+[quest_title_1030202000601140] Un compi de aúpa
+[quest_title_1030202000601150] Confianza en uno mismo
+[quest_title_1030202000601160] La predicción de Mento
+[quest_title_1030202000601170] Un entusiasmo deslumbrante
+[quest_title_1030202000601010] Capítulo 1: Un comienzo inesperado
+[quest_title_1030202000601020] Capítulo 2: Un primer acto magnífico
+[quest_title_1030202000601030] Capítulo 3: Un giro vertiginoso
+[quest_title_1030202000601040] Capítulo 4: Una modelo de impresión
+[quest_title_1030202000601050] VS. Team Break
+[quest_title_1030202000601060] VS. Team Break (2)
+[quest_title_1030202000601070] VS. Team Break (3)
+[quest_title_1030202000601180] Invitación al espectáculo
+de moda
 
 ===========
 story_quest_name_fr.lsd
@@ -3089,6 +3422,8 @@ story_quest_name_fr.lsd
 [quest_title_1030102000160200] Combat : Koga et Jeannine
 [quest_title_1030102000170200] Combat : Margie, Spectra et Agatha
 [quest_title_1030102000180200] Combat : Tcheren, Ludwig et Ludvina
+[quest_title_1030210000000000] Une journée avec Red (Look
+Ultime)
 [quest_title_1030210002000000] Une journée avec Célesta
 [quest_title_1030210003000000] Une journée avec Kalem
 [quest_title_1030210004000000] Une journée avec Ludvina
@@ -3174,8 +3509,22 @@ story_quest_name_fr.lsd
 [quest_title_1030220099000200] L'évolution de Prinplouf
 [quest_title_1030220004000100] L'évolution de Gruikui
 [quest_title_1030220004000200] L'évolution de Grotichon
+[quest_title_1030220020000100] L'évolution de Moustillon
+[quest_title_1030220020000200] L'évolution de Mateloutre
+[quest_title_1030220011000100] L'évolution de Scobolide
 [quest_title_1030220019000100] L'évolution d'Arcko
 [quest_title_1030220019000200] L'évolution de Massko
+[quest_title_1030220003000100] L'évolution de Psystigri
+[quest_title_1030220033000100] L'évolution de Batracné
+[quest_title_1030220037000100] L'évolution de Boustiflor
+[quest_title_1030220038000100] L'évolution de Kranidos
+[quest_title_1030220035000100] L'évolution de Voltorbe
+[quest_title_1030220043000100] L'évolution de Makuhita
+[quest_title_1030220044000100] L'évolution de Tarinor
+[quest_title_1030220049000100] L'évolution de Téraclope
+[quest_title_1030220050000100] L'évolution de Méditikka
+[quest_title_1030220053000100] L'évolution d'Amagara
+[quest_title_1030220059000100] L'évolution de Ponyta
 [quest_title_1030401001500001] Défi EX (Pierre)
 [quest_title_1030401001500002] Défi EX (Pierre)
 [quest_title_1030401010100001] Défi EX (Écho)
@@ -3344,6 +3693,7 @@ story_quest_name_fr.lsd
 [quest_group_title_500017] Épreuve Soutien : Oléa
 [quest_group_title_500018] Épreuve Renforcement : Kunz
 [quest_group_title_500019] Épreuve Pièces : Tatia
+[quest_group_title_10000000000] Red (Look Ultime)
 [quest_group_title_10001000000] Professeur Euphorbe
 [quest_group_title_10002000000] Célesta
 [quest_group_title_10003000000] Kalem
@@ -3676,7 +4026,94 @@ story_quest_name_fr.lsd
 [quest_title_1030201000601090] Avec Rochard II
 [quest_title_1030201000601100] Contre Rochard I
 [quest_title_1030201000601110] Contre Rochard II
+[quest_title_1030720201000001] Combats dans la Villa I
+[quest_title_1030720201000002] Combats dans la Villa II
+[quest_title_1030720201000003] Combats dans la Villa III
+[quest_title_1030720201000004] Combat : Erika
+[quest_title_1030720201000005] Combat : Cléa
+[quest_title_1030720201000006] Combats dans la Villa IV
+[quest_title_1030720201000007] Combats dans la Villa V
+[quest_title_1030720201000008] Combats dans la Villa VI
+[quest_title_1030720201000009] Combat : Agatha
+[quest_title_1030720201000010] Combat : Elvis
+[quest_title_1030720201000011] Combats dans la Villa VII
+[quest_title_1030720201000012] Combats dans la Villa VIII
+[quest_title_1030720201000013] Combats dans la Villa IX
+[quest_title_1030720201000014] Combat : Célesta
+[quest_title_1030720201000015] Combat : Ludvina
+[quest_title_1030720201000016] Combats dans la Villa X
+[quest_title_1030720201000017] Combats dans la Villa XI
+[quest_title_1030720201000018] Combats dans la Villa XII
+[quest_title_1030720201000019] Combat : Lévy et Tatia
+[quest_title_1030720201000020] Combat : Sam
+[quest_title_1030720201000021] Combats dans la Villa XIII
+[quest_title_1030720201000022] Combats dans la Villa XIV
+[quest_title_1030720201000023] Combats dans la Villa XV
+[quest_title_1030720201000024] Combat : Christy
+[quest_title_1030720201000025] Combat : Cardus
+[quest_title_1030720203000026] Combat : Sam
+[quest_title_1030720203000027] Combat : Cardus
+[quest_title_1030202000701001] Les yeux qui brillent dans
+la nuit
+[quest_title_1030202010701001] Les cauchemars rampant
+dans le noir
+[quest_title_1030202020701001] La malédiction fatale
+[quest_title_1030202030701001] Une ombre suspecte
+[quest_title_1030202000701002] L'ombre sans fin
+[quest_title_1030202010701002] Les serviteurs de l'au-delà
+[quest_title_1030202020701002] Les mânes assoiffées
+[quest_title_1030110000220100] L'attaque du rival : Kyrill ! I
+[quest_title_1030110000220200] Combat : Kyrill, Thyméo
+et Urup
+[quest_title_1030110000220300] L'attaque du rival : Kyrill ! II
+[quest_title_1030110010220200] Combat : Kyrill, Thyméo
+et Urup
+[quest_title_1030110020220200] Combat : Kyrill, Thyméo
+et Urup
+[quest_title_1030110030220200] Combat : Kyrill, Thyméo
+et Urup
+[quest_title_1030110000230100] La nymphe venue d'un pays
+chargé d'histoire
+[quest_title_1030110000230200] Combat : Dresseurs (chemin)
+[quest_title_1030110000230300] J'aimerais devenir
+un Pokémon
+[quest_title_1030110000230400] Combat : le fan club
+d'Inezia
+[quest_title_1030110000230500] La personne que Valériane
+veut rencontrer
+[quest_title_1030110000230600] Combat : Dresseurs de la
+forêt
+[quest_title_1030110000230700] L'idée de Leaf
+[quest_title_1030110000230800] Combat : Valériane
+[quest_title_1030110000230900] Les prochains adversaires
+[quest_title_1030110010230800] Combat : Valériane
+[quest_title_1030110020230800] Combat : Valériane
+[quest_title_1030110030230800] Combat : Valériane
+[quest_title_1030110000240100] Sur scène avec les stars I
+[quest_title_1030110000240200] Combat : L'attaque surprise
+de la Team Break
+[quest_title_1030110000240300] Sur scène avec les stars II
+[quest_title_1030110000240400] Combat : l'équipe d'Inezia
+(Look Ultime)
+[quest_title_1030110000240500] Sur scène avec les stars III
+[quest_title_1030110010240400] Combat : l'équipe d'Inezia
+(Look Ultime)
+[quest_title_1030110020240400] Combat : l'équipe d'Inezia
+(Look Ultime)
+[quest_title_1030110030240400] Combat : l'équipe d'Inezia
+(Look Ultime)
+[quest_title_1030210157000000] Une journée avec Valériane
+[quest_title_1030210106100000] Une journée avec Inezia
+(Look Ultime)
+[quest_title_1030210151000000] Une journée avec Kiméra
+[quest_title_1030210114000000] Une journée avec Morgane
 [quest_title_1030201000601120] Contre Rochard III
+[quest_group_title_100026] Chapitre 22
+[quest_group_title_100028] Chapitre 23
+[quest_group_title_100029] Chapitre 24
+[quest_group_detail_100026] L'attaque du rival : Kyrill !
+[quest_group_detail_100028] Des âmes liées par la mode
+[quest_group_detail_100029] Sur scène avec les stars
 [quest_title_1030201001001550] Le dragon qui fend les
 cieux (2)
 [quest_title_1030201001001610] Combat : Team Break
@@ -3685,6 +4122,29 @@ cieux (2)
 [quest_title_1030210137000004] Une journée avec Chen
 [quest_group_title_10129000000] Amaryllis
 [quest_group_title_10137000000] Raphaël Chen
+[quest_group_title_10157000000] Valériane
+[quest_group_title_10106100000] Inezia (Look Ultime)
+[quest_group_title_10151000000] Kiméra
+[quest_group_title_10114000000] Morgane
+[quest_title_1030202001001060] Mewtwo attaque ! II
+[quest_title_1030202000601080] Une balade à deux
+[quest_title_1030202000601090] Une séance photo prisée
+[quest_title_1030202000601100] La nouvelle œuvre révélée
+[quest_title_1030202000601110] Le concours de devinettes
+[quest_title_1030202000601120] Combler les fans
+[quest_title_1030202000601130] Motisma se lâche !
+[quest_title_1030202000601140] Un merveilleux partenaire
+[quest_title_1030202000601150] Être soi-même
+[quest_title_1030202000601160] Les visions de Clément
+[quest_title_1030202000601170] Éblouissons la foule !
+[quest_title_1030202000601010] 1. Ouverture mouvementée
+[quest_title_1030202000601020] 2. Premier acte spectaculaire
+[quest_title_1030202000601030] 3. Éblouissons la foule !
+[quest_title_1030202000601040] 4. Un mannequin d'exception
+[quest_title_1030202000601050] Combat : Team Break
+[quest_title_1030202000601060] Combat : Team Break II
+[quest_title_1030202000601070] Combat : Team Break III
+[quest_title_1030202000601180] L'invitation au défilé
 
 ===========
 story_quest_name_it.lsd
@@ -3840,6 +4300,7 @@ story_quest_name_it.lsd
 [quest_title_1030102000160200] VS Koga e Nina
 [quest_title_1030102000170200] VS Malpi, Ester e Agatha
 [quest_title_1030102000180200] VS Komor, Alcide e Anita
+[quest_title_1030210000000000] Un giorno con Rosso Costumax
 [quest_title_1030210002000000] Un giorno con Cetra
 [quest_title_1030210003000000] Un giorno con Calem
 [quest_title_1030210004000000] Un giorno con Anita
@@ -3925,8 +4386,22 @@ story_quest_name_it.lsd
 [quest_title_1030220099000200] L'evoluzione di Prinplup
 [quest_title_1030220004000100] L'evoluzione di Tepig
 [quest_title_1030220004000200] L'evoluzione di Pignite
+[quest_title_1030220020000100] L'evoluzione di Oshawott
+[quest_title_1030220020000200] L'evoluzione di Dewott
+[quest_title_1030220011000100] L'evoluzione di Whirlipede
 [quest_title_1030220019000100] L'evoluzione di Treecko
 [quest_title_1030220019000200] L'evoluzione di Grovyle
+[quest_title_1030220003000100] L'evoluzione di Espurr
+[quest_title_1030220033000100] L'evoluzione di Palpitoad
+[quest_title_1030220037000100] L'evoluzione di Weepinbell
+[quest_title_1030220038000100] L'evoluzione di Cranidos
+[quest_title_1030220035000100] L'evoluzione di Voltorb
+[quest_title_1030220043000100] L'evoluzione di Makuhita
+[quest_title_1030220044000100] L'evoluzione di Nosepass
+[quest_title_1030220049000100] L'evoluzione di Dusclops
+[quest_title_1030220050000100] L'evoluzione di Meditite
+[quest_title_1030220053000100] L'evoluzione di Amaura
+[quest_title_1030220059000100] L'evoluzione di Ponyta
 [quest_title_1030401001500001] Sfida extra - Brock
 [quest_title_1030401001500002] Sfida extra - Brock
 [quest_title_1030401010100001] Sfida extra - Rina
@@ -4095,6 +4570,7 @@ story_quest_name_it.lsd
 [quest_group_title_500017] Training supporto SP: Rika
 [quest_group_title_500018] Training rinforzo SP: Marzio
 [quest_group_title_500019] Training dorato SP: Pat
+[quest_group_title_10000000000] Rosso Costumax
 [quest_group_title_10001000000] Kukui
 [quest_group_title_10002000000] Cetra
 [quest_group_title_10003000000] Calem
@@ -4425,7 +4901,77 @@ story_quest_name_it.lsd
 [quest_title_1030201000601090] Lotta con Rocco! 2
 [quest_title_1030201000601100] Sconfiggi Rocco! 1
 [quest_title_1030201000601110] Sconfiggi Rocco! 2
+[quest_title_1030720201000001] VS Allenatori: residenza 1
+[quest_title_1030720201000002] VS Allenatori: residenza 2
+[quest_title_1030720201000003] VS Allenatori: residenza 3
+[quest_title_1030720201000004] VS Erika
+[quest_title_1030720201000005] VS Chette
+[quest_title_1030720201000006] VS Allenatori: residenza 4
+[quest_title_1030720201000007] VS Allenatori: residenza 5
+[quest_title_1030720201000008] VS Allenatori: residenza 6
+[quest_title_1030720201000009] VS Agatha
+[quest_title_1030720201000010] VS Ravi
+[quest_title_1030720201000011] VS Allenatori: residenza 7
+[quest_title_1030720201000012] VS Allenatori: residenza 8
+[quest_title_1030720201000013] VS Allenatori: residenza 9
+[quest_title_1030720201000014] VS Cetra
+[quest_title_1030720201000015] VS Anita
+[quest_title_1030720201000016] VS Allenatori: residenza 10
+[quest_title_1030720201000017] VS Allenatori: residenza 11
+[quest_title_1030720201000018] VS Allenatori: residenza 12
+[quest_title_1030720201000019] VS Tell e Pat
+[quest_title_1030720201000020] VS Savino
+[quest_title_1030720201000021] VS Allenatori: residenza 13
+[quest_title_1030720201000022] VS Allenatori: residenza 14
+[quest_title_1030720201000023] VS Allenatori: residenza 15
+[quest_title_1030720201000024] VS Kristy
+[quest_title_1030720201000025] VS Spino
+[quest_title_1030720203000026] VS Savino
+[quest_title_1030720203000027] VS Spino
+[quest_title_1030202000701001] Occhi che brillano nel buio
+[quest_title_1030202010701001] Incubi striscianti nella notte
+[quest_title_1030202020701001] Una maledizione fatale
+[quest_title_1030202030701001] Un'ombra sospetta
+[quest_title_1030202000701002] Fronteggia le tenebre infinite!
+[quest_title_1030202010701002] Doma il richiamo per l'aldilà!
+[quest_title_1030202020701002] Abbatti gli inviati dell'aldilà!
+[quest_title_1030110000220100] Owen il rivale! (parte 1)
+[quest_title_1030110000220200] VS Owen, Timeus ed Edel
+[quest_title_1030110000220300] Owen il rivale! (parte 2)
+[quest_title_1030110010220200] VS Owen, Timeus ed Edel
+[quest_title_1030110020220200] VS Owen, Timeus ed Edel
+[quest_title_1030110030220200] VS Owen, Timeus ed Edel
+[quest_title_1030110000230100] La fanciulla ricca di storia
+[quest_title_1030110000230200] VS Allenatori: strada
+[quest_title_1030110000230300] Voglio diventare un Pokémon!
+[quest_title_1030110000230400] VS Fan di Camelia
+[quest_title_1030110000230500] L'aspirazione di Valérie
+[quest_title_1030110000230600] VS Allenatori: bosco
+[quest_title_1030110000230700] La proposta di Leaf
+[quest_title_1030110000230800] VS Valérie
+[quest_title_1030110000230900] Gli avversari al varco
+[quest_title_1030110010230800] VS Valérie
+[quest_title_1030110020230800] VS Valérie
+[quest_title_1030110030230800] VS Valérie
+[quest_title_1030110000240100] Un palco scintillante (parte 1)
+[quest_title_1030110000240200] VS Team Break a sorpresa
+[quest_title_1030110000240300] Un palco scintillante (parte 2)
+[quest_title_1030110000240400] VS Camelia Costumax & co.
+[quest_title_1030110000240500] Un principe irrecuperabile
+[quest_title_1030110010240400] VS Camelia Costumax & co.
+[quest_title_1030110020240400] VS Camelia Costumax & co.
+[quest_title_1030110030240400] VS Camelia Costumax & co.
+[quest_title_1030210157000000] Un giorno con Valérie
+[quest_title_1030210106100000] Un giorno con Camelia Costumax
+[quest_title_1030210151000000] Un giorno con Fannie
+[quest_title_1030210114000000] Un giorno con Sabrina
 [quest_title_1030201000601120] Sconfiggi Rocco! 3
+[quest_group_title_100026] Capitolo 22
+[quest_group_title_100028] Capitolo 23
+[quest_group_title_100029] Capitolo 24
+[quest_group_detail_100026] Owen il rivale!
+[quest_group_detail_100028] La moda unisce le persone
+[quest_group_detail_100029] Un palco scintillante
 [quest_title_1030201001001550] Il drago che squarcia i cieli 2
 [quest_title_1030201001001610] VS Team Break
 [quest_title_1030201001001620] VS Team Break 2
@@ -4433,6 +4979,29 @@ story_quest_name_it.lsd
 [quest_title_1030210137000004] Un giorno con Oak
 [quest_group_title_10129000000] Lyris
 [quest_group_title_10137000000] Oak
+[quest_group_title_10157000000] Valérie
+[quest_group_title_10106100000] Camelia Costumax
+[quest_group_title_10151000000] Fannie
+[quest_group_title_10114000000] Sabrina
+[quest_title_1030202001001060] Mewtwo all'attacco! 2
+[quest_title_1030202000601080] Un'uscita in due
+[quest_title_1030202000601090] Un servizio di successo
+[quest_title_1030202000601100] Le ultime creazioni di Camelia
+[quest_title_1030202000601110] Sfida a colpi di quiz!
+[quest_title_1030202000601120] Al servizio di una fan
+[quest_title_1030202000601130] Rotom dà una mano
+[quest_title_1030202000601140] Un compagno fantastico
+[quest_title_1030202000601150] Essere se stessi
+[quest_title_1030202000601160] La previsione di Pino
+[quest_title_1030202000601170] Mi fate girare la testa!
+[quest_title_1030202000601010] 1. Inizio con imprevisto
+[quest_title_1030202000601020] 2. Si alza il sipario
+[quest_title_1030202000601030] 3. Vi farò girare la testa!
+[quest_title_1030202000601040] 4. Una vera top model
+[quest_title_1030202000601050] VS Team Break
+[quest_title_1030202000601060] VS Team Break 2
+[quest_title_1030202000601070] VS Team Break 3
+[quest_title_1030202000601180] Invito alla sfilata
 
 ===========
 story_quest_name_ja.lsd
@@ -4588,6 +5157,7 @@ story_quest_name_ja.lsd
 [quest_title_1030102000160200] ＶＳ　キョウ＆アンズ
 [quest_title_1030102000170200] ＶＳ　アセロラ＆フヨウ＆キクコ
 [quest_title_1030102000180200] ＶＳ　チェレン＆トウヤ＆トウコ
+[quest_title_1030210000000000] とある日のマジコスレッド
 [quest_title_1030210002000000] とある日のコトネ
 [quest_title_1030210003000000] とある日のカルム
 [quest_title_1030210004000000] とある日のトウコ
@@ -4673,8 +5243,22 @@ story_quest_name_ja.lsd
 [quest_title_1030220099000200] ポッタイシの進化
 [quest_title_1030220004000100] ポカブの進化
 [quest_title_1030220004000200] チャオブーの進化
+[quest_title_1030220020000100] ミジュマルの進化
+[quest_title_1030220020000200] フタチマルの進化
+[quest_title_1030220011000100] ホイーガの進化
 [quest_title_1030220019000100] キモリの進化
 [quest_title_1030220019000200] ジュプトルの進化
+[quest_title_1030220003000100] ニャスパーの進化
+[quest_title_1030220033000100] ガマガルの進化
+[quest_title_1030220037000100] ウツドンの進化
+[quest_title_1030220038000100] ズガイドスの進化
+[quest_title_1030220035000100] ビリリダマの進化
+[quest_title_1030220043000100] マクノシタの進化
+[quest_title_1030220044000100] ノズパスの進化
+[quest_title_1030220049000100] サマヨールの進化
+[quest_title_1030220050000100] アサナンの進化
+[quest_title_1030220053000100] アマルスの進化
+[quest_title_1030220059000100] ポニータの進化
 [quest_title_1030401001500001] ＥＸチャレンジ　タケシ
 [quest_title_1030401001500002] ＥＸチャレンジ　タケシ
 [quest_title_1030401010100001] ＥＸチャレンジ　メイ
@@ -4843,6 +5427,7 @@ story_quest_name_ja.lsd
 [quest_group_title_500017] 守の大修練　マツリカ
 [quest_group_title_500018] 強化の大修練　レンブ
 [quest_group_title_500019] 金の大修練　ラン
+[quest_group_title_10000000000] マジコスレッド
 [quest_group_title_10001000000] ククイ
 [quest_group_title_10002000000] コトネ
 [quest_group_title_10003000000] カルム
@@ -5176,7 +5761,77 @@ story_quest_name_ja.lsd
 [quest_title_1030201000601090] 共闘！　ダイゴ２
 [quest_title_1030201000601100] 対決！　ダイゴ
 [quest_title_1030201000601110] 対決！　ダイゴ２
+[quest_title_1030720201000001] ＶＳ　屋敷のトレーナー１
+[quest_title_1030720201000002] ＶＳ　屋敷のトレーナー２
+[quest_title_1030720201000003] ＶＳ　屋敷のトレーナー３
+[quest_title_1030720201000004] ＶＳ　エリカ
+[quest_title_1030720201000005] ＶＳ　チェッタ
+[quest_title_1030720201000006] ＶＳ　屋敷のトレーナー４
+[quest_title_1030720201000007] ＶＳ　屋敷のトレーナー５
+[quest_title_1030720201000008] ＶＳ　屋敷のトレーナー６
+[quest_title_1030720201000009] ＶＳ　キクコ
+[quest_title_1030720201000010] ＶＳ　ドリバル
+[quest_title_1030720201000011] ＶＳ　屋敷のトレーナー７
+[quest_title_1030720201000012] ＶＳ　屋敷のトレーナー８
+[quest_title_1030720201000013] ＶＳ　屋敷のトレーナー９
+[quest_title_1030720201000014] ＶＳ　コトネ
+[quest_title_1030720201000015] ＶＳ　トウコ
+[quest_title_1030720201000016] ＶＳ　屋敷のトレーナー１０
+[quest_title_1030720201000017] ＶＳ　屋敷のトレーナー１１
+[quest_title_1030720201000018] ＶＳ　屋敷のトレーナー１２
+[quest_title_1030720201000019] ＶＳ　フウ＆ラン
+[quest_title_1030720201000020] ＶＳ　ダツラ
+[quest_title_1030720201000021] ＶＳ　屋敷のトレーナー１３
+[quest_title_1030720201000022] ＶＳ　屋敷のトレーナー１４
+[quest_title_1030720201000023] ＶＳ　屋敷のトレーナー１５
+[quest_title_1030720201000024] ＶＳ　クリス
+[quest_title_1030720201000025] ＶＳ　ネジキ
+[quest_title_1030720203000026] ＶＳ　ダツラ
+[quest_title_1030720203000027] ＶＳ　ネジキ
+[quest_title_1030202000701001] 暗闇に光る目のゆくえ
+[quest_title_1030202010701001] 闇夜にうごめく悪夢のゆくえ
+[quest_title_1030202020701001] 命をつけ狙う呪いのゆくえ
+[quest_title_1030202030701001] 潜伏する怪しい影のゆくえ
+[quest_title_1030202000701002] 無限の闇に立ち向かえ！
+[quest_title_1030202010701002] 霊界へと誘う者を制圧せよ！
+[quest_title_1030202020701002] 魂を取り込む霊界の使者を倒せ！
+[quest_title_1030110000220100] ライバル・キリヤ！　前編
+[quest_title_1030110000220200] ＶＳ　キリヤ＆ガンピ＆ウルップ
+[quest_title_1030110000220300] ライバル・キリヤ！　後編
+[quest_title_1030110010220200] ＶＳ　キリヤ＆ガンピ＆ウルップ
+[quest_title_1030110020220200] ＶＳ　キリヤ＆ガンピ＆ウルップ
+[quest_title_1030110030220200] ＶＳ　キリヤ＆ガンピ＆ウルップ
+[quest_title_1030110000230100] 歴史の国から来た乙女
+[quest_title_1030110000230200] ＶＳ　街道のトレーナー
+[quest_title_1030110000230300] ポケモンになりたい
+[quest_title_1030110000230400] ＶＳ　カミツレファンクラブ
+[quest_title_1030110000230500] マーシュの会いたい人
+[quest_title_1030110000230600] ＶＳ　森のトレーナー
+[quest_title_1030110000230700] リーフの提案
+[quest_title_1030110000230800] ＶＳ　マーシュ
+[quest_title_1030110000230900] 先に待つ者たち
+[quest_title_1030110010230800] ＶＳ　マーシュ
+[quest_title_1030110020230800] ＶＳ　マーシュ
+[quest_title_1030110030230800] ＶＳ　マーシュ
+[quest_title_1030110000240100] 光り輝くステージで　前編
+[quest_title_1030110000240200] ＶＳ　奇襲するブレイク団
+[quest_title_1030110000240300] 光り輝くステージで　中編
+[quest_title_1030110000240400] ＶＳ　チーム・マジコスカミツレ
+[quest_title_1030110000240500] 光り輝くステージで　後編
+[quest_title_1030110010240400] ＶＳ　チーム・マジコスカミツレ
+[quest_title_1030110020240400] ＶＳ　チーム・マジコスカミツレ
+[quest_title_1030110030240400] ＶＳ　チーム・マジコスカミツレ
+[quest_title_1030210157000000] とある日のマーシュ
+[quest_title_1030210106100000] とある日のマジコスカミツレ
+[quest_title_1030210151000000] とある日のメリッサ
+[quest_title_1030210114000000] とある日のナツメ
 [quest_title_1030201000601120] 対決！　ダイゴ３
+[quest_group_title_100026] 第２２章
+[quest_group_title_100028] 第２３章
+[quest_group_title_100029] 第２４章
+[quest_group_detail_100026] ライバル・キリヤ！
+[quest_group_detail_100028] ファッションでつながる心
+[quest_group_detail_100029] 光り輝くステージで
 [quest_title_1030201001001550] 空を裂く竜を倒せ２
 [quest_title_1030201001001610] ＶＳ　ブレイク団
 [quest_title_1030201001001620] ＶＳ　ブレイク団２
@@ -5184,6 +5839,29 @@ story_quest_name_ja.lsd
 [quest_title_1030210137000004] とある日のオーキド
 [quest_group_title_10129000000] ヒガナ
 [quest_group_title_10137000000] オーキド
+[quest_group_title_10157000000] マーシュ
+[quest_group_title_10106100000] マジコスカミツレ
+[quest_group_title_10151000000] メリッサ
+[quest_group_title_10114000000] ナツメ
+[quest_title_1030202001001060] 襲撃のミュウツー！２
+[quest_title_1030202000601080] ふたりでお出かけ
+[quest_title_1030202000601090] 撮影会は大人気
+[quest_title_1030202000601100] 新作お披露目会
+[quest_title_1030202000601110] クイズで勝負よ！
+[quest_title_1030202000601120] ファンサービスは惜しまない
+[quest_title_1030202000601130] ロトムの活躍
+[quest_title_1030202000601140] 素敵なバディ
+[quest_title_1030202000601150] 自分らしくあること
+[quest_title_1030202000601160] イツキの未来視
+[quest_title_1030202000601170] クラクラしちゃう！
+[quest_title_1030202000601010] 第１話　オープニングは突然に
+[quest_title_1030202000601020] 第２話　ドラマチックに開演よ
+[quest_title_1030202000601030] 第３話　クラクラさせちゃう！
+[quest_title_1030202000601040] 第４話　これがスーパーモデル！
+[quest_title_1030202000601050] ＶＳ　ブレイク団
+[quest_title_1030202000601060] ＶＳ　ブレイク団２
+[quest_title_1030202000601070] ＶＳ　ブレイク団３
+[quest_title_1030202000601180] ファッションショーにご招待
 
 ===========
 story_quest_name_ko.lsd
@@ -5339,6 +6017,7 @@ story_quest_name_ko.lsd
 [quest_title_1030102000160200] VS 독수&도희
 [quest_title_1030102000170200] VS 아세로라&회연&국화
 [quest_title_1030102000180200] VS 체렌&투지&투희
+[quest_title_1030210000000000] 궁극코스 레드의 어느 날
 [quest_title_1030210002000000] 금선의 어느 날
 [quest_title_1030210003000000] 칼름의 어느 날
 [quest_title_1030210004000000] 투희의 어느 날
@@ -5424,8 +6103,22 @@ story_quest_name_ko.lsd
 [quest_title_1030220099000200] 팽태자의 진화
 [quest_title_1030220004000100] 뚜꾸리의 진화
 [quest_title_1030220004000200] 차오꿀의 진화
+[quest_title_1030220020000100] 수댕이의 진화
+[quest_title_1030220020000200] 쌍검자비의 진화
+[quest_title_1030220011000100] 휠구의 진화
 [quest_title_1030220019000100] 나무지기의 진화
 [quest_title_1030220019000200] 나무돌이의 진화
+[quest_title_1030220003000100] 냐스퍼의 진화
+[quest_title_1030220033000100] 두까비의 진화
+[quest_title_1030220037000100] 우츠동의 진화
+[quest_title_1030220038000100] 두개도스의 진화
+[quest_title_1030220035000100] 찌리리공의 진화
+[quest_title_1030220043000100] 마크탕의 진화
+[quest_title_1030220044000100] 코코파스의 진화
+[quest_title_1030220049000100] 미라몽의 진화
+[quest_title_1030220050000100] 요가랑의 진화
+[quest_title_1030220053000100] 아마루스의 진화
+[quest_title_1030220059000100] 포니타의 진화
 [quest_title_1030401001500001] EX챌린지 웅
 [quest_title_1030401001500002] EX챌린지 웅
 [quest_title_1030401010100001] EX챌린지 명희
@@ -5594,6 +6287,7 @@ story_quest_name_ko.lsd
 [quest_group_title_500017] 수비의 대수련 말리화
 [quest_group_title_500018] 강화의 대수련 연무
 [quest_group_title_500019] 재화의 대수련 란
+[quest_group_title_10000000000] 궁극코스 레드
 [quest_group_title_10001000000] 쿠쿠이
 [quest_group_title_10002000000] 금선
 [quest_group_title_10003000000] 칼름
@@ -5926,7 +6620,77 @@ story_quest_name_ko.lsd
 [quest_title_1030201000601090] 협동! 성호2
 [quest_title_1030201000601100] 대결! 성호
 [quest_title_1030201000601110] 대결! 성호2
+[quest_title_1030720201000001] VS 저택의 트레이너1
+[quest_title_1030720201000002] VS 저택의 트레이너2
+[quest_title_1030720201000003] VS 저택의 트레이너3
+[quest_title_1030720201000004] VS 민화
+[quest_title_1030720201000005] VS 치터
+[quest_title_1030720201000006] VS 저택의 트레이너4
+[quest_title_1030720201000007] VS 저택의 트레이너5
+[quest_title_1030720201000008] VS 저택의 트레이너6
+[quest_title_1030720201000009] VS 국화
+[quest_title_1030720201000010] VS 드리버
+[quest_title_1030720201000011] VS 저택의 트레이너7
+[quest_title_1030720201000012] VS 저택의 트레이너8
+[quest_title_1030720201000013] VS 저택의 트레이너9
+[quest_title_1030720201000014] VS 금선
+[quest_title_1030720201000015] VS 투희
+[quest_title_1030720201000016] VS 저택의 트레이너10
+[quest_title_1030720201000017] VS 저택의 트레이너11
+[quest_title_1030720201000018] VS 저택의 트레이너12
+[quest_title_1030720201000019] VS 풍&란
+[quest_title_1030720201000020] VS 다투라
+[quest_title_1030720201000021] VS 저택의 트레이너13
+[quest_title_1030720201000022] VS 저택의 트레이너14
+[quest_title_1030720201000023] VS 저택의 트레이너15
+[quest_title_1030720201000024] VS 크리스
+[quest_title_1030720201000025] VS 수철
+[quest_title_1030720203000026] VS 다투라
+[quest_title_1030720203000027] VS 수철
+[quest_title_1030202000701001] 어둠 속에서 빛나는 눈의 행방
+[quest_title_1030202010701001] 암야에서 꿈틀거리는 악몽의 행방
+[quest_title_1030202020701001] 생명을 노리는 저주의 행방
+[quest_title_1030202030701001] 잠복해 있는 이상한 그림자의 행방
+[quest_title_1030202000701002] 무한한 어둠에 맞서라!
+[quest_title_1030202010701002] 영계로 유혹하는 자를 제압하라!
+[quest_title_1030202020701002] 혼을 뺏는 영계의 사자를 쓰러뜨려라!
+[quest_title_1030110000220100] 라이벌 고상! 전편
+[quest_title_1030110000220200] VS 고상&간피&우르프
+[quest_title_1030110000220300] 라이벌 고상! 후편
+[quest_title_1030110010220200] VS 고상&간피&우르프
+[quest_title_1030110020220200] VS 고상&간피&우르프
+[quest_title_1030110030220200] VS 고상&간피&우르프
+[quest_title_1030110000230100] 역사 깊은 나라에서 온 소녀
+[quest_title_1030110000230200] VS 거리의 트레이너
+[quest_title_1030110000230300] 포켓몬이 되고 싶어
+[quest_title_1030110000230400] VS 카밀레 팬클럽
+[quest_title_1030110000230500] 마슈가 만나고 싶은 사람
+[quest_title_1030110000230600] VS 숲의 트레이너
+[quest_title_1030110000230700] 리프의 제안
+[quest_title_1030110000230800] VS 마슈
+[quest_title_1030110000230900] 먼저 가서 기다리는 사람들
+[quest_title_1030110010230800] VS 마슈
+[quest_title_1030110020230800] VS 마슈
+[quest_title_1030110030230800] VS 마슈
+[quest_title_1030110000240100] 환하게 빛나는 스테이지에서 전편
+[quest_title_1030110000240200] VS 브레이크단의 기습
+[quest_title_1030110000240300] 환하게 빛나는 스테이지에서 중편
+[quest_title_1030110000240400] VS 팀 궁극코스 카밀레
+[quest_title_1030110000240500] 환하게 빛나는 스테이지에서 후편
+[quest_title_1030110010240400] VS 팀 궁극코스 카밀레
+[quest_title_1030110020240400] VS 팀 궁극코스 카밀레
+[quest_title_1030110030240400] VS 팀 궁극코스 카밀레
+[quest_title_1030210157000000] 마슈의 어느 날
+[quest_title_1030210106100000] 궁극코스 카밀레의 어느 날
+[quest_title_1030210151000000] 멜리사의 어느 날
+[quest_title_1030210114000000] 초련의 어느 날
 [quest_title_1030201000601120] 대결! 성호3
+[quest_group_title_100026] 제22장
+[quest_group_title_100028] 제23장
+[quest_group_title_100029] 제24장
+[quest_group_detail_100026] 라이벌 고상!
+[quest_group_detail_100028] 패션으로 이어지는 마음
+[quest_group_detail_100029] 환하게 빛나는 스테이지에서
 [quest_title_1030201001001550] 하늘을 가르는 용을 쓰러뜨려라2
 [quest_title_1030201001001610] VS 브레이크단
 [quest_title_1030201001001620] VS 브레이크단2
@@ -5934,6 +6698,29 @@ story_quest_name_ko.lsd
 [quest_title_1030210137000004] 오박사의 어느 날
 [quest_group_title_10129000000] 피아나
 [quest_group_title_10137000000] 오박사
+[quest_group_title_10157000000] 마슈
+[quest_group_title_10106100000] 궁극코스 카밀레
+[quest_group_title_10151000000] 멜리사
+[quest_group_title_10114000000] 초련
+[quest_title_1030202001001060] 뮤츠의 습격!2
+[quest_title_1030202000601080] 둘이서 외출
+[quest_title_1030202000601090] 촬영회는 대인기
+[quest_title_1030202000601100] 신상 피로연
+[quest_title_1030202000601110] 퀴즈로 승부하자!
+[quest_title_1030202000601120] 팬 서비스는 아낌없이!
+[quest_title_1030202000601130] 로토무의 활약
+[quest_title_1030202000601140] 멋진 버디
+[quest_title_1030202000601150] 나답게 지내는 것
+[quest_title_1030202000601160] 일목의 미래시
+[quest_title_1030202000601170] 어질어질하게 만들겠어!
+[quest_title_1030202000601010] 제1화 시작은 갑작스레
+[quest_title_1030202000601020] 제2화 드라마틱하게 시작하자
+[quest_title_1030202000601030] 제3화 어질어질하게 만들 거야!
+[quest_title_1030202000601040] 제4화 이게 바로 슈퍼모델!
+[quest_title_1030202000601050] VS 브레이크단
+[quest_title_1030202000601060] VS 브레이크단2
+[quest_title_1030202000601070] VS 브레이크단3
+[quest_title_1030202000601180] 초대받은 패션쇼
 
 ===========
 story_quest_name_zh-TW.lsd
@@ -6089,6 +6876,7 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030102000160200] ＶＳ　阿桔＆阿杏
 [quest_title_1030102000170200] ＶＳ　阿塞蘿拉＆芙蓉＆菊子
 [quest_title_1030102000180200] ＶＳ　黑連＆鬥也＆鬥子
+[quest_title_1030210000000000] 某日的美極套裝赤紅
 [quest_title_1030210002000000] 某日的琴音
 [quest_title_1030210003000000] 某日的卡魯穆
 [quest_title_1030210004000000] 某日的鬥子
@@ -6174,8 +6962,22 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030220099000200] 波皇子的進化
 [quest_title_1030220004000100] 暖暖豬的進化
 [quest_title_1030220004000200] 炒炒豬的進化
+[quest_title_1030220020000100] 水水獺的進化
+[quest_title_1030220020000200] 雙刃丸的進化
+[quest_title_1030220011000100] 車輪毬的進化
 [quest_title_1030220019000100] 木守宮的進化
 [quest_title_1030220019000200] 森林蜥蜴的進化
+[quest_title_1030220003000100] 妙喵的進化
+[quest_title_1030220033000100] 藍蟾蜍的進化
+[quest_title_1030220037000100] 口呆花的進化
+[quest_title_1030220038000100] 頭蓋龍的進化
+[quest_title_1030220035000100] 霹靂電球的進化
+[quest_title_1030220043000100] 幕下力士的進化
+[quest_title_1030220044000100] 朝北鼻的進化
+[quest_title_1030220049000100] 彷徨夜靈的進化
+[quest_title_1030220050000100] 瑪沙那的進化
+[quest_title_1030220053000100] 冰雪龍的進化
+[quest_title_1030220059000100] 小火馬的進化
 [quest_title_1030401001500001] ＥＸ挑戰　小剛
 [quest_title_1030401001500002] ＥＸ挑戰　小剛
 [quest_title_1030401010100001] ＥＸ挑戰　鳴依
@@ -6344,6 +7146,7 @@ story_quest_name_zh-TW.lsd
 [quest_group_title_500017] 守之大修練　茉莉
 [quest_group_title_500018] 強化之大修練　連武
 [quest_group_title_500019] 財富之大修練　小南
+[quest_group_title_10000000000] 美極套裝赤紅
 [quest_group_title_10001000000] 庫庫伊
 [quest_group_title_10002000000] 琴音
 [quest_group_title_10003000000] 卡魯穆
@@ -6676,7 +7479,77 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030201000601090] 並肩作戰！　大吾２
 [quest_title_1030201000601100] 一決勝負！　大吾
 [quest_title_1030201000601110] 一決勝負！　大吾２
+[quest_title_1030720201000001] ＶＳ　莊園的訓練家１
+[quest_title_1030720201000002] ＶＳ　莊園的訓練家２
+[quest_title_1030720201000003] ＶＳ　莊園的訓練家３
+[quest_title_1030720201000004] ＶＳ　莉佳
+[quest_title_1030720201000005] ＶＳ　棘兒
+[quest_title_1030720201000006] ＶＳ　莊園的訓練家４
+[quest_title_1030720201000007] ＶＳ　莊園的訓練家５
+[quest_title_1030720201000008] ＶＳ　莊園的訓練家６
+[quest_title_1030720201000009] ＶＳ　菊子
+[quest_title_1030720201000010] ＶＳ　螺伯
+[quest_title_1030720201000011] ＶＳ　莊園的訓練家７
+[quest_title_1030720201000012] ＶＳ　莊園的訓練家８
+[quest_title_1030720201000013] ＶＳ　莊園的訓練家９
+[quest_title_1030720201000014] ＶＳ　琴音
+[quest_title_1030720201000015] ＶＳ　鬥子
+[quest_title_1030720201000016] ＶＳ　莊園的訓練家１０
+[quest_title_1030720201000017] ＶＳ　莊園的訓練家１１
+[quest_title_1030720201000018] ＶＳ　莊園的訓練家１２
+[quest_title_1030720201000019] ＶＳ　小楓＆小南
+[quest_title_1030720201000020] ＶＳ　達拉
+[quest_title_1030720201000021] ＶＳ　莊園的訓練家１３
+[quest_title_1030720201000022] ＶＳ　莊園的訓練家１４
+[quest_title_1030720201000023] ＶＳ　莊園的訓練家１５
+[quest_title_1030720201000024] ＶＳ　克麗絲
+[quest_title_1030720201000025] ＶＳ　捩木
+[quest_title_1030720203000026] ＶＳ　達拉
+[quest_title_1030720203000027] ＶＳ　捩木
+[quest_title_1030202000701001] 暗中發光的眼瞳去向
+[quest_title_1030202010701001] 闇夜蠢動的惡夢去向
+[quest_title_1030202020701001] 伺機奪命的詛咒去向
+[quest_title_1030202030701001] 潛伏暗處的怪影去向
+[quest_title_1030202000701002] 面對無限黑暗！
+[quest_title_1030202010701002] 壓制靈界勾魂者！
+[quest_title_1030202020701002] 打倒奪魂的靈界使者！
+[quest_title_1030110000220100] 勁敵梧桐！　前篇
+[quest_title_1030110000220200] ＶＳ　梧桐＆雁鎧＆得撫
+[quest_title_1030110000220300] 勁敵梧桐！　後篇
+[quest_title_1030110010220200] ＶＳ　梧桐＆雁鎧＆得撫
+[quest_title_1030110020220200] ＶＳ　梧桐＆雁鎧＆得撫
+[quest_title_1030110030220200] ＶＳ　梧桐＆雁鎧＆得撫
+[quest_title_1030110000230100] 來自歷史國度的少女
+[quest_title_1030110000230200] ＶＳ　街上的訓練家
+[quest_title_1030110000230300] 夢想成為寶可夢
+[quest_title_1030110000230400] ＶＳ　小菊兒粉絲俱樂部
+[quest_title_1030110000230500] 瑪綉想見的人
+[quest_title_1030110000230600] ＶＳ　森林裡的訓練家
+[quest_title_1030110000230700] 葉子的提案
+[quest_title_1030110000230800] ＶＳ　瑪綉
+[quest_title_1030110000230900] 在前方等待的對手們
+[quest_title_1030110010230800] ＶＳ　瑪綉
+[quest_title_1030110020230800] ＶＳ　瑪綉
+[quest_title_1030110030230800] ＶＳ　瑪綉
+[quest_title_1030110000240100] 登上光輝耀眼的舞台　前篇
+[quest_title_1030110000240200] ＶＳ　發動奇襲的破壞隊
+[quest_title_1030110000240300] 登上光輝耀眼的舞台　中篇
+[quest_title_1030110000240400] ＶＳ　美極套裝小菊兒隊
+[quest_title_1030110000240500] 登上光輝耀眼的舞台　後篇
+[quest_title_1030110010240400] ＶＳ　美極套裝小菊兒隊
+[quest_title_1030110020240400] ＶＳ　美極套裝小菊兒隊
+[quest_title_1030110030240400] ＶＳ　美極套裝小菊兒隊
+[quest_title_1030210157000000] 某日的瑪綉
+[quest_title_1030210106100000] 某日的美極套裝小菊兒
+[quest_title_1030210151000000] 某日的梅麗莎
+[quest_title_1030210114000000] 某日的娜姿
 [quest_title_1030201000601120] 一決勝負！　大吾３
+[quest_group_title_100026] 第２２章
+[quest_group_title_100028] 第２３章
+[quest_group_title_100029] 第２４章
+[quest_group_detail_100026] 勁敵梧桐！
+[quest_group_detail_100028] 透過時尚心心相連
+[quest_group_detail_100029] 登上光輝耀眼的舞台
 [quest_title_1030201001001550] 打倒裂天之龍２
 [quest_title_1030201001001610] ＶＳ　破壞隊
 [quest_title_1030201001001620] ＶＳ　破壞隊２
@@ -6684,10 +7557,36 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030210137000004] 某日的大木
 [quest_group_title_10129000000] 希嘉娜
 [quest_group_title_10137000000] 大木
+[quest_group_title_10157000000] 瑪綉
+[quest_group_title_10106100000] 美極套裝小菊兒
+[quest_group_title_10151000000] 梅麗莎
+[quest_group_title_10114000000] 娜姿
+[quest_title_1030202001001060] 奇襲的超夢！２
+[quest_title_1030202000601080] 兩人去郊遊
+[quest_title_1030202000601090] 攝影會人氣旺
+[quest_title_1030202000601100] 新裝發表會
+[quest_title_1030202000601110] 用猜謎決勝負！
+[quest_title_1030202000601120] 粉絲擺第一
+[quest_title_1030202000601130] 洛托姆大顯身手
+[quest_title_1030202000601140] 好拍檔
+[quest_title_1030202000601150] 做自己最亮麗
+[quest_title_1030202000601160] 一樹透視未來
+[quest_title_1030202000601170] 神魂顛倒！
+[quest_title_1030202000601010] 第１話　突如其來的開場
+[quest_title_1030202000601020] 第２話　充滿戲劇性的開演
+[quest_title_1030202000601030] 第３話　讓大家神魂顛倒！
+[quest_title_1030202000601040] 第４話　這就是超級名模！
+[quest_title_1030202000601050] ＶＳ　破壞隊
+[quest_title_1030202000601060] ＶＳ　破壞隊２
+[quest_title_1030202000601070] ＶＳ　破壞隊３
+[quest_title_1030202000601180] 小菊兒的時裝秀
 
 ===========
 trainer_description_de.lsd
 ===========
+[10000000000] Ein gleichermaßen für seine extreme Wortkargheit wie für
+seine Fähigkeiten bekannter Trainer. Blau ist ihm zugleich
+enger Freund und größter Rivale.
 [10001000000] Ein Professor, der sich voll und ganz dem Erforschen
 von Attacken verschrieben hat. Mit der Gründung einer
 Pokémon-Liga in Alola hat er sich seinen Traum erfüllt.
@@ -6945,6 +7844,18 @@ Kämpfe bestreiten.
 [10129000000] Eine geheimnisvolle Frau mit einem verwegenen Lächeln.
 In der Hoenn-Region hat sie versucht, ihre Mission als
 Wissenshüterin des Volks der Meteoraner zu erfüllen.
+[10106100000] Kamilla in ihrer prächtigen Machtmontur verliert in Sachen
+Mode und in Pokémon-Kämpfen gegen niemanden.
+Ihr Ziel ist es, die Nummer eins zu werden.
+[10157000000] Diese Arenaleiterin mit einer auffälligen Sprechweise
+hat ihr originelles Outfit selbst entworfen und möchte
+eines Tages ein Pokémon werden.
+[10114000000] Diese Arenaleiterin mit übernatürlichen Fähigkeiten setzt
+Psycho-Pokémon ein und kann mit ihren hellseherischen
+Kräften die Zukunft vorhersagen. Sie kämpft nicht gerne.
+[10151000000] Sie wurde Arenaleiterin, nachdem sie in harter Arbeit sehr
+viel über Pokémon gelernt hat. Sie setzt Geister-Pokémon
+ein und nimmt auch erfolgreich an Wettbewerben teil.
 [10137000000] Er ist eine Koryphäe in der Pokémon-Forschung und soll
 früher ein zielstrebiger Trainer gewesen sein. Er ist Blaus
 Großvater.
@@ -6952,6 +7863,8 @@ Großvater.
 ===========
 trainer_description_en.lsd
 ===========
+[10000000000] The silent type, this legendary, awesome Pokémon Trainer
+hardly talks at all. His best friend, Blue, is also his rival.
 [10001000000] This Pokémon Professor made his dream of establishing a
 Pokémon League in the Alola region come true. His life’s
 work is studying Pokémon moves.
@@ -7210,6 +8123,19 @@ Legendary Pokémon.
 [10129000000] This mysterious Trainer journeyed throughout the Hoenn
 region to carry out her mission as the Lorekeeper of the
 Draconid people.
+[10106100000] With her new sygna suit, Elesa makes sure that center
+stage is hers—be it in the world of Pokémon battles
+or fashion. 
+[10157000000] A unique Trainer in both looks and mannerisms, she
+began designing Pokémon-inspired clothes in the hope
+that someday she could become a Pokémon.
+[10114000000] A powerful psychic herself, this Gym Leader who uses
+Psychic types can see the future with her precognitive
+powers. She allegedly does not like conflict.
+
+[10151000000] This Gym Leader uses Ghost types and has made a
+reputation for herself in both contests and Pokémon
+battles. She is known for her avid study of Pokémon.
 [10137000000] This pioneering Pokémon Professor was an accomplished
 Trainer in his heyday and has since become an authority
 on Pokémon research. He is also Blue’s grandfather.
@@ -7217,6 +8143,9 @@ on Pokémon research. He is also Blue’s grandfather.
 ===========
 trainer_description_es.lsd
 ===========
+[10000000000] Amigo íntimo y eterno rival de Azul. Aunque a simple
+vista parezca un Entrenador reservado y de pocas
+palabras, posee una destreza legendaria.
 [10001000000] Profesor Pokémon dedicado al estudio de los
 movimientos de los Pokémon que hizo realidad su
 sueño de construir una Liga Pokémon en Alola.
@@ -7509,6 +8438,18 @@ a su Pokémon legendario.
 es la Cronista heredera del legado del Clan Meteoro.
 Viajó por la región de Hoenn con el objetivo de cumplir
 la misión que le fue encomendada.
+[10106100000] Enfundada en su Traje Summum, Camila siempre es
+el centro de atención, tanto en los combates Pokémon
+como en el mundo de la moda.
+[10157000000] Una Entrenadora única, tanto por su apariencia como
+por su extravagancia. Diseña ropa inspirada en Pokémon
+con la esperanza de convertirse en uno algún día.
+[10114000000] Líder de Gimnasio con poderes mentales y experta en
+el tipo Psíquico que posee la habilidad de ver el futuro.
+Según parece, los combates no son plato de su devoción.
+[10151000000] Líder de Gimnasio experta en el tipo Fantasma, conocida
+por ser una ávida estudiosa de los Pokémon. Se ha
+forjado su reputación en concursos y combates Pokémon.
 [10137000000] Una eminencia en el mundo de la investigación Pokémon.
 Parece que en sus años mozos también era un portentoso
 Entrenador. Es el abuelo de Azul.
@@ -7516,6 +8457,8 @@ Entrenador. Es el abuelo de Azul.
 ===========
 trainer_description_fr.lsd
 ===========
+[10000000000] Un Dresseur taciturne au talent légendaire,
+meilleur ami et éternel rival de Blue.
 [10001000000] Un Professeur Pokémon spécialiste des capacités.
 Il a réalisé son rêve de créer une Ligue à Alola.
 [10002000000] Une jeune Dresseuse énergique qui prend grand soin
@@ -7755,6 +8698,18 @@ Un Pokémon légendaire l'accompagne au combat.
 [10129000000] Une jeune fille mystérieuse au sourire énigmatique. Elle
 fera tout pour remplir sa mission en tant que Gardienne
 du Savoir du Peuple du Météore.
+[10106100000] Avec son Look Ultime, Inezia a bien l'intention d'être
+numéro 1 des combats Pokémon et de la haute
+couture.
+[10157000000] Une Championne qui confectionne elle-même ses tenues.
+Elle puise son inspiration unique dans son désir intense de
+devenir un Pokémon.
+[10114000000] Une Championne d'Arène aux pouvoirs psychiques
+intenses. Elle peut voir le futur, et est spécialiste des
+Pokémon Psy, bien qu'elle n'aime guère se battre.
+[10151000000] Une spécialiste du type Spectre qui s'illustre dans les
+Concours Pokémon. Elle ne ménage jamais ses efforts,
+ce qui lui a permis de devenir aussi Championne d'Arène.
 [10137000000] Grand-père de Blue et l'une des plus grandes autorités
 en matière de recherche Pokémon. On dit qu'il était
 également un Dresseur chevronné dans sa jeunesse.
@@ -7762,6 +8717,9 @@ en matière de recherche Pokémon. On dit qu'il était
 ===========
 trainer_description_it.lsd
 ===========
+[10000000000] Taciturno Allenatore dalla forza leggendaria.
+Blu è il suo più grande amico, nonché il suo acerrimo
+rivale.
 [10001000000] Professore Pokémon che è riuscito a realizzare il sogno
 di costruire una Lega Pokémon anche ad Alola.
 Studia le mosse dei Pokémon.
@@ -8021,6 +8979,17 @@ leggendario.
 [10129000000] Una ragazza misteriosa dal sorriso sprezzante. A Hoenn
 ha cercato di portare a termine la sua missione in qualità
 di Custode del segreto del popolo delle meteore.
+[10106100000] Con indosso il suo elegantissimo Costumax, Camelia punta
+a diventare la numero uno sia nelle lotte Pokémon
+che nella moda.
+[10157000000] Una Capopalestra dallo stile molto particolare che disegna
+i suoi abiti spinta dal desiderio di diventare un Pokémon.
+[10114000000] Capopalestra esperta di Pokémon di tipo Psico, è in grado
+di vedere il futuro con la preveggenza.
+Sembra che lottare non le piaccia molto.
+[10151000000] Un'esperta di Pokémon di tipo Spettro che ha grande
+successo nelle Gare. Molto diligente, è riuscita a diventare
+Capopalestra grazie all'assiduo studio dei Pokémon.
 [10137000000] Un luminare nel campo della ricerca sui Pokémon.
 Pare che da giovane fosse un Allenatore davvero
 in gamba. È il nonno di Blu.
@@ -8028,6 +8997,9 @@ in gamba. È il nonno di Blu.
 ===========
 trainer_description_ja.lsd
 ===========
+[10000000000] とても　無口で　ほとんど　話さない
+伝説の　凄腕　ポケモントレーナー。
+親友にして　最大のライバルは　グリーン。
 [10001000000] アローラ地方に　ポケモンリーグを
 設立する　夢を叶えた　ポケモン博士。
 ライフワークは　ポケモンの　技の　研究だ。
@@ -8286,6 +9258,18 @@ trainer_description_ja.lsd
 [10129000000] 不敵な　笑みを　浮かべる　謎の　多い　少女。
 ホウエン地方では　流星の民の　伝承者として
 使命を　果たすために　行動していた。
+[10106100000] 華々しい　マジコスを　身にまとう　カミツレ。
+ポケモン勝負も　ファッションも　誰にも　負けない
+ナンバーワンに　なるのが　目標。
+[10157000000] 印象的な　言葉遣いを　する　ジムリーダー。
+その　独特な　ファッションは　ポケモンに
+なりたい　彼女が　自分で　デザインしている。
+[10114000000] 超能力者で　エスパータイプ使いの　ジムリーダー。
+予知能力があり　未来を　みることが　できる。
+戦いは　あまり　好きでは　ないらしい。
+[10151000000] コンテストでも　活躍する　ゴーストタイプ使い。
+とても努力家で　ジムリーダーに　なれたのも
+ポケモンについて　たくさん勉強した　結果。
 [10137000000] ポケモン研究の　第一人者にして　権威。
 昔は　バリバリの　トレーナーだった　らしい。
 グリーンの　祖父。
@@ -8293,6 +9277,9 @@ trainer_description_ja.lsd
 ===========
 trainer_description_ko.lsd
 ===========
+[10000000000] 매우 과묵해서 거의 말이 없는
+전설의 실력자 포켓몬 트레이너.
+친한 친구이자 최대의 라이벌은 그린이다.
 [10001000000] 알로라지방에 포켓몬리그를
 설립하는 꿈을 이룬 포켓몬 박사.
 포켓몬의 기술 연구에 일생을 바치고 있다.
@@ -8551,6 +9538,18 @@ trainer_description_ko.lsd
 [10129000000] 기분 나쁜 미소를 짓는 수수께끼 많은 소녀.
 호연지방에선 유성의 민족의 전승자로서
 사명을 다하기 위해 행동하고 있었다.
+[10106100000] 화려한 궁극코스를 입은 카밀레.
+포켓몬 승부도 패션도 누구에게도 지지 않을
+넘버원이 되는 것이 목표이다.
+[10157000000] 인상적인 패션의 체육관 관장.
+그 독특한 패션은 포켓몬이 되고 싶은
+그녀가 스스로 디자인한 것이다.
+[10114000000] 초능력자이자 에스퍼타입 전문가인 체육관 관장.
+예지능력을 가지고 있어 미래를 볼 수 있다.
+싸움을 좋아하진 않는다는 것 같다.
+[10151000000] 콘테스트에서도 활약하고 있는 고스트타입 전문가.
+굉장한 노력가이며 체육관 관장이 된 것도
+포켓몬에 대해 많이 공부한 결과이다.
 [10137000000] 포켓몬 연구의 일인자이자 권위자.
 예전엔 이름 날리던 트레이너였던 듯하다.
 그린의 할아버지.
@@ -8558,6 +9557,9 @@ trainer_description_ko.lsd
 ===========
 trainer_description_zh-TW.lsd
 ===========
+[10000000000] 傳說中的寶可夢訓練家。
+沉默寡言，實力驚人。
+青綠是他最好的朋友，也是最大的勁敵。
 [10001000000] 夢想在阿羅拉地區創立寶可夢聯盟，
 並成功圓夢的寶可夢博士。
 他每天都致力於研究寶可夢的招式。
@@ -8816,6 +9818,18 @@ trainer_description_zh-TW.lsd
 [10129000000] 面帶無懼笑容的謎樣少女。
 在豐緣地區時，身為流星之民傳承者的她
 曾經為了完成自己的使命而行動。
+[10106100000] 身穿華麗的美極套裝的小菊兒。
+她的目標是成為第一，在寶可夢對戰和
+時尚潮流上都不輸給任何人。
+[10157000000] 用字遣詞讓人印象深刻的道館館主。
+身穿的獨特服裝，是由想成為
+寶可夢的她親自設計的。
+[10114000000] 使用超能力屬性寶可夢的道館館主。
+是個擁有預知能力能夠看見未來的
+超能力少女。似乎不太喜歡對戰。
+[10151000000] 在華麗大賽也很活躍的幽靈屬性寶可夢訓練家。
+個性非常勤奮，努力學習了許多的寶可夢知識，
+也因此當上了道館館主。
 [10137000000] 是寶可夢研究的第一把交椅，
 也是青綠的爺爺。
 據說年輕時是個非常活躍的訓練家。
@@ -8927,12 +9941,15 @@ trainer_name_de.lsd
 [ch0110] Misty
 [ch0111] Siegfried
 [ch0112] Klarin
+[ch0114] Sabrina
 [ch0124] Maho
 [ch0127] Wassili
 [ch0129] Amalia
 [ch0137] Eich
 [ch0140] Giovanni
+[ch0151] Lamina
 [ch0153] Frosina
+[ch0157] Valerie
 [ch9000] 
 
 ===========
@@ -9042,12 +10059,15 @@ trainer_name_en.lsd
 [ch0110] Misty
 [ch0111] Lance
 [ch0112] Ethan
+[ch0114] Sabrina
 [ch0124] Mallow
 [ch0127] Wallace
 [ch0129] Zinnia
 [ch0137] Professor Oak
 [ch0140] Giovanni
+[ch0151] Fantina
 [ch0153] Glacia
+[ch0157] Valerie
 [ch9000] 
 
 ===========
@@ -9157,12 +10177,15 @@ trainer_name_es.lsd
 [ch0110] Misty
 [ch0111] Lance
 [ch0112] Eco
+[ch0114] Sabrina
 [ch0124] Lulú
 [ch0127] Plubio
 [ch0129] Tristana
 [ch0137] Oak
 [ch0140] Giovanni
+[ch0151] Fantina
 [ch0153] Nívea
+[ch0157] Valeria
 [ch9000] 
 
 ===========
@@ -9272,12 +10295,15 @@ trainer_name_fr.lsd
 [ch0110] Ondine
 [ch0111] Peter
 [ch0112] Luth
+[ch0114] Morgane
 [ch0124] Barbara
 [ch0127] Marc
 [ch0129] Amaryllis
 [ch0137] Chen
 [ch0140] Giovanni
+[ch0151] Kiméra
 [ch0153] Glacia
+[ch0157] Valériane
 [ch9000] 
 
 ===========
@@ -9387,12 +10413,15 @@ trainer_name_it.lsd
 [ch0110] Misty
 [ch0111] Lance
 [ch0112] Armonio
+[ch0114] Sabrina
 [ch0124] Ibis
 [ch0127] Adriano
 [ch0129] Lyris
 [ch0137] Professor Oak
 [ch0140] Giovanni
+[ch0151] Fannie
 [ch0153] Frida
+[ch0157] Valérie
 [ch9000] 
 
 ===========
@@ -9502,12 +10531,15 @@ trainer_name_ja.lsd
 [ch0110] カスミ
 [ch0111] ワタル
 [ch0112] ヒビキ
+[ch0114] ナツメ
 [ch0124] マオ
 [ch0127] ミクリ
 [ch0129] ヒガナ
 [ch0137] オーキド
 [ch0140] サカキ
+[ch0151] メリッサ
 [ch0153] プリム
+[ch0157] マーシュ
 [ch9000] 
 
 ===========
@@ -9617,12 +10649,15 @@ trainer_name_ko.lsd
 [ch0110] 이슬
 [ch0111] 목호
 [ch0112] 심향
+[ch0114] 초련
 [ch0124] 마오
 [ch0127] 윤진
 [ch0129] 피아나
 [ch0137] 오박사
 [ch0140] 비주기
+[ch0151] 멜리사
 [ch0153] 미혜
+[ch0157] 마슈
 [ch9000] 
 
 ===========
@@ -9732,12 +10767,15 @@ trainer_name_zh-TW.lsd
 [ch0110] 小霞
 [ch0111] 阿渡
 [ch0112] 阿響
+[ch0114] 娜姿
 [ch0124] 瑪奧
 [ch0127] 米可利
 [ch0129] 希嘉娜
 [ch0137] 大木
 [ch0140] 阪木
+[ch0151] 梅麗莎
 [ch0153] 波妮
+[ch0157] 瑪綉
 [ch9000] 
 
 ===========
@@ -9758,6 +10796,8 @@ common_widget_de.lsd
 [common_widget/cell_027] Wird freigeschaltet nach Abschluss von
 „[Name:QuestTitle ]“
 [common_widget/cell_028] Grenzbr.
+[common_widget/cell_029] Schwäche
+[common_widget/cell_030] Angriff
 [common_widget/cell_031] Boss
 [common_widget/cell_032] Im Besitz
 [common_widget/cell_033] Einzelmodus
@@ -9765,6 +10805,7 @@ common_widget_de.lsd
 [common_widget/cell_035] Tauschen
 [common_widget/cell_036] Im Besitz
 [common_widget/cell_037] Anzahl
+[common_widget/cell_039] Kosten
 [common_widget/button_001] OK
 [common_widget/button_002] Ja
 [common_widget/button_003] Nein
@@ -9817,6 +10858,23 @@ Berühre „Gefährtensuche“, um die
 derzeit verfügbaren Gefährten zu
 sehen!
 [common_widget/dialog_021] Erhaltfrist
+[common_widget/dialog_024] Kampfvilla-Eröffnung
+[common_widget/dialog_025] Die Kampfvilla ist eröffnet!
+
+Du hast Items erhalten, die dir beim
+Vorankommen in der Kampfvilla helfen.
+[common_widget/dialog_026] Hinweis: Wenn du eine bestimmte Ebene der Kampfvilla
+schon einmal abgeschlossen hast, kannst du dir im
+Listen-Bildschirm die Veranstaltungsboni abholen.
+[common_widget/dialog_027] Veranstaltungszeitraum
+[common_widget/dialog_028] Veranstaltungsboni
+[common_widget/dialog_029] Du hast die Boni der letzten Kampfvilla-
+Veranstaltung erhalten.
+[common_widget/dialog_030] Abgeschlossen bis Ebene [Digit:6digits ]
+[common_widget/dialog_031] Veranstaltungsboni-Liste
+[common_widget/dialog_032] Die Boni dieser Veranstaltung kannst du auch
+über den Listen-Bildschirm bei der nächsten
+Kampfvilla-Veranstaltung erhalten.
 [common_widget/dialog_033] Du besitzt Potenzialpässe, deren
 Nutzungszeitraum bald abläuft.
 [common_widget/dialog_034] Da ihr Nutzungszeitraum abgelaufen
@@ -9829,6 +10887,26 @@ es nicht mehr nutzen.
 Du kannst sie auch nicht mehr auf der Liste in deinem
 Beutel sehen.
 [common_widget/dialog_039] Nutzungszeitraum: [Name:DateTime ]
+[common_widget/dialog_040] Das Datum hat sich geändert. Die KP
+und Attackeneinsatzpunkte (AEP) aller
+Gefährten wurden aufgefüllt.
+Das Teamauswahl-Limit wurde
+zurückgesetzt.
+[common_widget/dialog_041] Hinweis: Das Datum ändert sich jeden Tag um [Name:DateTime ].
+[common_widget/dialog_043] Es sind Gefährten vorhanden, die das
+Teamauswahl-Limit überschreiten.
+Du kannst nicht aufbrechen.
+[common_widget/dialog_044] Das Teamauswahl-Limit wird täglich zurückgesetzt.
+[common_widget/dialog_045] Alle Gefährten im Team sind
+kampfunfähig. Du kannst nicht
+aufbrechen.
+[common_widget/dialog_046] Kampfunfähigkeit wird täglich zurückgesetzt.
+[common_widget/dialog_047] Du kannst nicht zu dieser Ebene
+aufbrechen, weil du die Ebene davor
+noch nicht abgeschlossen hast.
+[common_widget/dialog_048] Veranstaltungsboni werden nach Abschluss der
+Veranstaltung vier Veranstaltungen lang gespeichert.
+[common_widget/dialog_049] Hinweis: Nur in der Kampfvilla einsetzbar.
 [common_widget/dialog_050] Hinweis: Je nach ursprünglichem Stärke-Wert kann es
 passieren, dass die Attacken-Stärke nicht erhöht wird.
 [common_widget/dialog_051] Erhöht den Level der Gefährtenattacke
@@ -9850,6 +10928,9 @@ Wochen-Missionsbingo wurde
 festgelegt!
 [common_widget/dialog_058] Freischaltbedingung
 [common_widget/dialog_059] Neues Missionsbingo freigeschaltet!
+[common_widget/dialog_061] Der Veranstaltungszeitraum ist
+abgelaufen. Du kehrst ins
+Pokémon-Center zurück.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -9896,6 +10977,7 @@ steigt die Kraft der Gefährten.
 Möchtest du zur Gefährtenepisode?
 [common_widget/trainer_detail_050] Angaben gelten für Level 1 der aktuellen ★-Zahl
 mit allen Attacken und Fähigkeiten erlernt.
+[common_widget/trainer_detail_051] Glücksfähigkeit
 [common_widget/dialog_special_item_001] [Name:Item ]
 erhalten!
 [common_widget/dialog_special_item_002] Noch [Digit:1digit ] Orden!
@@ -10026,6 +11108,9 @@ Hauptgeschichte freigeschaltet.
 [common_widget/dialog_release_008] Wird nach Abschluss von „Alolas
 aufgehende Sterne 2“ in Kapitel 11
 der Hauptgeschichte freigeschaltet.
+[common_widget/dialog_release_009] Wird nach Abschluss von
+„Ein unbeugsamer Wille“ in Kapitel 7
+der Hauptgeschichte freigeschaltet.
 [common_widget/release_001] Wird nach Abschluss von „Herzen im Einklang“ in
 Kapitel 1 der Hauptgeschichte freigeschaltet.
 [common_widget/release_002] Wird nach Abschluss von „Kampf gegen Maskierte“ in
@@ -10040,6 +11125,8 @@ in Kapitel 18 (Multimodus, Schwer) freigeschaltet.
 Kapitel 2 der Hauptgeschichte freigeschaltet.
 [common_widget/release_007] Wird nach Abschluss von „Alolas aufgehende Sterne 2“ in
 Kapitel 11 der Hauptgeschichte freigeschaltet.
+[common_widget/release_008] Wird nach Abschluss von „Ein unbeugsamer Wille“
+in Kapitel 7 der Hauptgeschichte freigeschaltet.
 [common_widget/dialog_release_010] Wird nach Abschluss von „Nieder
 mit Team Break!“ in Kapitel 2 der
 Hauptgeschichte freigeschaltet.
@@ -10063,6 +11150,8 @@ common_widget_en.lsd
 [common_widget/cell_026] Stock
 [common_widget/cell_027] Unlock by completing: [Name:QuestTitle ]
 [common_widget/cell_028] 
+[common_widget/cell_029] Weakness
+[common_widget/cell_030] Attack Type
 [common_widget/cell_031] Boss
 [common_widget/cell_032] Stock
 [common_widget/cell_033] single-player
@@ -10070,6 +11159,7 @@ common_widget_en.lsd
 [common_widget/cell_035] Exchanged
 [common_widget/cell_036] Stock
 [common_widget/cell_037] Number
+[common_widget/cell_039] Cost
 [common_widget/button_001] OK
 [common_widget/button_002] Yes
 [common_widget/button_003] No
@@ -10121,6 +11211,24 @@ add them to your team!
 Tap Sync Pair Scout to see which
 sync pairs are available now!
 [common_widget/dialog_021] Available until:
+[common_widget/dialog_024] Battle Villa
+[common_widget/dialog_025] The Battle Villa is now open!
+
+You have been awarded a few items
+that will help you in the challenge!
+[common_widget/dialog_026] Note: If you completed a milestone hall during the last
+Battle Villa challenge, you can claim your rewards now
+by visiting the Final Milestone Rewards screen.
+[common_widget/dialog_027] Date/Time
+[common_widget/dialog_028] Final Milestone Rewards
+[common_widget/dialog_029] The final milestone rewards you earned
+during your last Battle Villa challenge
+have been claimed.
+[common_widget/dialog_030] Hall [Digit:6digits ] Milestone
+[common_widget/dialog_031] Milestone Rewards
+[common_widget/dialog_032] The final milestone rewards you earn during
+this Battle Villa challenge can be claimed
+when the next one begins.
 [common_widget/dialog_033] You have limited-time ★ Power-Ups
 that are expiring soon.
 [common_widget/dialog_034] The following items have expired
@@ -10130,6 +11238,21 @@ can no longer be used.
 [common_widget/dialog_037] These items are no longer usable.
 They will not appear in your Bag.
 [common_widget/dialog_039] Use by: [Name:DateTime ]
+[common_widget/dialog_040] Your sync pair roster has been reset
+for the day. All sync pair HP and MP
+have been refreshed.
+[common_widget/dialog_041] Note: Daily refresh occurs at [Name:DateTime ].
+[common_widget/dialog_043] You don’t have enough space in your
+current roster to battle with this team.
+[common_widget/dialog_044] Note: Sync pair rosters are reset daily.
+[common_widget/dialog_045] None of the sync pairs currently on
+your roster are able to battle.
+[common_widget/dialog_046] Note: Fainted Pokémon recover at the start of each day.
+[common_widget/dialog_047] You can’t access this hall yet.
+Complete the previous hall to continue.
+[common_widget/dialog_048] Final milestone rewards are stored for up to four
+Battle Villa challenges after the current one has ended.
+[common_widget/dialog_049] Note: Can only be used in the Battle Villa.
 [common_widget/dialog_050] Note: Depending on their starting power, this may not
 power up certain moves.
 [common_widget/dialog_051] Levels up the sync move of
@@ -10147,6 +11270,8 @@ has been set!
 [common_widget/dialog_058] Unlock Requirements
 [common_widget/dialog_059] New Mission Bingo cards
 now available!
+[common_widget/dialog_061] This Battle Villa challenge has ended.
+Returning to the Pokémon Center.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -10178,7 +11303,7 @@ Level
 [common_widget/trainer_detail_039] Max Level
 [common_widget/trainer_detail_040] Lv. 1
 [common_widget/trainer_detail_041] Maximum stats at current  ★s
-with all moves & skills unlocked
+with all moves and skills unlocked
 [common_widget/trainer_detail_043] Not yet learned
 [common_widget/trainer_detail_045] Not yet learned
 [common_widget/trainer_detail_046] [Name:Move ]
@@ -10191,6 +11316,7 @@ sync pair story.
 Jump to Sync Pair Stories now?
 [common_widget/trainer_detail_050] Maximum stats at current ★s
 with all moves and skills unlocked
+[common_widget/trainer_detail_051] Lucky Skill
 [common_widget/dialog_special_item_001] [Name:Item ]
 [common_widget/dialog_special_item_002] Only [Digit:1digit ] more [EN:Qty S="badge" P="badges" ] to go!
 [common_widget/dialog_special_item_003] All badges acquired! Time to compete in the PML!
@@ -10300,6 +11426,8 @@ that are purchased.
 Chapter 2: A Friendly New Rival.
 [common_widget/dialog_release_008] To unlock, complete Chapter 11:
 Alola’s Rising Stars: Part  2.
+[common_widget/dialog_release_009] To unlock, complete Chapter 7:
+Where There’s a Will, There’s a Way.
 [common_widget/release_001] To unlock, complete Chapter 1: The More the Merrier.
 [common_widget/release_002] To unlock, complete Chapter 2: Masked Challengers.
 [common_widget/release_003] To unlock, complete Chapter 3: Kindling Friendship.
@@ -10309,6 +11437,8 @@ Hilbert & Hilda in co-op mode on Hard.
 [common_widget/release_006] To unlock, complete Chapter 2: A Friendly New Rival.
 [common_widget/release_007] To unlock, complete
 Chapter 11: Alola’s Rising Stars: Part  2.
+[common_widget/release_008] To unlock, complete Chapter 7:
+Where There’s a Will, There’s a Way.
 [common_widget/dialog_release_010] To unlock, complete Chapter 2:
 Defeat Team Break!
 [common_widget/release_009] To unlock, complete Chapter 2:
@@ -10331,6 +11461,8 @@ common_widget_es.lsd
 [common_widget/cell_026] Tienes:
 [common_widget/cell_027] Tras completar "[Name:QuestTitle ]".
 [common_widget/cell_028] Aumentar Nv. máx.
+[common_widget/cell_029] Debilidad
+[common_widget/cell_030] Ataque
 [common_widget/cell_031] Jefe
 [common_widget/cell_032] Tienes:
 [common_widget/cell_033] Un jugador
@@ -10338,6 +11470,7 @@ common_widget_es.lsd
 [common_widget/cell_035] Canjear
 [common_widget/cell_036] Tienes:
 [common_widget/cell_037] N.º
+[common_widget/cell_039] Coste:
 [common_widget/button_001] Vale
 [common_widget/button_002] Sí
 [common_widget/button_003] No
@@ -10388,6 +11521,25 @@ limitado.
 ¡Toca "Reclutamiento" para ver los
 compis disponibles!
 [common_widget/dialog_021] Límite de obtención
+[common_widget/dialog_024] Residencia Batalla
+[common_widget/dialog_025] La Residencia Batalla abre sus puertas.
+
+Has obtenido algunos objetos que te
+ayudarán en este nuevo desafío.
+[common_widget/dialog_026] Nota: Si alcanzaste alguna de las metas durante la
+etapa anterior de la Residencia Batalla, accede a la
+pantalla de la lista de premios para obtener los premios
+de la Residencia Batalla que te correspondan.
+[common_widget/dialog_027] Duración de la etapa
+[common_widget/dialog_028] Obtener premios
+[common_widget/dialog_029] ¡Has obtenido los premios que te
+correspondían de una etapa anterior
+de la Residencia Batalla!
+[common_widget/dialog_030] Planta [Digit:6digits ] alcanzada
+[common_widget/dialog_031] Lista de premios
+[common_widget/dialog_032] Podrás recibir los premios que obtengas
+durante una etapa de la Residencia Batalla al
+comienzo de la siguiente.
 [common_widget/dialog_033] Algunos de tus Potenciadores
 caducarán dentro de poco.
 [common_widget/dialog_034] Los siguientes objetos han caducado
@@ -10397,6 +11549,23 @@ automáticamente y no podrás utilizarlo.
 [common_widget/dialog_037] No puedes usar los siguientes objetos.
 Tampoco podrás verlos en la Bolsa.
 [common_widget/dialog_039] Caduca: [Name:DateTime ]
+[common_widget/dialog_040] Ha dado comienzo un nuevo día y se
+han restablecido los PS y los PM
+(Puntos de Movimiento) de todos tus
+compis, además del número de veces
+que puedes cambiar la formación.
+[common_widget/dialog_041] El cambio de fecha tiene lugar todos los días a las [Name:DateTime ].
+[common_widget/dialog_043] No puedes comenzar porque has
+superado el límite de compis.
+[common_widget/dialog_044] Nota: Este límite se restablece a diario.
+[common_widget/dialog_045] No puedes comenzar porque todos tus
+compis están fuera de combate.
+[common_widget/dialog_046] Los compis debilitados se recuperan al día siguiente.
+[common_widget/dialog_047] Antes debes completar la planta
+anterior.
+[common_widget/dialog_048] Los premios de una etapa se conservarán durante las
+cuatro etapas siguientes.
+[common_widget/dialog_049] Nota: Solo puede usarse en la Residencia Batalla.
 [common_widget/dialog_050] Nota: En función de su valor original, es posible
 que la potencia de los movimientos no aumente.
 [common_widget/dialog_051] Sirve para aumentar el nivel del mov.
@@ -10420,6 +11589,8 @@ semanal.
 [common_widget/dialog_058] Cómo desbloquear
 [common_widget/dialog_059] ¡Hay nuevas misiones de bingo
 disponibles!
+[common_widget/dialog_061] Esta etapa ha terminado.
+Regresando al Centro Pokémon...
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Nv.
 [common_widget/trainer_detail_004] MÁX.
@@ -10462,6 +11633,7 @@ se hará más fuerte.
 
 ¿Quieres ir a los episodios compi?
 [common_widget/trainer_detail_050] Características máximas de esta pareja con el número actual de ★, a Nv. 1 y con todos sus movimientos y habilidades pasivas desbloqueados.
+[common_widget/trainer_detail_051] Habilidades fortuitas
 [common_widget/dialog_special_item_001] Has conseguido:
 [Name:Item ]
 [common_widget/dialog_special_item_002] Medallas restantes: [Digit:1digit ]
@@ -10575,6 +11747,8 @@ compres.
 de la historia principal.
 [common_widget/dialog_release_008] Completa "Las estrellas de Alola (2)"
 del capítulo 11 de la historia principal.
+[common_widget/dialog_release_009] Completa "Un espíritu inquebrantable"
+del capítulo 7 de la historia principal.
 [common_widget/release_001] Completa "Corazones al unísono" del capítulo 1 de la
 historia principal.
 [common_widget/release_002] Completa "VS. Entrenadores enmascarados" del capítulo 2
@@ -10589,8 +11763,12 @@ principal.
 historia principal.
 [common_widget/release_007] Completa "Las estrellas de Alola (2)" del capítulo 11 de la
 historia principal.
-[common_widget/dialog_release_010] Disponible tras completar la ubicación "Hay que derrotar al Team Break" del capítulo 2 de la historia principal.
-[common_widget/release_009] Disponible tras completar la ubicación "Hay que derrotar al Team Break" del capítulo 2 de la historia principal.
+[common_widget/release_008] Completa "Un espíritu inquebrantable"
+del capítulo 7 de la historia principal.
+[common_widget/dialog_release_010] Completa "Hay que derrotar al Team Break" del
+capítulo 2 de la historia principal.
+[common_widget/release_009] Completa "Hay que derrotar al Team Break" del
+capítulo 2 de la historia principal.
 
 ===========
 common_widget_fr.lsd
@@ -10609,6 +11787,8 @@ common_widget_fr.lsd
 [common_widget/cell_026] Sac
 [common_widget/cell_027] Disponible après avoir fini : « [Name:QuestTitle ] »
 [common_widget/cell_028] Débloqué
+[common_widget/cell_029] Faiblesse
+[common_widget/cell_030] Attaque
 [common_widget/cell_031] Boss
 [common_widget/cell_032] Sac
 [common_widget/cell_033] Solo
@@ -10616,6 +11796,7 @@ common_widget_fr.lsd
 [common_widget/cell_035] Échange
 [common_widget/cell_036] Obtenu
 [common_widget/cell_037] Nombre
+[common_widget/cell_039] Coût
 [common_widget/button_001] OK
 [common_widget/button_002] Oui
 [common_widget/button_003] Non
@@ -10663,6 +11844,24 @@ recruter !
 Touchez « Appel Duo » pour voir qui
 est disponible maintenant !
 [common_widget/dialog_021] Limite d'obtention
+[common_widget/dialog_024] Villa de Combat ouverte !
+[common_widget/dialog_025] La Villa de Combat ouvre ses portes !
+Vous avez reçu des objets qui vous
+aideront à y progresser.
+[common_widget/dialog_026] Note : Si vous avez réussi à gagner dans la Villa de
+Combat jusqu'à un certain échelon, vous pouvez
+obtenir un ou des prix pour cette session dans le menu
+des prix.
+[common_widget/dialog_027] Durée de la session
+[common_widget/dialog_028] Obtenir les prix
+[common_widget/dialog_029] Vous avez obtenu les prix de votre
+participation à la précédente session de la
+Villa de Combat.
+[common_widget/dialog_030] Battre l'échelon [Digit:6digits ]
+[common_widget/dialog_031] Liste des prix
+[common_widget/dialog_032] Si vous participez à la Villa de Combat
+maintenant, vous trouverez vos prix dans le
+menu des prix lors de la prochaine session.
 [common_widget/dialog_033] Un ou plusieurs Duo-Tickets en votre
 possession sont bientôt expirés.
 [common_widget/dialog_034] Les objets suivants ont dépassé la date
@@ -10673,6 +11872,23 @@ détruits et ne pourront plus être utilisés.
 [common_widget/dialog_037] Les objets suivants ne peuvent plus être utilisés.
 Ils n'apparaîtront plus dans votre Sac.
 [common_widget/dialog_039] Utilisable jusqu'au : [Name:DateTime ]
+[common_widget/dialog_040] La date a changé. Vos Duos ont
+regagné leurs PV et Points de Pouvoir
+des Capacités (PPC). La limite
+d'édition de votre équipe a été levée.
+
+[common_widget/dialog_041] Note : la date change tous les jours à [Name:DateTime ].
+[common_widget/dialog_043] Un ou des Duos dépassent la limite
+pour être inclus dans votre équipe.
+[common_widget/dialog_044] La limite de l'équipe est réinitialisée chaque jour.
+[common_widget/dialog_045] Les Duos de votre équipe sont K.O.
+Vous ne pouvez pas partir à l'aventure.
+[common_widget/dialog_046] Un Duo K.O. récupère ses forces après une journée.
+[common_widget/dialog_047] Vous devez battre l'échelon précédent
+avant de tenter votre chance ici.
+[common_widget/dialog_048] Les prix seront distribués après la fin de la session
+en cours. Ils seront conservés pendant 4 sessions.
+[common_widget/dialog_049] Remarque : limité à la Villa de Combat.
 [common_widget/dialog_050] Remarque : Selon la puissance de base de l'attaque,
 il est possible qu'elle n'augmente pas.
 [common_widget/dialog_051] Augmente le niveau de la capacité Duo de
@@ -10694,6 +11910,8 @@ choisir votre carte.
 la semaine a été validée !
 [common_widget/dialog_058] Pour débloquer
 [common_widget/dialog_059] Nouvelles missions bingo disponibles !
+[common_widget/dialog_061] La session est terminée. Retour au
+Centre Pokémon...
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] N.
 [common_widget/trainer_detail_004] MAX
@@ -10738,6 +11956,7 @@ la force du Duo.
 
 Afficher les épisodes Duo ?
 [common_widget/trainer_detail_050] Stats du Duo au nombre d'★ actuel et au niveau 1, avec toutes les capacités et talents passifs débloqués.
+[common_widget/trainer_detail_051] Talent surprise
 [common_widget/dialog_special_item_001] Vous avez obtenu
 1 [Name:Item ] !
 [common_widget/dialog_special_item_002] Encore [Digit:1digit ] Badge[FR:Qty P="s" ] à obtenir !
@@ -10860,6 +12079,9 @@ Ludvina » dans le chapitre 18
 [common_widget/dialog_release_008] Débloqué après avoir terminé
 « Les espoirs d'Alola II »
 dans le chapitre 11.
+[common_widget/dialog_release_009] Débloqué après avoir terminé
+« Un esprit inébranlable »
+au chapitre 7.
 [common_widget/release_001] Terminez « L'écho des cœurs » dans le chapitre 1.
 [common_widget/release_002] Terminez « Combat : Dresseurs masqués » dans
 le chapitre 2.
@@ -10871,6 +12093,8 @@ le chapitre 4.
 (difficile) dans le chapitre 18.
 [common_widget/release_006] Terminez « Un allié fiable » dans le chapitre 2.
 [common_widget/release_007] Terminez « Les espoirs d'Alola II » dans le chapitre 11.
+[common_widget/release_008] Débloqué après avoir terminé « Un esprit inébranlable »
+au chapitre 7.
 [common_widget/dialog_release_010] Débloqué après avoir terminé
 « Battons la Team Break »
 dans le chapitre 2.
@@ -10894,6 +12118,8 @@ common_widget_it.lsd
 [common_widget/cell_026] In Borsa
 [common_widget/cell_027] Completa prima "[Name:QuestTitle ]".
 [common_widget/cell_028] Sblocca
+[common_widget/cell_029] Debole a
+[common_widget/cell_030] Attacchi
 [common_widget/cell_031] Boss
 [common_widget/cell_032] Ne hai
 [common_widget/cell_033] Monosquadra
@@ -10901,6 +12127,7 @@ common_widget_it.lsd
 [common_widget/cell_035] Scambia
 [common_widget/cell_036] Ne hai
 [common_widget/cell_037] Numero
+[common_widget/cell_039] Costo
 [common_widget/button_001] Ok
 [common_widget/button_002] Sì
 [common_widget/button_003] No
@@ -10948,6 +12175,24 @@ solo per un periodo di tempo limitato!
 Scegli quali vuoi tramite la ricerca
 Unità!
 [common_widget/dialog_021] Scadenza ottenimento
+[common_widget/dialog_024] Residenza Lotta aperta
+[common_widget/dialog_025] La nuova Residenza Lotta è ora aperta!
+
+Hai ottenuto degli strumenti utili
+per affrontarne le sfide.
+[common_widget/dialog_026] Se la volta scorsa hai completato determinate sale,
+potrai ricevere le ricompense limitate dalla schermata
+principale della Residenza Lotta.
+[common_widget/dialog_027] Periodo di apertura
+[common_widget/dialog_028] Ricompense limitate
+[common_widget/dialog_029] Hai ricevuto le ricompense limitate
+ottenute nella precedente apertura
+della Residenza Lotta.
+[common_widget/dialog_030] Completamento sala [Digit:6digits ]
+[common_widget/dialog_031] Tutte le ricompense limitate
+[common_widget/dialog_032] Potrai ricevere le ricompense limitate dalla
+schermata principale della Residenza Lotta
+alla prossima apertura.
 [common_widget/dialog_033] Hai degli Uniticket prossimi
 alla scadenza.
 [common_widget/dialog_034] Gli strumenti seguenti sono scaduti
@@ -10957,6 +12202,22 @@ e non sarà più possibile usarli.
 [common_widget/dialog_037] Non è possibile usare questi strumenti.
 Non è possibile nemmeno vederli nella Borsa.
 [common_widget/dialog_039] Scadenza: [Name:DateTime ]
+[common_widget/dialog_040] La data è cambiata.
+I PS di tutte le Unità, gli utilizzi delle
+mosse e il limite massimo di Unità
+in squadra sono stati ripristinati.
+[common_widget/dialog_041] La data cambia tutti i giorni alle [Name:DateTime ].
+[common_widget/dialog_043] Non puoi partire perché hai in squadra
+Unità oltre il limite giornaliero.
+[common_widget/dialog_044] Il limite di Unità in squadra verrà ripristinato al cambio data.
+[common_widget/dialog_045] Non puoi partire perché tutte le Unità
+in squadra sono esauste.
+[common_widget/dialog_046] Le Unità saranno rimesse in sesto al cambio data.
+[common_widget/dialog_047] Non puoi partire perché non hai ancora
+completato la sala precedente.
+[common_widget/dialog_048] Le ricompense limitate vengono conservate per
+quattro periodi di apertura dopo quello attuale.
+[common_widget/dialog_049] Utilizzabile solo nella Residenza Lotta
 [common_widget/dialog_050] In base ai valori di partenza la potenza delle mosse
 potrebbe non aumentare.
 [common_widget/dialog_051] Fa salire di livello l'Unimossa di
@@ -10973,6 +12234,8 @@ Scegli quali missioni affrontare questa settimana nella schermata del tris.
 [common_widget/dialog_057] Hai impostato il livello di difficoltà delle missioni tris settimanali!
 [common_widget/dialog_058] Come sbloccare
 [common_widget/dialog_059] Hai sbloccato nuove missioni tris!
+[common_widget/dialog_061] Periodo terminato.
+Ritorno al Centro Pokémon.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] L.
 [common_widget/trainer_detail_004] MAX
@@ -11017,6 +12280,7 @@ l'Unità diventerà più forte!
 
 Vuoi andare agli episodi Unità?
 [common_widget/trainer_detail_050] Valori per l'Unità al numero di ★ attuale, al L. 1 e con tutte le mosse e abilità passive imparate.
+[common_widget/trainer_detail_051] Talenti
 [common_widget/dialog_special_item_001] Hai ottenuto: [Name:Item ]!
 [common_widget/dialog_special_item_002] Medaglie mancanti: [Digit:1digit ]!
 [common_widget/dialog_special_item_003] Ora hai tutte le medaglie! Puoi affrontare il WPM!
@@ -11133,6 +12397,7 @@ della storia in modalità multigiocatore.
 [common_widget/dialog_release_008] Si sblocca completando
 "Gli astri di Alola (parte 2)"
 del capitolo 11 della storia.
+[common_widget/dialog_release_009] Si sblocca completando "Uno spirito indomito" del capitolo 7.
 [common_widget/release_001] Completa "Sintonia rinsaldata" del capitolo 1 della storia.
 [common_widget/release_002] Completa "VS Allenatori mascherati" del capitolo 2 della
 storia.
@@ -11145,6 +12410,7 @@ del capitolo 18 della storia in modalità multigiocatore.
 [common_widget/release_006] Completa "Amicizie stimolanti" del capitolo 2 della storia.
 [common_widget/release_007] Completa "Gli astri di Alola (parte 2)" del capitolo 11
 della storia.
+[common_widget/release_008] Completa "Uno spirito indomito" del capitolo 7.
 [common_widget/dialog_release_010] Si sblocca completando "Sconfiggi il Team Break!"
 del capitolo 2.
 [common_widget/release_009] Completa "Sconfiggi il Team Break!" del capitolo 2.
@@ -11166,6 +12432,8 @@ common_widget_ja.lsd
 [common_widget/cell_026] 所持
 [common_widget/cell_027] 「[Name:QuestTitle ]」クリアで解放
 [common_widget/cell_028] 上限突破
+[common_widget/cell_029] 弱点
+[common_widget/cell_030] 攻撃
 [common_widget/cell_031] ボス
 [common_widget/cell_032] 所持
 [common_widget/cell_033] ソロ
@@ -11173,6 +12441,7 @@ common_widget_ja.lsd
 [common_widget/cell_035] 交換
 [common_widget/cell_036] 所持
 [common_widget/cell_037] 個数
+[common_widget/cell_039] コスト
 [common_widget/button_001] OK
 [common_widget/button_002] はい
 [common_widget/button_003] いいえ
@@ -11222,6 +12491,22 @@ common_widget_ja.lsd
 バディーズサーチで
 バディーズを選びましょう！
 [common_widget/dialog_021] 獲得期限
+[common_widget/dialog_024] バトルヴィラ開催
+[common_widget/dialog_025] 新たなバトルヴィラが開催中です
+
+バトルヴィラの攻略に役立つ
+どうぐを獲得しました
+[common_widget/dialog_026] ※前回のバトルヴィラを特定のGRADEまで
+クリアしていた場合はリスト画面から
+期間報酬を受け取ることができます
+[common_widget/dialog_027] 開催期間
+[common_widget/dialog_028] 期間報酬獲得
+[common_widget/dialog_029] 前回のバトルヴィラの期間報酬を
+獲得しました
+[common_widget/dialog_030] GRADE [Digit:6digits ]までクリア
+[common_widget/dialog_031] 期間報酬一覧
+[common_widget/dialog_032] 今回の期間報酬は次回のバトルヴィラの
+リスト画面に入るともらえます
 [common_widget/dialog_033] 使用期限の迫っているのびしろがあります
 [common_widget/dialog_034] 期限切れのため
 以下のどうぐが破棄されました
@@ -11230,6 +12515,21 @@ common_widget_ja.lsd
 [common_widget/dialog_037] ※これらのどうぐは使用することはできません
 ※バッグのリストからも確認できなくなります
 [common_widget/dialog_039] 使用期限：[Name:DateTime ] 
+[common_widget/dialog_040] 日付が変わりました
+全バディーズのHP、わざの回数が全回復しました
+編成上限がリセットされました
+[common_widget/dialog_041] ※日付は毎日[Name:DateTime ]に切り替わります
+[common_widget/dialog_043] 編成上限を超えたバディーズがいるため
+出発できません
+[common_widget/dialog_044] ※編成上限は日付が変わるとリセットされます
+[common_widget/dialog_045] 編成されているすべてのバディーズが
+ひんしのため出発できません
+[common_widget/dialog_046] ※ひんし状態は日付が変わるとリセットされます
+[common_widget/dialog_047] 前のGRADEをクリアしていないので
+出発できません
+[common_widget/dialog_048] 期間報酬は現在の開催期間終了後
+四開催分保持されます
+[common_widget/dialog_049] ※バトルヴィラ専用
 [common_widget/dialog_050] ※わざの元の威力値によっては
 わざの威力は上昇しないことがあります
 [common_widget/dialog_051] [Name:TrainerName ]＆[Name:PokemonName ]の
@@ -11248,6 +12548,8 @@ common_widget_ja.lsd
 [common_widget/dialog_058] 解放条件
 [common_widget/dialog_059] 新しいビンゴミッションが
 解放されました！
+[common_widget/dialog_061] 開催期間が終了したので
+ポケモンセンターに戻ります
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -11294,6 +12596,7 @@ MAX
 バディーズエピソードに移動しますか？
 [common_widget/trainer_detail_050] ※現在の★の数におけるLv.1/
 　わざ・スキル習得をすべて行った状態
+[common_widget/trainer_detail_051] ポテンシャル
 [common_widget/dialog_special_item_001] [Name:Item ]を
 獲得しました！
 [common_widget/dialog_special_item_002] のこるバッジは　あと[Digit:1digit ]個！
@@ -11417,6 +12720,9 @@ HARDクリアで解放されます
 [common_widget/dialog_release_008] メインストーリー第１１章
 「アローラの新星！　後編」
 クリアで解放されます
+[common_widget/dialog_release_009] メインストーリー第７章
+「不屈の心」
+クリアで解放されます
 [common_widget/release_001] メインストーリー第１章「共鳴する心」
 クリアで解放
 [common_widget/release_002] メインストーリー第２章「ＶＳ　仮面のトレーナー」
@@ -11430,6 +12736,8 @@ HARDクリアで解放
 [common_widget/release_006] メインストーリー第２章「心強い仲間」
 クリアで解放
 [common_widget/release_007] メインストーリー第１１章「アローラの新星！　後編」
+クリアで解放
+[common_widget/release_008] メインストーリー第７章「不屈の心」
 クリアで解放
 [common_widget/dialog_release_010] メインストーリー第２章
 「ブレイク団を倒せ！」
@@ -11454,6 +12762,8 @@ common_widget_ko.lsd
 [common_widget/cell_026] 보유
 [common_widget/cell_027] "[Name:QuestTitle ]" 클리어하여 해방
 [common_widget/cell_028] 상한돌파
+[common_widget/cell_029] 약점
+[common_widget/cell_030] 공격
 [common_widget/cell_031] 보스
 [common_widget/cell_032] 보유
 [common_widget/cell_033] 싱글
@@ -11461,6 +12771,7 @@ common_widget_ko.lsd
 [common_widget/cell_035] 교환
 [common_widget/cell_036] 보유
 [common_widget/cell_037] 개수
+[common_widget/cell_039] 필요
 [common_widget/button_001] OK
 [common_widget/button_002] 네
 [common_widget/button_003] 아니요
@@ -11509,6 +12820,22 @@ common_widget_ko.lsd
 버디즈서치에서
 버디즈를 선택해 봅시다!
 [common_widget/dialog_021] 획득기한
+[common_widget/dialog_024] 배틀빌라 개최
+[common_widget/dialog_025] 새로운 배틀빌라가 개최 중입니다
+
+배틀빌라 공략에 도움이 되는
+도구를 획득하였습니다
+[common_widget/dialog_026] ※지난 회 배틀빌라를 특정 GRADE까지
+클리어했던 경우에는 목록 화면에서
+참가 보상을 얻을 수 있습니다
+[common_widget/dialog_027] 개최 기간
+[common_widget/dialog_028] 참가 보상 획득
+[common_widget/dialog_029] 지난 회 배틀빌라의
+참가 보상을 획득하였습니다
+[common_widget/dialog_030] GRADE [Digit:6digits ]까지 클리어
+[common_widget/dialog_031] 참가 보상 일람
+[common_widget/dialog_032] 이번 회 참가 보상은 다음 회 배틀빌라의
+목록 화면에 들어가면 받을 수 있습니다
 [common_widget/dialog_033] 사용기한이 얼마 남지 않은 잠재력이 있습니다.
 [common_widget/dialog_034] 기한이 만료되어
 아래의 도구가 파기되었습니다
@@ -11517,6 +12844,22 @@ common_widget_ko.lsd
 [common_widget/dialog_037] ※이 도구는 사용할 수 없습니다
 ※가방 목록에서도 확인할 수 없습니다
 [common_widget/dialog_039] 사용기한:[Name:DateTime ]
+[common_widget/dialog_040] 날짜가 변경되었습니다
+모든 버디즈의 HP, 기술횟수가
+모두 회복되었습니다
+편성 상한이 초기화되었습니다
+[common_widget/dialog_041] ※날짜는 매일 [Name:DateTime ]에 변경됩니다
+[common_widget/dialog_043] 편성 상한을 넘은 버디즈가 있기 때문에
+출발할 수 없습니다
+[common_widget/dialog_044] ※편성 상한은 날짜가 바뀌면 초기화됩니다
+[common_widget/dialog_045] 편성된 모든 버디즈가
+기절했기 때문에 출발할 수 없습니다
+[common_widget/dialog_046] ※기절 상태는 날짜가 바뀌면 초기화됩니다
+[common_widget/dialog_047] 이전 GRADE를 클리어하지 않았기 때문에
+출발할 수 없습니다
+[common_widget/dialog_048] 참가 보상은 현재 참가 중인 배틀빌라의 개최 기간이 종료된 후
+4번째 개최 기간이 종료될 때까지 유지됩니다
+[common_widget/dialog_049] ※배틀빌라 전용
 [common_widget/dialog_050] ※기술의 본래 위력에 따라,
 기술의 위력이 상승하지 않는 경우가 있습니다
 [common_widget/dialog_051] [Name:TrainerName ]＆[Name:PokemonName ]의
@@ -11534,6 +12877,8 @@ common_widget_ko.lsd
 [common_widget/dialog_058] 해방조건
 [common_widget/dialog_059] 새로운 빙고 미션이
 해방되었습니다!
+[common_widget/dialog_061] 개최 기간이 종료되어
+포켓몬센터로 돌아갑니다
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -11579,6 +12924,7 @@ MAX
 버디즈 에피소드로 이동하겠습니까?
 [common_widget/trainer_detail_050] ※현재 ★의 수에서 진행할 수 있는
 Lv.1/기술・스킬 습득을 모두 완료한 상태
+[common_widget/trainer_detail_051] 포텐셜
 [common_widget/dialog_special_item_001] [Name:Item ][Kor:Particle char="wo" ]
 획득했습니다!
 [common_widget/dialog_special_item_002] 남은 배지는 앞으로 [Digit:1digit ]개!
@@ -11699,6 +13045,9 @@ Lv.MAX
 [common_widget/dialog_release_008] 메인 스토리 제11장
 "알로라의 신성! 후편"를
 클리어하면 해방됩니다
+[common_widget/dialog_release_009] 메인 스토리 제7장
+"불굴의 마음"을
+클리어하면 해방됩니다
 [common_widget/release_001] 메인 스토리 제1장 "공명하는 마음"을
 클리어하여 해방
 [common_widget/release_002] 메인 스토리 제2장 "VS 가면 쓴 트레이너"를
@@ -11712,6 +13061,8 @@ Lv.MAX
 [common_widget/release_006] 메인 스토리 제2장 "든든한 동료"를
 클리어하여 해방
 [common_widget/release_007] 메인 스토리 제11장 "알로라의 신성! 후편"을
+클리어하여 해방
+[common_widget/release_008] 메인 스토리 제7장 "불굴의 마음"을
 클리어하여 해방
 [common_widget/dialog_release_010] 메인 스토리 제2장
 "브레이크단을 쓰러뜨려라!"를
@@ -11737,6 +13088,8 @@ common_widget_zh-TW.lsd
 [common_widget/cell_027] 開放條件：
 成功過關「[Name:QuestTitle ]」
 [common_widget/cell_028] 突破上限
+[common_widget/cell_029] 弱點
+[common_widget/cell_030] 攻擊
 [common_widget/cell_031] 頭目
 [common_widget/cell_032] 持有
 [common_widget/cell_033] 單隊
@@ -11744,6 +13097,7 @@ common_widget_zh-TW.lsd
 [common_widget/cell_035] 交換
 [common_widget/cell_036] 持有
 [common_widget/cell_037] 個數
+[common_widget/cell_039] 需消耗
 [common_widget/button_001] OK
 [common_widget/button_002] 是
 [common_widget/button_003] 否
@@ -11787,6 +13141,20 @@ common_widget_zh-TW.lsd
 快前往拍組搜尋
 選取拍組吧！
 [common_widget/dialog_021] 領取期限
+[common_widget/dialog_024] 對戰莊園
+[common_widget/dialog_025] 新一期的「對戰莊園」開放了
+
+獲得了有助於攻略對戰莊園的道具
+[common_widget/dialog_026] ※在上期的對戰莊園
+若有成功過關至特定GRADE
+即可從一覽畫面領取對戰莊園報酬
+[common_widget/dialog_027] 開放期間
+[common_widget/dialog_028] 獲得對戰莊園報酬
+[common_widget/dialog_029] 獲得了上期的對戰莊園報酬
+[common_widget/dialog_030] 成功過關GRADE [Digit:6digits ]
+[common_widget/dialog_031] 對戰莊園報酬一覽
+[common_widget/dialog_032] 本期的對戰莊園報酬
+可在下期進入對戰莊園時獲得
 [common_widget/dialog_033] 有即將超過使用期限的成長潛力
 [common_widget/dialog_034] 因超過使用期限
 下列道具已作廢
@@ -11794,6 +13162,21 @@ common_widget_zh-TW.lsd
 [common_widget/dialog_037] ※這些道具無法使用
 ※這些道具不會再顯示在包包中
 [common_widget/dialog_039] 使用期限：[Name:DateTime ]
+[common_widget/dialog_040] 日期已切換
+全體拍組的HP、招式次數已完全回復
+編制上限已重設
+[common_widget/dialog_041] ※日期會在每日[Name:DateTime ]切換
+[common_widget/dialog_043] 有超出編制上限的拍組
+無法出發
+[common_widget/dialog_044] ※編制上限在日期切換後即會重設
+[common_widget/dialog_045] 編制的所有拍組皆為瀕死狀態
+無法出發
+[common_widget/dialog_046] ※瀕死狀態會在切換「每日」時回復
+[common_widget/dialog_047] 之前的GRADE尚未成功過關
+無法出發
+[common_widget/dialog_048] 對戰莊園報酬最長可保留四期
+本期結束後請在今後共四次的開放期間之內領取
+[common_widget/dialog_049] ※對戰莊園專用
 [common_widget/dialog_050] ※根據招式原本的威力值，
 招式威力有可能不會提升。
 [common_widget/dialog_051] 可提升[Name:TrainerName ]＆[Name:PokemonName ]的
@@ -11808,6 +13191,8 @@ common_widget_zh-TW.lsd
 [common_widget/dialog_057] 每週賓果任務的難度決定了！
 [common_widget/dialog_058] 開放條件：
 [common_widget/dialog_059] 新的賓果任務開放了！
+[common_widget/dialog_061] 開放期間已結束
+即將回到寶可夢中心
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -11853,6 +13238,7 @@ MAX
 要前往拍組劇情嗎？
 [common_widget/trainer_detail_050] ※此為在目前★數且等級為Lv.1時
 　學會了所有招式及技能的狀態
+[common_widget/trainer_detail_051] 潛能
 [common_widget/dialog_special_item_001] 獲得了
 [Name:Item ]！
 [common_widget/dialog_special_item_002] 還剩下[Digit:1digit ]個徽章！
@@ -11963,6 +13349,8 @@ Lv.MAX
 「可靠的夥伴」即可開放
 [common_widget/dialog_release_008] 成功過關主線劇情第１１章
 「阿羅拉的新星！　後篇」即可開放
+[common_widget/dialog_release_009] 成功過關主線劇情第７章
+「不屈之心」即可開放
 [common_widget/release_001] 開放條件：
 成功過關主線劇情第１章「心心相鳴」
 [common_widget/release_002] 開放條件：
@@ -11977,6 +13365,8 @@ Lv.MAX
 成功過關主線劇情第２章「可靠的夥伴」
 [common_widget/release_007] 開放條件：
 成功過關主線劇情第１１章「阿羅拉的新星！　後篇」
+[common_widget/release_008] 開放條件：
+成功過關主線劇情第７章「不屈之心」
 [common_widget/dialog_release_010] 成功過關主線劇情第２章
 「打倒破壞隊！」即可開放
 [common_widget/release_009] 開放條件：
@@ -13674,6 +15064,11 @@ World Pokémon Masters
 werden ab Lv. [Digit:2digits ] freigeschaltet.
 [home/quest_list_070] Wird freigeschaltet nach Abschluss von:
 „[Name:QuestTitle ]“
+[home/quest_list_071] Kampfvilla
+[home/quest_list_072] Boni erhältlich
+[home/quest_list_073] Ebene [Digit:6digits ]
+[home/quest_list_074] GESCHAFFT!
+[home/quest_list_075] Wiederherstellen
 [home/quest_list_076] Kampf
 [home/quest_list_077] Stufe
 [home/quest_list_078] Verstärke deine Gefährten und stelle sie auf die Probe!
@@ -13681,6 +15076,14 @@ werden ab Lv. [Digit:2digits ] freigeschaltet.
 „[Name:QuestTitle ]“ ([Name:QuestGroupTitle ])
 im [Name:SoloMulti ] im Schwierigkeitsgrad
 „[Name:QuestDifficulty ]“.
+[home/quest_list_080] Kampfvilla (Multi)
+[home/quest_list_081] Du hast dieses Gebiet bereits
+abgeschlossen, deswegen gibt es
+keinen Erstbonus.
+
+Möchtest du dieses Gebiet noch mal
+spielen?
+[home/quest_list_082] Nicht mehr anzeigen.
 [home/quest_list_087] Wird freigeschaltet nach Abschluss von
 „[Name:QuestTitle ]“ ([Name:QuestGroupTitle ])
 im [Name:SoloMulti ].
@@ -13743,11 +15146,21 @@ Items [Name:Item ],
 um aufbrechen zu können.
 [home/quest_detail_064] Du hast nicht genügend Versuche übrig,
 um aufbrechen zu können.
+[home/quest_detail_066] Details
+[home/quest_detail_067] Bossdetails
+[home/quest_detail_068] Angriffstyp
+[home/quest_detail_069] Typenschwäche
+[home/quest_detail_070] Typenschwäche
+[home/quest_detail_071] Angriffstyp
+[home/quest_detail_073] Letzter Kampf (Details)
+[home/quest_detail_074] Der Event ist beendet. Du kannst nicht
+weiter auf der Karte fortschreiten.
 [home/home_001] Laden
 [home/home_002] Abenteuer
 [home/home_003] Team
 [home/home_007] Zeitraum abgelaufen
 [home/home_016] Ein Legenden-Event läuft!
+[home/home_017] Ein PokéFair läuft!
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missionen
 [home/global_menu_008] Freunde
@@ -13786,6 +15199,46 @@ eine Bewertung dafür abgeben.
 [home/attention_download_001] Daten-Download
 [home/attention_download_002] Die App wird neu gestartet,
 um Spieldaten herunterzuladen.
+[home/quest_list_recovery_001] Gefährten im Team
+[home/quest_list_recovery_002] KP wiederherstellen
+[home/quest_list_recovery_003] AEP wiederherstell.
+[home/quest_list_recovery_004] Möchtest du [Digit:1digit ] × [Name:Item ]
+einsetzen, um [Digit:3digits ] % der KP aller
+Gefährten zu heilen?
+[home/quest_list_recovery_005] KP geheilt!
+[home/quest_list_recovery_006] Möchtest du [Digit:1digit ] × [Name:Item ]
+einsetzen, um die Einsatzpunkte der
+Attacken aller Gefährten aufzufüllen?
+[home/quest_list_recovery_007] AEP aufgefüllt!
+[home/episode_event_001] Episodenkarte
+[home/episode_event_002] Mit bestimmten Gefährten im Team
+steigen die Bewegungspunkte!
+[home/episode_event_003] Bewegungspunkte
+[home/episode_event_004] Hauptepisode
+[home/episode_event_005] Nebenepisode
+[home/episode_event_006] Karte
+[home/episode_event_007] START
+[home/episode_event_009] ZIEL!
+[home/episode_event_010] GESCHAFFT!
+[home/episode_event_011] Abgeschlossen
+[home/episode_event_012] Du hast alle Hauptepisoden erhalten!
+
+Sammle auch die Nebenepisoden!
+[home/episode_event_013] Erhalten!
+[home/episode_event_014] Glückwunsch!
+
+Du hast alle Episoden erhalten!
+[home/episode_event_015] Auf dieser Karte nicht erhaltene Nebenepisoden erscheinen erneut auf späteren Karten.
+[home/episode_event_016] Wenn du das Ziel erreichst, erhältst du eine Hauptepisode und kommst auf die nächste Karte.
+[home/episode_event_017] Wenn du das Ziel erreichst, kommst du zur nächsten Karte. Fortfahren?
+[home/episode_event_018] Wenn du das Ziel erreichst, kommst du zur nächsten Karte.
+[home/episode_event_019] P.
+[home/episode_event_020] Items
+[home/episode_event_021] ZIEL
+[home/episode_event_022] Bewegungspunkte einsetzen, um diese Items zu erhalten?
+[home/episode_event_023] Bewegungspunkte einsetzen, um diese Episode zu erhalten?
+[home/episode_event_024] Bewegungspunkte einsetzen, um das Ziel zu erreichen?
+[home/episode_event_025] Ziel
 
 ===========
 home_en.lsd
@@ -13857,12 +15310,24 @@ unlocked!
 [Name:TrainerName ] & [Name:PokemonName ]
 [home/quest_list_070] To unlock, complete:
 [Name:QuestTitle ]
+[home/quest_list_071] Battle Villa
+[home/quest_list_072] Claim your rewards!
+[home/quest_list_073] Hall [Digit:6digits ]
+[home/quest_list_074] COMPLETE
+[home/quest_list_075] Recover
 [home/quest_list_076] BATTLE
 [home/quest_list_077] STAGE
 [home/quest_list_078]   Put your sync pairs’ skills to the test!
 [home/quest_list_079] To unlock, complete [Name:QuestGroupTitle ],
 [Name:QuestTitle ]
 on [Name:QuestDifficulty ] ([Name:SoloMulti ])
+[home/quest_list_080] Battle Villa (Co-op)
+[home/quest_list_081] You’ve already completed this area,
+so first-time completion rewards are
+no longer available.
+
+Would you like to replay this area?
+[home/quest_list_082] Do not show me this again.
 [home/quest_list_087] To unlock, complete [Name:QuestGroupTitle ],
 [Name:QuestTitle ]
 ([Name:SoloMulti ])
@@ -13925,11 +15390,21 @@ Please edit your team.
 To continue, collect more:
 [Name:Item ].
 [home/quest_detail_064] You’re out of replays for this area.
+[home/quest_detail_066] Area Details
+[home/quest_detail_067] Boss Details
+[home/quest_detail_068] Attack Types
+[home/quest_detail_069] Weakness Types
+[home/quest_detail_070] Weakness Types
+[home/quest_detail_071] Attack Types
+[home/quest_detail_073] Final Battle Details
+[home/quest_detail_074] This event has ended. You can no
+longer progress through this map.
 [home/home_001] Shop
 [home/home_002] Explore
 [home/home_003] Team
 [home/home_007] Attention!
 [home/home_016] Legendary event ongoing!
+[home/home_017] Poké Fair
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missions
 [home/global_menu_008] Friends
@@ -13967,6 +15442,52 @@ Tell us what you think of the game!
 [home/attention_download_001] Download
 [home/attention_download_002] The application must restart in order to
 download the main story data.
+[home/quest_list_recovery_001] Sync Pair Roster
+[home/quest_list_recovery_002] Recover HP
+[home/quest_list_recovery_003] Recover MP
+[home/quest_list_recovery_004] [Name:Item ] ×[Digit:1digit ]
+
+Use treats to recover [Digit:3digits ]% of
+each sync pair’s HP?
+[home/quest_list_recovery_005] HP recovered!
+[home/quest_list_recovery_006] [Name:Item ] ×[Digit:1digit ]
+
+Use treats to fully recover
+each sync pair’s Move Points?
+[home/quest_list_recovery_007] MP recovered!
+[home/episode_event_001] Event Map
+[home/episode_event_002] Earn bonus travel tokens if you have
+these sync pairs in your lineup!
+[home/episode_event_003] Travel Tokens
+[home/episode_event_004] Main Area
+[home/episode_event_005] Sub-Area
+[home/episode_event_006] Map
+[home/episode_event_007] Start
+[home/episode_event_009] Checkpoint!
+[home/episode_event_010] Complete!
+[home/episode_event_011] Complete
+[home/episode_event_012] Congratulations! You completed all of
+this story’s main areas!
+
+Next, try going back and unlocking
+the sub-areas!
+[home/episode_event_013] New Area!
+[home/episode_event_014] Congratulations!
+
+You completed every single area in
+this story!
+[home/episode_event_015] Sub-areas you skip on this map will appear again on subsequent ones.
+[home/episode_event_016] Reach the checkpoint to unlock the next main area map.
+[home/episode_event_017] Would you like to continue through this checkpoint and move to the next map?
+[home/episode_event_018] Reach the checkpoint to move on to the next map.
+[home/episode_event_019]  
+[home/episode_event_020] Items
+[home/episode_event_021] Checkpoint
+[home/episode_event_022] Use travel tokens to obtain these items?
+[home/episode_event_023] Use travel tokens to reach this sub-area?
+[home/episode_event_024] Use travel tokens to reach
+this checkpoint?
+[home/episode_event_025] Checkpoint
 
 ===========
 home_es.lsd
@@ -14035,12 +15556,25 @@ desbloqueado
 [home/quest_list_068] ×[Digit:1digit ]
 [home/quest_list_069] Tras hacer que [Name:TrainerName ] y [Name:PokemonName ] alcancen el Nv. [Digit:2digits ].
 [home/quest_list_070] Tras completar "[Name:QuestTitle ]".
+[home/quest_list_071] Residencia Batalla
+[home/quest_list_072] ¡Obtén tus premios!
+[home/quest_list_073] PLANTA [Digit:6digits ]
+[home/quest_list_074] COMPLETADO
+[home/quest_list_075] Recuperar PS/PM
 [home/quest_list_076] COMBATE
 [home/quest_list_077] FASE
 [home/quest_list_078] ¡Pon a tus compis a prueba!
 [home/quest_list_079] Disponible tras completar
 [Name:QuestTitle ] ([Name:SoloMulti ])
 de [Name:QuestGroupTitle ] en [Name:QuestDifficulty ].
+[home/quest_list_080] Residencia Batalla (multi)
+[home/quest_list_081] Ya has completado esta ubicación, de
+modo que no obtendrás ningún premio
+por completarla de nuevo.
+
+¿Quieres volver a jugar de todas
+formas?
+[home/quest_list_082] No volver a mostrar.
 [home/quest_list_087] Disponible tras completar
 [Name:QuestTitle ] ([Name:SoloMulti ])
 de [Name:QuestGroupTitle ].
@@ -14103,11 +15637,21 @@ suficientes unidades de:
 [home/quest_detail_064] No puedes acceder a esta ubicación
 porque ya has participado el número
 máximo de veces.
+[home/quest_detail_066] Detalles de la ubicación
+[home/quest_detail_067] Detalles del jefe
+[home/quest_detail_068] Ver tipos de ataque
+[home/quest_detail_069] Ver tipos de debilidad
+[home/quest_detail_070] Tipos de debilidad
+[home/quest_detail_071] Tipos de ataque
+[home/quest_detail_073] Detalles combate final
+[home/quest_detail_074] El evento ha terminado. No puedes
+seguir avanzando por este mapa.
 [home/home_001] Tienda
 [home/home_002] Aventura
 [home/home_003] Equipo
 [home/home_007] Fecha límite rebasada
 [home/home_016] ¡Evento legendario en curso!
+[home/home_017] ¡Pokéfestival!
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Misiones
 [home/global_menu_008] Amigos
@@ -14146,6 +15690,46 @@ en Google Play Store
 [home/attention_download_001] Descarga de datos
 [home/attention_download_002] Es necesario descargar datos.
 Se va a reiniciar el juego.
+[home/quest_list_recovery_001] Compis
+[home/quest_list_recovery_002] Recuperar PS
+[home/quest_list_recovery_003] Recuperar PM
+[home/quest_list_recovery_004] ¿Usas estos objetos para recuperar el
+[Digit:3digits ]% de los PS de todos tus compis?
+[Name:Item ] ×[Digit:1digit ]
+[home/quest_list_recovery_005] ¡PS recuperados!
+[home/quest_list_recovery_006] ¿Usas estos objetos para recuperar los
+PM de todos tus compis?
+[Name:Item ] ×[Digit:1digit ]
+[home/quest_list_recovery_007] ¡PM recuperados!
+[home/episode_event_001] Mapa de evento
+[home/episode_event_002] ¡Obtén más puntos de desplazamiento
+al usar alguno de estos compis!
+[home/episode_event_003] Puntos desplaz.
+[home/episode_event_004] Episodio principal
+[home/episode_event_005] Episodio secundario
+[home/episode_event_006] Mapa
+[home/episode_event_007] Salida
+[home/episode_event_009] ¡Meta!
+[home/episode_event_010] ¡Completado!
+[home/episode_event_011] Completado
+[home/episode_event_012] Enhorabuena, ¡has completado todos los
+episodios principales!
+
+¡Ahora, a por los secundarios!
+[home/episode_event_013] ¡Obtenido!
+[home/episode_event_014] Enhorabuena, ¡has completado todos los
+episodios!
+[home/episode_event_015] Los episodios secundarios que no hayas completado volverán a aparecer en mapas posteriores.
+[home/episode_event_016] Desbloquearás y accederás al mapa del siguiente episodio principal tras alcanzar la meta.
+[home/episode_event_017] ¿Quieres terminar este mapa y avanzar al siguiente?
+[home/episode_event_018] Cuando alcances la meta, avanzarás al siguiente mapa.
+[home/episode_event_019] Ptos.
+[home/episode_event_020] Objetos
+[home/episode_event_021] Meta
+[home/episode_event_022] ¿Quieres usar puntos de desplazamiento para obtener estos objetos?
+[home/episode_event_023] ¿Quieres usar puntos de desplazamiento para obtener esta ubicación?
+[home/episode_event_024] ¿Quieres usar puntos de desplazamiento para alcanzar la meta?
+[home/episode_event_025] Meta
 
 ===========
 home_fr.lsd
@@ -14218,12 +15802,23 @@ débloqué !
 à [Name:TrainerName ] & [Name:PokemonName ]
 [home/quest_list_070] Débloqué après avoir fini :
 « [Name:QuestTitle ] »
+[home/quest_list_071] Villa de Combat
+[home/quest_list_072] Récompenses
+[home/quest_list_073] Échelon [Digit:6digits ]
+[home/quest_list_074] TERMINÉ !
+[home/quest_list_075] Se soigner
 [home/quest_list_076] COMBAT
 [home/quest_list_077] ÉTAPE
 [home/quest_list_078] Testez la force de vos Duos !
 [home/quest_list_079] Débloqué après avoir terminé
 [Name:QuestGroupTitle ] ([Name:SoloMulti ])
 « [Name:QuestTitle ] » ([Name:QuestDifficulty ])
+[home/quest_list_080] Villa de Combat (coop)
+[home/quest_list_081] Vous avez déjà fini ce chapitre et
+obtenu les récompenses pour votre
+première victoire. Voulez-vous
+rejouer ?
+[home/quest_list_082] Ne plus afficher ce message
 [home/quest_list_087] Débloqué après avoir terminé
 [Name:QuestGroupTitle ] ([Name:SoloMulti ])
 « [Name:QuestTitle ] »
@@ -14285,11 +15880,21 @@ Nécessaire pour partir :
 « [Name:Item ] »
 [home/quest_detail_064] Départ impossible. Vous avez utilisé
 tous vos essais disponibles.
+[home/quest_detail_066] Détails de la zone
+[home/quest_detail_067] Détails du boss
+[home/quest_detail_068] Vérifier l'attaque
+[home/quest_detail_069] Vérifier la faiblesse
+[home/quest_detail_070] Type de la faiblesse
+[home/quest_detail_071] Type de l'attaque
+[home/quest_detail_073] Infos (combat final)
+[home/quest_detail_074] Cet évènement est terminé. Vous ne
+pouvez plus progresser sur la carte.
 [home/home_001] Boutique
 [home/home_002] Aventure
 [home/home_003] Équipe
 [home/home_007] Pass expiré
 [home/home_016] Évènement légendaire !
+[home/home_017] Festival en cours !
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missions
 [home/global_menu_008] Amis
@@ -14329,6 +15934,48 @@ le Google Play Store
 [home/attention_download_001] Téléchargement
 [home/attention_download_002] L'application va redémarrer
 pour télécharger des données.
+[home/quest_list_recovery_001] Duos dans l'équipe
+[home/quest_list_recovery_002] Récupérer les PV
+[home/quest_list_recovery_003] Récupérer les PPC
+[home/quest_list_recovery_004] Récupérer [Digit:3digits ] % des PV max de vos
+Duos en utilisant l'objet suivant ?
+[Name:Item ] × [Digit:1digit ]
+[home/quest_list_recovery_005] PV récupérés !
+[home/quest_list_recovery_006] Restaurer les PPC de vos Duos en
+utilisant l'objet suivant ?
+[Name:Item ] × [Digit:1digit ]
+[home/quest_list_recovery_007] PPC récupérés !
+[home/episode_event_001] Carte
+[home/episode_event_002] Gagnez des Points de Mouvement en
+ajoutant certains Duos à votre équipe !
+[home/episode_event_003] Pts de Mouvement
+[home/episode_event_004] Épisode principal
+[home/episode_event_005] Épisode secondaire
+[home/episode_event_006] Carte
+[home/episode_event_007] DÉBUT !
+[home/episode_event_009] OBJECTIF ATTEINT !
+[home/episode_event_010] TERMINÉ !
+[home/episode_event_011] Terminé
+[home/episode_event_012] Vous avez terminé tous les épisodes
+principaux !
+
+Essayez de débloquer tous les épisodes
+secondaires !
+[home/episode_event_013] Obtenu !
+[home/episode_event_014] Félicitations !
+
+Vous avez terminé tous les épisodes !
+[home/episode_event_015] Les épisodes que vous n'avez pas terminés sur cette carte reviendront sur les prochaines.
+[home/episode_event_016] Atteignez un objectif pour obtenir un épisode principal et une nouvelle carte.
+[home/episode_event_017] Voulez-vous terminer cette carte et vous rendre sur la prochaine ?
+[home/episode_event_018] Vous vous déplacez sur la prochaine carte lorsque vous atteignez l'objectif.
+[home/episode_event_019] pts
+[home/episode_event_020] Objets
+[home/episode_event_021] Objectif
+[home/episode_event_022] Dépenser des Points de Mouvement pour obtenir l'objet ?
+[home/episode_event_023] Dépenser des Points de Mouvement pour obtenir ces infos de zone ?
+[home/episode_event_024] Dépenser des Points de Mouvement pour atteindre l'objectif ?
+[home/episode_event_025] Objectif
 
 ===========
 home_it.lsd
@@ -14401,11 +16048,23 @@ sbloccato!
 [Name:TrainerName ] & [Name:PokemonName ] al L. [Digit:2digits ].
 [home/quest_list_070] Si sblocca completando
 "[Name:QuestTitle ]".
+[home/quest_list_071] Residenza Lotta
+[home/quest_list_072] Ricompense pronte
+[home/quest_list_073] SALA [Digit:6digits ]
+[home/quest_list_074] SUPERATA
+[home/quest_list_075] Rimetti in sesto
 [home/quest_list_076] LOTTA
 [home/quest_list_077] TAPPA
 [home/quest_list_078] Rinforza e metti alla prova le tue Unità!
 [home/quest_list_079] Si sblocca completando "[Name:QuestTitle ]" ([Name:QuestDifficulty ])
 del [Name:QuestGroupTitle ] in modalità [Name:SoloMulti ].
+[home/quest_list_080] Residenza Lotta multigiocatore
+[home/quest_list_081] Non riceverai la prima ricompensa
+perché hai già completato questa
+Guida area.
+
+Vuoi rivedere la storia comunque?
+[home/quest_list_082] Non visualizzare più
 [home/quest_list_087] Si sblocca completando "[Name:QuestTitle ]"
 in "[Name:QuestGroupTitle ]" in modalità [Name:SoloMulti ].
 [home/quest_detail_003] Tipi consigliati
@@ -14467,11 +16126,21 @@ partire. Ti serve:
 [home/quest_detail_064] Hai già raggiunto il numero massimo
 di completamenti previsti per questa
 Guida area.
+[home/quest_detail_066] Info area
+[home/quest_detail_067] Info boss
+[home/quest_detail_068] Vedi tipo attacchi
+[home/quest_detail_069] Vedi tipo debolezza
+[home/quest_detail_070] Tipo della debolezza
+[home/quest_detail_071] Tipo degli attacchi
+[home/quest_detail_073] Info lotta finale
+[home/quest_detail_074] L'evento è terminato, quindi non è più
+possibile proseguire sulla mappa.
 [home/home_001] Negozio
 [home/home_002] Avventura
 [home/home_003] Squadra
 [home/home_007] Tempo scaduto
 [home/home_016] Evento leggendario in corso!
+[home/home_017] Masterparty in corso!
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missioni
 [home/global_menu_008] Amici
@@ -14511,6 +16180,48 @@ su Google Play Store
 [home/attention_download_002] L'app verrà ora riavviata.
 Verranno scaricati i dati del gioco vero
 e proprio.
+[home/quest_list_recovery_001] Unità in squadra
+[home/quest_list_recovery_002] Cura PS
+[home/quest_list_recovery_003] Ripristina utilizzi mosse
+[home/quest_list_recovery_004] Vuoi far recuperare PS ([Digit:3digits ]%) a tutte
+le Unità? Consumerai:
+[Name:Item ] ×[Digit:1digit ]
+[home/quest_list_recovery_005] PS recuperati!
+[home/quest_list_recovery_006] Vuoi ripristinare gli utilizzi delle mosse
+per tutte le Unità? Consumerai:
+[Name:Item ] ×[Digit:1digit ]
+[home/quest_list_recovery_007] Utilizzi mosse
+ripristinati!
+[home/episode_event_001] Mappa episodio
+[home/episode_event_002] Mettendo in squadra Unità specifiche,
+otterrai più Punti Movimento!
+[home/episode_event_003] Punti Movimento
+[home/episode_event_004] Episodi principali
+[home/episode_event_005] Episodi secondari
+[home/episode_event_006] Mappa
+[home/episode_event_007] Partenza
+[home/episode_event_009] Traguardo raggiunto!
+[home/episode_event_010] Completata!
+[home/episode_event_011] Mappa completata
+[home/episode_event_012] Hai ottenuto tutti gli episodi principali!
+
+Prova a sbloccare anche quelli
+secondari!
+[home/episode_event_013] Ottenuto!
+[home/episode_event_014] Congratulazioni!
+
+Hai ottenuto tutti gli episodi!
+[home/episode_event_015] Gli episodi secondari che non sono stati sbloccati in questa mappa riappariranno nella successiva.
+[home/episode_event_016] Quando raggiungi il traguardo, sbloccherai un episodio principale e avanzerai alla mappa successiva.
+[home/episode_event_017] Arrivando al traguardo, avanzerai alla mappa successiva. Vuoi proseguire?
+[home/episode_event_018] Arrivando al traguardo, avanzerai alla mappa successiva.
+[home/episode_event_019] PM
+[home/episode_event_020] Ricompensa
+[home/episode_event_021] Traguardo
+[home/episode_event_022] Vuoi usare i Punti Movimento per ottenere questa ricompensa?
+[home/episode_event_023] Vuoi usare i Punti Movimento per sbloccare quest'episodio?
+[home/episode_event_024] Vuoi usare i Punti Movimento per arrivare al traguardo?
+[home/episode_event_025] Traguardo
 
 ===========
 home_ja.lsd
@@ -14583,12 +16294,23 @@ home_ja.lsd
 Lv.[Digit:2digits ]で解放
 [home/quest_list_070] 「[Name:QuestTitle ]」
 クリアで解放
+[home/quest_list_071] バトルヴィラ
+[home/quest_list_072] 報酬受け取り可
+[home/quest_list_073] GRADE [Digit:6digits ]
+[home/quest_list_074] CLEAR
+[home/quest_list_075] 回復する
 [home/quest_list_076] BATTLE
 [home/quest_list_077] STAGE
 [home/quest_list_078]  バディーズの強化や腕試しに挑戦！
 [home/quest_list_079] [Name:QuestGroupTitle ]（[Name:SoloMulti ]）
 「[Name:QuestTitle ]」
 [Name:QuestDifficulty ]クリアで解放
+[home/quest_list_080] バトルヴィラ（マルチ）
+[home/quest_list_081] 一度クリアしたストーリーなので
+初回クリア報酬はありません
+
+ストーリーを再度見ますか？
+[home/quest_list_082] 再度表示しない
 [home/quest_list_087] [Name:QuestGroupTitle ]（[Name:SoloMulti ]）
 「[Name:QuestTitle ]」
 クリアで解放
@@ -14648,11 +16370,21 @@ Lv.[Digit:2digits ]で解放
 足りないため出発できません
 [home/quest_detail_064] 出発可能なのこり回数が足りないため
 出発できません
+[home/quest_detail_066] エリア詳細
+[home/quest_detail_067] ボス詳細
+[home/quest_detail_068] 攻撃タイプ確認
+[home/quest_detail_069] 弱点タイプ確認
+[home/quest_detail_070] 弱点タイプ
+[home/quest_detail_071] 攻撃タイプ
+[home/quest_detail_073] 最終バトル詳細
+[home/quest_detail_074] イベント期間が終了したため
+マップを進めることができません
 [home/home_001] ショップ
 [home/home_002] ぼうけん
 [home/home_003] チーム
 [home/home_007] 期限切れ
 [home/home_016] 伝説ポケモンイベント開催中！
+[home/home_017] フェス開催中!
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] ミッション
 [home/global_menu_008] ともだち
@@ -14693,6 +16425,53 @@ Lv.[Digit:2digits ]で解放
 [home/attention_download_002] ゲーム本編のデータを
 ダウンロードするため
 再起動します
+[home/quest_list_recovery_001] 編成済バディーズ
+[home/quest_list_recovery_002] HP回復
+[home/quest_list_recovery_003] わざの回数回復
+[home/quest_list_recovery_004] [Name:Item ]×[Digit:1digit ]
+を使用してバディーズ全員のHPを[Digit:3digits ]%回復できます
+使用しますか？
+[home/quest_list_recovery_005] HP回復完了！
+[home/quest_list_recovery_006] [Name:Item ]×[Digit:1digit ]
+を使用してバディーズ全員のわざの回数を全回復できます
+使用しますか？
+[home/quest_list_recovery_007] わざの回数
+回復完了！
+[home/episode_event_001] エピソードマップ
+[home/episode_event_002] 特定のバディーズを編成すると
+移動ポイントUP！
+[home/episode_event_003] 移動ポイント
+[home/episode_event_004] メインエピソード
+[home/episode_event_005] サブエピソード
+[home/episode_event_006] マップ
+[home/episode_event_007] START
+[home/episode_event_009] GOAL!
+[home/episode_event_010] CLEARED!
+[home/episode_event_011] クリア
+[home/episode_event_012] メインエピソードをすべて
+獲得しました！
+
+サブエピソードも
+集めてみましょう！
+[home/episode_event_013] GET!
+[home/episode_event_014] おめでとうございます！
+
+すべてのエピソードを
+獲得しました！
+[home/episode_event_015] サブエピソードをこのマップで獲得しない場合、以降のマップで再度出現します
+[home/episode_event_016] ゴールするとメインエピソードを獲得し次のマップに進みます
+[home/episode_event_017] ゴールすると次のマップに進みます
+よろしいですか？
+[home/episode_event_018] ゴールすると次のマップに進みます
+[home/episode_event_019] pt
+[home/episode_event_020] どうぐ
+[home/episode_event_021] GOAL
+[home/episode_event_022] 移動ポイントを消費して
+どうぐを獲得しますか？
+[home/episode_event_023] 移動ポイントを消費して獲得しますか？
+[home/episode_event_024] 移動ポイントを消費して
+ゴールしますか？
+[home/episode_event_025] ゴール
 
 ===========
 home_ko.lsd
@@ -14765,12 +16544,23 @@ home_ko.lsd
 Lv.[Digit:2digits ]에서 해방
 [home/quest_list_070] "[Name:QuestTitle ]"[Kor:Particle char="wo" ]
 클리어하여 해방
+[home/quest_list_071] 배틀빌라
+[home/quest_list_072] 보상 수령 가능
+[home/quest_list_073] GRADE [Digit:6digits ]
+[home/quest_list_074] CLEAR
+[home/quest_list_075] 회복한다
 [home/quest_list_076] BATTLE
 [home/quest_list_077] STAGE
 [home/quest_list_078] 버디즈를 강화하고 실력을 테스트해보자!
 [home/quest_list_079] [Name:QuestGroupTitle ]([Name:SoloMulti ])
 "[Name:QuestTitle ]"
 [Name:QuestDifficulty ][Kor:Particle char="wo" ] 클리어하여 해방
+[home/quest_list_080] 배틀빌라(멀티)
+[home/quest_list_081] 1번 클리어한 스토리이므로
+최초 클리어 보상은 없습니다
+
+스토리를 다시 보겠습니까?
+[home/quest_list_082] 다시 표시하지 않는다
 [home/quest_list_087] [Name:QuestGroupTitle ]([Name:SoloMulti ])
 "[Name:QuestTitle ]"[Kor:Particle char="wo" ]
 클리어하여 해방
@@ -14829,11 +16619,21 @@ Lv.[Digit:2digits ]에서 해방
 부족하여 출발할 수 없습니다
 [home/quest_detail_064] 출발 가능한 남은 횟수가 부족하여
 출발할 수 없습니다
+[home/quest_detail_066] 에리어 상세
+[home/quest_detail_067] 보스 상세
+[home/quest_detail_068] 공격타입 확인
+[home/quest_detail_069] 약점타입 확인
+[home/quest_detail_070] 약점타입
+[home/quest_detail_071] 공격타입
+[home/quest_detail_073] 최종 배틀 상세
+[home/quest_detail_074] 이벤트 기간이 종료되어
+맵을 이동할 수 없습니다
 [home/home_001] 숍
 [home/home_002] 모험
 [home/home_003] 팀
 [home/home_007] 기한종료
 [home/home_016] 전설 포켓몬 이벤트 개최 중!
+[home/home_017] 페스티벌 개최 중!
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] 미션
 [home/global_menu_008] 친구
@@ -14873,6 +16673,56 @@ Lv.[Digit:2digits ]에서 해방
 [home/attention_download_002] 게임 본편의 데이터를
 다운로드하기 위해
 다시 시작합니다
+[home/quest_list_recovery_001] 편성완료 버디즈
+[home/quest_list_recovery_002] HP 회복
+[home/quest_list_recovery_003] 기술횟수 회복
+[home/quest_list_recovery_004] [Name:Item ][Kor:Particle char="wo" ] [Digit:1digit ]개 사용하여
+버디즈 전원의 HP를
+[Digit:3digits ]% 회복할 수 있습니다
+사용하겠습니까?
+[home/quest_list_recovery_005] HP 회복 완료!
+[home/quest_list_recovery_006] [Name:Item ][Kor:Particle char="wo" ] [Digit:1digit ]개 사용하여
+버디즈 전원의 기술횟수를
+모두 회복할 수 있습니다
+사용하겠습니까?
+[home/quest_list_recovery_007] 기술횟수 회복 완료!
+[home/episode_event_001] 에피소드 맵
+[home/episode_event_002] 특정 버디즈를 편성하면
+이동포인트 UP!
+[home/episode_event_003] 이동포인트
+[home/episode_event_004] 메인 에피소드
+[home/episode_event_005] 서브 에피소드
+[home/episode_event_006] 맵
+[home/episode_event_007] START
+[home/episode_event_009] GOAL!
+[home/episode_event_010] CLEARED!
+[home/episode_event_011] 클리어
+[home/episode_event_012] 메인 에피소드를
+모두 획득하였습니다!
+
+서브 에피소드도
+모아봅시다!
+[home/episode_event_013] GET!
+[home/episode_event_014] 축하합니다!
+모든 에피소드를
+획득하였습니다!
+[home/episode_event_015] 서브 에피소드를 이 맵에서 획득하지 않을 경우
+이후 맵에서 다시 출현합니다
+[home/episode_event_016] 골인하면 메인 에피소드를 획득하며
+다음 맵으로 이동합니다
+[home/episode_event_017] 골인하면 다음 맵으로 이동합니다
+괜찮겠습니까?
+[home/episode_event_018] 골인하면 다음 맵으로 이동합니다
+[home/episode_event_019] 포인트
+[home/episode_event_020] 도구
+[home/episode_event_021] GOAL
+[home/episode_event_022] 이동포인트를 사용하여
+도구를 획득하겠습니까?
+[home/episode_event_023] 이동포인트를 사용하여 서브 에피소드를
+획득하겠습니까?
+[home/episode_event_024] 이동포인트를 사용하여
+골인하겠습니까?
+[home/episode_event_025] 골
 
 ===========
 home_zh-TW.lsd
@@ -14943,12 +16793,23 @@ home_zh-TW.lsd
 達到Lv.[Digit:2digits ]
 [home/quest_list_070] 開放條件：
 成功過關「[Name:QuestTitle ]」
+[home/quest_list_071] 對戰莊園
+[home/quest_list_072] 可領取報酬
+[home/quest_list_073] GRADE [Digit:6digits ]
+[home/quest_list_074] CLEAR
+[home/quest_list_075] 回復拍組
 [home/quest_list_076] BATTLE
 [home/quest_list_077] STAGE
 [home/quest_list_078] 來強化拍組或鍛鍊身手吧！
 [home/quest_list_079] 開放條件：
 成功過關[Name:QuestGroupTitle ]（[Name:SoloMulti ]）
 「[Name:QuestTitle ]」[Name:QuestDifficulty ]
+[home/quest_list_080] 對戰莊園（多隊模式）
+[home/quest_list_081] 這是已過關的劇情
+已經沒有首次過關報酬
+
+確定要開啟劇情嗎？
+[home/quest_list_082] 不再顯示
 [home/quest_list_087] 開放條件：
 成功過關[Name:QuestGroupTitle ]（[Name:SoloMulti ]）
 「[Name:QuestTitle ]」
@@ -15005,11 +16866,21 @@ home_zh-TW.lsd
 無法出發
 [home/quest_detail_064] 挑戰次數已歸零
 無法出發
+[home/quest_detail_066] 區域詳情
+[home/quest_detail_067] 頭目資訊
+[home/quest_detail_068] 確認攻擊屬性
+[home/quest_detail_069] 確認弱點屬性
+[home/quest_detail_070] 弱點屬性
+[home/quest_detail_071] 攻擊屬性
+[home/quest_detail_073] 最終對戰資訊
+[home/quest_detail_074] 活動期間已結束
+無法繼續前進
 [home/home_001] 商店
 [home/home_002] 冒險
 [home/home_003] 隊伍
 [home/home_007] 已過期
 [home/home_016] 傳說的寶可夢活動現正舉辦中！
+[home/home_017] 盛典舉辦中
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] 任務
 [home/global_menu_008] 朋友
@@ -15045,6 +16916,49 @@ home_zh-TW.lsd
 [home/attention_download_001] 資料下載
 [home/attention_download_002] 為了下載遊戲劇情資料
 本應用程式將重新啟動
+[home/quest_list_recovery_001] 已配置的拍組
+[home/quest_list_recovery_002] 回復HP
+[home/quest_list_recovery_003] 回復招式次數
+[home/quest_list_recovery_004] 可使用[Name:Item ]×[Digit:1digit ]
+回復我方全體拍組的HP[Digit:3digits ]%
+要使用嗎？
+[home/quest_list_recovery_005] HP回復了！
+[home/quest_list_recovery_006] 可使用[Name:Item ]×[Digit:1digit ]
+完全回復我方全體拍組的招式次數
+要使用嗎？
+[home/quest_list_recovery_007] 招式次數回復了！
+[home/episode_event_001] 劇情地圖
+[home/episode_event_002] 用特定的拍組編制隊伍
+就能獲得更多移動點數喔！
+[home/episode_event_003] 移動點數
+[home/episode_event_004] 主線劇情
+[home/episode_event_005] 支線劇情
+[home/episode_event_006] 地圖
+[home/episode_event_007] START
+[home/episode_event_009] GOAL!
+[home/episode_event_010] CLEARED!
+[home/episode_event_011] 過關
+[home/episode_event_012] 您已獲得了所有的主線劇情！
+
+接下來，還可以去收集支線劇情喔！
+[home/episode_event_013] GET!
+[home/episode_event_014] 恭喜！
+
+您已獲得了所有的劇情！
+[home/episode_event_015] 在此張地圖中沒獲得的支線劇情
+會再次出現在之後的地圖中
+[home/episode_event_016] 抵達終點後即可獲得主線劇情
+並前往下一張地圖
+[home/episode_event_017] 確定要抵達終點
+並前往下一張地圖嗎？
+[home/episode_event_018] 抵達終點後即會前往下一張地圖
+[home/episode_event_019] pt
+[home/episode_event_020] 道具
+[home/episode_event_021] GOAL
+[home/episode_event_022] 要消耗移動點數來獲得道具嗎？
+[home/episode_event_023] 要消耗移動點數來獲得劇情嗎？
+[home/episode_event_024] 要消耗移動點數來抵達終點嗎？
+[home/episode_event_025] 終點
 
 ===========
 shop_de.lsd
@@ -15415,6 +17329,10 @@ Entwicklungs-Episode entwickeln kann.
 in ihrem Ausgangszustand angezeigt.
 [shop/scout_093] Hinweis: Die Gefährten in der Gefährtenliste werden in ihrem
 Ausgangszustand angezeigt.
+[shop/scout_094] Geschenk-
+details
+[shop/scout_095] Chance auf 5★:
+[Digit:4digits ] %!
 [shop/deck_item_sale_001] Ausrüstungstausch
 [shop/deck_item_sale_002] Ausrüstung
 [shop/deck_item_sale_003] Filter
@@ -15691,6 +17609,10 @@ When you see a * displayed after a Pokémon name in the offering rate, that mean
 [shop/scout_092] Sync pairs are shown on the Offering Rate screen in their
 base state.
 [shop/scout_093] All the sync pairs listed are shown in their base state.
+[shop/scout_094] Present
+Details
+[shop/scout_095] [Digit:4digits ]% chance
+for 5★s!
 [shop/deck_item_sale_001] Exchange Gear
 [shop/deck_item_sale_002] Gear
 [shop/deck_item_sale_003] Filter
@@ -15939,6 +17861,10 @@ Los Pokémon de las parejas de compis marcadas con un asterisco (*) en la pantal
 las parejas de compis en su estado inicial.
 [shop/scout_093] Nota: En la lista de compis se muestran las parejas de compis
 en su estado inicial.
+[shop/scout_094] Detalles de
+los regalos
+[shop/scout_095] Probabilidad
+de 5★: [Digit:4digits ]%
 [shop/deck_item_sale_001] Canjear accesorios
 [shop/deck_item_sale_002] Accesorios
 [shop/deck_item_sale_003] Filtrar
@@ -16167,6 +18093,10 @@ une fois que vous l'aurez reçu.
 [shop/scout_092] Les Duos affichés sur l'écran de pourcentages sont dans leur état initial.
 [shop/scout_093] Remarque : les Duos affichés sur l'écran des Duos sont montrés
 dans leur état initial.
+[shop/scout_094] Cadeaux
+(détails)
+[shop/scout_095] Chances
+de 5★ : [Digit:4digits ] % !
 [shop/deck_item_sale_001] Échanger équipement
 [shop/deck_item_sale_002] Équipement
 [shop/deck_item_sale_003] Filtrer
@@ -16476,6 +18406,9 @@ Le Unità festive sono Unità che compaiono durante questa ricerca Unità festiv
 I Pokémon con un asterisco dopo il nome, visualizzato nel tasso di comparsa dell'Unità, possono evolversi tramite episodio evolutivo.
 [shop/scout_092] Le Unità nella schermata dei tassi di comparsa sono mostrate con i loro valori di partenza.
 [shop/scout_093] Le Unità nella lista sono mostrate con i loro valori di partenza.
+[shop/scout_094] Info
+regali
+[shop/scout_095] Probabilità di 5★: [Digit:4digits ]%!
 [shop/deck_item_sale_001] Scambio accessori
 [shop/deck_item_sale_002] Accessori
 [shop/deck_item_sale_003] Filtra
@@ -16783,6 +18716,10 @@ Lv.[Digit:1digit ]になりました
 　初期状態で表示されています
 [shop/scout_093] ※バディーズ一覧画面で表示されているバディーズは、
 　初期状態で表示されています
+[shop/scout_094] プレゼント
+詳細
+[shop/scout_095] ★5確率
+[Digit:4digits ]％!
 [shop/deck_item_sale_001] 装備売却
 [shop/deck_item_sale_002] 装備
 [shop/deck_item_sale_003] フィルター
@@ -17103,6 +19040,10 @@ Lv.[Digit:1digit ][Kor:Particle char="ga" ] 되었습니다
 　초기 상태로 표시됩니다
 [shop/scout_093] ※버디즈 목록 화면에서 표시되는 버디즈는
    초기 상태로 표시됩니다
+[shop/scout_094] 선물
+상세 내용
+[shop/scout_095] ★5 확률
+[Digit:4digits ]%!
 [shop/deck_item_sale_001] 장비 판매
 [shop/deck_item_sale_002] 장비
 [shop/deck_item_sale_003] 필터
@@ -17381,6 +19322,9 @@ shop_zh-TW.lsd
 ※在提供比例畫面中，若拍組的寶可夢名字後面標有(*)，則表示該寶可夢可透過進化劇情進化
 [shop/scout_092] ※在提供比例畫面中，拍組是以初始狀態顯示
 [shop/scout_093] ※在拍組一覽畫面中，拍組是以初始狀態顯示
+[shop/scout_094] 禮物內容
+[shop/scout_095] ★5機率
+[Digit:4digits ]％！
 [shop/deck_item_sale_001] 出售裝備
 [shop/deck_item_sale_002] 裝備
 [shop/deck_item_sale_003] 篩選
@@ -17778,6 +19722,17 @@ neu gestartet wird.
 [title/title_120] ※【2】～【4】에 대해서는 나중에라도 설정을 변경할 수 있습니다.
 [title/title_121] 2019년 9월 5일 갱신 (아래 【3】 ② 보라색 글씨 기재 부분 추가)
 [title/title_122] 닫는다
+[title/title_123] Hinweis: Zwischenspeicherdaten werden nach 7 Tagen
+(168 Stunden) ab Beginn des Abenteuers automatisch
+gelöscht.
+[title/title_124] Da der Aufbewahrungszeitraum
+abgelaufen ist, wurden die
+Zwischenspeicherdaten gelöscht.
+[title/title_125] Du kannst Zusatzdaten herunterladen,
+während du das Spiel spielst.
+Wir empfehlen für den Download eine
+WLAN-Verbindung.
+Download-Größe: [Digit:3digits ] MB
 [title/assetdl_004] 翻訳不要
 [title/assetdl_006] 翻訳不要
 [title/assetdl_007] 翻訳不要
@@ -18095,6 +20050,14 @@ is restarted.
 [title/title_120] ※【2】～【4】에 대해서는 나중에라도 설정을 변경할 수 있습니다.
 [title/title_121] 2019년 9월 5일 갱신 (아래 【3】 ② 보라색 글씨 기재 부분 추가)
 [title/title_122] 닫는다
+[title/title_123] Note: Interrupted play data will be automatically
+deleted after seven days (168 hours) have passed.
+[title/title_124] The time frame to resume interrupted
+play data has ended. Partial progress
+has been deleted.
+[title/title_125] Additional data can be downloaded while you play the game. Connection to Wi-Fi is recommended.
+
+Download size: [Digit:3digits ] MB
 [title/assetdl_004] Would you like to participate
 in a survey?
 [title/assetdl_006] Please select where you’ve played or seen Pokémon in the past.
@@ -18169,7 +20132,7 @@ title_es.lsd
 [title/cache_002] Borrar la caché puede solucionar
 problemas con los gráficos.
 Tus datos de juego no se borrarán.
-¿Quieres borrar el caché?
+¿Quieres borrar la caché?
 [title/cache_003] Borrando caché...
 [title/cache_004] Se ha borrado la caché.
 [title/cache_005] No se ha podido completar la
@@ -18422,6 +20385,18 @@ Se va a reiniciar la descarga.
 [title/title_120] ※【2】～【4】에 대해서는 나중에라도 설정을 변경할 수 있습니다.
 [title/title_121] 2019년 9월 5일 갱신 (아래 【3】 ② 보라색 글씨 기재 부분 추가)
 [title/title_122] 닫는다
+[title/title_123] Nota: Los datos de las fases sin completar se guardarán
+durante 7 días (168 horas) tras su inicio. Pasado este
+tiempo, se borrarán automáticamente.
+[title/title_124] Ha transcurrido el tiempo que tenías
+para retomar una fase sin completar
+y se han borrado los datos.
+[title/title_125] Los datos adicionales se pueden
+descargar en un segundo plano
+mientras juegas.
+Se recomienda estar conectado a una
+red Wi-Fi.
+Tamaño de la descarga: [Digit:3digits ] MB
 [title/assetdl_004] 翻訳不要
 [title/assetdl_006] 翻訳不要
 [title/assetdl_007] 翻訳不要
@@ -18487,7 +20462,7 @@ juego. ¿Tienes algún comentario?
 ===========
 title_fr.lsd
 ===========
-[title/assetdl_001] N° [Digit:3digits ] [Name:TrainerName ]
+[title/assetdl_001] Nº [Digit:3digits ] [Name:TrainerName ]
 [title/assetdl_003] Téléchargement...
 [title/cache_001] Effacer le cache
 [title/cache_002] Effacer les données en cache peut
@@ -18758,6 +20733,18 @@ depuis le début.
 [title/title_120] ※【2】～【4】에 대해서는 나중에라도 설정을 변경할 수 있습니다.
 [title/title_121] 2019년 9월 5일 갱신 (아래 【3】 ② 보라색 글씨 기재 부분 추가)
 [title/title_122] 닫는다
+[title/title_123] Les données de votre aventure interrompue ont été
+sauvegardées. Elles seront conservées pendant
+7 jours (168 heures) après l'interruption.
+[title/title_124] Les données de l'aventure interrompue
+ont été effacées (durée dépassée).
+[title/title_125] Des données supplémentaires peuvent
+être téléchargées pendant que
+vous jouez.
+Il est recommandé d'utiliser une
+connexion Wi-Fi pour les télécharger.
+
+Taille du téléchargement : [Digit:3digits ] MB
 [title/assetdl_004] 翻訳不要
 [title/assetdl_006] 翻訳不要
 [title/assetdl_007] 翻訳不要
@@ -19085,6 +21072,17 @@ Il download ricomincerà dall'inizio.
 [title/title_120] ※【2】～【4】에 대해서는 나중에라도 설정을 변경할 수 있습니다.
 [title/title_121] 2019년 9월 5일 갱신 (아래 【3】 ② 보라색 글씨 기재 부분 추가)
 [title/title_122] 닫는다
+[title/title_123] I dati relativi all'avventura in sospeso saranno eliminati
+automaticamente dopo 7 giorni (168 ore) dall'inizio
+di tale avventura.
+[title/title_124] I dati relativi all'avventura in sospeso
+sono stati eliminati poiché oltre
+il tempo di conservazione previsto.
+[title/title_125] È possibile scaricare i dati aggiuntivi
+mentre si gioca.
+Si consiglia di utilizzare
+una connessione Wi-Fi.
+Dimensioni del download: [Digit:3digits ] MB
 [title/assetdl_004] 翻訳不要
 [title/assetdl_006] 翻訳不要
 [title/assetdl_007] 翻訳不要
@@ -19433,6 +21431,15 @@ OS 버전, OS 타입, 타게팅 광고의 제한에 관한 설정 상태, 단말
 [title/title_120] ※【2】～【4】에 대해서는 나중에라도 설정을 변경할 수 있습니다.
 [title/title_121] 2019년 9월 5일 갱신 (아래 【3】 ② 보라색 글씨 기재 부분 추가)
 [title/title_122] 닫는다
+[title/title_123] ※中断データはぼうけん開始から
+7日間（168時間）を過ぎると自動で破棄されます
+[title/title_124] 保持期間が切れたため
+中断データは破棄されました
+[title/title_125] ゲームをプレイしながら
+追加データのダウンロードを行うことが可能です
+Wi-Fi環境でのダウンロードをおすすめします
+
+ダウンロードサイズ : [Digit:3digits ]MB
 [title/assetdl_004] アンケートに
 ご協力をお願いします
 [title/assetdl_006] あなたが「ポケモン」について遊んだり見たりしたことがあるものを全てお選びください
@@ -19773,6 +21780,15 @@ OS 버전, OS 타입, 타게팅 광고의 제한에 관한 설정 상태, 단말
 [title/title_120] ※【2】～【4】에 대해서는 나중에라도 설정을 변경할 수 있습니다.
 [title/title_121] 2019년 9월 5일 갱신 (아래 【3】 ② 보라색 글씨 기재 부분 추가)
 [title/title_122] 닫는다
+[title/title_123] ※중단 데이터는 모험을 시작한 뒤
+7일(168시간)을 넘으면 자동으로 파기됩니다
+[title/title_124] 유지 기간이 끝나
+중단 데이터가 파기되었습니다
+[title/title_125] 게임을 플레이하면서
+추가 데이터 다운로드를 실행할 수 있습니다
+Wi-Fi 환경에서 다운로드를 추천합니다
+
+다운로드 용량 : [Digit:3digits ]MB
 [title/assetdl_004] 翻訳不要
 [title/assetdl_006] 翻訳不要
 [title/assetdl_007] 翻訳不要
@@ -20086,6 +22102,15 @@ OS 버전, OS 타입, 타게팅 광고의 제한에 관한 설정 상태, 단말
 [title/title_120] ※【2】～【4】에 대해서는 나중에라도 설정을 변경할 수 있습니다.
 [title/title_121] 2019년 9월 5일 갱신 (아래 【3】 ② 보라색 글씨 기재 부분 추가)
 [title/title_122] 닫는다
+[title/title_123] ※中斷的遊戲資料會在
+冒險開始的7日（168小時）後自動作廢
+[title/title_124] 因保留期間已過
+中斷的遊戲資料已作廢
+[title/title_125] 在遊玩遊戲的同時
+也能夠下載更新資料
+我們建議您使用Wi-Fi下載
+
+下載資料大小：[Digit:3digits ]MB
 [title/assetdl_004] 翻訳不要
 [title/assetdl_006] 翻訳不要
 [title/assetdl_007] 翻訳不要
