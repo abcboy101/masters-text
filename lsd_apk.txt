@@ -1054,7 +1054,8 @@ story_quest_name_de.lsd
 [quest_title_1030500010201011] Ein seltsames Flackern
 [quest_title_1030500010201012] Eine mysteriöse Flamme
 [quest_title_1030500010202011] Ein plätschernder Fluss
-[quest_title_1030500010202012] Ein reißender Strom
+[quest_title_1030500010202012] Ein rauschender Fluss
+
 [quest_title_1030500010203011] Ein Stein im Weg
 [quest_title_1030500010203012] Ein unüberwindlicher Felsen
 [quest_title_1030500010301011] Bezwinge die Flammen!
@@ -1640,6 +1641,53 @@ nett?!
 [quest_title_1030203000601060] Vs. Team Break 2
 [quest_title_1030203000601070] Vs. Team Break 3
 [quest_title_1030203000601180] Geschnappt von Team Skull?!
+[quest_group_title_100030] Zwischenspiel 4
+[quest_group_title_100031] Kapitel 25
+[quest_group_title_100032] Zwischenspiel 5
+[quest_group_title_10116000000] Lucia
+[quest_group_title_10048100000] MaMo-Astor
+[quest_group_title_10170000000] Artie
+[quest_group_detail_100030] Der Leidensweg des Prinzen
+[quest_group_detail_100031] Die beste Karte
+[quest_group_detail_100032] Was einen König ausmacht
+[quest_title_1030110000245100] Chettas und Drivals Sorgen
+[quest_title_1030110000250100] Die beste Karte
+[quest_title_1030110100250200] Vs. Team MaMo-Astor
+[quest_title_1030110000250300] Die beste Karte 2
+[quest_title_1030110000255100] Cherens Hilfe
+[quest_title_1030205000702001] Schroffe Felsen
+[quest_title_1030205010702001] Rigide Felsen
+[quest_title_1030205020702001] Zerklüftete Felsen
+[quest_title_1030205030702001] Eine unzerstörbare Felswand
+[quest_title_1030205000702002] Stelle dich der Eisscholle!
+[quest_title_1030205010702002] Bezwinge den Gletscher!
+[quest_title_1030205020702002] Stoppe den Eisberg!
+[quest_title_1030210116000000] Ein Tag mit Lucia
+[quest_title_1030220116000100] Chelast entwickelt sich
+[quest_title_1030220116000200] Chelcarain entwickelt sich
+[quest_title_1030210048100000] Ein Tag mit MaMo-Astor
+[quest_title_1030210170000000] Ein Tag mit Artie
+[quest_title_1030205000600010] Verzaubere das Publikum!
+[quest_title_1030205000600020] Tanz dich zum Sieg!
+[quest_title_1030205000600030] Das fulminante Finale!
+[quest_title_1030205000600040] Und der Sieger ist...!
+[quest_title_1030205000601010] Kämpfen wir gemeinsam!
+[quest_title_1030205000601020] Kämpfen wir gemeinsam! 2
+[quest_title_1030205000601030] Kämpfen wir gemeinsam! 3
+[quest_title_1030205000601040] Kämpfen wir gemeinsam! 4
+[quest_title_1030205000601050] Vs. Wassili
+[quest_title_1030205000601060] Vs. Wassili 2
+[quest_title_1030420500101012] Vs. Artie
+[quest_title_1030420500101014] Vs. Artie 2
+[quest_title_1030420500102012] Vs. Mica
+[quest_title_1030420500102014] Vs. Mica 2
+[quest_title_1030420500103012] Vs. Lilia
+[quest_title_1030420500103014] Vs. Lilia 2
+[quest_title_1030420500104012] Vs. Anissa
+[quest_title_1030420500104014] Vs. Anissa 2
+[quest_title_1030205000600000] Der Gefährtenwettbewerb
+[quest_title_1030420400101011] Vs. Trainer aus Passio
+[quest_title_1030205040702001] Ein hartnäckiger Felsen
 
 ===========
 story_quest_name_en.lsd
@@ -2581,6 +2629,53 @@ story_quest_name_en.lsd
 [quest_title_1030203000601060] Challenge Team Break: Part 2
 [quest_title_1030203000601070] Challenge Team Break: Part 3
 [quest_title_1030203000601180] Team Skull Represent!
+[quest_group_title_100030] Interlude 4
+[quest_group_title_100031] Chapter 25
+[quest_group_title_100032] Interlude 5
+[quest_group_title_10116000000] Dawn
+[quest_group_title_10048100000] Sygna Suit Grimsley
+[quest_group_title_10170000000] Burgh
+[quest_group_detail_100030] The Once-Charming Prince
+[quest_group_detail_100031] A Glorious Gambit
+[quest_group_detail_100032] What Makes a King
+[quest_title_1030110000245100] Rachel, Sawyer, and Lear
+[quest_title_1030110000250100] A Glorious Gambit: Part 1
+[quest_title_1030110100250200] Challenge Sygna Suit Grimsley & Co.
+[quest_title_1030110000250300] A Glorious Gambit: Part 2
+[quest_title_1030110000255100] Cheren’s Intervention
+[quest_title_1030205000702001] A Towering Cliff
+[quest_title_1030205010702001] An Immovable Boulder
+[quest_title_1030205020702001] A Summit as High as the Clouds
+[quest_title_1030205030702001] An Indestructible Wall of Rock
+[quest_title_1030205000702002] Smash the Sparkling Glaciers!
+[quest_title_1030205010702002] Ascend the Frozen Ice Caps!
+[quest_title_1030205020702002] Break the Noble Iceberg!
+[quest_title_1030210116000000] A Day with Dawn
+[quest_title_1030220116000100] Turtwig’s Evolution
+[quest_title_1030220116000200] Grotle’s Evolution
+[quest_title_1030210048100000] A Day with Sygna Suit Grimsley
+[quest_title_1030210170000000] A Day with Burgh
+[quest_title_1030205000600010] Dress to Impress!
+[quest_title_1030205000600020] Sweep ’Em Off Their Feet!
+[quest_title_1030205000600030] Razzle ’Em and Dazzle ’Em!
+[quest_title_1030205000600040] And the Winner Is...
+[quest_title_1030205000601010] Friendly Competition: Part 1
+[quest_title_1030205000601020] Friendly Competition: Part 2
+[quest_title_1030205000601030] Friendly Competition: Part 3
+[quest_title_1030205000601040] Friendly Competition: Part 4
+[quest_title_1030205000601050] Challenge Wallace: Part 1
+[quest_title_1030205000601060] Challenge Wallace: Part 2
+[quest_title_1030420500101012] Challenge Burgh: Part 1
+[quest_title_1030420500101014] Challenge Burgh: Part 2
+[quest_title_1030420500102012] Challenge Roxie: Part 1
+[quest_title_1030420500102014] Challenge Roxie: Part 2
+[quest_title_1030420500103012] Challenge Iris: Part 1
+[quest_title_1030420500103014] Challenge Iris: Part 2
+[quest_title_1030420500104012] Challenge Shauntal: Part 1
+[quest_title_1030420500104014] Challenge Shauntal: Part 2
+[quest_title_1030205000600000] Let the Contest Begin!
+[quest_title_1030420400101011] Challenge Pasio’s Trainers
+[quest_title_1030205040702001] A Daunting Cliff Face
 
 ===========
 story_quest_name_es.lsd
@@ -3525,6 +3620,53 @@ de moda
 [quest_title_1030203000601060] VS. Team Break (2)
 [quest_title_1030203000601070] VS. Team Break (3)
 [quest_title_1030203000601180] ¿Rehén del Team Skull?
+[quest_group_title_100030] Cuarto interludio
+[quest_group_title_100031] Capítulo 25
+[quest_group_title_100032] Quinto interludio
+[quest_group_title_10116000000] Maya
+[quest_group_title_10048100000] Aza (Traje S)
+[quest_group_title_10170000000] Camus
+[quest_group_detail_100030] El príncipe caído
+[quest_group_detail_100031] Doble o nada
+[quest_group_detail_100032] Madera de rey
+[quest_title_1030110000245100] Néstor y Serra se preocupan
+[quest_title_1030110000250100] Doble o nada
+[quest_title_1030110100250200] VS. Aza (Traje S) y su equipo
+[quest_title_1030110000250300] Doble o nada (2)
+[quest_title_1030110000255100] Cheren toma las riendas
+[quest_title_1030205000702001] Una imponente roca
+[quest_title_1030205010702001] Una roca firme
+[quest_title_1030205020702001] La roca que rasga el cielo
+[quest_title_1030205030702001] Una pared pétrea maciza
+[quest_title_1030205000702002] Contra un precioso iceberg
+[quest_title_1030205010702002] Conquistemos el glaciar
+[quest_title_1030205020702002] Superando el frío glacial
+[quest_title_1030210116000000] Un día con Maya
+[quest_title_1030220116000100] ¡Turtwig evoluciona!
+[quest_title_1030220116000200] ¡Grotle evoluciona!
+[quest_title_1030210048100000] Un día con Aza (S)
+[quest_title_1030210170000000] Un día con Camus
+[quest_title_1030205000600010] ¡A posar!
+[quest_title_1030205000600020] Un baile divertido
+[quest_title_1030205000600030] ¡Un combate deslumbrante!
+[quest_title_1030205000600040] Una victoria previsible
+[quest_title_1030205000601010] ¡Luchemos juntos!
+[quest_title_1030205000601020] ¡Luchemos juntos! (2)
+[quest_title_1030205000601030] ¡Luchemos juntos! (3)
+[quest_title_1030205000601040] ¡Luchemos juntos! (4)
+[quest_title_1030205000601050] VS. Plubio
+[quest_title_1030205000601060] VS. Plubio (2)
+[quest_title_1030420500101012] VS. Camus
+[quest_title_1030420500101014] VS. Camus (2)
+[quest_title_1030420500102012] VS. Hiedra
+[quest_title_1030420500102014] VS. Hiedra (2)
+[quest_title_1030420500103012] VS. Iris
+[quest_title_1030420500103014] VS. Iris (2)
+[quest_title_1030420500104012] VS. Anís
+[quest_title_1030420500104014] VS. Anís (2)
+[quest_title_1030205000600000] ¡El concurso de compis!
+[quest_title_1030420400101011] VS. Entrenadores de Passio
+[quest_title_1030205040702001] La enorme roca inquebrantable
 
 ===========
 story_quest_name_fr.lsd
@@ -4496,6 +4638,55 @@ avec la Team Skull !
 [quest_title_1030203000601060] Combat : Team Break II
 [quest_title_1030203000601070] Combat : Team Break III
 [quest_title_1030203000601180] Le piège de la Team Skull !
+[quest_group_title_100030] Intermède 4
+[quest_group_title_100031] Chapitre 25
+[quest_group_title_100032] Intermède 5
+[quest_group_title_10116000000] Aurore
+[quest_group_title_10048100000] Pieris (Look Ultime)
+[quest_group_title_10170000000] Artie
+[quest_group_detail_100030] Le traumatisme du prince
+[quest_group_detail_100031] La meilleure option
+[quest_group_detail_100032] Ce qui fait un roi
+[quest_title_1030110000245100] Tcheren pense au prince
+[quest_title_1030110000250100] La meilleure option I
+[quest_title_1030110100250200] Combat : l'équipe de Pieris
+(Look Ultime)
+[quest_title_1030110000250300] La meilleure option II
+[quest_title_1030110000255100] L'enseignement de Tcheren
+[quest_title_1030205000702001] Les rochers dominants
+[quest_title_1030205010702001] Les blocs inamovibles
+[quest_title_1030205020702001] Les monts fendant les cieux
+[quest_title_1030205030702001] Les falaises indestructibles
+[quest_title_1030205000702002] L'élégante banquise
+[quest_title_1030205010702002] Les glaciers éternels
+[quest_title_1030205020702002] Les sublimes icebergs
+[quest_title_1030210116000000] Une journée avec Aurore
+[quest_title_1030220116000100] L'évolution de Tortipouss
+[quest_title_1030220116000200] L'évolution de Boskara
+[quest_title_1030210048100000] Une journée avec Pieris (Look
+Ultime)
+[quest_title_1030210170000000] Une journée avec Artie
+[quest_title_1030205000600010] Une Prestance naturelle
+[quest_title_1030205000600020] Une Danse éblouissante
+[quest_title_1030205000600030] Un combat de Brillance
+[quest_title_1030205000600040] Et la victoire revient à...
+[quest_title_1030205000601010] Combat général !
+[quest_title_1030205000601020] Combat général ! 2
+[quest_title_1030205000601030] Combat général ! 3
+[quest_title_1030205000601040] Combat général ! 4
+[quest_title_1030205000601050] Combat : Marc
+[quest_title_1030205000601060] Combat : Marc 2
+[quest_title_1030420500101012] Combat : Artie
+[quest_title_1030420500101014] Combat : Artie 2
+[quest_title_1030420500102012] Combat : Strykna
+[quest_title_1030420500102014] Combat : Strykna 2
+[quest_title_1030420500103012] Combat : Iris
+[quest_title_1030420500103014] Combat : Iris 2
+[quest_title_1030420500104012] Combat : Anis
+[quest_title_1030420500104014] Combat : Anis 2
+[quest_title_1030205000600000] Le Concours des Duos !
+[quest_title_1030420400101011] Combat : Dresseurs de Passio
+[quest_title_1030205040702001] Robustesse du grand roc
 
 ===========
 story_quest_name_it.lsd
@@ -5435,6 +5626,53 @@ story_quest_name_it.lsd
 [quest_title_1030203000601060] VS Team Break 2
 [quest_title_1030203000601070] VS Team Break 3
 [quest_title_1030203000601180] L'insistenza del Team Skull
+[quest_group_title_100030] Capitolo speciale 4
+[quest_group_title_100031] Capitolo 25
+[quest_group_title_100032] Capitolo speciale 5
+[quest_group_title_10116000000] Lucinda
+[quest_group_title_10048100000] Mirton Costumax
+[quest_group_title_10170000000] Artemisio
+[quest_group_detail_100030] Il passato del principe
+[quest_group_detail_100031] La carta migliore
+[quest_group_detail_100032] Il diritto di diventare re
+[quest_title_1030110000245100] La preoccupazione di Chette e Ravi
+[quest_title_1030110000250100] La carta migliore (parte 1)
+[quest_title_1030110100250200] VS Mirton Costumax & co.
+[quest_title_1030110000250300] La carta migliore (parte 2)
+[quest_title_1030110000255100] I consigli di Komor
+[quest_title_1030205000702001] Una roccia imponente
+[quest_title_1030205010702001] Un macigno inamovibile
+[quest_title_1030205020702001] Un masso che scuote il cielo
+[quest_title_1030205030702001] Una barriera di roccia indistruttibile
+[quest_title_1030205000702002] Fronteggia il pack elegante!
+[quest_title_1030205010702002] Doma l'avanzata dei ghiacci!
+[quest_title_1030205020702002] Doma l'iceberg maestoso!
+[quest_title_1030210116000000] Un giorno con Lucinda
+[quest_title_1030220116000100] L'evoluzione di Turtwig
+[quest_title_1030220116000200] L'evoluzione di Grotle
+[quest_title_1030210048100000] Un giorno con Mirton Costumax
+[quest_title_1030210170000000] Un giorno con Artemisio
+[quest_title_1030205000600010] In mostra per la giuria!
+[quest_title_1030205000600020] Danze strabilianti!
+[quest_title_1030205000600030] E per finire... lotte splendenti!
+[quest_title_1030205000600040] La vittoria finale va a...
+[quest_title_1030205000601010] Lottiamo tutti insieme!
+[quest_title_1030205000601020] Lottiamo tutti insieme! 2
+[quest_title_1030205000601030] Lottiamo tutti insieme! 3
+[quest_title_1030205000601040] Lottiamo tutti insieme! 4
+[quest_title_1030205000601050] VS Adriano
+[quest_title_1030205000601060] VS Adriano 2
+[quest_title_1030420500101012] VS Artemisio
+[quest_title_1030420500101014] VS Artemisio 2
+[quest_title_1030420500102012] VS Velia
+[quest_title_1030420500102014] VS Velia 2
+[quest_title_1030420500103012] VS Iris
+[quest_title_1030420500103014] VS Iris 2
+[quest_title_1030420500104012] VS Antemia
+[quest_title_1030420500104014] VS Antemia 2
+[quest_title_1030205000600000] Inizia la Gara delle Unità!
+[quest_title_1030420400101011] VS Allenatori di Pasio
+[quest_title_1030205040702001] Un muro di roccia incrollabile
 
 ===========
 story_quest_name_ja.lsd
@@ -6377,6 +6615,53 @@ story_quest_name_ja.lsd
 [quest_title_1030203000601060] ＶＳ　ブレイク団２
 [quest_title_1030203000601070] ＶＳ　ブレイク団３
 [quest_title_1030203000601180] スカル団に　つかまった！？
+[quest_group_title_100030] 幕間の物語４
+[quest_group_title_100031] 第２５章
+[quest_group_title_100032] 幕間の物語５
+[quest_group_title_10116000000] ヒカリ
+[quest_group_title_10048100000] マジコスギーマ
+[quest_group_title_10170000000] アーティ
+[quest_group_detail_100030] 歪んでしまった王子
+[quest_group_detail_100031] 最高の一手
+[quest_group_detail_100032] 王の資格
+[quest_title_1030110000245100] チェッタとドリバルの思い
+[quest_title_1030110000250100] 最高の一手　前編
+[quest_title_1030110100250200] ＶＳ　チーム・マジコスギーマ
+[quest_title_1030110000250300] 最高の一手　後編
+[quest_title_1030110000255100] チェレンの導き
+[quest_title_1030205000702001] そびえ立つ岩のゆくえ
+[quest_title_1030205010702001] 動かざる重岩のゆくえ
+[quest_title_1030205020702001] 天を突く岩山のゆくえ
+[quest_title_1030205030702001] 崩せぬ岩壁のゆくえ
+[quest_title_1030205000702002] 麗しき流氷に立ち向かえ！
+[quest_title_1030205010702002] 凍てつく氷河を制圧せよ！
+[quest_title_1030205020702002] 荘厳なる氷山を制圧せよ！
+[quest_title_1030210116000000] とある日のヒカリ
+[quest_title_1030220116000100] ナエトルの進化
+[quest_title_1030220116000200] ハヤシガメの進化
+[quest_title_1030210048100000] とある日のマジコスギーマ
+[quest_title_1030210170000000] とある日のアーティ
+[quest_title_1030205000600010] アピールしていこう！
+[quest_title_1030205000600020] キレッキレ　ダンス！
+[quest_title_1030205000600030] ラストは　かがやき勝負！
+[quest_title_1030205000600040] はたして　優勝は……！！
+[quest_title_1030205000601010] みんなで勝負！
+[quest_title_1030205000601020] みんなで勝負！２
+[quest_title_1030205000601030] みんなで勝負！３
+[quest_title_1030205000601040] みんなで勝負！４
+[quest_title_1030205000601050] ＶＳ　ミクリ
+[quest_title_1030205000601060] ＶＳ　ミクリ２
+[quest_title_1030420500101012] ＶＳ　アーティ
+[quest_title_1030420500101014] ＶＳ　アーティ２
+[quest_title_1030420500102012] ＶＳ　ホミカ
+[quest_title_1030420500102014] ＶＳ　ホミカ２
+[quest_title_1030420500103012] ＶＳ　アイリス
+[quest_title_1030420500103014] ＶＳ　アイリス２
+[quest_title_1030420500104012] ＶＳ　シキミ
+[quest_title_1030420500104014] ＶＳ　シキミ２
+[quest_title_1030205000600000] バディーズコンテスト開催！
+[quest_title_1030420400101011] ＶＳ　パシオのトレーナー
+[quest_title_1030205040702001] 頑強なる巨岩のゆくえ
 
 ===========
 story_quest_name_ko.lsd
@@ -7318,6 +7603,53 @@ story_quest_name_ko.lsd
 [quest_title_1030203000601060] VS 브레이크단2
 [quest_title_1030203000601070] VS 브레이크단3
 [quest_title_1030203000601180] 스컬단에게 붙잡혔어!?
+[quest_group_title_100030] 막간의 이야기4
+[quest_group_title_100031] 제25장
+[quest_group_title_100032] 막간의 이야기5
+[quest_group_title_10116000000] 빛나
+[quest_group_title_10048100000] 궁극코스 블래리
+[quest_group_title_10170000000] 아티
+[quest_group_detail_100030] 뒤틀려버린 왕자
+[quest_group_detail_100031] 최고의 한 수
+[quest_group_detail_100032] 왕의 자격
+[quest_title_1030110000245100] 치터와 드리버의 마음
+[quest_title_1030110000250100] 최고의 한 수 전편
+[quest_title_1030110100250200] VS 팀 궁극코스 블래리
+[quest_title_1030110000250300] 최고의 한 수 후편
+[quest_title_1030110000255100] 체렌의 인도
+[quest_title_1030205000702001] 우뚝 솟은 바위의 행방
+[quest_title_1030205010702001] 움직이지 않는 무거운 바위의 행방
+[quest_title_1030205020702001] 하늘을 찌르는 바위산의 행방
+[quest_title_1030205030702001] 무너뜨릴 수 없는 암벽의 행방
+[quest_title_1030205000702002] 아름다운 유빙에 맞서라!
+[quest_title_1030205010702002] 얼어붙은 빙하를 제압하라!
+[quest_title_1030205020702002] 장엄한 빙산을 제압하라!
+[quest_title_1030210116000000] 빛나의 어느 날
+[quest_title_1030220116000100] 모부기의 진화
+[quest_title_1030220116000200] 수풀부기의 진화
+[quest_title_1030210048100000] 궁극코스 블래리의 어느 날
+[quest_title_1030210170000000] 아티의 어느 날
+[quest_title_1030205000600010] 어필해보자!
+[quest_title_1030205000600020] 빠릿빠릿 댄스!
+[quest_title_1030205000600030] 마지막은 반짝임 승부!
+[quest_title_1030205000600040] 우승은 과연...!!
+[quest_title_1030205000601010] 다 같이 승부!
+[quest_title_1030205000601020] 다 같이 승부!2
+[quest_title_1030205000601030] 다 같이 승부!3
+[quest_title_1030205000601040] 다 같이 승부!4
+[quest_title_1030205000601050] VS 윤진
+[quest_title_1030205000601060] VS 윤진2
+[quest_title_1030420500101012] VS 아티
+[quest_title_1030420500101014] VS 아티2
+[quest_title_1030420500102012] VS 보미카
+[quest_title_1030420500102014] VS 보미카2
+[quest_title_1030420500103012] VS 아이리스
+[quest_title_1030420500103014] VS 아이리스2
+[quest_title_1030420500104012] VS 망초
+[quest_title_1030420500104014] VS 망초2
+[quest_title_1030205000600000] 버디즈 콘테스트 개최!
+[quest_title_1030420400101011] VS 파시오의 트레이너
+[quest_title_1030205040702001] 완강한 거대 암석의 행방
 
 ===========
 story_quest_name_zh-TW.lsd
@@ -8259,6 +8591,53 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030203000601060] ＶＳ　破壞隊２
 [quest_title_1030203000601070] ＶＳ　破壞隊３
 [quest_title_1030203000601180] 被骷髏隊給纏上了！？
+[quest_group_title_100030] 中場故事４
+[quest_group_title_100031] 第２５章
+[quest_group_title_100032] 中場故事５
+[quest_group_title_10116000000] 小光
+[quest_group_title_10048100000] 美極套裝越橘
+[quest_group_title_10170000000] 亞堤
+[quest_group_detail_100030] 性格扭曲的王子
+[quest_group_detail_100031] 最棒的一步
+[quest_group_detail_100032] 王者的資格
+[quest_title_1030110000245100] 棘兒和螺伯的心
+[quest_title_1030110000250100] 最棒的一步　前篇
+[quest_title_1030110100250200] ＶＳ　美極套裝越橘隊
+[quest_title_1030110000250300] 最棒的一步　後篇
+[quest_title_1030110000255100] 黑連的引導
+[quest_title_1030205000702001] 聳立岩石的去向
+[quest_title_1030205010702001] 不動重岩的去向
+[quest_title_1030205020702001] 穿天岩山的去向
+[quest_title_1030205030702001] 不塌岩壁的去向
+[quest_title_1030205000702002] 面對華麗浮冰！
+[quest_title_1030205010702002] 壓制結凍冰河！
+[quest_title_1030205020702002] 壓制宏偉冰山！
+[quest_title_1030210116000000] 某日的小光
+[quest_title_1030220116000100] 草苗龜的進化
+[quest_title_1030220116000200] 樹林龜的進化
+[quest_title_1030210048100000] 某日的美極套裝越橘
+[quest_title_1030210170000000] 某日的亞堤
+[quest_title_1030205000600010] 展現魅力吧！
+[quest_title_1030205000600020] 俐落的舞蹈！
+[quest_title_1030205000600030] 一較高下看誰最閃耀！
+[quest_title_1030205000600040] 究竟獲勝的是……！！
+[quest_title_1030205000601010] 大家一起來對戰！
+[quest_title_1030205000601020] 大家一起來對戰！２
+[quest_title_1030205000601030] 大家一起來對戰！３
+[quest_title_1030205000601040] 大家一起來對戰！４
+[quest_title_1030205000601050] ＶＳ　米可利
+[quest_title_1030205000601060] ＶＳ　米可利２
+[quest_title_1030420500101012] ＶＳ　亞堤
+[quest_title_1030420500101014] ＶＳ　亞堤２
+[quest_title_1030420500102012] ＶＳ　霍米加
+[quest_title_1030420500102014] ＶＳ　霍米加２
+[quest_title_1030420500103012] ＶＳ　艾莉絲
+[quest_title_1030420500103014] ＶＳ　艾莉絲２
+[quest_title_1030420500104012] ＶＳ　婉龍
+[quest_title_1030420500104014] ＶＳ　婉龍２
+[quest_title_1030205000600000] 拍組華麗大賽開幕！
+[quest_title_1030420400101011] ＶＳ　帕希歐的訓練家
+[quest_title_1030205040702001] 頑強巨岩的去向
 
 ===========
 trainer_description_de.lsd
@@ -8469,7 +8848,8 @@ Pokémon, das ihm einst das Leben rettete. Für ihn
 benötigen Trainer ein ehrliches Herz.
 [10095000000] Eine Tochter aus gutem Hause, die ihre Schwächen aus
 Kindertagen überwunden hat und sogar so stark wurde,
-dass sie nun ein Mitglied der Top Vier ist.
+dass sie nun ein Mitglied der Top Vier in Einall ist.
+
 [10096000000] Ein legendärer Chefkoch und Mitglied der Top Vier, für 
 den Kochen und Kämpfen jeweils Formen von Kunst sind.
 In beidem weiß er zu glänzen.
@@ -8559,6 +8939,15 @@ um ein starker Trainer zu werden.
 [10133000000] Dieser junge Mann will der Stärkste der Welt werden.
 Seine Vergangenheit hat ihn gelehrt, dass es nicht nur
 auf Stärke ankommt, sondern auch auf Freundlichkeit.
+[10116000000] Dieser Trainer ist immer guter Dinge und kümmert sich
+gerne um andere. Ihre Reisen durch die Sinnoh-Region
+haben sie gestählt. Sie ist aber ein bisschen schusselig.
+[10170000000] Er ist der Arenaleiter von Stratos City und Künstler. Sein
+Werk dreht sich rund um seine geliebten Käfer-Pokémon.
+Er lässt sich nie hetzen und seine Denkweise ist flexibel.
+[10048100000] Astors Machtmontur besticht durch ein imposantes Blau.
+Das stürmische Wetter auf hoher See hat seinen Instinkt
+für Kämpfe geschärft. Nun fährt er wellenweise Siege ein.
 
 ===========
 trainer_description_en.lsd
@@ -8860,6 +9249,15 @@ a Pokémon Trainer.
 [10133000000] Although known for aiming to be the strongest Trainer in
 the world, this boy no longer cares about strength alone.
 He’s also realized the importance of a kind heart.
+[10116000000] This friendly and upbeat Trainer packs quite a punch,
+thanks to her travels in Sinnoh. Despite her skill as a
+Trainer, she can be a little scatterbrained at times.
+[10170000000] With Bug-type Pokémon as his eternal muse, this Castelia
+City Gym Leader and accomplished artist lives life at his
+own pace, keeping an open mind to new discoveries.
+[10048100000] Grimsley is back in his brand-new, crisp blue sygna suit!
+His sharp instincts honed by the raging seas, this thrill
+seeker has set his sights on riding a wave to victory.
 
 ===========
 trainer_description_es.lsd
@@ -9199,6 +9597,17 @@ a fondo para convertirse en un Entrenador de primera.
 fuerte habido y por haber, aunque ya no solo piensa que
 la fuerza sea lo más importante, sino que también tiene
 en cuenta la amabilidad.
+[10116000000] Esta alegre Entrenadora, que ha conseguido hacerse fuerte
+tras entrenarse durante sus viajes por la región de Sinnoh,
+sigue mostrando de vez en cuando su torpeza.
+[10170000000] El Líder de Gimnasio de Ciudad Porcelana es un artista
+que crea obras de arte basadas en Pokémon de tipo
+Bicho, a los que adora. Su forma de pensar es particular
+pero flexible, siempre abierto a sugerencias.
+[10048100000] Envuelto en un precioso Traje Summum azulado, Aza
+pone en práctica su entrenamiento contra enérgicas
+mareas y hace gala de intrépidas tácticas para nadar
+hacia la victoria.
 
 ===========
 trainer_description_fr.lsd
@@ -9481,6 +9890,15 @@ devenir un meilleur Dresseur Pokémon.
 [10133000000] Un jeune Dresseur qui rêve de devenir le plus fort du
 monde. Au fil de son aventure, il a appris que la
 gentillesse était au moins aussi importante que la force.
+[10116000000] Une Dresseuse très positive quoiqu'un peu distraite, qui
+adore aider son prochain. Ses aventures à Sinnoh lui ont
+permis de développer une grande puissance.
+[10170000000] Champion de l'Arène de Volucité, Artie puise son
+inspiration dans les Pokémon Insecte qu'il aime beaucoup.
+Il vit à son rythme mais possède une grande intelligence.
+[10048100000] Pieris a revêtu son impressionnant Look Ultime bleu.
+Affûté par les mers déchaînées, son amour pour le hasard
+lui donne un grand avantage pour remporter la victoire.
 
 ===========
 trainer_description_it.lsd
@@ -9677,7 +10095,7 @@ In particolare adora quelli di tipo Buio per l'aspetto
 Affronta gli avversari con lealtà per affinare la sua forza,
 frutto di rigorosi allenamenti.
 [10090000000] Noto come "il collezionista girovago", è figlio del capo
-della Devon S.p.A. e Campione della Lega Pokémon
+della Devon SpA e Campione della Lega Pokémon
 di Hoenn. Ama le gemme rare.
 [10091000000] Archeologa specializzata in storia e mitologia Pokémon
 nonché Campionessa di Sinnoh. Ama i Pokémon e da
@@ -9783,6 +10201,17 @@ come Allenatore.
 al mondo. Lasciandosi alle spalle il proprio passato,
 ha imparato che, oltre alla forza, è importante avere
 anche un animo gentile.
+[10116000000] Un'Allenatrice positiva e sempre disponibile con gli altri,
+ha acquisito le sue capacità allenandosi mentre viaggiava
+a Sinnoh. In realtà è un po' sbadata.
+[10170000000] Il Capopalestra di Austropoli è anche un artista, le cui
+creazioni si ispirano ai suoi tanto amati Pokémon di tipo
+Coleottero. Fa le cose a modo suo, ma dimostra anche
+di avere una mentalità aperta.
+[10048100000] Mirton indossa un Costumax in cui risalta il colore blu.
+Grazie al suo istinto da esperto di sfide, affinato sul mare
+in tempesta, sa cavalcare l'onda per conquistare
+la vittoria.
 
 ===========
 trainer_description_ja.lsd
@@ -10084,6 +10513,15 @@ trainer_description_ja.lsd
 [10133000000] 世界で一番強い　トレーナーを　目指す　少年。
 過去を　乗りこえることで　強さだけではなく
 優しい心の　大切さを　知った。
+[10116000000] 前向きで　お世話好きな　性格の　トレーナー。
+シンオウ地方を　旅して　鍛えた　実力の　持ち主。
+じつは　ちょっと　おっちょこちょい。
+[10170000000] ヒウンシティの　ジムリーダーで　芸術家でもある。
+大好きな　むしポケモンが　創作のモチーフ。
+マイペースだが　柔軟な　思考の　持ち主だ。
+[10048100000] 青が　印象的な　マジコスに　身を包んだ　ギーマ。
+荒れ狂う　海の中で　研ぎ澄まされた
+勝負師の　勘が　勝利の波を　引き寄せる。
 
 ===========
 trainer_description_ko.lsd
@@ -10385,6 +10823,15 @@ trainer_description_ko.lsd
 [10133000000] 세계에서 가장 강한 트레이너를 목표하는 소년.
 과거를 이겨내면서 강함이 전부가 아니라는 점과
 상냥한 마음의 소중함을 깨달았다.
+[10116000000] 적극적이고 다른 사람을 잘 봐주는 성격의 트레이너.
+신오지방을 여행하며 단련한 실력의 소유자.
+실은 조금 덤벙댄다.
+[10170000000] 구름시티의 체육관 관장이며 예술가이기도 하다.
+정말 좋아하는 벌레포켓몬이 창작의 모티브.
+마이페이스지만 유연한 사고방식의 소유자이다.
+[10048100000] 파란색이 인상적인 궁극코스를 입은 블래리.
+성난 바다에서 연마한 승부사의 감이
+승리의 흐름을 이끌어 낸다.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -10685,6 +11132,15 @@ trainer_description_zh-TW.lsd
 [10133000000] 以成為世界第一強訓練家為目標的少年。
 透過克服自己的過去而明白了
 除了實力之外，一顆溫柔的心也很重要。
+[10116000000] 是個積極樂觀、喜歡照顧人的訓練家。
+曾在神奧地區旅行，鍛鍊出了現在的實力。
+其實個性有點迷糊冒失。
+[10170000000] 既是飛雲市的道館館主，也是藝術家。
+他最喜歡的蟲寶可夢就是他創作的主題。
+個性我行我素，但擁有靈活的思考模式。
+[10048100000] 身穿的美極套裝藍得令人印象深刻。
+在驚濤駭浪中鍛鍊出來的敏銳直覺，
+會為賭徒越橘吸引勝利的波浪。
 
 ===========
 trainer_name_de.lsd
@@ -10795,6 +11251,7 @@ trainer_name_de.lsd
 [ch0112] Klarin
 [ch0113] Jasmin
 [ch0114] Sabrina
+[ch0116] Lucia
 [ch0121] Fran
 [ch0124] Maho
 [ch0125] Bromley
@@ -10810,6 +11267,7 @@ trainer_name_de.lsd
 [ch0157] Valerie
 [ch9000] 
 [ch0159] Perenus
+[ch0170] Artie
 
 ===========
 trainer_name_en.lsd
@@ -10920,6 +11378,7 @@ trainer_name_en.lsd
 [ch0112] Ethan
 [ch0113] Jasmine
 [ch0114] Sabrina
+[ch0116] Dawn
 [ch0121] Plumeria
 [ch0124] Mallow
 [ch0125] Guzma
@@ -10935,6 +11394,7 @@ trainer_name_en.lsd
 [ch0157] Valerie
 [ch9000] 
 [ch0159] Darach
+[ch0170] Burgh
 
 ===========
 trainer_name_es.lsd
@@ -11045,6 +11505,7 @@ trainer_name_es.lsd
 [ch0112] Eco
 [ch0113] Yasmina
 [ch0114] Sabrina
+[ch0116] Maya
 [ch0121] Francine
 [ch0124] Lulú
 [ch0125] Guzmán
@@ -11060,6 +11521,7 @@ trainer_name_es.lsd
 [ch0157] Valeria
 [ch9000] 
 [ch0159] Kokuran
+[ch0170] Camus
 
 ===========
 trainer_name_fr.lsd
@@ -11170,6 +11632,7 @@ trainer_name_fr.lsd
 [ch0112] Luth
 [ch0113] Jasmine
 [ch0114] Morgane
+[ch0116] Aurore
 [ch0121] Apocyne
 [ch0124] Barbara
 [ch0125] Guzma
@@ -11185,6 +11648,7 @@ trainer_name_fr.lsd
 [ch0157] Valériane
 [ch9000] 
 [ch0159] Parsley
+[ch0170] Artie
 
 ===========
 trainer_name_it.lsd
@@ -11295,6 +11759,7 @@ trainer_name_it.lsd
 [ch0112] Armonio
 [ch0113] Jasmine
 [ch0114] Sabrina
+[ch0116] Lucinda
 [ch0121] Plumeria
 [ch0124] Ibis
 [ch0125] Guzman
@@ -11310,6 +11775,7 @@ trainer_name_it.lsd
 [ch0157] Valérie
 [ch9000] 
 [ch0159] Paride
+[ch0170] Artemisio
 
 ===========
 trainer_name_ja.lsd
@@ -11420,6 +11886,7 @@ trainer_name_ja.lsd
 [ch0112] ヒビキ
 [ch0113] ミカン
 [ch0114] ナツメ
+[ch0116] ヒカリ
 [ch0121] プルメリ
 [ch0124] マオ
 [ch0125] グズマ
@@ -11435,6 +11902,7 @@ trainer_name_ja.lsd
 [ch0157] マーシュ
 [ch9000] 
 [ch0159] コクラン
+[ch0170] アーティ
 
 ===========
 trainer_name_ko.lsd
@@ -11545,6 +12013,7 @@ trainer_name_ko.lsd
 [ch0112] 심향
 [ch0113] 규리
 [ch0114] 초련
+[ch0116] 빛나
 [ch0121] 플루메리
 [ch0124] 마오
 [ch0125] 구즈마
@@ -11560,6 +12029,7 @@ trainer_name_ko.lsd
 [ch0157] 마슈
 [ch9000] 
 [ch0159] 코크런
+[ch0170] 아티
 
 ===========
 trainer_name_zh-TW.lsd
@@ -11670,6 +12140,7 @@ trainer_name_zh-TW.lsd
 [ch0112] 阿響
 [ch0113] 阿蜜
 [ch0114] 娜姿
+[ch0116] 小光
 [ch0121] 布爾美麗
 [ch0124] 瑪奧
 [ch0125] 古茲馬
@@ -11685,6 +12156,7 @@ trainer_name_zh-TW.lsd
 [ch0157] 瑪綉
 [ch9000] 
 [ch0159] 石蘭
+[ch0170] 亞堤
 
 ===========
 common_widget_de.lsd
@@ -12203,7 +12675,7 @@ has been set!
 [common_widget/dialog_058] Unlock Requirements
 [common_widget/dialog_059] New Mission Bingo cards
 now available!
-[common_widget/dialog_061] This Battle Villa challenge has ended.
+[common_widget/dialog_061] No longer available.
 Returning to the Pokémon Center.
 [common_widget/dialog_063] Levels up the sync move of
 [Name:TrainerName ] & [Name:PokemonName ]
@@ -12348,7 +12820,7 @@ purchased in a single month exceeds
 certain thresholds.
 
 Would you like to enable this setting?
-<attr color='EB1414' size="18">You can change your preferences
+<attr color=’EB1414’ size="18">You can change your preferences
 at any time using the Settings menu.</attr>
 [common_widget/purchase_003] You can change your preferences at any time
 using the Settings menu.
@@ -16529,7 +17001,7 @@ weiter auf der Karte fortschreiten.
 [home/home_003] Team
 [home/home_007] Zeitraum abgelaufen
 [home/home_016] Ein Legenden-Event läuft!
-[home/home_017] Ein PokéFair läuft!
+[home/home_017] Ein PokéFestival läuft!
 [home/home_019] Jetzt mehr Versuche!
 [home/home_020] Ein Legenden-Event läuft!
 [home/home_021] PokéFestival!
@@ -17041,7 +17513,7 @@ para hacer frente a este desafío.
 [home/quest_detail_059] Más premios
 [home/quest_detail_060] ¿Usas estos objetos para partir a la
 aventura?
-[Name:Item ]×[Digit:2digits ]
+[Name:Item ] ×[Digit:2digits ]
 [home/quest_detail_061] Nota: Recuperarás los objetos si no logras completar
 la ubicación.
 [home/quest_detail_062] Tu equipo no cuenta con la fuerza
@@ -17419,7 +17891,7 @@ Vous avez terminé tous les épisodes !
 [home/episode_event_016] Atteignez un objectif pour obtenir un épisode principal et une nouvelle carte.
 [home/episode_event_017] Voulez-vous terminer cette carte et vous rendre sur la prochaine ?
 [home/episode_event_018] Vous vous déplacez sur la prochaine carte lorsque vous atteignez l'objectif.
-[home/episode_event_019] pts
+[home/episode_event_019]  
 [home/episode_event_020] Objets
 [home/episode_event_021] Objectif
 [home/episode_event_022] Dépenser des Points de Mouvement pour obtenir l'objet ?
@@ -17607,7 +18079,7 @@ possibile proseguire sulla mappa.
 [home/home_003] Squadra
 [home/home_007] Tempo scaduto
 [home/home_016] Evento leggendario in corso!
-[home/home_017] Masterparty in corso!
+[home/home_017] Masterparty!
 [home/home_019] Più tentativi disponibili
 [home/home_020] Evento leggendario in corso
 [home/home_021] Masterparty
@@ -19396,7 +19868,7 @@ Las tasas de aparición de las parejas de compis con los tipos destacados serán
 [shop/scout_078] Recl. ×10 especial
 [shop/scout_079] Nota: Se usarán joyas de pago. Aunque el Pokémon de una pareja de compis haya evolucionado, si reclutas una pareja de compis idéntica, el Pokémon aparecerá siempre en su primera fase evolutiva.
 Podrás obtener una pareja de compis a tu elección tras realizar el reclutamiento de compis ×10. Si se produce un error durante el proceso, dispondrás de una semana desde que se realizó el reclutamiento en cuestión para elegir la pareja de compis que tú quieras. No podrás obtener la pareja pasado este tiempo.
-[shop/scout_080] ¡Elige los compis de 5★ que quieras!
+[shop/scout_080] ¡Elige una pareja de compis de 5★!
 [shop/scout_081] En este reclutamiento de compis ×10 tendrás la posibilidad de elegir una de las parejas de la siguiente lista.
 [shop/scout_082] Los Pokémon de las parejas de compis marcadas con un asterisco (*) en la pantalla de las tasas de aparición podrán evolucionar tras completar el episodio de evolución correspondiente.
 Podrás obtener una pareja de compis a tu elección tras realizar el reclutamiento de compis ×10. Si se produce un error durante el proceso, dispondrás de una semana desde que se realizó el reclutamiento en cuestión para elegir la pareja de compis que tú quieras. No podrás obtener la pareja pasado este tiempo.
@@ -19406,7 +19878,7 @@ de compis?
 [shop/scout_085] Lista de compis
 [shop/scout_087] ¡Se acaba el tiempo para elegir a los compis!
 [shop/scout_088] Elige una pareja
-[shop/scout_089] ¡Consigue los compis de 5★ que quieras!
+[shop/scout_089] ¡Elige una pareja de compis de 5★!
 [shop/scout_090] Compis de temporada
 [shop/scout_091] Ten en cuenta que las tasas de aparición de las ★ mostradas se redondean a partir del cuarto decimal; por ello, las cantidades no siempre suman un 100%. Las tasas de aparición no se redondean al efectuar el reclutamiento.
 Las tasas de aparición de cada pareja de compis se aplican cada vez que se efectúa un reclutamiento, de modo que realizarlo de forma consecutiva no garantiza la obtención de dicha pareja de compis.
