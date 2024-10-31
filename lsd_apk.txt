@@ -1782,6 +1782,12 @@ nicht vorbei!
 [quest_title_1030420700305013] Taktiker-Intensivkurs 2
 [quest_title_1030420700306013] Helfer-Intensivkurs 2
 [quest_title_1030420400101011] Vs. Trainer aus Passio
+[quest_title_1031207000201011] Team Rocket tritt an!
+[quest_title_1031207000201021] Das große Feuerwerk ruft!
+[quest_title_1031207000201031] Mehr und mehr Machtgier
+[quest_title_1031207000201041] Vs. Team Break 1
+[quest_title_1031207000201051] Vs. Team Break 2
+[quest_title_1031207000201061] Vs. Team Break 3
 [quest_title_1030420700101010] Vs. Trainer aus Passio 1
 [quest_title_1030420700101011] Vs. Trainer aus Passio 2
 [quest_title_1030420700101012] Vs. Trainer aus Passio 3
@@ -1800,6 +1806,7 @@ nicht vorbei!
 [quest_title_1030420700204012] Drops-Intensivkurs
 [quest_title_1030420700401010] Entwickl.-Intensivkurs
 [quest_title_1030420700402011] Entwickl.-Intensivkurs
+[quest_group_title_10241000000] James
 [quest_group_title_610060] Limitbruchgebiet 2
 [quest_group_title_610061] Typenfähigkeit-
 Verstärkungsgebiet
@@ -1819,6 +1826,35 @@ Kampf-Intensivkurs 1
 Verstärkungsintensivkurs
 [quest_group_title_10194000000] Zyrus
 [quest_title_1030210091010001] Ein Tag mit MaMo-Cynthia
+[quest_title_1030208000601150] Vs. Trainer aus Passio 1
+[quest_title_1030208000601160] Vs. Trainer aus Passio 2
+[quest_title_1030208000601170] Vs. Trainer aus Passio 3
+[quest_title_1030208000601180] Vs. Trainer aus Passio 4
+[quest_title_1030208000601190] Vs. Trainer aus Passio 5
+[quest_title_1030208000601200] Kollektivkampf 1
+[quest_title_1030208000601210] Kollektivkampf 2
+[quest_title_1030208000601020] Eine verzweifelte Familie
+[quest_title_1030208000601030] Gemischte Familiengefühle
+[quest_title_1030208000601040] Für euer Lächeln
+[quest_title_1030208000601050] Vom Weg abgekommen?
+[quest_title_1030208000601060] Gladios Unglück
+[quest_title_1030208000601070] Gladio und die G-Kraft
+[quest_title_1030208000601080] Passios junge Damen
+[quest_title_1030208000601090] Angst vor der Ultrabestie?
+[quest_title_1030208000601100] Samanthas Kummer
+[quest_title_1030208000601110] Bromley und Samantha
+[quest_title_1030208000601120] Bruder und Schwester
+[quest_title_1030208000601130] Der Zukunft entgegen
+[quest_title_1030208000601140] Familienrivalität
+[quest_title_1030208001001010] Vs. Tobutz 1
+[quest_title_1030208001001020] Vs. Tobutz 2
+[quest_title_1030208001001030] Vs. Tobutz 3
+[quest_title_1030210120000001] Ein Tag mit Samantha
+[quest_title_1030210119000001] Ein Tag mit Gladio
+[quest_title_1030210118000001] Ein Tag mit Lilly
+[quest_group_title_10120000000] Samantha
+[quest_group_title_10119000000] Gladio
+[quest_group_title_10118000000] Lilly
 [quest_group_title_10021010000] MaMo-Blau
 [quest_group_title_10017100000] MaMo-Leaf
 [quest_title_1030420800101011] Noch höher hinaus!
@@ -2920,6 +2956,12 @@ story_quest_name_en.lsd
 [quest_title_1030420700305013] Tech Drill 2
 [quest_title_1030420700306013] Support Drill 2
 [quest_title_1030420400101011] Challenge Pasio’s Trainers
+[quest_title_1031207000201011] Team Rocket On the Move!
+[quest_title_1031207000201021] Prepare for Fireworks!
+[quest_title_1031207000201031] Extend Our Plot to the Stars Above!
+[quest_title_1031207000201041] Challenge Team Break: Part 1
+[quest_title_1031207000201051] Challenge Team Break: Part 2
+[quest_title_1031207000201061] Challenge Team Break: Part 3
 [quest_title_1030420700101010] Challenge Pasio’s Trainers: Part 1
 [quest_title_1030420700101011] Challenge Pasio’s Trainers: Part 2
 [quest_title_1030420700101012] Challenge Pasio’s Trainers: Part 3
@@ -2938,6 +2980,7 @@ story_quest_name_en.lsd
 [quest_title_1030420700204012] Sync Orb Drill
 [quest_title_1030420700401010] Evolution Drill
 [quest_title_1030420700402011] Evolution Drill
+[quest_group_title_10241000000] James
 [quest_group_title_610060] Cap-Unlock Area 2
 [quest_group_title_610061] Type Skill Area
 [quest_title_1030420800501010] Normal, Grass, and Dark Drill 1
@@ -2949,6 +2992,35 @@ story_quest_name_en.lsd
 [quest_title_1030420800601010] Type Skill Drill
 [quest_group_title_10194000000] Cyrus
 [quest_title_1030210091010001] A Day with Sygna Suit Cynthia
+[quest_title_1030208000601150] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030208000601160] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030208000601170] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030208000601180] Challenge Pasio’s Trainers: Part 4
+[quest_title_1030208000601190] Challenge Pasio’s Trainers: Part 5
+[quest_title_1030208000601200] Full-Force Battle! Round 1
+[quest_title_1030208000601210] Full-Force Battle! Round 2
+[quest_title_1030208000601020] A Family against All Odds
+[quest_title_1030208000601030] A Family Divided
+[quest_title_1030208000601040] A Two-Way Street
+[quest_title_1030208000601050] Lost and Found
+[quest_title_1030208000601060] Gladion’s Predicament
+[quest_title_1030208000601070] Gladion the Gladiator?
+[quest_title_1030208000601080] Pasio’s Elegant Ladies
+[quest_title_1030208000601090] Beast or Beauty?
+[quest_title_1030208000601100] Let It Go, Lusamine
+[quest_title_1030208000601110] An Unexpected Reunion
+[quest_title_1030208000601120] Sibling Advantages
+[quest_title_1030208000601130] Past vs. Future
+[quest_title_1030208000601140] A Family of Rivals
+[quest_title_1030208001001010] Azelf’s Challenge: Part 1
+[quest_title_1030208001001020] Azelf’s Challenge: Part 2
+[quest_title_1030208001001030] Azelf’s Challenge: Part 3
+[quest_title_1030210120000001] A Day with Lusamine
+[quest_title_1030210119000001] A Day with Gladion
+[quest_title_1030210118000001] A Day with Lillie
+[quest_group_title_10120000000] Lusamine
+[quest_group_title_10119000000] Gladion
+[quest_group_title_10118000000] Lillie
 [quest_group_title_10021010000] Sygna Suit Blue
 [quest_group_title_10017100000] Sygna Suit Leaf
 [quest_title_1030420800101011] Ever-Greater Heights
@@ -4054,6 +4126,12 @@ corazones
 [quest_title_1030420700305013] Entrenamiento de Sabotaje 2
 [quest_title_1030420700306013] Entrenamiento de Apoyo 2
 [quest_title_1030420400101011] VS. Entrenadores de Passio
+[quest_title_1031207000201011] ¡El Team Rocket despega!
+[quest_title_1031207000201021] ¡Los fuegos artificiales!
+[quest_title_1031207000201031] Malignos más allá del espacio exterior
+[quest_title_1031207000201041] VS. Team Break
+[quest_title_1031207000201051] VS. Team Break (2)
+[quest_title_1031207000201061] VS. Team Break (3)
 [quest_title_1030420700101010] VS. Entrenadores de Passio
 [quest_title_1030420700101011] VS. Entrenadores de Passio (2)
 [quest_title_1030420700101012] VS. Entrenadores de Passio (3)
@@ -4072,6 +4150,7 @@ corazones
 [quest_title_1030420700204012] Orbentrenamiento
 [quest_title_1030420700401010] Entrenamiento evolutivo
 [quest_title_1030420700402011] Entrenamiento evolutivo
+[quest_group_title_10241000000] James
 [quest_group_title_610060] Área de nivel máximo 2
 [quest_group_title_610061] Área de mejora de
 habilidad de tipo
@@ -4091,6 +4170,37 @@ y Lucha 1
 habilidades de tipo
 [quest_group_title_10194000000] Helio
 [quest_title_1030210091010001] Un día con Cintia (Traje S)
+[quest_title_1030208000601150] VS. Entrenadores de Passio
+[quest_title_1030208000601160] VS. Entrenadores de Passio (2)
+[quest_title_1030208000601170] VS. Entrenadores de Passio (3)
+[quest_title_1030208000601180] VS. Entrenadores de Passio (4)
+[quest_title_1030208000601190] VS. Entrenadores de Passio (5)
+[quest_title_1030208000601200] ¡Un combate colectivo!
+[quest_title_1030208000601210] ¡Un combate colectivo! (2)
+[quest_title_1030208000601020] ¡Esta familia no consigue
+coordinarse!
+[quest_title_1030208000601030] Sentimientos encontrados
+[quest_title_1030208000601040] Para que nunca pierdan la
+sonrisa
+[quest_title_1030208000601050] La pequeña perdida
+[quest_title_1030208000601060] La desgracia de Gladio
+[quest_title_1030208000601070] Gladio ¿dominante?
+[quest_title_1030208000601080] Un par de señoritas
+[quest_title_1030208000601090] ¡Alerta, Ultraente a la vista!
+[quest_title_1030208000601100] Madre sobreprotectora
+[quest_title_1030208000601110] Guzmán y Samina
+[quest_title_1030208000601120] Lazos de sangre
+[quest_title_1030208000601130] La vista fijada en el futuro
+[quest_title_1030208000601140] Rivalidades familiares
+[quest_title_1030208001001010] VS. Azelf
+[quest_title_1030208001001020] VS. Azelf (2)
+[quest_title_1030208001001030] VS. Azelf (3)
+[quest_title_1030210120000001] Un día con Samina
+[quest_title_1030210119000001] Un día con Gladio
+[quest_title_1030210118000001] Un día con Lylia
+[quest_group_title_10120000000] Samina
+[quest_group_title_10119000000] Gladio
+[quest_group_title_10118000000] Lylia
 [quest_group_title_10021010000] Azul (Traje S)
 [quest_group_title_10017100000] Hoja (Traje S)
 [quest_title_1030420800101011] El camino hacia lo más alto
@@ -5242,6 +5352,14 @@ l'affrontement ! II
 [quest_title_1030420700305013] Exercice Tacticien II
 [quest_title_1030420700306013] Exercice Soutien II
 [quest_title_1030420400101011] Combat : Dresseurs de Passio
+[quest_title_1031207000201011] La Team Rocket reprend
+du service.
+[quest_title_1031207000201021] Tous au feu d'artifice !
+[quest_title_1031207000201031] Des ruses jusqu'à la
+voie lactée
+[quest_title_1031207000201041] Combat : Team Break
+[quest_title_1031207000201051] Combat : Team Break II
+[quest_title_1031207000201061] Combat : Team Break III
 [quest_title_1030420700101010] Combat : Dresseurs de Passio
 [quest_title_1030420700101011] Combat : Dresseurs de
 Passio II
@@ -5263,6 +5381,7 @@ Passio IV
 [quest_title_1030420700204012] Exercice Duo-Sphères
 [quest_title_1030420700401010] Exercice évolution
 [quest_title_1030420700402011] Exercice évolution
+[quest_group_title_10241000000] James
 [quest_group_title_610060] Zone repousse-limite 2
 [quest_group_title_610061] Zone talents de type ↑
 [quest_title_1030420800501010] Exercice Normal, Plante et
@@ -5279,6 +5398,44 @@ Combat I
 [quest_group_title_10194000000] Hélio
 [quest_title_1030210091010001] Une journée avec Cynthia
 (Look Ultime)
+[quest_title_1030208000601150] Combat : Dresseurs de Passio
+[quest_title_1030208000601160] Combat :
+Dresseurs de Passio II
+[quest_title_1030208000601170] Combat :
+Dresseurs de Passio III
+[quest_title_1030208000601180] Combat :
+Dresseurs de Passio IV
+[quest_title_1030208000601190] Combat :
+Dresseurs de Passio V
+[quest_title_1030208000601200] Combat Collectif :
+l'affrontement !
+[quest_title_1030208000601210] Combat Collectif :
+l'affrontement ! II
+[quest_title_1030208000601020] Famille désemparée
+[quest_title_1030208000601030] Désaccords familiaux
+[quest_title_1030208000601040] Pour le sourire de mes
+enfants...
+[quest_title_1030208000601050] Mélofée s'est perdu...
+[quest_title_1030208000601060] L'accident de Gladio
+[quest_title_1030208000601070] Gladio'sommet ?
+[quest_title_1030208000601080] Les princesses de Passio
+[quest_title_1030208000601090] Méfiance à l'encontre
+des Ultra-Chimères
+[quest_title_1030208000601100] L'infiltration d'Elsa-Mina
+[quest_title_1030208000601110] Guzma et Elsa-Mina
+[quest_title_1030208000601120] Le lien entre frère et sœur
+[quest_title_1030208000601130] Un regard vers le futur !
+[quest_title_1030208000601140] Membres de la même
+famille, mais aussi rivaux !
+[quest_title_1030208001001010] Combat : Créfadet
+[quest_title_1030208001001020] Combat : Créfadet II
+[quest_title_1030208001001030] Combat : Créfadet III
+[quest_title_1030210120000001] Une journée avec Elsa-Mina
+[quest_title_1030210119000001] Une journée avec Gladio
+[quest_title_1030210118000001] Une journée avec Lilie
+[quest_group_title_10120000000] Elsa-Mina
+[quest_group_title_10119000000] Gladio
+[quest_group_title_10118000000] Lilie
 [quest_group_title_10021010000] Blue (Look Ultime)
 [quest_group_title_10017100000] Leaf (Look Ultime)
 [quest_title_1030420800101011] Vers de nouveaux sommets !
@@ -6388,6 +6545,12 @@ story_quest_name_it.lsd
 [quest_title_1030420700305013] Allenamento Tecnici 2
 [quest_title_1030420700306013] Allenamento Aiutanti 2
 [quest_title_1030420400101011] VS Allenatori di Pasio
+[quest_title_1031207000201011] Il Team Rocket entra in azione!
+[quest_title_1031207000201021] Arrivano i fuochi d'artificio!
+[quest_title_1031207000201031] Malvagità che si estende fino alle stelle!
+[quest_title_1031207000201041] VS Team Break
+[quest_title_1031207000201051] VS Team Break 2
+[quest_title_1031207000201061] VS Team Break 3
 [quest_title_1030420700101010] VS Allenatori di Pasio
 [quest_title_1030420700101011] VS Allenatori di Pasio 2
 [quest_title_1030420700101012] VS Allenatori di Pasio 3
@@ -6406,6 +6569,7 @@ story_quest_name_it.lsd
 [quest_title_1030420700204012] Allenamento Uniciondoli
 [quest_title_1030420700401010] Allenamento evoluzione
 [quest_title_1030420700402011] Allenamento evoluzione
+[quest_group_title_10241000000] James
 [quest_group_title_610060] Aree sblocco livello max 2
 [quest_group_title_610061] Aree rinforzo tipabilità
 [quest_title_1030420800501010] Allenamento Normale, Erba e Buio 1
@@ -6417,6 +6581,35 @@ story_quest_name_it.lsd
 [quest_title_1030420800601010] Allenamento tipabilità
 [quest_group_title_10194000000] Cyrus
 [quest_title_1030210091010001] Un giorno con Camilla Costumax
+[quest_title_1030208000601150] VS Allenatori di Pasio
+[quest_title_1030208000601160] VS Allenatori di Pasio 2
+[quest_title_1030208000601170] VS Allenatori di Pasio 3
+[quest_title_1030208000601180] VS Allenatori di Pasio 4
+[quest_title_1030208000601190] VS Allenatori di Pasio 5
+[quest_title_1030208000601200] Una Lotta Collettiva!
+[quest_title_1030208000601210] Una Lotta Collettiva! 2
+[quest_title_1030208000601020] Una famiglia che dà il massimo
+[quest_title_1030208000601030] Discussioni in famiglia
+[quest_title_1030208000601040] Per i loro sorrisi
+[quest_title_1030208000601050] Chi si è perso davvero
+[quest_title_1030208000601060] Il contrattempo di Iridio
+[quest_title_1030208000601070] Iridioperoso?!
+[quest_title_1030208000601080] Le raffinate ragazze di Pasio
+[quest_title_1030208000601090] L'Ultracreatura non è un pericolo?!
+[quest_title_1030208000601100] La preoccupazione di Samina
+[quest_title_1030208000601110] Guzman e Samina
+[quest_title_1030208000601120] Il rapporto tra fratello e sorella
+[quest_title_1030208000601130] Lasciarsi alle spalle il passato
+[quest_title_1030208000601140] Rivalità in famiglia!
+[quest_title_1030208001001010] VS Azelf
+[quest_title_1030208001001020] VS Azelf 2
+[quest_title_1030208001001030] VS Azelf 3
+[quest_title_1030210120000001] Un giorno con Samina
+[quest_title_1030210119000001] Un giorno con Iridio
+[quest_title_1030210118000001] Un giorno con Lylia
+[quest_group_title_10120000000] Samina
+[quest_group_title_10119000000] Iridio
+[quest_group_title_10118000000] Lylia
 [quest_group_title_10021010000] Blu Costumax
 [quest_group_title_10017100000] Leaf Costumax
 [quest_title_1030420800101011] Verso il top
@@ -7519,6 +7712,12 @@ story_quest_name_ja.lsd
 [quest_title_1030420700305013] テクニカルの鍛錬２
 [quest_title_1030420700306013] サポートの鍛錬２
 [quest_title_1030420400101011] ＶＳ　パシオのトレーナー
+[quest_title_1031207000201011] ロケット団出動！
+[quest_title_1031207000201021] 花火大会が待ってるぜ
+[quest_title_1031207000201031] ラブリーチャーミーな悪だくみ
+[quest_title_1031207000201041] ＶＳ　ブレイク団
+[quest_title_1031207000201051] ＶＳ　ブレイク団２
+[quest_title_1031207000201061] ＶＳ　ブレイク団３
 [quest_title_1030420700101010] ＶＳ　パシオのトレーナー
 [quest_title_1030420700101011] ＶＳ　パシオのトレーナー２
 [quest_title_1030420700101012] ＶＳ　パシオのトレーナー３
@@ -7537,6 +7736,7 @@ story_quest_name_ja.lsd
 [quest_title_1030420700204012] バディドロップの鍛錬
 [quest_title_1030420700401010] 進化の鍛錬
 [quest_title_1030420700402011] 進化の鍛錬
+[quest_group_title_10241000000] コジロウ
 [quest_group_title_610060] ゲンカイ突破エリア２
 [quest_group_title_610061] タイプスキル強化エリア
 [quest_title_1030420800501010] ノーマル＆くさ＆あくの鍛錬１
@@ -7548,6 +7748,35 @@ story_quest_name_ja.lsd
 [quest_title_1030420800601010] タイプスキル強化の鍛錬
 [quest_group_title_10194000000] アカギ
 [quest_title_1030210091010001] とある日のマジコスシロナ
+[quest_title_1030208000601150] ＶＳ　パシオのトレーナー
+[quest_title_1030208000601160] ＶＳ　パシオのトレーナー２
+[quest_title_1030208000601170] ＶＳ　パシオのトレーナー３
+[quest_title_1030208000601180] ＶＳ　パシオのトレーナー４
+[quest_title_1030208000601190] ＶＳ　パシオのトレーナー５
+[quest_title_1030208000601200] ソウリョクバトルで勝負！
+[quest_title_1030208000601210] ソウリョクバトルで勝負！２
+[quest_title_1030208000601020] 悪戦苦闘の家族
+[quest_title_1030208000601030] すれ違う家族の思い
+[quest_title_1030208000601040] この笑顔のために
+[quest_title_1030208000601050] 迷子なのは……？
+[quest_title_1030208000601060] グラジオの災難
+[quest_title_1030208000601070] ゼンリョグラジオ？
+[quest_title_1030208000601080] パシオのお嬢様たち
+[quest_title_1030208000601090] 警戒？　ウルトラビースト
+[quest_title_1030208000601100] もやもやルザミーネ
+[quest_title_1030208000601110] グズマとルザミーネ
+[quest_title_1030208000601120] 兄妹という関係
+[quest_title_1030208000601130] 過去よりも未来
+[quest_title_1030208000601140] 家族というライバル！
+[quest_title_1030208001001010] ＶＳ　アグノム
+[quest_title_1030208001001020] ＶＳ　アグノム２
+[quest_title_1030208001001030] ＶＳ　アグノム３
+[quest_title_1030210120000001] とある日のルザミーネ
+[quest_title_1030210119000001] とある日のグラジオ
+[quest_title_1030210118000001] とある日のリーリエ
+[quest_group_title_10120000000] ルザミーネ
+[quest_group_title_10119000000] グラジオ
+[quest_group_title_10118000000] リーリエ
 [quest_group_title_10021010000] マジコスグリーン
 [quest_group_title_10017100000] マジコスリーフ
 [quest_title_1030420800101011] さらなる高みへ
@@ -8649,6 +8878,12 @@ story_quest_name_ko.lsd
 [quest_title_1030420700305013] 테크니컬의 단련2
 [quest_title_1030420700306013] 서포트의 단련2
 [quest_title_1030420400101011] VS 파시오의 트레이너
+[quest_title_1031207000201011] 로켓단 출동!
+[quest_title_1031207000201021] 불꽃놀이 축제가 기다리고 있다!
+[quest_title_1031207000201031] 포켓몬의 감초 귀염둥이 악당의 음모
+[quest_title_1031207000201041] VS 브레이크단
+[quest_title_1031207000201051] VS 브레이크단2
+[quest_title_1031207000201061] VS 브레이크단3
 [quest_title_1030420700101010] VS 파시오의 트레이너
 [quest_title_1030420700101011] VS 파시오의 트레이너2
 [quest_title_1030420700101012] VS 파시오의 트레이너3
@@ -8667,6 +8902,7 @@ story_quest_name_ko.lsd
 [quest_title_1030420700204012] 버디드롭의 단련
 [quest_title_1030420700401010] 진화의 단련
 [quest_title_1030420700402011] 진화의 단련
+[quest_group_title_10241000000] 로이
 [quest_group_title_610060] 한계돌파 에리어2
 [quest_group_title_610061] 타입스킬 강화 에리어
 [quest_title_1030420800501010] 노말&풀&악의 단련1
@@ -8678,6 +8914,35 @@ story_quest_name_ko.lsd
 [quest_title_1030420800601010] 타입스킬 강화의 단련
 [quest_group_title_10194000000] 태홍
 [quest_title_1030210091010001] 궁극코스 난천의 어느 날
+[quest_title_1030208000601150] VS 파시오의 트레이너
+[quest_title_1030208000601160] VS 파시오의 트레이너2
+[quest_title_1030208000601170] VS 파시오의 트레이너3
+[quest_title_1030208000601180] VS 파시오의 트레이너4
+[quest_title_1030208000601190] VS 파시오의 트레이너5
+[quest_title_1030208000601200] 총력배틀로 승부!
+[quest_title_1030208000601210] 총력배틀로 승부!2
+[quest_title_1030208000601020] 악전고투하는 가족
+[quest_title_1030208000601030] 스쳐 지나가는 가족의 마음
+[quest_title_1030208000601040] 이 웃음을 위해
+[quest_title_1030208000601050] 길을 잃은 건...?
+[quest_title_1030208000601060] 글라디오의 고초
+[quest_title_1030208000601070] 전려글라디오?
+[quest_title_1030208000601080] 파시오의 아가씨들
+[quest_title_1030208000601090] 경계? 울트라비스트!
+[quest_title_1030208000601100] 불안한 루자미네
+[quest_title_1030208000601110] 구즈마와 루자미네
+[quest_title_1030208000601120] 남매라는 관계
+[quest_title_1030208000601130] 과거보다도 미래로
+[quest_title_1030208000601140] 가족이라는 라이벌!
+[quest_title_1030208001001010] VS 아그놈
+[quest_title_1030208001001020] VS 아그놈2
+[quest_title_1030208001001030] VS 아그놈3
+[quest_title_1030210120000001] 루자미네의 어느 날
+[quest_title_1030210119000001] 글라디오의 어느 날
+[quest_title_1030210118000001] 릴리에의 어느 날
+[quest_group_title_10120000000] 루자미네
+[quest_group_title_10119000000] 글라디오
+[quest_group_title_10118000000] 릴리에
 [quest_group_title_10021010000] 궁극코스 그린
 [quest_group_title_10017100000] 궁극코스 리프
 [quest_title_1030420800101011] 더 높은 곳을 향해
@@ -9779,6 +10044,12 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030420700305013] 技術型鍛鍊２
 [quest_title_1030420700306013] 輔助型鍛鍊２
 [quest_title_1030420400101011] ＶＳ　帕希歐的訓練家
+[quest_title_1031207000201011] 火箭隊出動！
+[quest_title_1031207000201021] 煙火大會正等著大家
+[quest_title_1031207000201031] 可愛又迷人的詭計
+[quest_title_1031207000201041] ＶＳ　破壞隊
+[quest_title_1031207000201051] ＶＳ　破壞隊２
+[quest_title_1031207000201061] ＶＳ　破壞隊３
 [quest_title_1030420700101010] ＶＳ　帕希歐的訓練家
 [quest_title_1030420700101011] ＶＳ　帕希歐的訓練家２
 [quest_title_1030420700101012] ＶＳ　帕希歐的訓練家３
@@ -9797,6 +10068,7 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030420700204012] 拍檔滴晶鍛鍊
 [quest_title_1030420700401010] 進化鍛鍊
 [quest_title_1030420700402011] 進化鍛鍊
+[quest_group_title_10241000000] 小次郎
 [quest_group_title_610060] 突破界限區域２
 [quest_group_title_610061] 屬性技能強化區域
 [quest_title_1030420800501010] 一般＆草＆惡屬性鍛鍊１
@@ -9808,6 +10080,35 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030420800601010] 屬性技能強化鍛鍊
 [quest_group_title_10194000000] 赤日
 [quest_title_1030210091010001] 某日的美極套裝竹蘭
+[quest_title_1030208000601150] ＶＳ　帕希歐的訓練家
+[quest_title_1030208000601160] ＶＳ　帕希歐的訓練家２
+[quest_title_1030208000601170] ＶＳ　帕希歐的訓練家３
+[quest_title_1030208000601180] ＶＳ　帕希歐的訓練家４
+[quest_title_1030208000601190] ＶＳ　帕希歐的訓練家５
+[quest_title_1030208000601200] 用大對戰決勝負！
+[quest_title_1030208000601210] 用大對戰決勝負！２
+[quest_title_1030208000601020] 艱苦奮戰的家族
+[quest_title_1030208000601030] 家人間分歧的想法
+[quest_title_1030208000601040] 為了這個笑容
+[quest_title_1030208000601050] 走丟的是……？
+[quest_title_1030208000601060] 格拉吉歐的災難
+[quest_title_1030208000601070] 「全力哥拉吉歐」？
+[quest_title_1030208000601080] 帕希歐的大小姐們
+[quest_title_1030208000601090] 戒備？　究極異獸
+[quest_title_1030208000601100] 焦慮的露莎米奈
+[quest_title_1030208000601110] 古茲馬和露莎米奈
+[quest_title_1030208000601120] 所謂的兄妹關係
+[quest_title_1030208000601130] 未來比過去更重要
+[quest_title_1030208000601140] 名為家人的勁敵！
+[quest_title_1030208001001010] ＶＳ　亞克諾姆
+[quest_title_1030208001001020] ＶＳ　亞克諾姆２
+[quest_title_1030208001001030] ＶＳ　亞克諾姆３
+[quest_title_1030210120000001] 某日的露莎米奈
+[quest_title_1030210119000001] 某日的格拉吉歐
+[quest_title_1030210118000001] 某日的莉莉艾
+[quest_group_title_10120000000] 露莎米奈
+[quest_group_title_10119000000] 格拉吉歐
+[quest_group_title_10118000000] 莉莉艾
 [quest_group_title_10021010000] 美極套裝青綠
 [quest_group_title_10017100000] 美極套裝葉子
 [quest_title_1030420800101011] 更高的目標
@@ -10171,6 +10472,18 @@ Alola-Sandamer in Höhlen nach Steinen sucht.
 überstehen. Sie blickt dem Festival voller Vorfreude
 entgegen und singt und tanzt gemeinsam mit ihrem
 Pokémon Pummeluff.
+[10241000000] Ein charmanter Schurke von Team Rocket. Mit Jessie und
+Mauzi arbeitet er Tag und Nacht daran, die Wünsche
+seines Bosses Giovanni zu erfüllen.
+[10118000000] Lilly hat ein großes Herz und gibt stets ihr Bestes. 
+Sie hat ihr ängstliches Ich hinter sich gelassen, und ist nun
+fest entschlossen, sich jeder Herausforderung zu stellen.
+[10119000000] Dieser Trainer redet nicht viel, doch seine Freunde, Familie
+und Pokémon sind ihm äußerst wichtig. Einst war er
+besessen von dem Gedanken, immer stärker zu werden.
+[10120000000] Samantha ist die attraktive Präsidentin der Æther
+Foundation und die Mutter von Lilly und Gladio.
+Sie liebt Pokémon über alles.
 [10021010000] Blau trägt eine modische Machtmontur. Mit seinem Turtok
 hat er schon zahlreiche Kämpfe überwunden. Sie beide
 streben stets danach, die Allerbesten zu sein.
@@ -10511,6 +10824,19 @@ entering caves in search of rare stones.
 [10002400000] Lyra has a new outfit to beat the summer heat! Caught up
 in the fun atmosphere of a summer festival, she can’t help
 but dance and sing with her partner, Jigglypuff.
+[10241000000] This member of Team Rocket extends his reach to the stars
+above, working day and night with Jessie and Meowth
+to make the dreams of their boss, Giovanni, a reality.
+[10118000000] Lillie is a kindhearted Trainer who always does her best.
+Having overcome many obstacles in her past, she is now
+strong enough to face any challenge that comes her way.
+
+[10119000000] Gladion doesn’t say much, but he cares deeply about his
+friends, family, and Pokémon. He used to be much more
+rebellious and fixated on becoming stronger.
+[10120000000] Lusamine is the beautiful president of the Aether
+Foundation. She has a deep, maternal love for Pokémon
+and is the actual mother of Lillie and Gladion.
 [10021010000] Blue is looking stylish in his sygna suit. With his Blastoise
 by his side, he has faced many strong opponents in his
 pursuit to become the greatest Trainer.
@@ -10898,6 +11224,21 @@ junto a un Sandslash de Alola.
 ponerse ropa más fresca. El festival de música ha sacado
 su yo más alegre y festivo, el cual comparte con su compi
 Jigglypuff cantando y bailando.
+[10241000000] Miembro del Team Rocket, que quiere extender su poder
+más allá del espacio exterior. Para hacer realidad las
+aspiraciones de su jefe Giovanni, trabaja día y noche sin
+descanso junto a sus aliados Jessie y Meowth.
+[10118000000] Una Entrenadora bondadosa que nunca tira la toalla.
+Dejó atrás a su antiguo yo para crecer y ser capaz de
+superar cualquier adversidad que se le pusiese por
+delante.
+[10119000000] Aunque no lo verbalice, lleva en el corazón a sus amigos,
+a sus familiares y a los Pokémon. Tuvo una época rebelde
+en la que lo único que le importaba era hacerse más
+fuerte.
+[10120000000] La hermosa presidenta que lleva las riendas de la
+Fundación Æther y que profesa un amor infinito por
+todos los Pokémon. Es la madre de Lylia y Gladio.
 [10021010000] Azul vuelve a la carga con un Traje Summum muy
 moderno. Habiendo superado multitud de enfrentamientos
 contra rivales de fuerza encomiable, ahora tiene como
@@ -11225,6 +11566,19 @@ ardeurs de ses adversaires.
 s'est procurée une toute nouvelle tenue. Charmés par
 l'ambiance joyeuse des festivals, elle et Rondoudou
 dansent et chantent à tue-tête.
+[10241000000] Membre de le Team Rocket, James est là afin d'étendre
+son pouvoir jusqu'à la voie lactée. Il travaille nuit et jour
+avec Jessie et Miaouss afin de mener à bien les projets
+ambitieux de leur boss Giovanni.
+[10118000000] Cette Dresseuse courageuse au grand cœur a bien grandi
+depuis ses aventures à Alola. Elle a appris à faire face à
+n'importe quelle épreuve !
+[10119000000] Peu loquace, ce Dresseur est pourtant très attaché à ses
+amis, sa famille et son Pokémon. Auparavant, il était aussi
+connu pour son obsession pour la puissance.
+[10120000000] Cette beauté est la présidente de la Fondation Æther. Elle
+voue un amour profond aux Pokémon et à ses enfants :
+Lilie et Gladio.
 [10021010000] Blue a revêtu son Look Ultime et vise les sommets
 avec son Tortank. Ensemble, ils ont vaincu des
 adversaires parmi les plus coriaces !
@@ -11575,6 +11929,19 @@ nelle caverne insieme al suo Sandslash di Alola.
 il caldo dell'estate, Cetra viene attratta dall'atmosfera
 gioiosa del festival e si diletta a cantare e a ballare
 insieme al suo Jigglypuff.
+[10241000000] Membro del Team Rocket, cerca di estenderne il potere
+fino alle stelle. Lavora giorno e notte insieme a Jessie
+e Meowth per realizzare il sogno del loro capo, Giovanni.
+[10118000000] Un'Allenatrice dal cuore gentile, capace di dare sempre
+il massimo. È cresciuta molto rispetto al passato
+per riuscire ad affrontare qualsiasi prova.
+[10119000000] Un Allenatore di poche parole ma che sa essere molto
+premuroso con amici, familiari e Pokémon. È uno spirito
+ribelle e in passato ha vissuto anche un periodo in cui
+faceva affidamento unicamente sulla propria forza.
+[10120000000] Direttrice alla guida della Fondazione Æther, dimostra
+un amore profondo verso i Pokémon. È la madre di Lylia
+e di Iridio.
 [10021010000] Blu indossa un Costumax dallo stile inconfondibile
 e punta a diventare il più forte insieme a Blastoise,
 con il quale ha già affrontato innumerevoli lotte contro
@@ -11917,6 +12284,18 @@ trainer_description_ja.lsd
 [10002400000] 暑い夏を　乗りきる　新しい衣装を　着た　コトネ。
 お祭りの　ワクワク　楽しい　雰囲気に　誘われて
 パートナーの　プリンと　一緒に　歌って　踊りだす。
+[10241000000] ラブリーチャーミーな　敵役の　ロケット団員。
+ボスである　サカキの　野望を　実現するため
+ムサシ　ニャースと　共に　日夜　活動している。
+[10118000000] 心優しい　がんばりやさんの　トレーナー。
+どんな　試練にも　立ち向かえるように　なるために
+過去の自分を　乗りこえ　大きく成長した。
+[10119000000] 口数は少ないが　仲間や　家族　ポケモンを
+思いやる心を　持った　トレーナー。
+反逆の心を持ち　強さに　固執した時期も　あった。
+[10120000000] エーテル財団を　導く　美しき　代表。
+ポケモンたちを　深い愛で　包みこむ。
+リーリエと　グラジオの　母でも　ある。
 [10021010000] スタイリッシュな　マジコスを身にまとう　グリーン。
 さまざまな　強敵との戦いを　乗りこえてきた
 カメックスと　共に　自分たちの　最強を　目指す。
@@ -12257,6 +12636,18 @@ trainer_description_ko.lsd
 [10002400000] 뜨거운 여름을 보내기 위해 새로운 옷을 입은 금선.
 즐겁고 두근거리는 축제의 분위기에 이끌려
 파트너인 푸린과 함께 노래하고 춤추기 시작한다.
+[10241000000] 포켓몬의 감초이자 귀염둥이 악당인 로켓단원.
+보스인 비주기의 야망을 실현하기 위해
+로사, 나옹과 함께 밤낮으로 활약하고 있다.
+[10118000000] 착한 마음을 가진 노력파 트레이너.
+어떤 시련이 닥쳐도 당당하게 맞설 수 있도록
+과거의 자신을 뛰어넘어 크게 성장했다.
+[10119000000] 말수는 적지만
+동료와 가족, 포켓몬을 위하는 마음을 가진 트레이너.
+반항심을 가지고 힘에 집착하던 시기도 있었다.
+[10120000000] 에테르재단을 이끄는 아름다운 대표.
+포켓몬들을 깊은 사랑으로 감싸 안는다.
+릴리에와 글라디오의 어머니이기도 하다.
 [10021010000] 스타일리시한 궁극코스를 입은 그린.
 다양한 강적과의 전투에서 승리해 온 거북왕과 함께
 자신들이 정한 최강을 목표한다.
@@ -12596,6 +12987,18 @@ trainer_description_zh-TW.lsd
 [10002400000] 穿上新衣以抵抗炎夏酷暑的琴音。
 她被祭典上歡樂熱鬧的氣氛感染，
 忍不住和她的拍檔胖丁一起唱歌跳舞了起來。
+[10241000000] 可愛又迷人的反派角色——火箭隊隊員。
+為了實現阪木老大的野心，
+他和武藏、喵喵一起不分日夜地工作著。
+[10118000000] 心地善良又勤奮努力的訓練家。
+為了能勇敢面對任何試煉，
+她超越了過去的自己，展現了極大的成長。
+[10119000000] 他沉默寡言但有著一顆體貼的心，
+是個處處為夥伴、家人及寶可夢著想的訓練家。
+他也曾有一段充滿叛逆之心並執著於實力的時期。
+[10120000000] 帶領以太基金會的美麗理事長。
+她用深深的愛呵護著寶可夢們。
+同時也是莉莉艾和格拉吉歐的母親。
 [10021010000] 身穿時尚美極套裝的青綠。
 和一同面對無數強敵的水箭龜一起，
 以最強的自己為目標向前邁進。
@@ -12713,6 +13116,9 @@ trainer_name_de.lsd
 [ch0113] Jasmin
 [ch0114] Sabrina
 [ch0116] Lucia
+[ch0118] Lilly
+[ch0119] Gladio
+[ch0120] Samantha
 [ch0121] Fran
 [ch0124] Maho
 [ch0125] Bromley
@@ -12848,6 +13254,9 @@ trainer_name_en.lsd
 [ch0113] Jasmine
 [ch0114] Sabrina
 [ch0116] Dawn
+[ch0118] Lillie
+[ch0119] Gladion
+[ch0120] Lusamine
 [ch0121] Plumeria
 [ch0124] Mallow
 [ch0125] Guzma
@@ -12983,6 +13392,9 @@ trainer_name_es.lsd
 [ch0113] Yasmina
 [ch0114] Sabrina
 [ch0116] Maya
+[ch0118] Lylia
+[ch0119] Gladio
+[ch0120] Samina
 [ch0121] Francine
 [ch0124] Lulú
 [ch0125] Guzmán
@@ -13118,6 +13530,9 @@ trainer_name_fr.lsd
 [ch0113] Jasmine
 [ch0114] Morgane
 [ch0116] Aurore
+[ch0118] Lilie
+[ch0119] Gladio
+[ch0120] Elsa-Mina
 [ch0121] Apocyne
 [ch0124] Barbara
 [ch0125] Guzma
@@ -13253,6 +13668,9 @@ trainer_name_it.lsd
 [ch0113] Jasmine
 [ch0114] Sabrina
 [ch0116] Lucinda
+[ch0118] Lylia
+[ch0119] Iridio
+[ch0120] Samina
 [ch0121] Plumeria
 [ch0124] Ibis
 [ch0125] Guzman
@@ -13388,6 +13806,9 @@ trainer_name_ja.lsd
 [ch0113] ミカン
 [ch0114] ナツメ
 [ch0116] ヒカリ
+[ch0118] リーリエ
+[ch0119] グラジオ
+[ch0120] ルザミーネ
 [ch0121] プルメリ
 [ch0124] マオ
 [ch0125] グズマ
@@ -13523,6 +13944,9 @@ trainer_name_ko.lsd
 [ch0113] 규리
 [ch0114] 초련
 [ch0116] 빛나
+[ch0118] 릴리에
+[ch0119] 글라디오
+[ch0120] 루자미네
 [ch0121] 플루메리
 [ch0124] 마오
 [ch0125] 구즈마
@@ -13658,6 +14082,9 @@ trainer_name_zh-TW.lsd
 [ch0113] 阿蜜
 [ch0114] 娜姿
 [ch0116] 小光
+[ch0118] 莉莉艾
+[ch0119] 格拉吉歐
+[ch0120] 露莎米奈
 [ch0121] 布爾美麗
 [ch0124] 瑪奧
 [ch0125] 古茲馬
