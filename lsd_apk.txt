@@ -6775,6 +6775,84 @@ Selbstüberschätzung
 [quest_group_title_10127400000] Wassili (Saison 2024)
 [quest_group_title_10296000000] Enigmara
 [quest_group_title_10294000000] Grusha
+[quest_title_1040001280001011] Ein besonderer Tag mit Heiko
+(Teil 1)
+[quest_title_1040001280001021] Ein besonderer Tag mit Heiko
+(Teil 2)
+[quest_title_1030110000600500] Schöpfer aller Dinge
+[quest_title_1030601000609000] Der Schnelläufer aus
+Alabastia
+[quest_title_1030601000609020] Vs. Trainer aus Passio 1
+[quest_title_1030601000609030] Vs. Trainer aus Passio 2
+[quest_title_1030601000609010] Große Fußstapfen
+[quest_title_1030601000602000] Berühmte, kleine Imitatoren
+[quest_title_1030601000602010] Vs. Evi 1
+[quest_title_1030601000602020] Vs. Evi 2
+[quest_title_1030601000602030] Vs. Evi 3
+[quest_title_1030601000602040] Vs. Evi 4
+[quest_title_1030601000604000] Noctuhs Spitzname
+[quest_title_1030601000604020] Vs. Falk 1
+[quest_title_1030601000604030] Vs. Falk 2
+[quest_title_1030601000604040] Vs. Falk 3
+[quest_title_1030601000604050] Vs. Falk 4
+[quest_title_1030601000604060] Täglicher schwerer Kampf
+[quest_title_1030601000604010] Vererbte Techniken und
+Gefühle
+[quest_title_1030601000605000] Eine Bitte von Frida und Co.
+[quest_title_1030601000605010] Vielfältige Speisen
+[quest_title_1030601000605050] Vs. Maho 1
+[quest_title_1030601000605020] Zu viel Konzentration?
+[quest_title_1030601000605060] Vs. Maho 2
+[quest_title_1030601000605030] Was mag Hilda am liebsten?
+[quest_title_1030601000605070] Vs. Maho 3
+[quest_title_1030601000605040] Der Geschmack einer
+Erinnerung
+[quest_title_1030601000605080] Vs. Maho 4
+[quest_title_1030601000605090] Täglicher schwerer Kampf
+[quest_title_1030601000605100] Herausforderungskampf 1
+[quest_title_1030601000605110] Herausforderungskampf 2
+[quest_title_1030601000603000] Aroma & Ästhetik
+[quest_title_1030601000603010] Vs. Trainer aus Passio 1
+[quest_title_1030601000603020] Vs. Trainer aus Passio 2
+[quest_title_1030601000603030] Vs. Trainer aus Passio 3
+[quest_title_1030601000603040] Vs. Trainer aus Passio 4
+[quest_title_1030460100201010] Vs. Matisse 1
+[quest_title_1030460100202010] Vs. Matisse 2
+[quest_title_1030460100203010] Vs. Matisse 3
+[quest_title_1030460100204010] Vs. Matisse 4
+[quest_title_1030460100205010] Täglicher Bonus-Kampf
+[quest_title_1030451002201010] Vs. Entschlossene Argenta
+[quest_title_1030601000601000] Gefährten mit leitender Aura
+[quest_title_1030601000601010] Vs. Veit 1
+[quest_title_1030601000601020] Vs. Veit 2
+[quest_title_1030601000601030] Vs. Veit 3
+[quest_title_1030601000601040] Vs. Veit 4
+[quest_title_1030601000606000] Eine nie abgeholte Antiquität
+[quest_title_1030601000606010] Innerer Konflikt
+[quest_title_1030601000606050] Vs. Trainer aus Passio 1
+[quest_title_1030601000606020] Wahre Familie
+[quest_title_1030601000606060] Vs. Trainer aus Passio 2
+[quest_title_1030601000606030] Eine prunkvolle Party
+[quest_title_1030601000606070] Vs. Trainer aus Passio 3
+[quest_title_1030601000606040] Gladios wahre Gefühle
+[quest_title_1030601000606080] Vs. Trainer aus Passio 4
+[quest_title_1030601000606090] Täglicher schwerer Kampf
+[quest_title_1030601000606100] Herausforderungskampf 1
+[quest_title_1030601000606110] Herausforderungskampf 2
+[quest_title_1030601000610000] Stelle dich Tali! 1
+[quest_title_1030601000610010] Stelle dich Tali! 2
+[quest_title_1030601000608010] Eine Familie und ihr Anliegen
+[quest_title_1030601000608190] Täglicher Bonus-Kampf
+[quest_group_title_10279000000] Chase
+[quest_group_title_10655000000] Hans-Pika (Poké-Kind)
+[quest_group_title_10242400000] Victor (Saison 2024)
+[quest_group_title_10025400000] Frida (Saison 2024)
+[quest_group_title_10156000000] Urs
+[quest_group_title_10119100000] MaMo-Gladio
+[quest_title_1030220279000000] Ein Tag mit Chase
+[quest_title_1030220655000000] Ein Tag mit Hans-Pika
+[quest_title_1030220156000000] Ein Tag mit Urs
+[quest_title_1030220119100000] Ein Tag mit MaMo-Gladio
 
 ===========
 story_quest_name_en.lsd
@@ -10408,6 +10486,79 @@ Nine Possibilities: Part 2
 [quest_group_title_10127400000] Wallace (New Year’s 2024)
 [quest_group_title_10296000000] Iono
 [quest_group_title_10294000000] Grusha
+[quest_title_1040001280001011] A Special Day with Wally: Part 1
+[quest_title_1040001280001021] A Special Day with Wally: Part 2
+[quest_title_1030110000600500] The Creator of All Things
+[quest_title_1030601000609000] The Fast Runner from Pallet Town
+[quest_title_1030601000609020] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030601000609030] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030601000609010] Chasing Distant Footsteps
+[quest_title_1030601000602000] Famous Little Impersonators
+[quest_title_1030601000602010] Challenge Eve: Part 1
+[quest_title_1030601000602020] Challenge Eve: Part 2
+[quest_title_1030601000602030] Challenge Eve: Part 3
+[quest_title_1030601000602040] Challenge Eve: Part 4
+[quest_title_1030601000604000] Noctowl’s Nickname
+[quest_title_1030601000604020] Challenge Falkner: Part 1
+[quest_title_1030601000604030] Challenge Falkner: Part 2
+[quest_title_1030601000604040] Challenge Falkner: Part 3
+[quest_title_1030601000604050] Challenge Falkner: Part 4
+[quest_title_1030601000604060] Daily Extreme Battle 1
+[quest_title_1030601000604010] Inherited Techniques and Feelings
+[quest_title_1030601000605000] A Request from Candice and Friends
+[quest_title_1030601000605010] Everyone’s Dishes
+[quest_title_1030601000605050] Challenge Mallow: Part 1
+[quest_title_1030601000605020] Too Much Focus?
+[quest_title_1030601000605060] Challenge Mallow: Part 2
+[quest_title_1030601000605030] What Maylene Likes
+[quest_title_1030601000605070] Challenge Mallow: Part 3
+[quest_title_1030601000605040] Relishing Heartwarming Memories
+[quest_title_1030601000605080] Challenge Mallow: Part 4
+[quest_title_1030601000605090] Daily Extreme Battle 1
+[quest_title_1030601000605100] Battle Challenge! Round 1
+[quest_title_1030601000605110] Battle Challenge! Round 2
+[quest_title_1030601000603000] Flavor and Decoration
+[quest_title_1030601000603010] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030601000603020] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030601000603030] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030601000603040] Challenge Pasio’s Trainers: Part 4
+[quest_title_1030460100201010] Challenge Hugh: Part 1
+[quest_title_1030460100202010] Challenge Hugh: Part 2
+[quest_title_1030460100203010] Challenge Hugh: Part 3
+[quest_title_1030460100204010] Challenge Hugh: Part 4
+[quest_title_1030460100205010] Daily Bonus Battle 1
+[quest_title_1030451002201010] Challenge a Super Serious Argenta
+[quest_title_1030601000601000] Aura-Driven Sync Pairs
+[quest_title_1030601000601010] Challenge Roark: Part 1
+[quest_title_1030601000601020] Challenge Roark: Part 2
+[quest_title_1030601000601030] Challenge Roark: Part 3
+[quest_title_1030601000601040] Challenge Roark: Part 4
+[quest_title_1030601000606000] The Unclaimed Antique
+[quest_title_1030601000606010] Contrary Thoughts
+[quest_title_1030601000606050] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030601000606020] A True Family
+[quest_title_1030601000606060] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030601000606030] A Luxurious Party
+[quest_title_1030601000606070] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030601000606040] Gladion’s True Feelings
+[quest_title_1030601000606080] Challenge Pasio’s Trainers: Part 4
+[quest_title_1030601000606090] Daily Extreme Battle 1
+[quest_title_1030601000606100] Battle Challenge! Round 1
+[quest_title_1030601000606110] Battle Challenge! Round 2
+[quest_title_1030601000610000] Take On Hau! Part 1
+[quest_title_1030601000610010] Take On Hau! Part 2
+[quest_title_1030601000608010] The Family’s Request
+[quest_title_1030601000608190] Daily Bonus Battle 1
+[quest_group_title_10279000000] Chase
+[quest_group_title_10655000000] Petey (Poké Kid)
+[quest_group_title_10242400000] Victor (Palentine’s 2024)
+[quest_group_title_10025400000] Candice (Palentine’s 2024)
+[quest_group_title_10156000000] Riley
+[quest_group_title_10119100000] Sygna Suit Gladion
+[quest_title_1030220279000000] A Day with Chase
+[quest_title_1030220655000000] A Day with Petey
+[quest_title_1030220156000000] A Day with Riley
+[quest_title_1030220119100000] A Day with Sygna Suit Gladion
 
 ===========
 story_quest_name_es.lsd
@@ -14368,6 +14519,84 @@ confianza en uno mismo
 [quest_group_title_10127400000] Plubio (Temporada 24)
 [quest_group_title_10296000000] e-Nigma
 [quest_group_title_10294000000] Grusha
+[quest_title_1040001280001011] Un día especial con Blasco
+[quest_title_1040001280001021] Un día especial con Blasco (2)
+[quest_title_1030110000600500] El creador de todo lo existente
+[quest_title_1030601000609000] El más rápido de Pueblo
+Paleta
+[quest_title_1030601000609020] VS. Entrenadores de Passio
+[quest_title_1030601000609030] VS. Entrenadores de Passio (2)
+[quest_title_1030601000609010] Siguiendo los pasos de otros
+[quest_title_1030601000602000] Pequeños célebres imitadores
+[quest_title_1030601000602010] VS. Eva
+[quest_title_1030601000602020] VS. Eva (2)
+[quest_title_1030601000602030] VS. Eva (3)
+[quest_title_1030601000602040] VS. Eva (4)
+[quest_title_1030601000604000] El apodo de Noctowl
+[quest_title_1030601000604020] VS. Pegaso
+[quest_title_1030601000604030] VS. Pegaso (2)
+[quest_title_1030601000604040] VS. Pegaso (3)
+[quest_title_1030601000604050] VS. Pegaso (4)
+[quest_title_1030601000604060] ¡Un combate difícil al día!
+[quest_title_1030601000604010] Técnicas y sentimientos
+heredados
+[quest_title_1030601000605000] La petición de Inverna y los
+demás
+[quest_title_1030601000605010] Los platos recomendados
+[quest_title_1030601000605050] VS. Lulú
+[quest_title_1030601000605020] ¿Demasiada concentración?
+[quest_title_1030601000605060] VS. Lulú (2)
+[quest_title_1030601000605030] Lo que hace feliz a Brega
+[quest_title_1030601000605070] VS. Lulú (3)
+[quest_title_1030601000605040] Un sabor que trae buenos
+recuerdos
+[quest_title_1030601000605080] VS. Lulú (4)
+[quest_title_1030601000605090] ¡Un combate difícil al día!
+[quest_title_1030601000605100] ¡Un combate desafiante!
+[quest_title_1030601000605110] ¡Un combate desafiante! (2)
+[quest_title_1030601000603000] Sabores y decoraciones
+[quest_title_1030601000603010] VS. Entrenadores de Passio
+[quest_title_1030601000603020] VS. Entrenadores de Passio (2)
+[quest_title_1030601000603030] VS. Entrenadores de Passio (3)
+[quest_title_1030601000603040] VS. Entrenadores de Passio (4)
+[quest_title_1030460100201010] VS. Matís
+[quest_title_1030460100202010] VS. Matís (2)
+[quest_title_1030460100203010] VS. Matís (3)
+[quest_title_1030460100204010] VS. Matís (4)
+[quest_title_1030460100205010] ¡Un combate extra al día!
+[quest_title_1030451002201010] VS. Argenta con todo
+[quest_title_1030601000601000] Compis con aura guía
+[quest_title_1030601000601010] VS. Roco
+[quest_title_1030601000601020] VS. Roco (2)
+[quest_title_1030601000601030] VS. Roco (3)
+[quest_title_1030601000601040] VS. Roco (4)
+[quest_title_1030601000606000] Reliquia extraviada
+[quest_title_1030601000606010] Sentimientos encontrados
+[quest_title_1030601000606050] VS. Entrenadores de Passio
+[quest_title_1030601000606020] La verdadera familia
+[quest_title_1030601000606060] VS. Entrenadores de Passio (2)
+[quest_title_1030601000606030] Una velada distinguida
+[quest_title_1030601000606070] VS. Entrenadores de Passio (3)
+[quest_title_1030601000606040] Los verdaderos sentimientos
+de Gladio
+[quest_title_1030601000606080] VS. Entrenadores de Passio (4)
+[quest_title_1030601000606090] ¡Un combate difícil al día!
+[quest_title_1030601000606100] ¡Un combate desafiante!
+[quest_title_1030601000606110] ¡Un combate desafiante! (2)
+[quest_title_1030601000610000] ¡Enfréntate a Tilo!
+[quest_title_1030601000610010] ¡Enfréntate a Tilo! (2)
+[quest_title_1030601000608010] La petición de la familia
+[quest_title_1030601000608190] ¡Un combate extra al día!
+[quest_group_title_10279000000] Chase
+[quest_group_title_10655000000] Chus (Pokéchico)
+[quest_group_title_10242400000] Victor (Temporada 24)
+[quest_group_title_10025400000] Inverna (Temporada 24)
+[quest_group_title_10156000000] Quinoa
+[quest_group_title_10119100000] Gladio (Traje S)
+[quest_title_1030220279000000] Un día con Chase
+[quest_title_1030220655000000] Un día con Chus
+[quest_title_1030220156000000] Un día con Quinoa
+[quest_title_1030220119100000] Un día con Gladio (Traje S)
 
 ===========
 story_quest_name_fr.lsd
@@ -18782,6 +19011,100 @@ Dresseurs de Passio IV
 [quest_group_title_10127400000] Marc (Saison 2024)
 [quest_group_title_10296000000] Mashynn
 [quest_group_title_10294000000] Grusha
+[quest_title_1040001280001011] Une journée spéciale
+avec Timmy
+[quest_title_1040001280001021] Une journée spéciale
+avec Timmy II
+[quest_title_1030110000600500] Le créateur de toutes choses
+[quest_title_1030601000609000] Le plus rapide de Bourg Palette
+[quest_title_1030601000609020] Combat : Dresseurs de Passio
+[quest_title_1030601000609030] Combat :
+Dresseurs de Passio II
+[quest_title_1030601000609010] Du chemin à faire
+[quest_title_1030601000602000] Les deux meilleurs
+petits imitateurs
+[quest_title_1030601000602010] Combat : Éva
+[quest_title_1030601000602020] Combat : Éva II
+[quest_title_1030601000602030] Combat : Éva III
+[quest_title_1030601000602040] Combat : Éva IV
+[quest_title_1030601000604000] Le surnom de Noarfang
+[quest_title_1030601000604020] Combat : Albert
+[quest_title_1030601000604030] Combat : Albert II
+[quest_title_1030601000604040] Combat : Albert III
+[quest_title_1030601000604050] Combat : Albert IV
+[quest_title_1030601000604060] Combat difficile limité
+à une fois par jour !
+[quest_title_1030601000604010] Fierté et techniques de ninja
+[quest_title_1030601000605000] Gladys et ses amis
+ont besoin d'aide
+[quest_title_1030601000605010] À chacun son plat
+[quest_title_1030601000605050] Combat : Barbara
+[quest_title_1030601000605020] Un peu trop...
+d'enthousiasme ?
+[quest_title_1030601000605060] Combat : Barbara II
+[quest_title_1030601000605030] Le plat préféré de Mélina
+[quest_title_1030601000605070] Combat : Barbara III
+[quest_title_1030601000605040] Une saveur qui éveille
+des souvenirs
+[quest_title_1030601000605080] Combat : Barbara IV
+[quest_title_1030601000605090] Combat difficile limité
+à une fois par jour !
+[quest_title_1030601000605100] Combat difficile
+[quest_title_1030601000605110] Combat difficile II
+[quest_title_1030601000603000] Saveurs et garnitures
+[quest_title_1030601000603010] Combat : Dresseurs de Passio
+[quest_title_1030601000603020] Combat :
+Dresseurs de Passio II
+[quest_title_1030601000603030] Combat :
+Dresseurs de Passio III
+[quest_title_1030601000603040] Combat :
+Dresseurs de Passio IV
+[quest_title_1030460100201010] Combat : Matis
+[quest_title_1030460100202010] Combat : Matis II
+[quest_title_1030460100203010] Combat : Matis III
+[quest_title_1030460100204010] Combat : Matis IV
+[quest_title_1030460100205010] Combat bonus limité
+à une fois par jour !
+[quest_title_1030451002201010] Combat : Célosia sans merci
+[quest_title_1030601000601000] Duos à l'aura d'une
+puissance incroyable
+[quest_title_1030601000601010] Combat : Pierrick
+[quest_title_1030601000601020] Combat : Pierrick II
+[quest_title_1030601000601030] Combat : Pierrick III
+[quest_title_1030601000601040] Combat : Pierrick IV
+[quest_title_1030601000606000] L'antiquité oubliée
+[quest_title_1030601000606010] Idéaux contradictoires
+[quest_title_1030601000606050] Combat : Dresseurs de Passio
+[quest_title_1030601000606020] Une véritable famille
+[quest_title_1030601000606060] Combat :
+Dresseurs de Passio II
+[quest_title_1030601000606030] Une fête en grande pompe
+[quest_title_1030601000606070] Combat :
+Dresseurs de Passio III
+[quest_title_1030601000606040] Les véritables sentiments
+de Gladio
+[quest_title_1030601000606080] Combat :
+Dresseurs de Passio IV
+[quest_title_1030601000606090] Combat difficile limité
+à une fois par jour !
+[quest_title_1030601000606100] Combat difficile
+[quest_title_1030601000606110] Combat difficile II
+[quest_title_1030601000610000] Combat corsé : Tili
+[quest_title_1030601000610010] Combat corsé : Tili II
+[quest_title_1030601000608010] Une requête familiale
+[quest_title_1030601000608190] Combat bonus limité
+à une fois par jour !
+[quest_group_title_10279000000] Chase
+[quest_group_title_10655000000] Jean-Chu (Poké Enfant)
+[quest_group_title_10242400000] Victor (Saison 2024)
+[quest_group_title_10025400000] Gladys (Saison 2024)
+[quest_group_title_10156000000] Armand
+[quest_group_title_10119100000] Gladio (Look Ultime)
+[quest_title_1030220279000000] Une journée avec Chase
+[quest_title_1030220655000000] Une journée avec Jean-Chu
+[quest_title_1030220156000000] Une journée avec Armand
+[quest_title_1030220119100000] Une journée avec Gladio
+(Look Ultime)
 
 ===========
 story_quest_name_it.lsd
@@ -22355,6 +22678,79 @@ Persone famose ovunque!
 [quest_group_title_10127400000] Adriano (feste 2024)
 [quest_group_title_10296000000] Kissara
 [quest_group_title_10294000000] Grusha
+[quest_title_1040001280001011] Un giorno speciale con Lino (1ª parte)
+[quest_title_1040001280001021] Un giorno speciale con Lino (2ª parte)
+[quest_title_1030110000600500] Il sommo creatore d'ogni cosa
+[quest_title_1030601000609000] Il velocista da Biancavilla
+[quest_title_1030601000609020] VS Allenatori di Pasio
+[quest_title_1030601000609030] VS Allenatori di Pasio 2
+[quest_title_1030601000609010] Tanta strada da fare
+[quest_title_1030601000602000] Piccoli imitatori famosi
+[quest_title_1030601000602010] VS Ivetta
+[quest_title_1030601000602020] VS Ivetta 2
+[quest_title_1030601000602030] VS Ivetta 3
+[quest_title_1030601000602040] VS Ivetta 4
+[quest_title_1030601000604000] Il soprannome di Noctowl
+[quest_title_1030601000604020] VS Valerio
+[quest_title_1030601000604030] VS Valerio 2
+[quest_title_1030601000604040] VS Valerio 3
+[quest_title_1030601000604050] VS Valerio 4
+[quest_title_1030601000604060] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030601000604010] Tecniche e sentimenti che si tramandano
+[quest_title_1030601000605000] Consigli culinari cercasi
+[quest_title_1030601000605010] A ciascuno il suo piatto
+[quest_title_1030601000605050] VS Ibis
+[quest_title_1030601000605020] Fin troppa concentrazione
+[quest_title_1030601000605060] VS Ibis 2
+[quest_title_1030601000605030] Il piatto preferito di Marzia
+[quest_title_1030601000605070] VS Ibis 3
+[quest_title_1030601000605040] Gustare dolci ricordi
+[quest_title_1030601000605080] VS Ibis 4
+[quest_title_1030601000605090] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030601000605100] Sfida ad alta difficoltà
+[quest_title_1030601000605110] Sfida ad alta difficoltà 2
+[quest_title_1030601000603000] Sapori e decorazioni
+[quest_title_1030601000603010] VS Allenatori di Pasio
+[quest_title_1030601000603020] VS Allenatori di Pasio 2
+[quest_title_1030601000603030] VS Allenatori di Pasio 3
+[quest_title_1030601000603040] VS Allenatori di Pasio 4
+[quest_title_1030460100201010] VS Toni
+[quest_title_1030460100202010] VS Toni 2
+[quest_title_1030460100203010] VS Toni 3
+[quest_title_1030460100204010] VS Toni 4
+[quest_title_1030460100205010] Lotta bonus (una al giorno)!
+[quest_title_1030451002201010] VS Mara (risoluta)
+[quest_title_1030601000601000] Unità guidate dall'aura
+[quest_title_1030601000601010] VS Pedro
+[quest_title_1030601000601020] VS Pedro 2
+[quest_title_1030601000601030] VS Pedro 3
+[quest_title_1030601000601040] VS Pedro 4
+[quest_title_1030601000606000] Il gioiello abbandonato a se stesso
+[quest_title_1030601000606010] Idee inconciliabili
+[quest_title_1030601000606050] VS Allenatori di Pasio
+[quest_title_1030601000606020] La sua vera famiglia
+[quest_title_1030601000606060] VS Allenatori di Pasio 2
+[quest_title_1030601000606030] Una festa di gran classe
+[quest_title_1030601000606070] VS Allenatori di Pasio 3
+[quest_title_1030601000606040] I veri sentimenti di Iridio
+[quest_title_1030601000606080] VS Allenatori di Pasio 4
+[quest_title_1030601000606090] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030601000606100] Sfida ad alta difficoltà
+[quest_title_1030601000606110] Sfida ad alta difficoltà 2
+[quest_title_1030601000610000] Sfida un avversario potente: Hau
+[quest_title_1030601000610010] Sfida un avversario potente: Hau 2
+[quest_title_1030601000608010] La richiesta di una famiglia
+[quest_title_1030601000608190] Lotta bonus (una al giorno)!
+[quest_group_title_10279000000] Chase
+[quest_group_title_10655000000] Pico (Poké Bimbo)
+[quest_group_title_10242400000] Victor (feste 2024)
+[quest_group_title_10025400000] Bianca (feste 2024)
+[quest_group_title_10156000000] Marisio
+[quest_group_title_10119100000] Iridio Costumax
+[quest_title_1030220279000000] Un giorno con Chase
+[quest_title_1030220655000000] Un giorno con Pico
+[quest_title_1030220156000000] Un giorno con Marisio
+[quest_title_1030220119100000] Un giorno con Iridio Costumax
 
 ===========
 story_quest_name_ja.lsd
@@ -26010,6 +26406,82 @@ story_quest_name_ja.lsd
 （２４シーズン）
 [quest_group_title_10296000000] ナンジャモ
 [quest_group_title_10294000000] グルーシャ
+[quest_title_1040001280001011] ミツルとの特別な一日　前編
+[quest_title_1040001280001021] ミツルとの特別な一日　後編
+[quest_title_1030110000600500] 万物の創造主
+[quest_title_1030601000609000] マサラタウンの俊足
+[quest_title_1030601000609020] ＶＳ　パシオのトレーナー
+[quest_title_1030601000609030] ＶＳ　パシオのトレーナー２
+[quest_title_1030601000609010] 遠い背中
+[quest_title_1030601000602000] 小さな　ものまね名人たち
+[quest_title_1030601000602010] ＶＳ　イブ
+[quest_title_1030601000602020] ＶＳ　イブ２
+[quest_title_1030601000602030] ＶＳ　イブ３
+[quest_title_1030601000602040] ＶＳ　イブ４
+[quest_title_1030601000604000] ヨルノズクの異名
+[quest_title_1030601000604020] ＶＳ　ハヤト
+[quest_title_1030601000604030] ＶＳ　ハヤト２
+[quest_title_1030601000604040] ＶＳ　ハヤト３
+[quest_title_1030601000604050] ＶＳ　ハヤト４
+[quest_title_1030601000604060] １日１回限定・高難度バトル！
+[quest_title_1030601000604010] 受け継がれる技と想い
+[quest_title_1030601000605000] スズナたちの相談
+[quest_title_1030601000605010] それぞれが目指す料理
+[quest_title_1030601000605050] ＶＳ　マオ
+[quest_title_1030601000605020] 気合いの空回り？
+[quest_title_1030601000605060] ＶＳ　マオ２
+[quest_title_1030601000605030] スモモの好み
+[quest_title_1030601000605070] ＶＳ　マオ３
+[quest_title_1030601000605040] あたたかな思い出の味
+[quest_title_1030601000605080] ＶＳ　マオ４
+[quest_title_1030601000605090] １日１回限定・高難度バトル！
+[quest_title_1030601000605100] チャレンジバトルで勝負！
+[quest_title_1030601000605110] チャレンジバトルで勝負！２
+[quest_title_1030601000603000] フレーバー＆デコレーション
+[quest_title_1030601000603010] ＶＳ　パシオのトレーナー
+[quest_title_1030601000603020] ＶＳ　パシオのトレーナー２
+[quest_title_1030601000603030] ＶＳ　パシオのトレーナー３
+[quest_title_1030601000603040] ＶＳ　パシオのトレーナー４
+[quest_title_1030460100201010] ＶＳ　ヒュウ
+[quest_title_1030460100202010] ＶＳ　ヒュウ２
+[quest_title_1030460100203010] ＶＳ　ヒュウ３
+[quest_title_1030460100204010] ＶＳ　ヒュウ４
+[quest_title_1030460100205010] １日１回限定・ボーナスバトル！
+[quest_title_1030451002201010] ＶＳ　超本気のケイト
+[quest_title_1030601000601000] 波動に導かれしバディーズ
+[quest_title_1030601000601010] ＶＳ　ヒョウタ
+[quest_title_1030601000601020] ＶＳ　ヒョウタ２
+[quest_title_1030601000601030] ＶＳ　ヒョウタ３
+[quest_title_1030601000601040] ＶＳ　ヒョウタ４
+[quest_title_1030601000606000] 受取人不明のアンティーク
+[quest_title_1030601000606010] 相容れぬ考え
+[quest_title_1030601000606050] ＶＳ　パシオのトレーナー
+[quest_title_1030601000606020] 本当の家族
+[quest_title_1030601000606060] ＶＳ　パシオのトレーナー２
+[quest_title_1030601000606030] セレブなパーティー
+[quest_title_1030601000606070] ＶＳ　パシオのトレーナー３
+[quest_title_1030601000606040] グラジオの本音
+[quest_title_1030601000606080] ＶＳ　パシオのトレーナー４
+[quest_title_1030601000606090] １日１回限定・高難度バトル！
+[quest_title_1030601000606100] チャレンジバトルで勝負！
+[quest_title_1030601000606110] チャレンジバトルで勝負！２
+[quest_title_1030601000610000] 強敵に挑戦！　ＶＳ　ハウ
+[quest_title_1030601000610010] 強敵に挑戦！　ＶＳ　ハウ２
+[quest_title_1030601000608010] 親子たちのお願い
+[quest_title_1030601000608190] １日１回限定・ボーナスバトル！
+[quest_group_title_10279000000] カケル
+[quest_group_title_10655000000] チュウスケ
+（ポケモンごっこ）
+[quest_group_title_10242400000] マサル
+（２４シーズン）
+[quest_group_title_10025400000] スズナ
+（２４シーズン）
+[quest_group_title_10156000000] ゲン
+[quest_group_title_10119100000] マジコスグラジオ
+[quest_title_1030220279000000] とある日のカケル
+[quest_title_1030220655000000] とある日のチュウスケ
+[quest_title_1030220156000000] とある日のゲン
+[quest_title_1030220119100000] とある日のマジコスグラジオ
 
 ===========
 story_quest_name_ko.lsd
@@ -29664,6 +30136,82 @@ story_quest_name_ko.lsd
 (24시즌)
 [quest_group_title_10296000000] 모야모
 [quest_group_title_10294000000] 그루샤
+[quest_title_1040001280001011] 민진과의 특별한 하루 전편
+[quest_title_1040001280001021] 민진과의 특별한 하루 후편
+[quest_title_1030110000600500] 만물의 창조주
+[quest_title_1030601000609000] 태초마을의 준족
+[quest_title_1030601000609020] VS 파시오의 트레이너
+[quest_title_1030601000609030] VS 파시오의 트레이너2
+[quest_title_1030601000609010] 아직은 먼 목표
+[quest_title_1030601000602000] 작은 흉내내기 명인들
+[quest_title_1030601000602010] VS 이븐
+[quest_title_1030601000602020] VS 이븐2
+[quest_title_1030601000602030] VS 이븐3
+[quest_title_1030601000602040] VS 이븐4
+[quest_title_1030601000604000] 야부엉의 별명
+[quest_title_1030601000604020] VS 비상
+[quest_title_1030601000604030] VS 비상2
+[quest_title_1030601000604040] VS 비상3
+[quest_title_1030601000604050] VS 비상4
+[quest_title_1030601000604060] 1일 1회 한정 고난도 배틀!
+[quest_title_1030601000604010] 이어져 가는 기술과 마음
+[quest_title_1030601000605000] 무청 일행의 상담
+[quest_title_1030601000605010] 각자가 추구하는 요리
+[quest_title_1030601000605050] VS 마오
+[quest_title_1030601000605020] 겉도는 기합?
+[quest_title_1030601000605060] VS 마오2
+[quest_title_1030601000605030] 자두의 취향
+[quest_title_1030601000605070] VS 마오3
+[quest_title_1030601000605040] 따스한 추억의 맛
+[quest_title_1030601000605080] VS 마오4
+[quest_title_1030601000605090] 1일 1회 한정 고난도 배틀!
+[quest_title_1030601000605100] 챌린지배틀로 승부!
+[quest_title_1030601000605110] 챌린지배틀로 승부!2
+[quest_title_1030601000603000] 플레이버&데코레이션
+[quest_title_1030601000603010] VS 파시오의 트레이너
+[quest_title_1030601000603020] VS 파시오의 트레이너2
+[quest_title_1030601000603030] VS 파시오의 트레이너3
+[quest_title_1030601000603040] VS 파시오의 트레이너4
+[quest_title_1030460100201010] VS 휴이
+[quest_title_1030460100202010] VS 휴이2
+[quest_title_1030460100203010] VS 휴이3
+[quest_title_1030460100204010] VS 휴이4
+[quest_title_1030460100205010] 1일 1회 한정 보너스 배틀!
+[quest_title_1030451002201010] VS 진심으로 전력을 다하는 맨드라
+[quest_title_1030601000601000] 파동에 이끌린 버디즈
+[quest_title_1030601000601010] VS 강석
+[quest_title_1030601000601020] VS 강석2
+[quest_title_1030601000601030] VS 강석3
+[quest_title_1030601000601040] VS 강석4
+[quest_title_1030601000606000] 주인 모를 앤티크
+[quest_title_1030601000606010] 양립할 수 없는 생각
+[quest_title_1030601000606050] VS 파시오의 트레이너
+[quest_title_1030601000606020] 진짜 가족
+[quest_title_1030601000606060] VS 파시오의 트레이너2
+[quest_title_1030601000606030] 호화로운 파티
+[quest_title_1030601000606070] VS 파시오의 트레이너3
+[quest_title_1030601000606040] 글라디오의 진심
+[quest_title_1030601000606080] VS 파시오의 트레이너4
+[quest_title_1030601000606090] 1일 1회 한정 고난도 배틀!
+[quest_title_1030601000606100] 챌린지배틀로 승부!
+[quest_title_1030601000606110] 챌린지배틀로 승부!2
+[quest_title_1030601000610000] 강적에게 도전! VS 하우
+[quest_title_1030601000610010] 강적에게 도전! VS 하우2
+[quest_title_1030601000608010] 가족의 소원
+[quest_title_1030601000608190] 1일 1회 한정 보너스 배틀!
+[quest_group_title_10279000000] 태주
+[quest_group_title_10655000000] 추이
+(포켓몬놀이)
+[quest_group_title_10242400000] 승재
+(24시즌)
+[quest_group_title_10025400000] 무청
+(24시즌)
+[quest_group_title_10156000000] 현이
+[quest_group_title_10119100000] 궁극코스 글라디오
+[quest_title_1030220279000000] 태주의 어느 날
+[quest_title_1030220655000000] 추이의 어느 날
+[quest_title_1030220156000000] 현이의 어느 날
+[quest_title_1030220119100000] 궁극코스 글라디오의 어느 날
 
 ===========
 story_quest_name_zh-TW.lsd
@@ -33318,6 +33866,82 @@ story_quest_name_zh-TW.lsd
 （２０２４新春）
 [quest_group_title_10296000000] 奇樹
 [quest_group_title_10294000000] 古魯夏
+[quest_title_1040001280001011] 與滿充的特別日子　前篇
+[quest_title_1040001280001021] 與滿充的特別日子　後篇
+[quest_title_1030110000600500] 萬物的創造主
+[quest_title_1030601000609000] 真新鎮的飛毛腿
+[quest_title_1030601000609020] ＶＳ　帕希歐的訓練家
+[quest_title_1030601000609030] ＶＳ　帕希歐的訓練家２
+[quest_title_1030601000609010] 遙遠的差距
+[quest_title_1030601000602000] 小小的模仿高手們
+[quest_title_1030601000602010] ＶＳ　伊芙
+[quest_title_1030601000602020] ＶＳ　伊芙２
+[quest_title_1030601000602030] ＶＳ　伊芙３
+[quest_title_1030601000602040] ＶＳ　伊芙４
+[quest_title_1030601000604000] 貓頭夜鷹的別名
+[quest_title_1030601000604020] ＶＳ　阿速
+[quest_title_1030601000604030] ＶＳ　阿速２
+[quest_title_1030601000604040] ＶＳ　阿速３
+[quest_title_1030601000604050] ＶＳ　阿速４
+[quest_title_1030601000604060] １天僅限１次的高難度對戰！
+[quest_title_1030601000604010] 傳承的技巧與信念
+[quest_title_1030601000605000] 小菘等人的商量
+[quest_title_1030601000605010] 各自想做的料理
+[quest_title_1030601000605050] ＶＳ　瑪奧
+[quest_title_1030601000605020] 白費勁的氣勢？
+[quest_title_1030601000605060] ＶＳ　瑪奧２
+[quest_title_1030601000605030] 阿李的喜好
+[quest_title_1030601000605070] ＶＳ　瑪奧３
+[quest_title_1030601000605040] 回憶中的溫暖滋味
+[quest_title_1030601000605080] ＶＳ　瑪奧４
+[quest_title_1030601000605090] １天僅限１次的高難度對戰！
+[quest_title_1030601000605100] 用挑戰對戰決勝負！
+[quest_title_1030601000605110] 用挑戰對戰決勝負！２
+[quest_title_1030601000603000] 風味＆裝飾
+[quest_title_1030601000603010] ＶＳ　帕希歐的訓練家
+[quest_title_1030601000603020] ＶＳ　帕希歐的訓練家２
+[quest_title_1030601000603030] ＶＳ　帕希歐的訓練家３
+[quest_title_1030601000603040] ＶＳ　帕希歐的訓練家４
+[quest_title_1030460100201010] ＶＳ　阿修
+[quest_title_1030460100202010] ＶＳ　阿修２
+[quest_title_1030460100203010] ＶＳ　阿修３
+[quest_title_1030460100204010] ＶＳ　阿修４
+[quest_title_1030460100205010] １天僅限１次的獎勵對戰！
+[quest_title_1030451002201010] ＶＳ　火力全開的青葙
+[quest_title_1030601000601000] 受波導指引的拍組
+[quest_title_1030601000601010] ＶＳ　瓢太
+[quest_title_1030601000601020] ＶＳ　瓢太２
+[quest_title_1030601000601030] ＶＳ　瓢太３
+[quest_title_1030601000601040] ＶＳ　瓢太４
+[quest_title_1030601000606000] 收件人不明的古董
+[quest_title_1030601000606010] 水火不容的想法
+[quest_title_1030601000606050] ＶＳ　帕希歐的訓練家
+[quest_title_1030601000606020] 真正的家人
+[quest_title_1030601000606060] ＶＳ　帕希歐的訓練家２
+[quest_title_1030601000606030] 名流派對
+[quest_title_1030601000606070] ＶＳ　帕希歐的訓練家３
+[quest_title_1030601000606040] 格拉吉歐的真心話
+[quest_title_1030601000606080] ＶＳ　帕希歐的訓練家４
+[quest_title_1030601000606090] １天僅限１次的高難度對戰！
+[quest_title_1030601000606100] 用挑戰對戰決勝負！
+[quest_title_1030601000606110] 用挑戰對戰決勝負！２
+[quest_title_1030601000610000] 挑戰強敵！　ＶＳ　哈烏
+[quest_title_1030601000610010] 挑戰強敵！　ＶＳ　哈烏２
+[quest_title_1030601000608010] 一家的請求
+[quest_title_1030601000608190] １天僅限１次的獎勵對戰！
+[quest_group_title_10279000000] 小驅
+[quest_group_title_10655000000] 丘助
+（寶可夢小朋友）
+[quest_group_title_10242400000] 小勝
+（２０２４春季）
+[quest_group_title_10025400000] 小菘
+（２０２４春季）
+[quest_group_title_10156000000] 亞玄
+[quest_group_title_10119100000] 美極套裝格拉吉歐
+[quest_title_1030220279000000] 某日的小驅
+[quest_title_1030220655000000] 某日的丘助
+[quest_title_1030220156000000] 某日的亞玄
+[quest_title_1030220119100000] 某日的美極套裝格拉吉歐
 
 ===========
 trainer_description_de.lsd
@@ -34579,6 +35203,36 @@ stolz darauf, eine Feen-Trainerin zu sein.
 [10115000001] Volkner ist als der stärkste Arenaleiter der Sinnoh-Region
 bekannt. Er ist kampfbegeistert und renoviert regelmäßig
 seine Arena, während er auf starke Gegner wartet.
+[10156000000] Dieser sanftmütige Trainer steckt voller Geheimnisse und
+trainiert auf der Eiseninsel in der Sinnoh-Region. Durch
+seine Begabung ist er in der Lage, die Gefühle anderer
+über Auren wahrzunehmen.
+[10279000000] Dieser Trainer aus Kanto begann sein Abenteuer in
+Alabastia. Er liebt es, draußen mit seinem Partner Pikachu
+herumzurennen, welches aus unbekannten Gründen dazu
+in der Lage ist, Geheime Techniken anzuwenden.
+[10657000000] Dieser Trainer aus Galar kann Pikachu nahezu perfekt
+nachahmen. Seine Imitation des Verhaltens und der Rufe
+ist so akkurat, dass man ihn glatt für ein echtes halten
+könnte.
+[10242400000] Victor richtet einen Kochkurs zum Fest der Freundschaft
+aus, um anderen zu zeigen, wie viel Freude man am
+Kochen haben kann. Sein Partner und Vorkoster Schlaraffel
+ist stets hungrig.
+[10025400000] Frida will zum Fest der Freundschaft etwas kochen, denn
+sie hat es sich zum Ziel gesetzt, Hilda eine Freude zu
+machen. Ihr Partner-Pokémon Flampivian wurde ihr einst
+von Mel anvertraut.
+[10119100000] Gladio trägt eine Machtmontur. Er weigerte sich, das
+künstlich erschaffene Pokémon Magearna auf sich allein
+gestellt zu lassen und behandelt es stattdessen wie einen
+Teil seiner Familie.
+[10150000002] Dieser Arenaleiter aus Johto setzt Flug-Pokémon ein. Er
+ist sehr ernst und manchmal sturköpfig. Sein Ziel besteht
+darin, ein angesehener Trainer wie sein Vater zu werden.
+[10128000001] Dieser Junge liebt Pokémon und Pokémon-Kämpfe. Er hat
+sich richtig ins Zeug gelegt und alles gegeben, um ein
+starker Trainer zu werden.
 
 ===========
 trainer_description_en.lsd
@@ -35700,6 +36354,30 @@ is a Fairy-type user.
 [10115000001] Said to be the top Gym Leader in Sinnoh, Volkner is a
 passionate Trainer always looking for thrilling battles. He
 renovates his Gym while waiting for worthy challengers.
+[10156000000] This mysterious Trainer with a soft demeanor trains on
+Iron Island in the Sinnoh region. Through his aura powers,
+he is able to sense the emotions of others.
+[10279000000] This Trainer set off on his journey from Kanto’s Pallet
+Town. He loves to race outside with his partner Pikachu,
+who is strangely able to use Secret Techniques.
+[10657000000] This Trainer from Galar is very good at pretending to be
+a Pikachu. His imitations are so precise that it’s easy to
+mistake him for the real thing.
+[10242400000] Victor will host a cooking class on Palentine’s Day to teach
+others how fun cooking can be. Greedent, his food taster
+and partner Pokémon, is always hungry.
+[10025400000] Candice wants to do some Palentine’s Day cooking. She’s
+fully focused on making Maylene happy. Her partner
+Pokémon, Darmanitan, was entrusted to her by Melony.
+[10119100000] Gladion is wearing a sygna suit. He refused to abandon
+the artificial Pokémon Magearna and decided instead to
+treat it like a member of his family.
+[10150000002] This Flying-type Pokémon user and Johto Gym Leader has
+a serious demeanor and can be a bit hardheaded. He
+aims to become a great Trainer like his father.
+[10128000001] Known as a boy who loves Pokémon, adventures, and
+battling, he has put everything into growing stronger as
+a Pokémon Trainer.
 
 ===========
 trainer_description_es.lsd
@@ -37011,6 +37689,34 @@ Entrenadora de tipo Hada.
 se pasa la vida renovando su gimnasio con el objetivo de
 atraer a contendientes que estén a su altura. Posee una
 pasión ferviente y se deleita combatiendo.
+[10156000000] Este enigmático Entrenador de modales refinados entrena
+habitualmente en la Isla Hierro, en la región de Sinnoh.
+Es capaz de percibir las emociones de los demás gracias
+a su estrecha conexión con las auras.
+[10279000000] Entrenador que emprendió su viaje desde Pueblo Paleta,
+en Kanto. Le encanta corretear junto con su "compa"
+Pikachu, un Pokémon extraordinario que es capaz de
+utilizar las Técnicas Secretas.
+[10657000000] Entrenador oriundo de la región de Galar que brilla con
+luz propia cuando imita a un Pikachu, ya que se le puede
+confundir fácilmente con uno.
+[10242400000] Victor va a impartir una clase de cocina por el Día de la
+Amistad para mostrarles a otros lo divertido que puede
+ser estar entre los fogones. Greedent, además de su
+compi, también es su catador más fiable y siempre tiene
+hambre.
+[10025400000] Inverna quiere preparar algo para el Día de la Amistad,
+ya que desea hacer feliz a Brega. Fue Mel quien le confió
+a su compi, Darmanitan.
+[10119100000] Gladio porta un elegante Traje S y se ha negado a dejar
+solo al Pokémon artificial, Magearna, a quien ha decidido
+tratar como a un nuevo miembro de su familia.
+[10150000002] Líder de Gimnasio de Johto que se especializa en el tipo
+Volador. Serio y obstinado, aspira a llegar a la altura de
+su admirado padre como Entrenador.
+[10128000001] Joven que muestra gran entusiasmo por los Pokémon y
+los combates que se libran con ellos. Se ha empleado
+a fondo para convertirse en un Entrenador de primera.
 
 ===========
 trainer_description_fr.lsd
@@ -38277,6 +38983,36 @@ de Sinnoh, ce jeune homme au tempérament fougueux
 est constamment à la recherche de combats qui
 le feront frissonner. Il s'occupe en rénovant son Arène
 dans l'attente de Dresseurs ou Dresseuses dignes de lui.
+[10156000000] Ce Dresseur mystérieux aux manières délicates
+s'entraîne sur l'Île de Fer, dans la région de Sinnoh.
+Il est capable de percevoir les émotions des autres
+en ressentant leur aura.
+[10279000000] Ce Dresseur a débuté son aventure à Bourg Palette,
+dans la région de Kanto. Il aime faire la course
+avec son partenaire, Pikachu, qui est, contre toute
+attente, capable d'utiliser des Techniques Secrètes.
+[10657000000] Ce Dresseur de Galar arrive très bien à imiter les Pikachu.
+La ressemblance est si frappante qu'il est très difficile
+de déceler le vrai du faux.
+[10242400000] Pour prouver à quel point cuisiner peut être amusant,
+Victor offre une leçon de cuisine pour la Fête de l'amitié.
+Son goûteur et partenaire, Rongrigou, est un véritable
+ventre sur pattes.
+[10025400000] Gladys veut cuisiner pour la Fête de l'amitié. Son but ?
+Rendre Mélina heureuse ! Elle est accompagnée de son
+partenaire Pokémon, Darumacho, qui lui a été confié
+par Lona.
+[10119100000] Gladio porte un Look Ultime. Il a refusé de laisser
+à l'abandon Magearna, le Pokémon Artificiel,
+et a décidé de le traiter comme un membre
+de sa famille.
+[10150000002] Un Champion d'Arène de Johto spécialiste des Pokémon
+Vol. Très sérieux, il peut également se montrer têtu.
+Son objectif est de devenir un aussi bon Dresseur
+que son père.
+[10128000001] Timmy est un jeune homme passionné par les Pokémon et
+les combats. Il s'est entraîné de toutes ses forces afin de
+devenir un meilleur Dresseur Pokémon.
 
 ===========
 trainer_description_it.lsd
@@ -39506,6 +40242,33 @@ Va molto fiera di essere specializzata nel tipo Folletto.
 il divertimento nelle lotte di Pokémon. Mentre aspetta
 che si presentino degli sfidanti in gamba, si dedica
 a ristrutturare la sua Palestra.
+[10156000000] Un Allenatore dall'aria calma e misteriosa che si allena
+nell'Isola Ferrosa della regione di Sinnoh. È in grado
+di percepire le emozioni altrui tramite l'aura.
+[10279000000] Allenatore di Kanto originario di Biancavilla, dove ha
+avuto inizio il suo viaggio. Gli piace correre in giro con
+il suo compagno Pikachu, che stranamente è in grado
+di utilizzare Tecniche Segrete.
+[10657000000] Un Allenatore di Galar che veste i panni di un Pikachu.
+Riesce ad assomigliargli a tal punto da far credere
+spesso alla gente di essere davvero un Pokémon.
+[10242400000] Victor dà lezioni di cucina durante il Giorno dell'affetto
+per far comprendere a tutti quanto può essere divertente
+preparare leccornie. Il suo Pokémon compagno, Greedent,
+non conosce sazietà e gli fa da assaggiatore.
+[10025400000] Bianca si concentra al massimo per preparare dei dolcetti
+che possano piacere a Marzia per il Giorno dell'affetto.
+La accompagna Darmanitan, il Pokémon compagno
+affidatole da Melania.
+[10119100000] Iridio indossa un Costumax e si rifiuta di lasciare da solo
+Magearna, il Pokémon artificiale. Lo prende con sé,
+trattandolo come un membro della propria famiglia.
+[10150000002] Capopalestra di Johto specializzato nel tipo Volante,
+è molto serio e a volte un po' testardo. Mira a diventare
+un grande Allenatore come suo padre.
+[10128000001] Un ragazzo che ama i Pokémon e le lotte. Si è dato molto
+da fare per crescere, cercando di diventare più forte
+come Allenatore.
 
 ===========
 trainer_description_ja.lsd
@@ -40617,6 +41380,30 @@ trainer_description_ja.lsd
 [10115000001] シンオウ地方　一番と　いわれる　ジムリーダー。
 ポケモン勝負の　楽しさを　追い求める　熱い男。
 手ごわい　挑戦者を　待ちながら　ジムを　改造する。
+[10156000000] シンオウ地方では　鋼鉄島で　修行をしている
+物腰柔らかで　不思議な雰囲気の　謎多きトレーナー。
+相手の心情などを　読み取る　波動の力を　持つ。
+[10279000000] カントー地方の　マサラタウンを　旅立った　少年。
+相棒は　ヒジュツが　使える　不思議な　ピカチュウで
+一緒に　外で思いっきり　かけっこするのが　好き。
+[10657000000] ピカチュウの　まねをする　ガラル地方のトレーナー。
+こだわりを　追及した　ピカチュウの　なりきりは
+本物と　みまちがうほどの　クオリティ。
+[10242400000] サンクスデイに　料理を教えることになった　マサル。
+料理の楽しさを　知ってもらいたいと　腕を振るう。
+バディ兼　味見役の　ヨクバリスは　いつも　腹ペコ。
+[10025400000] サンクスデイに　感謝の手料理に　挑戦する　スズナ。
+スモモを満足させようと　いつも以上に　気合い十分。
+バディの　ヒヒダルマは　メロンから　託された。
+[10119100000] マジコスを　身にまとった　グラジオ。
+人造のポケモンである　マギアナを　放っておけず
+家族として　共に歩む　覚悟を決めた。
+[10150000002] ひこうポケモン使いで　ジョウトの　ジムリーダー。
+生真面目な　性格で　少し　頑固な　ところも。
+父親のような　立派なトレーナーを　目指している。
+[10128000001] ポケモンと　ポケモン勝負が　大好きな　少年。
+強い　トレーナーに　なるため
+一生懸命に　努力を重ね　成長してきた。
 
 ===========
 trainer_description_ko.lsd
@@ -41727,6 +42514,30 @@ WPM 운영위원회의 대표도 맡고 있다.
 [10115000001] 신오지방 최고의 체육관 관장이라고 일컬어지고 있다.
 포켓몬 승부의 즐거움을 추구하는 뜨거운 남자.
 강한 도전자를 기다리며 체육관을 개조한다.
+[10156000000] 신오지방의 강철섬에서 수행을 하던
+부드러우면서도 신비한 분위기를 가진 비밀스러운 트레이너.
+상대의 마음을 읽는 파동의 힘을 지녔다.
+[10279000000] 관동지방 태초마을에서 여행을 떠난 소년.
+파트너는 비술을 사용할 수 있는 신비한 피카츄이며
+함께 바깥에서 마음껏 달리는 것을 좋아한다.
+[10657000000] 피카츄의 흉내를 내는 가라르지방의 트레이너.
+공을 들여 완성한 피카츄 변장은
+진짜로 착각할 만한 완성도를 보여준다.
+[10242400000] 스위트데이에 요리를 가르쳐 주게 된 승재.
+요리하는 즐거움을 알려 주고자 솜씨를 발휘한다.
+버디 겸 시식을 담당하는 요씽리스는 늘 배가 고프다.
+[10025400000] 스위트데이에 감사를 담은 수제 요리에 도전하는 무청.
+자두를 만족시키기 위해 평소보다 더 기합이 들어가 있다.
+버디인 불비달마는 멜론이 맡긴 포켓몬이다.
+[10119100000] 궁극코스를 입은 글라디오.
+사람이 만든 포켓몬인 마기아나를 외면할 수 없어
+가족이 되어 함께 걸어갈 각오를 굳혔다.
+[10150000002] 비행포켓몬 전문가이자 성도지방의 체육관 관장.
+고지식한 성격으로 약간 완고한 면도 있다.
+아버지 같은 훌륭한 트레이너가 되는 것이 목표다.
+[10128000001] 포켓몬과 포켓몬 승부를 정말 좋아하는 소년.
+강한 트레이너를 목표로
+열심히 노력하여 성장해왔다.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -42837,6 +43648,30 @@ trainer_description_zh-TW.lsd
 [10115000001] 被譽為神奧地區第一的道館館主。
 是個追尋寶可夢對戰樂趣，充滿熱情的男人。
 他總是一邊改造道館，一邊等待著值得一戰的挑戰者到來。
+[10156000000] 謎團重重，在神奧地區時都會在鋼鐵島
+修行的訓練家。性格溫和，充滿神秘氣息。
+擁有波導的力量，能讀取別人的情緒。
+[10279000000] 從關都地區的真新鎮開始冒險的少年。
+拍檔是會使用秘術的神奇皮卡丘，
+和牠一起在戶外盡情賽跑是他的興趣。
+[10657000000] 模仿皮卡丘的伽勒爾地區訓練家。
+講究細節的扮演甚至會讓人
+誤以為他是真的皮卡丘。
+[10242400000] 在感謝日指導大家做料理的小勝。
+為了讓大家知道料理的樂趣，他將大顯身手。
+拍檔兼試吃幫手的藏飽栗鼠肚子總是很餓。
+[10025400000] 在感謝日挑戰親手做料理來表示感謝的小菘。
+想讓阿李感到滿足的她，氣勢比平時還來得旺盛。
+拍檔的達摩狒狒是美蓉託付給她的。
+[10119100000] 身穿美極套裝的格拉吉歐。
+無法對人造寶可夢瑪機雅娜置之不理的他，
+決心以家人的身分和牠並肩前行。
+[10150000002] 飛行屬性寶可夢行家，城都的道館館主。
+個性一本正經，也有一點頑固。
+目標是成為像他父親一樣傑出的訓練家。
+[10128000001] 不僅熱愛寶可夢，也熱愛寶可夢對戰的少年。
+為了成為強大的訓練家，
+他一直拼命努力，讓自己不停地成長。
 
 ===========
 trainer_name_de.lsd
@@ -42994,6 +43829,7 @@ trainer_name_de.lsd
 [ch0153] Frosina
 [ch0154] Teresa
 [ch0155] Dracena
+[ch0156] Urs
 [ch0157] Valerie
 [ch9000] 
 [ch0158] Diantha
@@ -43103,6 +43939,9 @@ trainer_name_de.lsd
 [ch0296] Enigmara
 [ch0659] Kimono-Trägerin
 [ch0658] Karena
+[ch0279] Chase
+[ch0657] Hans-Pika
+[ch0655] Poké-Kind
 
 ===========
 trainer_name_en.lsd
@@ -43260,6 +44099,7 @@ trainer_name_en.lsd
 [ch0153] Glacia
 [ch0154] Bertha
 [ch0155] Drasna
+[ch0156] Riley
 [ch0157] Valerie
 [ch9000] 
 [ch0158] Diantha
@@ -43369,6 +44209,9 @@ trainer_name_en.lsd
 [ch0296] Iono
 [ch0659] Furisode Girl
 [ch0658] Katherine
+[ch0279] Chase
+[ch0657] Petey
+[ch0655] Poké Kid
 
 ===========
 trainer_name_es.lsd
@@ -43526,6 +44369,7 @@ trainer_name_es.lsd
 [ch0153] Nívea
 [ch0154] Gaia
 [ch0155] Drácena
+[ch0156] Quinoa
 [ch0157] Valeria
 [ch9000] 
 [ch0158] Dianta
@@ -43635,6 +44479,9 @@ trainer_name_es.lsd
 [ch0296] e-Nigma
 [ch0659] Jovencita con Kimono
 [ch0658] Chloë
+[ch0279] Chase
+[ch0657] Chus
+[ch0655] Pokéchico
 
 ===========
 trainer_name_fr.lsd
@@ -43792,6 +44639,7 @@ trainer_name_fr.lsd
 [ch0153] Glacia
 [ch0154] Terry
 [ch0155] Dracéna
+[ch0156] Armand
 [ch0157] Valériane
 [ch9000] 
 [ch0158] Dianthéa
@@ -43901,6 +44749,9 @@ trainer_name_fr.lsd
 [ch0296] Mashynn
 [ch0659] Fille en Kimono
 [ch0658] Joséphine
+[ch0279] Chase
+[ch0657] Jean-Chu
+[ch0655] Poké Enfant
 
 ===========
 trainer_name_it.lsd
@@ -44058,6 +44909,7 @@ trainer_name_it.lsd
 [ch0153] Frida
 [ch0154] Terrie
 [ch0155] Lilia
+[ch0156] Marisio
 [ch0157] Valérie
 [ch9000] 
 [ch0158] Diantha
@@ -44167,6 +45019,9 @@ trainer_name_it.lsd
 [ch0296] Kissara
 [ch0659] Ragazza in kimono
 [ch0658] Kelly
+[ch0279] Chase
+[ch0657] Pico
+[ch0655] Poké Bimbo
 
 ===========
 trainer_name_ja.lsd
@@ -44324,6 +45179,7 @@ trainer_name_ja.lsd
 [ch0153] プリム
 [ch0154] キクノ
 [ch0155] ドラセナ
+[ch0156] ゲン
 [ch0157] マーシュ
 [ch9000] 
 [ch0158] カルネ
@@ -44433,6 +45289,9 @@ trainer_name_ja.lsd
 [ch0296] ナンジャモ
 [ch0659] ふりそで
 [ch0658] カレン
+[ch0279] カケル
+[ch0657] チュウスケ
+[ch0655] ポケモンごっこ
 
 ===========
 trainer_name_ko.lsd
@@ -44590,6 +45449,7 @@ trainer_name_ko.lsd
 [ch0153] 미혜
 [ch0154] 들국화
 [ch0155] 드라세나
+[ch0156] 현이
 [ch0157] 마슈
 [ch9000] 
 [ch0158] 카르네
@@ -44699,6 +45559,9 @@ trainer_name_ko.lsd
 [ch0296] 모야모
 [ch0659] 기모노드레스
 [ch0658] 카렌
+[ch0279] 태주
+[ch0657] 추이
+[ch0655] 포켓몬놀이
 
 ===========
 trainer_name_zh-TW.lsd
@@ -44856,6 +45719,7 @@ trainer_name_zh-TW.lsd
 [ch0153] 波妮
 [ch0154] 菊野
 [ch0155] 朵拉塞娜
+[ch0156] 亞玄
 [ch0157] 瑪綉
 [ch9000] 
 [ch0158] 卡露妮
@@ -44965,6 +45829,9 @@ trainer_name_zh-TW.lsd
 [ch0296] 奇樹
 [ch0659] 長袖和服少女
 [ch0658] 華蓮
+[ch0279] 小驅
+[ch0657] 丘助
+[ch0655] 寶可夢小朋友
 
 ===========
 trainer_verbose_name_de.lsd
@@ -45175,12 +46042,19 @@ trainer_verbose_name_de.lsd
 [10256100000] MaMo-Nezz
 [10656000000] Evi 
 (Poké-Kind)
+[10025400000] Frida 
+(Saison 2024)
+[10242400000] Victor 
+(Saison 2024)
+[10119100000] MaMo-Gladio
 [10028400000] Sandra 
 (Saison 2024)
 [10127400000] Wassili 
 (Saison 2024)
 [10658000000] Karena 
 (Kimono-Trägerin)
+[10657000000] Hans-Pika 
+(Poké-Kind)
 
 ===========
 trainer_verbose_name_en.lsd
@@ -45401,12 +46275,20 @@ Acerola
 [10256100000] Sygna Suit Piers
 [10656000000] Eve 
 (Poké Kid)
+[10025400000] Candice 
+(Palentine's 2024)
+[10242400000] Victor 
+(Palentine's 2024)
+[10119100000] Sygna Suit 
+Gladion
 [10028400000] Clair 
 (New Year's 2024)
 [10127400000] Wallace 
 (New Year's 2024)
 [10658000000] Katherine 
 (Furisode Girl)
+[10657000000] Petey 
+(Poké Kid)
 
 ===========
 trainer_verbose_name_es.lsd
@@ -45596,12 +46478,18 @@ con Kimono)
 [10011100000] Hiedra (Traje S)
 [10256100000] Nerio (Traje S)
 [10656000000] Eva (Pokéchica)
+[10025400000] Inverna 
+(Temporada 24)
+[10242400000] Victor 
+(Temporada 24)
+[10119100000] Gladio (Traje S)
 [10028400000] Débora 
 (Temporada 24)
 [10127400000] Plubio 
 (Temporada 24)
 [10658000000] Chloë (Jovencita 
 con Kimono)
+[10657000000] Chus (Pokéchico)
 
 ===========
 trainer_verbose_name_fr.lsd
@@ -45807,12 +46695,19 @@ trainer_verbose_name_fr.lsd
 [10256100000] Peterson (Ultime)
 [10656000000] Éva 
 (Poké Enfant)
+[10025400000] Gladys 
+(Saison 2024)
+[10242400000] Victor 
+(Saison 2024)
+[10119100000] Gladio (Ultime)
 [10028400000] Sandra 
 (Saison 2024)
 [10127400000] Marc 
 (Saison 2024)
 [10658000000] Joséphine 
 (Fille en Kimono)
+[10657000000] Jean-Chu 
+(Poké Enfant)
 
 ===========
 trainer_verbose_name_it.lsd
@@ -46024,12 +46919,19 @@ trainer_verbose_name_it.lsd
 [10256100000] Ginepro Costumax
 [10656000000] Ivetta 
 (Poké Bimba)
+[10025400000] Bianca 
+(feste 2024)
+[10242400000] Victor 
+(feste 2024)
+[10119100000] Iridio Costumax
 [10028400000] Sandra 
 (feste 2024)
 [10127400000] Adriano 
 (feste 2024)
 [10658000000] Kelly 
 (Ragazza in kimono)
+[10657000000] Pico 
+(Poké Bimbo)
 
 ===========
 trainer_verbose_name_ja.lsd
@@ -46241,12 +47143,19 @@ trainer_verbose_name_ja.lsd
 [10256100000] マジコスネズ
 [10656000000] イブ
 （ポケモンごっこ）
+[10025400000] スズナ
+（２４シーズン）
+[10242400000] マサル
+（２４シーズン）
+[10119100000] マジコスグラジオ
 [10028400000] イブキ
 （２４シーズン）
 [10127400000] ミクリ
 （２４シーズン）
 [10658000000] カレン
 （ふりそで）
+[10657000000] チュウスケ
+（ポケモンごっこ）
 
 ===========
 trainer_verbose_name_ko.lsd
@@ -46458,12 +47367,19 @@ trainer_verbose_name_ko.lsd
 [10256100000] 궁극코스 두송
 [10656000000] 이븐
 (포켓몬놀이)
+[10025400000] 무청
+(24시즌)
+[10242400000] 승재
+(24시즌)
+[10119100000] 궁극코스 글라디오
 [10028400000] 이향
 (24시즌)
 [10127400000] 윤진
 (24시즌)
 [10658000000] 카렌
 (기모노드레스)
+[10657000000] 추이
+(포켓몬놀이)
 
 ===========
 trainer_verbose_name_zh-TW.lsd
@@ -46675,12 +47591,19 @@ trainer_verbose_name_zh-TW.lsd
 [10256100000] 美極套裝聶梓
 [10656000000] 伊芙
 （寶可夢小朋友）
+[10025400000] 小菘
+（２０２４春季）
+[10242400000] 小勝
+（２０２４春季）
+[10119100000] 美極套裝格拉吉歐
 [10028400000] 小椿
 （２０２４新春）
 [10127400000] 米可利
 （２０２４新春）
 [10658000000] 華蓮
 （長袖和服少女）
+[10657000000] 丘助
+（寶可夢小朋友）
 
 ===========
 common_widget_de.lsd
@@ -46952,6 +47875,19 @@ nicht freigeschaltet wurden.
 oder nur auf besondere Weise erhalten.
 [common_widget/dialog_129] „Fordere starke Trainer heraus!“ ist
 jetzt verfügbar.
+[common_widget/dialog_130] Du kannst die Herausforderung erneut
+starten, indem du deinen
+Kampffortschritt zurücksetzt. 
+
+Möchtest du fortfahren?
+[common_widget/dialog_131] Hinweis: Abschlussboni und zusätzliche Belohnungen
+können auch nach erneutem Abschluss des Kampfes
+erhalten werden.
+[common_widget/dialog_132] Wird nach Abschluss von Kapitel 7 des
+WPM-Handlungsbogens freigeschaltet.
+[common_widget/dialog_133] Item-Tausch (Rallye)
+[common_widget/dialog_134] Hinweis: Der Effekt dieses Items ist nur beim nächsten
+Kampf aktiv.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -47729,6 +48665,14 @@ additional effects that haven’t been unlocked before.
 [common_widget/dialog_128] This is currently unobtainable or obtained
 in a special way.
 [common_widget/dialog_129] Challenge the Strong has been unlocked.
+[common_widget/dialog_130] This will reset your progress and allow you to start the challenge again.
+
+Would you like to continue?
+[common_widget/dialog_131] Note: If you complete a battle once, completion rewards and bonus rewards can be obtained by completing the battle again.
+[common_widget/dialog_132] To unlock, complete Chapter 7 of the PML arc.
+[common_widget/dialog_133] Item Exchange—Rally
+[common_widget/dialog_134] Note: This item’s effect will only be active
+for the next battle.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -48479,6 +49423,18 @@ o disponible solo en circunstancias
 especiales.
 [common_widget/dialog_129] ¡Ahora puedes hacer frente a los
 desafíos imposibles!
+[common_widget/dialog_130] Se restablecerá tu progreso y podrás
+volver a hacer frente a este desafío.
+
+¿Quieres continuar?
+[common_widget/dialog_131] Nota: Podrás volver a obtener los premios y premios de
+bonificación de los combates que ya hayas completado
+si vuelves a completarlos.
+[common_widget/dialog_132] Completa el capítulo 7 de la trama del
+WPM de la historia principal.
+[common_widget/dialog_133] Canjear objetos (Yincana)
+[common_widget/dialog_134] Nota: Los efectos de este objeto solamente estarán
+activos en el próximo combate.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Nv.
 [common_widget/trainer_detail_004] MÁX.
@@ -48650,7 +49606,7 @@ evolución?
 [common_widget/filter_042] Tipo de los movimientos
 [common_widget/filter_043] Problemas de estado
 [common_widget/filter_044] Cambios de estado
-[common_widget/filter_045] Efectos de terreno
+[common_widget/filter_045] Efectos de campo
 [common_widget/filter_046] Mejora las características aliadas
 [common_widget/filter_047] Objetivo del movimiento
 [common_widget/filter_048] Recuperación
@@ -49255,6 +50211,18 @@ additionnels
 uniquement sous certaines conditions.
 [common_widget/dialog_129] Le défi contre les plus
 grands est débloqué.
+[common_widget/dialog_130] Voulez-vous vraiment réinitialiser
+votre progression dans les combats ?
+Ceci vous permettra d'y participer
+à nouveau.
+[common_widget/dialog_131] Remarque : une fois un combat terminé, vous pouvez
+obtenir des récompenses de complétion et récompenses
+bonus en terminant de nouveau le combat.
+[common_widget/dialog_132] Complétez le chapitre 7 du WPM
+dans le scénario principal.
+[common_widget/dialog_133] Échange d'objets (rallye)
+[common_widget/dialog_134] Remarque : l'effet de cet objet ne sera actif
+que pendant le prochain combat.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] N.
 [common_widget/trainer_detail_004] MAX
@@ -50031,6 +50999,18 @@ non ancora sbloccati.
 [common_widget/dialog_128] Momentaneamente non ottenibile o
 ottenibile solo in circostanze speciali.
 [common_widget/dialog_129] Hai sbloccato "Sfida l'asso".
+[common_widget/dialog_130] Ripristinare i tuoi progressi
+ti permetterà di affrontare
+nuovamente le lotte.
+
+Vuoi procedere con il ripristino?
+[common_widget/dialog_131] È possibile completare nuovamente le lotte per ottenere
+più volte le ricompense bonus e le ricompense.
+[common_widget/dialog_132] Si sblocca completando il capitolo 7
+della storia "Il WPM".
+[common_widget/dialog_133] Scambio strumenti Tour di lotta
+[common_widget/dialog_134] L'effetto di questo strumento si attiverà solo
+nella prossima lotta.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] L.
 [common_widget/trainer_detail_004] MAX
@@ -50790,6 +51770,17 @@ EXカラー衣装が　かくとくできます
 特別な方法で獲得可能です
 [common_widget/dialog_129] 「強者への挑戦」
 が解放されました
+[common_widget/dialog_130] バトルのクリア状況を
+リセットして再挑戦可能にします
+よろしいですか？
+[common_widget/dialog_131] ※一度クリアしたバトルを再びクリアすると
+クリア報酬とボーナス報酬を
+再度獲得することができます
+[common_widget/dialog_132] メインストーリーの
+WPM編　第７章を
+クリアすると解放されます
+[common_widget/dialog_133] どうぐ交換 ラリー
+[common_widget/dialog_134] ※このどうぐは次のバトルでのみ効果を発揮します
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -51560,6 +52551,17 @@ EX컬러 의상을 획득할 수 있습니다
 특별한 방법으로 획득할 수 있습니다
 [common_widget/dialog_129] "강자에게 도전"이
 해방되었습니다
+[common_widget/dialog_130] 배틀 클리어 상황을
+초기화하고 재도전할 수 있습니다
+괜찮겠습니까?
+[common_widget/dialog_131] ※1번 클리어한 배틀을 다시 클리어하면
+클리어 보상과 보너스 보상을
+다시 획득할 수 있습니다
+[common_widget/dialog_132] 메인 스토리
+WPM 편 제7장을
+클리어하면 해방됩니다
+[common_widget/dialog_133] 도구 교환 랠리
+[common_widget/dialog_134] ※이 도구는 다음 배틀에서만 효과를 발휘합니다
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -52308,6 +53310,17 @@ common_widget_zh-TW.lsd
 或需透過特殊方式獲得
 [common_widget/dialog_129] 「向高手挑戰」
 已開放
+[common_widget/dialog_130] 重設對戰的過關狀態
+即可再次挑戰
+確定要進行重設嗎？
+[common_widget/dialog_131] ※再次完成已過關的對戰
+即可重複獲得
+過關報酬和獎勵報酬
+[common_widget/dialog_132] 成功過關主線劇情
+WPM篇的第７章
+即可開放
+[common_widget/dialog_133] 交換道具：接力
+[common_widget/dialog_134] ※此道具只會在下一場對戰發揮效果
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -55038,6 +56051,7 @@ home_de.lsd
 [home/quest_list_title_011] Champkampf
 [home/quest_list_title_012] Nebengebiet
 [home/quest_list_title_013] Fordere starke Trainer heraus!
+[home/quest_list_title_014] Kampfrallye
 [home/quest_list_series_001] WPM-Handlungsbogen
 [home/quest_list_series_002] Schurkenteam
 [home/quest_list_series_003] In dieser Geschichte verbündest du dich mit anderen Gefährten
@@ -55145,8 +56159,7 @@ werden.
 [home/quest_list_090] Du kannst nicht aufbrechen, weil du
 nicht drei Teams ausgewählt hast.
 [home/quest_list_091] Boxsuche
-[home/quest_list_092] Schnappe dir über die Boxsuche
-„[Name:QuestTitle ]“!
+[home/quest_list_092] Erhalte „[Name:QuestTitle ]“!
 [home/quest_list_093] freigeschaltet!
 [home/quest_list_094] Trainingsgebiet
 [home/quest_list_095] Gefährtendrops↑
@@ -55266,6 +56279,9 @@ Items erhalten hast.
 [home/quest_list_182] Fordere starke Trainer
 heraus!
 [home/quest_list_183] Ultimativ
+[home/quest_list_184] Im Gang
+[home/quest_list_185] Kampfrallye-Pass-Limit
+[home/quest_list_186] DU HAST GLÜCK!
 [home/quest_detail_003] Schwäche
 [home/quest_detail_005] Details
 [home/quest_detail_009] Teamauswahl
@@ -56206,6 +57222,90 @@ Kämpfe verfügbar.
 [home/score_attack_101] Erstbonus
 [home/score_attack_102] Du kannst folgende Belohnungen erhalten, wenn
 du alle Kämpfe zum ersten Mal abschließt.
+[home/battle_rally_001] Kampfrallye
+[home/battle_rally_002] Herausforderung
+[home/battle_rally_003] Aktive Itemeffekte
+[home/battle_rally_004] Gebiet [Digit:3digits ]
+[home/battle_rally_005] Bonus
+[home/battle_rally_006] Wird nach Abschluss von
+Gebiet [Digit:3digits ] freigeschaltet
+[home/battle_rally_007] Angebot!
+[home/battle_rally_008] Aktuelles Team
+[home/battle_rally_009] Aufgeben
+[home/battle_rally_010] Glücksgebiet
+[home/battle_rally_011] Aufdecken
+[home/battle_rally_012] Kampfrallye-Pass-Limit
+[home/battle_rally_013] Bonus
+[home/battle_rally_014] Aktive Itemeffekte
+[home/battle_rally_016] Gebiet [Digit:3digits ] [Name:QuestDifficulty ]
+[home/battle_rally_017] Infos zu Rallye-Punkten
+[home/battle_rally_018] Basis-Rallye-Punkte
+[home/battle_rally_019] Rollenbonus
+[home/battle_rally_020] Erhaltene Rallye-Punkte
+[home/battle_rally_021] Rallye-Punkte im Besitz
+[home/battle_rally_022] Eingesetzte Items
+[home/battle_rally_023] Kampfrallye
+abgeschlossen!
+[home/battle_rally_024] Kampfrallye-Ergebnisse
+[home/battle_rally_025] GESCHAFFT!
+[home/battle_rally_026] Aufgegeben
+[home/battle_rally_027] Gesamte erhaltene Rallye-Punkte
+[home/battle_rally_028] Gesamte verbrauchte Rallye-Punkte
+[home/battle_rally_029] Punkte-Tausch-Multiplikator
+[home/battle_rally_030] Erhaltene Kampfrallye-Abzeichen
+[home/battle_rally_031] Möchtest du einen Kampfrallye-Pass
+einsetzen, um eine Kampfrallye zu
+starten?
+[home/battle_rally_032] Hinweis: Kampfrallye-Pässe, deren Gültigkeit als
+Nächstes endet, werden zuerst verbraucht.
+[home/battle_rally_033] Kampfrallye-Pässe im Besitz
+[home/battle_rally_034] Rallye-Laden
+[home/battle_rally_035] Rallye-Punkte im Besitz
+[home/battle_rally_036] Im Angebot
+[home/battle_rally_037] Ausverkauft
+[home/battle_rally_038] Limitiertes Item
+[home/battle_rally_039] Details
+[home/battle_rally_040] Tauschen
+[home/battle_rally_041] Willkommen!
+Unsere aktuelle Auswahl findest du
+hier drüben.
+[home/battle_rally_042] Die Auswahl wird für jedes Gebiet
+aktualisiert!
+[home/battle_rally_043] Limitierte Items können nur in dem
+Gebiet eingetauscht werden, in dem
+sie verfügbar sind. Pass also gut auf!
+[home/battle_rally_044] Manchmal sind Items im Angebot!
+Schau also unbedingt vorbei!
+[home/battle_rally_045] Vielen Dank!
+[home/battle_rally_046] Aktive Itemeffekte
+[home/battle_rally_047] Nur einmal
+[home/battle_rally_048] Dauerhaft
+[home/battle_rally_049] Bonus-Effekt
+[home/battle_rally_050] Mögliche Rollen
+[home/battle_rally_051] Hinweis: Gewinnst du einen Kampf mit Bonus-
+Gefährten in deinem Team, kannst du mehr Items
+erhalten.
+[home/battle_rally_052] Du benötigst einen Kampfrallye-Pass, um diese Herausforderung zu starten. Kampfrallye-Pässe sind unter anderem als Event-Belohnungen verfügbar.
+[home/battle_rally_053] Möchtest du Genesungs-Gulasch verwenden, um deine Gefährten vollständig zu heilen?
+[home/battle_rally_054] Möchtest du eine Füll-Frikadelle verwenden, um die AEP deiner Gefährten vollständig aufzufüllen?
+[home/battle_rally_055] Möchtest du ein Vorschau-Fernglas verwenden, um die Gegner dieses Gebiets sichtbar zu machen?
+[home/battle_rally_057] Um KP wiederherzustellen, benötigst du Genesungs-Gulasch. Kampfrallye-Items können im Rallye-Laden getauscht werden.
+[home/battle_rally_058] Um AEP aufzufüllen, benötigst du eine Füll-Frikadelle. Kampfrallye-Items können im Rallye-Laden getauscht werden.
+[home/battle_rally_059] Um die Gegner dieses Gebiets zu sehen, benötigst du ein Vorschau-Fernglas. Kampfrallye-Items können im Rallye-Laden getauscht werden. 
+[home/battle_rally_061] Unterstützungs-Geschenk
+[home/battle_rally_062] Du hast ein Geschenk für den Start einer Kampfrallye-Herausforderung erhalten.
+[home/battle_rally_063] Hinweis: Verstärkungs-Items, die du als Geschenk erhältst, werden bei jeder Herausforderung zufällig ausgewählt.
+[home/battle_rally_064] Hinweis: Rallye-Punkte erhältst du nicht zurück, selbst wenn du eine Kampfrallye abschließt ohne das Item einzusetzen.
+[home/battle_rally_065] Hinweis: Effekte treten automatisch in Kraft, sobald der Tausch abgeschlossen ist.
+[home/battle_rally_066] Möchtest du die aktuelle Herausforderung aufgeben?
+[home/battle_rally_067] Wenn du aufgibst, kannst du nicht an derselben Stelle wieder einsteigen. Alle Effekte bereits aktivierter Items gehen verloren und du erhältst Kampfrallye-Abzeichen nur für [Digit:3digits ] % deiner verdienten Rallye-Punkte.
+[home/battle_rally_068] Mit dem Abschluss dieser Gebietsinfo bestätigst du die Teamaufstellung für diese Herausforderung.
+
+Möchtest du fortfahren?
+[home/battle_rally_069] Hinweis: Sobald du die Aufstellung bestätigt hast, kannst du entfernte Gefährten später nicht wieder hinzufügen.
+[home/battle_rally_070] Aktuelle Rallye-Punkte
+[home/battle_rally_071] Verfügbare Kampfrallye-Abzeichen
+[home/battle_rally_072] Du hast nicht genug Rallye-Punkte.
 
 ===========
 home_en.lsd
@@ -56233,6 +57333,7 @@ home_en.lsd
 [home/quest_list_title_011] Champion Stadium
 [home/quest_list_title_012] Side Area
 [home/quest_list_title_013] Challenge the Strong
+[home/quest_list_title_014] Battle Rally
 [home/quest_list_series_001] PML Arc
 [home/quest_list_series_002] Villain Arc
 [home/quest_list_series_003] Team up with other sync pairs and take on
@@ -56333,8 +57434,7 @@ than one team. Please edit your teams.
 [home/quest_list_089] Teams in the center position cannot be removed or disbanded.
 [home/quest_list_090] Your team is incomplete. All three team slots must be filled to continue.
 [home/quest_list_091] Prize Box
-[home/quest_list_092] Pull from the prize box to get
-[Name:QuestTitle ]!
+[home/quest_list_092] Obtain [Name:QuestTitle ]!
 [home/quest_list_093] Unlocked!
 [home/quest_list_094] Training Area
 [home/quest_list_095] Sync Orb Reward Boost
@@ -56448,6 +57548,9 @@ the villain arc on Normal.
 [home/quest_list_181] Sync Pair Stories
 [home/quest_list_182] Challenge the Strong
 [home/quest_list_183] Ultimate
+[home/quest_list_184] In progress
+[home/quest_list_185] Rally Passes Maxed
+[home/quest_list_186] LUCKY
 [home/quest_detail_003] Weakness
 [home/quest_detail_005] Area Details
 [home/quest_detail_009] Preset Teams
@@ -57332,6 +58435,91 @@ some battles.
 [home/score_attack_101] First-time rewards
 [home/score_attack_102] You can obtain the following rewards when
 you complete each battle for the first time.
+[home/battle_rally_001] Battle Rally
+[home/battle_rally_002] Challenge
+[home/battle_rally_003] Activated Item Effects
+[home/battle_rally_004] Area [Digit:3digits ]
+[home/battle_rally_005] Bonus
+[home/battle_rally_006] To unlock, complete area [Digit:3digits ]
+[home/battle_rally_007] Sale!
+[home/battle_rally_008] Current Team
+[home/battle_rally_009] Retire
+[home/battle_rally_010] Lucky Area
+[home/battle_rally_011] Investigate
+[home/battle_rally_012] Battle Rally Passes Maxed
+[home/battle_rally_013] Bonus
+[home/battle_rally_014] Activated
+Item Effects
+[home/battle_rally_016] Area [Digit:3digits ] [Name:QuestDifficulty ]
+[home/battle_rally_017] Rally Point Details
+[home/battle_rally_018] Base Rally Points
+[home/battle_rally_019] Role Bonus
+[home/battle_rally_020] Rally Points Obtained
+[home/battle_rally_021] Held Rally Points
+[home/battle_rally_022] Items Used
+[home/battle_rally_023] Battle Rally
+Complete!
+[home/battle_rally_024] Battle Rally Results
+[home/battle_rally_025] Complete!
+[home/battle_rally_026] Retired
+[home/battle_rally_027] Total Rally Points Obtained
+[home/battle_rally_028] Total Rally Points Used
+[home/battle_rally_029] Point Conversion Multiplier
+[home/battle_rally_030] Battle Rally Medals Obtained
+[home/battle_rally_031] Use a battle rally pass to take on a
+Battle Rally?
+[home/battle_rally_032] Note: Battle rally passes with the closest expiration date
+will be used up first.
+[home/battle_rally_033] Your Battle Rally Passes
+[home/battle_rally_034] Rally Shop
+[home/battle_rally_035] Held Rally Points
+[home/battle_rally_036] Sale
+[home/battle_rally_037] Sold Out
+[home/battle_rally_038] Limited Item
+[home/battle_rally_039] Details
+[home/battle_rally_040] Exchange
+[home/battle_rally_041] Welcome!
+Here’s our current lineup!
+[home/battle_rally_042] The lineup will be updated for
+each area!
+[home/battle_rally_043] Limited items are only
+exchangeable in the area where
+they appear, so be careful!
+[home/battle_rally_044] Sometimes, items will go on sale!
+Be sure to check it out!
+[home/battle_rally_045] Thank you!
+[home/battle_rally_046] Activated Item Effects
+[home/battle_rally_047] Single Use
+[home/battle_rally_048] Continuous
+[home/battle_rally_049] Bonus Effect
+[home/battle_rally_050] Applicable Roles
+[home/battle_rally_051] Note: Winning a battle with bonus sync pairs on your team will increase the amount of items you can obtain.
+[home/battle_rally_052] You need a battle rally pass to take on this challenge. You can obtain battle rally passes from event rewards, etc.
+[home/battle_rally_053] Use a Hearty Stew to fully restore the HP of all allied sync pairs?
+[home/battle_rally_054] Use a Replenishing Patty to fully restore the MP of all allied sync pairs?
+[home/battle_rally_055] Use See-noculars to make the opponents for this area viewable?
+[home/battle_rally_057] To restore HP, you need a Hearty Stew. Battle Rally items are up for exchange in the rally shop.
+[home/battle_rally_058] To restore MP, you need a Replenishing Patty. Battle Rally items are up for exchange in the rally shop.
+[home/battle_rally_059] To see the opponents for this area, you need See-noculars. Battle Rally items are up for exchange in the rally shop.
+[home/battle_rally_061] Good-Luck Present
+[home/battle_rally_062] You received a present for starting a
+Battle Rally challenge.
+[home/battle_rally_063] Note: The strengthening items received as presents
+are chosen at random for each challenge.
+[home/battle_rally_064] Note: Rally points will not be returned even if you complete a Battle Rally without using this item.
+[home/battle_rally_065] Note: Effects are activated automatically once the
+exchange is complete.
+[home/battle_rally_066] Retire from the current challenge?
+[home/battle_rally_067] If you retire, you can’t restart from the same point.
+All effects of activated items will be lost, and you can obtain Battle Rally medals for up to [Digit:3digits ]% of the rally points you have obtained.
+[home/battle_rally_068] Completing this area info will confirm your team lineup for this challenge.
+
+Are you sure you want to continue?
+[home/battle_rally_069] Note: Once the lineup is confirmed, sync pairs removed
+from the lineup can’t be added again.
+[home/battle_rally_070] Current Rally Points
+[home/battle_rally_071] Obtainable Battle Rally medals
+[home/battle_rally_072] You don’t have enough rally points.
 
 ===========
 home_es.lsd
@@ -57359,6 +58547,7 @@ home_es.lsd
 [home/quest_list_title_011] Combates de Campeones
 [home/quest_list_title_012] Otras áreas
 [home/quest_list_title_013] Desafíos imposibles
+[home/quest_list_title_014] Yincana de Combates
 [home/quest_list_series_001] Trama del WPM
 [home/quest_list_series_002] Trama equipo villano
 [home/quest_list_series_003] En esta historia, unirás fuerzas con diversos compis con el
@@ -57461,8 +58650,7 @@ de [Name:QuestGroupTitle ].
 de la posición central.
 [home/quest_list_090] Necesitas tres equipos para poder iniciar la aventura.
 [home/quest_list_091] Caja Búsqueda
-[home/quest_list_092] Obtén [Name:QuestTitle ]
-a través de la Caja Búsqueda.
+[home/quest_list_092] Obtén [Name:QuestTitle ].
 [home/quest_list_093] desbloqueada
 [home/quest_list_094] Área de entrenamiento
 [home/quest_list_095] ¡Más Orbes Compi!
@@ -57580,6 +58768,9 @@ especificada del objeto indicado.
 [home/quest_list_181] Episodios compi
 [home/quest_list_182] Desafíos imposibles
 [home/quest_list_183] Imposible
+[home/quest_list_184] En curso
+[home/quest_list_185] Pases Yincana al máximo
+[home/quest_list_186] Ubic. de la suerte
 [home/quest_detail_003] Debilidad
 [home/quest_detail_005] Detalles
 [home/quest_detail_009] Elegir equipo
@@ -58548,6 +59739,123 @@ puedan completar con normas de retos.
 [home/score_attack_101] Primera vez
 [home/score_attack_102] Puedes obtener los siguientes premios al
 completar cada combate por primera vez.
+[home/battle_rally_001] Yincana de Combates
+[home/battle_rally_002] Afrontar
+[home/battle_rally_003] Efectos de objetos activos
+[home/battle_rally_004] Ubicación [Digit:3digits ]
+[home/battle_rally_005] Con bonus
+[home/battle_rally_006] Completa la
+ubicación [Digit:3digits ].
+[home/battle_rally_007] ¡Oferta!
+[home/battle_rally_008] Equipo actual
+[home/battle_rally_009] Rendirse
+[home/battle_rally_010] Ubic. de la suerte
+[home/battle_rally_011] Revelar rivales
+
+[home/battle_rally_012] Pases de la Yincana
+al máximo
+[home/battle_rally_013] Bonus
+[home/battle_rally_014] Efectos de
+objetos activos
+[home/battle_rally_016] Ubicación [Digit:3digits ] ([Name:QuestDifficulty ])
+[home/battle_rally_017] Detalles de los puntos de la Yincana
+[home/battle_rally_018] Ptos. Yincana base
+[home/battle_rally_019] Bonus por función
+[home/battle_rally_020] Ptos. Yincana obten.
+[home/battle_rally_021] Ptos. Yincana totales
+[home/battle_rally_022] Objetos usados
+[home/battle_rally_023] ¡Yincana de
+Combates
+completada!
+[home/battle_rally_024] Resultados Yincana de Combates
+[home/battle_rally_025] ¡Completada!
+[home/battle_rally_026] Te has rendido
+[home/battle_rally_027] Total ptos. Yincana obt.
+[home/battle_rally_028] Total ptos. Yincana usados
+[home/battle_rally_029] Multiplicador ptos.
+[home/battle_rally_030] Insignias Yincana obtenidas
+[home/battle_rally_031] ¿Quieres usar un Pase de la Yincana
+de Combates para afrontar la Yincana
+de Combates?
+[home/battle_rally_032] Nota: Se usarán primero los pases de la Yincana de
+Combates cuya fecha de caducidad sea más cercana.
+[home/battle_rally_033] Tus Pases de la Yincana de Combates
+[home/battle_rally_034] Tienda de la Yincana
+[home/battle_rally_035] Puntos de la Yincana
+[home/battle_rally_036] En oferta
+[home/battle_rally_037] Agotado
+[home/battle_rally_038] Limitado
+[home/battle_rally_039] Detalles
+[home/battle_rally_040] Canjear
+[home/battle_rally_041] ¡Hola! ¡Esta es nuestra selección de
+objetos actual!
+[home/battle_rally_042] ¡Los objetos disponibles cambian
+en cada ubicación!
+[home/battle_rally_043] ¡Los objetos limitados solo pueden
+canjearse en la ubicación en la que
+aparecen! ¡Que no se te pasen!
+[home/battle_rally_044] ¡A veces tenemos artículos en
+oferta! ¡No olvides pasarte a mirar!
+[home/battle_rally_045] ¡Muchas gracias!
+[home/battle_rally_046] Efectos de objetos activos
+[home/battle_rally_047] Solo una vez
+[home/battle_rally_048] Continuos
+[home/battle_rally_049] Bonus especiales
+[home/battle_rally_050] Funciones a las que se aplica
+[home/battle_rally_051] Nota: Completa combates con los compis con bonus
+para conseguir más objetos con bonus.
+[home/battle_rally_052] Necesitas un Pase de la Yincana de
+Combates para afrontar este desafío.
+Puedes conseguirlos como premio en
+ciertos eventos y de otras maneras.
+
+[home/battle_rally_053] ¿Quieres usar una Curazuela para
+recuperar los PS de todos tus compis?
+[home/battle_rally_054] ¿Quieres usar un Filéter para
+recuperar los PM de todos tus compis?
+[home/battle_rally_055] ¿Quieres usar unos Prismáticos Vigía
+para ver a los rivales de esta
+ubicación?
+[home/battle_rally_057] Para poder recuperar PS, necesitas
+una Curazuela. Los objetos de la
+Yincana de Combates se obtienen en
+la tienda de la Yincana.
+[home/battle_rally_058] Para poder recuperar PM, necesitas
+un Filéter. Los objetos de la Yincana
+de Combates se obtienen en la tienda
+de la Yincana.
+[home/battle_rally_059] Para ver a los rivales de la ubicación,
+necesitas unos Prismáticos Vigía. Los
+objetos de la Yincana de Combates se
+obtienen en la tienda de la Yincana.
+[home/battle_rally_061] Regalo para motivarte
+[home/battle_rally_062] Has recibido un regalo por iniciar el
+desafío de la Yincana de Combates.
+[home/battle_rally_063] Nota: Los objetos de mejora del regalo se determinan
+al azar en cada desafío.
+[home/battle_rally_064] Nota: No se te devolverán los puntos de la Yincana
+de Combates aunque la completes sin usar el objeto.
+[home/battle_rally_065] Nota: Los efectos se activan automáticamente tras
+efectuar el canje.
+[home/battle_rally_066] ¿Quieres rendirte y abandonar
+el desafío?
+[home/battle_rally_067] Aviso: Si te rindes, no podrás reanudar el desafío.
+Perderás todos los efectos de los objetos que hayas
+activado y solo recibirás una cantidad de Insignias de la
+Yincana de Combates equivalente a un [Digit:3digits ]% de los
+puntos de la Yincana de Combates que hayas obtenido.
+[home/battle_rally_068] Tras completar esta ubicación, la
+formación de tu equipo para el desafío
+quedará consolidada.
+
+¿Lo tienes todo listo para empezar?
+[home/battle_rally_069] Nota: Una vez que la formación esté consolidada,
+no podrás volver a añadir a los compis que hayas
+quitado del equipo.
+[home/battle_rally_070] Puntos de la Yincana actuales
+[home/battle_rally_071] Insignias de la Yincana que obtendrás
+[home/battle_rally_072] No tienes suficientes puntos de la
+Yincana de Combates.
 
 ===========
 home_fr.lsd
@@ -58575,6 +59883,7 @@ Combat (coop)
 [home/quest_list_title_011] Combat de Maître
 [home/quest_list_title_012] Zone annexe
 [home/quest_list_title_013] Défi contre les plus grands
+[home/quest_list_title_014] Rallye de combats
 [home/quest_list_series_001] Le WPM
 [home/quest_list_series_002] L'organisation maléfique
 [home/quest_list_series_003] Dans ce scénario, vous faites équipe avec divers Duos
@@ -58678,8 +59987,7 @@ peuvent pas être dissoutes ni retirées.
 [home/quest_list_090] Vous devez avoir trois équipes
 complètes avant de pouvoir continuer.
 [home/quest_list_091] Boîtes Surprise
-[home/quest_list_092] Obtenez via les Boîtes Surprise :
-[Name:QuestTitle ]
+[home/quest_list_092] Obtenez : [Name:QuestTitle ]
 [home/quest_list_093] débloquée !
 [home/quest_list_094] Zone d'entraînement
 [home/quest_list_095] Duo-Sphères Reçues ↑
@@ -58804,6 +60112,9 @@ nombre de fois.
 [home/quest_list_182] Défi contre
 les plus grands
 [home/quest_list_183] Ultime
+[home/quest_list_184] En cours
+[home/quest_list_185] Pass Rallye au max
+[home/quest_list_186] CHANCE
 [home/quest_detail_003] Faiblesse
 [home/quest_detail_005] Infos
 [home/quest_detail_009] Équipes
@@ -59850,6 +61161,126 @@ incompatibles avec certains combats.
 [home/score_attack_102] Vous pouvez obtenir les récompenses
 suivantes lorsque vous remportez
 chaque combat pour la première fois.
+[home/battle_rally_001] Rallye de combats
+[home/battle_rally_002] Défi
+[home/battle_rally_003] Effets des objets activés
+[home/battle_rally_004] Zone [Digit:3digits ]
+[home/battle_rally_005] Bonus
+[home/battle_rally_006] Terminez la zone [Digit:3digits ]
+[home/battle_rally_007] Soldes !
+[home/battle_rally_008] Équipe actuelle
+[home/battle_rally_009] Abandonner
+[home/battle_rally_010] Zone chance
+[home/battle_rally_011] Examiner
+[home/battle_rally_012] Pass Rallye de Combats au max
+[home/battle_rally_013] Bonus
+[home/battle_rally_014] Effets des objets
+activés
+[home/battle_rally_016] Zone [Digit:3digits ] [Name:QuestDifficulty ]
+[home/battle_rally_017] Détails des Points de Rallye
+[home/battle_rally_018] Points de Rallye de base
+[home/battle_rally_019] Bonus de rôle
+[home/battle_rally_020] Points de Rallye obtenus
+[home/battle_rally_021] Points de Rallye possédés
+[home/battle_rally_022] Objets utilisés
+[home/battle_rally_023] Rallye de
+combats
+terminé !
+[home/battle_rally_024] Résultats du rallye de combats
+[home/battle_rally_025] Terminé !
+[home/battle_rally_026] Abandon
+[home/battle_rally_027] Total des Points de Rallye obtenus
+[home/battle_rally_028] Total des Points de Rallye utilisés
+[home/battle_rally_029] Multiplicateur de conversion de points
+[home/battle_rally_030] Insignes de Rallye reçus
+[home/battle_rally_031] Utiliser un Pass Rallye de Combats
+pour participer à un rallye
+de combats ?
+[home/battle_rally_032] Remarque : Les Pass Rallye de Combats dont la date
+d'expiration est la plus proche seront utilisés en premier.
+[home/battle_rally_033] Vos Pass Rallye de Combats
+[home/battle_rally_034] Boutique du rallye
+[home/battle_rally_035] Vos Points de Rallye
+[home/battle_rally_036] Soldes
+[home/battle_rally_037] Épuisé
+[home/battle_rally_038] Objet limité
+[home/battle_rally_039] Détails
+[home/battle_rally_040] Échange
+[home/battle_rally_041] Bienvenue !
+Voici la sélection actuelle !
+[home/battle_rally_042] La sélection sera mise à jour
+dans chaque zone !
+[home/battle_rally_043] Faites attention ! Les objets limités
+ne peuvent être échangés que
+dans la zone où ils apparaissent.
+[home/battle_rally_044] Parfois, il y a des promotions sur
+certains objets ! Assurez-vous de
+ne pas les manquer !
+[home/battle_rally_045] Merci !
+[home/battle_rally_046] Effets des objets activés
+[home/battle_rally_047] Usage unique
+[home/battle_rally_048] Continu
+[home/battle_rally_049] Effet bonus
+[home/battle_rally_050] Rôles concernés :
+[home/battle_rally_051] Remarque : Gagner un combat avec des Duos bonus
+augmentera le nombre d'objets que vous pouvez
+obtenir.
+[home/battle_rally_052] Il vous faut un Pass Rallye de Combats
+pour relever ce défi. Vous pouvez en
+obtenir en tant que récompenses
+d'évènement, etc.
+[home/battle_rally_053] Utiliser une Médicassolette pour
+restaurer les PV de tous
+les Duos alliés ?
+[home/battle_rally_054] Utiliser un Régénérasteak pour
+restaurer les PPC de tous
+les Duos alliés ?
+[home/battle_rally_055] Utiliser les Programmelles pour rendre
+les ennemis de cette zone visibles ?
+[home/battle_rally_057] Pour récupérer des PV, vous avez
+besoin d'une Médicassolette. Vous
+pouvez échanger des objets du rallye
+de combats dans la boutique du rallye.
+
+[home/battle_rally_058] Pour récupérer des PPC, vous avez
+besoin d'un Régénérasteak. Vous
+pouvez échanger des objets du rallye
+de combats dans la boutique du rallye.
+
+[home/battle_rally_059] Pour voir les ennemis de cette zone,
+vous avez besoin des Programmelles.
+Vous pouvez échanger des objets
+du rallye de combats dans
+la boutique du rallye.
+[home/battle_rally_061] Cadeau d'encouragement
+[home/battle_rally_062] Vous avez reçu un cadeau car vous
+avez commencé un défi du rallye
+de combats.
+[home/battle_rally_063] Remarque : Les objets de renforcement reçus comme
+cadeaux sont choisis au hasard pour chaque défi.
+[home/battle_rally_064] Remarque : Vous ne récupèrerez pas vos Points de
+Rallye même si vous terminez un rallye de combats
+sans avoir utilisé cet objet.
+[home/battle_rally_065] Remarque : Les effets sont activés automatiquement
+une fois l'échange effectué.
+[home/battle_rally_066] Abandonner le défi en cours ?
+[home/battle_rally_067] Si vous abandonnez, vous ne pourrez pas recommencer
+au même endroit. Tous les effets des objets activés
+seront perdus et vous pourrez obtenir jusqu'à [Digit:3digits ] %
+de vos Points de Rallye obtenus convertis
+en Insignes de Rallye.
+[home/battle_rally_068] Compléter cette zone confirmera
+la composition actuelle de votre
+équipe pour ce défi.
+
+Voulez-vous continuer ?
+[home/battle_rally_069] Remarque : Une fois la composition confirmée,
+en retirer des Duos au prochain combat empêchera
+de les y ajouter à nouveau par la suite.
+[home/battle_rally_070] Points de Rallye actuels
+[home/battle_rally_071] Insignes de Rallye disponibles
+[home/battle_rally_072] Vous n'avez pas assez
+de Points de Rallye.
 
 ===========
 home_it.lsd
@@ -59877,6 +61308,7 @@ multigiocatore
 [home/quest_list_title_011] Lotte dei Campioni
 [home/quest_list_title_012] Aree aggiuntive
 [home/quest_list_title_013] Sfida l'asso
+[home/quest_list_title_014] Tour di lotta
 [home/quest_list_series_001] Il WPM
 [home/quest_list_series_002] I gruppi malvagi
 [home/quest_list_series_003] Nel corso di questa storia potrai fare squadra con diverse Unità
@@ -59980,7 +61412,7 @@ la squadra centrale.
 [home/quest_list_090] Devi scegliere i componenti di tutte e
 tre le squadre per affrontare la sfida.
 [home/quest_list_091] Vai alla Scrignocerca
-[home/quest_list_092] Ottieni "[Name:QuestTitle ]" dalla Scrignocerca!
+[home/quest_list_092] Ottieni "[Name:QuestTitle ]"!
 [home/quest_list_093] sbloccata!
 [home/quest_list_094] Aree allenamento
 [home/quest_list_095] Aumento Uniciondoli
@@ -60098,6 +61530,9 @@ specificata dello strumento indicato.
 [home/quest_list_181] Episodi Unità
 [home/quest_list_182] Sfida l'asso
 [home/quest_list_183] Supremo
+[home/quest_list_184] In corso
+[home/quest_list_185] Max Pass Tour di lotta
+[home/quest_list_186] BONUS
 [home/quest_detail_003] Punti deboli
 [home/quest_detail_005] Info area
 [home/quest_detail_009] Scegli squadra
@@ -61104,6 +62539,120 @@ soddisfare le condizioni delle regole sfida.
 [home/score_attack_101] Prima ricompensa
 [home/score_attack_102] Completando ciascuna lotta per la prima
 volta puoi ottenere le seguenti ricompense.
+[home/battle_rally_001] Tour di lotta
+[home/battle_rally_002] Sfida!
+[home/battle_rally_003] Effetti strumento attivi
+[home/battle_rally_004] Area [Digit:3digits ]
+[home/battle_rally_005] Bonus applicabile
+[home/battle_rally_006] Completa prima l'area [Digit:3digits ].
+[home/battle_rally_007] Offerta!
+[home/battle_rally_008] Squadra attuale
+[home/battle_rally_009] Rinuncia
+[home/battle_rally_010] Area fortunata
+[home/battle_rally_011] Scruta
+[home/battle_rally_012] Max Pass Tour di lotta
+[home/battle_rally_013] Bonus
+[home/battle_rally_014] Effetti strumento
+attivi
+[home/battle_rally_016] Area [Digit:3digits ] [Name:QuestDifficulty ]
+[home/battle_rally_017] Dettagli Punti Tour di lotta
+[home/battle_rally_018] Punti Tour di lotta base
+[home/battle_rally_019] Bonus ruoli
+[home/battle_rally_020] Punti Tour di lotta ottenuti
+[home/battle_rally_021] Punti Tour di lotta in possesso
+[home/battle_rally_022] Strumenti usati
+[home/battle_rally_023] Tour di lotta
+completato!
+[home/battle_rally_024] Risultati Tour di lotta
+[home/battle_rally_025] Completato!
+[home/battle_rally_026] Rinuncia
+[home/battle_rally_027] Totale Punti Tour di lotta ottenuti
+[home/battle_rally_028] Totale Punti Tour di lotta usati
+[home/battle_rally_029] Moltiplicatore conversione punti
+[home/battle_rally_030] Coccarde Tour di lotta ottenute
+[home/battle_rally_031] Vuoi usare un Pass Tour di lotta per
+intraprendere un Tour di lotta?
+[home/battle_rally_032] Nota: saranno usati per primi i Pass Tour di lotta
+la cui scadenza è più vicina.
+[home/battle_rally_033] Pass Tour di lotta in possesso
+[home/battle_rally_034] Negozio Tour di lotta
+[home/battle_rally_035] Punti Tour di lotta in possesso
+[home/battle_rally_036] In offerta
+[home/battle_rally_037] Esaurito
+[home/battle_rally_038] Limitato
+[home/battle_rally_039] Dettagli
+[home/battle_rally_040] Scambia
+[home/battle_rally_041] Ti do il benvenuto!
+Ecco il catalogo del giorno!
+[home/battle_rally_042] Il catalogo sarà aggiornato
+per ogni area!
+[home/battle_rally_043] Gli strumenti limitati si possono
+scambiare solo nell'area in cui
+appaiono, quindi fai attenzione!
+[home/battle_rally_044] A volte gli strumenti saranno
+in offerta! Dagli un'occhiata!
+[home/battle_rally_045] Grazie!
+[home/battle_rally_046] Effetti strumento attivi
+[home/battle_rally_047] Uso singolo
+[home/battle_rally_048] Duraturo
+[home/battle_rally_049] Effetti bonus
+[home/battle_rally_050] Ruoli idonei
+[home/battle_rally_051] Nota: vincere una lotta con Unità bonus in squadra
+aumenterà il numero di strumenti che puoi ottenere.
+[home/battle_rally_052] È necessario un Pass Tour di lotta
+per affrontare questa sfida.
+Li puoi ottenere come ricompense,
+ad esempio negli eventi.
+[home/battle_rally_053] Vuoi usare una Curatatouille
+per ripristinare completamente
+i PS di tutte le Unità alleate?
+[home/battle_rally_054] Vuoi usare una Recupolpetta
+per ripristinare completamente
+gli utilizzi delle mosse di tutte
+le Unità alleate?
+[home/battle_rally_055] Vuoi usare un Prossimocolo
+per rendere visibili gli avversari
+di quest'area?
+[home/battle_rally_057] Per far recuperare PS è necessaria
+una Curatatouille. Gli strumenti Tour
+di lotta sono ottenibili tramite
+lo scambio nel negozio Tour di lotta.
+[home/battle_rally_058] Per ripristinare gli utilizzi delle mosse
+è necessaria una Recupolpetta.
+Gli strumenti Tour di lotta sono
+ottenibili tramite lo scambio
+nel negozio Tour di lotta.
+[home/battle_rally_059] Per rendere visibili gli avversari
+di quest'area è necessario
+un Prossimocolo. Gli strumenti
+Tour di lotta sono ottenibili tramite
+lo scambio nel negozio Tour di lotta.
+[home/battle_rally_061] Regalo di incoraggiamento
+[home/battle_rally_062] Hai ottenuto un regalo per aver iniziato
+un Tour di lotta.
+[home/battle_rally_063] Nota: gli strumenti di rinforzo ottenuti come regalo
+sono scelti in modo casuale per ciascuna sfida.
+[home/battle_rally_064] Nota: i Punti Tour di lotta non ti saranno restituiti
+neppure se completi un Tour di lotta senza usare
+questo strumento.
+[home/battle_rally_065] Nota: gli effetti si attivano automaticamente
+a scambio avvenuto.
+[home/battle_rally_066] Vuoi rinunciare alla sfida attuale?
+[home/battle_rally_067] Se rinunci, non potrai ricominciare dallo stesso punto.
+Tutti gli effetti strumento attivi andranno perduti,
+e ci sarà una percentuale massima ([Digit:3digits ]%)
+di Punti Tour di lotta per i quali potrai ottenere
+Coccarde Tour di lotta.
+[home/battle_rally_068] Completare questa Guida area
+confermerà la tua squadra
+per questa sfida.
+
+Vuoi partire comunque?
+[home/battle_rally_069] Nota: una volta confermata la squadra, le Unità rimosse
+non potranno essere aggiunte di nuovo.
+[home/battle_rally_070] Punti Tour di lotta attuali
+[home/battle_rally_071] Coccarde Tour di lotta ottenibili
+[home/battle_rally_072] Punti Tour di lotta insufficienti.
 
 ===========
 home_ja.lsd
@@ -61131,6 +62680,7 @@ home_ja.lsd
 [home/quest_list_title_011] チャンピオンバトル
 [home/quest_list_title_012] サイドエリア
 [home/quest_list_title_013] 強者への挑戦
+[home/quest_list_title_014] バトルラリー
 [home/quest_list_series_001] WPM編
 [home/quest_list_series_002] 悪の組織編
 [home/quest_list_series_003] 様々なバディーズと　仲間になり　ワールドポケモンマスターズで
@@ -61234,8 +62784,7 @@ Lv.[Digit:2digits ]で解放
 [home/quest_list_090] 3チームが編成されていないため
 出発できません
 [home/quest_list_091] ボックスサーチへ
-[home/quest_list_092] ボックスサーチから獲得できる
-「[Name:QuestTitle ]」
+[home/quest_list_092] 「[Name:QuestTitle ]」
 を入手しよう！
 [home/quest_list_093] 解放！
 [home/quest_list_094] トレーニングエリア
@@ -61350,6 +62899,9 @@ Lv.[Digit:2digits ]で解放
 [home/quest_list_181] バディーズエピソード
 [home/quest_list_182] 強者への挑戦
 [home/quest_list_183] ULTIMATE
+[home/quest_list_184] 挑戦中
+[home/quest_list_185] ラリーパス所持数MAX
+[home/quest_list_186] LUCKY
 [home/quest_detail_003] じゃくてんタイプ
 [home/quest_detail_005] エリア詳細
 [home/quest_detail_009] チーム選択
@@ -62333,6 +63885,117 @@ GRADE一覧に戻ります
 [home/score_attack_101] 初回報酬
 [home/score_attack_102] それぞれのバトルを初めてクリアすると
 以下の報酬が獲得できます
+[home/battle_rally_001] バトルラリー
+[home/battle_rally_002] 挑戦する
+[home/battle_rally_003] 発動中のどうぐ効果
+[home/battle_rally_004] エリア [Digit:3digits ]
+[home/battle_rally_005] ボーナス対象
+[home/battle_rally_006] エリア [Digit:3digits ]クリアで解放
+[home/battle_rally_007] セール中!
+[home/battle_rally_008] 挑戦中のチーム
+[home/battle_rally_009] ギブアップ
+[home/battle_rally_010] ラッキーエリア
+[home/battle_rally_011] 調査する
+[home/battle_rally_012] バトルラリーパス所持数MAX
+[home/battle_rally_013] ボーナス
+[home/battle_rally_014] 発動中
+どうぐ効果
+[home/battle_rally_016] エリア [Digit:3digits ]　[Name:QuestDifficulty ]
+[home/battle_rally_017] ラリーポイント詳細
+[home/battle_rally_018] 基本ラリーpt
+[home/battle_rally_019] ロールボーナス
+[home/battle_rally_020] 獲得ラリーpt
+[home/battle_rally_021] 所持ラリーpt
+[home/battle_rally_022] 消費どうぐ
+[home/battle_rally_023] バトルラリー
+クリア!!
+[home/battle_rally_024] バトルラリーリザルト
+[home/battle_rally_025] クリア!!
+[home/battle_rally_026] ギブアップ
+[home/battle_rally_027] 累計獲得ラリーpt
+[home/battle_rally_028] 累計消費ラリーpt
+[home/battle_rally_029] pt変換倍率
+[home/battle_rally_030] 獲得したバトルラリーの勲章
+[home/battle_rally_031] バトルラリーパスを1枚消費して
+バトルラリーに挑戦しますか？
+[home/battle_rally_032] ※所持期限の終了日時が近い
+バトルラリーパスを優先して消費します
+[home/battle_rally_033] 所持バトルラリーパス
+[home/battle_rally_034] ラリーショップ
+[home/battle_rally_035] 所持ラリーpt
+[home/battle_rally_036] セール中
+[home/battle_rally_037] 売り切れ
+[home/battle_rally_038] 限定商品
+[home/battle_rally_039] 詳細
+[home/battle_rally_040] 交換
+[home/battle_rally_041] いらっしゃいませ！
+現在のラインナップはこちらですよ！
+[home/battle_rally_042] ラインナップはエリアごとに
+更新されますよ！
+[home/battle_rally_043] 限定商品はそのエリアでしか
+交換できないから気をつけてね！
+[home/battle_rally_044] ときどきセールもしているので
+チェックしてみてね！
+[home/battle_rally_045] ありがとうございます！
+[home/battle_rally_046] 発動中どうぐ効果
+[home/battle_rally_047] 使いきり
+[home/battle_rally_048] 永続
+[home/battle_rally_049] ボーナス効果
+[home/battle_rally_050] 対象ロール
+[home/battle_rally_051] ※ボーナスがつくバディーズを編成して
+バトルに勝利すると
+対象どうぐの獲得数が増加します
+[home/battle_rally_052] 挑戦するには
+バトルラリーパスが必要です
+バトルラリーパスは
+イベント報酬などで獲得できます
+[home/battle_rally_053] 「ヒーリングリル」を使用して
+バディーズ全員のHPを
+全回復できます
+使用しますか？
+[home/battle_rally_054] 「リカバーグ」を使用して
+バディーズ全員のわざの回数を
+全回復できます
+使用しますか？
+[home/battle_rally_055] 「サキミエール」を使用して
+このエリアの相手を
+確認できるようにします
+使用しますか？
+[home/battle_rally_057] HPを回復するには
+「ヒーリングリル」が必要です
+バトルラリー専用どうぐは
+ラリーショップで交換可能です
+[home/battle_rally_058] わざの回数を回復するには
+「リカバーグ」が必要です
+バトルラリー専用どうぐは
+ラリーショップで交換可能です
+[home/battle_rally_059] このエリアの相手を確認するには
+「サキミエール」が必要です
+バトルラリー専用どうぐは
+ラリーショップで交換可能です
+[home/battle_rally_061] おうえんプレゼント
+[home/battle_rally_062] バトルラリー挑戦開始時の
+プレゼントを受け取りました
+[home/battle_rally_063] ※プレゼントされる強化どうぐは
+挑戦のたびにランダムで決まります
+[home/battle_rally_064] ※使用せずにバトルラリーを終了しても
+ラリーptは返還されません
+[home/battle_rally_065] ※交換すると自動で効果を発動します
+[home/battle_rally_066] 今回の挑戦をギブアップしますか？
+[home/battle_rally_067] ギブアップすると途中から再開することは
+できなくなります
+また発動どうぐ効果は全て失われ
+獲得したラリーptの[Digit:3digits ]%を
+バトルラリーの勲章として獲得できます
+[home/battle_rally_068] このエリア情報をクリアすると
+今回の挑戦のチーム編成が確定します
+
+出発しますか？
+[home/battle_rally_069] ※編成が確定すると編成から外したバディーズを
+再度編成できなくなります
+[home/battle_rally_070] 現在のラリーpt
+[home/battle_rally_071] 獲得できるバトルラリーの勲章
+[home/battle_rally_072] ラリーptが足りません
 
 ===========
 home_ko.lsd
@@ -62360,6 +64023,7 @@ home_ko.lsd
 [home/quest_list_title_011] 챔피언배틀
 [home/quest_list_title_012] 사이드 에리어
 [home/quest_list_title_013] 강자에게 도전
+[home/quest_list_title_014] 배틀 랠리
 [home/quest_list_series_001] WPM 편
 [home/quest_list_series_002] 악의 조직 편
 [home/quest_list_series_003] 다양한 버디즈와 동료가 되고 월드 포켓몬 마스터즈에서
@@ -62463,8 +64127,7 @@ Lv.[Digit:2digits ]에서 해방
 [home/quest_list_090] 세 팀이 편성되지 않았기 때문에
 출발할 수 없습니다
 [home/quest_list_091] 박스서치로
-[home/quest_list_092] 박스서치에서 획득할 수 있는
-"[Name:QuestTitle ]"[Kor:Particle char="wo" ]
+[home/quest_list_092] "[Name:QuestTitle ]"[Kor:Particle char="wo" ]
 획득하자!
 [home/quest_list_093] 해방!
 [home/quest_list_094] 트레이닝 에리어
@@ -62579,6 +64242,9 @@ Lv.[Digit:2digits ]에서 해방
 [home/quest_list_181] 버디즈 에피소드
 [home/quest_list_182] 강자에게 도전
 [home/quest_list_183] ULTIMATE
+[home/quest_list_184] 도전 중
+[home/quest_list_185] 랠리 패스 보유 수량 MAX
+[home/quest_list_186] LUCKY
 [home/quest_detail_003] 약점타입
 [home/quest_detail_005] 에리어 상세
 [home/quest_detail_009] 팀 선택
@@ -63533,6 +65199,117 @@ WPM배지를 모두 모으면
 [home/score_attack_101] 첫 클리어 보상
 [home/score_attack_102] 각각 배틀을 처음 클리어하면
 아래 보상을 획득할 수 있습니다
+[home/battle_rally_001] 배틀 랠리
+[home/battle_rally_002] 도전한다
+[home/battle_rally_003] 발동 중인 도구 효과
+[home/battle_rally_004] 에리어 [Digit:3digits ]
+[home/battle_rally_005] 보너스 대상
+[home/battle_rally_006] 에리어 [Digit:3digits ] 클리어 시 해방
+[home/battle_rally_007] 세일 중!
+[home/battle_rally_008] 도전 중인 팀
+[home/battle_rally_009] 포기
+[home/battle_rally_010] 럭키 에리어
+[home/battle_rally_011] 조사한다
+[home/battle_rally_012] 배틀 랠리 패스 보유 수량 MAX
+[home/battle_rally_013] 보너스
+[home/battle_rally_014] 발동 중인
+도구 효과
+[home/battle_rally_016] 에리어 [Digit:3digits ] [Name:QuestDifficulty ]
+[home/battle_rally_017] 랠리포인트 상세
+[home/battle_rally_018] 기본 랠리pt
+[home/battle_rally_019] 롤 보너스
+[home/battle_rally_020] 획득 랠리pt
+[home/battle_rally_021] 보유 랠리pt
+[home/battle_rally_022] 소비 도구
+[home/battle_rally_023] 배틀 랠리
+클리어!!
+[home/battle_rally_024] 배틀 랠리 결과
+[home/battle_rally_025] 클리어!!
+[home/battle_rally_026] 포기
+[home/battle_rally_027] 합계 획득 랠리pt
+[home/battle_rally_028] 합계 소비 랠리pt
+[home/battle_rally_029] pt 교환 배율
+[home/battle_rally_030] 획득한 배틀 랠리 훈장
+[home/battle_rally_031] 배틀 랠리 패스를 1장 사용하여
+배틀 랠리에 도전하겠습니까?
+[home/battle_rally_032] ※보유 기한의 종료 날짜가 가까운
+배틀 랠리 패스를 우선해서 사용합니다
+[home/battle_rally_033] 보유 배틀 랠리 패스
+[home/battle_rally_034] 랠리 숍
+[home/battle_rally_035] 보유 랠리pt
+[home/battle_rally_036] 세일 중
+[home/battle_rally_037] 매진
+[home/battle_rally_038] 한정 상품
+[home/battle_rally_039] 상세
+[home/battle_rally_040] 교환
+[home/battle_rally_041] 어서 오세요!
+상품은 이쪽에 있습니다!
+[home/battle_rally_042] 라인업은 에리어별로
+갱신된답니다!
+[home/battle_rally_043] 한정 상품은 그 에리어에서만
+교환할 수 있으니 주의하세요!
+[home/battle_rally_044] 가끔 세일도 하고 있으니
+잘 체크해 보세요!
+[home/battle_rally_045] 감사합니다!
+[home/battle_rally_046] 발동 중인 도구 효과
+[home/battle_rally_047] 소모성
+[home/battle_rally_048] 영구 지속
+[home/battle_rally_049] 보너스 효과
+[home/battle_rally_050] 대상 롤
+[home/battle_rally_051] ※보너스가 생기는 버디즈를 편성하여
+배틀에서 승리하면
+대상 도구의 획득 수가 증가합니다
+[home/battle_rally_052] 도전하기 위해서는
+배틀 랠리 패스가 필요합니다
+배틀 랠리 패스는
+이벤트 보상 등으로 획득할 수 있습니다
+[home/battle_rally_053] "힐링그릴"을 사용하여
+버디즈 전원의 HP를
+모두 회복할 수 있습니다
+사용하겠습니까?
+[home/battle_rally_054] "리커버그"를 사용하여
+버디즈 전원의 기술횟수를
+모두 회복할 수 있습니다
+사용하겠습니까?
+[home/battle_rally_055] "내-다보기"를 사용해
+이 에리어의 상대를
+확인할 수 있는 상태로 만듭니다
+사용하겠습니까?
+[home/battle_rally_057] HP를 회복하기 위해서는
+"힐링그릴"이 필요합니다
+배틀 랠리 전용 도구는
+랠리 숍에서 교환할 수 있습니다
+[home/battle_rally_058] 기술횟수를 회복하기 위해서는
+"리커버그"가 필요합니다
+배틀 랠리 전용 도구는
+랠리 숍에서 교환할 수 있습니다
+[home/battle_rally_059] 이 에리어의 상대를 확인하기 위해서는
+"내-다보기"가 필요합니다
+배틀 랠리 전용 도구는
+랠리 숍에서 교환할 수 있습니다
+[home/battle_rally_061] 응원 선물
+[home/battle_rally_062] 배틀 랠리 도전 시작 시의
+선물을 받았습니다
+[home/battle_rally_063] ※선물로 지급되는 강화 도구는
+도전할 때마다 랜덤으로 결정됩니다
+[home/battle_rally_064] ※사용하지 않고 배틀 랠리를 종료해도
+랠리pt는 반환되지 않습니다
+[home/battle_rally_065] ※교환하면 자동으로 효과를 발동합니다
+[home/battle_rally_066] 이번 도전을 포기하겠습니까?
+[home/battle_rally_067] 포기하면 포기한 시점부터는
+재개할 수 없게 됩니다
+또한 발동 중인 도구 효과는 모두 사라지고
+획득한 랠리pt의 [Digit:3digits ]%를
+배틀 랠리 훈장으로 획득할 수 있습니다
+[home/battle_rally_068] 이 에리어 정보를 클리어하면
+이번 도전의 팀 편성이 확정됩니다
+
+출발하겠습니까?
+[home/battle_rally_069] ※편성이 확정되면 편성에서 제외한 버디즈를
+다시 편성할 수 없게 됩니다
+[home/battle_rally_070] 현재 랠리pt
+[home/battle_rally_071] 획득할 수 있는 배틀 랠리 훈장
+[home/battle_rally_072] 랠리pt가 부족합니다
 
 ===========
 home_zh-TW.lsd
@@ -63560,6 +65337,7 @@ home_zh-TW.lsd
 [home/quest_list_title_011] 冠軍對戰
 [home/quest_list_title_012] 旁支區域
 [home/quest_list_title_013] 向高手挑戰
+[home/quest_list_title_014] 對戰接力
 [home/quest_list_series_001] WPM篇
 [home/quest_list_series_002] 邪惡組織篇
 [home/quest_list_series_003] 這是一段與許多不同的拍組成為夥伴，
@@ -63659,7 +65437,7 @@ home_zh-TW.lsd
 [home/quest_list_090] 尚未編制3組隊伍
 無法出發
 [home/quest_list_091] 前往開箱搜尋
-[home/quest_list_092] 從開箱搜尋來獲得
+[home/quest_list_092] 獲得
 「[Name:QuestTitle ]」吧！
 [home/quest_list_093] 開放！
 [home/quest_list_094] 訓練區域
@@ -63774,6 +65552,9 @@ home_zh-TW.lsd
 [home/quest_list_181] 拍組劇情
 [home/quest_list_182] 向高手挑戰
 [home/quest_list_183] ULTIMATE
+[home/quest_list_184] 挑戰中
+[home/quest_list_185] 接力證持有數MAX
+[home/quest_list_186] LUCKY
 [home/quest_detail_003] 弱點屬性
 [home/quest_detail_005] 區域詳情
 [home/quest_detail_009] 選擇隊伍
@@ -64692,6 +66473,114 @@ GRADE的獎勵報酬
 [home/score_attack_101] 首次過關報酬
 [home/score_attack_102] 首次成功過關各個對戰時
 可獲得下列報酬
+[home/battle_rally_001] 對戰接力
+[home/battle_rally_002] 挑戰
+[home/battle_rally_003] 發動中的道具效果
+[home/battle_rally_004] 區域[Digit:3digits ]
+[home/battle_rally_005] 獎勵對象
+[home/battle_rally_006] 開放條件：
+成功過關區域[Digit:3digits ]
+[home/battle_rally_007] 促銷中！
+[home/battle_rally_008] 挑戰中的隊伍
+[home/battle_rally_009] 放棄
+[home/battle_rally_010] 幸運區域
+[home/battle_rally_011] 調查
+[home/battle_rally_012] 對戰接力證持有數MAX
+[home/battle_rally_013] 獎勵
+[home/battle_rally_014] 發動中
+道具效果
+[home/battle_rally_016] 區域[Digit:3digits ]　[Name:QuestDifficulty ]
+[home/battle_rally_017] 接力點數詳情
+[home/battle_rally_018] 基本接力點數
+[home/battle_rally_019] 體系獎勵
+[home/battle_rally_020] 獲得的接力點數
+[home/battle_rally_021] 持有的接力點數
+[home/battle_rally_022] 消耗道具
+[home/battle_rally_023] 對戰接力
+過關！！
+[home/battle_rally_024] 對戰接力結果
+[home/battle_rally_025] 過關！！
+[home/battle_rally_026] 放棄
+[home/battle_rally_027] 獲得的接力點數總計
+[home/battle_rally_028] 消耗的接力點數總計
+[home/battle_rally_029] 點數轉換倍率
+[home/battle_rally_030] 獲得的對戰接力勳章
+[home/battle_rally_031] 確定要消耗1張對戰接力證
+來挑戰對戰接力嗎？
+[home/battle_rally_032] ※將優先消耗最接近
+使用期限的對戰接力證
+[home/battle_rally_033] 持有對戰接力證
+[home/battle_rally_034] 接力商店
+[home/battle_rally_035] 持有的接力點數
+[home/battle_rally_036] 促銷中
+[home/battle_rally_037] 售完
+[home/battle_rally_038] 限定商品
+[home/battle_rally_039] 詳情
+[home/battle_rally_040] 交換
+[home/battle_rally_041] 歡迎光臨！
+目前提供的品項有這些！
+[home/battle_rally_042] 提供的品項會隨著
+區域更新喔！
+[home/battle_rally_043] 如果是限定商品
+就只能在該區域交換，
+小心不要漏掉囉！
+[home/battle_rally_044] 有時候也會推出促銷，
+別忘了確認喔！
+[home/battle_rally_045] 謝謝！
+[home/battle_rally_046] 發動中的道具效果
+[home/battle_rally_047] 一次性
+[home/battle_rally_048] 永久
+[home/battle_rally_049] 獎勵效果
+[home/battle_rally_050] 對象體系
+[home/battle_rally_051] ※在對戰中編制附帶獎勵效果的拍組並取勝
+所獲得之指定道具的數量會增加
+[home/battle_rally_052] 需要有「對戰接力證」
+才能挑戰
+「對戰接力證」可以透過
+活動報酬等獲得
+[home/battle_rally_053] 可使用「治癒燒烤」
+完全回復我方全體拍組的HP
+要使用嗎？
+[home/battle_rally_054] 可使用「回復肉排」
+完全回復我方全體拍組的招式次數
+要使用嗎？
+[home/battle_rally_055] 可使用「先知望遠鏡」
+確認此區域的對手
+要使用嗎？
+[home/battle_rally_057] 需要有「治癒燒烤」
+才能回復HP
+對戰接力專用道具
+可以在接力商店交換
+[home/battle_rally_058] 需要有「回復肉排」
+才能回復招式的次數
+對戰接力專用道具
+可以在接力商店交換
+[home/battle_rally_059] 需要有「先知望遠鏡」
+才能確認此區域的對手
+對戰接力專用道具
+可以在接力商店交換
+[home/battle_rally_061] 聲援禮物
+[home/battle_rally_062] 已領取開始挑戰
+對戰接力的禮物
+[home/battle_rally_063] ※可收到的強化道具禮物
+會在每次挑戰時隨機決定
+[home/battle_rally_064] ※未使用的接力點數在對戰接力結束後
+也不會歸還
+[home/battle_rally_065] ※交換後將自動發動效果
+[home/battle_rally_066] 要放棄這次挑戰嗎？
+[home/battle_rally_067] 放棄後將無法從途中再度開始挑戰
+此外，發動的道具效果會全部失效
+已獲得的接力點數的[Digit:3digits ]%
+會轉換成對戰接力勳章來獲得
+[home/battle_rally_068] 在成功過關此區域資訊後
+本次挑戰的編制隊伍就會確定
+
+確定要出發嗎？
+[home/battle_rally_069] ※編制確定後，從編制隊伍中
+移除的拍組將無法再次加入
+[home/battle_rally_070] 目前的接力點數
+[home/battle_rally_071] 能獲得的對戰接力勳章
+[home/battle_rally_072] 接力點數不足
 
 ===========
 shop_de.lsd
@@ -65002,6 +66891,8 @@ eingetauscht werden.
 [shop/shop_itemexchange_055] Ausrüstung
 [shop/shop_itemexchange_056] Legenden-Abenteuer
 [shop/shop_itemexchange_057] Alte Items
+[shop/shop_itemexchange_058] Kampfrallye
+[shop/shop_itemexchange_059] Rallye
 [shop/scout_001] Gefährtensuche
 [shop/scout_002] G-Suche-
 Punkte
@@ -65825,6 +67716,8 @@ for this exchange?
 [shop/shop_itemexchange_055] Gear
 [shop/shop_itemexchange_056] Legendary Adventures
 [shop/shop_itemexchange_057] Old Items
+[shop/shop_itemexchange_058] Battle Rally
+[shop/shop_itemexchange_059] Rally
 [shop/scout_001] Sync Pair Scout
 [shop/scout_002] Scout
 Points
@@ -66519,6 +68412,8 @@ de este objeto.
 [shop/shop_itemexchange_055] Accesorios
 [shop/shop_itemexchange_056] Trama P. legen.
 [shop/shop_itemexchange_057] Obj. antiguos
+[shop/shop_itemexchange_058] Yincana de Combates
+[shop/shop_itemexchange_059] Yincana
 [shop/scout_001] Reclutamiento
 [shop/scout_002] Puntos
 reclut.
@@ -67178,6 +69073,8 @@ de ce type à la fois.
 [shop/shop_itemexchange_055] Équipement
 [shop/shop_itemexchange_056] Les Pokémon légendaires
 [shop/shop_itemexchange_057] Vieux objets
+[shop/shop_itemexchange_058] Rallye de combats
+[shop/shop_itemexchange_059] Rallye
 [shop/scout_001] Appel Duo
 [shop/scout_002] Pts d'Appel
 Duo
@@ -67863,6 +69760,8 @@ scambiato.
 [shop/shop_itemexchange_055] Accessori
 [shop/shop_itemexchange_056] I Pokémon leggendari
 [shop/shop_itemexchange_057] Vecchi strumenti
+[shop/shop_itemexchange_058] Tour di lotta
+[shop/shop_itemexchange_059] Tour di lotta
 [shop/scout_001] Ricerca Unità
 [shop/scout_002] Punti
 Unicerca
@@ -68628,6 +70527,8 @@ SP報酬が解放されるおとくなパック！
 [shop/shop_itemexchange_055] 装備
 [shop/shop_itemexchange_056] 伝説ポケモン編
 [shop/shop_itemexchange_057] 古いどうぐ
+[shop/shop_itemexchange_058] バトルラリー
+[shop/shop_itemexchange_059] ラリー
 [shop/scout_001] バディーズサーチ
 [shop/scout_002] Ｂサーチ
 ポイント
@@ -69369,6 +71270,8 @@ SP 보상이 해방되는 유용한 팩!
 [shop/shop_itemexchange_055] 장비
 [shop/shop_itemexchange_056] 전설 포켓몬 편
 [shop/shop_itemexchange_057] 낡은 도구
+[shop/shop_itemexchange_058] 배틀 랠리
+[shop/shop_itemexchange_059] 랠리
 [shop/scout_001] 버디즈서치
 [shop/scout_002] B서치
 포인트
@@ -70131,6 +72034,8 @@ shop_zh-TW.lsd
 [shop/shop_itemexchange_055] 裝備
 [shop/shop_itemexchange_056] 傳說的寶可夢篇
 [shop/shop_itemexchange_057] 舊道具
+[shop/shop_itemexchange_058] 對戰接力
+[shop/shop_itemexchange_059] 接力
 [shop/scout_001] 拍組搜尋
 [shop/scout_002] 拍組搜尋
 點數
