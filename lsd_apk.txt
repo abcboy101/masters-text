@@ -5381,6 +5381,8 @@ erfolgreichen Trainings
 [quest_group_title_10126100000] MaMo-Maike
 [quest_group_title_10217000000] LeBelle
 [quest_group_title_10222000000] Jördis
+[quest_group_title_10090100000] MaMo-Troy
+[quest_group_title_10140800000] Giovanni (Klassisch)
 [quest_group_detail_100104] Himmel, Erde und Meer
 [quest_title_1030440600116011] Vs. Ulrich
 [quest_title_1030440600109011] Vs. Antonia
@@ -5397,16 +5399,48 @@ erfolgreichen Trainings
 [quest_title_1030110000470400] Unabänderliche Prinzipien
 [quest_title_1030110000470900] Vs. Team Aqua 2
 [quest_title_1030110000470500] Unkontrollierbare Kräfte
+[quest_title_1030110000480100] Der kosmische Passagier
+[quest_title_1030110000480600] Vs. Team Magma 3
+[quest_title_1030110000480200] Marc und Adrian
+[quest_title_1030110000480700] Vs. Team Aqua 3
+[quest_title_1030110000480300] Wunder der Natur
+[quest_title_1030110000480800] Vs. Team Magma 4
+[quest_title_1030110000480400] Die Zerstörung des Meteors
+[quest_title_1030110000480900] Vs. Jördis und Wolfgang
+[quest_title_1030110000480500] Drahtzieher des Chaos
 [quest_title_1030407000601010] Vs. Team Magma 1
 [quest_title_1030407000601020] Vs. Team Magma 2
 [quest_title_1030407000601030] Vs. Team Magma 3
 [quest_title_1030407000601040] Täglicher schwerer Kampf
 [quest_title_1030407000601050] Herausforderungskampf 1
 [quest_title_1030407000601060] Herausforderungskampf 2
+[quest_title_1030407500602010] Vs. Team Aqua 1
+[quest_title_1030407500602020] Vs. Team Aqua 2
+[quest_title_1030407500602030] Vs. Team Aqua 3
+[quest_title_1030407500602040] Täglicher schwerer Kampf
+[quest_title_1030407500602050] Herausforderungskampf 1
+[quest_title_1030407500602060] Herausforderungskampf 2
 [quest_title_1030407000602010] Stelle dich Amalia! 1
 [quest_title_1030407000602020] Stelle dich Amalia! 2
 [quest_title_1030407000602030] Stelle dich Heiko! 1
 [quest_title_1030407000602040] Stelle dich Heiko! 2
+[quest_title_1030407500602070] Stelle dich LeBelle! 1
+[quest_title_1030407500602080] Stelle dich LeBelle! 2
+[quest_title_1030440750101010] Täglicher Kampf um
+Geschenke
+[quest_title_1030440750101011] Spezieller Kampf um
+Geschenke 1
+[quest_title_1030440750105011] Spezieller Kampf um
+Geschenke 2
+[quest_title_1030440750109011] Spezieller Kampf um
+Geschenke 3
+[quest_title_1030440750113011] Spezieller Kampf um
+Geschenke 4
+[quest_title_1030407500601010] Team Rockets Ziele
+[quest_title_1030407500601020] Vs. Trainer aus Passio 1
+[quest_title_1030407500601030] Vs. Trainer aus Passio 2
+[quest_title_1030407500601040] Vs. Trainer aus Passio 3
+[quest_title_1030407500601050] Vs. Trainer aus Passio 4
 [quest_title_1030440700401010] Vs. Trainer aus Passio 1
 [quest_title_1030440700402010] Vs. Trainer aus Passio 2
 [quest_title_1030440700403010] Vs. Trainer aus Passio 3
@@ -5415,6 +5449,7 @@ erfolgreichen Trainings
 [quest_title_1030220126100000] Ein Tag mit MaMo-Maike
 [quest_title_1030220217000000] Ein Tag mit LeBelle
 [quest_title_1030220222000000] Ein Tag mit Jördis
+[quest_title_1030220090100000] Ein Tag mit MaMo-Troy
 
 ===========
 story_quest_name_en.lsd
@@ -7828,6 +7863,8 @@ story_quest_name_en.lsd
 [quest_group_title_10126100000] Sygna Suit May
 [quest_group_title_10217000000] Looker
 [quest_group_title_10222000000] Courtney
+[quest_group_title_10090100000] Sygna Suit Steven
+[quest_group_title_10140800000] Giovanni (Classic)
 [quest_group_detail_100104] Delta of Land, Sea, and Sky
 [quest_title_1030440600116011] Sidney
 [quest_title_1030440600109011] Phoebe
@@ -7844,16 +7881,43 @@ story_quest_name_en.lsd
 [quest_title_1030110000470400] Justice Serving Beliefs
 [quest_title_1030110000470900] Challenge Team Aqua: Part 2
 [quest_title_1030110000470500] Uncontrollable Power
+[quest_title_1030110000480100] The Meteor’s Passenger
+[quest_title_1030110000480600] Challenge Team Magma: Part 3
+[quest_title_1030110000480200] Maxie and Archie
+[quest_title_1030110000480700] Challenge Team Aqua: Part 3
+[quest_title_1030110000480300] The Terrifying Power of Nature
+[quest_title_1030110000480800] Challenge Team Magma: Part 4
+[quest_title_1030110000480400] Destroy the Meteor
+[quest_title_1030110000480900] Challenge Courtney and Matt
+[quest_title_1030110000480500] In the Shadows of Pasio’s Crisis
 [quest_title_1030407000601010] Challenge Team Magma: Part 1
 [quest_title_1030407000601020] Challenge Team Magma: Part 2
 [quest_title_1030407000601030] Challenge Team Magma: Part 3
 [quest_title_1030407000601040] Daily Extreme Battle 1
 [quest_title_1030407000601050] Battle Challenge! Round 1
 [quest_title_1030407000601060] Battle Challenge! Round 2
+[quest_title_1030407500602010] Challenge Team Aqua: Part 1
+[quest_title_1030407500602020] Challenge Team Aqua: Part 2
+[quest_title_1030407500602030] Challenge Team Aqua: Part 3
+[quest_title_1030407500602040] Daily Extreme Battle 1
+[quest_title_1030407500602050] Battle Challenge! Round 1
+[quest_title_1030407500602060] Battle Challenge! Round 2
 [quest_title_1030407000602010] Take On Zinnia! Part 1
 [quest_title_1030407000602020] Take On Zinnia! Part 2
 [quest_title_1030407000602030] Take On Wally! Part 1
 [quest_title_1030407000602040] Take On Wally! Part 2
+[quest_title_1030407500602070] Take On Looker! Part 1
+[quest_title_1030407500602080] Take On Looker! Part 2
+[quest_title_1030440750101010] Daily Present Battle
+[quest_title_1030440750101011] Special Present Battle 1
+[quest_title_1030440750105011] Special Present Battle 2
+[quest_title_1030440750109011] Special Present Battle 3
+[quest_title_1030440750113011] Special Present Battle 4
+[quest_title_1030407500601010] Team Rocket’s Ambition
+[quest_title_1030407500601020] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030407500601030] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030407500601040] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030407500601050] Challenge Pasio’s Trainers: Part 4
 [quest_title_1030440700401010] Challenge Pasio’s Trainers: Part 1
 [quest_title_1030440700402010] Challenge Pasio’s Trainers: Part 2
 [quest_title_1030440700403010] Challenge Pasio’s Trainers: Part 3
@@ -7862,6 +7926,7 @@ story_quest_name_en.lsd
 [quest_title_1030220126100000] A Day with Sygna Suit May
 [quest_title_1030220217000000] A Day with Looker
 [quest_title_1030220222000000] A Day with Courtney
+[quest_title_1030220090100000] A Day with Sygna Suit Steven
 
 ===========
 story_quest_name_es.lsd
@@ -10483,6 +10548,8 @@ entrenar
 [quest_group_title_10126100000] Aura (Traje S)
 [quest_group_title_10217000000] Handsome
 [quest_group_title_10222000000] Carola
+[quest_group_title_10090100000] Máximo (Traje S)
+[quest_group_title_10140800000] Giovanni (Kanto)
 [quest_group_detail_100104] Tierra, océano y cielo
 [quest_title_1030440600116011] VS. Sixto
 [quest_title_1030440600109011] VS. Fátima
@@ -10502,16 +10569,49 @@ ancestrales
 irrenunciable
 [quest_title_1030110000470900] VS. Equipo Aqua (2)
 [quest_title_1030110000470500] Un poder desbocado
+[quest_title_1030110000480100] A lomos de un meteorito
+[quest_title_1030110000480600] VS. Equipo Magma (3)
+[quest_title_1030110000480200] Magno y Aquiles
+[quest_title_1030110000480700] VS. Equipo Aqua (3)
+[quest_title_1030110000480300] El devastador poder de la
+naturaleza
+[quest_title_1030110000480800] VS. Equipo Magma (4)
+[quest_title_1030110000480400] La destrucción del meteorito
+[quest_title_1030110000480900] VS. Carola y Matías
+[quest_title_1030110000480500] En las sombras de la crisis
+de Passio
 [quest_title_1030407000601010] VS. Equipo Magma
 [quest_title_1030407000601020] VS. Equipo Magma (2)
 [quest_title_1030407000601030] VS. Equipo Magma (3)
 [quest_title_1030407000601040] ¡Un combate difícil al día!
 [quest_title_1030407000601050] ¡Un combate desafiante!
 [quest_title_1030407000601060] ¡Un combate desafiante! (2)
+[quest_title_1030407500602010] VS. Equipo Aqua
+[quest_title_1030407500602020] VS. Equipo Aqua (2)
+[quest_title_1030407500602030] VS. Equipo Aqua (3)
+[quest_title_1030407500602040] ¡Un combate difícil al día!
+[quest_title_1030407500602050] ¡Un combate desafiante!
+[quest_title_1030407500602060] ¡Un combate desafiante! (2)
 [quest_title_1030407000602010] ¡Enfréntate a Tristana!
 [quest_title_1030407000602020] ¡Enfréntate a Tristana! (2)
 [quest_title_1030407000602030] ¡Enfréntate a Blasco!
 [quest_title_1030407000602040] ¡Enfréntate a Blasco! (2)
+[quest_title_1030407500602070] ¡Enfréntate a Handsome!
+[quest_title_1030407500602080] ¡Enfréntate a Handsome! (2)
+[quest_title_1030440750101010] ¡Combate diario con regalos!
+[quest_title_1030440750101011] ¡Combate especial con
+regalos!
+[quest_title_1030440750105011] ¡Combate especial con
+regalos! (2)
+[quest_title_1030440750109011] ¡Combate especial con
+regalos! (3)
+[quest_title_1030440750113011] ¡Combate especial con
+regalos! (4)
+[quest_title_1030407500601010] El objetivo del Team Rocket
+[quest_title_1030407500601020] VS. Entrenadores de Passio
+[quest_title_1030407500601030] VS. Entrenadores de Passio (2)
+[quest_title_1030407500601040] VS. Entrenadores de Passio (3)
+[quest_title_1030407500601050] VS. Entrenadores de Passio (4)
 [quest_title_1030440700401010] VS. Entrenadores de Passio
 [quest_title_1030440700402010] VS. Entrenadores de Passio (2)
 [quest_title_1030440700403010] VS. Entrenadores de Passio (3)
@@ -10520,6 +10620,7 @@ irrenunciable
 [quest_title_1030220126100000] Un día con Aura (Traje S)
 [quest_title_1030220217000000] Un día con Handsome
 [quest_title_1030220222000000] Un día con Carola
+[quest_title_1030220090100000] Un día con Máximo (Traje S)
 
 ===========
 story_quest_name_fr.lsd
@@ -13341,6 +13442,8 @@ de s'entraîner
 [quest_group_title_10126100000] Flora (Look Ultime)
 [quest_group_title_10217000000] Beladonis
 [quest_group_title_10222000000] Courtney
+[quest_group_title_10090100000] Pierre Rochard (Look Ultime)
+[quest_group_title_10140800000] Giovanni (Classique)
 [quest_group_detail_100104] Terre, mer et ciel
 [quest_title_1030440600116011] Combat : Damien
 [quest_title_1030440600109011] Combat : Spectra
@@ -13357,6 +13460,17 @@ de s'entraîner
 [quest_title_1030110000470400] Faire ce qui est juste
 [quest_title_1030110000470900] Combat : Team Aqua II
 [quest_title_1030110000470500] Fureur destructrice
+[quest_title_1030110000480100] Le passager de la météorite
+[quest_title_1030110000480600] Combat : Team Magma III
+[quest_title_1030110000480200] Max et Arthur
+[quest_title_1030110000480700] Combat : Team Aqua III
+[quest_title_1030110000480300] La puissance de la nature
+[quest_title_1030110000480800] Combat : Team Magma IV
+[quest_title_1030110000480400] La destruction
+de la météorite
+[quest_title_1030110000480900] Combat : Courtney
+et Matthieu
+[quest_title_1030110000480500] Méfaits en coulisses
 [quest_title_1030407000601010] Combat : Team Magma
 [quest_title_1030407000601020] Combat : Team Magma II
 [quest_title_1030407000601030] Combat : Team Magma III
@@ -13364,10 +13478,32 @@ de s'entraîner
 à une fois par jour !
 [quest_title_1030407000601050] Combat difficile
 [quest_title_1030407000601060] Combat difficile II
+[quest_title_1030407500602010] Combat : Team Aqua
+[quest_title_1030407500602020] Combat : Team Aqua II
+[quest_title_1030407500602030] Combat : Team Aqua III
+[quest_title_1030407500602040] Combat difficile limité
+à une fois par jour !
+[quest_title_1030407500602050] Combat difficile
+[quest_title_1030407500602060] Combat difficile II
 [quest_title_1030407000602010] Combat corsé : Amaryllis
 [quest_title_1030407000602020] Combat corsé : Amaryllis II
 [quest_title_1030407000602030] Combat corsé : Timmy
 [quest_title_1030407000602040] Combat corsé : Timmy II
+[quest_title_1030407500602070] Combat corsé : Beladonis
+[quest_title_1030407500602080] Combat corsé : Beladonis II
+[quest_title_1030440750101010] Combat cadeau quotidien
+[quest_title_1030440750101011] Combat cadeau spécial
+[quest_title_1030440750105011] Combat cadeau spécial II
+[quest_title_1030440750109011] Combat cadeau spécial III
+[quest_title_1030440750113011] Combat cadeau spécial IV
+[quest_title_1030407500601010] L'objectif de la Team Rocket
+[quest_title_1030407500601020] Combat : Dresseurs de Passio
+[quest_title_1030407500601030] Combat :
+Dresseurs de Passio II
+[quest_title_1030407500601040] Combat :
+Dresseurs de Passio III
+[quest_title_1030407500601050] Combat :
+Dresseurs de Passio IV
 [quest_title_1030440700401010] Combat : Dresseurs de Passio
 [quest_title_1030440700402010] Combat :
 Dresseurs de Passio II
@@ -13381,6 +13517,8 @@ Dresseurs de Passio IV
 (Look Ultime)
 [quest_title_1030220217000000] Une journée avec Beladonis
 [quest_title_1030220222000000] Une journée avec Courtney
+[quest_title_1030220090100000] Une journée avec Pierre
+Rochard (Look Ultime)
 
 ===========
 story_quest_name_it.lsd
@@ -15747,6 +15885,8 @@ story_quest_name_it.lsd
 [quest_group_title_10126100000] Vera Costumax
 [quest_group_title_10217000000] Bellocchio
 [quest_group_title_10222000000] Rossella
+[quest_group_title_10090100000] Rocco Costumax
+[quest_group_title_10140800000] Giovanni (classico)
 [quest_group_detail_100104] Delta di terra, mare e cielo
 [quest_title_1030440600116011] VS Fosco
 [quest_title_1030440600109011] VS Ester
@@ -15763,16 +15903,43 @@ story_quest_name_it.lsd
 [quest_title_1030110000470400] Ciò che è giusto fare per i propri ideali
 [quest_title_1030110000470900] VS Team Idro 2
 [quest_title_1030110000470500] Una furia incontrollabile
+[quest_title_1030110000480100] Il passeggero del meteorite
+[quest_title_1030110000480600] VS Team Magma 3
+[quest_title_1030110000480200] Max e Ivan
+[quest_title_1030110000480700] VS Team Idro 3
+[quest_title_1030110000480300] Lo spettacolo della natura
+[quest_title_1030110000480800] VS Team Magma 4
+[quest_title_1030110000480400] La distruzione del meteorite
+[quest_title_1030110000480900] VS Rossella e Alan
+[quest_title_1030110000480500] L'ombra dietro la minaccia su Pasio
 [quest_title_1030407000601010] VS Team Magma
 [quest_title_1030407000601020] VS Team Magma 2
 [quest_title_1030407000601030] VS Team Magma 3
 [quest_title_1030407000601040] Lotta ad alta difficoltà (una al giorno)!
 [quest_title_1030407000601050] Sfida ad alta difficoltà
 [quest_title_1030407000601060] Sfida ad alta difficoltà 2
+[quest_title_1030407500602010] VS Team Idro
+[quest_title_1030407500602020] VS Team Idro 2
+[quest_title_1030407500602030] VS Team Idro 3
+[quest_title_1030407500602040] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030407500602050] Sfida ad alta difficoltà
+[quest_title_1030407500602060] Sfida ad alta difficoltà 2
 [quest_title_1030407000602010] Sfida un'avversaria potente: Lyris
 [quest_title_1030407000602020] Sfida un'avversaria potente: Lyris 2
 [quest_title_1030407000602030] Sfida un avversario potente: Lino
 [quest_title_1030407000602040] Sfida un avversario potente: Lino 2
+[quest_title_1030407500602070] Sfida un avversario potente: Bellocchio
+[quest_title_1030407500602080] Sfida un avversario potente: Bellocchio 2
+[quest_title_1030440750101010] Lotta giornaliera con regalo!
+[quest_title_1030440750101011] Lotta speciale con regalo! 1
+[quest_title_1030440750105011] Lotta speciale con regalo! 2
+[quest_title_1030440750109011] Lotta speciale con regalo! 3
+[quest_title_1030440750113011] Lotta speciale con regalo! 4
+[quest_title_1030407500601010] L'obiettivo del Team Rocket
+[quest_title_1030407500601020] VS Allenatori di Pasio
+[quest_title_1030407500601030] VS Allenatori di Pasio 2
+[quest_title_1030407500601040] VS Allenatori di Pasio 3
+[quest_title_1030407500601050] VS Allenatori di Pasio 4
 [quest_title_1030440700401010] VS Allenatori di Pasio
 [quest_title_1030440700402010] VS Allenatori di Pasio 2
 [quest_title_1030440700403010] VS Allenatori di Pasio 3
@@ -15781,6 +15948,7 @@ story_quest_name_it.lsd
 [quest_title_1030220126100000] Un giorno con Vera Costumax
 [quest_title_1030220217000000] Un giorno con Bellocchio
 [quest_title_1030220222000000] Un giorno con Rossella
+[quest_title_1030220090100000] Un giorno con Rocco Costumax
 
 ===========
 story_quest_name_ja.lsd
@@ -18195,6 +18363,9 @@ story_quest_name_ja.lsd
 [quest_group_title_10126100000] マジコスハルカ
 [quest_group_title_10217000000] ハンサム
 [quest_group_title_10222000000] カガリ
+[quest_group_title_10090100000] マジコスダイゴ
+[quest_group_title_10140800000] サカキ
+（アナザー）
 [quest_group_detail_100104] 大地と海と空のデルタ
 [quest_title_1030440600116011] ＶＳ　カゲツ
 [quest_title_1030440600109011] ＶＳ　フヨウ
@@ -18211,16 +18382,43 @@ story_quest_name_ja.lsd
 [quest_title_1030110000470400] 理念のための正義
 [quest_title_1030110000470900] ＶＳ　アクア団２
 [quest_title_1030110000470500] 暴走する力
+[quest_title_1030110000480100] 流星と共に
+[quest_title_1030110000480600] ＶＳ　マグマ団３
+[quest_title_1030110000480200] マツブサとアオギリ
+[quest_title_1030110000480700] ＶＳ　アクア団３
+[quest_title_1030110000480300] 大自然の驚異
+[quest_title_1030110000480800] ＶＳ　マグマ団４
+[quest_title_1030110000480400] 流星を砕け
+[quest_title_1030110000480900] ＶＳ　カガリ・ウシオ
+[quest_title_1030110000480500] パシオの危機に潜む影
 [quest_title_1030407000601010] ＶＳ　マグマ団
 [quest_title_1030407000601020] ＶＳ　マグマ団２
 [quest_title_1030407000601030] ＶＳ　マグマ団３
 [quest_title_1030407000601040] １日１回限定・高難度バトル！
 [quest_title_1030407000601050] チャレンジバトルで勝負！
 [quest_title_1030407000601060] チャレンジバトルで勝負！２
+[quest_title_1030407500602010] ＶＳ　アクア団
+[quest_title_1030407500602020] ＶＳ　アクア団２
+[quest_title_1030407500602030] ＶＳ　アクア団３
+[quest_title_1030407500602040] １日１回限定・高難度バトル！
+[quest_title_1030407500602050] チャレンジバトルで勝負！
+[quest_title_1030407500602060] チャレンジバトルで勝負！２
 [quest_title_1030407000602010] 強敵に挑戦！　ＶＳ　ヒガナ
 [quest_title_1030407000602020] 強敵に挑戦！　ＶＳ　ヒガナ２
 [quest_title_1030407000602030] 強敵に挑戦！　ＶＳ　ミツル
 [quest_title_1030407000602040] 強敵に挑戦！　ＶＳ　ミツル２
+[quest_title_1030407500602070] 強敵に挑戦！　ＶＳ　ハンサム
+[quest_title_1030407500602080] 強敵に挑戦！　ＶＳ　ハンサム２
+[quest_title_1030440750101010] デイリープレゼントバトル
+[quest_title_1030440750101011] スペシャルプレゼントバトル１
+[quest_title_1030440750105011] スペシャルプレゼントバトル２
+[quest_title_1030440750109011] スペシャルプレゼントバトル３
+[quest_title_1030440750113011] スペシャルプレゼントバトル４
+[quest_title_1030407500601010] ロケット団の目的
+[quest_title_1030407500601020] ＶＳ　パシオのトレーナー
+[quest_title_1030407500601030] ＶＳ　パシオのトレーナー２
+[quest_title_1030407500601040] ＶＳ　パシオのトレーナー３
+[quest_title_1030407500601050] ＶＳ　パシオのトレーナー４
 [quest_title_1030440700401010] ＶＳ　パシオのトレーナー
 [quest_title_1030440700402010] ＶＳ　パシオのトレーナー２
 [quest_title_1030440700403010] ＶＳ　パシオのトレーナー３
@@ -18229,6 +18427,7 @@ story_quest_name_ja.lsd
 [quest_title_1030220126100000] とある日のマジコスハルカ
 [quest_title_1030220217000000] とある日のハンサム
 [quest_title_1030220222000000] とある日のカガリ
+[quest_title_1030220090100000] とある日のマジコスダイゴ
 
 ===========
 story_quest_name_ko.lsd
@@ -20642,6 +20841,9 @@ story_quest_name_ko.lsd
 [quest_group_title_10126100000] 궁극코스 봄이
 [quest_group_title_10217000000] 핸섬
 [quest_group_title_10222000000] 구열
+[quest_group_title_10090100000] 궁극코스 성호
+[quest_group_title_10140800000] 비주기
+(어나더)
 [quest_group_detail_100104] 대지와 바다와 하늘의 델타
 [quest_title_1030440600116011] VS 혁진
 [quest_title_1030440600109011] VS 회연
@@ -20658,16 +20860,43 @@ story_quest_name_ko.lsd
 [quest_title_1030110000470400] 이념을 위한 정의
 [quest_title_1030110000470900] VS 아쿠아단2
 [quest_title_1030110000470500] 폭주하는 힘
+[quest_title_1030110000480100] 유성과 함께
+[quest_title_1030110000480600] VS 마그마단3
+[quest_title_1030110000480200] 마적과 아강
+[quest_title_1030110000480700] VS 아쿠아단3
+[quest_title_1030110000480300] 대자연의 경이로움
+[quest_title_1030110000480800] VS 마그마단4
+[quest_title_1030110000480400] 유성을 부숴라
+[quest_title_1030110000480900] VS 구열, 해조
+[quest_title_1030110000480500] 파시오의 위기에 숨은 그림자
 [quest_title_1030407000601010] VS 마그마단
 [quest_title_1030407000601020] VS 마그마단2
 [quest_title_1030407000601030] VS 마그마단3
 [quest_title_1030407000601040] 1일 1회 한정 고난도 배틀!
 [quest_title_1030407000601050] 챌린지배틀로 승부!
 [quest_title_1030407000601060] 챌린지배틀로 승부!2
+[quest_title_1030407500602010] VS 아쿠아단
+[quest_title_1030407500602020] VS 아쿠아단2
+[quest_title_1030407500602030] VS 아쿠아단3
+[quest_title_1030407500602040] 1일 1회 한정 고난도 배틀!
+[quest_title_1030407500602050] 챌린지배틀로 승부!
+[quest_title_1030407500602060] 챌린지배틀로 승부!2
 [quest_title_1030407000602010] 강적에게 도전! VS 피아나
 [quest_title_1030407000602020] 강적에게 도전! VS 피아나2
 [quest_title_1030407000602030] 강적에게 도전! VS 민진
 [quest_title_1030407000602040] 강적에게 도전! VS 민진2
+[quest_title_1030407500602070] 강적에게 도전! VS 핸섬
+[quest_title_1030407500602080] 강적에게 도전! VS 핸섬2
+[quest_title_1030440750101010] 일일 기프트 배틀
+[quest_title_1030440750101011] 스페셜 기프트 배틀1
+[quest_title_1030440750105011] 스페셜 기프트 배틀2
+[quest_title_1030440750109011] 스페셜 기프트 배틀3
+[quest_title_1030440750113011] 스페셜 기프트 배틀4
+[quest_title_1030407500601010] 로켓단의 목적
+[quest_title_1030407500601020] VS 파시오의 트레이너
+[quest_title_1030407500601030] VS 파시오의 트레이너2
+[quest_title_1030407500601040] VS 파시오의 트레이너3
+[quest_title_1030407500601050] VS 파시오의 트레이너4
 [quest_title_1030440700401010] VS 파시오의 트레이너
 [quest_title_1030440700402010] VS 파시오의 트레이너2
 [quest_title_1030440700403010] VS 파시오의 트레이너3
@@ -20676,6 +20905,7 @@ story_quest_name_ko.lsd
 [quest_title_1030220126100000] 궁극코스 봄이의 어느 날
 [quest_title_1030220217000000] 핸섬의 어느 날
 [quest_title_1030220222000000] 구열의 어느 날
+[quest_title_1030220090100000] 궁극코스 성호의 어느 날
 
 ===========
 story_quest_name_zh-TW.lsd
@@ -23089,6 +23319,9 @@ story_quest_name_zh-TW.lsd
 [quest_group_title_10126100000] 美極套裝小遙
 [quest_group_title_10217000000] 帥哥
 [quest_group_title_10222000000] 火雁
+[quest_group_title_10090100000] 美極套裝大吾
+[quest_group_title_10140800000] 阪木
+（關都）
 [quest_group_detail_100104] 大地、海洋、天空的德爾塔
 [quest_title_1030440600116011] ＶＳ　花月
 [quest_title_1030440600109011] ＶＳ　芙蓉
@@ -23105,16 +23338,43 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030110000470400] 堅持理念的正義
 [quest_title_1030110000470900] ＶＳ　海洋隊２
 [quest_title_1030110000470500] 失控的力量
+[quest_title_1030110000480100] 與流星一同
+[quest_title_1030110000480600] ＶＳ　熔岩隊３
+[quest_title_1030110000480200] 赤焰松與水梧桐
+[quest_title_1030110000480700] ＶＳ　海洋隊３
+[quest_title_1030110000480300] 大自然的奇異現象
+[quest_title_1030110000480800] ＶＳ　熔岩隊４
+[quest_title_1030110000480400] 粉碎流星
+[quest_title_1030110000480900] ＶＳ　火雁／阿潮
+[quest_title_1030110000480500] 潛伏在帕希歐危機中的影子
 [quest_title_1030407000601010] ＶＳ　熔岩隊
 [quest_title_1030407000601020] ＶＳ　熔岩隊２
 [quest_title_1030407000601030] ＶＳ　熔岩隊３
 [quest_title_1030407000601040] １天僅限１次的高難度對戰！
 [quest_title_1030407000601050] 用挑戰對戰決勝負！
 [quest_title_1030407000601060] 用挑戰對戰決勝負！２
+[quest_title_1030407500602010] ＶＳ　海洋隊
+[quest_title_1030407500602020] ＶＳ　海洋隊２
+[quest_title_1030407500602030] ＶＳ　海洋隊３
+[quest_title_1030407500602040] １天僅限１次的高難度對戰！
+[quest_title_1030407500602050] 用挑戰對戰決勝負！
+[quest_title_1030407500602060] 用挑戰對戰決勝負！２
 [quest_title_1030407000602010] 挑戰強敵！　ＶＳ　希嘉娜
 [quest_title_1030407000602020] 挑戰強敵！　ＶＳ　希嘉娜２
 [quest_title_1030407000602030] 挑戰強敵！　ＶＳ　滿充
 [quest_title_1030407000602040] 挑戰強敵！　ＶＳ　滿充２
+[quest_title_1030407500602070] 挑戰強敵！　ＶＳ　帥哥
+[quest_title_1030407500602080] 挑戰強敵！　ＶＳ　帥哥２
+[quest_title_1030440750101010] 每日禮物對戰
+[quest_title_1030440750101011] 特別禮物對戰１
+[quest_title_1030440750105011] 特別禮物對戰２
+[quest_title_1030440750109011] 特別禮物對戰３
+[quest_title_1030440750113011] 特別禮物對戰４
+[quest_title_1030407500601010] 火箭隊的目的
+[quest_title_1030407500601020] ＶＳ　帕希歐的訓練家
+[quest_title_1030407500601030] ＶＳ　帕希歐的訓練家２
+[quest_title_1030407500601040] ＶＳ　帕希歐的訓練家３
+[quest_title_1030407500601050] ＶＳ　帕希歐的訓練家４
 [quest_title_1030440700401010] ＶＳ　帕希歐的訓練家
 [quest_title_1030440700402010] ＶＳ　帕希歐的訓練家２
 [quest_title_1030440700403010] ＶＳ　帕希歐的訓練家３
@@ -23123,6 +23383,7 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030220126100000] 某日的美極套裝小遙
 [quest_title_1030220217000000] 某日的帥哥
 [quest_title_1030220222000000] 某日的火雁
+[quest_title_1030220090100000] 某日的美極套裝大吾
 
 ===========
 trainer_description_de.lsd
@@ -23903,6 +24164,14 @@ Aura umgeben ist. Als ehemalige Forscherin setzt sie ihr
 Wissen und ihre Fähigkeiten nun für die Zwecke ihres
 Teams ein. Wenn etwas ihr Interesse geweckt hat, wird
 sie nicht ruhen, bis sie es im Detail analysiert hat.
+[10090100000] Troy ist in einer Machtmontur zurück, die seine Faszination
+für den Weltraum widerspiegelt. Da ihr Design auf
+Merkmalen von Deoxys basiert, sind er und sein Partner
+damit in perfektem Einklang miteinander.
+[10140800000] Giovanni trägt seinen alten Anzug aus der Kanto-Region,
+der bei seinen Untergebenen besonders beliebt ist. Er
+glaubt, ihnen damit ein Gefühl von Behaglichkeit und
+Vertrauen vermitteln zu können.
 
 ===========
 trainer_description_en.lsd
@@ -24596,6 +24865,12 @@ He hates evil and always fights for justice.
 [10222000000] This petite Team Magma admin is a former scientist with
 a mysterious aura. She uses her knowledge to help her
 team and thoroughly analyzes the things that interest her.
+[10090100000] Steven is wearing an outfit made especially for space
+exploration. As its design is based on data from Deoxys,
+it's a great match for his partner Pokémon.
+[10140800000] Giovanni is wearing the same outfit he wore during his
+time in the Kanto region. His subordinates are familiar
+with this outfit and say it suits him well.
 
 ===========
 trainer_description_es.lsd
@@ -25412,6 +25687,12 @@ nombre de la justicia.
 conocimientos como excientífica para ayudar a su
 organización. Cuando algo le resulta muy interesante,
 no puede parar hasta investigarlo a fondo.
+[10090100000] Máximo regresa con un Traje Summum pensado para el
+espacio exterior. Su diseño encaja perfectamente con los
+datos sobre su compi Deoxys.
+[10140800000] Giovanni vuelve a ponerse el traje de sus operaciones en
+Kanto. Sus subordinados conocen bien este traje y nunca
+pierden la moral cuando lo lleva puesto.
 
 ===========
 trainer_description_fr.lsd
@@ -26187,6 +26468,15 @@ un air mystérieux. En tant qu'ancienne scientifique,
 elle utilise son savoir et son talent au profit de la
 Team Magma. Quand quelque chose l'intéresse, elle
 ne peut s'empêcher d'analyser tout ce qui y touche.
+[10090100000] Pierre Rochard est de retour avec son Look Ultime
+conçu pour l'exploration spatiale. Sa conception est basée
+sur les données de Deoxys, ce qui le rend parfaitement
+compatible avec son partenaire Pokémon.
+[10140800000] Giovanni revient vêtu du costume qu'il portait
+lorsqu'il opérait dans la région de Kanto. Cette tenue
+est particulièrement populaire auprès de ses sbires
+en raison de son côté nostalgique. Ils trouvent
+que cette tenue lui va comme un gant.
 
 ===========
 trainer_description_it.lsd
@@ -26950,6 +27240,12 @@ per la giustizia.
 che mette le sue conoscenze al servizio del Team Magma.
 Quando trova qualcosa che le interessa davvero, non può
 fare a meno di indagare approfonditamente.
+[10090100000] Rocco indossa un Costumax realizzato per lo spazio.
+Progettato a partire dai dati di Deoxys, gli dona
+una perfetta compatibilità con il suo compagno.
+[10140800000] Giovanni sfoggia il completo che indossava mentre era
+attivo a Kanto. I suoi sottoposti apprezzano questi abiti
+familiari e dicono che li fanno sentire rassicurati.
 
 ===========
 trainer_description_ja.lsd
@@ -27641,6 +27937,12 @@ trainer_description_ja.lsd
 [10222000000] 小柄で　不思議な　雰囲気の　マグマ団　幹部。
 元科学者で　その知識を　マグマ団で　役立てている。
 強い　興味を　持つと　調べつくしたくなる　性格。
+[10090100000] 宇宙用に開発された　衣装を　身にまとった　ダイゴ。
+デオキシスのデータを　基に　設計されていたので
+バディとの　相性は　バッチリ。
+[10140800000] カントー地方で　活動していたときの　衣装を
+身にまとった　サカキ。部下からは　慣れ親しんだ
+この衣装が　やはり　しっくりくる　と評判。
 
 ===========
 trainer_description_ko.lsd
@@ -28332,6 +28634,11 @@ WPM 운영위원회의 대표도 맡고 있다.
 [10222000000] 작은 몸집에 신기한 분위기를 가진 마그마단 간부.
 이전에는 과학자였으며 그 지식을 마그마단에서 살리고 있다.
 큰 흥미를 느끼면 철저하게 조사하고 싶어지는 성격이다.
+[10090100000] 우주용으로 개발된 의상을 몸에 두른 성호.
+테오키스의 데이터를 기반으로 설계되었기 때문에
+버디와의 상성은 매우 좋다.
+[10140800000] 관동지방에서 활약했을 때의 의상을 몸에 두른 비주기.
+부하들로부터는 익숙한 이 의상이 역시 잘 맞는다며 평판이 좋다.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -29022,6 +29329,12 @@ trainer_description_zh-TW.lsd
 [10222000000] 體型嬌小且氣質神秘的熔岩隊幹部。
 利用原是科學家的知識為熔岩隊做出貢獻。
 凡是有強烈興趣的事物，都會想要調查透徹。
+[10090100000] 身穿研發用來探索宇宙的服裝的大吾。
+此服裝基於代歐奇希斯的資料所設計，
+因此與他的拍檔相當搭配。
+[10140800000] 身穿在關都地區活動時的服裝的阪木。
+他的部下們一致認同，
+還是這身熟悉的裝扮最適合他。
 
 ===========
 trainer_name_de.lsd
@@ -30814,6 +31127,9 @@ trainer_verbose_name_de.lsd
 (Dojo-Outfit)
 [10019100000] MaMo-Brix
 [10126100000] MaMo-Maike
+[10090100000] MaMo-Troy
+[10140800000] Giovanni 
+(Klassisch)
 
 ===========
 trainer_verbose_name_en.lsd
@@ -30942,6 +31258,9 @@ Korrina
 [10019100000] Sygna Suit
 Brendan
 [10126100000] Sygna Suit May
+[10090100000] Sygna Suit Steven
+[10140800000] Giovanni
+(Classic)
 
 ===========
 trainer_verbose_name_es.lsd
@@ -31049,6 +31368,9 @@ arqueóloga)
 (Dojo Maestro)
 [10019100000] Bruno (Traje S)
 [10126100000] Aura (Traje S)
+[10090100000] Máximo (Traje S)
+[10140800000] Giovanni 
+(Kanto)
 
 ===========
 trainer_verbose_name_fr.lsd
@@ -31165,6 +31487,10 @@ trainer_verbose_name_fr.lsd
 [10243800000] Gloria (Dojo)
 [10019100000] Brice (Ultime)
 [10126100000] Flora (Ultime)
+[10090100000] Pierre Rochard 
+(Ultime)
+[10140800000] Giovanni 
+(Classique)
 
 ===========
 trainer_verbose_name_it.lsd
@@ -31286,6 +31612,9 @@ trainer_verbose_name_it.lsd
 (Uniforme dojo)
 [10019100000] Brendon Costumax
 [10126100000] Vera Costumax
+[10090100000] Rocco Costumax
+[10140800000] Giovanni 
+(classico)
 
 ===========
 trainer_verbose_name_ja.lsd
@@ -31407,6 +31736,9 @@ trainer_verbose_name_ja.lsd
 （アナザー）
 [10019100000] マジコスユウキ
 [10126100000] マジコスハルカ
+[10090100000] マジコスダイゴ
+[10140800000] サカキ
+（アナザー）
 
 ===========
 trainer_verbose_name_ko.lsd
@@ -31528,6 +31860,9 @@ trainer_verbose_name_ko.lsd
 (어나더)
 [10019100000] 궁극코스 휘웅
 [10126100000] 궁극코스 봄이
+[10090100000] 궁극코스 성호
+[10140800000] 비주기
+(어나더)
 
 ===========
 trainer_verbose_name_zh-TW.lsd
@@ -31649,6 +31984,9 @@ trainer_verbose_name_zh-TW.lsd
 （修行套裝）
 [10019100000] 美極套裝小悠
 [10126100000] 美極套裝小遙
+[10090100000] 美極套裝大吾
+[10140800000] 阪木
+（關都）
 
 ===========
 common_widget_de.lsd
