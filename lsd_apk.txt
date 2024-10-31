@@ -2071,6 +2071,48 @@ Deko sammeln!
 [quest_title_1030212000602090] Glückbringender Drache
 [quest_title_1030210132000000] Ein Tag mit Lauro
 [quest_group_title_10132000000] Lauro
+[quest_group_title_10130400000] Serena (Saison 2021)
+[quest_group_title_10116400000] Lucia (Saison 2021)
+[quest_group_title_100036] Zwischenspiel 7
+[quest_title_1030110000275100] WPM-Epilog
+[quest_title_1030110000275200] In Vergessenheit geraten
+[quest_title_1030110000275300] Die Macht des Vertrauens
+[quest_title_1030110000275400] Vs. Team Break (Versteck)
+[quest_title_1030110000275500] Meister der Freundschaft
+[quest_title_1030430100210010] Ein Fest der Freundschaft
+[quest_title_1030430100211010] Ein tollpatschiges Geständnis
+[quest_title_1030430100212010] Gib dein Bestes!
+[quest_title_1030430100202011] Süßigkeitenjagd
+[quest_title_1030430100213010] Vielen herzlichen Dank
+[quest_title_1030430100214010] Serenas Geschenk
+[quest_title_1030430100215010] Lucias Geschenk
+[quest_title_1030430100203013] Lasst uns Süßes sammeln!
+[quest_title_1030430100204013] Lasst uns Süßes sammeln! 2
+[quest_title_1030430100205013] Lasst uns Süßes sammeln! 3
+[quest_title_1030430100206014] Lasst uns noch mehr Süßes 
+sammeln!
+[quest_title_1030430100207010] Ein köstlicher Kampf
+[quest_group_title_10136000000] Professor Platan
+[quest_group_title_10256000000] Nezz
+[quest_group_title_10196000000] Flordelis
+[quest_title_1030210256000000] Ein Tag mit Nezz
+[quest_title_1030210196000000] Ein Tag mit Flordelis
+[quest_title_1030301000701001] Vs. Cresselia
+[quest_title_1030301010701001] Vs. Cresselia 2
+[quest_title_1030301020701001] Vs. Cresselia 3
+[quest_title_1030301001002080] Lebensverzehrender Schatten
+[quest_title_1030301001002090] Mission: Xerneas
+[quest_title_1030301001002100] Das Streben nach einer Welt
+der Schönheit
+[quest_title_1030301001002110] Freundschaft
+[quest_title_1030301001002120] Eine Botschaft an die Zukunft
+[quest_title_1030301001002130] Die unstillbare Flamme der
+Hoffnung
+[quest_title_1030301001002010] Vs. Flordelis
+[quest_title_1030301001002020] Vs. Professor Platan
+[quest_title_1030301001002030] Vs. Flordelis 2
+[quest_title_1030301001002040] Vs. Professor Platan 2
+[quest_group_detail_100037] Starke Bande
 
 ===========
 story_quest_name_en.lsd
@@ -3416,6 +3458,47 @@ story_quest_name_en.lsd
 [quest_title_1030212000602090] Dragon of Good Fortune
 [quest_title_1030210132000000] A Day with Alder
 [quest_group_title_10132000000] Alder
+[quest_group_title_10130400000] Serena
+(Palentine’s 2021)
+[quest_group_title_10116400000] Dawn
+(Palentine’s 2021)
+[quest_group_title_100036] Interlude 7
+[quest_title_1030110000275100] The End of the PML
+[quest_title_1030110000275200] Things Forgotten
+[quest_title_1030110000275300] The Power of Friendship
+[quest_title_1030110000275400] Challenge in Team Break’s Hideout
+[quest_title_1030110000275500] A King Who Cares
+[quest_title_1030430100210010] Happy Palentine’s Day!
+[quest_title_1030430100211010] Clumsy but Genuine
+[quest_title_1030430100212010] Pal Collaboration!
+[quest_title_1030430100202011] Ingredient Gathering
+[quest_title_1030430100213010] Thank-Yous All Around
+[quest_title_1030430100214010] Serena’s Gift
+[quest_title_1030430100215010] Dawn’s Gift
+[quest_title_1030430100203013] Ingredient Hunting: Part 1
+[quest_title_1030430100204013] Ingredient Hunting: Part 2
+[quest_title_1030430100205013] Ingredient Hunting: Part 3
+[quest_title_1030430100206014] Ultimate Ingredient Collection
+[quest_title_1030430100207010] Whirling, Twirling, Tasty Battles
+[quest_group_title_10136000000] Professor Sycamore
+[quest_group_title_10256000000] Piers
+[quest_group_title_10196000000] Lysandre
+[quest_title_1030210256000000] A Day with Piers
+[quest_title_1030210196000000] A Day with Lysandre
+[quest_title_1030301000701001] Cresselia’s Challenge: Part 1
+[quest_title_1030301010701001] Cresselia’s Challenge: Part 2
+[quest_title_1030301020701001] Cresselia’s Challenge: Part 3
+[quest_title_1030301001002080] A Shadow Chasing Eternal Life
+[quest_title_1030301001002090] Research Request: Xerneas
+[quest_title_1030301001002100] A Beautiful World
+[quest_title_1030301001002110] As Friends...
+[quest_title_1030301001002120] Message to the Future
+[quest_title_1030301001002130] Flames of Conviction
+[quest_title_1030301001002010] Challenge Lysandre: Part 1
+[quest_title_1030301001002020] Challenge Professor Sycamore: Part 1
+[quest_title_1030301001002030] Challenge Lysandre: Part 2
+[quest_title_1030301001002040] Challenge Professor Sycamore: Part 2
+[quest_group_detail_100037] Shining Bonds
 
 ===========
 story_quest_name_es.lsd
@@ -4803,6 +4886,49 @@ tarjetas
 [quest_title_1030212000602090] El dragón prueba su suerte
 [quest_title_1030210132000000] Un día con Mirto
 [quest_group_title_10132000000] Mirto
+[quest_group_title_10130400000] Serena
+(Temporada 21)
+[quest_group_title_10116400000] Maya
+(Temporada 21)
+[quest_group_title_100036] Séptimo interludio
+[quest_title_1030110000275100] El fin del WPM
+[quest_title_1030110000275200] Cosas olvidadas
+[quest_title_1030110000275300] El poder de la confianza
+[quest_title_1030110000275400] VS. Team Break en la
+guarida
+[quest_title_1030110000275500] El vínculo más fuerte
+[quest_title_1030430100210010] Un buen día para demostrar
+gratitud
+[quest_title_1030430100211010] Una confesión embarazosa
+[quest_title_1030430100212010] ¡Quiero que lo des todo!
+[quest_title_1030430100202011] A por los dulces
+[quest_title_1030430100213010] Gracias, de verdad
+[quest_title_1030430100214010] Un regalo de Serena
+[quest_title_1030430100215010] Un regalo de Maya
+[quest_title_1030430100203013] ¡A por montones de dulces!
+[quest_title_1030430100204013] ¡A por montones de dulces! (2)
+[quest_title_1030430100205013] ¡A por montones de dulces! (3)
+[quest_title_1030430100206014] ¡A por todavía más dulces!
+[quest_title_1030430100207010] Un combate sabroso
+[quest_group_title_10136000000] Profesor Ciprés
+[quest_group_title_10256000000] Nerio
+[quest_group_title_10196000000] Lysson
+[quest_title_1030210256000000] Un día con Nerio
+[quest_title_1030210196000000] Un día con Lysson
+[quest_title_1030301000701001] VS. Cresselia
+[quest_title_1030301010701001] VS. Cresselia (2)
+[quest_title_1030301020701001] VS. Cresselia (3)
+[quest_title_1030301001002080] Una sombra desalentadora
+[quest_title_1030301001002090] La investigación de Xerneas
+[quest_title_1030301001002100] Un mundo más bello
+[quest_title_1030301001002110] Nada como la amistad
+[quest_title_1030301001002120] Un mensaje de cara al futuro
+[quest_title_1030301001002130] La inapagable llama de la fe
+[quest_title_1030301001002010] VS. Lysson
+[quest_title_1030301001002020] VS. Profesor Ciprés
+[quest_title_1030301001002030] VS. Lysson (2)
+[quest_title_1030301001002040] VS. Profesor Ciprés (2)
+[quest_group_detail_100037] Vínculos que iluminan
 
 ===========
 story_quest_name_fr.lsd
@@ -6266,6 +6392,49 @@ les décorations ! III
 la bonne fortune
 [quest_title_1030210132000000] Une journée avec Goyah
 [quest_group_title_10132000000] Goyah
+[quest_group_title_10130400000] Serena
+(Saison 2021)
+[quest_group_title_10116400000] Aurore
+(Saison 2021)
+[quest_group_title_100036] Intermède 7
+[quest_title_1030110000275100] Épilogue du WPM
+[quest_title_1030110000275200] Les choses oubliées
+[quest_title_1030110000275300] Le pouvoir de la confiance
+[quest_title_1030110000275400] Combat : Team Break
+[quest_title_1030110000275500] Le roi des liens
+[quest_title_1030430100210010] La Fête de l'amitié
+[quest_title_1030430100211010] Une confession maladroite
+[quest_title_1030430100212010] Dépasse tes limites !
+[quest_title_1030430100202011] La collecte de friandises
+[quest_title_1030430100213010] Mille mercis !
+[quest_title_1030430100214010] Le cadeau de Serena
+[quest_title_1030430100215010] Le cadeau d'Aurore
+[quest_title_1030430100203013] Friandises à gogo
+[quest_title_1030430100204013] Friandises à gogo II
+[quest_title_1030430100205013] Friandises à gogo III
+[quest_title_1030430100206014] Friandises en folie !
+[quest_title_1030430100207010] Un combat à faire saliver
+[quest_group_title_10136000000] Platane
+[quest_group_title_10256000000] Peterson
+[quest_group_title_10196000000] Lysandre
+[quest_title_1030210256000000] Une journée avec Peterson
+[quest_title_1030210196000000] Une journée avec Lysandre
+[quest_title_1030301000701001] Combat : Cresselia
+[quest_title_1030301010701001] Combat : Cresselia II
+[quest_title_1030301020701001] Combat : Cresselia III
+[quest_title_1030301001002080] L'ombre de l'annihilation
+[quest_title_1030301001002090] À la recherche de Xerneas
+[quest_title_1030301001002100] Celui qui rêve d'un monde
+sublime
+[quest_title_1030301001002110] Amitié
+[quest_title_1030301001002120] Un message pour le futur
+[quest_title_1030301001002130] La flamme de l'espoir
+[quest_title_1030301001002010] Combat : Lysandre
+[quest_title_1030301001002020] Combat : Professeur Platane
+[quest_title_1030301001002030] Combat : Lysandre II
+[quest_title_1030301001002040] Combat :
+Professeur Platane II
+[quest_group_detail_100037] La lumière des liens
 
 ===========
 story_quest_name_it.lsd
@@ -7601,6 +7770,45 @@ story_quest_name_it.lsd
 [quest_title_1030212000602090] Il drago portafortuna
 [quest_title_1030210132000000] Un giorno con Nardo
 [quest_group_title_10132000000] Nardo
+[quest_group_title_10130400000] Serena (feste 2021)
+[quest_group_title_10116400000] Lucinda (feste 2021)
+[quest_group_title_100036] Capitolo speciale 7
+[quest_title_1030110000275100] La fine del WPM
+[quest_title_1030110000275200] Una cosa dimenticata
+[quest_title_1030110000275300] La forza della fiducia
+[quest_title_1030110000275400] VS Team Break: covo
+[quest_title_1030110000275500] Un re che coltiva i legami
+[quest_title_1030430100210010] Il Giorno dell'affetto
+[quest_title_1030430100211010] I sentimenti di una cuoca maldestra
+[quest_title_1030430100212010] Fai del tuo meglio!
+[quest_title_1030430100202011] Raccogliamo dei dolci!
+[quest_title_1030430100213010] Mille grazie!
+[quest_title_1030430100214010] Un regalo da parte di Serena
+[quest_title_1030430100215010] Un regalo da parte di Lucinda
+[quest_title_1030430100203013] Raccogliamo tanti dolci!
+[quest_title_1030430100204013] Raccogliamo tanti dolci! 2
+[quest_title_1030430100205013] Raccogliamo tanti dolci! 3
+[quest_title_1030430100206014] Raccogliamo ancora più dolci!
+[quest_title_1030430100207010] Una deliziosa lotta da capogiro
+[quest_group_title_10136000000] Platan
+[quest_group_title_10256000000] Ginepro
+[quest_group_title_10196000000] Elisio
+[quest_title_1030210256000000] Un giorno con Ginepro
+[quest_title_1030210196000000] Un giorno con Elisio
+[quest_title_1030301000701001] VS Cresselia
+[quest_title_1030301010701001] VS Cresselia 2
+[quest_title_1030301020701001] VS Cresselia 3
+[quest_title_1030301001002080] Sete d'immortalità
+[quest_title_1030301001002090] Alla ricerca di Xerneas
+[quest_title_1030301001002100] Un mondo di straordinaria bellezza
+[quest_title_1030301001002110] Il dovere di un amico
+[quest_title_1030301001002120] Un messaggio per il futuro
+[quest_title_1030301001002130] L'inestinguibile fuoco degli ideali
+[quest_title_1030301001002010] VS Elisio
+[quest_title_1030301001002020] VS Platan
+[quest_title_1030301001002030] VS Elisio 2
+[quest_title_1030301001002040] VS Platan 2
+[quest_group_detail_100037] Lo splendore dei legami
 
 ===========
 story_quest_name_ja.lsd
@@ -8947,6 +9155,47 @@ story_quest_name_ja.lsd
 [quest_title_1030212000602090] 開運ごろごろ　龍の運試し！
 [quest_title_1030210132000000] とある日のアデク
 [quest_group_title_10132000000] アデク
+[quest_group_title_10130400000] セレナ
+（２１シーズン）
+[quest_group_title_10116400000] ヒカリ
+（２１シーズン）
+[quest_group_title_100036] 幕間の物語７
+[quest_title_1030110000275100] ＷＰＭ終幕
+[quest_title_1030110000275200] 忘れていたもの
+[quest_title_1030110000275300] 信頼という力
+[quest_title_1030110000275400] ＶＳ　アジトのブレイク団
+[quest_title_1030110000275500] きずなを重んじる王
+[quest_title_1030430100210010] サンクスデイを楽しみましょう！
+[quest_title_1030430100211010] 不器用だけど届けたい思い！
+[quest_title_1030430100212010] がんばる気持ちを応援したい！
+[quest_title_1030430100202011] お菓子を集めよう
+[quest_title_1030430100213010] たくさんの「ありがとう」！
+[quest_title_1030430100214010] セレナからの贈り物
+[quest_title_1030430100215010] ヒカリからの贈り物
+[quest_title_1030430100203013] お菓子をいっぱい集めよう
+[quest_title_1030430100204013] お菓子をいっぱい集めよう２
+[quest_title_1030430100205013] お菓子をいっぱい集めよう３
+[quest_title_1030430100206014] お菓子をもっといっぱい集めよう
+[quest_title_1030430100207010] くる～りくるくるおいしい勝負
+[quest_group_title_10136000000] プラターヌ
+[quest_group_title_10256000000] ネズ
+[quest_group_title_10196000000] フラダリ
+[quest_title_1030210256000000] とある日のネズ
+[quest_title_1030210196000000] とある日のフラダリ
+[quest_title_1030301000701001] ＶＳ　クレセリア
+[quest_title_1030301010701001] ＶＳ　クレセリア２
+[quest_title_1030301020701001] ＶＳ　クレセリア３
+[quest_title_1030301001002080] 永遠の命を狙う影
+[quest_title_1030301001002090] ゼルネアスの調査依頼
+[quest_title_1030301001002100] 美しき世界を望む者
+[quest_title_1030301001002110] 友として……
+[quest_title_1030301001002120] 未来へのメッセージ
+[quest_title_1030301001002130] 消えぬ信念の炎
+[quest_title_1030301001002010] ＶＳ　フラダリ
+[quest_title_1030301001002020] ＶＳ　プラターヌ
+[quest_title_1030301001002030] ＶＳ　フラダリ２
+[quest_title_1030301001002040] ＶＳ　プラターヌ２
+[quest_group_detail_100037] 光り輝くきずな
 
 ===========
 story_quest_name_ko.lsd
@@ -10292,6 +10541,47 @@ story_quest_name_ko.lsd
 [quest_title_1030212000602090] 운수대통 용의 행운 시험!
 [quest_title_1030210132000000] 노간주의 어느 날
 [quest_group_title_10132000000] 노간주
+[quest_group_title_10130400000] 세레나
+(21시즌)
+[quest_group_title_10116400000] 빛나
+(21시즌)
+[quest_group_title_100036] 막간의 이야기7
+[quest_title_1030110000275100] WPM 종막
+[quest_title_1030110000275200] 잊고 있었던 것
+[quest_title_1030110000275300] 신뢰라는 이름의 힘
+[quest_title_1030110000275400] VS 아지트의 브레이크단
+[quest_title_1030110000275500] 유대를 소중히 여기는 왕
+[quest_title_1030430100210010] 스위트데이를 함께 즐기자!
+[quest_title_1030430100211010] 서툴지만 전하고 싶은 마음!
+[quest_title_1030430100212010] 열심히 하는 너를 응원하고 싶어!
+[quest_title_1030430100202011] 과자를 모으자
+[quest_title_1030430100213010] 수많은 감사의 마음!
+[quest_title_1030430100214010] 세레나의 선물
+[quest_title_1030430100215010] 빛나의 선물
+[quest_title_1030430100203013] 과자를 많이 모으자
+[quest_title_1030430100204013] 과자를 많이 모으자2
+[quest_title_1030430100205013] 과자를 많이 모으자3
+[quest_title_1030430100206014] 과자를 더 많이 모으자
+[quest_title_1030430100207010] 빙그~르 뱅글뱅글 맛있는 승부
+[quest_group_title_10136000000] 플라타느
+[quest_group_title_10256000000] 두송
+[quest_group_title_10196000000] 플라드리
+[quest_title_1030210256000000] 두송의 어느 날
+[quest_title_1030210196000000] 플라드리의 어느 날
+[quest_title_1030301000701001] VS 크레세리아
+[quest_title_1030301010701001] VS 크레세리아2
+[quest_title_1030301020701001] VS 크레세리아3
+[quest_title_1030301001002080] 영원한 생명을 노리는 그림자
+[quest_title_1030301001002090] 제르네아스 조사 의뢰
+[quest_title_1030301001002100] 아름다운 세계를 바라는 자
+[quest_title_1030301001002110] 친구로서...
+[quest_title_1030301001002120] 미래에 보내는 메시지
+[quest_title_1030301001002130] 사라지지 않는 신념의 불꽃
+[quest_title_1030301001002010] VS 플라드리
+[quest_title_1030301001002020] VS 플라타느
+[quest_title_1030301001002030] VS 플라드리2
+[quest_title_1030301001002040] VS 플라타느2
+[quest_group_detail_100037] 눈부시게 빛나는 유대
 
 ===========
 story_quest_name_zh-TW.lsd
@@ -11637,6 +11927,47 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030212000602090] 開運滾滾龍之碰運氣！
 [quest_title_1030210132000000] 某日的阿戴克
 [quest_group_title_10132000000] 阿戴克
+[quest_group_title_10130400000] 莎莉娜
+（２０２１春季）
+[quest_group_title_10116400000] 小光
+（２０２１春季）
+[quest_group_title_100036] 中場故事７
+[quest_title_1030110000275100] ＷＰＭ終場
+[quest_title_1030110000275200] 忘卻之事
+[quest_title_1030110000275300] 信賴的力量
+[quest_title_1030110000275400] ＶＳ　據點裡的破壞隊
+[quest_title_1030110000275500] 重視牽絆的王
+[quest_title_1030430100210010] 盡情享受感謝日吧！
+[quest_title_1030430100211010] 雖然稚拙但仍想傳遞的心意！
+[quest_title_1030430100212010] 想要聲援努力的心意！
+[quest_title_1030430100202011] 收集點心吧
+[quest_title_1030430100213010] 許多的「感謝」！
+[quest_title_1030430100214010] 莎莉娜的禮物
+[quest_title_1030430100215010] 小光的禮物
+[quest_title_1030430100203013] 收集許多的點心吧
+[quest_title_1030430100204013] 收集許多的點心吧２
+[quest_title_1030430100205013] 收集許多的點心吧３
+[quest_title_1030430100206014] 收集更多的點心吧
+[quest_title_1030430100207010] 團團轉圈圈美味對戰
+[quest_group_title_10136000000] 布拉塔諾
+[quest_group_title_10256000000] 聶梓
+[quest_group_title_10196000000] 弗拉達利
+[quest_title_1030210256000000] 某日的聶梓
+[quest_title_1030210196000000] 某日的弗拉達利
+[quest_title_1030301000701001] ＶＳ　克雷色利亞
+[quest_title_1030301010701001] ＶＳ　克雷色利亞２
+[quest_title_1030301020701001] ＶＳ　克雷色利亞３
+[quest_title_1030301001002080] 盯上永恆生命的影子
+[quest_title_1030301001002090] 哲爾尼亞斯的調查委託
+[quest_title_1030301001002100] 渴望美麗世界的人
+[quest_title_1030301001002110] 身為朋友……
+[quest_title_1030301001002120] 給未來的訊息
+[quest_title_1030301001002130] 永不消散的信念之焰
+[quest_title_1030301001002010] ＶＳ　弗拉達利
+[quest_title_1030301001002020] ＶＳ　布拉塔諾
+[quest_title_1030301001002030] ＶＳ　弗拉達利２
+[quest_title_1030301001002040] ＶＳ　布拉塔諾２
+[quest_group_detail_100037] 光輝耀眼的牽絆
 
 ===========
 trainer_description_de.lsd
@@ -12047,6 +12378,26 @@ Gerichte schmecken eher speziell, haben aber einige Fans.
 [10132000000] Der lebenserfahrene ehemalige Champ der Einall-Region.
 Er reist von Ort zu Ort, um jungen Menschen zu erklären,
 wie großartig es ist, mit Pokémon zusammenzuleben.
+[10136000000] Dieser freundliche Pokémon-Professor aus Illumina City in
+der Kalos-Region erforscht die Mega-Entwicklung und ihre
+Geheimnisse. Auf seinen Spaziergängen durch die Stadt
+probiert er gerne diverse Speisen in Cafés.
+[10196000000] Ein bekannter Wissenschaftler und Boss von Team Flare.
+Hässliche Konflikte treiben Flordelis zur Verzweiflung. Sein
+Ziel ist es, eine Welt zu erschaffen, in der nur seine
+auserwählte Elite verbleibt.
+[10256000000] Dieser Arenaleiter aus der Galar-Region, der besonders
+gerne Unlicht-Pokémon einsetzt, ist auch ein bekannter
+Musiker. Seine Fans sind von seiner melancholischen
+Stimme verzückt.
+[10130400000] Serena hat sich zum Fest der Freundschaft in ein schickes
+neues Outfit geworfen. Ihre niedliche Handtasche
+harmoniert nicht nur perfekt mit ihrem Stil, sondern auch
+mit ihrem Elfun..
+[10116400000] Lucia kann es kaum erwarten, mit dem Backen für das
+Fest der Freundschaft zu beginnen! Mithilfe von Pokusan
+wird sie mit viel Liebe allerlei süße Snacks für ihre
+Freunde auf den Tisch zaubern.
 
 ===========
 trainer_description_en.lsd
@@ -12448,6 +12799,21 @@ cooking is unique but popular among some.
 [10132000000] Alder is the highly experienced former Champion of
 Unova. He wanders around, telling younger generations
 the good news of a wonderful future with Pokémon.
+[10136000000] This friendly Pokémon Professor from Lumiose City in Kalos
+is researching the mysteries of Mega Evolution. His hobby
+is sampling food from cafés while walking around town.
+[10196000000] A well-known researcher and the boss of Team Flare,
+Lysandre despairs at ugly conflicts in the world. His goal
+is to create a world where only the chosen ones remain.
+[10256000000] This Galar Gym Leader who loves Dark-type Pokémon is
+also a well-known singer and songwriter. Many of his
+fans were charmed by his melancholic vocal quality.
+[10130400000] Serena dressed up in a new outfit to celebrate a special
+event! With a chic new outfit and a cute bag, her
+coordination with her Whimsicott is spot-on!
+[10116400000] Dawn is ready to start baking for a special event!
+Together with Alcremie, she’ll be whipping up some
+sweet snacks to give to her friends with all her heart.
 
 ===========
 trainer_description_es.lsd
@@ -12922,6 +13288,25 @@ excampeón de Teselia se dedica a viajar de región en
 región promulgando entre las generaciones más jóvenes
 lo extraordinario de convivir y entenderse con los
 Pokémon.
+[10136000000] Este simpático Profesor Pokémon de Ciudad Luminalia,
+en Kalos, investiga los misterios de la megaevolución.
+Pasa su tiempo libre paseando por la ciudad y probando
+las especialidades de cada cafetería.
+[10196000000] Un famoso investigador y jefe del Team Flare. Lysson
+se desespera ante los terribles conflictos del mundo.
+Su objetivo es crear un universo con tan solo unos pocos
+elegidos.
+[10256000000] Este Líder de Gimnasio de Galar y amante de los Pokémon
+de tipo Siniestro también es un conocido cantante y
+letrista. Hay una melancolía en su voz que encandila a
+sus fans.
+[10130400000] ¡Serena estrena modelo para celebrar un evento especial!
+Con su nueva bolsa, mona y estilosa, va perfectamente
+conjuntada con su Whimsicott.
+[10116400000] ¡Maya prepara unos dulces para un evento especial!
+Junto con Alcremie, la encontrarás recubriéndolos
+de nata para regalárselos a sus amigos con todo
+el cariño del mundo.
 
 ===========
 trainer_description_fr.lsd
@@ -13324,6 +13709,24 @@ tout de même populaires auprès de certaines personnes.
 d'expériences dans sa vie. Il parcourt le monde pour
 échanger avec les jeunes générations et leur montrer
 combien être avec les Pokémon, c'est merveilleux !
+[10136000000] Ce charmant Professeur Pokémon vient d'Illumis, à Kalos.
+Il étudie les mystères de la Méga-Évolution.
+Sur son temps libre, il adore faire le tour des cafés
+pour y déguster toutes sortes de gourmandises.
+[10196000000] Un chercheur renommé qui est également à la tête
+de la Team Flare. Lysandre déteste les conflits
+dans le monde. Son but est de créer un monde parfait,
+où seuls les élus demeureraient.
+[10256000000] Un Champion de Galar qui aime les Pokémon de type
+Ténèbres. Peterson est également un chanteur
+et compositeur renommé. Nombre de fans apprécient
+son timbre de voix mélancolique.
+[10130400000] Serena porte une nouvelle tenue pour célébrer un jour
+spécial ! Avec son nouveau sac tout mignon, sa tenue
+élégante est parfaitement assortie à son Farfaduvet.
+[10116400000] Aurore s'apprête à préparer tout plein de bonnes choses
+pour un jour très spécial ! Avec Charmilly, elle va faire
+de délicieuses friandises pour ses amis !
 
 ===========
 trainer_description_it.lsd
@@ -13753,6 +14156,22 @@ che è comunque apprezzato da alcune persone.
 esperienza. Vuole far capire agli altri quanto sia
 meraviglioso vivere insieme ai Pokémon, e viaggia
 in vari luoghi per insegnare ai giovani.
+[10136000000] L'affabile Professore Pokémon di Luminopoli, a Kalos.
+Studia i misteri delle megaevoluzioni e gli piace
+assaggiare le prelibatezze dei caffè locali.
+[10196000000] Ricercatore di ampia fama e capo del Team Flare,
+è disgustato dagli orribili conflitti che vede intorno a sé.
+Il suo obiettivo è rinnovare il mondo, facendo sì
+che sopravvivano soltanto pochi eletti.
+[10256000000] Capopalestra di Galar specializzato nel tipo Buio, è anche
+un famoso cantante e compositore. I suoi fan lo adorano
+per il suo stile vocale malinconico.
+[10130400000] Serena indossa un nuovo vestito per celebrare un evento
+speciale! La sua borsa graziosa e alla moda si abbina
+perfettamente con il suo Whimsicott!
+[10116400000] Lucinda si cimenta in cucina per un evento speciale,
+impegnandosi con tutto il cuore per preparare dei dolci
+per i suoi amici insieme ad Alcremie.
 
 ===========
 trainer_description_ja.lsd
@@ -14153,6 +14572,21 @@ trainer_description_ja.lsd
 [10132000000] 経験豊富な　イッシュ地方の　元チャンピオン。
 ポケモンと共に歩むことの　素晴らしさを　伝えるべく
 各地で　若い世代との　交流を　深めている。
+[10136000000] ミアレシティで　メガシンカの謎を　研究している
+とても　気さくな　カロス地方の　ポケモン博士。
+カフェを　巡って　食べ歩きを　楽しむことが　趣味。
+[10196000000] 名高い　研究者としての　顔を持つ　フレア団のボス。
+世界から　なくなることがない　醜い争いに　絶望し
+選ばれた者のみを残すべき　という思想を抱いている。
+[10256000000] あくポケモンを愛する　ガラル地方の　ジムリーダー。
+シンガーソングライター　としての　評価も　高い。
+その　哀愁漂う歌声に　魅了される　ファンは　多い。
+[10130400000] サンクスデイのために　オシャレをした　セレナ。
+シックな　雰囲気に　かわいらしい　バッグで
+エルフーンとも　ぴったりの　コーデに仕上げた。
+[10116400000] サンクスデイに　お菓子作りに　挑戦した　ヒカリ。
+マホイップと　思いをこめた　スイーツを　届ける。
+ふたりからは　おいしそうな　甘い　匂いがする。
 
 ===========
 trainer_description_ko.lsd
@@ -14553,6 +14987,21 @@ trainer_description_ko.lsd
 [10132000000] 경험이 풍부한 하나지방의 전 챔피언.
 포켓몬과 함께 걸어가는 훌륭함을 전하고자
 각지에서 젊은 세대와의 교류에 힘쓰고 있다.
+[10136000000] 미르시티에서 메가진화의 수수께끼를 연구하고 있는
+정말 담백하고 착한 칼로스지방의 포켓몬 박사.
+취미는 카페를 돌아다니며 먹을거리 즐기기이다.
+[10196000000] 명망 높은 연구자로서의 면모를 가진 플레어단의 보스.
+세계에서 없어지지 않는 추한 싸움에 절망하여
+선택받은 자만을 남겨야 한다는 사상을 가지고 있다.
+[10256000000] 악포켓몬을 사랑하는 가라르지방의 체육관 관장.
+싱어송라이터로서의 평가도 좋다.
+그런 애수가 담긴 노랫소리에 매료된 팬이 많다.
+[10130400000] 스위트데이를 위해 멋지게 꾸민 세레나.
+시크한 분위기에 귀여운 가방으로
+엘풍과 어울리는 코디를 완성했다.
+[10116400000] 스위트데이를 맞아 과자 만들기에 도전한 빛나.
+마휘핑과 함께 마음을 담은 디저트를 전달한다.
+둘에게서는 맛있을 것 같은 달콤한 향기가 난다.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -14952,6 +15401,21 @@ trainer_description_zh-TW.lsd
 [10132000000] 經驗豐富的合眾地區前冠軍。
 為了傳達與寶可夢並肩而行的美好，
 他遊走各地致力於加深與年輕世代的交流。
+[10136000000] 卡洛斯地區的寶可夢博士，在密阿雷市研究
+超級進化之謎，性格直率親切。
+興趣是四處造訪咖啡店，享受邊走邊吃的樂趣。
+[10196000000] 閃焰隊的老大，同時也是知名的研究員。
+他對世上永無止盡的醜陋爭鬥感到絕望，
+認為這個世界只需要留下被選中的人。
+[10256000000] 熱愛惡屬性寶可夢的伽勒爾地區道館館主，
+同時也是深受好評的創作歌手。
+有許多粉絲為他多愁善感的歌聲著迷。
+[10130400000] 為了感謝日而盛裝打扮的莎莉娜。
+雅致的風格加上可愛的包包，
+展現出與風妖精相互襯托的穿搭。
+[10116400000] 為了感謝日而挑戰做點心的小光。
+和霜奶仙一起分送滿是心意的甜點。
+他們的身上散發出美味香甜的香氣。
 
 ===========
 trainer_name_de.lsd
@@ -15081,6 +15545,7 @@ trainer_name_de.lsd
 [ch0131] Citro
 [ch0132] Lauro
 [ch0133] Silber
+[ch0136] Platan
 [ch0137] Eich
 [ch0140] Giovanni
 [ch0148] Jens
@@ -15093,11 +15558,13 @@ trainer_name_de.lsd
 [ch0183] Marlon
 [ch0190] Ryuki
 [ch0194] Zyrus
+[ch0196] Flordelis
 [ch0198] Lotte
 [ch0215] Xenia
 [ch0240] Jessie
 [ch0241] James
 [ch0243] Gloria
+[ch0256] Nezz
 
 ===========
 trainer_name_en.lsd
@@ -15227,6 +15694,7 @@ trainer_name_en.lsd
 [ch0131] Clemont
 [ch0132] Alder
 [ch0133] Silver
+[ch0136] Professor Sycamore
 [ch0137] Professor Oak
 [ch0140] Giovanni
 [ch0148] Morty
@@ -15239,11 +15707,13 @@ trainer_name_en.lsd
 [ch0183] Molayne
 [ch0190] Ryuki
 [ch0194] Cyrus
+[ch0196] Lysandre
 [ch0198] Lucy
 [ch0215] Lisia
 [ch0240] Jessie
 [ch0241] James
 [ch0243] Gloria
+[ch0256] Piers
 
 ===========
 trainer_name_es.lsd
@@ -15373,6 +15843,7 @@ trainer_name_es.lsd
 [ch0131] Lem
 [ch0132] Mirto
 [ch0133] Plata
+[ch0136] Ciprés
 [ch0137] Oak
 [ch0140] Giovanni
 [ch0148] Morti
@@ -15385,11 +15856,13 @@ trainer_name_es.lsd
 [ch0183] Lario
 [ch0190] Olano
 [ch0194] Helio
+[ch0196] Lysson
 [ch0198] Fortunia
 [ch0215] Ariana
 [ch0240] Jessie
 [ch0241] James
 [ch0243] Gloria
+[ch0256] Nerio
 
 ===========
 trainer_name_fr.lsd
@@ -15519,6 +15992,7 @@ trainer_name_fr.lsd
 [ch0131] Lem
 [ch0132] Goyah
 [ch0133] Silver
+[ch0136] Platane
 [ch0137] Chen
 [ch0140] Giovanni
 [ch0148] Mortimer
@@ -15531,11 +16005,13 @@ trainer_name_fr.lsd
 [ch0183] Molène
 [ch0190] Solane
 [ch0194] Hélio
+[ch0196] Lysandre
 [ch0198] Charline
 [ch0215] Atalante
 [ch0240] Jessie
 [ch0241] James
 [ch0243] Gloria
+[ch0256] Peterson
 
 ===========
 trainer_name_it.lsd
@@ -15665,6 +16141,7 @@ trainer_name_it.lsd
 [ch0131] Lem
 [ch0132] Nardo
 [ch0133] Argento
+[ch0136] Professor Platan
 [ch0137] Professor Oak
 [ch0140] Giovanni
 [ch0148] Angelo
@@ -15677,11 +16154,13 @@ trainer_name_it.lsd
 [ch0183] Tapso
 [ch0190] Morel
 [ch0194] Cyrus
+[ch0196] Elisio
 [ch0198] Fortunata
 [ch0215] Orthilla
 [ch0240] Jessie
 [ch0241] James
 [ch0243] Gloria
+[ch0256] Ginepro
 
 ===========
 trainer_name_ja.lsd
@@ -15811,6 +16290,7 @@ trainer_name_ja.lsd
 [ch0131] シトロン
 [ch0132] アデク
 [ch0133] シルバー
+[ch0136] プラターヌ
 [ch0137] オーキド
 [ch0140] サカキ
 [ch0148] マツバ
@@ -15823,11 +16303,13 @@ trainer_name_ja.lsd
 [ch0183] マーレイン
 [ch0190] リュウキ
 [ch0194] アカギ
+[ch0196] フラダリ
 [ch0198] アザミ
 [ch0215] ルチア
 [ch0240] ムサシ
 [ch0241] コジロウ
 [ch0243] ユウリ
+[ch0256] ネズ
 
 ===========
 trainer_name_ko.lsd
@@ -15957,6 +16439,7 @@ trainer_name_ko.lsd
 [ch0131] 시트론
 [ch0132] 노간주
 [ch0133] 실버
+[ch0136] 플라타느
 [ch0137] 오박사
 [ch0140] 비주기
 [ch0148] 유빈
@@ -15969,11 +16452,13 @@ trainer_name_ko.lsd
 [ch0183] 멀레인
 [ch0190] 용규
 [ch0194] 태홍
+[ch0196] 플라드리
 [ch0198] 다슬
 [ch0215] 루티아
 [ch0240] 로사
 [ch0241] 로이
 [ch0243] 우리
+[ch0256] 두송
 
 ===========
 trainer_name_zh-TW.lsd
@@ -16103,6 +16588,7 @@ trainer_name_zh-TW.lsd
 [ch0131] 希特隆
 [ch0132] 阿戴克
 [ch0133] 小銀
+[ch0136] 布拉塔諾
 [ch0137] 大木
 [ch0140] 阪木
 [ch0148] 松葉
@@ -16115,11 +16601,13 @@ trainer_name_zh-TW.lsd
 [ch0183] 馬睿因
 [ch0190] 龍葵
 [ch0194] 赤日
+[ch0196] 弗拉達利
 [ch0198] 小薊
 [ch0215] 琉琪亞
 [ch0240] 武藏
 [ch0241] 小次郎
 [ch0243] 小優
+[ch0256] 聶梓
 
 ===========
 common_widget_de.lsd
@@ -21790,8 +22278,14 @@ Du wurdest aus der Rangliste entfernt.
 [home/quest_list_151] Dein Rang
 [home/quest_list_152] Spitzenplatzierungen
 [home/quest_list_153] Rangboniplatzierungen
+[home/quest_list_154] Wird freigeschaltet, wenn du das
+notwendige Item erhalten hast.
 [home/quest_list_155] Wird freigeschaltet, wenn du bestimmte
 Missionen abgeschlossen hast.
+[home/quest_list_156] Wird freigeschaltet, wenn du alle
+notwendigen Items erhalten hast.
+[home/quest_list_157] Erhältlich über die Menüoption
+„Item-Tausch“ im Laden.
 [home/quest_list_158] Wenn du dieses Pokémon
 weiterentwickelst, ändern sich einige
 seiner Attacken. Diese Änderungen
@@ -21901,6 +22395,7 @@ weiteren Eier ablegen.
 [home/quest_detail_096] Bonus-Effekte
 [home/quest_detail_097] Ausgewählte Gefährten
 [home/quest_detail_098] Ausgewählte Items
+[home/quest_detail_099] Ausgewählte Typen
 [home/quest_detail_100] Hinweis: Gewinne Kämpfe mit ausgewählten Typen
 oder Gefährten, um zusätzliche Items zu erhalten.
 Beinhaltet das Gefährtengespann bereits den
@@ -22020,6 +22515,9 @@ nächstes Mal!
 [home/login_bonus_014] Ich schick es an deine
 Geschenkbox. Vergiss
 nicht, es abzuholen!
+[home/login_bonus_015] Am zweiten und siebten Tag kannst du
+5★-Garantie-G-Suchetickets x30 erhalten und
+dir ein 5★-Gefährtengespann ins Team holen!
 [home/app_review_001] Bewertung
 [home/app_review_002] Vielen Dank, dass du
 [Name:TitleName ] spielst!
@@ -22507,7 +23005,12 @@ been eliminated from the ranking.
 [home/quest_list_151] Your Prestige Rank
 [home/quest_list_152] Prestige Rank Leaderboard
 [home/quest_list_153] Reward Group Ranking
+[home/quest_list_154] To unlock, obtain the designated item.
 [home/quest_list_155] Complete the designated mission to unlock
+[home/quest_list_156] To unlock, obtain all of the
+designated items.
+[home/quest_list_157] Can be obtained from the Exchange
+Items menu in the shop.
 [home/quest_list_158] Evolving this Pokémon will change
 some of its moves. These changes
 cannot be reverted.
@@ -22616,6 +23119,7 @@ because your Egg Box is full.
 [home/quest_detail_096] Special Bonuses
 [home/quest_detail_097] Featured Sync Pairs
 [home/quest_detail_098] Featured Items
+[home/quest_detail_099] Featured Types
 [home/quest_detail_100] You can get additional featured items as rewards for
 completing certain battles with the featured sync pairs
 or types on your team. If multiple bonuses apply to
@@ -22730,6 +23234,9 @@ time you log in!
 [home/login_bonus_014] I just sent something
 to your Present Box!
 Don’t forget to pick it up!
+[home/login_bonus_015] On day two and day seven, you can get
+5★-Guaranteed Scout Tickets ×30 and team up
+with a 5★ sync pair.
 [home/app_review_001] Review
 [home/app_review_002] Thank you for playing
 [Name:TitleName ]!
@@ -23180,8 +23687,11 @@ guardado ilícitos.
 [home/quest_list_151] Clasificación personal
 [home/quest_list_152] Primeros clasificados
 [home/quest_list_153] Clasificación por premios
+[home/quest_list_154] Se desbloqueará tras conseguir el objeto indicado.
 [home/quest_list_155] Se desbloqueará tras completar la misión
 indicada.
+[home/quest_list_156] Se desbloqueará tras conseguir todos los objetos indicados.
+[home/quest_list_157] Se puede obtener desde el menú Canjear objetos de la tienda.
 [home/quest_list_158] Si haces evolucionar a este Pokémon,
 algunos de sus movimientos cambiarán
 y no podrás hacer que los vuelva a
@@ -23290,6 +23800,7 @@ así que no puedes aceptar más Huevos.
 [home/quest_detail_096] Bonus especiales
 [home/quest_detail_097] Compis con bonus
 [home/quest_detail_098] Objetos con bonus
+[home/quest_detail_099] Tipos con bonus
 [home/quest_detail_100] Notas: Completa combates con los compis o tipos con
 bonus para conseguir más objetos con bonus. Si una
 pareja cuenta con más de un bonus, solo se aplicará
@@ -23408,6 +23919,9 @@ bonificación!
 [home/login_bonus_014] La bonificación se
 enviará a la caja de
 regalos, no lo olvides.
+[home/login_bonus_015] En los días 2 y 7 puedes obtener 30 Billetes
+Reclutamiento 5★ para reclutar parejas de
+compis de 5★ con cada uno de ellos.
 [home/app_review_001] Valoración
 [home/app_review_002] ¡Muchas gracias por jugar a
 [Name:TitleName ]!
@@ -23871,8 +24385,15 @@ pas partie du classement.
 [home/quest_list_151] Votre classement
 [home/quest_list_152] Tête du classement
 [home/quest_list_153] Classement par récompenses
+[home/quest_list_154] Débloqué après avoir obtenu
+l'objet spécifié.
 [home/quest_list_155] Débloqué après avoir réussi
 la mission spécifiée.
+[home/quest_list_156] Débloqué après avoir obtenu
+tous les objets spécifiés.
+[home/quest_list_157] À obtenir dans le menu
+« Échange d'objets »
+dans la boutique.
 [home/quest_list_158] Voulez-vous vraiment poursuivre ?
 Certaines capacités changeront si
 cette évolution arrive à son terme.
@@ -23982,6 +24503,7 @@ d'Œuf supplémentaire.
 [home/quest_detail_096] Effets bonus
 [home/quest_detail_097] Duos en vedette
 [home/quest_detail_098] Objets en vedette
+[home/quest_detail_099] Types en vedette
 [home/quest_detail_100] Vous pouvez recevoir plus d'objets en vedette en
 remportant des combats avec les Duos ou les types en
 vedette. Les effets bonus sur les Duos et les types ne
@@ -24099,6 +24621,9 @@ bonus de connexion !
 [home/login_bonus_014] Vos objets sont dans
 le menu « Cadeaux ».
 Ne les oubliez pas !
+[home/login_bonus_015] Utilisez les 30 Bons Appel Duo 5★ Garanti
+reçus le deuxième et septième jour pour
+faire équipe avec un Duo 5★ !
 [home/app_review_001] Avis
 [home/app_review_002] Merci d'avoir joué à
 [Name:TitleName ] !
@@ -24605,7 +25130,13 @@ rilevati dei dati irregolari.
 [home/quest_list_151] Classifica personale
 [home/quest_list_152] Primi classificati
 [home/quest_list_153] Classifica per ricompense
+[home/quest_list_154] Si sblocca ottenendo gli strumenti indicati.
 [home/quest_list_155] Si sblocca completando la missione indicata.
+[home/quest_list_156] Si sblocca ottenendo tutti gli strumenti
+indicati.
+[home/quest_list_157] Puoi ottenere gli strumenti necessari
+tramite lo scambio strumenti nel menu
+del negozio.
 [home/quest_list_158] Se questo Pokémon si evolve,
 alcune mosse cambieranno e non sarà
 più possibile farle tornare come prima.
@@ -24712,6 +25243,7 @@ Uova è pieno.
 [home/quest_detail_096] Effetti bonus
 [home/quest_detail_097] Unità con bonus
 [home/quest_detail_098] Strumenti a cui si applica il bonus
+[home/quest_detail_099] Tipi con bonus
 [home/quest_detail_100] Se inserisci in squadra le Unità o i tipi indicati e vinci
 in certe lotte, otterrai gli strumenti indicati in maggiore
 quantità. Se una delle Unità indicate è anche di uno
@@ -24830,6 +25362,9 @@ la prossima volta!
 [home/login_bonus_014] Il bonus apparirà
 nel menu Regali.
 Ricordati di ritirarlo!
+[home/login_bonus_015] Il secondo e il settimo giorno puoi ricevere
+30 Ticket Unicerca 5★ e usarli per fare squadra
+con un'Unità 5★.
 [home/app_review_001] Lascia una recensione
 [home/app_review_002] Grazie per aver giocato
 a [Name:TitleName ]!
@@ -25321,9 +25856,14 @@ Lv.[Digit:2digits ]で解放
 [home/quest_list_151] 自己周辺ランキング
 [home/quest_list_152] TOPランキング
 [home/quest_list_153] 報酬区分ランキング
+[home/quest_list_154] 指定のどうぐ獲得で解放
 [home/quest_list_155] 指定のミッションクリアで解放
+[home/quest_list_156] 指定のどうぐを全て
+手に入れると解放されます
+[home/quest_list_157] ショップメニューの
+「どうぐ交換」から入手できます
 [home/quest_list_158] この進化を行うと一部のわざが変化します
-変化したわざは元に戻すことができません
+変化したわざはもとに戻すことができません
 
 本当に出発しますか？
 [home/quest_list_159] [Digit:8digits ]pt
@@ -25424,6 +25964,7 @@ Lv.[Digit:2digits ]で解放
 [home/quest_detail_096] ボーナス効果
 [home/quest_detail_097] 対象バディーズ
 [home/quest_detail_098] 対象どうぐ
+[home/quest_detail_099] 対象タイプ
 [home/quest_detail_100] ※対象タイプ・バディーズを編成して特定バトルに勝利すると
 対象どうぐの獲得数にボーナスがつきます
 ※対象バディーズが対象タイプにも含まれる場合
@@ -25542,6 +26083,9 @@ Lv.[Digit:2digits ]で解放
 [home/login_bonus_014] プレゼントボックスに
 送っておきますね！
 忘れずに　受け取ってください！
+[home/login_bonus_015] ２日目と７日目にもらえる
+「★５確定Ｂサーチチケット×30」
+で★５バディーズが１組ずつ仲間に
 [home/app_review_001] レビュー
 [home/app_review_002] [Name:TitleName ]をプレイいただき
 ありがとうございます
@@ -26027,7 +26571,12 @@ Lv.[Digit:2digits ]에서 해방
 [home/quest_list_151] 자기 주변 랭킹
 [home/quest_list_152] TOP 랭킹
 [home/quest_list_153] 보상 구분 랭킹
+[home/quest_list_154] 지정된 도구를 획득하여 해방
 [home/quest_list_155] 지정 미션을 클리어하면 해방
+[home/quest_list_156] 지정된 도구를 모두
+획득하면 해방됩니다
+[home/quest_list_157] 숍 메뉴의
+"도구 교환"에서 얻을 수 있습니다
 [home/quest_list_158] 이 진화 에리어를 진행하면
 일부 기술이 변경됩니다
 변경된 기술은 원래대로 되돌릴 수 없습니다
@@ -26128,6 +26677,7 @@ Lv.[Digit:2digits ]에서 해방
 [home/quest_detail_096] 보너스 효과
 [home/quest_detail_097] 대상 버디즈
 [home/quest_detail_098] 대상 도구
+[home/quest_detail_099] 대상 타입
 [home/quest_detail_100] ※대상 타입, 버디즈를 편성하여 특정 배틀에서 승리하면
 대상 도구를 획득할 때 보너스가 추가됩니다
 ※대상 버디즈가 대상 타입에도 포함되는 경우
@@ -26245,6 +26795,9 @@ Lv.[Digit:2digits ]에서 해방
 [home/login_bonus_014] 프레젠트박스에
 보내두겠습니다!
 잊지 말고 받아주세요!
+[home/login_bonus_015] 2일차와 7일차에 받을 수 있는
+"★5 확정 B서치 티켓 30장"으로
+★5 버디즈를 하나씩 동료로 만들 수 있습니다
 [home/app_review_001] 리뷰
 [home/app_review_002] [Name:TitleName ][Kor:Particle char="wo" ] 플레이해주셔서
 감사합니다
@@ -26707,8 +27260,13 @@ home_zh-TW.lsd
 [home/quest_list_151] 個人前後排名
 [home/quest_list_152] TOP排名
 [home/quest_list_153] 報酬類別排名
+[home/quest_list_154] 獲得指定道具即可開放
 [home/quest_list_155] 開放條件：
 成功過關指定的任務
+[home/quest_list_156] 獲得所有指定道具
+即可開放
+[home/quest_list_157] 可以從商店選單中的
+「交換道具」來獲得
 [home/quest_list_158] 進行此進化劇情後部分招式將會改變
 變化後的招式無法復原
 確定要出發嗎？
@@ -26804,6 +27362,7 @@ home_zh-TW.lsd
 [home/quest_detail_096] 獎勵效果
 [home/quest_detail_097] 指定拍組
 [home/quest_detail_098] 指定道具
+[home/quest_detail_099] 指定屬性
 [home/quest_detail_100] ※在特定對戰中編制指定屬性／拍組並取勝
 所獲得之指定道具的數量將會附加額外獎勵
 ※當指定拍組中包含指定屬性時
@@ -26916,6 +27475,9 @@ home_zh-TW.lsd
 下次可以獲得這個喔！
 [home/login_bonus_014] 道具會送到禮物箱！
 請不要忘記領取！
+[home/login_bonus_015] 利用在第２天和第７天可獲得的
+「必得★５拍組搜尋券×30」
+分別獲得１對★５拍組成為夥伴
 [home/app_review_001] 評論
 [home/app_review_002] 非常感謝您對
 [Name:TitleName ]的支持！
@@ -28243,9 +28805,7 @@ Tienes 24 horas para recibirlo.
 [shop/shop_itemexchange_007] Normales
 [shop/shop_itemexchange_011] Canje finalizado
 [shop/shop_itemexchange_012] El canje se ha completado con éxito.
-[shop/shop_itemexchange_014] Disponible tras completar
-"[Name:QuestTitle ]"
-([Name:QuestGroupTitle ]).
+[shop/shop_itemexchange_014] Disponible tras completar [Name:QuestTitle ] ([Name:QuestGroupTitle ]).
 [shop/shop_itemexchange_016] Objetos necesarios
 [shop/shop_itemexchange_018] ¿Quieres canjear estos objetos por el
 objeto que se muestra arriba?
