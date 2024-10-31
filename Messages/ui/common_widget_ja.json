@@ -192,6 +192,8 @@
     "common_widget/dialog_135": "期限切れのため\n以下のどうぐが自動売却されました",
     "common_widget/dialog_136": "※自動売却で変換されたコインは\nプレゼントボックスの「一時保管」に\n保管されます",
     "common_widget/dialog_138": "「[Name:EventName ]」\n[Name:Item ]",
+    "common_widget/dialog_139": "メインストーリーの構成と\n報酬を調整しました\n既にクリアしているエリア情報の報酬を\n獲得しました",
+    "common_widget/dialog_140": "※以下の報酬は既に受け取り済みです\n※ダイヤは順次配布されます",
     "common_widget/trainer_detail_001": "[Name:TrainerName ]",
     "common_widget/trainer_detail_002": "Lv.",
     "common_widget/trainer_detail_004": "MAX",

@@ -2269,7 +2269,7 @@ loading_tips_description_ko.lsd
 수치는 6단계까지 변화합니다
 (급소율은 상승만 3단계까지 변화)
 [100014] 배틀에 도전하기 전에
-에리어 상세를 체크해봅시다!
+에리어 상세를 체크해 봅시다!
 "클리어 보상"이나 "보스 힌트"를
 확인할 수 있습니다!
 [100015] 상태 이상 "독"은 포켓몬이
@@ -7397,6 +7397,69 @@ Gloria 2
 [quest_title_1030460600614010] Vs. Tierno
 [quest_title_1030460600615010] Vs. Betys
 [quest_title_1030460600617010] Vs. Bell
+[quest_title_1040002960001011] Ein besonderer Tag mit
+Enigmara (Teil 1)
+[quest_title_1040002960001021] Ein besonderer Tag mit
+Enigmara (Teil 2)
+[quest_title_1030110000601200] Des Anführers Pflicht, des
+Anwärters Müh’
+[quest_title_1030607000601000] Wir brauchen mehr Fans der
+Ultrabestien!
+[quest_title_1030607000601040] Vs. Trainer aus Passio 1
+[quest_title_1030607000601010] Ein Kennlerntreffen mit
+Hindernissen
+[quest_title_1030607000601050] Vs. Trainer aus Passio 2
+[quest_title_1030607000601020] Gemeinsamkeiten über die
+Zeit hinaus
+[quest_title_1030607000601060] Vs. Trainer aus Passio 3
+[quest_title_1030607000601030] Werden wir Ultra-Gefährten!
+[quest_title_1030607000601070] Vs. Trainer aus Passio 4
+[quest_title_1030607000601080] Täglicher schwerer Kampf
+[quest_title_1030607000601090] Herausforderungskampf 1
+[quest_title_1030607000601100] Herausforderungskampf 2
+[quest_title_1030220122800000] Ein Tag mit Elio
+[quest_title_1030220123800000] Ein Tag mit Selene
+[quest_title_1030460102001010] Vs. Entschlossener Giovanni
+[quest_title_1030607000602000] Die ideale Beziehung
+[quest_title_1030607000602040] Vs. N 1
+[quest_title_1030607000602010] Ein seltsamer Typ aus Einall?
+[quest_title_1030607000602050] Vs. N 2
+[quest_title_1030607000602020] Mein Pokémon, meine Familie
+[quest_title_1030607000602060] Vs. N 3
+[quest_title_1030607000602030] Eine neue Freundschaft
+[quest_title_1030607000602070] Vs. N 4
+[quest_title_1030607000602080] Täglicher schwerer Kampf
+[quest_title_1030607000602090] Herausforderungskampf 1
+[quest_title_1030607000602100] Herausforderungskampf 2
+[quest_title_1030220317000000] Ein Tag mit Pepper
+[quest_title_1030607000603000] Moment mal, ist das...?
+[quest_title_1030607000603010] Ein Paradox-Pokémon
+[quest_title_1030607000603050] Vs. Pepper 1
+[quest_title_1030607000603020] Eine Vorliebe für Raritäten
+[quest_title_1030607000603060] Vs. Pepper 2
+[quest_title_1030607000603030] Was ist dir wichtig?
+[quest_title_1030607000603070] Vs. Pepper 3
+[quest_title_1030607000603040] Brüllschweifs und Nemilas
+Entscheidung
+[quest_title_1030607000603080] Vs. Pepper 4
+[quest_title_1030607000603090] Täglicher schwerer Kampf
+[quest_title_1030607000603100] Herausforderungskampf 1
+[quest_title_1030607000603110] Herausforderungskampf 2
+[quest_title_1030220289100000] Ein Tag mit MaMo-Nemila
+[quest_title_1030607000604000] Stelle dich Anabel! 1
+[quest_title_1030607000604010] Stelle dich Anabel! 2
+[quest_title_1030460700200010] Kampfexperte Nidorino
+[quest_title_1030460700201010] Vs. Agathe 1
+[quest_title_1030460700202010] Vs. Agathe 2
+[quest_title_1030460700203010] Vs. Agathe 3
+[quest_title_1030460700204010] Vs. Agathe 4
+[quest_group_title_100390] Auftakt: Steine der Mysterien
+[quest_group_title_10122800000] Elio (Variante)
+[quest_group_title_10123800000] Selene (Variante)
+[quest_group_title_10317000000] Pepper
+[quest_group_title_10289100000] MaMo-Nemila
+[quest_group_detail_100210] Die Stimme einer Gottheit
+erklingt
 
 ===========
 story_quest_name_en.lsd
@@ -11388,6 +11451,61 @@ Part 2
 [quest_title_1030460600614010] Challenge Tierno
 [quest_title_1030460600615010] Challenge Bede
 [quest_title_1030460600617010] Challenge Bianca
+[quest_title_1040002960001011] A Special Day with Iono: Part 1
+[quest_title_1040002960001021] A Special Day with Iono: Part 2
+[quest_title_1030110000601200] A Leader’s Role, a Challenger’s Struggle
+[quest_title_1030607000601000] Let’s Make More Ultra Beast Fans!
+[quest_title_1030607000601040] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030607000601010] A Challenging Ultra Meet-and-Greet
+[quest_title_1030607000601050] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030607000601020] Past and Present Similarities
+[quest_title_1030607000601060] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030607000601030] Let’s Become Ultra Sync Pairs!
+[quest_title_1030607000601070] Challenge Pasio’s Trainers: Part 4
+[quest_title_1030607000601080] Daily Extreme Battle 1
+[quest_title_1030607000601090] Battle Challenge! Round 1
+[quest_title_1030607000601100] Battle Challenge! Round 2
+[quest_title_1030220122800000] A Day with Elio
+[quest_title_1030220123800000] A Day with Selene
+[quest_title_1030460102001010] Challenge a Super Serious Giovanni
+[quest_title_1030607000602000] The Ideal Relationship
+[quest_title_1030607000602040] Challenge N: Part 1
+[quest_title_1030607000602010] A Mysterious Guy From Unova?
+[quest_title_1030607000602050] Challenge N: Part 2
+[quest_title_1030607000602020] My Pokémon, My Family
+[quest_title_1030607000602060] Challenge N: Part 3
+[quest_title_1030607000602030] A New Friend
+[quest_title_1030607000602070] Challenge N: Part 4
+[quest_title_1030607000602080] Daily Extreme Battle 1
+[quest_title_1030607000602090] Battle Challenge! Round 1
+[quest_title_1030607000602100] Battle Challenge! Round 2
+[quest_title_1030220317000000] A Day with Arven
+[quest_title_1030607000603000] Wait, Is That—?
+[quest_title_1030607000603010] A Paradox Pokémon
+[quest_title_1030607000603050] Challenge Arven: Part 1
+[quest_title_1030607000603020] The Odd and Novel
+[quest_title_1030607000603060] Challenge Arven: Part 2
+[quest_title_1030607000603030] Focused on Something Else
+[quest_title_1030607000603070] Challenge Arven: Part 3
+[quest_title_1030607000603040] Scream Tail and Nemona’s Choice
+[quest_title_1030607000603080] Challenge Arven: Part 4
+[quest_title_1030607000603090] Daily Extreme Battle 1
+[quest_title_1030607000603100] Battle Challenge! Round 1
+[quest_title_1030607000603110] Battle Challenge! Round 2
+[quest_title_1030220289100000] A Day with Sygna Suit Nemona
+[quest_title_1030607000604000] Take On Anabel! Part 1
+[quest_title_1030607000604010] Take On Anabel! Part 2
+[quest_title_1030460700200010] Reasons to Battle with Nidorino
+[quest_title_1030460700201010] Challenge Agatha: Part 1
+[quest_title_1030460700202010] Challenge Agatha: Part 2
+[quest_title_1030460700203010] Challenge Agatha: Part 3
+[quest_title_1030460700204010] Challenge Agatha: Part 4
+[quest_group_title_100390] Prelude: Mysterious Stones Chapter
+[quest_group_title_10122800000] Elio (Alt.)
+[quest_group_title_10123800000] Selene (Alt.)
+[quest_group_title_10317000000] Arven
+[quest_group_title_10289100000] Sygna Suit Nemona
+[quest_group_detail_100210] The Echo of a Deity’s Voice
 
 ===========
 story_quest_name_es.lsd
@@ -15740,6 +15858,67 @@ contra Gloria! (2)
 [quest_title_1030460600614010] VS. Beni
 [quest_title_1030460600615010] VS. Berto
 [quest_title_1030460600617010] VS. Bel
+[quest_title_1040002960001011] Un día especial con e-Nigma
+[quest_title_1040002960001021] Un día especial con e-Nigma (2)
+[quest_title_1030110000601200] Una lección para un líder
+[quest_title_1030607000601000] ¡Esto es dedicación por los
+Ultraentes!
+[quest_title_1030607000601040] VS. Entrenadores de Passio
+[quest_title_1030607000601010] Una quedada con un final
+amargo
+[quest_title_1030607000601050] VS. Entrenadores de Passio (2)
+[quest_title_1030607000601020] La historia se repite
+[quest_title_1030607000601060] VS. Entrenadores de Passio (3)
+[quest_title_1030607000601030] ¡Seremos una ultrapareja de
+compis!
+[quest_title_1030607000601070] VS. Entrenadores de Passio (4)
+[quest_title_1030607000601080] ¡Un combate difícil al día!
+[quest_title_1030607000601090] ¡Un combate desafiante!
+[quest_title_1030607000601100] ¡Un combate desafiante! (2)
+[quest_title_1030220122800000] Un día con Elio
+[quest_title_1030220123800000] Un día con Selene
+[quest_title_1030460102001010] VS. Giovanni con todo
+[quest_title_1030607000602000] El vínculo ideal
+[quest_title_1030607000602040] VS. N
+[quest_title_1030607000602010] Un tipo peculiar de Teselia
+[quest_title_1030607000602050] VS. N (2)
+[quest_title_1030607000602020] Mi Pokémon, mi familia
+[quest_title_1030607000602060] VS. N (3)
+[quest_title_1030607000602030] Un colegui nuevo
+[quest_title_1030607000602070] VS. N (4)
+[quest_title_1030607000602080] ¡Un combate difícil al día!
+[quest_title_1030607000602090] ¡Un combate desafiante!
+[quest_title_1030607000602100] ¡Un combate desafiante! (2)
+[quest_title_1030220317000000] Un día con Damián
+[quest_title_1030607000603000] La criatura del foso de Paldea
+[quest_title_1030607000603010] Pokémon Paradoja
+[quest_title_1030607000603050] VS. Damián
+[quest_title_1030607000603020] Misterioso y novedoso
+[quest_title_1030607000603060] VS. Damián (2)
+[quest_title_1030607000603030] Enfocada en otra cosa
+[quest_title_1030607000603070] VS. Damián (3)
+[quest_title_1030607000603040] La respuesta de Mencía y
+Colagrito
+[quest_title_1030607000603080] VS. Damián (4)
+[quest_title_1030607000603090] ¡Un combate difícil al día!
+[quest_title_1030607000603100] ¡Un combate desafiante!
+[quest_title_1030607000603110] ¡Un combate desafiante! (2)
+[quest_title_1030220289100000] Un día con Mencía (Traje S)
+[quest_title_1030607000604000] ¡Enfréntate a Destra!
+[quest_title_1030607000604010] ¡Enfréntate a Destra! (2)
+[quest_title_1030460700200010] Los motivos para combatir
+junto con Nidorino
+[quest_title_1030460700201010] VS. Agatha
+[quest_title_1030460700202010] VS. Agatha (2)
+[quest_title_1030460700203010] VS. Agatha (3)
+[quest_title_1030460700204010] VS. Agatha (4)
+[quest_group_title_100390] Preludio: Trama Piedras
+Misteriosas
+[quest_group_title_10122800000] Elio (Ultra)
+[quest_group_title_10123800000] Selene (Ultra)
+[quest_group_title_10317000000] Damián
+[quest_group_title_10289100000] Mencía (Traje S)
+[quest_group_detail_100210] El eco de una deidad
 
 ===========
 story_quest_name_fr.lsd
@@ -20609,6 +20788,78 @@ Dresseurs de Passio IV
 [quest_title_1030460600614010] Combat : Tierno
 [quest_title_1030460600615010] Combat : Travis
 [quest_title_1030460600617010] Combat : Bianca
+[quest_title_1040002960001011] Une journée spéciale
+avec Mashynn
+[quest_title_1040002960001021] Une journée spéciale
+avec Mashynn II
+[quest_title_1030110000601200] Un Maître qui n'est pas
+à la hauteur
+[quest_title_1030607000601000] Rendre les Ultra-Chimères
+plus populaires !
+[quest_title_1030607000601040] Combat : Dresseurs de Passio
+[quest_title_1030607000601010] Une rencontre complexe
+[quest_title_1030607000601050] Combat :
+Dresseurs de Passio II
+[quest_title_1030607000601020] Ce qui ne change pas
+[quest_title_1030607000601060] Combat :
+Dresseurs de Passio III
+[quest_title_1030607000601030] Formons des ultra-Duos !
+[quest_title_1030607000601070] Combat :
+Dresseurs de Passio IV
+[quest_title_1030607000601080] Combat difficile limité
+à une fois par jour !
+[quest_title_1030607000601090] Combat difficile
+[quest_title_1030607000601100] Combat difficile II
+[quest_title_1030220122800000] Une journée avec Elio
+[quest_title_1030220123800000] Une journée avec Selene
+[quest_title_1030460102001010] Combat : Giovanni sans merci
+[quest_title_1030607000602000] La relation idéale
+[quest_title_1030607000602040] Combat : N
+[quest_title_1030607000602010] Un type étrange
+venu d'Unys ?
+[quest_title_1030607000602050] Combat : N II
+[quest_title_1030607000602020] Mon Pokémon, un membre
+de ma famille
+[quest_title_1030607000602060] Combat : N III
+[quest_title_1030607000602030] Un nouvel ami
+[quest_title_1030607000602070] Combat : N IV
+[quest_title_1030607000602080] Combat difficile limité
+à une fois par jour !
+[quest_title_1030607000602090] Combat difficile
+[quest_title_1030607000602100] Combat difficile II
+[quest_title_1030220317000000] Une journée avec Pepper
+[quest_title_1030607000603000] Ce serait pas... ?!
+[quest_title_1030607000603010] Un Pokémon Paradoxe
+[quest_title_1030607000603050] Combat : Pepper
+[quest_title_1030607000603020] Les choses et les personnes
+de valeur
+[quest_title_1030607000603060] Combat : Pepper II
+[quest_title_1030607000603030] Ce qui compte le plus
+[quest_title_1030607000603070] Combat : Pepper III
+[quest_title_1030607000603040] Le choix de Menzi
+et Hurle-Queue
+[quest_title_1030607000603080] Combat : Pepper IV
+[quest_title_1030607000603090] Combat difficile limité
+à une fois par jour !
+[quest_title_1030607000603100] Combat difficile
+[quest_title_1030607000603110] Combat difficile II
+[quest_title_1030220289100000] Une journée avec Menzi
+(Look Ultime)
+[quest_title_1030607000604000] Combat corsé : Cathy
+[quest_title_1030607000604010] Combat corsé : Cathy II
+[quest_title_1030460700200010] Les raisons de combattre
+avec Nidorino
+[quest_title_1030460700201010] Combat : Agatha
+[quest_title_1030460700202010] Combat : Agatha II
+[quest_title_1030460700203010] Combat : Agatha III
+[quest_title_1030460700204010] Combat : Agatha IV
+[quest_group_title_100390] Roches Mystérieuses
+(prologue)
+[quest_group_title_10122800000] Elio (Ultra)
+[quest_group_title_10123800000] Selene (Ultra)
+[quest_group_title_10317000000] Pepper
+[quest_group_title_10289100000] Menzi (Look Ultime)
+[quest_group_detail_100210] L'écho d'une voix divine
 
 ===========
 story_quest_name_it.lsd
@@ -24536,6 +24787,61 @@ Persone famose ovunque!
 [quest_title_1030460600614010] VS Tierno
 [quest_title_1030460600615010] VS Beet
 [quest_title_1030460600617010] VS Belle
+[quest_title_1040002960001011] Un giorno speciale con Kissara (1ª parte)
+[quest_title_1040002960001021] Un giorno speciale con Kissara (2ª parte)
+[quest_title_1030110000601200] All'altezza della sfida
+[quest_title_1030607000601000] Entusiasmo ultracontagioso
+[quest_title_1030607000601040] VS Allenatori di Pasio
+[quest_title_1030607000601010] Ultraincontro impegnativo
+[quest_title_1030607000601050] VS Allenatori di Pasio 2
+[quest_title_1030607000601020] La storia si ripete
+[quest_title_1030607000601060] VS Allenatori di Pasio 3
+[quest_title_1030607000601030] Formiamo Unità ultra!
+[quest_title_1030607000601070] VS Allenatori di Pasio 4
+[quest_title_1030607000601080] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030607000601090] Sfida ad alta difficoltà
+[quest_title_1030607000601100] Sfida ad alta difficoltà 2
+[quest_title_1030220122800000] Un giorno con Elio
+[quest_title_1030220123800000] Un giorno con Selene
+[quest_title_1030460102001010] VS Giovanni (risoluto)
+[quest_title_1030607000602000] Ideali di amicizia
+[quest_title_1030607000602040] VS N
+[quest_title_1030607000602010] Un tipo bislacco da Unima
+[quest_title_1030607000602050] VS N 2
+[quest_title_1030607000602020] Come un membro della famiglia
+[quest_title_1030607000602060] VS N 3
+[quest_title_1030607000602030] Un nuovo amico
+[quest_title_1030607000602070] VS N 4
+[quest_title_1030607000602080] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030607000602090] Sfida ad alta difficoltà
+[quest_title_1030607000602100] Sfida ad alta difficoltà 2
+[quest_title_1030220317000000] Un giorno con Pepe
+[quest_title_1030607000603000] M-Ma quello è...?!
+[quest_title_1030607000603010] Un Pokémon Paradosso
+[quest_title_1030607000603050] VS Pepe
+[quest_title_1030607000603020] Individui, eventi e oggetti peculiari
+[quest_title_1030607000603060] VS Pepe 2
+[quest_title_1030607000603030] Nulla a che fare con il futuro
+[quest_title_1030607000603070] VS Pepe 3
+[quest_title_1030607000603040] La risposta davanti agli occhi
+[quest_title_1030607000603080] VS Pepe 4
+[quest_title_1030607000603090] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030607000603100] Sfida ad alta difficoltà
+[quest_title_1030607000603110] Sfida ad alta difficoltà 2
+[quest_title_1030220289100000] Un giorno con Nemi Costumax
+[quest_title_1030607000604000] Sfida un avversario potente: Alberta
+[quest_title_1030607000604010] Sfida un avversario potente: Alberta 2
+[quest_title_1030460700200010] Le ragioni di Oak
+[quest_title_1030460700201010] VS Agatha
+[quest_title_1030460700202010] VS Agatha 2
+[quest_title_1030460700203010] VS Agatha 3
+[quest_title_1030460700204010] VS Agatha 4
+[quest_group_title_100390] Inizio - Le Pietre misteriose
+[quest_group_title_10122800000] Elio (alternativo)
+[quest_group_title_10123800000] Selene (alternativo)
+[quest_group_title_10317000000] Pepe
+[quest_group_title_10289100000] Nemi Costumax
+[quest_group_detail_100210] La voce primeva
 
 ===========
 story_quest_name_ja.lsd
@@ -28557,6 +28863,63 @@ story_quest_name_ja.lsd
 [quest_title_1030460600614010] ＶＳ　ティエルノ
 [quest_title_1030460600615010] ＶＳ　ビート
 [quest_title_1030460600617010] ＶＳ　ベル
+[quest_title_1040002960001011] ナンジャモとの特別な一日　前編
+[quest_title_1040002960001021] ナンジャモとの特別な一日　後編
+[quest_title_1030110000601200] 導く役目　挑戦者の苦労
+[quest_title_1030607000601000] ウルトラビースト推し活動！
+[quest_title_1030607000601040] ＶＳ　パシオのトレーナー
+[quest_title_1030607000601010] 前途多難なウルトラ交流会
+[quest_title_1030607000601050] ＶＳ　パシオのトレーナー２
+[quest_title_1030607000601020] 今も昔も根っこは同じ
+[quest_title_1030607000601060] ＶＳ　パシオのトレーナー３
+[quest_title_1030607000601030] ウルトラなバディーズを目指して
+[quest_title_1030607000601070] ＶＳ　パシオのトレーナー４
+[quest_title_1030607000601080] １日１回限定・高難度バトル！
+[quest_title_1030607000601090] チャレンジバトルで勝負！
+[quest_title_1030607000601100] チャレンジバトルで勝負！２
+[quest_title_1030220122800000] とある日のヨウ
+[quest_title_1030220123800000] とある日のミヅキ
+[quest_title_1030460102001010] ＶＳ　超本気のサカキ
+[quest_title_1030607000602000] 探していた理想の関係
+[quest_title_1030607000602040] ＶＳ　Ｎ
+[quest_title_1030607000602010] イッシュ地方の不思議ちゃん？
+[quest_title_1030607000602050] ＶＳ　Ｎ２
+[quest_title_1030607000602020] 家族同然のポケモン
+[quest_title_1030607000602060] ＶＳ　Ｎ３
+[quest_title_1030607000602030] 新しい「ダチ」
+[quest_title_1030607000602070] ＶＳ　Ｎ４
+[quest_title_1030607000602080] １日１回限定・高難度バトル！
+[quest_title_1030607000602090] チャレンジバトルで勝負！
+[quest_title_1030607000602100] チャレンジバトルで勝負！２
+[quest_title_1030220317000000] とある日のペパー
+[quest_title_1030607000603000] あのときの……！？
+[quest_title_1030607000603010] 「パラドックスポケモン」
+[quest_title_1030607000603050] ＶＳ　ペパー
+[quest_title_1030607000603020] 珍しいモノ
+[quest_title_1030607000603060] ＶＳ　ペパー２
+[quest_title_1030607000603030] 未来ではない別のところ
+[quest_title_1030607000603070] ＶＳ　ペパー３
+[quest_title_1030607000603040] サケブシッポとネモの選択
+[quest_title_1030607000603080] ＶＳ　ペパー４
+[quest_title_1030607000603090] １日１回限定・高難度バトル！
+[quest_title_1030607000603100] チャレンジバトルで勝負！
+[quest_title_1030607000603110] チャレンジバトルで勝負！２
+[quest_title_1030220289100000] とある日のマジコスネモ
+[quest_title_1030607000604000] 強敵に挑戦！　ＶＳ　リラ
+[quest_title_1030607000604010] 強敵に挑戦！　ＶＳ　リラ２
+[quest_title_1030460700200010] ニドリーノで戦う理由
+[quest_title_1030460700201010] ＶＳ　キクコ
+[quest_title_1030460700202010] ＶＳ　キクコ２
+[quest_title_1030460700203010] ＶＳ　キクコ３
+[quest_title_1030460700204010] ＶＳ　キクコ４
+[quest_group_title_100390] 序章　謎の石編
+[quest_group_title_10122800000] ヨウ
+（アナザー）
+[quest_group_title_10123800000] ミヅキ
+（アナザー）
+[quest_group_title_10317000000] ペパー
+[quest_group_title_10289100000] マジコスネモ
+[quest_group_detail_100210] パシオに響く神の声
 
 ===========
 story_quest_name_ko.lsd
@@ -32577,6 +32940,63 @@ story_quest_name_ko.lsd
 [quest_title_1030460600614010] VS 티에르노
 [quest_title_1030460600615010] VS 비트
 [quest_title_1030460600617010] VS 벨
+[quest_title_1040002960001011] 모야모와의 특별한 하루 전편
+[quest_title_1040002960001021] 모야모와의 특별한 하루 후편
+[quest_title_1030110000601200] 이끄는 역할, 도전자의 고생
+[quest_title_1030607000601000] 울트라비스트 지원 활동!
+[quest_title_1030607000601040] VS 파시오의 트레이너
+[quest_title_1030607000601010] 전도다난한 울트라 교류회
+[quest_title_1030607000601050] VS 파시오의 트레이너2
+[quest_title_1030607000601020] 예나 지금이나 동일한 본질
+[quest_title_1030607000601060] VS 파시오의 트레이너3
+[quest_title_1030607000601030] 울트라한 버디즈를 목표로
+[quest_title_1030607000601070] VS 파시오의 트레이너4
+[quest_title_1030607000601080] 1일 1회 한정 고난도 배틀!
+[quest_title_1030607000601090] 챌린지배틀로 승부!
+[quest_title_1030607000601100] 챌린지배틀로 승부!2
+[quest_title_1030220122800000] 영태의 어느 날
+[quest_title_1030220123800000] 미월의 어느 날
+[quest_title_1030460102001010] VS 진심으로 전력을 다하는 비주기
+[quest_title_1030607000602000] 찾고 있던 이상적인 관계
+[quest_title_1030607000602040] VS N
+[quest_title_1030607000602010] 하나지방의 특이한 사람?
+[quest_title_1030607000602050] VS N2
+[quest_title_1030607000602020] 가족이나 다름없는 포켓몬
+[quest_title_1030607000602060] VS N3
+[quest_title_1030607000602030] 새로운 "친구"
+[quest_title_1030607000602070] VS N4
+[quest_title_1030607000602080] 1일 1회 한정 고난도 배틀!
+[quest_title_1030607000602090] 챌린지배틀로 승부!
+[quest_title_1030607000602100] 챌린지배틀로 승부!2
+[quest_title_1030220317000000] 페퍼의 어느 날
+[quest_title_1030607000603000] 그때 그...!?
+[quest_title_1030607000603010] "패러독스포켓몬"
+[quest_title_1030607000603050] VS 페퍼
+[quest_title_1030607000603020] 희귀한 것
+[quest_title_1030607000603060] VS 페퍼2
+[quest_title_1030607000603030] 미래가 아닌 다른 곳
+[quest_title_1030607000603070] VS 페퍼3
+[quest_title_1030607000603040] 우렁찬꼬리와 네모의 선택
+[quest_title_1030607000603080] VS 페퍼4
+[quest_title_1030607000603090] 1일 1회 한정 고난도 배틀!
+[quest_title_1030607000603100] 챌린지배틀로 승부!
+[quest_title_1030607000603110] 챌린지배틀로 승부!2
+[quest_title_1030220289100000] 궁극코스 네모의 어느 날
+[quest_title_1030607000604000] 강적에게 도전! VS 리라
+[quest_title_1030607000604010] 강적에게 도전! VS 리라2
+[quest_title_1030460700200010] 니드리노인 채로 싸우는 이유
+[quest_title_1030460700201010] VS 국화
+[quest_title_1030460700202010] VS 국화2
+[quest_title_1030460700203010] VS 국화3
+[quest_title_1030460700204010] VS 국화4
+[quest_group_title_100390] 서장 수수께끼의 돌 편
+[quest_group_title_10122800000] 영태
+(어나더)
+[quest_group_title_10123800000] 미월
+(어나더)
+[quest_group_title_10317000000] 페퍼
+[quest_group_title_10289100000] 궁극코스 네모
+[quest_group_detail_100210] 파시오에 울리는 신의 목소리
 
 ===========
 story_quest_name_zh-TW.lsd
@@ -36597,6 +37017,63 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030460600614010] ＶＳ　提耶魯諾
 [quest_title_1030460600615010] ＶＳ　彼特
 [quest_title_1030460600617010] ＶＳ　白露
+[quest_title_1040002960001011] 與奇樹的特別日子　前篇
+[quest_title_1040002960001021] 與奇樹的特別日子　後篇
+[quest_title_1030110000601200] 引導者的使命與挑戰者的苦頭
+[quest_title_1030607000601000] 究極異獸推廣活動！
+[quest_title_1030607000601040] ＶＳ　帕希歐的訓練家
+[quest_title_1030607000601010] 前途坎坷的究極交流會
+[quest_title_1030607000601050] ＶＳ　帕希歐的訓練家２
+[quest_title_1030607000601020] 過去和現在本質都一樣
+[quest_title_1030607000601060] ＶＳ　帕希歐的訓練家３
+[quest_title_1030607000601030] 目標是成為究極拍組
+[quest_title_1030607000601070] ＶＳ　帕希歐的訓練家４
+[quest_title_1030607000601080] １天僅限１次的高難度對戰！
+[quest_title_1030607000601090] 用挑戰對戰決勝負！
+[quest_title_1030607000601100] 用挑戰對戰決勝負！２
+[quest_title_1030220122800000] 某日的小陽
+[quest_title_1030220123800000] 某日的美月
+[quest_title_1030460102001010] ＶＳ　火力全開的阪木
+[quest_title_1030607000602000] 尋求已久的理想關係
+[quest_title_1030607000602040] ＶＳ　Ｎ
+[quest_title_1030607000602010] 合眾地區的作風奇異派？
+[quest_title_1030607000602050] ＶＳ　Ｎ２
+[quest_title_1030607000602020] 如同家人的寶可夢
+[quest_title_1030607000602060] ＶＳ　Ｎ３
+[quest_title_1030607000602030] 新的「死黨」
+[quest_title_1030607000602070] ＶＳ　Ｎ４
+[quest_title_1030607000602080] １天僅限１次的高難度對戰！
+[quest_title_1030607000602090] 用挑戰對戰決勝負！
+[quest_title_1030607000602100] 用挑戰對戰決勝負！２
+[quest_title_1030220317000000] 某日的派帕
+[quest_title_1030607000603000] 是那個時候的……！？
+[quest_title_1030607000603010] 「悖謬寶可夢」
+[quest_title_1030607000603050] ＶＳ　派帕
+[quest_title_1030607000603020] 珍奇的事物
+[quest_title_1030607000603060] ＶＳ　派帕２
+[quest_title_1030607000603030] 著眼未來之外的地方
+[quest_title_1030607000603070] ＶＳ　派帕３
+[quest_title_1030607000603040] 吼叫尾和妮莫的選擇
+[quest_title_1030607000603080] ＶＳ　派帕４
+[quest_title_1030607000603090] １天僅限１次的高難度對戰！
+[quest_title_1030607000603100] 用挑戰對戰決勝負！
+[quest_title_1030607000603110] 用挑戰對戰決勝負！２
+[quest_title_1030220289100000] 某日的美極套裝妮莫
+[quest_title_1030607000604000] 挑戰強敵！　ＶＳ　莉拉
+[quest_title_1030607000604010] 挑戰強敵！　ＶＳ　莉拉２
+[quest_title_1030460700200010] 用尼多力諾對戰的理由
+[quest_title_1030460700201010] ＶＳ　菊子
+[quest_title_1030460700202010] ＶＳ　菊子２
+[quest_title_1030460700203010] ＶＳ　菊子３
+[quest_title_1030460700204010] ＶＳ　菊子４
+[quest_group_title_100390] 序章　神秘石篇
+[quest_group_title_10122800000] 小陽
+（阿羅拉）
+[quest_group_title_10123800000] 美月
+（阿羅拉）
+[quest_group_title_10317000000] 派帕
+[quest_group_title_10289100000] 美極套裝妮莫
+[quest_group_detail_100210] 出現在帕希歐的神之聲
 
 ===========
 trainer_description_de.lsd
@@ -38028,6 +38505,28 @@ besessen von dem Gedanken, immer stärker zu werden.
 repräsentiert. Für ihre Stadt hat sie es sich zum Ziel
 gesetzt, Champ zu werden. Ihre vielen Fans verdankt sie
 ihrem Kampfeseifer und ihrer Schönheit.
+[10123800000] Selene trägt ein unübliches Outfit, um sich noch besser mit
+Ultrabestien anzufreunden. Sie und ihr Partner Anego
+entspannen sich heute in einem Café.
+[10122800000] Elio trägt ein unübliches Outfit, um sich noch besser mit
+Ultrabestien anzufreunden. Heute unternimmt er einen
+entspannten Spaziergang mit seinem Partner Muramura.
+[10317000000] Dieser Trainer besucht eine Akademie in Paldea. Er wirkt
+unfreundlich, ist jedoch gütig und leidenschaftlich. Es ist
+sein großes Ziel, ein Koch zu werden, der Pokémon helfen
+kann, sich besser zu fühlen.
+[10289100000] Nemila trägt eine Machtmontur. Beim Kampf mit einem
+etwas wildgewordenen Brüllschweif, dessen urzeitliche
+Stärke mächtig einschlägt, geht sie aufs Ganze.
+[10296000001] Diese Arenaleiterin aus Fermanca City ist als Streamerin
+für ihre Show „EnigmaTV“ bekannt. Ihre unverwechselbare
+Begrüßung ist knackig und leicht einprägsam.
+[10137000001] Er ist eine Koryphäe in der Pokémon-Forschung und soll
+früher ein zielstrebiger Trainer gewesen sein. Er ist Blaus
+Großvater.
+[10021000002] Der Enkel des berühmten Professor Eich ist einer der
+stärksten Trainer in ganz Kanto. Rot ist für ihn zugleich
+ewiger Rivale und enger Freund.
 
 ===========
 trainer_description_en.lsd
@@ -39140,8 +39639,8 @@ in the night sky.
 head, but when his matches start to heat up, that’s when
 his passionate side comes out. He used to be a pro
 snowboarder.
-[10296000000] This Levincia City Gym Leader from Paldea is also a 
-popular streamer and famous for hosting the Iono Zone.
+[10296000000] This Levincia Gym Leader from Paldea is also a popular
+streamer and famous for hosting the Iono Zone.
 Her catchy greeting is unmistakable.
 [10658000000] This Trainer in a white furisode is studying under Valerie
 at Laverre Gym in Kalos. She’s proud of the fact that she
@@ -39294,6 +39793,27 @@ rebellious and fixated on becoming stronger.
 [10245000002] This Trainer from Spikemuth in the Galar region hopes to
 become Champion to liven up her hometown. Her battle
 tactics and cute appearance have earned her many fans.
+[10123800000] Selene’s wearing a different outfit than usual so she can
+be even better friends with Ultra Beasts. Today, she and
+her partner Nihilego are relaxing at a café, as always.
+[10122800000] Elio’s wearing a different outfit than usual so he can
+be even better friends with Ultra Beasts. Today, he and
+his partner Stakataka are taking a calm walk, as always.
+[10317000000] This Trainer attends an academy in Paldea. He appears to
+be unfriendly but is actually kind and passionate. He’s
+aiming to be a chef who can help Pokémon feel better.
+[10289100000] Nemona is wearing a sygna suit. She battles relentlessly
+with a slightly wild Scream Tail, their ancient power at
+full force.
+[10296000001] This Levincia Gym Leader from Paldea is also a popular
+streamer and famous for hosting the Iono Zone. Her
+catchy greeting is unmistakable.
+[10137000001] This pioneering Pokémon Professor was an accomplished
+Trainer in his heyday and has since become an authority
+on Pokémon research. He is also Blue’s grandfather.
+[10021000002] This highly skilled, powerhouse Trainer prominent in Kanto
+is the grandson of the famous Professor Oak. Red is both
+his lifelong rival and his best friend.
 
 ===========
 trainer_description_es.lsd
@@ -40768,6 +41288,29 @@ fuerte.
 región de Galar. Quiere convertirse en Campeona para
 honrar a su pueblo natal. Su estilo y su dinamismo le han
 granjeado muchos admiradores.
+[10123800000] Selene lleva un atuendo distinto al habitual para hacer
+buenas migas con los Ultraentes. Le encanta pasar el rato
+en cafeterías junto con Nihilego, su compi.
+[10122800000] Elio lleva un atuendo distinto al habitual para hacer
+buenas migas con los Ultraentes. Disfruta yendo de paseo
+con su compi Stakataka.
+[10317000000] Entrenador que estudia en una academia de Paldea.
+Puede aparentar ser algo hostil, pero tiene un trasfondo 
+cordial y entusiasta. Quiere ser cocinero para ayudar
+a los Pokémon a sentirse mejor.
+[10289100000] Mencía se ha hecho por fin con su ansiado Traje Summum
+y lucha codo con codo junto al algo asilvestrado Colagrito,
+que va sobrado de vigor ancestral.
+[10296000001] Esta Líder de Gimnasio de Ciudad Leudal, en Paldea, es
+también una famosa streamer conocida por su programa
+Khé-NigmaTV. Su saludo es tan pegadizo como
+inconfundible.
+[10137000001] Una eminencia en el mundo de la investigación Pokémon.
+Parece que en sus años mozos también era un portentoso
+Entrenador. Es el abuelo de Azul.
+[10021000002] Nieto del renombrado Profesor Oak y uno de los
+Entrenadores más diestros de Kanto. Gran amigo,
+a la par que eterno rival, de Rojo.
 
 ===========
 trainer_description_fr.lsd
@@ -42205,6 +42748,31 @@ aussi connu pour son obsession pour la puissance.
 Maître de Galar afin de raviver sa petite ville.
 Son esprit stratège et son style lui ont fait
 gagner de nombreux admirateurs.
+[10123800000] Selene porte une tenue différente afin de mieux s'intégrer
+auprès des Ultra-Chimères. Aujourd'hui, comme
+à son habitude, elle se détend dans un café
+avec son partenaire, Zéroïd.
+[10122800000] Elio porte une tenue différente afin de mieux s'intégrer
+auprès des Ultra-Chimères. Aujourd'hui, comme
+à son habitude, il se promène calmement
+avec son partenaire, Ama-Ama.
+[10317000000] Ce Dresseur étudie à l'académie de la région de Paldea.
+D'apparence plutôt hostile, il est en réalité aimable
+et passionné. Il souhaite devenir cuisinier afin
+de redonner la forme aux Pokémon.
+[10289100000] Menzi porte un Look Ultime. Elle combat sans relâche
+aux côtés d'un Hurle-Queue quelque peu sauvage
+aux puissants pouvoirs anciens.
+[10296000001] Cette Championne d'Arène de Levalendura venue de
+Paldea est une streameuse populaire pour son émission
+« Les Machins de Mashynn ». Elle est connue pour
+ses répliques fétiches très reconnaissables.
+[10137000001] Grand-père de Blue et l'une des plus grandes autorités
+en matière de recherche Pokémon. On dit qu'il était
+également un Dresseur chevronné dans sa jeunesse.
+[10021000002] Un des plus puissants Dresseurs de Kanto, petit-fils
+du célèbre Professeur Chen et meilleur ami et éternel
+rival de Red.
 
 ===========
 trainer_description_it.lsd
@@ -43594,6 +44162,28 @@ faceva affidamento unicamente sulla propria forza.
 Campionessa per il bene della propria città, Spikeville.
 Il suo aspetto grazioso e la sua risolutezza nelle lotte
 hanno conquistato il cuore di innumerevoli fan.
+[10123800000] Selene sfoggia un abito diverso dal solito per legare
+sempre più con le Ultracreature. Anche oggi si rilassa
+in caffetteria assieme al suo Pokémon, Nihilego.
+[10122800000] Elio sfoggia un abito diverso dal solito per legare sempre
+più con le Ultracreature. Anche oggi fa una tranquilla
+passeggiata assieme al suo Pokémon, Stakataka.
+[10317000000] Allenatore che studia all'accademia di Paldea. Ha un'aria
+brusca, ma nasconde un animo gentile e appassionato.
+Mira a diventare un cuoco in grado di rimettere in forze
+i Pokémon.
+[10289100000] Nemi indossa un Costumax e lotta senza tregua
+assieme al suo Codaurlante un po' selvaggio,
+sfruttando appieno i suoi poteri di origine antica.
+[10296000001] La Capopalestra di Leudapoli, nonché celebre streamer
+di Maki6 TV. Il suo saluto è tanto orecchiabile quanto
+memorabile.
+[10137000001] Un luminare nel campo della ricerca sui Pokémon.
+Pare che da giovane fosse un Allenatore davvero
+in gamba. È il nonno di Blu.
+[10021000002] Nipote del celebre Professor Oak, nonché uno dei più forti
+Allenatori di Kanto.
+Rosso è per lui un amico e un rivale storico.
 
 ===========
 trainer_description_ja.lsd
@@ -44837,6 +45427,27 @@ trainer_description_ja.lsd
 [10245000002] ガラル地方　スパイクタウンを代表する　トレーナー。
 自分の街のために　チャンピオンを　目指している。
 かれんな　みた目と　試合運びから　ファンが多い。
+[10123800000] ウルトラビーストと　もっと　仲良くなるために
+いつもと　違う服を　着てみた　ミヅキ。
+今日も　バディのウツロイドと　カフェでまったり。
+[10122800000] ウルトラビーストと　もっと　仲良くなるために
+いつもと　違う服を　着てみた　ヨウ。
+今日も　バディのツンデツンデと　のんびり　お散歩。
+[10317000000] パルデア地方の　アカデミーに通う　トレーナー。
+不愛想にみえるが　本当は熱く　思いやりのある性格。
+ポケモンを元気にする　料理人を　目指している。
+[10289100000] マジコスを　身にまとった　ネモ。
+ちょっぴり　ワイルドめな　サケブシッポと
+古代のパワー全開で　勝負に明け暮れる。
+[10296000001] パルデア地方　ハッコウシティの　ジムリーダー。
+ドンナモンジャＴＶの　動画配信者としても　人気で
+配信者らしい　キャッチーな　あいさつが　印象的。
+[10137000001] ポケモン研究の　第一人者にして　権威。
+昔は　バリバリの　トレーナーだった　らしい。
+グリーンの　祖父。
+[10021000002] 有名な　オーキド博士の孫で　カントー地方では
+指折りの　実力を持つ　強豪ポケモントレーナー。
+レッドという　終生のライバルにして　親友がいる。
 
 ===========
 trainer_description_ko.lsd
@@ -46079,6 +46690,27 @@ WPM 운영위원회의 대표도 맡고 있다.
 [10245000002] 가라르지방 스파이크마을을 대표하는 트레이너.
 자신의 마을을 위해 챔피언을 목표하고 있다.
 귀여운 외모와 냉정한 시합 운영 능력 때문에 팬이 많다.
+[10123800000] 울트라비스트와 더 친해지기 위해
+평소와 다른 옷을 입어 본 미월.
+오늘도 버디인 텅비드와 카페에서 느긋한 시간을 보낸다.
+[10122800000] 울트라비스트와 더 친해지기 위해
+평소와 다른 옷을 입어 본 영태.
+오늘도 버디인 차곡차곡과 여유롭게 산책을 즐긴다.
+[10317000000] 팔데아지방의 아카데미에 다니고 있는 트레이너.
+쌀쌀맞아 보여도 사실은 뜨겁고 배려심 있는 성격이다.
+포켓몬을 건강하게 만드는 요리사를 목표로 하고 있다.
+[10289100000] 궁극코스를 입은 네모.
+살짝 사나워 보이는 우렁찬꼬리와
+고대의 파워를 발휘하며 승부에 몰두한다.
+[10296000001] 팔데아지방 누룩스시티의 체육관 관장.
+모야모야TV의 스트리머로서도 인기가 있으며
+스트리머다운 톡톡 튀는 인사가 인상적이다.
+[10137000001] 포켓몬 연구의 일인자이자 권위자.
+예전엔 이름 날리던 트레이너였던 듯하다.
+그린의 할아버지.
+[10021000002] 유명한 오박사의 손자이자 관동지방에서는
+손에 꼽힐만한 실력의 강호인 포켓몬 트레이너.
+레드라는 평생의 라이벌이자 친구가 있다.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -47320,6 +47952,27 @@ trainer_description_zh-TW.lsd
 [10245000002] 代表伽勒爾地區尖釘鎮的訓練家。
 她為了自己的故鄉，以成為冠軍為目標。
 可愛的外表和戰術的運用為她吸引了許多粉絲。
+[10123800000] 為了和究極異獸變得更要好，
+而換上了與平時不同的服裝的美月。
+她今天也會和拍檔虛吾伊德在咖啡店放鬆。
+[10122800000] 為了和究極異獸變得更要好，
+而換上了與平時不同的服裝的小陽。
+他今天也會和拍檔壘磊石悠哉地散步。
+[10317000000] 就學於帕底亞地區的學院的訓練家。
+性格看似冷淡，其實熱情體貼。
+他的目標是成為能讓寶可夢恢復活力的廚師。
+[10289100000] 身穿美極套裝的妮莫。
+她和有點狂野的吼叫尾會全力釋放
+古代的力量，日以繼夜地對戰。
+[10296000001] 帕底亞地區釀光市的道館館主。
+作為奇樹奇述直播的直播主也很受歡迎。
+富有直播主風格且充滿記憶點的招呼語令人印象深刻。
+[10137000001] 是寶可夢研究的第一把交椅，
+也是青綠的爺爺。
+據說年輕時是個非常活躍的訓練家。
+[10021000002] 著名的大木博士的孫子，關都地區
+屈指可數的實力派訓練家。赤紅是他
+永遠的勁敵，也是他最要好的朋友。
 
 ===========
 trainer_name_de.lsd
@@ -47511,6 +48164,7 @@ trainer_name_de.lsd
 [ch0204] Nuit
 [ch0205] Soir
 [ch0206] Journée
+[ch0212] Magno
 [ch0215] Xenia
 [ch0216] Eusin
 [ch0217] LeBelle
@@ -47604,6 +48258,7 @@ trainer_name_de.lsd
 [ch0304] Aoki
 [ch0272] Sophora
 [ch0273] Saverio
+[ch0317] Pepper
 
 ===========
 trainer_name_en.lsd
@@ -47795,6 +48450,7 @@ trainer_name_en.lsd
 [ch0204] Nita
 [ch0205] Evelyn
 [ch0206] Dana
+[ch0212] Benga
 [ch0215] Lisia
 [ch0216] Eusine
 [ch0217] Looker
@@ -47888,6 +48544,7 @@ trainer_name_en.lsd
 [ch0304] Larry
 [ch0272] Klara
 [ch0273] Avery
+[ch0317] Arven
 
 ===========
 trainer_name_es.lsd
@@ -48079,6 +48736,7 @@ trainer_name_es.lsd
 [ch0204] Nocta
 [ch0205] Vésper
 [ch0206] Meridia
+[ch0212] Guayo
 [ch0215] Ariana
 [ch0216] Eusine
 [ch0217] Handsome
@@ -48172,6 +48830,7 @@ trainer_name_es.lsd
 [ch0304] Laureano
 [ch0272] Sófora
 [ch0273] Dreo
+[ch0317] Damián
 
 ===========
 trainer_name_fr.lsd
@@ -48363,6 +49022,7 @@ trainer_name_fr.lsd
 [ch0204] Nix
 [ch0205] Vesper
 [ch0206] Méridia
+[ch0212] Guajava
 [ch0215] Atalante
 [ch0216] Eusine
 [ch0217] Beladonis
@@ -48456,6 +49116,7 @@ trainer_name_fr.lsd
 [ch0304] Okuba
 [ch0272] Sophora
 [ch0273] Saturnin
+[ch0317] Pepper
 
 ===========
 trainer_name_it.lsd
@@ -48647,6 +49308,7 @@ trainer_name_it.lsd
 [ch0204] Notturna
 [ch0205] Vespera
 [ch0206] Meridia
+[ch0212] Fedio
 [ch0215] Orthilla
 [ch0216] Eugenius
 [ch0217] Bellocchio
@@ -48740,6 +49402,7 @@ trainer_name_it.lsd
 [ch0304] Ubaldo
 [ch0272] Sofora
 [ch0273] Savory
+[ch0317] Pepe
 
 ===========
 trainer_name_ja.lsd
@@ -48931,6 +49594,7 @@ trainer_name_ja.lsd
 [ch0204] ラニュイ
 [ch0205] ルスワール
 [ch0206] ラジュルネ
+[ch0212] バンジロウ
 [ch0215] ルチア
 [ch0216] ミナキ
 [ch0217] ハンサム
@@ -49024,6 +49688,7 @@ trainer_name_ja.lsd
 [ch0304] アオキ
 [ch0272] クララ
 [ch0273] セイボリー
+[ch0317] ペパー
 
 ===========
 trainer_name_ko.lsd
@@ -49215,6 +49880,7 @@ trainer_name_ko.lsd
 [ch0204] 라뉴이
 [ch0205] 르수아르
 [ch0206] 라쥬르네
+[ch0212] 구아버
 [ch0215] 루티아
 [ch0216] 수호
 [ch0217] 핸섬
@@ -49308,6 +49974,7 @@ trainer_name_ko.lsd
 [ch0304] 청목
 [ch0272] 도정
 [ch0273] 세이버리
+[ch0317] 페퍼
 
 ===========
 trainer_name_zh-TW.lsd
@@ -49499,6 +50166,7 @@ trainer_name_zh-TW.lsd
 [ch0204] 夜妮
 [ch0205] 夕絲
 [ch0206] 晝珠
+[ch0212] 蕃石郎
 [ch0215] 琉琪亞
 [ch0216] 水京
 [ch0217] 帥哥
@@ -49592,6 +50260,7 @@ trainer_name_zh-TW.lsd
 [ch0304] 青木
 [ch0272] 克拉拉
 [ch0273] 賽寶利
+[ch0317] 派帕
 
 ===========
 trainer_verbose_name_de.lsd
@@ -49835,6 +50504,11 @@ trainer_verbose_name_de.lsd
 (Saison 2024)
 [10007410000] Lola 
 (Saison 2024)
+[10123800000] Selene 
+(Variante)
+[10122800000] Elio 
+(Variante)
+[10289100000] MaMo-Nemila
 
 ===========
 trainer_verbose_name_en.lsd
@@ -50089,6 +50763,12 @@ Gladion
 (Summer 2024)
 [10007410000] Acerola 
 (Summer 2024)
+[10123800000] Selene
+(Alt.)
+[10122800000] Elio
+(Alt.)
+[10289100000] Sygna Suit 
+Nemona
 
 ===========
 trainer_verbose_name_es.lsd
@@ -50305,6 +50985,9 @@ con Kimono)
 (Temporada 24)
 [10007410000] Zarala 
 (Temporada 24)
+[10123800000] Selene (Ultra)
+[10122800000] Elio (Ultra)
+[10289100000] Mencía (Traje S)
 
 ===========
 trainer_verbose_name_fr.lsd
@@ -50539,6 +51222,9 @@ trainer_verbose_name_fr.lsd
 [10027400000] Flo (Saison 2024)
 [10007410000] Margie 
 (Saison 2024)
+[10123800000] Selene (Ultra)
+[10122800000] Elio (Ultra)
+[10289100000] Menzi (Ultime)
 
 ===========
 trainer_verbose_name_it.lsd
@@ -50783,6 +51469,11 @@ trainer_verbose_name_it.lsd
 (feste 2024)
 [10007410000] Malpi 
 (feste 2024)
+[10123800000] Selene 
+(alternativo)
+[10122800000] Elio
+(alternativo)
+[10289100000] Nemi Costumax
 
 ===========
 trainer_verbose_name_ja.lsd
@@ -51027,6 +51718,11 @@ trainer_verbose_name_ja.lsd
 （２４シーズン）
 [10007410000] アセロラ
 （２４シーズン）
+[10123800000] ミヅキ
+（アナザー）
+[10122800000] ヨウ
+（アナザー）
+[10289100000] マジコスネモ
 
 ===========
 trainer_verbose_name_ko.lsd
@@ -51271,6 +51967,11 @@ trainer_verbose_name_ko.lsd
 (24시즌)
 [10007410000] 아세로라
 (24시즌)
+[10123800000] 미월
+(어나더)
+[10122800000] 영태
+(어나더)
+[10289100000] 궁극코스 네모
 
 ===========
 trainer_verbose_name_zh-TW.lsd
@@ -51515,6 +52216,11 @@ trainer_verbose_name_zh-TW.lsd
 （２０２４夏季）
 [10007410000] 阿塞蘿拉
 （２０２４夏季）
+[10123800000] 美月
+（阿羅拉）
+[10122800000] 小陽
+（阿羅拉）
+[10289100000] 美極套裝妮莫
 
 ===========
 common_widget_de.lsd
@@ -51811,6 +52517,13 @@ Tausch erhalten hast, werden im Lager deiner
 Geschenkbox abgelegt.
 [common_widget/dialog_138] “[Name:EventName ]”
 [Name:Item ]
+[common_widget/dialog_139] Die Struktur und Belohnungen der
+Hauptgeschichte wurden überarbeitet.
+Belohnungen für bereits abgeschlossene
+Gebietsinfos wurden abgeholt.
+[common_widget/dialog_140] Hinweis: Die folgenden Belohnungen wurden bereits
+abgeholt.
+Juwelen werden nach und nach freigegeben.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -52636,6 +53349,12 @@ have been automatically exchanged.
 stored in the Temp Storage section of your Present Box.
 [common_widget/dialog_138] [Name:EventName ]
 [Name:Item ]
+[common_widget/dialog_139] The structure and rewards of the main
+story have been adjusted.
+Rewards for area info that you’ve
+already completed have been obtained.
+[common_widget/dialog_140] Note: The following rewards have already been claimed.
+Gems will be distributed gradually.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -53438,6 +54157,12 @@ y se han canjeado automáticamente.
 guardarán en la sección Reserva de la caja de regalos.
 [common_widget/dialog_138] [Name:Item ]
 ([Name:EventName ])
+[common_widget/dialog_139] Se han ajustado la estructura y los
+premios de la historia principal. Has
+recibido los premios de las ubicaciones
+que ya hubieras completado.
+[common_widget/dialog_140] Nota: Ya has obtenido los siguientes premios.
+Las joyas se distribuirán de forma gradual.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Nv.
 [common_widget/trainer_detail_004] MÁX.
@@ -54269,6 +54994,13 @@ automatique seront mises en attente dans
 le menu « Cadeaux ».
 [common_widget/dialog_138] [Name:Item ]
 ([Name:EventName ])
+[common_widget/dialog_139] La structure et les récompenses du
+scénario principal ont été ajustées.
+Les récompenses pour les zones
+déjà complétées ont été obtenues.
+[common_widget/dialog_140] Remarques :
+- Les récompenses suivantes ont déjà été reçues.
+- Les Diamants seront distribués progressivement.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] N.
 [common_widget/trainer_detail_004] MAX
@@ -54833,7 +55565,7 @@ common_widget_it.lsd
 [common_widget/cell_026] In Borsa
 [common_widget/cell_027] Completa prima "[Name:QuestTitle ]".
 [common_widget/cell_028] Sblocca
-[common_widget/cell_029] Debole a
+[common_widget/cell_029] Debolezza
 [common_widget/cell_030] Attacchi
 [common_widget/cell_031] Boss
 [common_widget/cell_032] Ne hai
@@ -55097,6 +55829,12 @@ e sono stati scambiati automaticamente.
 saranno inviate alla sezione "In attesa" dei Regali.
 [common_widget/dialog_138] [Name:Item ]
 ([Name:EventName ])
+[common_widget/dialog_139] Le ricompense e la struttura della storia
+principale sono state rivisitate.
+Sono state ottenute le ricompense
+per le Guide area già completate.
+[common_widget/dialog_140] Nota: hai già ricevuto le seguenti ricompense.
+Le gemme verranno distribuite poco alla volta.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] L.
 [common_widget/trainer_detail_004] MAX
@@ -55108,7 +55846,7 @@ saranno inviate alla sezione "In attesa" dei Regali.
 [common_widget/trainer_detail_011] Dif. Sp.
 [common_widget/trainer_detail_012] Velocità
 [common_widget/trainer_detail_013] Ruolo
-[common_widget/trainer_detail_014] Debole a
+[common_widget/trainer_detail_014] Debolezza
 [common_widget/trainer_detail_015] Apparirà spesso nel Centro Pokémon.
 [common_widget/trainer_detail_016] [Name:PokemonName ]
 [common_widget/trainer_detail_017] [Name:Move ]
@@ -55908,6 +56646,12 @@ WPM編　第７章を
 保管されます
 [common_widget/dialog_138] 「[Name:EventName ]」
 [Name:Item ]
+[common_widget/dialog_139] メインストーリーの構成と
+報酬を調整しました
+既にクリアしているエリア情報の報酬を
+獲得しました
+[common_widget/dialog_140] ※以下の報酬は既に受け取り済みです
+※ダイヤは順次配布されます
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -56730,6 +57474,12 @@ WPM 편 제7장을
 프레젠트박스의 "임시보관"에 보관됩니다
 [common_widget/dialog_138] "[Name:EventName ]"
 [Name:Item ]
+[common_widget/dialog_139] 메인 스토리의 구성과
+보상을 조정했습니다
+이미 클리어한 에리어 정보의 보상을
+획득했습니다
+[common_widget/dialog_140] ※아래의 보상은 이미 수령한 보상입니다
+※다이아는 순차적으로 배포됩니다
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -57530,6 +58280,12 @@ WPM篇的第７章
 會被送到禮物箱的「暫時保管」
 [common_widget/dialog_138] 「[Name:EventName ]」
 [Name:Item ]
+[common_widget/dialog_139] 已調整主線劇情的
+架構與報酬
+已獲得成功過關的
+區域資訊的報酬
+[common_widget/dialog_140] ※已領取下列報酬
+※鑽石將依序發送
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -60305,6 +61061,9 @@ in Kapitel 1 der Hauptgeschichte freigeschaltet.
 Legendären Pokémon in dein Team holen.
 [home/quest_list_series_009] Legenden-Abenteuer
 [home/quest_list_series_010] Steine der Mysterien
+[home/quest_list_series_011] ???-Abenteuer
+[home/quest_list_series_013] Das Erscheinen der Steine der Mysterien eröffnet neue Wege für
+Passios Gefährtengespanne. Bald beginnt ein neues Abenteuer!
 [home/quest_list_013] Erf.
 [home/quest_list_017] Gemeinsam spielen
 [home/quest_list_018] Mit zufälligen
@@ -60520,6 +61279,11 @@ heraus!
 [home/quest_list_184] Im Gang
 [home/quest_list_185] Kampfrallye-Pass-Limit
 [home/quest_list_186] DU HAST GLÜCK!
+[home/quest_list_187] Im Fokus!
+[home/quest_list_188] Empfohlen
+[home/quest_list_189] Wiederholen
+[home/quest_list_190] Du kannst Belohnungen erhalten, indem du Missionen abschließt!
+[home/quest_list_191] Du kannst Belohnungen erhalten, indem du Punkte sammelst!
 [home/quest_list_192] Rang
 [home/quest_detail_003] Schwäche
 [home/quest_detail_005] Details
@@ -60762,6 +61526,22 @@ aktuellen Rang liegen.
 [home/quest_detail_211] Meister
 TOP [Digit:8digits ]
 [home/quest_detail_212] TOP [Digit:8digits ]
+[home/quest_detail_213] Gesamtpunkte
+[home/quest_detail_214] Abgeschlossene Missionen
+[home/quest_detail_215] Erhaltene Belohnungen
+[home/quest_detail_216] Erhaltene Belohnungen
+[home/quest_detail_217] Bonus-Effekt
+[home/quest_detail_218] Erreichte Gesamtpunktzahl
+[home/quest_detail_219] Gesammelte Punkte
+[home/quest_detail_220] Du hast Eventbelohnungen erhalten.
+Möchtest du sie abholen?
+[home/quest_detail_221] Eventbelohnungen
+[home/quest_detail_222] Hauptpreis
+[home/quest_detail_225] [Digit:8digits ] abgeschlossen
+[home/quest_detail_226] Nach Abschluss von mindestens [Digit:8digits ]
+[home/quest_detail_227] Alle [Digit:8digits ] abgeschlossen
+[home/quest_detail_228] [Digit:8digits ] komplett!
+Belohnungen erhalten!
 [home/quest_detail_229] Andere Punktzahlen
 [home/quest_detail_230] Dieser Spieler existiert nicht.
 [home/home_001] Laden
@@ -60877,6 +61657,14 @@ das nur für kurze Zeit erwerbbar ist!
 Du kannst es dir im Laden ansehen!
 [home/home_080] Starthilfe-Juwelen
 [home/home_081] Zeitl. begr. G-Suche
+[home/home_084] Eine Gefährtensuche mit vielen
+Festival-Gefährten ist für einen
+begrenzten Zeitraum von 72 Stunden
+verfügbar!
+
+Du kannst dir Gefährten verschiedener
+Typen in dein Team holen und am
+Champkampf teilnehmen!
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missionen
 [home/global_menu_008] Freunde
@@ -61627,6 +62415,9 @@ The More the Merrier.
 that have Legendary Pokémon.
 [home/quest_list_series_009] Legendary Adventures
 [home/quest_list_series_010] Mysterious Stones Chapter
+[home/quest_list_series_011] ??? Arc
+[home/quest_list_series_013] Sync pairs start going down new paths after mysterious stones
+suddenly appear on Pasio. A new arc begins soon!
 [home/quest_list_013] XP
 [home/quest_list_017] Battle with other players!
 [home/quest_list_018] Quick
@@ -61829,6 +62620,11 @@ the villain arc on Normal.
 [home/quest_list_184] In progress
 [home/quest_list_185] Rally Passes Maxed
 [home/quest_list_186] LUCKY
+[home/quest_list_187] Featured!
+[home/quest_list_188] Recommended
+[home/quest_list_189] Reruns
+[home/quest_list_190] You can obtain rewards by completing missions!
+[home/quest_list_191] You can obtain rewards by collecting points!
 [home/quest_list_192] Score Rank
 [home/quest_detail_003] Weakness
 [home/quest_detail_005] Area Details
@@ -62083,6 +62879,23 @@ below your own.
 [home/quest_detail_211] Master
 Top [Digit:8digits ]
 [home/quest_detail_212] Top [Digit:8digits ]
+[home/quest_detail_213] Total Points
+[home/quest_detail_214] Completed Missions
+[home/quest_detail_215] Rewards Obtained
+[home/quest_detail_216] Rewards Obtained
+[home/quest_detail_217] Bonus Effect
+[home/quest_detail_218] Total Points Earned
+[home/quest_detail_219] Total Points Accumulated
+[home/quest_detail_220] You have obtainable event rewards.
+
+Would you like to claim them?
+[home/quest_detail_221] Event Rewards
+[home/quest_detail_222] Featured Rewards
+[home/quest_detail_225] [Digit:8digits ] completed
+[home/quest_detail_226] After [Digit:8digits ] or more completed
+[home/quest_detail_227] Every [Digit:8digits ] completed
+[home/quest_detail_228] [Digit:8digits ] completed!
+Rewards obtained!
 [home/quest_detail_229] Other Scored Points
 [home/quest_detail_230] Player does not exist.
 [home/home_001] Shop
@@ -62183,6 +62996,13 @@ available for a limited time has arrived!
 You can check it out in the shop!
 [home/home_080] New Player Gems
 [home/home_081] Limited-Time Scout
+[home/home_084] A sync pair scout with many
+fair-exclusive sync pairs is available
+for a limited time of 72 hours!
+
+Team up with sync pairs
+of different types and take on
+the Champion Stadium!
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missions
 [home/global_menu_008] Friends
@@ -62882,6 +63702,9 @@ principal.
 compuestas por Pokémon legendarios.
 [home/quest_list_series_009] Trama Pokémon legendarios
 [home/quest_list_series_010] Trama Piedras Misteriosas
+[home/quest_list_series_011] Trama ???
+[home/quest_list_series_013] En esta historia, ciertos compis exploran nuevas sendas tras la
+aparición de unas Piedras Misteriosas. ¡Disponible muy pronto!
 [home/quest_list_013] Exp.
 [home/quest_list_017] Multijugador
 [home/quest_list_018] Partida rápida
@@ -63089,6 +63912,11 @@ especificada del objeto indicado.
 [home/quest_list_184] En curso
 [home/quest_list_185] Pases Yincana al máximo
 [home/quest_list_186] Ubic. de la suerte
+[home/quest_list_187] ¡Destacado!
+[home/quest_list_188] Recomendados
+[home/quest_list_189] Repetidos
+[home/quest_list_190] ¡Completa misiones para obtener premios!
+[home/quest_list_191] ¡Reúne puntos para obtener premios!
 [home/quest_list_192] Rango puntuación
 [home/quest_detail_003] Debilidad
 [home/quest_detail_005] Detalles
@@ -63346,6 +64174,23 @@ inferiores al tuyo.
 Puesto [Digit:8digits ]
 [home/quest_detail_212] [Digit:8digits ]
 mejores
+[home/quest_detail_213] Puntos totales
+[home/quest_detail_214] Misiones completadas
+[home/quest_detail_215] Premios obtenidos
+[home/quest_detail_216] Premios obtenidos
+[home/quest_detail_217] Efecto adicional
+[home/quest_detail_218] Puntos totales obtenidos
+[home/quest_detail_219] Ptos. totales acum.
+[home/quest_detail_220] Tienes premios de evento disponibles.
+
+¿Quieres recibirlos?
+[home/quest_detail_221] Premios de evento
+[home/quest_detail_222] Premios especiales
+[home/quest_detail_225] [Digit:8digits ] completada[ES:Qty P="s" ]
+[home/quest_detail_226] Tras completar [Digit:8digits ] o más
+[home/quest_detail_227] Cada [Digit:8digits ] completada[ES:Qty P="s" ]
+[home/quest_detail_228] ¡[Digit:8digits ] completada[ES:Qty P="s" ]!
+¡Has obtenido premios!
 [home/quest_detail_229] Otros puntos
 [home/quest_detail_230] El jugador no existe.
 [home/home_001] Tienda
@@ -63459,6 +64304,13 @@ disponible solo por tiempo limitado!
 ¡Puedes adquirirlo en la tienda!
 [home/home_080] Joyas iniciación
 [home/home_081] Recl. tiempo lim.
+[home/home_084] ¡Un reclutamiento con un montón de
+festicompis estará disponible durante
+72 horas!
+
+¡Une fuerzas con parejas de compis de
+distintos tipos y enfréntate a los
+Combates de Campeones!
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Misiones
 [home/global_menu_008] Amigos
@@ -64261,6 +65113,9 @@ dans le chapitre 1.
 qui comprennent un Pokémon légendaire.
 [home/quest_list_series_009] Les Pokémon légendaires
 [home/quest_list_series_010] Roches Mystérieuses
+[home/quest_list_series_011] ???
+[home/quest_list_series_013] Les Duos empruntent une nouvelle voie suite à l'apparition
+de Roches Mystérieuses à Passio. Nouvel arc narratif bientôt !
 [home/quest_list_013] Exp.
 [home/quest_list_017] Jeu en coop
 [home/quest_list_018] Connexion
@@ -64477,6 +65332,11 @@ les plus grands
 [home/quest_list_184] En cours
 [home/quest_list_185] Pass Rallye au max
 [home/quest_list_186] CHANCE
+[home/quest_list_187] À l'affiche !
+[home/quest_list_188] À découvrir
+[home/quest_list_189] De retour
+[home/quest_list_190] Terminez les missions pour obtenir des récompenses !
+[home/quest_list_191] Collectez des points pour obtenir des récompenses !
 [home/quest_list_192] Rang
 [home/quest_detail_003] Faiblesse
 [home/quest_detail_005] Infos
@@ -64729,6 +65589,24 @@ des rangs inférieurs au vôtre.
 [home/quest_detail_211] Master
 Top [Digit:8digits ]
 [home/quest_detail_212] Top [Digit:8digits ]
+[home/quest_detail_213] Points totaux
+[home/quest_detail_214] Missions terminées
+[home/quest_detail_215] Récompenses obtenues
+[home/quest_detail_216] Récompenses obtenues
+[home/quest_detail_217] Effet bonus
+[home/quest_detail_218] Points totaux obtenus
+[home/quest_detail_219] Points totaux accumulés
+[home/quest_detail_220] Vous avez des récompenses
+d'évènement disponibles.
+
+Voulez-vous les récupérer ?
+[home/quest_detail_221] Récompenses d'évènement
+[home/quest_detail_222] Grand prix
+[home/quest_detail_225] [Digit:8digits ] terminée[FR:Qty P="s" ]
+[home/quest_detail_226] Au-delà de [Digit:8digits ] terminée[FR:Qty P="s" ]
+[home/quest_detail_227] Toutes les [Digit:8digits ] terminées
+[home/quest_detail_228] [Digit:8digits ] terminée[FR:Qty P="s" ] !
+Récompenses obtenues !
 [home/quest_detail_229] Autres points obtenus
 [home/quest_detail_230] Ce joueur n'existe pas.
 [home/home_001] Boutique
@@ -64852,6 +65730,13 @@ Rendez-vous dans la boutique
 pour en savoir plus !
 [home/home_080] Diamants nouveaux joueurs
 [home/home_081] Appel à durée limitée
+[home/home_084] Un Appel Duo avec beaucoup
+de Duos festival est disponible
+pendant 72 h !
+
+Faites équipe avec des Duos
+de différents types et participez
+au Combat de Maître !
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missions
 [home/global_menu_008] Amis
@@ -65729,6 +66614,9 @@ rinsaldata" del capitolo 1 della storia.
 che comprendono dei Pokémon leggendari.
 [home/quest_list_series_009] I Pokémon leggendari
 [home/quest_list_series_010] Le Pietre misteriose
+[home/quest_list_series_011] ???
+[home/quest_list_series_013] Storia che narra le nuove avventure delle Unità di Pasio dopo
+la comparsa di Pietre misteriose. Nuovi sviluppi a breve!
 [home/quest_list_013] ESP.
 [home/quest_list_017] Gioca in compagnia
 [home/quest_list_018] Giocatori a caso
@@ -65937,6 +66825,11 @@ specificata dello strumento indicato.
 [home/quest_list_184] In corso
 [home/quest_list_185] Max Pass Tour di lotta
 [home/quest_list_186] BONUS
+[home/quest_list_187] In evidenza!
+[home/quest_list_188] Consigliate
+[home/quest_list_189] Riedizione
+[home/quest_list_190] Puoi completare le missioni per ottenere ricompense!
+[home/quest_list_191] Puoi ottenere ricompense accumulando punti!
 [home/quest_list_192] Livello punteggio
 [home/quest_detail_003] Punti deboli
 [home/quest_detail_005] Info area
@@ -66195,6 +67088,22 @@ Migliori [Digit:8digits ]
 [home/quest_detail_211] Master
 Migliori [Digit:8digits ]
 [home/quest_detail_212] Migliori [Digit:8digits ]
+[home/quest_detail_213] Punti totali
+[home/quest_detail_214] Missioni completate
+[home/quest_detail_215] Ricompense ottenute
+[home/quest_detail_216] Ricompense ottenute
+[home/quest_detail_217] Effetti bonus
+[home/quest_detail_218] Punti totali ottenuti
+[home/quest_detail_219] Punti cumulativi ottenuti
+[home/quest_detail_220] Hai delle ricompense evento
+non ricevute. Vuoi riceverle?
+[home/quest_detail_221] Ricompense evento
+[home/quest_detail_222] Ricompense principali
+[home/quest_detail_225] [Digit:8digits ] completat[IT:Qty S="a" P="e" ]
+[home/quest_detail_226] [Digit:8digits ] o più completate
+[home/quest_detail_227] Ogni [Digit:8digits ] completate
+[home/quest_detail_228] [Digit:8digits ] completat[IT:Qty S="a" P="e" ]!
+Ricompense ottenute!
 [home/quest_detail_229] Altri punti ottenuti
 [home/quest_detail_230] Questo giocatore non esiste.
 [home/home_001] Negozio
@@ -66303,6 +67212,12 @@ di tempo limitato!
 Puoi vederlo subito nel negozio!
 [home/home_080] Gemme nuovi giocatori
 [home/home_081] Unicerca limitata
+[home/home_084] Un'Unicerca con tante Unità
+Masterparty sarà disponibile
+per 72 ore!
+
+Fai squadra con Unità di diversi tipi
+e cimentati nella Lotta dei Campioni!
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missioni
 [home/global_menu_008] Amici
@@ -67143,6 +68058,9 @@ home_ja.lsd
 仲間にすることができる　ストーリーです
 [home/quest_list_series_009] 伝説ポケモン編
 [home/quest_list_series_010] 謎の石編
+[home/quest_list_series_011] ？？？編
+[home/quest_list_series_013] 突如パシオに出現した　謎の石をきっかけに　バディーズたちが
+新たな道を　進み始める　物語です。　近日　新章開幕！
 [home/quest_list_013] EXP
 [home/quest_list_017] みんなで遊ぶ
 [home/quest_list_018] おまかせ
@@ -67348,6 +68266,11 @@ Lv.[Digit:2digits ]で解放
 [home/quest_list_184] 挑戦中
 [home/quest_list_185] ラリーパス所持数MAX
 [home/quest_list_186] LUCKY
+[home/quest_list_187] ピックアップ！
+[home/quest_list_188] オススメ
+[home/quest_list_189] 復刻
+[home/quest_list_190] ミッションを達成して報酬を獲得しよう！
+[home/quest_list_191] ポイントを集めて報酬を獲得しよう！
 [home/quest_list_192] スコアランク
 [home/quest_detail_003] じゃくてんタイプ
 [home/quest_detail_005] エリア詳細
@@ -67599,6 +68522,23 @@ TOP[Digit:8digits ]位
 [home/quest_detail_211] マスター
 [Digit:8digits ]位
 [home/quest_detail_212] TOP[Digit:8digits ]位
+[home/quest_detail_213] 累計ポイント
+[home/quest_detail_214] ミッション達成数
+[home/quest_detail_215] 獲得報酬
+[home/quest_detail_216] 獲得した報酬
+[home/quest_detail_217] ボーナス効果
+[home/quest_detail_218] 合計獲得ポイント
+[home/quest_detail_219] 累計獲得ポイント
+[home/quest_detail_220] 獲得可能なイベント報酬があります
+
+受け取りますか？
+[home/quest_detail_221] イベント報酬
+[home/quest_detail_222] 目玉報酬
+[home/quest_detail_225] [Digit:8digits ]個達成
+[home/quest_detail_226] [Digit:8digits ]個達成以降
+[home/quest_detail_227] [Digit:8digits ]個達成ごと
+[home/quest_detail_228] [Digit:8digits ]個達成！
+報酬獲得！
 [home/quest_detail_229] その他のスコア
 [home/quest_detail_230] 存在しないユーザーです
 [home/home_001] ショップ
@@ -67707,6 +68647,11 @@ EXデイリーダイヤパックや
 ショップに行ってチェックしましょう！
 [home/home_080] 初心者ダイヤ
 [home/home_081] 時限Bサーチ
+[home/home_084] フェス限定バディーズがたくさん出現する
+バディーズサーチが72時間限定で登場！
+
+様々なタイプのバディーズを仲間にして
+チャンピオンバトルに挑戦しよう！
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] ミッション
 [home/global_menu_008] ともだち
@@ -68526,6 +69471,9 @@ home_ko.lsd
 동료로 만들 수 있는 스토리입니다
 [home/quest_list_series_009] 전설 포켓몬 편
 [home/quest_list_series_010] 수수께끼의 돌 편
+[home/quest_list_series_011] ??? 편
+[home/quest_list_series_013] 갑자기 파시오에 나타난 수수께끼의 돌을 계기로 버디즈들이
+새로운 길을 걸어가기 시작하는 이야기입니다. 신규 스토리 곧 개막!
 [home/quest_list_013] EXP
 [home/quest_list_017] 함께 즐긴다
 [home/quest_list_018] 자동
@@ -68731,6 +69679,11 @@ Lv.[Digit:2digits ]에서 해방
 [home/quest_list_184] 도전 중
 [home/quest_list_185] 랠리 패스 보유 수량 MAX
 [home/quest_list_186] LUCKY
+[home/quest_list_187] 픽업!
+[home/quest_list_188] 추천
+[home/quest_list_189] 복각
+[home/quest_list_190] 미션을 달성하고 보상을 획득하자!
+[home/quest_list_191] 포인트를 모아서 보상을 획득하자!
 [home/quest_list_192] 스코어 랭크
 [home/quest_detail_003] 약점타입
 [home/quest_detail_005] 에리어 상세
@@ -68979,6 +69932,23 @@ TOP [Digit:8digits ]위
 [home/quest_detail_211] 마스터
 [Digit:8digits ]위
 [home/quest_detail_212] TOP [Digit:8digits ]위
+[home/quest_detail_213] 합계포인트
+[home/quest_detail_214] 미션 달성 수
+[home/quest_detail_215] 획득 보상
+[home/quest_detail_216] 획득한 보상
+[home/quest_detail_217] 보너스 효과
+[home/quest_detail_218] 합계 획득포인트
+[home/quest_detail_219] 총 획득포인트
+[home/quest_detail_220] 획득 가능한 이벤트 보상이 있습니다
+
+수령하겠습니까?
+[home/quest_detail_221] 이벤트 보상
+[home/quest_detail_222] 주요 보상
+[home/quest_detail_225] [Digit:8digits ]개 달성
+[home/quest_detail_226] [Digit:8digits ]개 달성 이후
+[home/quest_detail_227] [Digit:8digits ]개 달성마다
+[home/quest_detail_228] [Digit:8digits ]개 달성!
+보상 획득!
 [home/quest_detail_229] 기타 스코어
 [home/quest_detail_230] 존재하지 않는 유저입니다
 [home/home_001] 숍
@@ -69086,6 +70056,11 @@ EX일일 다이아 팩과
 숍으로 가서 확인합시다!
 [home/home_080] 초급자 다이아
 [home/home_081] 시한 B서치
+[home/home_084] 페스티벌 한정 버디즈가 잔뜩 출현하는
+버디즈서치가 72시간 한정으로 등장!
+
+다양한 타입의 버디즈를 동료로 만들고
+챔피언배틀에 도전하자!
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] 미션
 [home/global_menu_008] 친구
@@ -69879,6 +70854,9 @@ home_zh-TW.lsd
 成為夥伴的故事
 [home/quest_list_series_009] 傳說的寶可夢篇
 [home/quest_list_series_010] 神秘石篇
+[home/quest_list_series_011] ？？？篇
+[home/quest_list_series_013] 這是拍組們因為突然出現在帕希歐的神秘石，
+而走上全新道路的故事。新章節將於近期開幕！
 [home/quest_list_013] EXP
 [home/quest_list_017] 多隊模式
 [home/quest_list_018] 隨機配對
@@ -70081,6 +71059,11 @@ home_zh-TW.lsd
 [home/quest_list_184] 挑戰中
 [home/quest_list_185] 接力證持有數MAX
 [home/quest_list_186] LUCKY
+[home/quest_list_187] 精選！
+[home/quest_list_188] 推薦
+[home/quest_list_189] 復刻
+[home/quest_list_190] 完成任務來獲得報酬吧！
+[home/quest_list_191] 收集點數來獲得報酬吧！
 [home/quest_list_192] 得分等級
 [home/quest_detail_003] 弱點屬性
 [home/quest_detail_005] 區域詳情
@@ -70325,6 +71308,23 @@ TOP[Digit:8digits ]
 [home/quest_detail_211] 大師
 第[Digit:8digits ]名
 [home/quest_detail_212] TOP[Digit:8digits ]
+[home/quest_detail_213] 總計點數
+[home/quest_detail_214] 任務達成數
+[home/quest_detail_215] 獲得報酬
+[home/quest_detail_216] 已獲得報酬
+[home/quest_detail_217] 獎勵效果
+[home/quest_detail_218] 總計獲得點數
+[home/quest_detail_219] 累計獲得點數
+[home/quest_detail_220] 有可獲得的活動報酬
+
+確定要領取嗎？
+[home/quest_detail_221] 活動報酬
+[home/quest_detail_222] 特級報酬
+[home/quest_detail_225] 達成[Digit:8digits ]個
+[home/quest_detail_226] 達成[Digit:8digits ]個以後
+[home/quest_detail_227] 每達成[Digit:8digits ]個
+[home/quest_detail_228] 達成[Digit:8digits ]個！
+獲得報酬！
 [home/quest_detail_229] 其他得分
 [home/quest_detail_230] 查無此玩家
 [home/home_001] 商店
@@ -70428,6 +71428,11 @@ EX每日鑽石組合包
 快去商店確認看看吧！
 [home/home_080] 初學者鑽石
 [home/home_081] 限時拍組搜尋
+[home/home_084] 盛典限定拍組大量出現的
+拍組搜尋72小時限定登場！
+
+與各種屬性的拍組成為夥伴
+挑戰冠軍對戰吧！
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] 任務
 [home/global_menu_008] 朋友
@@ -71954,6 +72959,7 @@ erhalten!
 [shop/scout_226] Garant. 5★-G-Suche
 [shop/scout_227] Garant. 5★-G-Suche ×5
 [shop/scout_228] Garant. 5★-G-Suche ×10
+[shop/scout_229] Tägliche Suche
 [shop/scout_231] Es sind keine Gefährtensuchen mit Tickets
 verfügbar.
 [shop/scout_232] [Digit:3digits ] × [Name:Item ]
@@ -72675,6 +73681,7 @@ Mix sync pairs may appear outside of mix-exclusive scouts in the future.
 [shop/scout_226] 5★-Guaranteed Scout
 [shop/scout_227] 5★-Guaranteed Scout ×5
 [shop/scout_228] 5★-Guaranteed Scout ×10
+[shop/scout_229] Daily Scout
 [shop/scout_231] No ticket scouts available.
 [shop/scout_232] Use [Name:Item ] ×[Digit:3digits ]
 to scout [Digit:2digits Idx="1" ] [EN:Qty Ref="1" S="sync pair" P="sync pairs" ]?
@@ -73340,6 +74347,7 @@ dentro de este reclutamiento específico.
 [shop/scout_226] Recl. 5★ garantizadas
 [shop/scout_227] Recl. 5★ garantizadas ×5
 [shop/scout_228] Recl. 5★ garantizadas ×10
+[shop/scout_229] Búsqueda diaria
 [shop/scout_231] No hay reclutamientos billete disponibles.
 [shop/scout_232] ¿Quieres usar estos objetos para
 realizar un reclutamiento billete
@@ -74047,6 +75055,7 @@ un Bon Appel Duo spécial !
 [shop/scout_226] Appel Duo 5★ garanti
 [shop/scout_227] Appel Duo 5★ garanti × 5
 [shop/scout_228] Appel Duo 5★ garanti × 10
+[shop/scout_229] Appel Duo Journalier
 [shop/scout_231] Aucun Appel Duo avec Bons disponible
 [shop/scout_232] Voulez-vous utiliser
 [Name:Item ] × [Digit:3digits ]
@@ -74818,6 +75827,7 @@ per una ricerca Unità!
 [shop/scout_226] Unicerca con Unità 5★ garantita
 [shop/scout_227] Unicerca con Unità 5★ garantita ×5
 [shop/scout_228] Unicerca con Unità 5★ garantita ×10
+[shop/scout_229] Unicerca giornaliera
 [shop/scout_231] Nessuna Unicerca con ticket disponibile.
 [shop/scout_232] Vuoi usare [Digit:3digits ] [Name:Item ]
 per effettuare [Digit:2digits Idx="1" ] [IT:Qty Ref="1" S="Unicerca" P="Unicerche" ]?
@@ -75586,6 +76596,7 @@ EXカラーがありません
 [shop/scout_226] ★５確定Ｂサーチ
 [shop/scout_227] ５連　★５確定Ｂサーチ
 [shop/scout_228] １０連　★５確定Ｂサーチ
+[shop/scout_229] デイリーサーチ
 [shop/scout_231] 開催中の
 チケット専用バディーズサーチはありません
 [shop/scout_232] [Name:Item ]を[Digit:3digits ]枚消費して
@@ -76382,6 +77393,7 @@ EX컬러가 없습니다
 [shop/scout_226] ★5 확정 B서치
 [shop/scout_227] 5연속 ★5 확정 B서치
 [shop/scout_228] 10연속 ★5 확정 B서치
+[shop/scout_229] 일일서치
 [shop/scout_231] 개최 중인
 티켓 전용 버디즈서치는 없습니다
 [shop/scout_232] [Name:Item ][Kor:Particle char="wo" ] [Digit:3digits ]장 사용하여
@@ -77091,6 +78103,7 @@ shop_zh-TW.lsd
 [shop/scout_226] 必得★５拍組搜尋
 [shop/scout_227] 連續５次必得★５拍組搜尋
 [shop/scout_228] 連續１０次必得★５拍組搜尋
+[shop/scout_229] 每日搜尋
 [shop/scout_231] 沒有舉辦中的
 票券專用拍組搜尋
 [shop/scout_232] 確定要消耗[Digit:3digits ]張[Name:Item ]

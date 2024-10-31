@@ -379,6 +379,7 @@
     "shop/scout_226": "★5 확정 B서치",
     "shop/scout_227": "5연속 ★5 확정 B서치",
     "shop/scout_228": "10연속 ★5 확정 B서치",
+    "shop/scout_229": "일일서치",
     "shop/scout_231": "개최 중인\n티켓 전용 버디즈서치는 없습니다",
     "shop/scout_232": "[Name:Item ][Kor:Particle char=\"wo\" ] [Digit:3digits ]장 사용하여\n티켓 전용 버디즈서치를 [Digit:2digits Idx=\"1\" ]회 진행합니다\n\n괜찮겠습니까?",
     "shop/deck_item_sale_001": "장비 판매",

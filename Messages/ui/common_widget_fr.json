@@ -192,6 +192,8 @@
     "common_widget/dialog_135": "Les objets suivants ont dépassé\nla date d'expiration, et ont donc\nété automatiquement échangés.",
     "common_widget/dialog_136": "Remarque : les Pièces obtenues avec l'échange\nautomatique seront mises en attente dans\nle menu « Cadeaux ».",
     "common_widget/dialog_138": "[Name:Item ]\n([Name:EventName ])",
+    "common_widget/dialog_139": "La structure et les récompenses du\nscénario principal ont été ajustées.\nLes récompenses pour les zones\ndéjà complétées ont été obtenues.",
+    "common_widget/dialog_140": "Remarques :\n- Les récompenses suivantes ont déjà été reçues.\n- Les Diamants seront distribués progressivement.",
     "common_widget/trainer_detail_001": "[Name:TrainerName ]",
     "common_widget/trainer_detail_002": "N.",
     "common_widget/trainer_detail_004": "MAX",

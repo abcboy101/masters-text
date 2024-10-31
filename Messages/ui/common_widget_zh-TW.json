@@ -192,6 +192,8 @@
     "common_widget/dialog_135": "因超過使用期限\n下列道具已自動出售",
     "common_widget/dialog_136": "※因自動出售而轉換成的金幣\n會被送到禮物箱的「暫時保管」",
     "common_widget/dialog_138": "「[Name:EventName ]」\n[Name:Item ]",
+    "common_widget/dialog_139": "已調整主線劇情的\n架構與報酬\n已獲得成功過關的\n區域資訊的報酬",
+    "common_widget/dialog_140": "※已領取下列報酬\n※鑽石將依序發送",
     "common_widget/trainer_detail_001": "[Name:TrainerName ]",
     "common_widget/trainer_detail_002": "Lv.",
     "common_widget/trainer_detail_004": "MAX",

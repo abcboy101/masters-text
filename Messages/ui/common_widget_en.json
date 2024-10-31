@@ -192,6 +192,8 @@
     "common_widget/dialog_135": "The following items have expired and\nhave been automatically exchanged.",
     "common_widget/dialog_136": "Note: Coins obtained from auto-exchange will be\nstored in the Temp Storage section of your Present Box.",
     "common_widget/dialog_138": "[Name:EventName ]\n[Name:Item ]",
+    "common_widget/dialog_139": "The structure and rewards of the main\nstory have been adjusted.\nRewards for area info that you’ve\nalready completed have been obtained.",
+    "common_widget/dialog_140": "Note: The following rewards have already been claimed.\nGems will be distributed gradually.",
     "common_widget/trainer_detail_001": "[Name:TrainerName ]",
     "common_widget/trainer_detail_002": "Lv.",
     "common_widget/trainer_detail_004": "MAX",

@@ -192,6 +192,8 @@
     "common_widget/dialog_135": "Da ihr Nutzungszeitraum abgelaufen ist,\nwurden die folgenden Items automatisch\neingetauscht.",
     "common_widget/dialog_136": "Hinweis: Münzen, die du durch den automatischen\nTausch erhalten hast, werden im Lager deiner\nGeschenkbox abgelegt.",
     "common_widget/dialog_138": "“[Name:EventName ]”\n[Name:Item ]",
+    "common_widget/dialog_139": "Die Struktur und Belohnungen der\nHauptgeschichte wurden überarbeitet.\nBelohnungen für bereits abgeschlossene\nGebietsinfos wurden abgeholt.",
+    "common_widget/dialog_140": "Hinweis: Die folgenden Belohnungen wurden bereits\nabgeholt.\nJuwelen werden nach und nach freigegeben.",
     "common_widget/trainer_detail_001": "[Name:TrainerName ]",
     "common_widget/trainer_detail_002": "Lv.",
     "common_widget/trainer_detail_004": "MAX",
