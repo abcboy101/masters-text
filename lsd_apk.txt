@@ -5966,6 +5966,60 @@ Gloria (Teil 2)
 [quest_title_1030502000613010] Vs. Aqua Rüpel 1
 [quest_title_1030502000613020] Vs. Aqua Rüpel 2
 [quest_title_1030502000613030] Vs. Aqua Rüpel 3
+[quest_group_title_10090410000] Troy (Kostüm)
+[quest_group_title_10139400000] Sannah (Kostüm)
+[quest_group_title_10129400000] Amalia (Kostüm)
+[quest_group_title_10002410000] Lyra (Kostüm)
+[quest_title_1030110000550100] Flammender Hass
+[quest_title_1030503000606200] Togepi vs. Piepi
+[quest_title_1030503000601000] Das Mystery-Spiel beginnt!
+[quest_title_1030503000601010] Die Rollen sind verteilt!
+[quest_title_1030503000601050] Vs. Trainer aus Passio 1
+[quest_title_1030503000601020] Erkunde das Herrenhaus!
+[quest_title_1030503000601060] Vs. Trainer aus Passio 2
+[quest_title_1030503000601030] Eine Straftat wurde
+begangen!
+[quest_title_1030503000601070] Vs. Trainer aus Passio 3
+[quest_title_1030503000601040] Wer ist der Täter?
+[quest_title_1030503000601080] Vs. Trainer aus Passio 4
+[quest_title_1030503000601090] Täglicher schwerer Kampf
+[quest_title_1030503000601100] Herausforderungskampf 1
+[quest_title_1030503000601110] Herausforderungskampf 2
+[quest_title_1030503000603010] Stadt
+[quest_title_1030503000603020] Arena
+[quest_title_1030503000603030] Marktplatz
+[quest_title_1030503000603040] Wald
+[quest_title_1030503000603050] Strand
+[quest_title_1030450100201010] Vs. Trainer aus Passio 1
+[quest_title_1030450100201011] Vs. Trainer aus Passio 2
+[quest_title_1030450100201012] Vs. Trainer aus Passio 3
+[quest_title_1030450100201013] Vs. Trainer aus Passio 4
+[quest_title_1030450300405010] Vs. Serena
+[quest_title_1030503000602000] Das ist kein Spiel mehr!
+[quest_title_1030503000602010] Der Phantomdieb Imaginato
+[quest_title_1030503000602050] Vs. Team Break 1
+[quest_title_1030503000602020] Der rote Faden
+[quest_title_1030503000602060] Vs. Team Break 2
+[quest_title_1030503000602030] Der betrügerische Rächer
+[quest_title_1030503000602070] Vs. Team Break 3
+[quest_title_1030503000602040] Etwas mehr Fantasie würde
+dir nicht schaden!
+[quest_title_1030503000602080] Vs. Team Break 4
+[quest_title_1030503000602090] Täglicher schwerer Kampf
+[quest_title_1030503000602100] Herausforderungskampf 1
+[quest_title_1030503000602110] Herausforderungskampf 2
+[quest_title_1030503000604000] Als Team trainiert es sich am
+besten!
+[quest_title_1030503000604020] Vs. Lorelei und Bruno 1
+[quest_title_1030503000604030] Vs. Lorelei und Bruno 2
+[quest_title_1030503000604040] Vs. Lorelei und Bruno 3
+[quest_title_1030503000604050] Vs. Lorelei und Bruno 4
+[quest_title_1030503000604010] Ein Versprechen der Kanto
+Top Vier
+[quest_title_1040000900001011] Ein besonderer Tag mit Troy
+(Teil 1)
+[quest_title_1040000900001021] Ein besonderer Tag mit Troy
+(Teil 2)
 
 ===========
 story_quest_name_en.lsd
@@ -8910,6 +8964,54 @@ Is Another’s Poison: Part 4
 [quest_title_1030502000613010] Challenge the Aqua Grunts: Part 1
 [quest_title_1030502000613020] Challenge the Aqua Grunts: Part 2
 [quest_title_1030502000613030] Challenge the Aqua Grunts: Part 3
+[quest_group_title_10090410000] Steven (Special Costume)
+[quest_group_title_10139400000] Shauna (Special Costume)
+[quest_group_title_10129400000] Zinnia (Special Costume)
+[quest_group_title_10002410000] Lyra (Special Costume)
+[quest_title_1030110000550100] Flame of Hatred
+[quest_title_1030503000606200] Togepi versus Clefairy!
+[quest_title_1030503000601000] The Mystery Game Begins!
+[quest_title_1030503000601010] Roles Are Decided!
+[quest_title_1030503000601050] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030503000601020] Explore the Mansion!
+[quest_title_1030503000601060] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030503000601030] An Incident Occurs!
+[quest_title_1030503000601070] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030503000601040] Who’s the Real Culprit?
+[quest_title_1030503000601080] Challenge Pasio’s Trainers: Part 4
+[quest_title_1030503000601090] Daily Extreme Battle 1
+[quest_title_1030503000601100] Battle Challenge! Round 1
+[quest_title_1030503000601110] Battle Challenge! Round 2
+[quest_title_1030503000603010] Town
+[quest_title_1030503000603020] Arena
+[quest_title_1030503000603030] Square
+[quest_title_1030503000603040] Forest
+[quest_title_1030503000603050] Beach
+[quest_title_1030450100201010] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030450100201011] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030450100201012] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030450100201013] Challenge Pasio’s Trainers: Part 4
+[quest_title_1030450300405010] Challenge Serena
+[quest_title_1030503000602000] Beginning of the Real Case
+[quest_title_1030503000602010] Phantom Imaginate
+[quest_title_1030503000602050] Challenge Team Break: Part 1
+[quest_title_1030503000602020] Similarities between the Victims
+[quest_title_1030503000602060] Challenge Team Break: Part 2
+[quest_title_1030503000602030] Fake Evil and Fake Justice
+[quest_title_1030503000602070] Challenge Team Break: Part 3
+[quest_title_1030503000602040] You Need Some Imagination
+[quest_title_1030503000602080] Challenge Team Break: Part 4
+[quest_title_1030503000602090] Daily Extreme Battle 1
+[quest_title_1030503000602100] Battle Challenge! Round 1
+[quest_title_1030503000602110] Battle Challenge! Round 2
+[quest_title_1030503000604000] Reasons to Train Each Other
+[quest_title_1030503000604020] Challenge Lorelei and Bruno: Part 1
+[quest_title_1030503000604030] Challenge Lorelei and Bruno: Part 2
+[quest_title_1030503000604040] Challenge Lorelei and Bruno: Part 3
+[quest_title_1030503000604050] Challenge Lorelei and Bruno: Part 4
+[quest_title_1030503000604010] Kanto Elite Four’s Promise
+[quest_title_1040000900001011] A Special Day with Steven: Part 1
+[quest_title_1040000900001021] A Special Day with Steven: Part 2
 
 ===========
 story_quest_name_es.lsd
@@ -12120,6 +12222,62 @@ Magma (3)
 [quest_title_1030502000613010] VS. Reclutas del Equipo Aqua
 [quest_title_1030502000613020] VS. Reclutas del Equipo Aqua (2)
 [quest_title_1030502000613030] VS. Reclutas del Equipo Aqua (3)
+[quest_group_title_10090410000] Máximo (Especial)
+[quest_group_title_10139400000] Xana (Especial)
+[quest_group_title_10129400000] Tristana (Especial)
+[quest_group_title_10002410000] Lira (Especial)
+[quest_title_1030110000550100] Las llamas del odio
+[quest_title_1030503000606200] ¡Togepi contra Clefairy!
+[quest_title_1030503000601000] ¡Que empiece el juego de
+misterio!
+[quest_title_1030503000601010] ¡Se deciden los papeles!
+[quest_title_1030503000601050] VS. Entrenadores de Passio
+[quest_title_1030503000601020] ¡A explorar la mansión!
+[quest_title_1030503000601060] VS. Entrenadores de Passio (2)
+[quest_title_1030503000601030] ¡Ocurre un incidente!
+[quest_title_1030503000601070] VS. Entrenadores de Passio (3)
+[quest_title_1030503000601040] ¿Quién es el verdadero
+culpable?
+[quest_title_1030503000601080] VS. Entrenadores de Passio (4)
+[quest_title_1030503000601090] ¡Un combate difícil al día!
+[quest_title_1030503000601100] ¡Un combate desafiante!
+[quest_title_1030503000601110] ¡Un combate desafiante! (2)
+[quest_title_1030503000603010] Ciudad
+[quest_title_1030503000603020] Arena
+[quest_title_1030503000603030] Plaza
+[quest_title_1030503000603040] Bosque
+[quest_title_1030503000603050] Playa
+[quest_title_1030450100201010] VS. Entrenadores de Passio
+[quest_title_1030450100201011] VS. Entrenadores de Passio (2)
+[quest_title_1030450100201012] VS. Entrenadores de Passio (3)
+[quest_title_1030450100201013] VS. Entrenadores de Passio (4)
+[quest_title_1030450300405010] VS. Serena
+[quest_title_1030503000602000] El misterio de verdad
+[quest_title_1030503000602010] El Ladrón Imaginario
+[quest_title_1030503000602050] VS. Team Break
+[quest_title_1030503000602020] La relación entre las víctimas
+[quest_title_1030503000602060] VS. Team Break (2)
+[quest_title_1030503000602030] Falsos héroes y villanos
+[quest_title_1030503000602070] VS. Team Break (3)
+[quest_title_1030503000602040] Cómprate un poco de
+imaginación
+[quest_title_1030503000602080] VS. Team Break (4)
+[quest_title_1030503000602090] ¡Un combate difícil al día!
+[quest_title_1030503000602100] ¡Un combate desafiante!
+[quest_title_1030503000602110] ¡Un combate desafiante! (2)
+[quest_title_1030503000604000] Entrenamiento mutuo
+[quest_title_1030503000604020] VS. Lorelei y Bruno del Alto
+Mando
+[quest_title_1030503000604030] VS. Lorelei y Bruno del Alto
+Mando (2)
+[quest_title_1030503000604040] VS. Lorelei y Bruno del Alto
+Mando (3)
+[quest_title_1030503000604050] VS. Lorelei y Bruno del Alto
+Mando (4)
+[quest_title_1030503000604010] La propuesta del Alto Mando
+de Kanto
+[quest_title_1040000900001011] Un día especial con Máximo
+[quest_title_1040000900001021] Un día especial con Máximo (2)
 
 ===========
 story_quest_name_fr.lsd
@@ -15631,6 +15789,69 @@ Sbires Team Magma III
 Sbires Team Aqua II
 [quest_title_1030502000613030] Combat :
 Sbires Team Aqua III
+[quest_group_title_10090410000] Pierre Rochard (Look Spécial)
+[quest_group_title_10139400000] Sannah (Look Spécial)
+[quest_group_title_10129400000] Amaryllis (Look Spécial)
+[quest_group_title_10002410000] Célesta (Look Spécial)
+[quest_title_1030110000550100] Consumé par la haine
+[quest_title_1030503000606200] Togepi contre Mélofée !
+[quest_title_1030503000601000] Le jeu de rôle commence !
+[quest_title_1030503000601010] L'attribution des rôles
+[quest_title_1030503000601050] Combat : Dresseurs de Passio
+[quest_title_1030503000601020] Visite guidée du manoir
+[quest_title_1030503000601060] Combat :
+Dresseurs de Passio II
+[quest_title_1030503000601030] Un incident se produit !
+[quest_title_1030503000601070] Combat :
+Dresseurs de Passio III
+[quest_title_1030503000601040] Mais alors...
+Qui a fait le coup ?
+[quest_title_1030503000601080] Combat :
+Dresseurs de Passio IV
+[quest_title_1030503000601090] Combat difficile limité
+à une fois par jour !
+[quest_title_1030503000601100] Combat difficile
+[quest_title_1030503000601110] Combat difficile II
+[quest_title_1030503000603010] Ville
+[quest_title_1030503000603020] Arène
+[quest_title_1030503000603030] Place centrale
+[quest_title_1030503000603040] Forêt
+[quest_title_1030503000603050] Plage
+[quest_title_1030450100201010] Combat : Dresseurs de Passio
+[quest_title_1030450100201011] Combat :
+Dresseurs de Passio II
+[quest_title_1030450100201012] Combat :
+Dresseurs de Passio III
+[quest_title_1030450100201013] Combat : 
+Dresseurs de Passio IV
+[quest_title_1030450300405010] Combat : Serena
+[quest_title_1030503000602000] Un véritable incident
+se produit !
+[quest_title_1030503000602010] Le Voleur Image Inère
+[quest_title_1030503000602050] Combat : Team Break
+[quest_title_1030503000602020] Le point en commun
+des victimes
+[quest_title_1030503000602060] Combat : Team Break II
+[quest_title_1030503000602030] Faux criminel et fausse justice
+[quest_title_1030503000602070] Combat : Team Break III
+[quest_title_1030503000602040] Un manque cruel
+d'imagination
+[quest_title_1030503000602080] Combat : Team Break IV
+[quest_title_1030503000602090] Combat difficile limité
+à une fois par jour !
+[quest_title_1030503000602100] Combat difficile
+[quest_title_1030503000602110] Combat difficile II
+[quest_title_1030503000604000] S'entraîner c'est s'entraider
+[quest_title_1030503000604020] Combat : Olga et Aldo
+[quest_title_1030503000604030] Combat : Olga et Aldo II
+[quest_title_1030503000604040] Combat : Olga et Aldo III
+[quest_title_1030503000604050] Combat : Olga et Aldo IV
+[quest_title_1030503000604010] Retrouvailles avec le
+Conseil 4 de Kanto
+[quest_title_1040000900001011] Une journée spéciale
+avec Pierre Rochard
+[quest_title_1040000900001021] Une journée spéciale
+avec Pierre Rochard II
 
 ===========
 story_quest_name_it.lsd
@@ -18513,6 +18734,54 @@ story_quest_name_it.lsd
 [quest_title_1030502000613010] VS Reclute del Team Idro
 [quest_title_1030502000613020] VS Reclute del Team Idro 2
 [quest_title_1030502000613030] VS Reclute del Team Idro 3
+[quest_group_title_10090410000] Rocco (speciale)
+[quest_group_title_10139400000] Shana (speciale)
+[quest_group_title_10129400000] Lyris (speciale)
+[quest_group_title_10002410000] Cetra (speciale)
+[quest_title_1030110000550100] La fiamma dell'odio
+[quest_title_1030503000606200] Togepi VS Clefairy!
+[quest_title_1030503000601000] Via al mistero interattivo!
+[quest_title_1030503000601010] A ognuno il suo ruolo!
+[quest_title_1030503000601050] VS Allenatori di Pasio
+[quest_title_1030503000601020] Perlustriamo la villa!
+[quest_title_1030503000601060] VS Allenatori di Pasio 2
+[quest_title_1030503000601030] Uno sviluppo improvviso
+[quest_title_1030503000601070] VS Allenatori di Pasio 3
+[quest_title_1030503000601040] Chi è il vero colpevole?
+[quest_title_1030503000601080] VS Allenatori di Pasio 4
+[quest_title_1030503000601090] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030503000601100] Sfida ad alta difficoltà
+[quest_title_1030503000601110] Sfida ad alta difficoltà 2
+[quest_title_1030503000603010] Città
+[quest_title_1030503000603020] Arena
+[quest_title_1030503000603030] Piazza
+[quest_title_1030503000603040] Bosco
+[quest_title_1030503000603050] Spiaggia
+[quest_title_1030450100201010] VS Allenatori di Pasio
+[quest_title_1030450100201011] VS Allenatori di Pasio 2
+[quest_title_1030450100201012] VS Allenatori di Pasio 3
+[quest_title_1030450100201013] VS Allenatori di Pasio 4
+[quest_title_1030450300405010] VS Serena
+[quest_title_1030503000602000] Il vero caso inizia ora!
+[quest_title_1030503000602010] Il ladro Imagination
+[quest_title_1030503000602050] VS Team Break
+[quest_title_1030503000602020] Il filo conduttore
+[quest_title_1030503000602060] VS Team Break 2
+[quest_title_1030503000602030] Il finto male e il falso eroe
+[quest_title_1030503000602070] VS Team Break 3
+[quest_title_1030503000602040] Cercate di essere più creativi!
+[quest_title_1030503000602080] VS Team Break 4
+[quest_title_1030503000602090] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030503000602100] Sfida ad alta difficoltà
+[quest_title_1030503000602110] Sfida ad alta difficoltà 2
+[quest_title_1030503000604000] Perché ci alleniamo
+[quest_title_1030503000604020] VS Lorelei e Bruno
+[quest_title_1030503000604030] VS Lorelei e Bruno 2
+[quest_title_1030503000604040] VS Lorelei e Bruno 3
+[quest_title_1030503000604050] VS Lorelei e Bruno 4
+[quest_title_1030503000604010] Rendez-vous con i Superquattro di Kanto
+[quest_title_1040000900001011] Un giorno speciale con Rocco (1ª parte)
+[quest_title_1040000900001021] Un giorno speciale con Rocco (2ª parte)
 
 ===========
 story_quest_name_ja.lsd
@@ -21463,6 +21732,58 @@ story_quest_name_ja.lsd
 [quest_title_1030502000613010] ＶＳ　アクア団のしたっぱ
 [quest_title_1030502000613020] ＶＳ　アクア団のしたっぱ２
 [quest_title_1030502000613030] ＶＳ　アクア団のしたっぱ３
+[quest_group_title_10090410000] ダイゴ
+（スペシャル）
+[quest_group_title_10139400000] サナ
+（スペシャル）
+[quest_group_title_10129400000] ヒガナ
+（スペシャル）
+[quest_group_title_10002410000] コトネ
+（スペシャル）
+[quest_title_1030110000550100] 憎しみの炎
+[quest_title_1030503000606200] トゲピーＶＳピッピ！
+[quest_title_1030503000601000] 謎解きゲーム開催！
+[quest_title_1030503000601010] 配役決定！
+[quest_title_1030503000601050] ＶＳ　パシオのトレーナー
+[quest_title_1030503000601020] 屋敷を回ろう！
+[quest_title_1030503000601060] ＶＳ　パシオのトレーナー２
+[quest_title_1030503000601030] 事件発生！
+[quest_title_1030503000601070] ＶＳ　パシオのトレーナー３
+[quest_title_1030503000601040] 真犯人は……？
+[quest_title_1030503000601080] ＶＳ　パシオのトレーナー４
+[quest_title_1030503000601090] １日１回限定・高難度バトル！
+[quest_title_1030503000601100] チャレンジバトルで勝負！
+[quest_title_1030503000601110] チャレンジバトルで勝負！２
+[quest_title_1030503000603010] 街
+[quest_title_1030503000603020] アリーナ
+[quest_title_1030503000603030] 広場
+[quest_title_1030503000603040] 森
+[quest_title_1030503000603050] 海辺
+[quest_title_1030450100201010] ＶＳ　パシオのトレーナー
+[quest_title_1030450100201011] ＶＳ　パシオのトレーナー２
+[quest_title_1030450100201012] ＶＳ　パシオのトレーナー３
+[quest_title_1030450100201013] ＶＳ　パシオのトレーナー４
+[quest_title_1030450300405010] ＶＳ　セレナ
+[quest_title_1030503000602000] 真の事件の幕開け
+[quest_title_1030503000602010] 「怪盗イマジネイト」
+[quest_title_1030503000602050] ＶＳ　ブレイク団
+[quest_title_1030503000602020] 被害者の共通点
+[quest_title_1030503000602060] ＶＳ　ブレイク団２
+[quest_title_1030503000602030] 偽物の悪　偽物の正義
+[quest_title_1030503000602070] ＶＳ　ブレイク団３
+[quest_title_1030503000602040] 「想像力が足りないよ」
+[quest_title_1030503000602080] ＶＳ　ブレイク団４
+[quest_title_1030503000602090] １日１回限定・高難度バトル！
+[quest_title_1030503000602100] チャレンジバトルで勝負！
+[quest_title_1030503000602110] チャレンジバトルで勝負！２
+[quest_title_1030503000604000] 鍛えあう理由
+[quest_title_1030503000604020] ＶＳ　カンナとシバ
+[quest_title_1030503000604030] ＶＳ　カンナとシバ２
+[quest_title_1030503000604040] ＶＳ　カンナとシバ３
+[quest_title_1030503000604050] ＶＳ　カンナとシバ４
+[quest_title_1030503000604010] カントー四天王の約束
+[quest_title_1040000900001011] ダイゴとの特別な一日　前編
+[quest_title_1040000900001021] ダイゴとの特別な一日　後編
 
 ===========
 story_quest_name_ko.lsd
@@ -24412,6 +24733,58 @@ story_quest_name_ko.lsd
 [quest_title_1030502000613010] VS 아쿠아단의 조무래기
 [quest_title_1030502000613020] VS 아쿠아단의 조무래기2
 [quest_title_1030502000613030] VS 아쿠아단의 조무래기3
+[quest_group_title_10090410000] 성호
+(스페셜)
+[quest_group_title_10139400000] 사나
+(스페셜)
+[quest_group_title_10129400000] 피아나
+(스페셜)
+[quest_group_title_10002410000] 금선
+(스페셜)
+[quest_title_1030110000550100] 증오의 불꽃
+[quest_title_1030503000606200] 토게피 VS 삐삐!
+[quest_title_1030503000601000] 수수께끼 풀기 게임 개최!
+[quest_title_1030503000601010] 배역 결정!
+[quest_title_1030503000601050] VS 파시오의 트레이너
+[quest_title_1030503000601020] 저택을 둘러보자!
+[quest_title_1030503000601060] VS 파시오의 트레이너2
+[quest_title_1030503000601030] 사건 발생!
+[quest_title_1030503000601070] VS 파시오의 트레이너3
+[quest_title_1030503000601040] 진짜 범인은...?
+[quest_title_1030503000601080] VS 파시오의 트레이너4
+[quest_title_1030503000601090] 1일 1회 한정 고난도 배틀!
+[quest_title_1030503000601100] 챌린지배틀로 승부!
+[quest_title_1030503000601110] 챌린지배틀로 승부!2
+[quest_title_1030503000603010] 마을
+[quest_title_1030503000603020] 아레나
+[quest_title_1030503000603030] 광장
+[quest_title_1030503000603040] 숲
+[quest_title_1030503000603050] 해변
+[quest_title_1030450100201010] VS 파시오의 트레이너
+[quest_title_1030450100201011] VS 파시오의 트레이너2
+[quest_title_1030450100201012] VS 파시오의 트레이너3
+[quest_title_1030450100201013] VS 파시오의 트레이너4
+[quest_title_1030450300405010] VS 세레나
+[quest_title_1030503000602000] 진정한 사건의 개막
+[quest_title_1030503000602010] "괴도 이미지네이트"
+[quest_title_1030503000602050] VS 브레이크단
+[quest_title_1030503000602020] 피해자의 공통점
+[quest_title_1030503000602060] VS 브레이크단2
+[quest_title_1030503000602030] 가짜 악, 가짜 정의
+[quest_title_1030503000602070] VS 브레이크단3
+[quest_title_1030503000602040] "상상력이 부족해"
+[quest_title_1030503000602080] VS 브레이크단4
+[quest_title_1030503000602090] 1일 1회 한정 고난도 배틀!
+[quest_title_1030503000602100] 챌린지배틀로 승부!
+[quest_title_1030503000602110] 챌린지배틀로 승부!2
+[quest_title_1030503000604000] 함께 단련하는 이유
+[quest_title_1030503000604020] VS 칸나, 시바
+[quest_title_1030503000604030] VS 칸나, 시바2
+[quest_title_1030503000604040] VS 칸나, 시바3
+[quest_title_1030503000604050] VS 칸나, 시바4
+[quest_title_1030503000604010] 관동지방 사천왕의 약속
+[quest_title_1040000900001011] 성호와의 특별한 하루 전편
+[quest_title_1040000900001021] 성호와의 특별한 하루 후편
 
 ===========
 story_quest_name_zh-TW.lsd
@@ -27361,6 +27734,58 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030502000613010] ＶＳ　海洋隊手下
 [quest_title_1030502000613020] ＶＳ　海洋隊手下２
 [quest_title_1030502000613030] ＶＳ　海洋隊手下３
+[quest_group_title_10090410000] 大吾
+（偵探）
+[quest_group_title_10139400000] 莎娜
+（偵探）
+[quest_group_title_10129400000] 希嘉娜
+（怪盜）
+[quest_group_title_10002410000] 琴音
+（隊員）
+[quest_title_1030110000550100] 憎恨之炎
+[quest_title_1030503000606200] 波克比ＶＳ皮皮！
+[quest_title_1030503000601000] 解謎遊戲開跑！
+[quest_title_1030503000601010] 決定角色！
+[quest_title_1030503000601050] ＶＳ　帕希歐的訓練家
+[quest_title_1030503000601020] 在宅邸裡逛逛吧！
+[quest_title_1030503000601060] ＶＳ　帕希歐的訓練家２
+[quest_title_1030503000601030] 發生事件了！
+[quest_title_1030503000601070] ＶＳ　帕希歐的訓練家３
+[quest_title_1030503000601040] 真正的犯人是……？
+[quest_title_1030503000601080] ＶＳ　帕希歐的訓練家４
+[quest_title_1030503000601090] １天僅限１次的高難度對戰！
+[quest_title_1030503000601100] 用挑戰對戰決勝負！
+[quest_title_1030503000601110] 用挑戰對戰決勝負！２
+[quest_title_1030503000603010] 街上
+[quest_title_1030503000603020] 競技場
+[quest_title_1030503000603030] 廣場
+[quest_title_1030503000603040] 森林
+[quest_title_1030503000603050] 海邊
+[quest_title_1030450100201010] ＶＳ　帕希歐的訓練家
+[quest_title_1030450100201011] ＶＳ　帕希歐的訓練家２
+[quest_title_1030450100201012] ＶＳ　帕希歐的訓練家３
+[quest_title_1030450100201013] ＶＳ　帕希歐的訓練家４
+[quest_title_1030450300405010] ＶＳ　莎莉娜
+[quest_title_1030503000602000] 真正的事件揭開序幕
+[quest_title_1030503000602010] 「怪盜奇想」
+[quest_title_1030503000602050] ＶＳ　破壞隊
+[quest_title_1030503000602020] 被害者的共通點
+[quest_title_1030503000602060] ＶＳ　破壞隊２
+[quest_title_1030503000602030] 冒牌的邪惡　冒牌的正義
+[quest_title_1030503000602070] ＶＳ　破壞隊３
+[quest_title_1030503000602040] 「真沒想像力」
+[quest_title_1030503000602080] ＶＳ　破壞隊４
+[quest_title_1030503000602090] １天僅限１次的高難度對戰！
+[quest_title_1030503000602100] 用挑戰對戰決勝負！
+[quest_title_1030503000602110] 用挑戰對戰決勝負！２
+[quest_title_1030503000604000] 互相鍛鍊的理由
+[quest_title_1030503000604020] ＶＳ　科拿與希巴
+[quest_title_1030503000604030] ＶＳ　科拿與希巴２
+[quest_title_1030503000604040] ＶＳ　科拿與希巴３
+[quest_title_1030503000604050] ＶＳ　科拿與希巴４
+[quest_title_1030503000604010] 關都四天王的約定
+[quest_title_1040000900001011] 與大吾的特別日子　前篇
+[quest_title_1040000900001021] 與大吾的特別日子　後篇
 
 ===========
 trainer_description_de.lsd
@@ -28337,6 +28762,31 @@ der Pokémon-Liga der Galar-Region zu werden.
 Herausforderung ein. Sie ist ein wenig frech und liebt
 es, draußen in der Natur zu sein. Für Curry begeistert sie
 sich genauso sehr wie für Pokémon-Kämpfe.
+[10090410000] Troy trägt ein besonderes Kostüm. Gemeinsam mit seinem
+Schillernden Bissbark und dessen ausgezeichneter
+Spürnase ist er bereit, Passios Mystery-Spiel auf den
+Grund zu gehen.
+[10139400000] Sannah trägt ein besonderes Kostüm. Ihre hervorragende
+Auffassungsgabe und innige Verbindung zu Clavion
+könnten der Schlüssel zur Lösung des Mystery-Spiels sein!
+[10129400000] Amalia schlüpft in ihrem besonderen Kostüm in die Rolle
+des „Phantomdieb Imaginato“ und vollbringt ihre
+diebischen Taten mithilfe ihres Komplizen Gaunux. Wen
+nehmen sie heute Nacht ins Visier?
+[10002410000] Lyra trägt ein besonderes Outfit. Bei der Uniform von
+Team Rocket handelt es sich jedoch nur um eine
+Verkleidung, mit der sie bei ihren verdeckten Ermittlungen
+den Lockvogel spielt. Ihr Partner und stetiger Begleiter
+Phanpy mag niedlich wirken, birgt jedoch immense Kräfte!
+[10005000001] Die kühle Schönheit unter den Top Vier und Expertin für
+Eis-Pokémon. In Wirklichkeit hat sie ein Faible für alles
+Niedliche und sammelt Plüschpuppen.
+[10057000001] Dieses Mitglied der Top Vier sieht in hartem Training den
+Schlüssel zum Erfolg als Trainer. Spornt sich selbst stets mit
+Kampfgeschrei an.
+[10090000001] Ein Trainer auf Wanderschaft mit einem Faible für seltene
+Steine. Er ist der Sprössling der Devon Corporation und
+Champ der Pokémon-Liga von Hoenn.
 
 ===========
 trainer_description_en.lsd
@@ -29212,6 +29662,27 @@ it comes to their true identity, age, or even gender.
 [10243000001] Gloria is full of courage and up for any challenge. She is
 slightly mischievous and enjoys playing outdoors, and she
 loves curry just as much as she does Pokémon battles.
+[10090410000] Steven is wearing a special outfit. He’s ready to take on
+the Pasio mystery game together with his Shiny Stoutland,
+who is very good at finding things.
+[10139400000] Shauna is wearing a special outfit. Her attentive nature
+and partnership with Klefki may be the key to solving the
+mystery game!
+[10129400000] Zinnia is wearing a special outfit. She works together
+with Thievul as the Phantom Imaginate. Who will be their
+target tonight?
+[10002410000] Lyra is wearing a special outfit. The Team Rocket uniform
+isn’t real—it’s just a costume. With the tiny-yet-powerful
+Phanpy, she’s going undercover for an investigation!
+[10005000001] This cool beauty who uses Ice-type Pokémon is one of
+the Elite Four. She likes cute things and has many plushies
+at home.
+[10057000001] A member of the Elite Four who believes that people and
+Pokémon can become stronger through rigorous—even
+extreme—training, he shouts “Hoo hah!” to get fired up.
+[10090000001] Known as the wandering stone collector due to his love
+of rare stones, he is actually the heir to the Devon
+Corporation and Champion of the Hoenn Pokémon League.
 
 ===========
 trainer_description_es.lsd
@@ -30240,6 +30711,32 @@ hace llamar Bolifacio, nadie sabe quién es realmente.
 se enfrenta a cualquier desafío que la vida le eche.
 Adora de igual forma disfrutar de la naturaleza, los
 combates Pokémon y el curri.
+[10090410000] Máximo está preparado para el juego de misterio de
+Passio, ataviado con un atuendo especial. Le acompaña
+su Stoutland variocolor, cuya especialidad es rastrear
+el paradero de todo tipo de cosas.
+[10139400000] Xana se viste con un traje especial para el juego de
+misterio de Passio. ¡Sus dotes de observación y el apoyo
+de Klefki pueden ser claves para resolver el caso!
+[10129400000] Tristana se viste con un traje especial y se esconde junto
+con Thievul tras la misteriosa máscara del Ladrón
+Imaginario. ¿Qué robarán esta noche?
+[10002410000] Lira lleva un traje especial que, aunque sea idéntico a un
+uniforme del Team Rocket, se trata solo de un disfraz.
+¡Está preparada para una misión de infiltración con la
+ayuda de la pequeña pero poderosa Phanpy!
+[10005000001] Experta en Pokémon de tipo Hielo e integrante del
+Alto Mando. Pese a su apariencia fría y calculadora,
+es una amante de lo adorable y posee una gran
+colección de peluches.
+[10057000001] Miembro del Alto Mando de Kanto que dedica su
+tiempo al más riguroso entrenamiento para fortalecerse
+a sí mismo y a sus Pokémon. Siempre combate con
+entusiasmo.
+[10090000001] Vástago del presidente de Devon S. A. y Campeón
+de la Liga Pokémon de Hoenn. Muestra tal devoción
+por las piedras raras que lo apodan el Coleccionista
+de Piedras Errante.
 
 ===========
 trainer_description_fr.lsd
@@ -31224,6 +31721,29 @@ ce masque ou son âge... Mystère et Ball de gomme !
 sans hésitation tous les défis qui se présentent à elle.
 Un peu espiègle, elle adore passer du temps à l'extérieur,
 et aime autant les combats Pokémon que le curry.
+[10090410000] Pierre Rochard porte une tenue spéciale. Il est prêt
+à résoudre les mystères du jeu de rôle grandeur
+nature de Passio accompagné de son Mastouffe
+chromatique, doué pour dénicher des choses.
+[10139400000] Sannah porte une tenue spéciale. Sa nature attentive
+et son partenaire Trousselin seront peut-être
+la clé pour résoudre les mystères du jeu
+de rôle grandeur nature !
+[10129400000] Amaryllis porte une tenue spéciale. Elle s'associe toujours
+avec Roublenard sous le nom d'Image Inère, le Voleur
+Mystère. Quelle sera leur nouvelle cible ce soir ?
+[10002410000] Célesta porte une tenue spéciale, mais son uniforme
+de la Team Rocket n'est qu'un déguisement.
+Accompagnée de son petit mais puissant
+Phanpy, elle enquête incognito !
+[10005000001] Une membre de Conseil 4 spécialiste des Pokémon
+Glace. Sa beauté froide cache une passion pour
+les peluches mignonnes, qu'elle collectionne.
+[10057000001] Membre du Conseil 4 de Kanto, il consacre toute
+son énergie à l'entraînement intensif de son corps
+et de ses Pokémon.
+[10090000001] Collectionneur de pierres rares et président de
+la Devon SARL, c'est aussi le Maître de Hoenn.
 
 ===========
 trainer_description_it.lsd
@@ -32187,6 +32707,29 @@ una donna? Mistero.
 nuove sfide, ma a volte un po' dispettosa. Le piace stare
 in mezzo alla natura e ama il curry quasi quanto le lotte
 di Pokémon.
+[10090410000] Rocco indossa un costume speciale ed è pronto a mettersi
+alla prova nel mistero interattivo di Pasio assieme al suo
+Stoutland cromatico, bravissimo a trovare oggetti.
+[10139400000] Shana indossa un costume speciale. La sua perspicacia
+e il suo fido compagno Klefki potrebbero essere la chiave
+per risolvere il mistero interattivo...?
+[10129400000] Lyris in costume speciale veste i panni del ladro
+Imagination e si mette in azione in combutta con
+il suo complice Thievul. Chi prenderanno di mira
+stanotte?
+[10002410000] Cetra indossa un costume speciale, ma la sua uniforme
+del Team Rocket non è originale, bensì un abito da scena.
+È in missione sotto copertura per fare da esca insieme a
+Phanpy, che è piccino, ma portentoso!
+[10005000001] Affascinante Superquattro esperta di Pokémon di tipo
+Ghiaccio. Ama le cose adorabili e a casa ha una gran
+collezione di peluche.
+[10057000001] Superquattro che si allena strenuamente, crede che
+allenandosi chiunque possa diventare forte.
+Spesso grida prima di attaccare.
+[10090000001] Noto come "il collezionista girovago", è figlio del capo
+della Devon S.p.A. e Campione della Lega Pokémon
+di Hoenn. Ama le gemme rare.
 
 ===========
 trainer_description_ja.lsd
@@ -33058,6 +33601,27 @@ trainer_description_ja.lsd
 [10243000001] 度胸満点　どんなことにも　チャレンジする　女の子。
 ちょっぴり　わんぱくで　自然の中で遊ぶのが　好き。
 ポケモン勝負と　同じくらい　カレーが　大好き。
+[10090410000] スペシャルな　衣装を　身にまとった　ダイゴ。
+探し物が　得意な　色違いの　ムーランドと　ともに
+パシオの　ミステリーゲームに　挑戦する。
+[10139400000] スペシャルな　衣装を　身にまとった　サナ。
+注意深い　彼女と　クレッフィの　コンビは
+ミステリーゲームを　解く　カギとなるか……？
+[10129400000] スペシャルな　衣装を　身にまとった　ヒガナ。
+フォクスライと　共に　「怪盗イマジネイト」として
+活動する　彼女たちの　今宵のターゲットは　誰だ？
+[10002410000] スペシャルな　衣装を　身にまとった　コトネ。
+ロケット団の衣装は　本物ではなく　お芝居用のもの。
+小さくてパワフルな　ゴマゾウと　オトリ捜査に挑む。
+[10005000001] こおりポケモンを　使う　クールビューティーな
+四天王の　ひとり。　実は　かわいいものが　好きで
+自宅には　ぬいぐるみが　たくさん　ある。
+[10057000001] 人も　ポケモンも　鍛えただけ　強くなれる　という
+信条のもと　極限まで　鍛えている　四天王のひとり。
+ウー！　ハーッ！　という掛け声で　気合を　入れる。
+[10090000001] 珍しい石が　大好きな　人呼んで　さすらいの石集め。
+その正体は　デボンコーポレーションの　御曹司であり
+ホウエン地方　ポケモンリーグ　チャンピオン。
 
 ===========
 trainer_description_ko.lsd
@@ -33085,7 +33649,7 @@ trainer_description_ko.lsd
 언제나 전력으로 승부에 하트를 불태우고 있다.
 [10007000000] 알로라지방에서 포켓몬리그 사천왕을 맡고 있는
 고스트포켓몬 전문가. 사실은 알로라에 있던
-고대왕조의 자손이라는 소문이 있다.
+고대 왕조의 자손이라는 소문이 있다.
 [10008000000] 예쁘고 귀여운 풀포켓몬을 좋아하는
 체육관 관장. 관동에서는 꽃꽂이 교실도
 하는 조용한 트레이너다.
@@ -33928,6 +34492,27 @@ WPM 운영위원회의 대표도 맡고 있다.
 [10243000001] 배짱이 가득해 어떤 일이든 도전하는 트레이너.
 조금 장난기가 많으며 자연 속에서 노는 걸 좋아한다.
 포켓몬 승부만큼 카레를 좋아한다.
+[10090410000] 스페셜 의상을 입은 성호.
+물건 찾기가 특기인 색이 다른 바랜드와 함께
+파시오의 미스터리 게임에 도전한다.
+[10139400000] 스페셜 의상을 입은 사나.
+신중한 그녀와 클레피 콤비는
+미스터리 게임을 푸는 열쇠가 될 것인가...?
+[10129400000] 스페셜 의상을 입은 피아나.
+폭슬라이와 함께 "괴도 이미지네이트"로서
+활동하는 이들의 오늘 밤 타깃은 누구일까?
+[10002410000] 스페셜 의상을 입은 금선.
+로켓단 의상은 진짜가 아니라 연기용 의상.
+작고 파워풀한 코코리와 함께 함정 수사에 나선다.
+[10005000001] 얼음타입 포켓몬을 사용하는 쿨뷰티한
+사천왕의 일원. 사실은 귀여운 것을 좋아해서
+집에는 봉제인형이 잔뜩 있다.
+[10057000001] 사람도 포켓몬도 단련한 만큼 강해진다는
+신조 아래 극한까지 단련하고 있는 사천왕 중 한 사람.
+우~! 하~앗!이라는 구호로 기합을 넣는다.
+[10090000001] 희귀한 돌을 좋아하는 일명 방랑하는 돌수집가.
+그 정체는 데봉 코포레이션의 자제이자
+호연지방 포켓몬리그의 챔피언이다.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -34798,6 +35383,27 @@ trainer_description_zh-TW.lsd
 [10243000001] 充滿膽識，凡事都勇於挑戰的女孩。
 她的個性有一點淘氣，喜歡在大自然中玩耍。
 對於咖哩與寶可夢對戰的熱愛程度不相上下。
+[10090410000] 身穿特別服裝的大吾。
+他和擅長找東西的異色長毛狗
+一起挑戰帕希歐的推理遊戲。
+[10139400000] 身穿特別服裝的莎娜。
+細心謹慎的她和鑰圈兒的組合，
+會成為解開推理遊戲的關鍵嗎……？
+[10129400000] 身穿特別服裝的希嘉娜。
+她以「怪盜奇想」的身分和狐大盜一起活動，
+他們今晚的目標會是誰呢？
+[10002410000] 身穿特別服裝的琴音。
+火箭隊的服裝並非實物，而是戲服。
+她將和身小力大的小小象一起挑戰誘餌搜查。
+[10005000001] 使用冰屬性寶可夢的四天王。
+雖然外表冷豔，但其實非常喜歡
+可愛的東西。家裡有很多玩偶。
+[10057000001] 總是將自己鍛鍊到極限的四天王。他堅信
+人與寶可夢都是有多少鍛鍊就能有多少成長。
+會用「呼！喝！」的吼聲來提升幹勁。
+[10090000001] 喜歡稀有的石頭，人稱「漂泊藏石家」。
+他的真實身分是得文公司的小開，
+同時也是豐緣地區寶可夢聯盟的冠軍。
 
 ===========
 trainer_name_de.lsd
@@ -36853,6 +37459,14 @@ trainer_verbose_name_de.lsd
 (Neo-Champ)
 [10246900000] Betys 
 (Neo-Champ)
+[10090410000] Troy 
+(Kostüm)
+[10139400000] Sannah 
+(Kostüm)
+[10129400000] Amalia 
+(Kostüm)
+[10002410000] Lyra 
+(Kostüm)
 
 ===========
 trainer_verbose_name_en.lsd
@@ -37029,6 +37643,14 @@ Lysandre
 (Champion)
 [10246900000] Bede 
 (Champion)
+[10090410000] Steven 
+(Special Costume)
+[10139400000] Shauna 
+(Special Costume)
+[10129400000] Zinnia 
+(Special Costume)
+[10002410000] Lyra 
+(Special Costume)
 
 ===========
 trainer_verbose_name_es.lsd
@@ -37181,6 +37803,10 @@ con Kimono)
 (Neocampeón)
 [10246900000] Berto 
 (Neocampeón)
+[10090410000] Máximo (Especial)
+[10139400000] Xana (Especial)
+[10129400000] Tristana (Especial)
+[10002410000] Lira (Especial)
 
 ===========
 trainer_verbose_name_fr.lsd
@@ -37345,6 +37971,14 @@ trainer_verbose_name_fr.lsd
 (Néo-Maître)
 [10246900000] Travis 
 (Néo-Maître)
+[10090410000] Pierre Rochard 
+(Spécial)
+[10139400000] Sannah 
+(Spécial)
+[10129400000] Amaryllis 
+(Spécial)
+[10002410000] Célesta 
+(Spécial)
 
 ===========
 trainer_verbose_name_it.lsd
@@ -37513,6 +38147,14 @@ trainer_verbose_name_it.lsd
 (Campione)
 [10246900000] Beet 
 (Campione)
+[10090410000] Rocco 
+(speciale)
+[10139400000] Shana 
+(speciale)
+[10129400000] Lyris 
+(speciale)
+[10002410000] Cetra 
+(speciale)
 
 ===========
 trainer_verbose_name_ja.lsd
@@ -37681,6 +38323,14 @@ trainer_verbose_name_ja.lsd
 （チャンピオン）
 [10246900000] ビート
 （チャンピオン）
+[10090410000] ダイゴ
+（スペシャル）
+[10139400000] サナ
+（スペシャル）
+[10129400000] ヒガナ
+（スペシャル）
+[10002410000] コトネ
+（スペシャル）
 
 ===========
 trainer_verbose_name_ko.lsd
@@ -37849,6 +38499,14 @@ trainer_verbose_name_ko.lsd
 (챔피언)
 [10246900000] 비트
 (챔피언)
+[10090410000] 성호
+(스페셜)
+[10139400000] 사나
+(스페셜)
+[10129400000] 피아나
+(스페셜)
+[10002410000] 금선
+(스페셜)
 
 ===========
 trainer_verbose_name_zh-TW.lsd
@@ -38017,6 +38675,14 @@ trainer_verbose_name_zh-TW.lsd
 （冠軍）
 [10246900000] 彼特
 （冠軍）
+[10090410000] 大吾
+（偵探）
+[10139400000] 莎娜
+（偵探）
+[10129400000] 希嘉娜
+（怪盜）
+[10002410000] 琴音
+（隊員）
 
 ===========
 common_widget_de.lsd
@@ -38331,6 +38997,8 @@ im Pokémon-Center.
 [common_widget/trainer_detail_069] Verstärken
 [common_widget/trainer_detail_070] Hinweis: Danach kehrst du zum Erkundungsbildschirm
 zurück.
+[common_widget/trainer_detail_071] Für dieses Gefährtengespann gibt es
+kein EX-Farboutfit.
 [common_widget/dialog_special_item_001] [Name:Item ]
 erhalten!
 [common_widget/dialog_special_item_002] Noch [Digit:1digit ] Orden!
@@ -39020,6 +39688,8 @@ Strike
 Pokémon Center often.
 [common_widget/trainer_detail_069] Upgrade
 [common_widget/trainer_detail_070] Note: You will be returned to the Expedition screen after switching.
+[common_widget/trainer_detail_071] This sync pair does not have an
+EX style.
 [common_widget/dialog_special_item_001] [Name:Item ]
 [common_widget/dialog_special_item_002] Only [Digit:1digit ] more [EN:Qty S="badge" P="badges" ] to go!
 [common_widget/dialog_special_item_003] All badges acquired! Time to compete in the PML!
@@ -39687,6 +40357,8 @@ Especial
 por el Centro Pokémon.
 [common_widget/trainer_detail_069] Mejorar
 [common_widget/trainer_detail_070] Nota: Después, regresarás a la pantalla de exploración.
+[common_widget/trainer_detail_071] Esta pareja de compis no tiene
+Traje EX.
 [common_widget/dialog_special_item_001] Has conseguido:
 [Name:Item ]
 [common_widget/dialog_special_item_002] Medallas restantes: [Digit:1digit ]
@@ -40377,6 +41049,7 @@ Spécial
 au Centre Pokémon.
 [common_widget/trainer_detail_069] Renforcement
 [common_widget/trainer_detail_070] Vous retournerez à l'écran d'exploration après ceci.
+[common_widget/trainer_detail_071] Ce Duo n'a pas de Couleur EX.
 [common_widget/dialog_special_item_001] Vous avez obtenu
 1 [Name:Item ] !
 [common_widget/dialog_special_item_002] Encore [Digit:1digit ] Badge[FR:Qty P="s" ] à obtenir !
@@ -41067,6 +41740,7 @@ speciale
 nel Centro Pokémon.
 [common_widget/trainer_detail_069] Rinforzo
 [common_widget/trainer_detail_070] Dopo il cambio d'abito farai ritorno alla schermata delle spedizioni.
+[common_widget/trainer_detail_071] Questa Unità non ha un Costume EX.
 [common_widget/dialog_special_item_001] Hai ottenuto: [Name:Item ]!
 [common_widget/dialog_special_item_002] Medaglie mancanti: [Digit:1digit ]!
 [common_widget/dialog_special_item_003] Ora hai tutte le medaglie! Puoi affrontare il WPM!
@@ -41743,6 +42417,7 @@ MAX
 よく登場するようになります
 [common_widget/trainer_detail_069] 強化
 [common_widget/trainer_detail_070] ※実行後探索画面に戻ります
+[common_widget/trainer_detail_071] このバディーズにはEXカラーはありません
 [common_widget/dialog_special_item_001] [Name:Item ]を
 獲得しました！
 [common_widget/dialog_special_item_002] のこるバッジは　あと[Digit:1digit ]個！
@@ -42430,6 +43105,7 @@ Lv.1 상태
 자주 등장하게 됩니다
 [common_widget/trainer_detail_069] 강화
 [common_widget/trainer_detail_070] ※실행 후 탐색 화면으로 돌아갑니다
+[common_widget/trainer_detail_071] 이 버디즈에게는 EX컬러가 없습니다
 [common_widget/dialog_special_item_001] [Name:Item ][Kor:Particle char="wo" ]
 획득했습니다!
 [common_widget/dialog_special_item_002] 남은 배지는 앞으로 [Digit:1digit ]개!
@@ -43091,6 +43767,7 @@ MAX
 寶可夢中心
 [common_widget/trainer_detail_069] 強化
 [common_widget/trainer_detail_070] ※執行後將回到探索畫面
+[common_widget/trainer_detail_071] 這對拍組沒有EX服裝
 [common_widget/dialog_special_item_001] 獲得了
 [Name:Item ]！
 [common_widget/dialog_special_item_002] 還剩下[Digit:1digit ]個徽章！
@@ -45913,6 +46590,7 @@ Belohnung erhalten!
 des Schurkenteams [Digit:2digits ] Mal auf dem
 Schwierigkeitsgrad Normal abgeschlossen hast.
 [home/quest_list_175] Kampfpunkte-Bonus
+[home/quest_list_176] Event läuft!
 [home/quest_detail_003] Empfohlener Typ
 [home/quest_detail_005] Details
 [home/quest_detail_009] Teamauswahl
@@ -46624,6 +47302,32 @@ MaMo-Leaf & Bisaflor
 [home/champion_battle_090] Fragmente aus noch laufenden Kämpfen werden dem Emblem nach dem Sieg über den Champ hinzugefügt.
 [home/champion_battle_091] Fragmente
 [home/champion_battle_092] Im Gang
+[home/champion_battle_093] Spezial
+[home/champion_battle_094] Bei diesem besonderen Champkampf werden
+Gefährtengespanne mit spezifischen Typen nützlich sein.
+[home/champion_battle_095] Normal
+[home/champion_battle_096] Nachdem du den Champ besiegt hast,
+kannst du deinen Kampffortschritt
+zurücksetzen und erneut antreten.
+[home/champion_battle_097] Hinweis: Du kannst Abschlussboni jeweils nur ein Mal
+erhalten. Zudem erhältst du Gesamtpunkteboni für eine
+bereits erreichte Punktzahl kein zweites Mal.
+[home/champion_battle_098] Ziehst du im Rahmen des Champkampf-Spezialevents in die
+Ruhmeshalle ein, werden diese Einträge nicht auf das nächste
+Event übertragen.
+[home/champion_battle_099] Selbst nach dem Zurücksetzen kannst du bereits
+abgeholte Abschlussboni nicht erneut erhalten.
+[home/champion_battle_101] Selbst nach dem Zurücksetzen kannst du bereits
+abgeholte Gesamtpunkteboni nicht erneut erhalten.
+[home/champion_battle_102] Glückwunsch!
+Du bist in die Ruhmeshalle eingezogen!
+[home/champion_battle_105] An bereits abgeschlossenen Kämpfen
+kannst du erst durch Zurücksetzen
+erneut teilnehmen.
+[home/champion_battle_106] Einer oder mehrere Gefährten deines
+Teams haben bereits einen anderen
+Kampf abgeschlossen. Bitte ändere die
+Aufstellung deines Teams.
 [home/battle_villa_001] Ebenensprung
 [home/battle_villa_002] Da du in der letzten Kampfvilla-Veranstaltung die finale Ebene abgeschlossen hast, kannst du jetzt zu deiner gewünschten Ebene springen. Du kannst bis zu der Ebene, zu der du springst, Erstboni erhalten.
 [home/battle_villa_003] Hinweis: Du kannst nur zu Beginn des Veranstaltungszeitraums Ebenen überspringen. Später ist die Funktion nicht mehr verfügbar.
@@ -46910,6 +47614,7 @@ To unlock, collect more:
 [home/quest_list_172] To unlock, complete [Digit:2digits ] chapter(s) of
 the villain arc on Normal.
 [home/quest_list_175] BP Boost
+[home/quest_list_176] Event Under Way!
 [home/quest_detail_003] Recommended Types
 [home/quest_detail_005] Area Details
 [home/quest_detail_009] Preset Teams
@@ -47588,6 +48293,20 @@ You can also get other amazing rewards, including up to 5,000 gems!
 [home/champion_battle_090] Pieces from a challenge that is still in progress will be added to your medal once you defeat the Champion.
 [home/champion_battle_091] Pieces
 [home/champion_battle_092] In progress
+[home/champion_battle_093] Special Event
+[home/champion_battle_094] This is a special Champion Stadium where sync pairs of
+specific types will come in handy.
+[home/champion_battle_095] Normal
+[home/champion_battle_096] Once you defeat the Champion, you can reset your progress and challenge them again.
+[home/champion_battle_097] Note: Completion rewards can only be obtained once. You cannot obtain rewards for total point reward tiers that you’ve already completed. However, you can obtain rewards for completing higher tiers.
+[home/champion_battle_098] Hall of Fame records for Champion Stadium special events will
+not be carried over to the next event.
+[home/champion_battle_099] Completion rewards that you’ve already received cannot be received again even if you perform a reset.
+[home/champion_battle_101] Completion rewards that you’ve already received cannot be received again even if you perform a reset.
+[home/champion_battle_102] Congratulations!
+You’ve entered the Hall of Fame!
+[home/champion_battle_105] Battles in the Champion Stadium can only be completed once per reset.
+[home/champion_battle_106] One or more sync pairs on your team have already completed another battle. Please edit your team.
 [home/battle_villa_001] Hall Skip
 [home/battle_villa_002] Because you completed all halls during the last Battle Villa challenge, you can skip to a hall of your choice. You can still receive first-time rewards for any halls you skip.
 [home/battle_villa_003] Note: If you don’t skip any halls at this point, you will not be able to do so later during this Battle Villa challenge.
@@ -47877,6 +48596,7 @@ tienes bastante del siguiente objeto:
 capítulo[ES:Qty P="s" ] de la trama equipo villano en
 dificultad normal.
 [home/quest_list_175] Puntos de combate ↑
+[home/quest_list_176] ¡Evento en curso!
 [home/quest_detail_003] Tipos recomendados
 [home/quest_detail_005] Detalles
 [home/quest_detail_009] Elegir equipo
@@ -48596,6 +49316,36 @@ el Alto Mando y el Campeón o Campeona.
 "En curso" después de vencer al Campeón o Campeona.
 [home/champion_battle_091] Piezas
 [home/champion_battle_092] En curso
+[home/champion_battle_093] Evento especial
+[home/champion_battle_094] En estos Combates de Campeones especiales, los compis
+de determinados tipos serán de gran utilidad.
+[home/champion_battle_095] Normal
+[home/champion_battle_096] Una vez hayas derrotado al Campeón
+o Campeona, podrás reiniciar tu
+progreso y volver a afrontar el
+desafío.
+[home/champion_battle_097] Nota: Los premios por completar los combates solo
+pueden obtenerse una vez. Tampoco puedes volver a
+obtener los premios por puntos totales que ya hayas
+conseguido, aunque si alcanzas nuevas cotas, podrás
+obtener los premios correspondientes.
+[home/champion_battle_098] En los eventos especiales de los Combates de Campeones, tus
+registros en el Hall de la Fama de Passio no se conservarán
+para el próximo evento.
+[home/champion_battle_099] No podrás volver a obtener los premios por
+compleción que hayas obtenido aunque restablezcas
+tu progreso.
+[home/champion_battle_101] No podrás volver a obtener los premios por puntos totales
+que hayas obtenido aunque restablezcas tu progreso.
+[home/champion_battle_102] ¡Enhorabuena
+por ingresar en
+el Hall de la Fama
+de Passio!
+[home/champion_battle_105] Una vez has completado un combate,
+debes restablecerlo para volver a
+disputarlo.
+[home/champion_battle_106] No puedes participar con compis que
+ya hayan participado en otro combate.
 [home/battle_villa_001] Saltar planta
 [home/battle_villa_002] Dado que anteriormente completaste la última
 planta, ahora tienes la posibilidad de avanzar
@@ -48903,6 +49653,7 @@ Nécessaire pour débloquer :
 chapitre[FR:Qty P="s" ] de « L'organisation maléfique »
 au niveau Normal.
 [home/quest_list_175] Boost Points de Combat
+[home/quest_list_176] Évènement en cours !
 [home/quest_detail_003] Types conseillés
 [home/quest_detail_005] Infos
 [home/quest_detail_009] Équipes
@@ -49575,11 +50326,11 @@ de points sera également réinitialisé.
 Vous pourrez participer aux combats
 une nouvelle fois pour tenter d'obtenir
 davantage de points.
-[home/champion_battle_055] Vous ne pourrez pas obtenir une seconde fois
-les récompenses obtenues pour les combats déjà
-terminés. Vous ne recevrez également pas à nouveau
-les récompenses de points totaux. Vous pouvez
-obtenir des récompenses uniquement en franchissant
+[home/champion_battle_055] Vous ne pouvez remporter les récompenses de combats
+terminés qu'une seule fois par semaine. De même,
+les récompenses de points totaux ne peuvent pas
+être reçues plus d'une fois. Vous ne pourrez continuer
+à obtenir des récompenses qu'en atteignant
 de nouveaux paliers.
 [home/champion_battle_056] À obtenir dans le mode Élite.
 [home/champion_battle_057] Félicitations !
@@ -49679,6 +50430,36 @@ aux défis de la Route Victoire !
 [home/champion_battle_090] Vous pourrez obtenir les morceaux d'un défi en cours pour les ajouter à votre emblème après avoir gagné contre le Maître.
 [home/champion_battle_091] Morceaux
 [home/champion_battle_092] En cours
+[home/champion_battle_093] Spécial
+[home/champion_battle_094] Pour ce Combat de Maître spécial, vous aurez besoin
+de Duos de types bien spécifiques.
+[home/champion_battle_095] Classique
+[home/champion_battle_096] Une fois le Maître vaincu, vous pouvez
+réinitialiser votre progression puis
+le défier à nouveau.
+[home/champion_battle_097] Vous ne pouvez remporter les récompenses de combats
+terminés qu'une seule fois. De même, les récompenses
+de points totaux ne peuvent pas être reçues plus
+d'une fois. Vous ne pourrez continuer à obtenir
+des récompenses qu'en atteignant de nouveaux paliers.
+[home/champion_battle_098] Les données du Panthéon de Passio pour les évènements
+spéciaux du Combat de Maître ne seront pas conservées
+lors de l'évènement suivant.
+[home/champion_battle_099] Vous ne pouvez pas obtenir les récompenses
+déjà reçues une seconde fois, même
+en réinitialisant votre progression.
+[home/champion_battle_101] Vous ne pouvez pas obtenir les récompenses
+de points totaux déjà reçues une seconde fois,
+même en réinitialisant votre progression.
+[home/champion_battle_102] Félicitations !
+Vous avez fait votre
+entrée au Panthéon !
+[home/champion_battle_105] Une fois remportés, vous ne pourrez
+plus faire de combats jusqu'à ce que
+vous réinitialisiez votre progression.
+[home/champion_battle_106] Un ou plusieurs Duos de votre équipe
+ont déjà remporté un autre combat.
+Veuillez modifier votre équipe.
 [home/battle_villa_001] Saut d'échelon
 [home/battle_villa_002] Vous avez battu le dernier échelon lors
 de la précédente session de la Villa de
@@ -49988,6 +50769,7 @@ Ti serve: [Name:Item ].
 [home/quest_list_172] Si sblocca completando [Digit:2digits ] capitol[IT:Qty S="o" P="i" ] qualsiasi
 di "I gruppi malvagi" in modalità normale.
 [home/quest_list_175] Bonus Punti Lotta
+[home/quest_list_176] Evento in corso!
 [home/quest_detail_003] Tipi consigliati
 [home/quest_detail_005] Info area
 [home/quest_detail_009] Scegli squadra
@@ -50743,6 +51525,34 @@ Ottieni tutti i pezzi per completare l'emblema!
 una volta sconfitto il Campione.
 [home/champion_battle_091] Pezzi
 [home/champion_battle_092] In corso
+[home/champion_battle_093] Evento speciale
+[home/champion_battle_094] Questa è una Lotta dei Campioni speciale, nella quale
+ti saranno utili Unità di un tipo specifico.
+[home/champion_battle_095] Normali
+[home/champion_battle_096] Una volta sconfitto il Campione o
+la Campionessa, potrai ripristinare
+i tuoi progressi e affrontare di nuovo
+la sfida.
+[home/champion_battle_097] Non è possibile ottenere nuovamente la ricompensa per
+una lotta già completata, né è possibile ottenere
+nuovamente le ricompense già ricevute per i punti totali.
+[home/champion_battle_098] I risultati della Sala d'Onore di Pasio per gli eventi speciali
+della Lotta dei Campioni non saranno mantenuti per gli eventi
+successivi.
+[home/champion_battle_099] Anche se effettui un ripristino, non potrai
+ricevere di nuovo le ricompense già ottenute
+per il completamento.
+[home/champion_battle_101] Anche se effettui un ripristino, non potrai ricevere di
+nuovo le ricompense già ottenute per i punti.
+[home/champion_battle_102] Congratulazioni!
+Hai fatto il tuo ingresso
+nella Sala d'Onore di Pasio!
+[home/champion_battle_105] Se completi una lotta, puoi affrontarla
+nuovamente soltanto effettuando
+un ripristino.
+[home/champion_battle_106] Non puoi partire perché hai inserito
+in squadra una o più Unità che hanno
+già vinto altre lotte.
 [home/battle_villa_001] Salta una sala
 [home/battle_villa_002] Visto che la volta scorsa hai completato
 l'ultima sala, puoi decidere di iniziare da una
@@ -51041,6 +51851,7 @@ Lv.[Digit:2digits ]で解放
 [home/quest_list_172] 悪の組織編のいずれかの編のNORMALを
 [Digit:2digits ]種　全クリアすることで解放
 [home/quest_list_175] バトルポイントアップ
+[home/quest_list_176] イベント開催中
 [home/quest_detail_003] おすすめのタイプ
 [home/quest_detail_005] エリア詳細
 [home/quest_detail_009] チーム選択
@@ -51681,9 +52492,9 @@ GRADE一覧に戻ります
 バトルに再挑戦しましょう
 
 よろしいでしょうか
-[home/champion_battle_055] ※いちどクリアしたバトルを再びクリアしても
+[home/champion_battle_055] ※一度クリアしたバトルを再びクリアしても
 その週はもうクリア報酬は再獲得できません
-いちど到達した累計ポイントを再び達成しても
+一度到達した累計ポイントを再び達成しても
 累計ポイント報酬は再獲得できません
 新たに到達した累計ポイントの報酬は獲得できます
 [home/champion_battle_056] エリートモードONで獲得できます
@@ -51784,6 +52595,33 @@ GRADE一覧に戻ります
 チャンピオンに勝利すると埋まります
 [home/champion_battle_091] ピース
 [home/champion_battle_092] 挑戦中
+[home/champion_battle_093] 特別イベント
+[home/champion_battle_094] 特定のタイプの　バディーズが　活躍する
+スペシャルな　チャンピオンバトルです
+[home/champion_battle_095] 通常
+[home/champion_battle_096] 一度チャンピオンを倒すと
+クリア状況をリセットして
+再挑戦が可能になります
+[home/champion_battle_097] ※一度クリアしたバトルを再びクリアしても
+クリア報酬は再獲得できません
+一度到達した累計ポイントを再び達成しても
+累計ポイント報酬は再獲得できません
+新たに到達した累計ポイントの報酬は獲得できます
+[home/champion_battle_098] 特別イベントのチャンピオンバトルでは
+パシオ殿堂入り履歴は次の開催には引き継がれません
+[home/champion_battle_099] リセットした場合は
+獲得済みのクリア報酬を再獲得できません
+[home/champion_battle_101] リセットした場合は
+獲得済みの累計ポイント報酬を
+再獲得できません
+[home/champion_battle_102] パシオ殿堂入り
+おめでとう！
+[home/champion_battle_105] 一度クリアしたバトルは
+リセットするまで
+再挑戦できません
+[home/champion_battle_106] 他のバトルで既に編成した
+バディーズが編成されているため
+出発できません
 [home/battle_villa_001] GRADEスキップ
 [home/battle_villa_002] 前回最終GRADEをクリアしたので
 指定のGRADEまでスキップできます
@@ -52081,6 +52919,7 @@ Lv.[Digit:2digits ]에서 해방
 [home/quest_list_172] 악의 조직 편에 있는 편을 NORMAL로
 [Digit:2digits ] 종류 모두 클리어하면 해방
 [home/quest_list_175] 배틀포인트 업
+[home/quest_list_176] 이벤트 개최 중
 [home/quest_detail_003] 추천타입
 [home/quest_detail_005] 에리어 상세
 [home/quest_detail_009] 팀 선택
@@ -52797,6 +53636,33 @@ WPM배지를 모두 모으면
 챔피언에게 승리하면 채워집니다
 [home/champion_battle_091] 피스
 [home/champion_battle_092] 도전 중
+[home/champion_battle_093] 특별 이벤트
+[home/champion_battle_094] 특정 타입의 버디즈가 활약하는
+특별한 챔피언배틀입니다
+[home/champion_battle_095] 일반
+[home/champion_battle_096] 챔피언을 한 번 쓰러뜨리면
+클리어 상황을 초기화하고
+재도전할 수 있습니다
+[home/champion_battle_097] ※1번 클리어한 배틀을 다시 클리어해도
+클리어 보상은 다시 획득할 수 없습니다
+1번 도달한 합계포인트를 다시 달성해도
+합계포인트 보상은 다시 획득할 수 없습니다
+새롭게 도달한 합계포인트의 보상은 획득할 수 있습니다
+[home/champion_battle_098] 특별 이벤트인 챔피언배틀에서는
+파시오 전당등록 이력이 다음 개최 시에 이어지지 않습니다
+[home/champion_battle_099] 초기화한 경우에는
+이미 획득한 클리어 보상을 다시 획득할 수 없습니다
+[home/champion_battle_101] 초기화한 경우에는
+이미 획득한 합계포인트 보상을
+다시 획득할 수 없습니다
+[home/champion_battle_102] 파시오 전당등록을
+축하합니다!
+[home/champion_battle_105] 1번 클리어한 배틀은
+초기화할 때까지
+재도전할 수 없습니다
+[home/champion_battle_106] 다른 배틀에서 이미 편성한
+버디즈가 편성되어 있기 때문에
+출발할 수 없습니다
 [home/battle_villa_001] GRADE 스킵
 [home/battle_villa_002] 지난 회 최종 GRADE를 클리어했으므로
 지정된 GRADE까지 스킵할 수 있습니다
@@ -53088,6 +53954,7 @@ home_zh-TW.lsd
 [home/quest_list_172] 成功過關邪惡組織篇中
 任[Digit:2digits ]篇的所有NORMAL後即可開放
 [home/quest_list_175] 對戰點數提升
+[home/quest_list_176] 活動現正舉辦中
 [home/quest_detail_003] 推薦屬性
 [home/quest_detail_005] 區域詳情
 [home/quest_detail_009] 選擇隊伍
@@ -53773,6 +54640,32 @@ EX每日鑽石組合包
 會在戰勝冠軍後填入勳章
 [home/champion_battle_091] 勳章結晶
 [home/champion_battle_092] 挑戰中
+[home/champion_battle_093] 特別活動
+[home/champion_battle_094] 這是能讓特定屬性的拍組
+大顯身手的特別冠軍對戰
+[home/champion_battle_095] 一般
+[home/champion_battle_096] 打倒冠軍後
+只要重設過關狀態
+即可再次挑戰對戰
+[home/champion_battle_097] ※即使再次完成已過關的對戰
+也無法重複獲得過關報酬
+即使再次達成已累積到的總計點數
+也無法重複獲得總計點數報酬
+但可獲得總計點數達成新紀錄的報酬
+[home/champion_battle_098] 在特別活動的冠軍對戰中
+登入帕希歐名人堂的紀錄不會延續到下次舉辦的活動
+[home/champion_battle_099] 若重設
+無法再次獲得
+已獲得的過關報酬
+[home/champion_battle_101] 若重設
+無法再次獲得
+已獲得的總計點數報酬
+[home/champion_battle_102] 恭喜您
+登入帕希歐名人堂！
+[home/champion_battle_105] 在進行重設之前
+無法挑戰已過關的對戰
+[home/champion_battle_106] 有拍組已被編制在其他對戰中
+因此無法出發
 [home/battle_villa_001] 跳過GRADE
 [home/battle_villa_002] 上期已成功過關最高GRADE
 因此可跳至指定的GRADE
@@ -54586,6 +55479,12 @@ Hinweis: Es besteht eine Chance von [Digit:3digits ] %, dass das im Fokus stehen
 [shop/scout_203] Meister-Gefährten
 [shop/scout_204] Sonder-Gefährten
 [shop/scout_205] Sonder-Gefährten sind Gefährten, die im Rahmen dieser Sonder-Gefährtensuche für begrenzte Zeit erscheinen. Es besteht die Möglichkeit, dass sie in Zukunft auch außerhalb dieser Sonder-Gefährtensuche erscheinen werden.
+[shop/scout_206] Von den aktuellen Gefährten im Fokus
+gibt es für folgende Gefährtengespanne
+keine Gefährtenepisode.
+[shop/scout_207] Von den aktuellen Gefährten im Fokus
+gibt es für folgende Gefährtengespanne
+keine EX-Farboutfits.
 [shop/deck_item_sale_001] Ausrüstungstausch
 [shop/deck_item_sale_002] Ausrüstung
 [shop/deck_item_sale_003] Filter
@@ -55251,6 +56150,12 @@ is 5★-guaranteed.
 [shop/scout_203] Master Sync Pair
 [shop/scout_204] Variety Sync Pairs
 [shop/scout_205] Variety sync pairs are sync pairs that will appear for a limited time during this variety scout. There is a possibility that they will appear outside of this variety scout in the future.
+[shop/scout_206] Out of the sync pairs that are
+currently featured, the following
+do not have a sync pair story.
+[shop/scout_207] Out of the sync pairs that are
+currently featured, the following
+do not have an EX style.
 [shop/deck_item_sale_001] Exchange Gear
 [shop/deck_item_sale_002] Gear
 [shop/deck_item_sale_003] Filter
@@ -55856,6 +56761,10 @@ sincro
 [shop/scout_203] Compis maestros
 [shop/scout_204] Compis varios
 [shop/scout_205] Los compis varios son parejas de compis que aparecen durante un tiempo limitado en este reclutamiento variado, aunque es posible que vuelvan a aparecer en un futuro fuera de un reclutamiento variado.
+[shop/scout_206] Los compis destacados siguientes
+no tienen episodios compi.
+[shop/scout_207] Los compis destacados siguientes
+no tienen Trajes EX.
 [shop/deck_item_sale_001] Canjear accesorios
 [shop/deck_item_sale_002] Accesorios
 [shop/deck_item_sale_003] Filtrar
@@ -56497,6 +57406,10 @@ Synchro
 [shop/scout_203] Master Duo
 [shop/scout_204] Duo commun
 [shop/scout_205] Les Duos communs sont des Duos qui apparaissent pendant la durée limitée de l'Appel Duo commun. À l'avenir, les Duos communs pourront aussi apparaître en dehors de cet Appel Duo commun.
+[shop/scout_206] Parmi les Duos actuellement à l'affiche,
+voici ceux qui n'ont pas d'épisode Duo.
+[shop/scout_207] Parmi les Duos actuellement à l'affiche,
+voici ceux qui n'ont pas de Couleur EX.
 [shop/deck_item_sale_001] Échanger équipement
 [shop/deck_item_sale_002] Équipement
 [shop/deck_item_sale_003] Filtrer
@@ -57202,6 +58115,10 @@ L'Unità in evidenza ha la seguente probabilità di comparire in questa ricerca 
 [shop/scout_204] Unità varietà
 [shop/scout_205] Le Unità varietà sono Unità che compariranno per un periodo limitato durante questa ricerca Unità varietà.
 È possibile che compaiano anche al di fuori di ricerche Unità varietà in futuro.
+[shop/scout_206] Le seguenti Unità tra quelle al momento
+in evidenza non hanno episodi Unità:
+[shop/scout_207] Le seguenti Unità tra quelle al momento
+in evidenza non hanno un Costume EX:
 [shop/deck_item_sale_001] Scambio accessori
 [shop/deck_item_sale_002] Accessori
 [shop/deck_item_sale_003] Filtra
@@ -57910,6 +58827,12 @@ STEP[Digit:2digits ]のみ★5確定となります
 [shop/scout_204] バラエティ限定バディーズ
 [shop/scout_205] ※バラエティ限定バディーズとはこのバラエティ限定バディーズサーチの期間中に出現するバディーズです。
 ※バラエティ限定バディーズは今後バラエティ限定バディーズサーチ以外でも出現する可能性があります。
+[shop/scout_206] ピックアップ中のバディーズのうち
+以下のバディーズには
+バディーズエピソードがありません
+[shop/scout_207] ピックアップ中のバディーズのうち
+以下のバディーズには
+EXカラーがありません
 [shop/deck_item_sale_001] 装備売却
 [shop/deck_item_sale_002] 装備
 [shop/deck_item_sale_003] フィルター
@@ -58643,6 +59566,12 @@ STEP[Digit:2digits ]만 ★5 확정입니다
 [shop/scout_204] 버라이어티 한정 버디즈
 [shop/scout_205] ※버라이어티 한정 버디즈는 본 버라이어티 한정 버디즈서치 기간 중에 출현하는 버디즈를 말합니다.
 ※버라이어티 한정 버디즈는 이후 버라이어티 한정 버디즈서치 이외에서도 출현할 가능성이 있습니다.
+[shop/scout_206] 픽업 중인 버디즈 중
+아래의 버디즈에게는
+버디즈 에피소드가 없습니다
+[shop/scout_207] 픽업 중인 버디즈 중
+아래의 버디즈에게는
+EX컬러가 없습니다
 [shop/deck_item_sale_001] 장비 판매
 [shop/deck_item_sale_002] 장비
 [shop/deck_item_sale_003] 필터
@@ -59293,6 +60222,10 @@ shop_zh-TW.lsd
 [shop/scout_204] 繁星限定拍組
 [shop/scout_205] ※繁星限定拍組是會在繁星限定拍組搜尋期間出現的拍組
 ※繁星限定拍組今後也有可能在非繁星限定拍組搜尋以外出現
+[shop/scout_206] 現正舉辦中的拍組搜尋裡
+以下的拍組沒有拍組劇情
+[shop/scout_207] 現正舉辦中的拍組搜尋裡
+以下的拍組沒有EX服裝
 [shop/deck_item_sale_001] 出售裝備
 [shop/deck_item_sale_002] 裝備
 [shop/deck_item_sale_003] 篩選
