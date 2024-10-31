@@ -1739,10 +1739,69 @@ verurteilen wir (mit Stolz)!
 [quest_title_1030420600101011] Vs. Knirps 2
 [quest_title_1030420600101012] Vs. Knirps 3
 [quest_title_1030420600101013] Vs. Pokéfan
+[quest_group_title_10090400000] Troy (Saison 2020)
+[quest_group_title_10002400000] Lyra (Saison 2020)
+[quest_group_title_10091010000] MaMo-Cynthia
+[quest_title_1030207001001000] Der Reisende durch Raum
+und Zeit
+[quest_title_1030207001001010] Um eine neue Welt zu
+schaffen
+[quest_title_1030207001001020] Die Begegnung
+[quest_title_1030207001001030] Chrys’ Mut
+[quest_title_1030207001001040] Das Band zwischen zwei
+Herzen
+[quest_title_1030207001001050] Das Streben nach einer
+vollkommenen Antwort
+[quest_title_1030207001010010] Konfrontation: Zyrus 1
+[quest_title_1030207001010020] Konfrontation: Zyrus 2
+[quest_title_1030207001010030] Konfrontation: Zyrus 3
+[quest_title_1030207001010040] Konfrontation: Zyrus 4
+[quest_title_1030207001010070] Konfrontation: Zyrus 5
+[quest_title_1030207001010050] Kollektivkampf! 1
+[quest_title_1030207001010060] Kollektivkampf! 2
+[quest_title_1030207000601010] An einem Sommertag...
+[quest_title_1030207000601020] Das Passio Live Konzert!
+[quest_title_1030207000601030] Festivals und Superstars
+[quest_title_1030207000601040] Aufweckschrei
+[quest_title_1030207000601050] Der Sommer ist noch lange
+nicht vorbei!
+[quest_title_1030207000602010] Wettkampf im Hochsommer 1
+[quest_title_1030207000602020] Wettkampf im Hochsommer 2
+[quest_title_1030207000602030] Wettkampf im Hochsommer 3
+[quest_title_1030207000602040] Wettkampf im Hochsommer 4
+[quest_title_1030207000602050] Kollektivkampf! 1
+[quest_title_1030207000602060] Kollektivkampf! 2
+[quest_group_title_610056] Levelaufstiegsgebiet
+[quest_group_title_610057] Limitbruchgebiet
+[quest_group_title_610059] Gefährtendropsgebiet
+[quest_group_title_610058] Entwicklungsgebiet
+[quest_title_1030420700301012] Angreifer-Intensivkurs 1
+[quest_title_1030420700302012] Taktiker-Intensivkurs 1
+[quest_title_1030420700303012] Helfer-Intensivkurs 1
+[quest_title_1030420700304013] Angreifer-Intensivkurs 2
+[quest_title_1030420700305013] Taktiker-Intensivkurs 2
+[quest_title_1030420700306013] Helfer-Intensivkurs 2
 [quest_title_1030420400101011] Vs. Trainer aus Passio
+[quest_title_1030420700101010] Vs. Trainer aus Passio 1
+[quest_title_1030420700101011] Vs. Trainer aus Passio 2
+[quest_title_1030420700101012] Vs. Trainer aus Passio 3
+[quest_title_1030420700101013] Vs. Trainer aus Passio 4
+[quest_title_1030207000701001] Vs. Latios 1
+[quest_title_1030207010701001] Vs. Latios 2
+[quest_title_1030207020701001] Vs. Latios 3
 [quest_title_1030206040701001] Ein tapferer Kämpfer
 [quest_title_1030206040702001] Im Labyrinth der Fäden
 [quest_title_1030205040702001] Ein hartnäckiger Felsen
+[quest_title_1030420700501010] Level↑-Intensivkurs
+[quest_title_1030420700502011] Level↑-Intensivkurs
+[quest_title_1030420700503012] Level↑-Intensivkurs
+[quest_title_1030420700201010] Drops-Intensivkurs
+[quest_title_1030420700202011] Drops-Intensivkurs
+[quest_title_1030420700204012] Drops-Intensivkurs
+[quest_title_1030420700401010] Entwickl.-Intensivkurs
+[quest_title_1030420700402011] Entwickl.-Intensivkurs
+[quest_group_title_10194000000] Zyrus
+[quest_title_1030210091010001] Ein Tag mit MaMo-Cynthia
 
 ===========
 story_quest_name_en.lsd
@@ -2779,10 +2838,66 @@ story_quest_name_en.lsd
 [quest_title_1030420600101011] Challenge the Youngster: Part 2
 [quest_title_1030420600101012] Challenge the Youngster: Part 3
 [quest_title_1030420600101013] Challenge the Poké Fan
+[quest_group_title_10090400000] Steven
+(Summer 2020)
+[quest_group_title_10002400000] Lyra
+(Summer 2020)
+[quest_group_title_10091010000] Sygna Suit Cynthia
+[quest_title_1030207001001000] The Man from Another Dimension
+[quest_title_1030207001001010] Creating a New World
+[quest_title_1030207001001020] Kindred Spirits
+[quest_title_1030207001001030] Sophocles the Brave
+[quest_title_1030207001001040] Bonds of Spirit
+[quest_title_1030207001001050] A Perfect, Complete Answer
+[quest_title_1030207001010010] Take Down Cyrus! Round 1
+[quest_title_1030207001010020] Take Down Cyrus! Round 2
+[quest_title_1030207001010030] Take Down Cyrus! Round 3
+[quest_title_1030207001010040] Take Down Cyrus! Round 4
+[quest_title_1030207001010070] Take Down Cyrus! Round 5
+[quest_title_1030207001010050] Full-Force Battle! Round 1
+[quest_title_1030207001010060] Full-Force Battle! Round 2
+[quest_title_1030207000601010] One Summer’s Day
+[quest_title_1030207000601020] The Sync Pair Music Festival!
+[quest_title_1030207000601030] Festival Fans and Superstars
+[quest_title_1030207000601040] Jigglypunk!
+[quest_title_1030207000601050] Endless Summer!
+[quest_title_1030207000602010] Summer Takedown! Round 1
+[quest_title_1030207000602020] Summer Takedown! Round 2
+[quest_title_1030207000602030] Summer Takedown! Round 3
+[quest_title_1030207000602040] Summer Takedown! Round 4
+[quest_title_1030207000602050] Full-Force Battle! Round 1
+[quest_title_1030207000602060] Full-Force Battle! Round 2
+[quest_group_title_610056] Level-Up Area
+[quest_group_title_610057] Cap-Unlock Area
+[quest_group_title_610059] Sync Orb Area
+[quest_group_title_610058] Evolution Material Area
+[quest_title_1030420700301012] Strike Drill 1
+[quest_title_1030420700302012] Tech Drill 1
+[quest_title_1030420700303012] Support Drill 1
+[quest_title_1030420700304013] Strike Drill 2
+[quest_title_1030420700305013] Tech Drill 2
+[quest_title_1030420700306013] Support Drill 2
 [quest_title_1030420400101011] Challenge Pasio’s Trainers
+[quest_title_1030420700101010] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030420700101011] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030420700101012] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030420700101013] Challenge Pasio’s Trainers: Part 4
+[quest_title_1030207000701001] Latios’s Challenge: Part 1
+[quest_title_1030207010701001] Latios’s Challenge: Part 2
+[quest_title_1030207020701001] Latios’s Challenge: Part 3
 [quest_title_1030206040701001] A Mighty Warrior
 [quest_title_1030206040702001] A Labyrinthine Weave of Silk
 [quest_title_1030205040702001] A Daunting Cliff Face
+[quest_title_1030420700501010] Level-Up Drill
+[quest_title_1030420700502011] Level-Up Drill
+[quest_title_1030420700503012] Level-Up Drill
+[quest_title_1030420700201010] Sync Orb Drill
+[quest_title_1030420700202011] Sync Orb Drill
+[quest_title_1030420700204012] Sync Orb Drill
+[quest_title_1030420700401010] Evolution Drill
+[quest_title_1030420700402011] Evolution Drill
+[quest_group_title_10194000000] Cyrus
+[quest_title_1030210091010001] A Day with Sygna Suit Cynthia
 
 ===========
 story_quest_name_es.lsd
@@ -3822,10 +3937,67 @@ de moda
 [quest_title_1030420600101011] VS. Joven (2)
 [quest_title_1030420600101012] VS. Joven (3)
 [quest_title_1030420600101013] VS. Pokéfan
+[quest_group_title_10090400000] Máximo
+(Temporada 20)
+[quest_group_title_10002400000] Lira
+(Temporada 20)
+[quest_group_title_10091010000] Cintia (Traje S)
+[quest_title_1030207001001000] ¡Teletransporte sorpresa!
+[quest_title_1030207001001010] La creación de un nuevo mundo
+[quest_title_1030207001001020] Encuentro
+[quest_title_1030207001001030] El valor de Chris
+[quest_title_1030207001001040] El vínculo que une dos
+corazones
+[quest_title_1030207001001050] En busca de la perfección
+[quest_title_1030207001010010] ¡Vence a Helio!
+[quest_title_1030207001010020] ¡Vence a Helio! (2)
+[quest_title_1030207001010030] ¡Vence a Helio! (3)
+[quest_title_1030207001010040] ¡Vence a Helio! (4)
+[quest_title_1030207001010070] ¡Vence a Helio! (5)
+[quest_title_1030207001010050] ¡Un combate colectivo!
+[quest_title_1030207001010060] ¡Un combate colectivo! (2)
+[quest_title_1030207000601010] Un día de verano...
+[quest_title_1030207000601020] Festival de Música de Passio
+[quest_title_1030207000601030] Estrellas y amantes del festival
+[quest_title_1030207000601040] ¡A despertarse!
+[quest_title_1030207000601050] ¡El verano aún no se ha acabado!
+[quest_title_1030207000602010] Combate veraniego
+[quest_title_1030207000602020] Combate veraniego (2)
+[quest_title_1030207000602030] Combate veraniego (3)
+[quest_title_1030207000602040] Combate veraniego (4)
+[quest_title_1030207000602050] ¡Un combate colectivo!
+[quest_title_1030207000602060] ¡Un combate colectivo! (2)
+[quest_group_title_610056] Área de aumento de nivel
+[quest_group_title_610057] Área de nivel máximo
+[quest_group_title_610059] Área de Orbes Compi
+[quest_group_title_610058] Área de Gemas Evolutivas
+[quest_title_1030420700301012] Entrenamiento de Ataque 1
+[quest_title_1030420700302012] Entrenamiento de Sabotaje 1
+[quest_title_1030420700303012] Entrenamiento de Apoyo 1
+[quest_title_1030420700304013] Entrenamiento de Ataque 2
+[quest_title_1030420700305013] Entrenamiento de Sabotaje 2
+[quest_title_1030420700306013] Entrenamiento de Apoyo 2
 [quest_title_1030420400101011] VS. Entrenadores de Passio
+[quest_title_1030420700101010] VS. Entrenadores de Passio
+[quest_title_1030420700101011] VS. Entrenadores de Passio (2)
+[quest_title_1030420700101012] VS. Entrenadores de Passio (3)
+[quest_title_1030420700101013] VS. Entrenadores de Passio (4)
+[quest_title_1030207000701001] VS. Latios
+[quest_title_1030207010701001] VS. Latios (2)
+[quest_title_1030207020701001] VS. Latios (3)
 [quest_title_1030206040701001] El imponente soldado
 [quest_title_1030206040702001] El hilo que guía fuera del laberinto
 [quest_title_1030205040702001] La enorme roca inquebrantable
+[quest_title_1030420700501010] Rutina de subida de Nv.
+[quest_title_1030420700502011] Rutina de subida de Nv.
+[quest_title_1030420700503012] Rutina de subida de Nv.
+[quest_title_1030420700201010] Orbentrenamiento
+[quest_title_1030420700202011] Orbentrenamiento
+[quest_title_1030420700204012] Orbentrenamiento
+[quest_title_1030420700401010] Entrenamiento evolutivo
+[quest_title_1030420700402011] Entrenamiento evolutivo
+[quest_group_title_10194000000] Helio
+[quest_title_1030210091010001] Un día con Cintia (Traje S)
 
 ===========
 story_quest_name_fr.lsd
@@ -4904,10 +5076,77 @@ leur fierté
 [quest_title_1030420600101011] Combat : Gamin II
 [quest_title_1030420600101012] Combat : Gamin III
 [quest_title_1030420600101013] Combat : Pokéfan
+[quest_group_title_10090400000] Rochard
+(Saison 2020)
+[quest_group_title_10002400000] Célesta
+(Saison 2020)
+[quest_group_title_10091010000] Cynthia (Look Ultime)
+[quest_title_1030207001001000] Une invitation à traverser
+l'espace-temps
+[quest_title_1030207001001010] Pour construire un monde
+nouveau
+[quest_title_1030207001001020] La rencontre
+[quest_title_1030207001001030] Le courage de Chrys
+[quest_title_1030207001001040] Les émotions et les liens qui
+en découlent
+[quest_title_1030207001001050] Pour une réponse parfaite
+[quest_title_1030207001010010] Contre Hélio
+[quest_title_1030207001010020] Contre Hélio II
+[quest_title_1030207001010030] Contre Hélio III
+[quest_title_1030207001010040] Contre Hélio IV
+[quest_title_1030207001010070] Contre Hélio V
+[quest_title_1030207001010050] Combat Collectif :
+l'affrontement !
+[quest_title_1030207001010060] Combat Collectif :
+l'affrontement ! II
+[quest_title_1030207000601010] Une journée d'été
+[quest_title_1030207000601020] Duo Live à Passio
+[quest_title_1030207000601030] Les festivaliers et les stars
+[quest_title_1030207000601040] Réveil en fanfare
+[quest_title_1030207000601050] L'été n'est pas encore fini !
+[quest_title_1030207000602010] Combat d'été
+[quest_title_1030207000602020] Combat d'été II
+[quest_title_1030207000602030] Combat d'été III
+[quest_title_1030207000602040] Combat d'été IV
+[quest_title_1030207000602050] Combat Collectif :
+l'affrontement !
+[quest_title_1030207000602060] Combat Collectif :
+l'affrontement ! II
+[quest_group_title_610056] Zone niveau ↑
+[quest_group_title_610057] Zone repousse-limite
+[quest_group_title_610059] Zone Duo-Sphères
+[quest_group_title_610058] Zone Minerai d'Évolution
+[quest_title_1030420700301012] Exercice Attaquant I
+[quest_title_1030420700302012] Exercice Tacticien I
+[quest_title_1030420700303012] Exercice Soutien I
+[quest_title_1030420700304013] Exercice Attaquant II
+[quest_title_1030420700305013] Exercice Tacticien II
+[quest_title_1030420700306013] Exercice Soutien II
 [quest_title_1030420400101011] Combat : Dresseurs de Passio
+[quest_title_1030420700101010] Combat : Dresseurs de Passio
+[quest_title_1030420700101011] Combat : Dresseurs de
+Passio II
+[quest_title_1030420700101012] Combat : Dresseurs de
+Passio III
+[quest_title_1030420700101013] Combat : Dresseurs de
+Passio IV
+[quest_title_1030207000701001] Combat : Latios
+[quest_title_1030207010701001] Combat : Latios II
+[quest_title_1030207020701001] Combat : Latios III
 [quest_title_1030206040701001] Le général valeureux et fort
 [quest_title_1030206040702001] Le dédale et le fil
 [quest_title_1030205040702001] Robustesse du grand roc
+[quest_title_1030420700501010] Exercice niveau ↑
+[quest_title_1030420700502011] Exercice niveau ↑
+[quest_title_1030420700503012] Exercice niveau ↑
+[quest_title_1030420700201010] Exercice Duo-Sphères
+[quest_title_1030420700202011] Exercice Duo-Sphères
+[quest_title_1030420700204012] Exercice Duo-Sphères
+[quest_title_1030420700401010] Exercice évolution
+[quest_title_1030420700402011] Exercice évolution
+[quest_group_title_10194000000] Hélio
+[quest_title_1030210091010001] Une journée avec Cynthia
+(Look Ultime)
 
 ===========
 story_quest_name_it.lsd
@@ -5942,10 +6181,64 @@ story_quest_name_it.lsd
 [quest_title_1030420600101011] VS Marmocchio 2
 [quest_title_1030420600101012] VS Marmocchio 3
 [quest_title_1030420600101013] VS Pokéfan
+[quest_group_title_10090400000] Rocco (feste 2020)
+[quest_group_title_10002400000] Cetra (feste 2020)
+[quest_group_title_10091010000] Camilla Costumax
+[quest_title_1030207001001000] L'uomo che attraversò lo spazio
+[quest_title_1030207001001010] Creare un nuovo mondo
+[quest_title_1030207001001020] L'incontro
+[quest_title_1030207001001030] Il coraggio di Chrys
+[quest_title_1030207001001040] I legami nati grazie allo spirito
+[quest_title_1030207001001050] La ricerca di una risposta completa
+[quest_title_1030207001010010] Sconfiggi Cyrus! 1
+[quest_title_1030207001010020] Sconfiggi Cyrus! 2
+[quest_title_1030207001010030] Sconfiggi Cyrus! 3
+[quest_title_1030207001010040] Sconfiggi Cyrus! 4
+[quest_title_1030207001010070] Sconfiggi Cyrus! 5
+[quest_title_1030207001010050] Una Lotta Collettiva!
+[quest_title_1030207001010060] Una Lotta Collettiva! 2
+[quest_title_1030207000601010] Un giorno d'estate...
+[quest_title_1030207000601020] Il Festival musicale delle Unità
+[quest_title_1030207000601030] Appassionati di festival e celebrità
+[quest_title_1030207000601040] Il risveglio di una voce potente
+[quest_title_1030207000601050] L'estate non finisce certo qui!
+[quest_title_1030207000602010] Sfida estiva! 1
+[quest_title_1030207000602020] Sfida estiva! 2
+[quest_title_1030207000602030] Sfida estiva! 3
+[quest_title_1030207000602040] Sfida estiva! 4
+[quest_title_1030207000602050] Una Lotta Collettiva!
+[quest_title_1030207000602060] Una Lotta Collettiva! 2
+[quest_group_title_610056] Aree aumento di livello
+[quest_group_title_610057] Aree sblocco livello max
+[quest_group_title_610059] Aree Uniciondoli
+[quest_group_title_610058] Aree minerali evolutivi
+[quest_title_1030420700301012] Allenamento Attaccanti 1
+[quest_title_1030420700302012] Allenamento Tecnici 1
+[quest_title_1030420700303012] Allenamento Aiutanti 1
+[quest_title_1030420700304013] Allenamento Attaccanti 2
+[quest_title_1030420700305013] Allenamento Tecnici 2
+[quest_title_1030420700306013] Allenamento Aiutanti 2
 [quest_title_1030420400101011] VS Allenatori di Pasio
+[quest_title_1030420700101010] VS Allenatori di Pasio
+[quest_title_1030420700101011] VS Allenatori di Pasio 2
+[quest_title_1030420700101012] VS Allenatori di Pasio 3
+[quest_title_1030420700101013] VS Allenatori di Pasio 4
+[quest_title_1030207000701001] VS Latios
+[quest_title_1030207010701001] VS Latios 2
+[quest_title_1030207020701001] VS Latios 3
 [quest_title_1030206040701001] Un condottiero forte e valoroso
 [quest_title_1030206040702001] Un labirinto di fili
 [quest_title_1030205040702001] Un muro di roccia incrollabile
+[quest_title_1030420700501010] Allenamento aumento livello
+[quest_title_1030420700502011] Allenamento aumento livello
+[quest_title_1030420700503012] Allenamento aumento livello
+[quest_title_1030420700201010] Allenamento Uniciondoli
+[quest_title_1030420700202011] Allenamento Uniciondoli
+[quest_title_1030420700204012] Allenamento Uniciondoli
+[quest_title_1030420700401010] Allenamento evoluzione
+[quest_title_1030420700402011] Allenamento evoluzione
+[quest_group_title_10194000000] Cyrus
+[quest_title_1030210091010001] Un giorno con Camilla Costumax
 
 ===========
 story_quest_name_ja.lsd
@@ -6638,7 +6931,7 @@ story_quest_name_ja.lsd
 [quest_title_1030112020704002] 暴れ狂う乱流を倒せ！
 [quest_title_1030112020705001] そびえる硬岩のゆくえ
 [quest_title_1030112030705001] 不動なる岩塊のゆくえ
-[quest_title_1030112020705002] ヘヴィな猛炎を倒せ！                                                
+[quest_title_1030112020705002] ヘヴィな猛炎を倒せ！
 [quest_title_1030112020706001] 凝視する鋭き目のゆくえ
 [quest_title_1030112030706001] 鋭利な巨大クチバシのゆくえ
 [quest_title_1030112020706002] 鉄骨をも斬る牙竜を倒せ！
@@ -6983,10 +7276,66 @@ story_quest_name_ja.lsd
 [quest_title_1030420600101011] ＶＳ　たんぱんこぞう２
 [quest_title_1030420600101012] ＶＳ　たんぱんこぞう３
 [quest_title_1030420600101013] ＶＳ　だいすきクラブ
+[quest_group_title_10090400000] ダイゴ
+（２０シーズン）
+[quest_group_title_10002400000] コトネ
+（２０シーズン）
+[quest_group_title_10091010000] マジコスシロナ
+[quest_title_1030207001001000] 空間をこえて招かれた男
+[quest_title_1030207001001010] 新たな世界を創るために
+[quest_title_1030207001001020] 出会い
+[quest_title_1030207001001030] マーマネの勇気
+[quest_title_1030207001001040] 心と心から生まれるきずな
+[quest_title_1030207001001050] 完全な答えを求めて
+[quest_title_1030207001010010] 対決！　アカギ
+[quest_title_1030207001010020] 対決！　アカギ２
+[quest_title_1030207001010030] 対決！　アカギ３
+[quest_title_1030207001010040] 対決！　アカギ４
+[quest_title_1030207001010070] 対決！　アカギ５
+[quest_title_1030207001010050] ソウリョクバトルで勝負！
+[quest_title_1030207001010060] ソウリョクバトルで勝負！２
+[quest_title_1030207000601010] とある　夏の日……
+[quest_title_1030207000601020] バディーズミュージックライブ！
+[quest_title_1030207000601030] お祭り好きと　スターたち
+[quest_title_1030207000601040] 目覚めろ　シャウト！
+[quest_title_1030207000601050] まだまだ　夏は　終わらない！
+[quest_title_1030207000602010] 真夏の対決！
+[quest_title_1030207000602020] 真夏の対決！２
+[quest_title_1030207000602030] 真夏の対決！３
+[quest_title_1030207000602040] 真夏の対決！４
+[quest_title_1030207000602050] ソウリョクバトルで勝負！
+[quest_title_1030207000602060] ソウリョクバトルで勝負！２
+[quest_group_title_610056] レベルアップエリア
+[quest_group_title_610057] ゲンカイ突破エリア
+[quest_group_title_610059] バディドロップエリア
+[quest_group_title_610058] 進化石エリア
+[quest_title_1030420700301012] アタッカーの鍛錬１
+[quest_title_1030420700302012] テクニカルの鍛錬１
+[quest_title_1030420700303012] サポートの鍛錬１
+[quest_title_1030420700304013] アタッカーの鍛錬２
+[quest_title_1030420700305013] テクニカルの鍛錬２
+[quest_title_1030420700306013] サポートの鍛錬２
 [quest_title_1030420400101011] ＶＳ　パシオのトレーナー
+[quest_title_1030420700101010] ＶＳ　パシオのトレーナー
+[quest_title_1030420700101011] ＶＳ　パシオのトレーナー２
+[quest_title_1030420700101012] ＶＳ　パシオのトレーナー３
+[quest_title_1030420700101013] ＶＳ　パシオのトレーナー４
+[quest_title_1030207000701001] ＶＳ　ラティオス
+[quest_title_1030207010701001] ＶＳ　ラティオス２
+[quest_title_1030207020701001] ＶＳ　ラティオス３
 [quest_title_1030206040701001] 屈強なる勇将のゆくえ
 [quest_title_1030206040702001] 糸の導きし迷路のゆくえ
 [quest_title_1030205040702001] 頑強なる巨岩のゆくえ
+[quest_title_1030420700501010] レベルアップの鍛錬
+[quest_title_1030420700502011] レベルアップの鍛錬
+[quest_title_1030420700503012] レベルアップの鍛錬
+[quest_title_1030420700201010] バディドロップの鍛錬
+[quest_title_1030420700202011] バディドロップの鍛錬
+[quest_title_1030420700204012] バディドロップの鍛錬
+[quest_title_1030420700401010] 進化の鍛錬
+[quest_title_1030420700402011] 進化の鍛錬
+[quest_group_title_10194000000] アカギ
+[quest_title_1030210091010001] とある日のマジコスシロナ
 
 ===========
 story_quest_name_ko.lsd
@@ -8023,10 +8372,66 @@ story_quest_name_ko.lsd
 [quest_title_1030420600101011] VS 반바지 꼬마2
 [quest_title_1030420600101012] VS 반바지 꼬마3
 [quest_title_1030420600101013] VS 애호가클럽
+[quest_group_title_10090400000] 성호
+(20시즌)
+[quest_group_title_10002400000] 금선
+(20시즌)
+[quest_group_title_10091010000] 궁극코스 난천
+[quest_title_1030207001001000] 공간을 초월해 초대된 남자
+[quest_title_1030207001001010] 새로운 세상을 만들기 위해
+[quest_title_1030207001001020] 만남
+[quest_title_1030207001001030] 마마네의 용기
+[quest_title_1030207001001040] 마음과 마음 사이에서 피어나는 유대
+[quest_title_1030207001001050] 완전한 답을 추구하며
+[quest_title_1030207001010010] 대결! 태홍
+[quest_title_1030207001010020] 대결! 태홍2
+[quest_title_1030207001010030] 대결! 태홍3
+[quest_title_1030207001010040] 대결! 태홍4
+[quest_title_1030207001010070] 대결! 태홍5
+[quest_title_1030207001010050] 총력배틀로 승부!
+[quest_title_1030207001010060] 총력배틀로 승부!2
+[quest_title_1030207000601010] 어느 여름날...
+[quest_title_1030207000601020] 버디즈 뮤직 라이브!
+[quest_title_1030207000601030] 축제를 좋아하는 사람들과 스타들
+[quest_title_1030207000601040] 눈을 떠라 샤우트!
+[quest_title_1030207000601050] 아직 여름은 끝나지 않았어!
+[quest_title_1030207000602010] 한여름의 대결!
+[quest_title_1030207000602020] 한여름의 대결!2
+[quest_title_1030207000602030] 한여름의 대결!3
+[quest_title_1030207000602040] 한여름의 대결!4
+[quest_title_1030207000602050] 총력배틀로 승부!
+[quest_title_1030207000602060] 총력배틀로 승부!2
+[quest_group_title_610056] 레벨업 에리어
+[quest_group_title_610057] 한계돌파 에리어
+[quest_group_title_610059] 버디드롭 에리어
+[quest_group_title_610058] 진화석 에리어
+[quest_title_1030420700301012] 어태커의 단련1
+[quest_title_1030420700302012] 테크니컬의 단련1
+[quest_title_1030420700303012] 서포트의 단련1
+[quest_title_1030420700304013] 어태커의 단련2
+[quest_title_1030420700305013] 테크니컬의 단련2
+[quest_title_1030420700306013] 서포트의 단련2
 [quest_title_1030420400101011] VS 파시오의 트레이너
+[quest_title_1030420700101010] VS 파시오의 트레이너
+[quest_title_1030420700101011] VS 파시오의 트레이너2
+[quest_title_1030420700101012] VS 파시오의 트레이너3
+[quest_title_1030420700101013] VS 파시오의 트레이너4
+[quest_title_1030207000701001] VS 라티오스
+[quest_title_1030207010701001] VS 라티오스2
+[quest_title_1030207020701001] VS 라티오스3
 [quest_title_1030206040701001] 강인하고 용맹한 장군의 행방
 [quest_title_1030206040702001] 한 가닥 실이 이끄는 미로의 행방
 [quest_title_1030205040702001] 완강한 거대 암석의 행방
+[quest_title_1030420700501010] 레벨업의 단련
+[quest_title_1030420700502011] 레벨업의 단련
+[quest_title_1030420700503012] 레벨업의 단련
+[quest_title_1030420700201010] 버디드롭의 단련
+[quest_title_1030420700202011] 버디드롭의 단련
+[quest_title_1030420700204012] 버디드롭의 단련
+[quest_title_1030420700401010] 진화의 단련
+[quest_title_1030420700402011] 진화의 단련
+[quest_group_title_10194000000] 태홍
+[quest_title_1030210091010001] 궁극코스 난천의 어느 날
 
 ===========
 story_quest_name_zh-TW.lsd
@@ -9063,10 +9468,66 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030420600101011] ＶＳ　短褲小子２
 [quest_title_1030420600101012] ＶＳ　短褲小子３
 [quest_title_1030420600101013] ＶＳ　發燒友俱樂部
+[quest_group_title_10090400000] 大吾
+（２０２０夏季）
+[quest_group_title_10002400000] 琴音
+（２０２０夏季）
+[quest_group_title_10091010000] 美極套裝竹蘭
+[quest_title_1030207001001000] 穿越空間受邀而來的男人
+[quest_title_1030207001001010] 為了創造新世界
+[quest_title_1030207001001020] 相遇
+[quest_title_1030207001001030] 馬瑪內的勇氣
+[quest_title_1030207001001040] 心與心之間誕生出的牽絆
+[quest_title_1030207001001050] 追求完美的答案
+[quest_title_1030207001010010] 一決勝負！　赤日
+[quest_title_1030207001010020] 一決勝負！　赤日２
+[quest_title_1030207001010030] 一決勝負！　赤日３
+[quest_title_1030207001010040] 一決勝負！　赤日４
+[quest_title_1030207001010070] 一決勝負！　赤日５
+[quest_title_1030207001010050] 用大對戰決勝負！
+[quest_title_1030207001010060] 用大對戰決勝負！２
+[quest_title_1030207000601010] 某個夏日……
+[quest_title_1030207000601020] 拍組音樂現場大賽！
+[quest_title_1030207000601030] 祭典愛好者與明星們
+[quest_title_1030207000601040] 用大吼讓大家醒來！
+[quest_title_1030207000601050] 夏天還沒結束！
+[quest_title_1030207000602010] 盛夏的對決！
+[quest_title_1030207000602020] 盛夏的對決！２
+[quest_title_1030207000602030] 盛夏的對決！３
+[quest_title_1030207000602040] 盛夏的對決！４
+[quest_title_1030207000602050] 用大對戰決勝負！
+[quest_title_1030207000602060] 用大對戰決勝負！２
+[quest_group_title_610056] 升級區域
+[quest_group_title_610057] 突破界限區域
+[quest_group_title_610059] 拍檔滴晶區域
+[quest_group_title_610058] 進化石區域
+[quest_title_1030420700301012] 攻擊型鍛鍊１
+[quest_title_1030420700302012] 技術型鍛鍊１
+[quest_title_1030420700303012] 輔助型鍛鍊１
+[quest_title_1030420700304013] 攻擊型鍛鍊２
+[quest_title_1030420700305013] 技術型鍛鍊２
+[quest_title_1030420700306013] 輔助型鍛鍊２
 [quest_title_1030420400101011] ＶＳ　帕希歐的訓練家
+[quest_title_1030420700101010] ＶＳ　帕希歐的訓練家
+[quest_title_1030420700101011] ＶＳ　帕希歐的訓練家２
+[quest_title_1030420700101012] ＶＳ　帕希歐的訓練家３
+[quest_title_1030420700101013] ＶＳ　帕希歐的訓練家４
+[quest_title_1030207000701001] ＶＳ　拉帝歐斯
+[quest_title_1030207010701001] ＶＳ　拉帝歐斯２
+[quest_title_1030207020701001] ＶＳ　拉帝歐斯３
 [quest_title_1030206040701001] 強壯勇將的去向
 [quest_title_1030206040702001] 指引之絲的迷宮去向
 [quest_title_1030205040702001] 頑強巨岩的去向
+[quest_title_1030420700501010] 升級鍛鍊
+[quest_title_1030420700502011] 升級鍛鍊
+[quest_title_1030420700503012] 升級鍛鍊
+[quest_title_1030420700201010] 拍檔滴晶鍛鍊
+[quest_title_1030420700202011] 拍檔滴晶鍛鍊
+[quest_title_1030420700204012] 拍檔滴晶鍛鍊
+[quest_title_1030420700401010] 進化鍛鍊
+[quest_title_1030420700402011] 進化鍛鍊
+[quest_group_title_10194000000] 赤日
+[quest_title_1030210091010001] 某日的美極套裝竹蘭
 
 ===========
 trainer_description_de.lsd
@@ -9389,6 +9850,22 @@ besiegt hat, vergisst sie ihr Leben lang nicht.
 [10240000000] Liebe und Wahrheit verurteilt sie. Als Mitglied von Team
 Rocket hat sie ihrem Boss Giovanni die Treue geschworen
 und begeht zusammen mit James und Mauzi böse Taten.
+[10194000000] Der Anführer der bösen Organisation Team Galaktik. Er
+behauptet, die Herzen der Menschen seien unvollkommen
+und will daher eine neue Welt erschaffen. Er ist ruhig,
+denkt immer logisch und genießt das vollste Vertrauen
+seiner Untergebenen.
+[10091010000] Die Machtmontur, die Cynthia trägt, verbirgt ihren hitzigen
+Kampfgeist. Gemeinsam mit Grandiras absolviert sie
+strenge Trainingseinheiten und schwört, die Kunst des
+Pokémon-Kampfes zu perfektionieren.
+[10090400000] In seinem Sommer-Outfit wirkt Troy ein wenig heiterer
+als sonst. Er kühlt sich ab, indem er mit seinem Pokémon
+Alola-Sandamer in Höhlen nach Steinen sucht.
+[10002400000] Lyra trägt ein neues Outfit, um die Sommerhitze zu
+überstehen. Sie blickt dem Festival voller Vorfreude
+entgegen und singt und tanzt gemeinsam mit ihrem
+Pokémon Pummeluff.
 
 ===========
 trainer_description_en.lsd
@@ -9711,6 +10188,18 @@ never forgets the face of anyone who defeats her.
 [10240000000] This member of Team Rocket denounces the evils of truth
 and love, and swears her loyalty to the boss, Giovanni.
 James and Meowth are her eternal partners in crime.
+[10194000000] The leader of the evil Team Galactic. Believing the human
+spirit to be incomplete, he’s trying to create a new world.
+Calm and logical, he’s highly trusted by his subordinates.
+[10091010000] Cynthia’s sygna suit conceals a passionate fighting spirit.
+She has vowed to fight her way to the top in Pokémon
+battles with her partner, Kommo-o.
+[10090400000] Steven’s looking a little festive in his cool summer attire!
+He and his Alolan Sandslash partner escape the heat by
+entering caves in search of rare stones.
+[10002400000] Lyra has a new outfit to beat the summer heat! Caught up
+in the fun atmosphere of a summer festival, she can’t help
+but dance and sing with her partner, Jigglypuff.
 
 ===========
 trainer_description_es.lsd
@@ -10075,6 +10564,23 @@ y pasión. Jamás olvida a quien le arrebata la victoria.
 denunciar a los enemigos de la verdad y el amor.
 Es leal a Giovanni, jefe de la banda, y sus infatigables
 compañeros de fechorías son James y Meowth.
+[10194000000] Jefe del malvado Equipo Galaxia. Considera imperfectos
+los sentimientos de las personas y se ha propuesto crear
+un nuevo mundo. De carácter calmado, siempre aplica la
+lógica a cualquier situación; cuenta con la plena confianza
+de sus subordinados.
+[10091010000] Cintia descubre un poder latente en su interior al ponerse
+el Traje Summum. Ha prometido llegar a lo más alto de
+los combates Pokémon junto a Kommo-o, con quien
+entrena a destajo y de forma rigurosa.
+[10090400000] Máximo lleva ahora un atuendo más fresco y parece que
+se le ve más distendido. Ha decidido resguardarse del
+calor veraniego mientras busca piedras en cuevas y grutas
+junto a un Sandslash de Alola.
+[10002400000] Para sobrellevar el calor del verano, Lira ha decidido
+ponerse ropa más fresca. El festival de música ha sacado
+su yo más alegre y festivo, el cual comparte con su compi
+Jigglypuff cantando y bailando.
 
 ===========
 trainer_description_fr.lsd
@@ -10381,6 +10887,20 @@ contre qui elle a perdu.
 l'amour et la vérité. En équipe avec ses acolytes, James
 et Miaouss, elle répand le mal sur terre après avoir juré
 allégeance à leur boss Giovanni.
+[10194000000] Hélio, le boss de la Team Galaxie, veut créer un nouveau
+monde car l'esprit humain est imparfait. Ses subordonnés
+font confiance à sa nature froide et logique.
+[10091010000] Cynthia a revêtu son Look Ultime, symbole de sa grande
+combativité ! Elle s'est jurée d'atteindre les sommets avec
+son Ékaïser avec qui elle s'est entraînée dur !
+[10090400000] Pierre Rochard déborde d'enthousiasme avec cette tenue
+décontractée. Accompagné de son Sablaireau d'Alola,
+il cherche des pierres dans les grottes et calme les
+ardeurs de ses adversaires.
+[10002400000] Pour affronter les grandes chaleurs de l'été, Célesta
+s'est procurée une toute nouvelle tenue. Charmés par
+l'ambiance joyeuse des festivals, elle et Rondoudou
+dansent et chantent à tue-tête.
 
 ===========
 trainer_description_it.lsd
@@ -10709,6 +11229,22 @@ Non dimentica mai gli avversari che la sconfiggono.
 della verità e dell'amore. Ha giurato fedeltà a Giovanni,
 il capo dell'organizzazione, e compie malefatte insieme
 a James e a Meowth.
+[10194000000] Capo del Team Galassia, un'organizzazione malvagia,
+crede che lo spirito delle persone sia incompleto e cerca
+di creare un nuovo mondo. Calmo e razionale
+di carattere, gode di grande fiducia da parte
+dei suoi sottoposti.
+[10091010000] Camilla indossa un Costumax che le dona un ardente
+spirito combattivo. Dopo essersi allenata duramente
+insieme a Kommo-o, giura di raggiungere l'apice
+del successo nelle lotte di Pokémon.
+[10090400000] Rocco, dall'aspetto più allegro grazie al suo nuovo vestito
+estivo, si rinfresca andando alla ricerca di pietre
+nelle caverne insieme al suo Sandslash di Alola.
+[10002400000] Con indosso un nuovo vestito, perfetto per affrontare
+il caldo dell'estate, Cetra viene attratta dall'atmosfera
+gioiosa del festival e si diletta a cantare e a ballare
+insieme al suo Jigglypuff.
 
 ===========
 trainer_description_ja.lsd
@@ -11031,6 +11567,18 @@ trainer_description_ja.lsd
 [10240000000] 愛と　真実の　悪を　貫く　ロケット団員。
 ボスである　サカキに　忠誠を　誓い
 コジロウ　ニャースと　共に　悪事を　働く。
+[10194000000] 悪の組織　ギンガ団のボス。　人の心は
+不完全だと語り　新しい世界を　創ろうと　している。
+冷静かつ　論理的な性格で　部下からの　信頼は厚い。
+[10091010000] 熱い闘志を秘めた　マジコスを　身にまとう　シロナ。
+厳しい修行を　共に　乗りこえた　ジャラランガと
+ポケモン勝負の　頂点に　立つことを　誓う。
+[10090400000] クールな衣装を　着た　ちょっぴり　陽気な　ダイゴ。
+相棒の　サンドパン（アローラのすがた）と　一緒に
+洞窟で　石を　探しながら　涼んでいる。
+[10002400000] 暑い夏を　乗りきる　新しい衣装を　着た　コトネ。
+お祭りの　ワクワク　楽しい　雰囲気に　誘われて
+パートナーの　プリンと　一緒に　歌って　踊りだす。
 
 ===========
 trainer_description_ko.lsd
@@ -11353,6 +11901,18 @@ trainer_description_ko.lsd
 [10240000000] 사랑과 진실, 어둠을 뿌리고 다니는 로켓단 단원.
 보스인 비주기에게 충성을 맹세하고
 로이, 나옹과 함께 나쁜 일을 일삼는다.
+[10194000000] 악의 조직 갤럭시단의 보스.
+사람의 마음은 불완전하다고 생각하여 신세계를 만들려고 한다.
+냉정하고 논리적인 언동으로 부하들로부터 두터운 신뢰를 얻고 있다.
+[10091010000] 뜨거운 투지를 간직한 궁극코스를 입은 난천.
+혹독한 수행을 함께 거쳐온 짜랑고우거와
+포켓몬 승부의 정점에 설 것을 맹세한다.
+[10090400000] 시원한 의상을 입고 조금은 쾌활해진 성호.
+파트너인 고지(알로라의 모습)와 함께
+동굴에서 돌을 찾으며 바람을 쐬고 있다.
+[10002400000] 뜨거운 여름을 보내기 위해 새로운 옷을 입은 금선.
+즐겁고 두근거리는 축제의 분위기에 이끌려
+파트너인 푸린과 함께 노래하고 춤추기 시작한다.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -11674,6 +12234,18 @@ trainer_description_zh-TW.lsd
 [10240000000] 貫徹愛與真實的邪惡的火箭隊隊員。
 她發誓效忠老大阪木，
 並與小次郎和喵喵一起做壞事。
+[10194000000] 邪惡組織銀河隊的老大。
+他相信人心並不完美，打算創造新的世界。
+冷靜且理智的性格使他深得部下的信賴。
+[10091010000] 身穿美極套裝的竹蘭，服裝中蘊藏了熾熱的鬥志。
+她發誓要與一同經歷嚴苛修行的杖尾鱗甲龍，
+一起站上寶可夢對戰的頂點。
+[10090400000] 身穿帥氣服裝，多了些開朗氣息的大吾。
+他和夥伴穿山王（阿羅拉的樣子）
+一邊在洞窟裡避暑一邊尋找石頭。
+[10002400000] 穿上新衣以抵抗炎夏酷暑的琴音。
+她被祭典上歡樂熱鬧的氣氛感染，
+忍不住和她的拍檔胖丁一起唱歌跳舞了起來。
 
 ===========
 trainer_name_de.lsd
@@ -11803,7 +12375,10 @@ trainer_name_de.lsd
 [ch9000] 
 [ch0159] Perenus
 [ch0170] Artie
+[ch0190] Ryuki
+[ch0194] Zyrus
 [ch0198] Lotte
+[ch0215] Xenia
 [ch0240] Jessie
 [ch0241] James
 
@@ -11935,7 +12510,10 @@ trainer_name_en.lsd
 [ch9000] 
 [ch0159] Darach
 [ch0170] Burgh
+[ch0190] Ryuki
+[ch0194] Cyrus
 [ch0198] Lucy
+[ch0215] Lisia
 [ch0240] Jessie
 [ch0241] James
 
@@ -12067,7 +12645,10 @@ trainer_name_es.lsd
 [ch9000] 
 [ch0159] Kokuran
 [ch0170] Camus
+[ch0190] Olano
+[ch0194] Helio
 [ch0198] Fortunia
+[ch0215] Ariana
 [ch0240] Jessie
 [ch0241] James
 
@@ -12199,7 +12780,10 @@ trainer_name_fr.lsd
 [ch9000] 
 [ch0159] Parsley
 [ch0170] Artie
+[ch0190] Solane
+[ch0194] Hélio
 [ch0198] Charline
+[ch0215] Atalante
 [ch0240] Jessie
 [ch0241] James
 
@@ -12331,7 +12915,10 @@ trainer_name_it.lsd
 [ch9000] 
 [ch0159] Paride
 [ch0170] Artemisio
+[ch0190] Morel
+[ch0194] Cyrus
 [ch0198] Fortunata
+[ch0215] Orthilla
 [ch0240] Jessie
 [ch0241] James
 
@@ -12463,7 +13050,10 @@ trainer_name_ja.lsd
 [ch9000] 
 [ch0159] コクラン
 [ch0170] アーティ
+[ch0190] リュウキ
+[ch0194] アカギ
 [ch0198] アザミ
+[ch0215] ルチア
 [ch0240] ムサシ
 [ch0241] コジロウ
 
@@ -12595,7 +13185,10 @@ trainer_name_ko.lsd
 [ch9000] 
 [ch0159] 코크런
 [ch0170] 아티
+[ch0190] 용규
+[ch0194] 태홍
 [ch0198] 다슬
+[ch0215] 루티아
 [ch0240] 로사
 [ch0241] 로이
 
@@ -12727,7 +13320,10 @@ trainer_name_zh-TW.lsd
 [ch9000] 
 [ch0159] 石蘭
 [ch0170] 亞堤
+[ch0190] 龍葵
+[ch0194] 赤日
 [ch0198] 小薊
+[ch0215] 琉琪亞
 [ch0240] 武藏
 [ch0241] 小次郎
 
@@ -12942,6 +13538,13 @@ Möchtest du zur Gefährtenepisode?
 [common_widget/trainer_detail_050] Angaben gelten für Level 1 der aktuellen ★-Zahl
 mit allen Attacken und Fähigkeiten erlernt.
 [common_widget/trainer_detail_051] Glücksfähigkeit
+[common_widget/trainer_detail_052] Typenfähigkeit
+[common_widget/trainer_detail_053] Bedingungen
+[common_widget/trainer_detail_054] Effekt
+[common_widget/trainer_detail_056] Angaben gelten für den maximalen
+Level der aktuellen ★-Zahl.
+[common_widget/trainer_detail_057] Angaben gelten für Lv. 1 der
+aktuellen ★-Zahl.
 [common_widget/dialog_special_item_001] [Name:Item ]
 erhalten!
 [common_widget/dialog_special_item_002] Noch [Digit:1digit ] Orden!
@@ -13112,12 +13715,43 @@ du von Professor Daisy erhalten hast.
 freigeschaltet, wenn du das erste Ei
 ausbrütest, das du von ihr erhalten
 hast.
+[common_widget/release_014] Wird in einem zukünftigem Update freigeschaltet.
 [common_widget/egg_hatched_cutin_001] Oh?
 [common_widget/egg_hatched_cutin_002] Ein [Name:PokemonName ] ist aus
 dem Ei geschlüpft!
 [common_widget/egg_detail_001] Bitte gib einen Spitznamen ein.
 [common_widget/egg_detail_002] Hinweis: Du kannst den Spitznamen später ändern.
 [common_widget/egg_detail_003] Gib einen Spitznamen ein.
+[common_widget/rank_001] Spielerrang
+[common_widget/rank_002] Bis zum nächsten Spielerrang:
+[common_widget/rank_003] Rangaufstieg
+[common_widget/rank_006] Ausdauer aufgefüllt!
+[common_widget/rank_007] SR
+[common_widget/rank_009] Dein Ausdauerlimit wurde um [Digit:3digits ] erhöht!
+[common_widget/stamina_001] Ausdauer auffüllen
+[common_widget/stamina_002] Erneut auffüllen
+[common_widget/stamina_003] Dafür werden vorrangig kostenlose Juwelen verbraucht.
+Heute mögliche Anzahl an Auffüllungen: [Digit:3digits ]/[Digit:3digits Idx="1" ]
+[common_widget/stamina_004] Möchtest du [Digit:3digits ] Juwelen einsetzen,
+um deine Ausdauer aufzufüllen?
+[common_widget/stamina_005] Deine Ausdauer wurde aufgefüllt!
+[common_widget/stamina_006] Nicht genug Juwelen
+[common_widget/stamina_007] Du hast nicht genügend Juwelen, um
+deine Ausdauer aufzufüllen. Möchtest
+du zum Juwelenkauf-Bildschirm
+wechseln?
+[common_widget/stamina_008] Ausdauer
+[common_widget/stamina_009] Du kannst deine Ausdauer nicht weiter
+auffüllen.
+[common_widget/stamina_010] Hinweis: Du kannst deine Ausdauer nicht weiter
+auffüllen.
+[common_widget/stamina_011] Deine Juwelen
+[common_widget/stamina_012] Gekauft
+[common_widget/stamina_013] Kostenlos
+[common_widget/stamina_014] Einige Items wurden vorübergehend an
+deine Geschenkbox geschickt, da du
+nicht mehr von ihnen aufbewahren
+kannst.
 
 ===========
 common_widget_en.lsd
@@ -13291,8 +13925,8 @@ and may power up their other moves.
 [common_widget/trainer_detail_022] Accuracy
 [common_widget/trainer_detail_023] Target
 [common_widget/trainer_detail_024] Effect Tag
-[common_widget/trainer_detail_027] Move
-[common_widget/trainer_detail_028] Passive Skill
+[common_widget/trainer_detail_027] Moves
+[common_widget/trainer_detail_028] Passive Skills
 [common_widget/trainer_detail_033] Type
 [common_widget/trainer_detail_037] Lv. 1
 [common_widget/trainer_detail_038] Max
@@ -13313,7 +13947,14 @@ sync pair story.
 Jump to Sync Pair Stories now?
 [common_widget/trainer_detail_050] Maximum stats at current ★s
 with all moves and skills unlocked
-[common_widget/trainer_detail_051] Lucky Skill
+[common_widget/trainer_detail_051] Lucky Skills
+[common_widget/trainer_detail_052] Type Skills
+[common_widget/trainer_detail_053] Conditions
+[common_widget/trainer_detail_054] Effects
+[common_widget/trainer_detail_056] Stats at current number of ★s
+at max level
+[common_widget/trainer_detail_057] Stats at current number of ★s
+at Lv. 1
 [common_widget/dialog_special_item_001] [Name:Item ]
 [common_widget/dialog_special_item_002] Only [Digit:1digit ] more [EN:Qty S="badge" P="badges" ] to go!
 [common_widget/dialog_special_item_003] All badges acquired! Time to compete in the PML!
@@ -13454,6 +14095,7 @@ Defeat Team Break!
 [common_widget/release_010] To unlock, hatch the Egg you first received
 from Professor Bellis.
 [common_widget/release_013] To unlock Bellis’s Lab, hatch the Egg you first received from Professor Bellis.
+[common_widget/release_014] Coming soon!
 [common_widget/egg_hatched_cutin_001] Oh?
 [common_widget/egg_hatched_cutin_002] [Name:PokemonName ] hatched
 from the Egg!
@@ -13461,6 +14103,36 @@ from the Egg!
 your Pokémon.
 [common_widget/egg_detail_002] You can change your Pokémon’s nickname later.
 [common_widget/egg_detail_003] Pokémon Nickname
+[common_widget/rank_001] Player Rank
+[common_widget/rank_002] Points needed for next rank:
+[common_widget/rank_003] Rank increased!
+[common_widget/rank_006] Your stamina has been replenished!
+[common_widget/rank_007] PR
+[common_widget/rank_009] Your max stamina has increased by [Digit:3digits ]!
+[common_widget/stamina_001] Replenish Stamina
+[common_widget/stamina_002] More Stamina
+[common_widget/stamina_003] This will use your non-paid gems first. The number of
+times you can replenish stamina each day is limited.
+Remaining: [Digit:3digits ]/[Digit:3digits Idx="1" ]
+[common_widget/stamina_004] Do you want to use [Digit:3digits ] gems to
+replenish your stamina?
+[common_widget/stamina_005] Your stamina has been replenished.
+[common_widget/stamina_006] Insufficient Gems
+[common_widget/stamina_007] You don’t have enough gems to
+replenish your stamina.
+Would you like to go to the
+gem purchase screen?
+[common_widget/stamina_008] Stamina
+[common_widget/stamina_009] You cannot replenish your stamina any
+further right now.
+[common_widget/stamina_010] You cannot replenish your stamina any further.
+[common_widget/stamina_011] Your Gems
+[common_widget/stamina_012] Paid
+[common_widget/stamina_013] Non-paid
+[common_widget/stamina_014] Some of these items exceed your
+maximum storage limit. They have
+been sent to the Temp Storage section
+of your Present Box.
 
 ===========
 common_widget_es.lsd
@@ -13663,6 +14335,12 @@ se hará más fuerte.
 ¿Quieres ir a los episodios compi?
 [common_widget/trainer_detail_050] Características máximas de esta pareja con el número actual de ★, a Nv. 1 y con todos sus movimientos y habilidades pasivas desbloqueados.
 [common_widget/trainer_detail_051] Habilidades fortuitas
+[common_widget/trainer_detail_052] Habilidad
+de tipo
+[common_widget/trainer_detail_053] Requisitos
+[common_widget/trainer_detail_054] Efectos
+[common_widget/trainer_detail_056] Características máximas de esta pareja con el número actual de ★ y a nivel máximo.
+[common_widget/trainer_detail_057] Características máximas de esta pareja con el número actual de ★ y a Nv. 1.
 [common_widget/dialog_special_item_001] Has conseguido:
 [Name:Item ]
 [common_widget/dialog_special_item_002] Medallas restantes: [Digit:1digit ]
@@ -13817,12 +14495,41 @@ entregó la Profesora Margarita.
 de la Profesora Margarita después de
 que eclosione el primer Huevo que
 te entregue.
+[common_widget/release_014] Disponible en una próxima actualización.
 [common_widget/egg_hatched_cutin_001] Anda...
 [common_widget/egg_hatched_cutin_002] El Huevo ha eclosionado y ha salido un
 [Name:PokemonName ].
 [common_widget/egg_detail_001] Ponle un apodo.
 [common_widget/egg_detail_002] *Puedes cambiarle el apodo más tarde.
 [common_widget/egg_detail_003] Apodo del Pokémon
+[common_widget/rank_001] Rango de jugador
+[common_widget/rank_002] Experiencia para el próximo rango:
+[common_widget/rank_003] ¡Rango ↑!
+[common_widget/rank_006] Se ha restablecido tu aguante.
+[common_widget/rank_007] RJ
+[common_widget/rank_009] Tu nivel de aguante ha aumentado en [Digit:3digits ].
+[common_widget/stamina_001] Restablecimiento de aguante
+[common_widget/stamina_002] Otra vez
+[common_widget/stamina_003] Aviso: Se usan antes las joyas sin coste para dicho fin.
+Hoy puedes restablecer tu aguante [Digit:3digits ]/[Digit:3digits Idx="1" ] veces.
+[common_widget/stamina_004] ¿Quieres usar [Digit:3digits ] joya[ES:Qty S="" P="s" ] para
+restablecer tu aguante?
+[common_widget/stamina_005] Se ha restablecido tu aguante.
+[common_widget/stamina_006] Joyas insuficientes
+[common_widget/stamina_007] No tienes suficientes joyas para
+restablecer tu aguante. ¿Quieres ir
+a la pantalla de compra de joyas?
+[common_widget/stamina_008] Aguante
+[common_widget/stamina_009] No puedes restablecer más aguante.
+[common_widget/stamina_010] Aviso: No puedes restablecer más aguante.
+[common_widget/stamina_011] Tus joyas
+[common_widget/stamina_012] De pago
+[common_widget/stamina_013] Sin coste
+[common_widget/stamina_014] Has alcanzado el máximo de aguante
+o de uno o varios objetos. Los objetos
+se enviarán a la caja de regalos,
+donde se almacenarán durante un
+breve período de tiempo.
 
 ===========
 common_widget_fr.lsd
@@ -14022,6 +14729,14 @@ la force du Duo.
 Afficher les épisodes Duo ?
 [common_widget/trainer_detail_050] Stats du Duo au nombre d'★ actuel et au niveau 1, avec toutes les capacités et talents passifs débloqués.
 [common_widget/trainer_detail_051] Talent surprise
+[common_widget/trainer_detail_052] Talents de type
+[common_widget/trainer_detail_053] Conditions
+[common_widget/trainer_detail_054] Effet
+[common_widget/trainer_detail_056] Stats du Duo au nombre d'★ actuel,
+quand il aura atteint sa limite de
+niveau.
+[common_widget/trainer_detail_057] Stats du Duo au nombre d'★ actuel
+et au niveau 1.
 [common_widget/dialog_special_item_001] Vous avez obtenu
 1 [Name:Item ] !
 [common_widget/dialog_special_item_002] Encore [Digit:1digit ] Badge[FR:Qty P="s" ] à obtenir !
@@ -14167,7 +14882,7 @@ le chapitre 3.
 [common_widget/release_004] Terminez « La plus belle fleur du jardin » dans
 le chapitre 4.
 [common_widget/release_005] Terminez « Combat : Tcheren, Ludwig et Ludvina »
-(difficile) dans le chapitre 18.
+(difficile) dans le chapitre 18 en mode coop.
 [common_widget/release_006] Terminez « Un allié fiable » dans le chapitre 2.
 [common_widget/release_007] Terminez « Les espoirs d'Alola II » dans le chapitre 11.
 [common_widget/release_008] Débloqué après avoir terminé « Un esprit inébranlable »
@@ -14182,12 +14897,41 @@ la Professeure Bellis vous a confié.
 [common_widget/release_013] Le Laboratoire Pokémon Bellis est
 débloqué après avoir fait éclore l'Œuf
 que la Professeur Bellis vous a confié.
+[common_widget/release_014] Disponible lors d'une prochaine mise à jour !
 [common_widget/egg_hatched_cutin_001] Oh ?!
 [common_widget/egg_hatched_cutin_002] Un [Name:PokemonName ] est
 sorti de l'Œuf !
 [common_widget/egg_detail_001] Donnez-lui un surnom !
 [common_widget/egg_detail_002] Vous aurez la possibilité de changer le surnom plus tard.
 [common_widget/egg_detail_003] Saisir le surnom
+[common_widget/rank_001] Rang de joueur
+[common_widget/rank_002] Prochain rang :
+[common_widget/rank_003] Rang ↑
+[common_widget/rank_006] Votre Vigueur a été régénérée.
+[common_widget/rank_007] RJ
+[common_widget/rank_009] La réserve de Vigueur s'agrandit de [Digit:3digits ] !
+[common_widget/stamina_001] Régénération de la Vigueur
+[common_widget/stamina_002] Régénérer plus
+[common_widget/stamina_003] Les Diamants non payants seront utilisés en premier.
+Nombre de régénérations disponibles par jour : [Digit:3digits ]/[Digit:3digits Idx="1" ].
+[common_widget/stamina_004] Voulez-vous utiliser [Digit:3digits ] Diamant[FR:Qty P="s" ]
+pour régénérer votre Vigueur ?
+[common_widget/stamina_005] Votre Vigueur a été régénérée.
+[common_widget/stamina_006] Diamants insuffisants
+[common_widget/stamina_007] Vous n'avez pas assez de Diamants
+pour régénérer votre Vigueur.
+Voulez-vous vous rendre sur l'écran
+d'achat de Diamants ?
+[common_widget/stamina_008] Vigueur
+[common_widget/stamina_009] Vous ne pouvez régénérer davantage
+de votre Vigueur.
+[common_widget/stamina_010] Vous ne pouvez régénérer davantage de votre Vigueur.
+[common_widget/stamina_011] Vos Diamants
+[common_widget/stamina_012] Payants
+[common_widget/stamina_013] Non payants
+[common_widget/stamina_014] Vous avez atteint la limite.
+Le surplus a été placé en attente
+dans le menu « Cadeaux ».
 
 ===========
 common_widget_it.lsd
@@ -14381,6 +15125,13 @@ l'Unità diventerà più forte!
 Vuoi andare agli episodi Unità?
 [common_widget/trainer_detail_050] Valori per l'Unità al numero di ★ attuale, al L. 1 e con tutte le mosse e abilità passive imparate.
 [common_widget/trainer_detail_051] Talenti
+[common_widget/trainer_detail_052] Tipabilità
+[common_widget/trainer_detail_053] Requisiti
+[common_widget/trainer_detail_054] Effetti
+[common_widget/trainer_detail_056] Valori per l'Unità al numero di ★
+attuale e al livello massimo.
+[common_widget/trainer_detail_057] Valori per l'Unità al numero di ★
+attuale e al L. 1.
 [common_widget/dialog_special_item_001] Hai ottenuto: [Name:Item ]!
 [common_widget/dialog_special_item_002] Medaglie mancanti: [Digit:1digit ]!
 [common_widget/dialog_special_item_003] Ora hai tutte le medaglie! Puoi affrontare il WPM!
@@ -14530,11 +15281,40 @@ Bellisperia per sbloccare questa funzione.
 [common_widget/release_013] Fai schiudere il primo Uovo ricevuto
 dalla Professoressa Bellisperia
 per sbloccare il Laboratorio Pokémon.
+[common_widget/release_014] Disponibile in un aggiornamento futuro.
 [common_widget/egg_hatched_cutin_001] Oh!
 [common_widget/egg_hatched_cutin_002] Dall'Uovo è nato [Name:PokemonName ]!
 [common_widget/egg_detail_001] Inserisci un nome.
 [common_widget/egg_detail_002] Il nome può essere cambiato più tardi.
 [common_widget/egg_detail_003] Nome Pokémon
+[common_widget/rank_001] Rango giocatore
+[common_widget/rank_002] Prossimo rango giocatore tra:
+[common_widget/rank_003] Nuovo rango
+[common_widget/rank_006] Hai recuperato Vitalità.
+[common_widget/rank_007] RG
+[common_widget/rank_009] La Vitalità massima è aumentata di [Digit:3digits ].
+[common_widget/stamina_001] Recupero Vitalità
+[common_widget/stamina_002] Recupera ancora
+[common_widget/stamina_003] Verranno usate per prime le gemme senza costo.
+Recuperi Vitalità rimasti oggi: [Digit:3digits ]/[Digit:3digits Idx="1" ].
+[common_widget/stamina_004] Vuoi usare [Digit:3digits ] gemm[IT:Qty S="a" P="e" ] per recuperare
+Vitalità?
+[common_widget/stamina_005] Hai recuperato Vitalità.
+[common_widget/stamina_006] Gemme insufficienti
+[common_widget/stamina_007] Non hai abbastanza gemme
+per recuperare Vitalità.
+Vuoi andare alla schermata di acquisto
+delle gemme?
+[common_widget/stamina_008] Vitalità
+[common_widget/stamina_009] Non puoi recuperare altra Vitalità.
+[common_widget/stamina_010] Non puoi recuperare altra Vitalità.
+[common_widget/stamina_011] Gemme in Borsa
+[common_widget/stamina_012] A pagamento
+[common_widget/stamina_013] Senza costo
+[common_widget/stamina_014] Hai raggiunto il limite massimo per
+alcuni strumenti, che pertanto sono
+stati inviati alla sezione "In attesa"
+dei Regali.
 
 ===========
 common_widget_ja.lsd
@@ -14728,6 +15508,11 @@ MAX
 [common_widget/trainer_detail_050] ※現在の★の数におけるLv.1/
 　わざ・スキル習得をすべて行った状態
 [common_widget/trainer_detail_051] ポテンシャル
+[common_widget/trainer_detail_052] タイプスキル
+[common_widget/trainer_detail_053] 発動条件
+[common_widget/trainer_detail_054] 効果
+[common_widget/trainer_detail_056] ※現在の★の数における最大Lv.状態
+[common_widget/trainer_detail_057] ※現在の★の数におけるLv.1状態
 [common_widget/dialog_special_item_001] [Name:Item ]を
 獲得しました！
 [common_widget/dialog_special_item_002] のこるバッジは　あと[Digit:1digit ]個！
@@ -14890,12 +15675,41 @@ HARDクリアで解放
 [common_widget/release_013] ヒナギクポケモン研究所は
 初めてヒナギク博士から預かった
 タマゴをかえすと解放されます
+[common_widget/release_014] 今後のアップデートで解放予定
 [common_widget/egg_hatched_cutin_001] おや？
 [common_widget/egg_hatched_cutin_002] タマゴが　かえって
 [Name:PokemonName ]が　うまれた！
 [common_widget/egg_detail_001] ニックネームを入力してください
 [common_widget/egg_detail_002] ※ニックネームはあとから変更できます
 [common_widget/egg_detail_003] ニックネーム入力
+[common_widget/rank_001] プレイヤーランク
+[common_widget/rank_002] 次のプレイヤーランクまであと
+[common_widget/rank_003] ランクアップ
+[common_widget/rank_006] スタミナが回復しました	
+[common_widget/rank_007] PR
+[common_widget/rank_009] スタミナの上限が[Digit:3digits ]あがりました
+[common_widget/stamina_001] スタミナ回復
+[common_widget/stamina_002] さらに回復
+[common_widget/stamina_003] ※無償ダイヤから消費されます
+※今日の回復可能回数[Digit:3digits ]/[Digit:3digits Idx="1" ]
+[common_widget/stamina_004] ダイヤを[Digit:3digits ]個消費して
+スタミナを回復しますか？
+[common_widget/stamina_005] スタミナが回復しました
+[common_widget/stamina_006] ダイヤ不足
+[common_widget/stamina_007] スタミナを回復するための
+ダイヤが足りません
+
+ダイヤ購入画面に行きますか？
+[common_widget/stamina_008] スタミナ
+[common_widget/stamina_009] これ以上スタミナを
+回復できません
+[common_widget/stamina_010] ※これ以上回復できません
+[common_widget/stamina_011] 所持ダイヤ
+[common_widget/stamina_012] 有償
+[common_widget/stamina_013] 無償
+[common_widget/stamina_014] 所持上限を超える一部のどうぐは
+プレゼントボックスの
+一時保管に送りました
 
 ===========
 common_widget_ko.lsd
@@ -15087,6 +15901,13 @@ MAX
 [common_widget/trainer_detail_050] ※현재 ★의 수에서 진행할 수 있는
 Lv.1/기술・스킬 습득을 모두 완료한 상태
 [common_widget/trainer_detail_051] 포텐셜
+[common_widget/trainer_detail_052] 타입스킬
+[common_widget/trainer_detail_053] 발동 조건
+[common_widget/trainer_detail_054] 효과
+[common_widget/trainer_detail_056] ※현재 ★의 수에서 진행할 수 있는
+최대 Lv. 상태
+[common_widget/trainer_detail_057] ※현재 ★의 수에서 진행할 수 있는
+Lv.1 상태
 [common_widget/dialog_special_item_001] [Name:Item ][Kor:Particle char="wo" ]
 획득했습니다!
 [common_widget/dialog_special_item_002] 남은 배지는 앞으로 [Digit:1digit ]개!
@@ -15246,12 +16067,39 @@ Lv.MAX
 [common_widget/release_013] 데이지 포켓몬 연구소는
 데이지박사에게 처음 받은
 알을 부화시키면 해방됩니다
+[common_widget/release_014] 추후 업데이트에서 해방될 예정입니다
 [common_widget/egg_hatched_cutin_001] 어라?
 [common_widget/egg_hatched_cutin_002] 알이 부화해서
 [Name:PokemonName ][Kor:Particle char="ga" ] 태어났다!
 [common_widget/egg_detail_001] 닉네임을 입력해 주십시오
 [common_widget/egg_detail_002] ※닉네임은 나중에 변경할 수 있습니다
 [common_widget/egg_detail_003] 닉네임 입력
+[common_widget/rank_001] 플레이어 랭크
+[common_widget/rank_002] 다음 플레이어 랭크까지 앞으로
+[common_widget/rank_003] 랭크 업
+[common_widget/rank_006] 스태미나가 회복되었습니다
+[common_widget/rank_007] PR
+[common_widget/rank_009] 스태미나 상한이 [Digit:3digits ] 올랐습니다
+[common_widget/stamina_001] 스태미나 회복
+[common_widget/stamina_002] 추가로 회복
+[common_widget/stamina_003] ※무료 다이아부터 사용합니다
+※오늘의 회복 가능 횟수 [Digit:3digits ]/[Digit:3digits Idx="1" ]
+[common_widget/stamina_004] 다이아를 [Digit:3digits ]개 소비하여
+스태미나를 회복하겠습니까?
+[common_widget/stamina_005] 스태미나가 회복되었습니다
+[common_widget/stamina_006] 다이아 부족
+[common_widget/stamina_007] 스태미나를 회복시키기 위한
+다이아가 부족합니다
+다이아 구입 화면으로 가겠습니까?
+[common_widget/stamina_008] 스태미나
+[common_widget/stamina_009] 이 이상 스태미나를
+회복할 수 없습니다
+[common_widget/stamina_010] ※이 이상 회복할 수 없습니다
+[common_widget/stamina_011] 보유 다이아
+[common_widget/stamina_012] 유료
+[common_widget/stamina_013] 무료
+[common_widget/stamina_014] 보유 상한을 넘은 일부 도구는
+프레젠트박스의 임시보관에서 확인해주십시오
 
 ===========
 common_widget_zh-TW.lsd
@@ -15432,6 +16280,11 @@ MAX
 [common_widget/trainer_detail_050] ※此為在目前★數且等級為Lv.1時
 　學會了所有招式及技能的狀態
 [common_widget/trainer_detail_051] 潛能
+[common_widget/trainer_detail_052] 屬性技能
+[common_widget/trainer_detail_053] 發動條件
+[common_widget/trainer_detail_054] 效果
+[common_widget/trainer_detail_056] ※在目前的★數達到最高等級時的狀態
+[common_widget/trainer_detail_057] ※在目前★數且等級為Lv.1時的狀態
 [common_widget/dialog_special_item_001] 獲得了
 [Name:Item ]！
 [common_widget/dialog_special_item_002] 還剩下[Digit:1digit ]個徽章！
@@ -15578,11 +16431,36 @@ Lv.MAX
 [common_widget/release_013] 雛菊寶可夢研究所將在
 首次孵化雛菊博士
 給的蛋之後開放
+[common_widget/release_014] 預定在今後的更新中開放
 [common_widget/egg_hatched_cutin_001] ……咦？
 [common_widget/egg_hatched_cutin_002] 蛋孵化成[Name:PokemonName ]了！
 [common_widget/egg_detail_001] 請輸入暱稱
 [common_widget/egg_detail_002] ※暱稱以後仍可更改
 [common_widget/egg_detail_003] 輸入暱稱
+[common_widget/rank_001] 玩家等級
+[common_widget/rank_002] 離提升玩家等級還剩
+[common_widget/rank_003] 玩家等級提升
+[common_widget/rank_006] 活力回復了
+[common_widget/rank_007] PR
+[common_widget/rank_009] 活力上限提升了[Digit:3digits ]
+[common_widget/stamina_001] 回復活力
+[common_widget/stamina_002] 繼續回復
+[common_widget/stamina_003] ※將先使用免費鑽石
+※今天可回復次數[Digit:3digits ]/[Digit:3digits Idx="1" ]
+[common_widget/stamina_004] 確定要消耗[Digit:3digits ]個鑽石
+來回復活力嗎？
+[common_widget/stamina_005] 活力回復了
+[common_widget/stamina_006] 鑽石不足
+[common_widget/stamina_007] 持有的鑽石不足以回復活力
+要前往鑽石的購買畫面嗎？
+[common_widget/stamina_008] 活力
+[common_widget/stamina_009] 無法繼續回復活力
+[common_widget/stamina_010] ※無法繼續回復
+[common_widget/stamina_011] 持有鑽石
+[common_widget/stamina_012] 付費
+[common_widget/stamina_013] 免費
+[common_widget/stamina_014] 部分超過持有上限的道具
+已送到禮物箱的「暫時保管」中
 
 ===========
 error_dialog_contents_de.lsd
@@ -17501,6 +18379,7 @@ home_de.lsd
 [home/quest_list_title_004] Zusatzgebiete
 [home/quest_list_title_006] Hauptgeschichte (Multi)
 [home/quest_list_title_007] Abenteuer
+[home/quest_list_title_008] Trainingsgebiet
 [home/quest_list_013] Erf.
 [home/quest_list_017] Gemeinsam spielen
 [home/quest_list_018] Mit zufälligen
@@ -17594,6 +18473,10 @@ nicht drei Teams ausgewählt hast.
 [home/quest_list_092] Schnappe dir über die Boxsuche
 „[Name:QuestTitle ]“!
 [home/quest_list_093] freigeschaltet!
+[home/quest_list_094] Trainingsgebiet
+[home/quest_list_095] Gefährtendrops↑
+[home/quest_list_096] Lv. [Digit:3digits ]
+[home/quest_list_097] Noch [Digit:2digits ] Mal
 [home/quest_detail_003] Empfohlener Typ
 [home/quest_detail_005] Details
 [home/quest_detail_009] Teamauswahl
@@ -17665,6 +18548,29 @@ weiter auf der Karte fortschreiten.
 [home/quest_detail_075] Belohnung
 [home/quest_detail_076] Hinweis: Belohnungen sind wahrscheinlichkeitsabhängig. Es kann auch vorkommen, dass es keine Belohnung gibt.
 [home/quest_detail_077] Ei-Erhaltrate
+[home/quest_detail_078] Aufbrechen
+[home/quest_detail_079] Verbleibende Versuche
+[home/quest_detail_080] Noch [Digit:3digits ] Mal
+[home/quest_detail_081] Aufbrechen
+[home/quest_detail_082] Auffüllung der Ausdauer in: [Name:DateTime ]
+[home/quest_detail_083] Überspringticket
+[home/quest_detail_084] Mit diesem Ticket gelangst du direkt zum
+Bildschirm mit den Kampfergebnissen.
+[home/quest_detail_085] Möchtest du ein Ticket und Ausdauer
+einsetzen, um aufzubrechen?
+[home/quest_detail_086] Möchtest du Ausdauer einsetzen,
+um aufzubrechen?
+[home/quest_detail_087] Wird freigeschaltet, wenn du gewinnst, ohne dass
+einer deiner Gefährten kampfunfähig wird.
+[home/quest_detail_088] Du hast nicht genügend Ausdauer,
+um aufzubrechen. Möchtest du deine
+Ausdauer auffüllen?
+[home/quest_detail_089] Empf. Level
+[home/quest_detail_090] Nötiger Lv.
+[home/quest_detail_091] Da mindestens ein Gefährtengespann
+im Team nicht über den nötigen Level
+verfügt, kannst du nicht aufbrechen.
+[home/quest_detail_093] Nötiger Lv.
 [home/quest_detail_095] Hinweis: Deine Eierbox ist voll. Du kannst keine
 weiteren Eier ablegen.
 [home/home_001] Laden
@@ -17673,6 +18579,7 @@ weiteren Eier ablegen.
 [home/home_007] Zeitraum abgelaufen
 [home/home_016] Ein Legenden-Event läuft!
 [home/home_017] Ein PokéFestival läuft!
+[home/home_018] Gefährtendrops↑
 [home/home_019] Jetzt mehr Versuche!
 [home/home_020] Ein Legenden-Event läuft!
 [home/home_021] PokéFestival!
@@ -17723,6 +18630,9 @@ Willkommen Zurück
 [home/login_bonus_013] Willkommen zurück!
 Das erhältst du
 nächstes Mal!
+[home/login_bonus_014] Ich schick es an deine
+Geschenkbox. Vergiss
+nicht, es abzuholen!
 [home/app_review_001] Bewertung
 [home/app_review_002] Vielen Dank, dass du
 [Name:TitleName ] spielst!
@@ -17849,7 +18759,7 @@ home_en.lsd
 [home/quest_list_001] Main Story
 [home/quest_list_002] Events
 [home/quest_list_003] Sync Pair Stories
-[home/quest_list_004] Training Area
+[home/quest_list_004] EX Plaza
 [home/quest_list_007] Chapter [Digit:3digits ]
 [home/quest_list_008] 
 [home/quest_list_009] Ch. [Digit:3digits ]
@@ -17858,9 +18768,10 @@ home_en.lsd
 [home/quest_list_title_001] Main Story
 [home/quest_list_title_002] Events
 [home/quest_list_title_003] Sync Pair Stories
-[home/quest_list_title_004] Training Area
+[home/quest_list_title_004] EX Plaza
 [home/quest_list_title_006] Main Story (Co-op)
 [home/quest_list_title_007] Explore
+[home/quest_list_title_008] Training Area
 [home/quest_list_013] XP
 [home/quest_list_017] Battle with other players!
 [home/quest_list_018] Quick
@@ -17947,6 +18858,10 @@ than one team. Please edit your teams.
 [home/quest_list_092] Pull from the prize box to get
 [Name:QuestTitle ]!
 [home/quest_list_093] Unlocked!
+[home/quest_list_094] Training Area
+[home/quest_list_095] Sync Orb Reward Boost
+[home/quest_list_096] Lv. [Digit:3digits ]
+[home/quest_list_097] Remaining Attempts: [Digit:2digits ]
 [home/quest_detail_003] Recommended Types
 [home/quest_detail_005] Area Details
 [home/quest_detail_009] Preset Teams
@@ -18018,6 +18933,29 @@ longer progress through this map.
 [home/quest_detail_075] Battle Rewards
 [home/quest_detail_076] Note: Each battle reward has a drop rate. You may not receive all of the items shown.
 [home/quest_detail_077] Egg Reward Rate
+[home/quest_detail_078] Ready?
+[home/quest_detail_079] Remaining Attempts
+[home/quest_detail_080] [Digit:3digits ]
+[home/quest_detail_081] Ready to Battle?
+[home/quest_detail_082] Fully replenished in [Name:DateTime ]
+[home/quest_detail_083] Skip Tickets
+[home/quest_detail_084] Use skip tickets to skip directly to the
+battle results screen.
+[home/quest_detail_085] Start the battle using the stamina and
+skip tickets displayed above?
+[home/quest_detail_086] Start the battle using the stamina
+displayed above?
+[home/quest_detail_087] To unlock, complete this battle with every sync pair
+on your team still standing.
+[home/quest_detail_088] You don’t have enough stamina to
+take on this battle. Would you like to
+replenish your stamina now?
+[home/quest_detail_089] Rec. Lv. 
+[home/quest_detail_090] Req. Lv. 
+[home/quest_detail_091] Some of the sync pairs on this team
+don’t meet the level requirements for
+this battle.
+[home/quest_detail_093] Required Lv.
 [home/quest_detail_095] Note: You can’t receive any more Eggs right now
 because your Egg Box is full.
 [home/home_001] Shop
@@ -18026,6 +18964,7 @@ because your Egg Box is full.
 [home/home_007] Attention!
 [home/home_016] Legendary Event
 [home/home_017] Poké Fair
+[home/home_018] Sync Orb Reward Boost
 [home/home_019] Extra Replays
 [home/home_020] Legendary Event
 [home/home_021] Poké Fair
@@ -18072,6 +19011,9 @@ you log in!
 [home/login_bonus_013] Welcome back!
 Receive this next
 time you log in!
+[home/login_bonus_014] I just sent something
+to your Present Box!
+Don’t forget to pick it up!
 [home/app_review_001] Review
 [home/app_review_002] Thank you for playing
 [Name:TitleName ]!
@@ -18213,6 +19155,7 @@ home_es.lsd
 [home/quest_list_title_004] Ubicaciones especiales
 [home/quest_list_title_006] Historia principal (multi)
 [home/quest_list_title_007] Aventura
+[home/quest_list_title_008] Área de entrenamiento
 [home/quest_list_013] Exp.
 [home/quest_list_017] Multijugador
 [home/quest_list_018] Partida rápida
@@ -18300,6 +19243,10 @@ de la posición central.
 [home/quest_list_092] Obtén [Name:QuestTitle ]
 a través de la Caja Búsqueda.
 [home/quest_list_093] desbloqueada
+[home/quest_list_094] Área de entrenamiento
+[home/quest_list_095] ¡Más Orbes Compi!
+[home/quest_list_096] Nivel [Digit:3digits ]
+[home/quest_list_097] [Digit:2digits ] ve[ES:Qty S="z" P="ces" ] más
 [home/quest_detail_003] Tipos recomendados
 [home/quest_detail_005] Detalles
 [home/quest_detail_009] Elegir equipo
@@ -18371,6 +19318,29 @@ seguir avanzando por este mapa.
 [home/quest_detail_075] Botín
 [home/quest_detail_076] *Cada botín tiene una tasa de obtención, por lo que es posible que no obtengas todos los objetos, e incluso que no obtengas ninguno.
 [home/quest_detail_077] Índice de aparición de Huevos
+[home/quest_detail_078] Confirmar
+[home/quest_detail_079] Intentos restantes
+[home/quest_detail_080] [Digit:3digits ] ve[ES:Qty S="z" P="ces" ] más
+[home/quest_detail_081] Confirmación
+[home/quest_detail_082] Restablecimiento de aguante en: [Name:DateTime ]
+[home/quest_detail_083] Billete Victoria
+[home/quest_detail_084] Usa este objeto para pasar directamente a la
+pantalla de premios y resultados.
+[home/quest_detail_085] ¿Quieres usar aguante y el Billete Victoria
+para acceder a la ubicación?
+[home/quest_detail_086] ¿Quieres usar aguante para acceder a la
+ubicación?
+[home/quest_detail_087] Aviso: Para desbloquear esta opción, completa la
+ubicación sin que ningún compi sea derrotado.
+[home/quest_detail_088] No tienes suficiente aguante para
+acceder a la ubicación.
+¿Quieres restablecer tu aguante?
+[home/quest_detail_089] Nv. recomen.
+[home/quest_detail_090] Nv. necesario
+[home/quest_detail_091] Alguno de tus compis no tiene el nivel
+necesario y no puedes acceder a la
+ubicación.
+[home/quest_detail_093] Nivel necesario
 [home/quest_detail_095] Aviso: No tienes más espacio en la Caja Huevo,
 así que no puedes aceptar más Huevos.
 [home/home_001] Tienda
@@ -18379,6 +19349,7 @@ así que no puedes aceptar más Huevos.
 [home/home_007] Fecha límite rebasada
 [home/home_016] ¡Evento legendario en curso!
 [home/home_017] ¡Pokéfestival!
+[home/home_018] ¡Más Orbes Compi!
 [home/home_019] ¡Más intentos!
 [home/home_020] ¡Evento legendario!
 [home/home_021] ¡Pokéfestival!
@@ -18426,6 +19397,9 @@ bonificación!
 [home/login_bonus_013] ¡Hola de nuevo!
 ¡Esta será tu próxima
 bonificación!
+[home/login_bonus_014] La bonificación se
+enviará a la caja de
+regalos, no lo olvides.
 [home/app_review_001] Valoración
 [home/app_review_002] ¡Muchas gracias por jugar a
 [Name:TitleName ]!
@@ -18557,6 +19531,7 @@ home_fr.lsd
 [home/quest_list_title_004] Zones bonus
 [home/quest_list_title_006] Scénario principal (coop)
 [home/quest_list_title_007] Aventure
+[home/quest_list_title_008] Zone d'entraînement
 [home/quest_list_013] Exp.
 [home/quest_list_017] Jeu en coop
 [home/quest_list_018] Connexion
@@ -18646,6 +19621,10 @@ complètes avant de pouvoir continuer.
 [home/quest_list_092] Obtenez via les Boîtes Surprise :
 [Name:QuestTitle ]
 [home/quest_list_093] débloquée !
+[home/quest_list_094] Zone d'entraînement
+[home/quest_list_095] Duo-Sphères Reçues ↑
+[home/quest_list_096] N. [Digit:3digits ]
+[home/quest_list_097] Encore [Digit:2digits ] fois
 [home/quest_detail_003] Types conseillés
 [home/quest_detail_005] Infos
 [home/quest_detail_009] Équipes
@@ -18716,6 +19695,30 @@ pouvez plus progresser sur la carte.
 [home/quest_detail_075] Récomp. bonus
 [home/quest_detail_076] Le taux d'obtention des récompenses bonus est inférieur à 100 %. Il est donc possible de ne pas en obtenir.
 [home/quest_detail_077] Taux d'obtention des Œufs
+[home/quest_detail_078] Confirmation
+[home/quest_detail_079] Essais restants
+[home/quest_detail_080] Encore [Digit:3digits ] fois
+[home/quest_detail_081] Confirmation
+[home/quest_detail_082] Régénération de la Vigueur dans [Name:DateTime ]
+[home/quest_detail_083] Bons Saute-Combat
+[home/quest_detail_084] Ce bon vous permet de passer le combat et de
+vous rendre directement à l'écran des résultats.
+[home/quest_detail_085] Voulez-vous utiliser de la Vigueur et
+des bons pour terminer ce combat ?
+[home/quest_detail_086] Voulez-vous utiliser de la Vigueur pour
+participer à ce combat ?
+[home/quest_detail_087] Disponibles une fois que vous aurez réussi le
+combat sans qu'aucun de vos Duos ne soit mis K.O.
+[home/quest_detail_088] Vous n'avez pas assez de Vigueur
+pour ce combat.
+
+Voulez-vous régénérer votre Vigueur ?
+[home/quest_detail_089] N. conseillé
+[home/quest_detail_090] N. requis :
+[home/quest_detail_091] Un ou plusieurs Duos n'ont pas
+le niveau requis pour participer
+à ce combat.
+[home/quest_detail_093] Niveau requis
 [home/quest_detail_095] La Boîte à Œufs est pleine. 
 Vous ne pouvez pas déposer
 d'Œuf supplémentaire.
@@ -18725,6 +19728,7 @@ d'Œuf supplémentaire.
 [home/home_007] Pass expiré
 [home/home_016] Évènement légendaire !
 [home/home_017] Festival en cours !
+[home/home_018] Duo-Sphères Reçues ↑
 [home/home_019] Plus d'explorations !
 [home/home_020] Évènement légendaire !
 [home/home_021] Festival !
@@ -18774,6 +19778,9 @@ récompense !
 [home/login_bonus_013] Ravis de vous revoir !
 Voici votre prochain
 bonus de connexion !
+[home/login_bonus_014] Vos objets sont dans
+le menu « Cadeaux ».
+Ne les oubliez pas !
 [home/app_review_001] Avis
 [home/app_review_002] Merci d'avoir joué à
 [Name:TitleName ] !
@@ -18915,6 +19922,7 @@ home_it.lsd
 [home/quest_list_title_004] Aree extra
 [home/quest_list_title_006] Storia multigiocatore
 [home/quest_list_title_007] Avventura
+[home/quest_list_title_008] Aree allenamento
 [home/quest_list_013] ESP.
 [home/quest_list_017] Gioca in compagnia
 [home/quest_list_018] Giocatori a caso
@@ -19002,6 +20010,10 @@ tre le squadre per affrontare la sfida.
 [home/quest_list_091] Vai alla Scrignocerca
 [home/quest_list_092] Ottieni "[Name:QuestTitle ]" dalla Scrignocerca!
 [home/quest_list_093] sbloccata!
+[home/quest_list_094] Aree allenamento
+[home/quest_list_095] Aumento Uniciondoli
+[home/quest_list_096] L. [Digit:3digits ]
+[home/quest_list_097] Completamenti residui: [Digit:2digits ]
 [home/quest_detail_003] Tipi consigliati
 [home/quest_detail_005] Info area
 [home/quest_detail_009] Scegli squadra
@@ -19073,6 +20085,28 @@ possibile proseguire sulla mappa.
 [home/quest_detail_075] Ricompensa lotta
 [home/quest_detail_076] L'ottenimento degli strumenti della ricompensa lotta si basa su probabilità variabili. È quindi possibile anche non ricevere alcuno strumento fra quelli mostrati.
 [home/quest_detail_077] Probabilità di ottenere un Uovo
+[home/quest_detail_078] Conferma
+[home/quest_detail_079] Completamenti residui
+[home/quest_detail_080] [Digit:3digits ]
+[home/quest_detail_081] Conferma partenza
+[home/quest_detail_082] Vitalità al massimo tra: [Name:DateTime ]
+[home/quest_detail_083] Biglietti Saltalotta
+[home/quest_detail_084] Permettono di saltare la lotta e visualizzare
+direttamente la schermata dei risultati.
+[home/quest_detail_085] Vuoi partire usando la Vitalità e i Biglietti
+Saltalotta indicati?
+[home/quest_detail_086] Vuoi partire usando la Vitalità indicata?
+[home/quest_detail_087] Completa la Guida area senza che nessuna
+delle tue Unità vada KO per sbloccare la funzione.
+[home/quest_detail_088] Non puoi partire perché non hai
+abbastanza Vitalità.
+Vuoi recuperare Vitalità?
+[home/quest_detail_089] L. consigliato
+[home/quest_detail_090] L. necessario
+[home/quest_detail_091] Non puoi partire perché una o più
+Unità non hanno raggiunto il livello
+necessario.
+[home/quest_detail_093] Livello necessario
 [home/quest_detail_095] Non puoi ricevere altre Uova perché il tuo Box
 Uova è pieno.
 [home/home_001] Negozio
@@ -19081,6 +20115,7 @@ Uova è pieno.
 [home/home_007] Tempo scaduto
 [home/home_016] Evento leggendario in corso!
 [home/home_017] Masterparty!
+[home/home_018] Aumento Uniciondoli
 [home/home_019] Più tentativi disponibili
 [home/home_020] Evento leggendario in corso
 [home/home_021] Masterparty
@@ -19131,6 +20166,9 @@ la prossima volta!
 [home/login_bonus_013] Ci fa piacere rivederti!
 Ecco cosa otterrai
 la prossima volta!
+[home/login_bonus_014] Il bonus apparirà
+nel menu Regali.
+Ricordati di ritirarlo!
 [home/app_review_001] Lascia una recensione
 [home/app_review_002] Grazie per aver giocato
 a [Name:TitleName ]!
@@ -19272,6 +20310,7 @@ home_ja.lsd
 [home/quest_list_title_004] エクストラエリア
 [home/quest_list_title_006] メインストーリー（マルチ）
 [home/quest_list_title_007] ぼうけん
+[home/quest_list_title_008] トレーニングエリア
 [home/quest_list_013] EXP
 [home/quest_list_017] みんなで遊ぶ
 [home/quest_list_018] おまかせ
@@ -19361,6 +20400,10 @@ Lv.[Digit:2digits ]で解放
 「[Name:QuestTitle ]」
 を入手しよう！
 [home/quest_list_093] 解放！
+[home/quest_list_094] トレーニングエリア
+[home/quest_list_095] バディドロップアップ
+[home/quest_list_096] Lv.[Digit:3digits ]
+[home/quest_list_097] あと[Digit:2digits ]回
 [home/quest_detail_003] おすすめのタイプ
 [home/quest_detail_005] エリア詳細
 [home/quest_detail_009] チーム選択
@@ -19430,6 +20473,26 @@ Lv.[Digit:2digits ]で解放
 [home/quest_detail_076] ※ドロップ報酬は確率によって決まるため、
 どうぐがドロップしない場合があります
 [home/quest_detail_077] タマゴの入手率
+[home/quest_detail_078] 出発確認
+[home/quest_detail_079] のこり回数
+[home/quest_detail_080] あと[Digit:3digits ]回
+[home/quest_detail_081] 出発確認
+[home/quest_detail_082] 全回復まで [Name:DateTime ]
+[home/quest_detail_083] スキップチケット
+[home/quest_detail_084] チケットを使うと結果画面までスキップできます
+[home/quest_detail_085] スタミナとチケットを使って
+出発しますか？
+[home/quest_detail_086] スタミナを使って出発しますか？
+[home/quest_detail_087] ※バディーズが1組もひんしにならずにクリアで解放
+[home/quest_detail_088] スタミナが足りないため
+出発できません
+
+スタミナを回復しますか？
+[home/quest_detail_089] 推奨Lv.
+[home/quest_detail_090] 必要Lv.
+[home/quest_detail_091] 必要レベルを満たしていない
+バディーズがいるため出発できません
+[home/quest_detail_093] 必要レベル
 [home/quest_detail_095] ※タマゴボックスがいっぱいのため
 これ以上タマゴを預かることができません
 [home/home_001] ショップ
@@ -19438,6 +20501,7 @@ Lv.[Digit:2digits ]で解放
 [home/home_007] 期限切れ
 [home/home_016] 伝説ポケモンイベント開催中！
 [home/home_017] フェス開催中!
+[home/home_018] バディドロップアップ
 [home/home_019] 挑戦回数アップ中
 [home/home_020] 伝説ポケモンイベント開催中
 [home/home_021] フェス開催中
@@ -19486,6 +20550,9 @@ Lv.[Digit:2digits ]で解放
 [home/login_bonus_013] おかえりなさい！
 次回はこちらが
 もらえますよ！
+[home/login_bonus_014] プレゼントボックスに
+送っておきますね！
+忘れずに　受け取ってください！
 [home/app_review_001] レビュー
 [home/app_review_002] [Name:TitleName ]をプレイいただき
 ありがとうございます
@@ -19621,6 +20688,7 @@ home_ko.lsd
 [home/quest_list_title_004] 엑스트라 에리어
 [home/quest_list_title_006] 메인 스토리(멀티)
 [home/quest_list_title_007] 모험
+[home/quest_list_title_008] 트레이닝 에리어
 [home/quest_list_013] EXP
 [home/quest_list_017] 함께 즐긴다
 [home/quest_list_018] 자동
@@ -19710,6 +20778,10 @@ Lv.[Digit:2digits ]에서 해방
 "[Name:QuestTitle ]"[Kor:Particle char="wo" ]
 획득하자!
 [home/quest_list_093] 해방!
+[home/quest_list_094] 트레이닝 에리어
+[home/quest_list_095] 버디드롭 업
+[home/quest_list_096] Lv.[Digit:3digits ]
+[home/quest_list_097] 앞으로 [Digit:2digits ]회
 [home/quest_detail_003] 추천타입
 [home/quest_detail_005] 에리어 상세
 [home/quest_detail_009] 팀 선택
@@ -19778,6 +20850,25 @@ Lv.[Digit:2digits ]에서 해방
 [home/quest_detail_076] ※드롭 보상은 확률에 따라 정해지므로
 도구를 얻지 못할 수 있습니다
 [home/quest_detail_077] 알 입수 확률
+[home/quest_detail_078] 출발확인
+[home/quest_detail_079] 남은 횟수
+[home/quest_detail_080] 앞으로 [Digit:3digits ]회
+[home/quest_detail_081] 출발확인
+[home/quest_detail_082] 모두 회복까지 [Name:DateTime ]
+[home/quest_detail_083] 스킵 티켓
+[home/quest_detail_084] 티켓을 사용하면 결과 화면까지 건너뛸 수 있습니다
+[home/quest_detail_085] 스태미나와 티켓을
+사용하여 출발하겠습니까?
+[home/quest_detail_086] 스태미나를 사용하여 출발하겠습니까?
+[home/quest_detail_087] ※버디즈가 하나도 기절하지 않고 클리어하면 해방
+[home/quest_detail_088] 스태미나가 부족하기 때문에
+출발할 수 없습니다
+스태미나를 회복하겠습니까?
+[home/quest_detail_089] 권장 Lv.
+[home/quest_detail_090] 필요 Lv.
+[home/quest_detail_091] 필요 레벨에 도달하지 못한
+버디즈가 있기 때문에 출발할 수 없습니다
+[home/quest_detail_093] 필요 레벨
 [home/quest_detail_095] ※알박스가 가득 차 있기 때문에
 이 이상 알을 받을 수 없습니다
 [home/home_001] 숍
@@ -19786,6 +20877,7 @@ Lv.[Digit:2digits ]에서 해방
 [home/home_007] 기한종료
 [home/home_016] 전설 포켓몬 이벤트 개최 중!
 [home/home_017] 페스티벌 개최 중!
+[home/home_018] 버디드롭 업
 [home/home_019] 도전 횟수 증가 중
 [home/home_020] 전설 포켓몬 이벤트 개최 중
 [home/home_021] 페스티벌 개최 중
@@ -19833,6 +20925,9 @@ Lv.[Digit:2digits ]에서 해방
 [home/login_bonus_013] 어서 오세요!
 다음엔 이것을
 받을 수 있습니다!
+[home/login_bonus_014] 프레젠트박스에
+보내두겠습니다!
+잊지 말고 받아주세요!
 [home/app_review_001] 리뷰
 [home/app_review_002] [Name:TitleName ][Kor:Particle char="wo" ] 플레이해주셔서
 감사합니다
@@ -19970,6 +21065,7 @@ home_zh-TW.lsd
 [home/quest_list_title_004] 其他區域
 [home/quest_list_title_006] 主線劇情（多隊模式）
 [home/quest_list_title_007] 冒險
+[home/quest_list_title_008] 訓練區域
 [home/quest_list_013] EXP
 [home/quest_list_017] 多隊模式
 [home/quest_list_018] 隨機配對
@@ -20055,6 +21151,10 @@ home_zh-TW.lsd
 [home/quest_list_092] 從開箱搜尋來獲得
 「[Name:QuestTitle ]」吧！
 [home/quest_list_093] 開放！
+[home/quest_list_094] 訓練區域
+[home/quest_list_095] 拍檔滴晶增加
+[home/quest_list_096] Lv.[Digit:3digits ]
+[home/quest_list_097] 還剩[Digit:2digits ]次
 [home/quest_detail_003] 推薦屬性
 [home/quest_detail_005] 區域詳情
 [home/quest_detail_009] 選擇隊伍
@@ -20120,6 +21220,24 @@ home_zh-TW.lsd
 [home/quest_detail_075] 掉落報酬
 [home/quest_detail_076] ※掉落報酬依機率而定，因此有時可能會沒有道具掉落。
 [home/quest_detail_077] 獲得蛋的機率
+[home/quest_detail_078] 確認
+[home/quest_detail_079] 剩餘次數
+[home/quest_detail_080] 還剩[Digit:3digits ]次
+[home/quest_detail_081] 確認
+[home/quest_detail_082] 離完全回復[Name:DateTime ]
+[home/quest_detail_083] 跳過券
+[home/quest_detail_084] 使用跳過券即可跳至結果畫面
+[home/quest_detail_085] 要使用活力和跳過券來出發嗎？
+[home/quest_detail_086] 要使用活力來出發嗎？
+[home/quest_detail_087] ※成功過關且無任何拍組變為瀕死狀態即可開放
+[home/quest_detail_088] 活力不足
+無法出發
+要回復活力嗎？
+[home/quest_detail_089] 建議Lv.
+[home/quest_detail_090] 所需Lv.
+[home/quest_detail_091] 有未達等級需求的拍組
+無法出發
+[home/quest_detail_093] 等級需求
 [home/quest_detail_095] ※蛋盒已滿
 無法寄放更多蛋
 [home/home_001] 商店
@@ -20128,6 +21246,7 @@ home_zh-TW.lsd
 [home/home_007] 已過期
 [home/home_016] 傳說的寶可夢活動現正舉辦中！
 [home/home_017] 盛典舉辦中
+[home/home_018] 拍檔滴晶增加
 [home/home_019] 挑戰次數增加中
 [home/home_020] 傳說的寶可夢活動現正舉辦中！
 [home/home_021] 盛典舉辦中
@@ -20172,6 +21291,8 @@ home_zh-TW.lsd
 [home/login_bonus_012] 回歸活動登入獎勵
 [home/login_bonus_013] 歡迎回來！
 下次可以獲得這個喔！
+[home/login_bonus_014] 道具會送到禮物箱！
+請不要忘記領取！
 [home/app_review_001] 評論
 [home/app_review_002] 非常感謝您對
 [Name:TitleName ]的支持！
@@ -20291,6 +21412,11 @@ shop_de.lsd
 [shop/shop_top_008] Ausrüstungstausch
 [shop/shop_top_010] Eier-Forschungsitem
 [shop/shop_top_011] Zeitl. begr. G-Suche im Gang
+[shop/shop_top_012] Erhalte Gefährten durch Einsatz von Juwelen etc.
+[shop/shop_top_013] Kaufe Juwelen und Angebotssets.
+[shop/shop_top_014] Tausche Items und Münzen ein.
+[shop/shop_top_015] Tausche Juwelen gegen Items für die Eier-Forschung ein.
+[shop/shop_top_016] Tausche Ausrüstung gegen Münzen.
 [shop/shop_common_001] Handelstransaktionen
 [shop/shop_common_002] Zahlungsgesetze
 [shop/shop_common_003] Kauflimit
@@ -20317,6 +21443,9 @@ es anschließend erneut.
 [shop/shop_common_017] Hinweis
 [shop/shop_common_018] OK
 [shop/shop_common_019] Im Besitz
+[shop/shop_common_020] Der Kauf wurde abgeschlossen.
+Du kehrst nun zum Titelbildschirm
+zurück.
 [shop/shop_medal_001] Juwelen-Kauf
 [shop/shop_medal_002] Sonderrabatt
 [shop/shop_medal_003] Schließen
@@ -20365,6 +21494,23 @@ eines Erziehungsberechtigten.
 Hast du die Zustimmung eingeholt?
 [shop/shop_medal_026] Ausgabenwarnung
 [shop/shop_medal_027] Gekauft
+[shop/shop_medal_029] Juwelensets
+[shop/shop_medal_030] Gekauft
+(Abgeholte Boni: [Digit:3digits ]/[Digit:3digits Idx="1" ])
+[shop/shop_medal_031] Bonus
+[shop/shop_medal_032] Nach dem Kauf abholbar
+[shop/shop_medal_033] Per Login-Bonus abholbar (max. [Digit:2digits ] Mal)
+[shop/shop_medal_034] Juwelen
+[shop/shop_medal_035] Du hast die Ware gekauft und kehrst
+ins Pokémon-Center zurück.
+[shop/shop_medal_036] Kostenlose Juwelen
+([Digit:2digits ] Login(s))
+[shop/shop_medal_037] Gekaufte Juwelen
+[shop/shop_medal_038] [Name:Item ]
+([Digit:2digits ] Login(s))
+[shop/shop_medal_039] Gefährtendrops-Bonus↑
+(Zeitraum: 20 Tage)
+[shop/shop_medal_040] Gesamt
 [shop/shop_itemexchange_001] Item-Tausch
 [shop/shop_itemexchange_003] Tauschen
 [shop/shop_itemexchange_004] Tauschen
@@ -20591,8 +21737,8 @@ kann. Im Fokus stehen Gefährten mit einer
 Gefährten-Attacke desselben Typs. Bei Gefährten mit
 dem Typ bzw. den Typen im Fokus ist die Erscheinungsrate
 höher als bei anderen Gefährten mit derselben ★-Anzahl.
-[shop/scout_077] Erhalte nach einer Gefährtensuche × 10
-zusätzlich ein 5★-Gefährtengespann!
+[shop/scout_077] Suche dir zusätzlich ein
+5★-Gefährtengespann aus!
 [shop/scout_078] Spezielle G-Suche × 10
 [shop/scout_079] Hinweis: Dadurch werden gekaufte Juwelen verbraucht.
 Selbst wenn du Gefährten schon hast und sich bei ihnen
@@ -20701,6 +21847,11 @@ shop_en.lsd
 [shop/shop_top_008] Exchange Gear
 [shop/shop_top_010] Egg Research Items
 [shop/shop_top_011] Limited-Time Scout
+[shop/shop_top_012] Team up with sync pairs using gems, etc.
+[shop/shop_top_013] Purchase gems and special bundles
+[shop/shop_top_014] Exchange coins and items for other items
+[shop/shop_top_015] Exchange gems for Egg-hatching items
+[shop/shop_top_016] Exchange unwanted gear for coins
 [shop/shop_common_001] Commercial Transactions
 [shop/shop_common_002] Payment Laws
 [shop/shop_common_003] Purchase Limits
@@ -20724,6 +21875,10 @@ failed. Please try again later.
 [shop/shop_common_017] Warning
 [shop/shop_common_018] OK
 [shop/shop_common_019] Stock
+[shop/shop_common_020] Your purchase was completed
+successfully.
+
+Returning to title screen.
 [shop/shop_medal_001] Purchase Gems
 [shop/shop_medal_002] Special Discount
 [shop/shop_medal_003] Close
@@ -20765,6 +21920,24 @@ gems. Do you have the permission of
 your parent or guardian?
 [shop/shop_medal_026] Spending Notifications
 [shop/shop_medal_027] Purchased
+[shop/shop_medal_029] Gem Bundles
+[shop/shop_medal_030] Bundle Purchased
+(Bonuses claimed: [Digit:3digits ]/[Digit:3digits Idx="1" ])
+[shop/shop_medal_031] Extra Bonus
+[shop/shop_medal_032] Available upon Purchase
+[shop/shop_medal_033] Available via Log-In Bonus ([Digit:2digits ] total)
+[shop/shop_medal_034] Gems
+[shop/shop_medal_035] You purchased a product.
+
+Returning to Pokémon Center.
+[shop/shop_medal_036] Non-paid Gems
+([Digit:2digits ] log-in)
+[shop/shop_medal_037] Paid Gems
+[shop/shop_medal_038] [Name:Item ]
+([Digit:2digits ] log-in)
+[shop/shop_medal_039] Sync Orb Reward Boost
+(20 days)
+[shop/shop_medal_040] Total
 [shop/shop_itemexchange_001] Exchange Items
 [shop/shop_itemexchange_003] Exchanged
 [shop/shop_itemexchange_004] Exchange
@@ -20979,12 +22152,12 @@ now have Lv. [Digit:1digit ] moves!
 [shop/catalogue_002] Paid Gems
 [shop/catalogue_003] Purchased
 [shop/catalogue_004] Do you want to use [Digit:5digits ] paid gems
-to make the following purchase?
-[shop/catalogue_005] You purchased a product.
+to receive the following items?
+[shop/catalogue_005] You received an item.
 [shop/catalogue_006] Time Remaining:
-[shop/catalogue_007] Purchase Complete
+[shop/catalogue_007] Exchange Complete
 [shop/catalogue_008] You don’t have enough gems to
-complete this purchase.
+complete this action.
 Would you like to go to the
 gem purchase screen?
 
@@ -20998,8 +22171,12 @@ shop_es.lsd
 [shop/shop_top_006] Finalizar compra
 [shop/shop_top_008] Canjear accesorios
 [shop/shop_top_010] Objetos de investigación
-de Huevo
 [shop/shop_top_011] Reclutamiento limitado
+[shop/shop_top_012] Usa joyas para obtener compis.
+[shop/shop_top_013] Consigue joyas o lotes especiales.
+[shop/shop_top_014] Cambia objetos y monedas por otros objetos.
+[shop/shop_top_015] Canjea joyas por objetos de investigación de Huevos.
+[shop/shop_top_016] Vende accesorios y obtén monedas a cambio.
 [shop/shop_common_001] Transacciones comerciales específicas
 [shop/shop_common_002] Legislación relativa a los pagos
 [shop/shop_common_003] Límite de compra
@@ -21022,6 +22199,10 @@ nuevo.
 [shop/shop_common_017] Atención
 [shop/shop_common_018] Vale
 [shop/shop_common_019] Tienes:
+[shop/shop_common_020] La compra se ha finalizado con éxito.
+Hay que actualizar la información, así
+que se te devolverá a la pantalla de
+título.
 [shop/shop_medal_001] Comprar joyas
 [shop/shop_medal_002] Oferta especial
 [shop/shop_medal_003] Cerrar
@@ -21062,6 +22243,23 @@ tutor legal.
 padre o tutor legal?
 [shop/shop_medal_026] Sobre la alerta límite de compra
 [shop/shop_medal_027] Comprado
+[shop/shop_medal_029] Lotes de joyas
+[shop/shop_medal_030] Compra finalizada
+Bonificaciones aceptadas: [Digit:3digits ]/[Digit:3digits Idx="1" ]
+[shop/shop_medal_031] Regalo
+[shop/shop_medal_032] Disponible al realizar la compra
+[shop/shop_medal_033] Disponible vía bonificación de inicio ([Digit:2digits ] ve[ES:Qty S="z" P="ces" ])
+[shop/shop_medal_034] Joyas
+[shop/shop_medal_035] Has realizado la compra. Ahora
+regresarás al Centro Pokémon.
+[shop/shop_medal_036] Joyas sin coste
+([Digit:2digits ] inicio[ES:Qty P="s" ])
+[shop/shop_medal_037] Joyas de pago
+[shop/shop_medal_038] [Name:Item ]
+([Digit:2digits ] inicio[ES:Qty P="s" ])
+[shop/shop_medal_039] Multiplicador de Orbes Compi
+(válido durante 20 días)
+[shop/shop_medal_040] Total
 [shop/shop_itemexchange_001] Canjear objetos
 [shop/shop_itemexchange_003] Canjear
 [shop/shop_itemexchange_004] Canjear
@@ -21197,7 +22395,8 @@ Las tasas de aparición de cada pareja de compis se aplican cada vez que se efec
 Es posible obtener una pareja de compis repetida en un reclutamiento. Aunque el Pokémon de la pareja de compis ya obtenida haya evolucionado, en la pantalla de reclutamiento aparecerá siempre la primera fase evolutiva.
 Los Pokémon de las parejas de compis marcadas con un asterisco (*) en la pantalla de las tasas de aparición podrán evolucionar tras completar el episodio de evolución correspondiente.
 Las tasas de aparición de las parejas de compis con los tipos destacados serán mayores que las de otras con el mismo número de ★. Las parejas de compis incluidas en la promoción de destacados serán aquellas que tengan un movimiento compi del tipo destacado.
-[shop/scout_077] ¡Elige una pareja de compis de 5★!
+[shop/scout_077] ¡Elige además una pareja de compis
+de 5★!
 [shop/scout_078] Recl. ×10 especial
 [shop/scout_079] Nota: Se usarán joyas de pago. Aunque el Pokémon de una pareja de compis haya evolucionado, si reclutas una pareja de compis idéntica, el Pokémon aparecerá siempre en su primera fase evolutiva.
 Podrás obtener una pareja de compis a tu elección tras realizar el reclutamiento de compis. Si se produce un error durante el proceso, dispondrás de una semana desde que se realizó el reclutamiento en cuestión para elegir la pareja de compis que tú quieras. No podrás obtener la pareja pasado este tiempo.
@@ -21248,7 +22447,7 @@ ha alcanzado el nivel [Digit:1digit ].
 [shop/deck_item_sale_014] ¡El canje se ha completado con éxito!
 [shop/deck_item_sale_015] Vale
 [shop/deck_item_sale_016] No tienes accesorios que puedas canjear.
-[shop/catalogue_001] Objetos de investigación de Huevo
+[shop/catalogue_001] Objetos de investigación
 [shop/catalogue_002] Joyas de pago
 [shop/catalogue_003] Comprado
 [shop/catalogue_004] ¿Quieres gastar [Digit:5digits ] joya[ES:Qty P="s" ] de pago
@@ -21272,6 +22471,11 @@ shop_fr.lsd
 [shop/shop_top_008] Échange équipement
 [shop/shop_top_010] Objets d'Études
 [shop/shop_top_011] Appel Duo limité en cours !
+[shop/shop_top_012] Vous pouvez obtenir des Duos en utilisant des Diamants, etc.
+[shop/shop_top_013] Vous pouvez acheter des Diamants et des packs spéciaux
+[shop/shop_top_014] Vous pouvez effectuer des échanges en utilisant vos Pièces et vos objets.
+[shop/shop_top_015] Vous pouvez récupérer des objets utiles pour l'éclosion des Œufs
+[shop/shop_top_016] Vous pouvez échanger votre équipement contre des Pièces.
 [shop/shop_common_001] Transactions commerciales spécifiées
 [shop/shop_common_002] Lois relatives aux paiements
 [shop/shop_common_003] Limite d'achat
@@ -21292,6 +22496,9 @@ Veuillez réessayer plus tard.
 [shop/shop_common_017] Attention
 [shop/shop_common_018] OK
 [shop/shop_common_019] Sac
+[shop/shop_common_020] L'achat a bien été finalisé.
+Vous allez retourner à l'écran titre afin
+que les données soient actualisées.
 [shop/shop_medal_001] Achat de Diamants
 [shop/shop_medal_002] Promotion
 [shop/shop_medal_003] Fermer
@@ -21333,6 +22540,24 @@ Avez-vous reçu l'autorisation de votre
 parent ou tuteur légal ?
 [shop/shop_medal_026] Alertes d'achat
 [shop/shop_medal_027] Acheté(s)
+[shop/shop_medal_029] Pack de Diamants
+[shop/shop_medal_030] Achat effectué.
+(Nombre de bonus reçus : [Digit:3digits ]/[Digit:3digits Idx="1" ])
+[shop/shop_medal_031] Cadeau bonus
+[shop/shop_medal_032] Reçu à l'achat
+[shop/shop_medal_033] Reçu comme bonus de connexion ([Digit:2digits ] fois)
+[shop/shop_medal_034] Diamants
+[shop/shop_medal_035] Vous avez acheté un produit.
+
+Retour au Centre Pokémon.
+[shop/shop_medal_036] Diamants non payants
+(après [Digit:2digits ] connexion[FR:Qty P="s" ])
+[shop/shop_medal_037] Diamants payants
+[shop/shop_medal_038] [Name:Item ]
+(après [Digit:2digits ] connexion[FR:Qty P="s" ])
+[shop/shop_medal_039] Duo-Sphères Reçues ↑
+(20 jours)
+[shop/shop_medal_040] Total
 [shop/shop_itemexchange_001] Échange d'objets
 [shop/shop_itemexchange_003] Échange
 [shop/shop_itemexchange_004] Échanger
@@ -21456,8 +22681,8 @@ montée au niveau [Digit:1digit ].
 [shop/scout_073] Remarque : les Diamants non payants seront utilisés en premier. Si vous appelez un Duo que vous avez déjà et dont vous avez fait évoluer le Pokémon, le Pokémon avant évolution apparaîtra dans le Duo affiché dans les résultats.
 [shop/scout_074] Liste des bonus
 [shop/scout_075] Remarque : les pourcentages de chance par nombre d'★ affichés étant arrondis après la quatrième décimale, il peut arriver que leur somme totale ne soit pas égale à 100 %. Les pourcentages réels ne sont ni arrondis au supérieur ni à l'inférieur. Les pourcentages s'appliquent à chaque Appel Duo indépendamment. Même si vous passez un certain nombre d'Appels Duo, il est possible qu'un certain Duo n'apparaisse pas du tout. Il est possible qu'un même Duo apparaisse plusieurs fois. Si vous appelez un Duo que vous avez déjà et dont vous avez fait évoluer le Pokémon, le Pokémon avant évolution apparaîtra dans le Duo affiché dans les résultats. Lorsqu'un astérisque (*) est affiché après le nom d'un Pokémon sur l'écran des pourcentages, le Duo peut faire évoluer le Pokémon grâce à un épisode d'évolution. À nombre d'★ égal, les Duos dont le type est à l'affiche en ce moment auront plus de chances d'être appelés que les autres Duos. Un type est à l'affiche quand des Duos possédant des capacités de ce type sont à l'affiche.
-[shop/scout_077] Effectuez 10 Appels Duo d'un coup et
-choisissez un des Duos 5★ proposés !
+[shop/scout_077] Choisissez en plus un des Duos 5★
+proposés !
 [shop/scout_078] 10 Appels Duo (spécial)
 [shop/scout_079] Remarque : vos Diamants payants seront utilisés. Si vous appelez un Duo que vous avez déjà, le Pokémon avant évolution apparaîtra, même si vous avez déjà fait évoluer le Pokémon du Duo.
 Vous pourrez obtenir un Duo supplémentaire de votre choix après avoir passé l'Appel Duo. Si une erreur de communication devait se produire pendant l'opération et que vous devez en choisir un à nouveau, assurez-vous de récupérer votre Duo supplémentaire au plus tard une semaine après la fin de cet Appel Duo spécial. Après cette période, vous ne pourrez plus obtenir le Duo.
@@ -21527,6 +22752,11 @@ shop_it.lsd
 [shop/shop_top_008] Scambio accessori
 [shop/shop_top_010] Strumenti ricerca Uova
 [shop/shop_top_011] Unicerca limitata attiva
+[shop/shop_top_012] Puoi ottenere Unità con gemme e in altri modi.
+[shop/shop_top_013] Puoi comprare gemme e pacchetti vantaggiosi.
+[shop/shop_top_014] Puoi scambiare strumenti o monete con altri strumenti.
+[shop/shop_top_015] Puoi ottenere strumenti per la ricerca sulle Uova.
+[shop/shop_top_016] Puoi scambiare gli accessori con monete.
 [shop/shop_common_001] Transazioni commerciali
 [shop/shop_common_002] Leggi relative ai pagamenti
 [shop/shop_common_003] Limiti di acquisto
@@ -21550,6 +22780,9 @@ Riprova più tardi.
 [shop/shop_common_017] Attenzione
 [shop/shop_common_018] Ok
 [shop/shop_common_019] Ne hai
+[shop/shop_common_020] L'acquisto è stato completato
+con successo. Ritorno alla schermata
+del titolo per aggiornare i dati.
 [shop/shop_medal_001] Acquisto gemme
 [shop/shop_medal_002] Offerta speciale
 [shop/shop_medal_003] Chiudi
@@ -21593,6 +22826,23 @@ Hai ottenuto l'autorizzazione
 di un genitore o di chi ne fa le veci?
 [shop/shop_medal_026] Notifiche spese
 [shop/shop_medal_027] Acquistati
+[shop/shop_medal_029] Pacchetti gemme
+[shop/shop_medal_030] Acquistato
+Bonus ricevuto [Digit:3digits ]/[Digit:3digits Idx="1" ] volt[IT:Qty S="a" P="e" ]
+[shop/shop_medal_031] Omaggio
+[shop/shop_medal_032] Ricevuti al momento dell'acquisto
+[shop/shop_medal_033] Ricevuti dal bonus accesso ([Digit:2digits ] volt[IT:Qty S="a" P="e" ] in tutto)
+[shop/shop_medal_034] Gemme
+[shop/shop_medal_035] Hai comprato un prodotto.
+Ritorno al Centro Pokémon.
+[shop/shop_medal_036] Gemme senza costo
+(per [Digit:2digits ] access[IT:Qty S="o" P="i" ])
+[shop/shop_medal_037] Gemme a pagamento
+[shop/shop_medal_038] [Name:Item ]
+(per [Digit:2digits ] access[IT:Qty S="o" P="i" ])
+[shop/shop_medal_039] Più Uniciondoli
+(20 giorni)
+[shop/shop_medal_040] Totale
 [shop/shop_itemexchange_001] Scambio strumenti
 [shop/shop_itemexchange_003] Scambiati
 [shop/shop_itemexchange_004] Scambia
@@ -21772,8 +23022,7 @@ I Pokémon con un asterisco dopo il nome, visualizzato nel tasso di comparsa del
 Questa ricerca Unità comprende Unità la cui Unimossa appartiene a determinati tipi.
 
 Le Unità dei tipi VIP hanno un tasso di comparsa più elevato delle altre Unità con lo stesso numero di ★.
-[shop/scout_077] Se effettui una Ricerca Unità ×10,
-potrai scegliere un'Unità 5★!
+[shop/scout_077] Puoi anche scegliere un'Unità 5★!
 [shop/scout_078] Ricerca Unità speciale x10
 [shop/scout_079] Verranno usate le gemme a pagamento.
 Nella ricerca Unità, le Unità sono mostrate con Pokémon
@@ -21857,6 +23106,11 @@ shop_ja.lsd
 [shop/shop_top_008] 装備売却
 [shop/shop_top_010] タマゴ研究応援どうぐ
 [shop/shop_top_011] 時間限定Bサーチ出現中
+[shop/shop_top_012] ダイヤ等を使ってバディーズを獲得できます
+[shop/shop_top_013] ダイヤやおとくなパックを購入できます
+[shop/shop_top_014] どうぐやコインを他のどうぐと交換できます
+[shop/shop_top_015] タマゴ研究に役立つどうぐを購入できます
+[shop/shop_top_016] 装備を売却してコインと交換できます
 [shop/shop_common_001] 特定商取引に基づく表示
 [shop/shop_common_002] 資金決済法に基づく表示
 [shop/shop_common_003] 課金上限／残高について
@@ -21882,6 +23136,8 @@ shop_ja.lsd
 [shop/shop_common_017] 注意
 [shop/shop_common_018] OK
 [shop/shop_common_019] 所持
+[shop/shop_common_020] 購入処理が正常に完了しました
+データ反映のため、タイトルに戻ります
 [shop/shop_medal_001] ダイヤ購入
 [shop/shop_medal_002] 特別ディスカウント
 [shop/shop_medal_003] とじる
@@ -21930,6 +23186,24 @@ ONにしてください
 保護者の同意を受けましたか？
 [shop/shop_medal_026] 使いすぎ通知について
 [shop/shop_medal_027] 購入
+[shop/shop_medal_029] ダイヤパック
+[shop/shop_medal_030] 購入済み
+受取回数　[Digit:3digits ]/[Digit:3digits Idx="1" ]
+[shop/shop_medal_031] おまけ
+[shop/shop_medal_032] 購入時受取
+[shop/shop_medal_033] ログインボーナス（全[Digit:2digits ]回）で受取
+[shop/shop_medal_034] ダイヤ
+[shop/shop_medal_035] 商品を購入しました
+
+ポケモンセンターに戻ります
+[shop/shop_medal_036] 無償ダイヤ
+（[Digit:2digits ]回分）
+[shop/shop_medal_037] 有償ダイヤ
+[shop/shop_medal_038] [Name:Item ]
+（[Digit:2digits ]回分）
+[shop/shop_medal_039] バディドロップ報酬アップ
+（20日間）
+[shop/shop_medal_040] 合計
 [shop/shop_itemexchange_001] どうぐ交換
 [shop/shop_itemexchange_003] 交換
 [shop/shop_itemexchange_004] 交換
@@ -22186,6 +23460,11 @@ shop_ko.lsd
 [shop/shop_top_008] 장비 판매
 [shop/shop_top_010] 알 연구 응원 도구
 [shop/shop_top_011] 시간 한정 B서치 출현 중
+[shop/shop_top_012] 다이아 등을 사용해서 버디즈를 획득할 수 있습니다
+[shop/shop_top_013] 다이아나 다이아 팩을 구입할 수 있습니다
+[shop/shop_top_014] 도구나 코인을 다른 도구와 교환할 수 있습니다
+[shop/shop_top_015] 알 연구에 도움이 되는 도구를 구입할 수 있습니다
+[shop/shop_top_016] 장비를 판매하여 코인과 교환할 수 있습니다
 [shop/shop_common_001] 일본 특정상거래법에 의거하는 표기
 [shop/shop_common_002] 일본 자금결제법에 의거하는 표기
 [shop/shop_common_003] 과금상한 및 잔액에 대하여
@@ -22211,6 +23490,8 @@ shop_ko.lsd
 [shop/shop_common_017] 주의
 [shop/shop_common_018] OK
 [shop/shop_common_019] 보유
+[shop/shop_common_020] 구입처리를 정상적으로 완료하였습니다
+데이터 반영을 위해 타이틀로 돌아갑니다
 [shop/shop_medal_001] 다이아 구입
 [shop/shop_medal_002] 특별 할인
 [shop/shop_medal_003] 닫는다
@@ -22256,6 +23537,23 @@ ON으로 바꿔주십시오
 보호자의 동의를 얻으셨습니까?
 [shop/shop_medal_026] 구입량 알림 설정에 대하여
 [shop/shop_medal_027] 구입
+[shop/shop_medal_029] 다이아 팩
+[shop/shop_medal_030] 구입 완료
+받은 횟수 [Digit:3digits ]/[Digit:3digits Idx="1" ]
+[shop/shop_medal_031] 추가 증정
+[shop/shop_medal_032] 구입 시 받기
+[shop/shop_medal_033] 로그인 보너스(모두 [Digit:2digits ]회)에서 받기
+[shop/shop_medal_034] 다이아
+[shop/shop_medal_035] 상품을 구입하였습니다
+포켓몬센터로 돌아갑니다
+[shop/shop_medal_036] 무료 다이아
+([Digit:2digits ]회 분량)
+[shop/shop_medal_037] 유료 다이아
+[shop/shop_medal_038] [Name:Item ]
+([Digit:2digits ]회 분량)
+[shop/shop_medal_039] 버디드롭 보상 업
+(20일간)
+[shop/shop_medal_040] 합계
 [shop/shop_itemexchange_001] 도구 교환
 [shop/shop_itemexchange_003] 교환
 [shop/shop_itemexchange_004] 교환
@@ -22529,6 +23827,11 @@ shop_zh-TW.lsd
 [shop/shop_top_008] 出售裝備
 [shop/shop_top_010] 蛋研究聲援道具
 [shop/shop_top_011] 限時拍組搜尋現正出現
+[shop/shop_top_012] 使用鑽石等道具可獲得拍組
+[shop/shop_top_013] 可購買鑽石和超值組合包
+[shop/shop_top_014] 可用道具和金幣來交換成其他的道具
+[shop/shop_top_015] 可購買有助於蛋研究的道具
+[shop/shop_top_016] 可出售裝備來交換成金幣
 [shop/shop_common_001] 基於特定商業交易法顯示內容
 [shop/shop_common_002] 基於資金結算法顯示內容
 [shop/shop_common_003] 關於消費額上限／餘額
@@ -22552,6 +23855,9 @@ shop_zh-TW.lsd
 [shop/shop_common_017] 注意
 [shop/shop_common_018] OK
 [shop/shop_common_019] 持有
+[shop/shop_common_020] 已正常完成購買程序
+為將購買內容反應至遊戲內
+即將回到標題畫面
 [shop/shop_medal_001] 購買鑽石
 [shop/shop_medal_002] 特別折扣
 [shop/shop_medal_003] 關閉
@@ -22595,6 +23901,23 @@ shop_zh-TW.lsd
 您已取得家長或監護人的同意了嗎？
 [shop/shop_medal_026] 關於遊戲消費通知
 [shop/shop_medal_027] 購買
+[shop/shop_medal_029] 鑽石組合包
+[shop/shop_medal_030] 購買完成
+領取次數　[Digit:3digits ]/[Digit:3digits Idx="1" ]
+[shop/shop_medal_031] 附贈
+[shop/shop_medal_032] 購買時領取
+[shop/shop_medal_033] 透過登入獎勵（共[Digit:2digits ]次）領取
+[shop/shop_medal_034] 鑽石
+[shop/shop_medal_035] 已購買商品
+即將回到寶可夢中心
+[shop/shop_medal_036] 免費鑽石
+（[Digit:2digits ]次份）
+[shop/shop_medal_037] 付費鑽石
+[shop/shop_medal_038] [Name:Item ]
+（[Digit:2digits ]次份）
+[shop/shop_medal_039] 拍檔滴晶報酬增加
+（20天）
+[shop/shop_medal_040] 總計
 [shop/shop_itemexchange_001] 交換道具
 [shop/shop_itemexchange_003] 交換
 [shop/shop_itemexchange_004] 交換
@@ -23202,7 +24525,7 @@ neu gestartet wird.
 [title/title_119] 다음
 [title/title_120] ※【2】～【4】에 대해서는 나중에라도 설정을 변경할 수 있습니다.
 [title/title_121] 2019년 9월 5일 갱신 (아래 【3】 ② 보라색 글씨 기재 부분 추가)
-[title/title_122] 닫는다
+[title/title_122] <attr font='fallback'>닫는다</attr>
 [title/title_123] Hinweis: Zwischenspeicherdaten werden nach 7 Tagen
 (168 Stunden) ab Beginn des Abenteuers automatisch
 gelöscht.
@@ -23672,7 +24995,7 @@ is restarted.
 [title/title_119] 다음
 [title/title_120] ※【2】～【4】에 대해서는 나중에라도 설정을 변경할 수 있습니다.
 [title/title_121] 2019년 9월 5일 갱신 (아래 【3】 ② 보라색 글씨 기재 부분 추가)
-[title/title_122] 닫는다
+[title/title_122] <attr font='fallback'>닫는다</attr>
 [title/title_123] Note: Interrupted play data will be automatically
 deleted after seven days (168 hours) have passed.
 [title/title_124] The time frame to resume interrupted
@@ -24144,7 +25467,7 @@ Se va a reiniciar la descarga.
 [title/title_119] 다음
 [title/title_120] ※【2】～【4】에 대해서는 나중에라도 설정을 변경할 수 있습니다.
 [title/title_121] 2019년 9월 5일 갱신 (아래 【3】 ② 보라색 글씨 기재 부분 추가)
-[title/title_122] 닫는다
+[title/title_122] <attr font='fallback'>닫는다</attr>
 [title/title_123] Nota: Los datos de las fases sin completar se guardarán
 durante 7 días (168 horas) tras su inicio. Pasado este
 tiempo, se borrarán automáticamente.
@@ -24631,7 +25954,7 @@ depuis le début.
 [title/title_119] 다음
 [title/title_120] ※【2】～【4】에 대해서는 나중에라도 설정을 변경할 수 있습니다.
 [title/title_121] 2019년 9월 5일 갱신 (아래 【3】 ② 보라색 글씨 기재 부분 추가)
-[title/title_122] 닫는다
+[title/title_122] <attr font='fallback'>닫는다</attr>
 [title/title_123] Les données de votre aventure interrompue ont été
 sauvegardées. Elles seront conservées pendant
 7 jours (168 heures) après l'interruption.
@@ -25115,7 +26438,7 @@ Il download ricomincerà dall'inizio.
 [title/title_119] 다음
 [title/title_120] ※【2】～【4】에 대해서는 나중에라도 설정을 변경할 수 있습니다.
 [title/title_121] 2019년 9월 5일 갱신 (아래 【3】 ② 보라색 글씨 기재 부분 추가)
-[title/title_122] 닫는다
+[title/title_122] <attr font='fallback'>닫는다</attr>
 [title/title_123] I dati relativi all'avventura in sospeso saranno eliminati
 automaticamente dopo 7 giorni (168 ore) dall'inizio
 di tale avventura.
@@ -25612,7 +26935,7 @@ OS 버전, OS 타입, 타게팅 광고의 제한에 관한 설정 상태, 단말
 [title/title_119] 다음
 [title/title_120] ※【2】～【4】에 대해서는 나중에라도 설정을 변경할 수 있습니다.
 [title/title_121] 2019년 9월 5일 갱신 (아래 【3】 ② 보라색 글씨 기재 부분 추가)
-[title/title_122] 닫는다
+[title/title_122] <attr font='fallback'>닫는다</attr>
 [title/title_123] ※中断データはぼうけん開始から
 7日間（168時間）を過ぎると自動で破棄されます
 [title/title_124] 保持期間が切れたため
@@ -26100,7 +27423,7 @@ OS 버전, OS 타입, 타게팅 광고의 제한에 관한 설정 상태, 단말
 [title/title_119] 다음
 [title/title_120] ※【2】～【4】에 대해서는 나중에라도 설정을 변경할 수 있습니다.
 [title/title_121] 2019년 9월 5일 갱신 (아래 【3】 ② 보라색 글씨 기재 부분 추가)
-[title/title_122] 닫는다
+[title/title_122] <attr font='fallback'>닫는다</attr>
 [title/title_123] ※중단 데이터는 모험을 시작한 뒤
 7일(168시간)을 넘으면 자동으로 파기됩니다
 [title/title_124] 유지 기간이 끝나
@@ -26560,7 +27883,7 @@ OS 버전, OS 타입, 타게팅 광고의 제한에 관한 설정 상태, 단말
 [title/title_119] 다음
 [title/title_120] ※【2】～【4】에 대해서는 나중에라도 설정을 변경할 수 있습니다.
 [title/title_121] 2019년 9월 5일 갱신 (아래 【3】 ② 보라색 글씨 기재 부분 추가)
-[title/title_122] 닫는다
+[title/title_122] <attr font='fallback'>닫는다</attr>
 [title/title_123] ※中斷的遊戲資料會在
 冒險開始的7日（168小時）後自動作廢
 [title/title_124] 因保留期間已過
@@ -26666,7 +27989,7 @@ OS 버전, OS 타입, 타게팅 광고의 제한에 관한 설정 상태, 단말
 [title/push_001] Pokémon Masters
 [title/push_002] Adventure is waiting for you on Pasio. Log in now!
 [title/push_003] Notification
-[title/push_004] 
+[title/push_004] 蛋好像快要孵化了！快點去雛菊寶可夢研究所吧！
 [title/egg_001] 選擇這顆蛋！
 [title/egg_002] 要選擇這顆蛋嗎？
 [title/egg_003] 就決定是[Name:PokemonName ]的蛋了！
