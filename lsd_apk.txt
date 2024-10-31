@@ -6080,6 +6080,62 @@ Top Vier
 [quest_group_title_10007100000] MaMo-Lola
 [quest_group_title_10160100000] MaMo-Tracy
 [quest_group_title_100108] Alola
+[quest_title_1040002840001011] Ein besonderer Tag mit Diam
+(Teil 1)
+[quest_title_1040002840001021] Ein besonderer Tag mit Diam
+(Teil 2)
+[quest_title_1030505000601000] Ein Riss im Himmel
+[quest_title_1030505000601010] Das Duo aus Hisui
+[quest_title_1030505000601050] Vs. Trainer aus Passio 1
+[quest_title_1030505000601020] Sind Pokémon gefährlich?
+[quest_title_1030505000601060] Vs. Trainer aus Passio 2
+[quest_title_1030505000601030] Team Galaktiks Zyrus
+[quest_title_1030505000601070] Vs. Trainer aus Passio 3
+[quest_title_1030505000601040] Von Menschen und Pokémon
+[quest_title_1030505000601080] Vs. Trainer aus Passio 4
+[quest_title_1030505000601090] Täglicher schwerer Kampf
+[quest_title_1030505000601100] Herausforderungskampf 1
+[quest_title_1030505000601110] Herausforderungskampf 2
+[quest_title_1030505000602000] Stelle dich Lucius! 1
+[quest_title_1030505000602010] Stelle dich Lucius! 2
+[quest_title_1030505000602020] Stelle dich Lucia! 1
+[quest_title_1030505000602030] Stelle dich Lucia! 2
+[quest_title_1030505000604000] Das flüchtige Pokémon
+[quest_title_1030505000604010] Vs. Trainer aus Passio 1
+[quest_title_1030505000604020] Vs. Trainer aus Passio 2
+[quest_title_1030505000604030] Vs. Trainer aus Passio 3
+[quest_title_1030505000604040] Vs. Trainer aus Passio 4
+[quest_title_1030505000604050] Täglicher schwerer Kampf
+[quest_title_1030505000603000] Die Spur führt nach Passio
+[quest_title_1030505000603010] Silber und Sniebel
+[quest_title_1030505000603050] Vs. Trainer aus Passio 1
+[quest_title_1030505000603020] Eusins Traum
+[quest_title_1030505000603060] Vs. Trainer aus Passio 2
+[quest_title_1030505000603030] Niemals aufgeben
+[quest_title_1030505000603070] Vs. Trainer aus Passio 3
+[quest_title_1030505000603040] Die Fackel weitergeben
+[quest_title_1030505000603080] Vs. Trainer aus Passio 4
+[quest_title_1030505000603090] Täglicher schwerer Kampf
+[quest_title_1030505000603100] Herausforderungskampf 1
+[quest_title_1030505000603110] Herausforderungskampf 2
+[quest_title_1030440708501010] Vs. Lilia 1
+[quest_title_1030440708502010] Vs. Lilia 2
+[quest_title_1030440708503010] Vs. Lilia 3
+[quest_title_1030440708504010] Vs. Lilia 4
+[quest_title_1030440708505010] Täglicher Bonus-Kampf
+[quest_title_1030450500302010] Vs. Agathe
+[quest_title_1030450500303010] Vs. Koga
+[quest_title_1030450500304010] Vs. Dragan
+[quest_title_1030450500305010] Vs. Anissa
+[quest_title_1030450500301010] Vs. Mary
+[quest_title_1030220284000000] Ein Tag mit Diam
+[quest_title_1030220285000000] Ein Tag mit Perla
+[quest_title_1030220216000000] Ein Tag mit Eusin
+[quest_title_1030220133100000] Ein Tag mit MaMo-Silber
+[quest_group_title_10284000000] Diam
+[quest_group_title_10285000000] Perla
+[quest_group_title_10216000000] Eusin
+[quest_group_title_10133100000] MaMo-Silber
 
 ===========
 story_quest_name_en.lsd
@@ -9130,6 +9186,60 @@ Is Another’s Poison: Part 4
 [quest_group_title_10007100000] Sygna Suit Acerola
 [quest_group_title_10160100000] Sygna Suit Lana
 [quest_group_title_100108] Alola
+[quest_title_1040002840001011] A Special Day with Adaman: Part 1
+[quest_title_1040002840001021] A Special Day with Adaman: Part 2
+[quest_title_1030505000601000] A Rift in the Sky
+[quest_title_1030505000601010] Two from Hisui
+[quest_title_1030505000601050] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030505000601020] Pokémon Are Dangerous?
+[quest_title_1030505000601060] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030505000601030] Cyrus of Team Galactic
+[quest_title_1030505000601070] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030505000601040] People and Pokémon
+[quest_title_1030505000601080] Challenge Pasio’s Trainers: Part 4
+[quest_title_1030505000601090] Daily Extreme Battle 1
+[quest_title_1030505000601100] Battle Challenge! Round 1
+[quest_title_1030505000601110] Battle Challenge! Round 2
+[quest_title_1030505000602000] Take On Lucas! Part 1
+[quest_title_1030505000602010] Take On Lucas! Part 2
+[quest_title_1030505000602020] Take On Dawn! Part 1
+[quest_title_1030505000602030] Take On Dawn! Part 2
+[quest_title_1030505000604000] The Missing Pokémon
+[quest_title_1030505000604010] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030505000604020] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030505000604030] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030505000604040] Challenge Pasio’s Trainers: Part 4
+[quest_title_1030505000604050] Daily Extreme Battle 1
+[quest_title_1030505000603000] Followed You to Pasio
+[quest_title_1030505000603010] Silver and Sneasel
+[quest_title_1030505000603050] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030505000603020] Eusine’s Dream
+[quest_title_1030505000603060] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030505000603030] The Chase Continues
+[quest_title_1030505000603070] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030505000603040] Your Turn
+[quest_title_1030505000603080] Challenge Pasio’s Trainers: Part 4
+[quest_title_1030505000603090] Daily Extreme Battle 1
+[quest_title_1030505000603100] Battle Challenge! Round 1
+[quest_title_1030505000603110] Battle Challenge! Round 2
+[quest_title_1030440708501010] Challenge Iris: Part 1
+[quest_title_1030440708502010] Challenge Iris: Part 2
+[quest_title_1030440708503010] Challenge Iris: Part 3
+[quest_title_1030440708504010] Challenge Iris: Part 4
+[quest_title_1030440708505010] Daily Bonus Battle 1
+[quest_title_1030450500302010] Agatha
+[quest_title_1030450500303010] Koga
+[quest_title_1030450500304010] Drake
+[quest_title_1030450500305010] Shauntal
+[quest_title_1030450500301010] Marnie
+[quest_title_1030220284000000] A Day with Adaman
+[quest_title_1030220285000000] A Day with Irida
+[quest_title_1030220216000000] A Day with Eusine
+[quest_title_1030220133100000] A Day with Sygna Suit Silver
+[quest_group_title_10284000000] Adaman
+[quest_group_title_10285000000] Irida
+[quest_group_title_10216000000] Eusine
+[quest_group_title_10133100000] Sygna Suit Silver
 
 ===========
 story_quest_name_es.lsd
@@ -12454,6 +12564,61 @@ de Kanto
 [quest_group_title_10007100000] Zarala (Traje S)
 [quest_group_title_10160100000] Nereida (Traje S)
 [quest_group_title_100108] Trama de Alola
+[quest_title_1040002840001011] Un día especial con Adamas
+[quest_title_1040002840001021] Un día especial con Adamas (2)
+[quest_title_1030505000601000] Una brecha en el cielo
+[quest_title_1030505000601010] El par de Hisui
+[quest_title_1030505000601050] VS. Entrenadores de Passio
+[quest_title_1030505000601020] ¿Pokémon peligrosos?
+[quest_title_1030505000601060] VS. Entrenadores de Passio (2)
+[quest_title_1030505000601030] Helio del Equipo Galaxia
+[quest_title_1030505000601070] VS. Entrenadores de Passio (3)
+[quest_title_1030505000601040] Humanos y Pokémon en
+armonía
+[quest_title_1030505000601080] VS. Entrenadores de Passio (4)
+[quest_title_1030505000601090] ¡Un combate difícil al día!
+[quest_title_1030505000601100] ¡Un combate desafiante!
+[quest_title_1030505000601110] ¡Un combate desafiante! (2)
+[quest_title_1030505000602000] ¡Enfréntate a León!
+[quest_title_1030505000602010] ¡Enfréntate a León! (2)
+[quest_title_1030505000602020] ¡Enfréntate a Maya!
+[quest_title_1030505000602030] ¡Enfréntate a Maya! (2)
+[quest_title_1030505000604000] El Pokémon desaparecido
+[quest_title_1030505000604010] VS. Entrenadores de Passio
+[quest_title_1030505000604020] VS. Entrenadores de Passio (2)
+[quest_title_1030505000604030] VS. Entrenadores de Passio (3)
+[quest_title_1030505000604040] VS. Entrenadores de Passio (4)
+[quest_title_1030505000604050] ¡Un combate difícil al día!
+[quest_title_1030505000603000] Persecución hasta Passio
+[quest_title_1030505000603010] Plata y Sneasel
+[quest_title_1030505000603050] VS. Entrenadores de Passio
+[quest_title_1030505000603020] El sueño de Eusine
+[quest_title_1030505000603060] VS. Entrenadores de Passio (2)
+[quest_title_1030505000603030] La persecución continúa
+[quest_title_1030505000603070] VS. Entrenadores de Passio (3)
+[quest_title_1030505000603040] Ahora te toca a ti
+[quest_title_1030505000603080] VS. Entrenadores de Passio (4)
+[quest_title_1030505000603090] ¡Un combate difícil al día!
+[quest_title_1030505000603100] ¡Un combate desafiante!
+[quest_title_1030505000603110] ¡Un combate desafiante! (2)
+[quest_title_1030440708501010] VS. Iris
+[quest_title_1030440708502010] VS. Iris (2)
+[quest_title_1030440708503010] VS. Iris (3)
+[quest_title_1030440708504010] VS. Iris (4)
+[quest_title_1030440708505010] ¡Un combate extra al día!
+[quest_title_1030450500302010] VS. Agatha
+[quest_title_1030450500303010] VS. Koga
+[quest_title_1030450500304010] VS. Dracón
+[quest_title_1030450500305010] VS. Anís
+[quest_title_1030450500301010] VS. Roxy
+[quest_title_1030220284000000] Un día con Adamas
+[quest_title_1030220285000000] Un día con Nákara
+[quest_title_1030220216000000] Un día con Eusine
+[quest_title_1030220133100000] Un día con Plata (Traje S)
+[quest_group_title_10284000000] Adamas
+[quest_group_title_10285000000] Nákara
+[quest_group_title_10216000000] Eusine
+[quest_group_title_10133100000] Plata (Traje S)
 
 ===========
 story_quest_name_fr.lsd
@@ -16098,6 +16263,78 @@ Fondation Æther VIII
 [quest_group_title_10007100000] Margie (Look Ultime)
 [quest_group_title_10160100000] Néphie (Look Ultime)
 [quest_group_title_100108] Alola
+[quest_title_1040002840001011] Une journée spéciale
+avec Adamantin
+[quest_title_1040002840001021] Une journée spéciale
+avec Adamantin II
+[quest_title_1030505000601000] Une faille dans le ciel
+[quest_title_1030505000601010] Les deux nouveaux arrivants
+de la région de Hisui
+[quest_title_1030505000601050] Combat : Dresseurs de Passio
+[quest_title_1030505000601020] Les Pokémon ?
+Des créatures terrifiantes ?
+[quest_title_1030505000601060] Combat :
+Dresseurs de Passio II
+[quest_title_1030505000601030] Hélio de la Team Galaxie
+[quest_title_1030505000601070] Combat :
+Dresseurs de Passio III
+[quest_title_1030505000601040] Humains et Pokémon
+[quest_title_1030505000601080] Combat :
+Dresseurs de Passio IV
+[quest_title_1030505000601090] Combat difficile limité
+à une fois par jour !
+[quest_title_1030505000601100] Combat difficile
+[quest_title_1030505000601110] Combat difficile II
+[quest_title_1030505000602000] Combat corsé : Louka
+[quest_title_1030505000602010] Combat corsé : Louka II
+[quest_title_1030505000602020] Combat corsé : Aurore
+[quest_title_1030505000602030] Combat corsé : Aurore II
+[quest_title_1030505000604000] Le Pokémon porté disparu
+[quest_title_1030505000604010] Combat : Dresseurs de Passio
+[quest_title_1030505000604020] Combat :
+Dresseurs de Passio II
+[quest_title_1030505000604030] Combat :
+Dresseurs de Passio III
+[quest_title_1030505000604040] Combat :
+Dresseurs de Passio IV
+[quest_title_1030505000604050] Combat difficile limité
+à une fois par jour !
+[quest_title_1030505000603000] Poursuite jusqu'à Passio
+[quest_title_1030505000603010] Silver et Farfuret
+[quest_title_1030505000603050] Combat : Dresseurs de Passio
+[quest_title_1030505000603020] Le rêve d'Eusine
+[quest_title_1030505000603060] Combat :
+Dresseurs de Passio II
+[quest_title_1030505000603030] La poursuite reprend
+[quest_title_1030505000603070] Combat :
+Dresseurs de Passio III
+[quest_title_1030505000603040] À ton tour
+[quest_title_1030505000603080] Combat :
+Dresseurs de Passio IV
+[quest_title_1030505000603090] Combat difficile limité
+à une fois par jour !
+[quest_title_1030505000603100] Combat difficile
+[quest_title_1030505000603110] Combat difficile II
+[quest_title_1030440708501010] Combat : Iris
+[quest_title_1030440708502010] Combat : Iris II
+[quest_title_1030440708503010] Combat : Iris III
+[quest_title_1030440708504010] Combat : Iris IV
+[quest_title_1030440708505010] Combat bonus limité
+à une fois par jour !
+[quest_title_1030450500302010] Combat : Agatha
+[quest_title_1030450500303010] Combat : Koga
+[quest_title_1030450500304010] Combat : Aragon
+[quest_title_1030450500305010] Combat : Anis
+[quest_title_1030450500301010] Combat : Rosemary
+[quest_title_1030220284000000] Une journée avec Adamantin
+[quest_title_1030220285000000] Une journée avec Nacchara
+[quest_title_1030220216000000] Une journée avec Eusine
+[quest_title_1030220133100000] Une journée avec Silver
+(Look Ultime)
+[quest_group_title_10284000000] Adamantin
+[quest_group_title_10285000000] Nacchara
+[quest_group_title_10216000000] Eusine
+[quest_group_title_10133100000] Silver (Look Ultime)
 
 ===========
 story_quest_name_it.lsd
@@ -19086,6 +19323,60 @@ story_quest_name_it.lsd
 [quest_group_title_10007100000] Malpi Costumax
 [quest_group_title_10160100000] Suiren Costumax
 [quest_group_title_100108] Capitolo di Alola
+[quest_title_1040002840001011] Un giorno speciale con Damon (1ª parte)
+[quest_title_1040002840001021] Un giorno speciale con Damon (2ª parte)
+[quest_title_1030505000601000] Uno squarcio nel cielo
+[quest_title_1030505000601010] Due da Hisui
+[quest_title_1030505000601050] VS Allenatori di Pasio
+[quest_title_1030505000601020] I Pokémon sono pericolosi...?
+[quest_title_1030505000601060] VS Allenatori di Pasio 2
+[quest_title_1030505000601030] Cyrus del Team Galassia
+[quest_title_1030505000601070] VS Allenatori di Pasio 3
+[quest_title_1030505000601040] Umani e Pokémon in armonia
+[quest_title_1030505000601080] VS Allenatori di Pasio 4
+[quest_title_1030505000601090] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030505000601100] Sfida ad alta difficoltà
+[quest_title_1030505000601110] Sfida ad alta difficoltà 2
+[quest_title_1030505000602000] Sfida un avversario potente: Lucas
+[quest_title_1030505000602010] Sfida un avversario potente: Lucas 2
+[quest_title_1030505000602020] Sfida un avversario potente: Lucinda
+[quest_title_1030505000602030] Sfida un avversario potente: Lucinda 2
+[quest_title_1030505000604000] Alla ricerca di Suicune
+[quest_title_1030505000604010] VS Allenatori di Pasio
+[quest_title_1030505000604020] VS Allenatori di Pasio 2
+[quest_title_1030505000604030] VS Allenatori di Pasio 3
+[quest_title_1030505000604040] VS Allenatori di Pasio 4
+[quest_title_1030505000604050] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030505000603000] Ti ho inseguito fino a Pasio
+[quest_title_1030505000603010] Argento e Sneasel
+[quest_title_1030505000603050] VS Allenatori di Pasio
+[quest_title_1030505000603020] Il sogno di Eugenius
+[quest_title_1030505000603060] VS Allenatori di Pasio 2
+[quest_title_1030505000603030] Ricomincia l'inseguimento
+[quest_title_1030505000603070] VS Allenatori di Pasio 3
+[quest_title_1030505000603040] Ora tocca a te
+[quest_title_1030505000603080] VS Allenatori di Pasio 4
+[quest_title_1030505000603090] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030505000603100] Sfida ad alta difficoltà
+[quest_title_1030505000603110] Sfida ad alta difficoltà 2
+[quest_title_1030440708501010] VS Iris
+[quest_title_1030440708502010] VS Iris 2
+[quest_title_1030440708503010] VS Iris 3
+[quest_title_1030440708504010] VS Iris 4
+[quest_title_1030440708505010] Lotta bonus (una al giorno)!
+[quest_title_1030450500302010] VS Agatha
+[quest_title_1030450500303010] VS Koga
+[quest_title_1030450500304010] VS Drake
+[quest_title_1030450500305010] VS Antemia
+[quest_title_1030450500301010] VS Mary
+[quest_title_1030220284000000] Un giorno con Damon
+[quest_title_1030220285000000] Un giorno con Perula
+[quest_title_1030220216000000] Un giorno con Eugenius
+[quest_title_1030220133100000] Un giorno con Argento Costumax
+[quest_group_title_10284000000] Damon
+[quest_group_title_10285000000] Perula
+[quest_group_title_10216000000] Eugenius
+[quest_group_title_10133100000] Argento Costumax
 
 ===========
 story_quest_name_ja.lsd
@@ -22146,6 +22437,60 @@ story_quest_name_ja.lsd
 [quest_group_title_10007100000] マジコスアセロラ
 [quest_group_title_10160100000] マジコススイレン
 [quest_group_title_100108] アローラ編
+[quest_title_1040002840001011] セキとの特別な一日　前編
+[quest_title_1040002840001021] セキとの特別な一日　後編
+[quest_title_1030505000601000] 空にできた裂け目
+[quest_title_1030505000601010] 「ヒスイ地方」から来たふたり
+[quest_title_1030505000601050] ＶＳ　パシオのトレーナー
+[quest_title_1030505000601020] ポケモンは恐ろしいもの？
+[quest_title_1030505000601060] ＶＳ　パシオのトレーナー２
+[quest_title_1030505000601030] 「ギンガ団」のアカギ
+[quest_title_1030505000601070] ＶＳ　パシオのトレーナー３
+[quest_title_1030505000601040] 人とポケモンが助けあう姿
+[quest_title_1030505000601080] ＶＳ　パシオのトレーナー４
+[quest_title_1030505000601090] １日１回限定・高難度バトル！
+[quest_title_1030505000601100] チャレンジバトルで勝負！
+[quest_title_1030505000601110] チャレンジバトルで勝負！２
+[quest_title_1030505000602000] 強敵に挑戦！　ＶＳ　コウキ
+[quest_title_1030505000602010] 強敵に挑戦！　ＶＳ　コウキ２
+[quest_title_1030505000602020] 強敵に挑戦！　ＶＳ　ヒカリ
+[quest_title_1030505000602030] 強敵に挑戦！　ＶＳ　ヒカリ２
+[quest_title_1030505000604000] 探しポケモン……？
+[quest_title_1030505000604010] ＶＳ　パシオのトレーナー
+[quest_title_1030505000604020] ＶＳ　パシオのトレーナー２
+[quest_title_1030505000604030] ＶＳ　パシオのトレーナー３
+[quest_title_1030505000604040] ＶＳ　パシオのトレーナー４
+[quest_title_1030505000604050] １日１回限定・高難度バトル！
+[quest_title_1030505000603000] 追いかけてパシオへ……
+[quest_title_1030505000603010] シルバーとニューラ
+[quest_title_1030505000603050] ＶＳ　パシオのトレーナー
+[quest_title_1030505000603020] ミナキの夢
+[quest_title_1030505000603060] ＶＳ　パシオのトレーナー２
+[quest_title_1030505000603030] 追い続けるということ
+[quest_title_1030505000603070] ＶＳ　パシオのトレーナー３
+[quest_title_1030505000603040] 渡されたバトン
+[quest_title_1030505000603080] ＶＳ　パシオのトレーナー４
+[quest_title_1030505000603090] １日１回限定・高難度バトル！
+[quest_title_1030505000603100] チャレンジバトルで勝負！
+[quest_title_1030505000603110] チャレンジバトルで勝負！２
+[quest_title_1030440708501010] ＶＳ　アイリス
+[quest_title_1030440708502010] ＶＳ　アイリス２
+[quest_title_1030440708503010] ＶＳ　アイリス３
+[quest_title_1030440708504010] ＶＳ　アイリス４
+[quest_title_1030440708505010] １日１回限定・ボーナスバトル！
+[quest_title_1030450500302010] ＶＳ　キクコ
+[quest_title_1030450500303010] ＶＳ　キョウ
+[quest_title_1030450500304010] ＶＳ　ゲンジ
+[quest_title_1030450500305010] ＶＳ　シキミ
+[quest_title_1030450500301010] ＶＳ　マリィ
+[quest_title_1030220284000000] とある日のセキ
+[quest_title_1030220285000000] とある日のカイ
+[quest_title_1030220216000000] とある日のミナキ
+[quest_title_1030220133100000] とある日のマジコスシルバー
+[quest_group_title_10284000000] セキ
+[quest_group_title_10285000000] カイ
+[quest_group_title_10216000000] ミナキ
+[quest_group_title_10133100000] マジコスシルバー
 
 ===========
 story_quest_name_ko.lsd
@@ -25205,6 +25550,60 @@ story_quest_name_ko.lsd
 [quest_group_title_10007100000] 궁극코스 아세로라
 [quest_group_title_10160100000] 궁극코스 수련
 [quest_group_title_100108] 알로라지방 편
+[quest_title_1040002840001011] 찬석과의 특별한 하루 전편
+[quest_title_1040002840001021] 찬석과의 특별한 하루 후편
+[quest_title_1030505000601000] 하늘에 생긴 균열
+[quest_title_1030505000601010] "히스이지방"에서 온 두 사람
+[quest_title_1030505000601050] VS 파시오의 트레이너
+[quest_title_1030505000601020] 포켓몬은 무서운 생명체?
+[quest_title_1030505000601060] VS 파시오의 트레이너2
+[quest_title_1030505000601030] "갤럭시단"의 태홍
+[quest_title_1030505000601070] VS 파시오의 트레이너3
+[quest_title_1030505000601040] 사람과 포켓몬이 서로 돕는 모습
+[quest_title_1030505000601080] VS 파시오의 트레이너4
+[quest_title_1030505000601090] 1일 1회 한정 고난도 배틀!
+[quest_title_1030505000601100] 챌린지배틀로 승부!
+[quest_title_1030505000601110] 챌린지배틀로 승부!2
+[quest_title_1030505000602000] 강적에게 도전! VS 광휘
+[quest_title_1030505000602010] 강적에게 도전! VS 광휘2
+[quest_title_1030505000602020] 강적에게 도전! VS 빛나
+[quest_title_1030505000602030] 강적에게 도전! VS 빛나2
+[quest_title_1030505000604000] 찾고 있는 포켓몬은...?
+[quest_title_1030505000604010] VS 파시오의 트레이너
+[quest_title_1030505000604020] VS 파시오의 트레이너2
+[quest_title_1030505000604030] VS 파시오의 트레이너3
+[quest_title_1030505000604040] VS 파시오의 트레이너4
+[quest_title_1030505000604050] 1일 1회 한정 고난도 배틀!
+[quest_title_1030505000603000] 뒤를 쫓아 파시오까지...
+[quest_title_1030505000603010] 실버와 포푸니
+[quest_title_1030505000603050] VS 파시오의 트레이너
+[quest_title_1030505000603020] 수호의 꿈
+[quest_title_1030505000603060] VS 파시오의 트레이너2
+[quest_title_1030505000603030] 계속 쫓는다는 것
+[quest_title_1030505000603070] VS 파시오의 트레이너3
+[quest_title_1030505000603040] 넘겨받은 배턴
+[quest_title_1030505000603080] VS 파시오의 트레이너4
+[quest_title_1030505000603090] 1일 1회 한정 고난도 배틀!
+[quest_title_1030505000603100] 챌린지배틀로 승부!
+[quest_title_1030505000603110] 챌린지배틀로 승부!2
+[quest_title_1030440708501010] VS 아이리스
+[quest_title_1030440708502010] VS 아이리스2
+[quest_title_1030440708503010] VS 아이리스3
+[quest_title_1030440708504010] VS 아이리스4
+[quest_title_1030440708505010] 1일 1회 한정 보너스 배틀!
+[quest_title_1030450500302010] VS 국화
+[quest_title_1030450500303010] VS 독수
+[quest_title_1030450500304010] VS 권수
+[quest_title_1030450500305010] VS 망초
+[quest_title_1030450500301010] VS 마리
+[quest_title_1030220284000000] 찬석의 어느 날
+[quest_title_1030220285000000] 주혜의 어느 날
+[quest_title_1030220216000000] 수호의 어느 날
+[quest_title_1030220133100000] 궁극코스 실버의 어느 날
+[quest_group_title_10284000000] 찬석
+[quest_group_title_10285000000] 주혜
+[quest_group_title_10216000000] 수호
+[quest_group_title_10133100000] 궁극코스 실버
 
 ===========
 story_quest_name_zh-TW.lsd
@@ -28264,6 +28663,60 @@ story_quest_name_zh-TW.lsd
 [quest_group_title_10007100000] 美極套裝阿塞蘿拉
 [quest_group_title_10160100000] 美極套裝水蓮
 [quest_group_title_100108] 阿羅拉篇
+[quest_title_1040002840001011] 與剛石的特別日子　前篇
+[quest_title_1040002840001021] 與剛石的特別日子　後篇
+[quest_title_1030505000601000] 天空中出現的裂縫
+[quest_title_1030505000601010] 來自「洗翠地區」的兩人
+[quest_title_1030505000601050] ＶＳ　帕希歐的訓練家
+[quest_title_1030505000601020] 寶可夢是可怕的生物？
+[quest_title_1030505000601060] ＶＳ　帕希歐的訓練家２
+[quest_title_1030505000601030] 「銀河隊」的赤日
+[quest_title_1030505000601070] ＶＳ　帕希歐的訓練家３
+[quest_title_1030505000601040] 人們與寶可夢互助的樣子
+[quest_title_1030505000601080] ＶＳ　帕希歐的訓練家４
+[quest_title_1030505000601090] １天僅限１次的高難度對戰！
+[quest_title_1030505000601100] 用挑戰對戰決勝負！
+[quest_title_1030505000601110] 用挑戰對戰決勝負！２
+[quest_title_1030505000602000] 挑戰強敵！　ＶＳ　明輝
+[quest_title_1030505000602010] 挑戰強敵！　ＶＳ　明輝２
+[quest_title_1030505000602020] 挑戰強敵！　ＶＳ　小光
+[quest_title_1030505000602030] 挑戰強敵！　ＶＳ　小光２
+[quest_title_1030505000604000] 尋找寶可夢……？
+[quest_title_1030505000604010] ＶＳ　帕希歐的訓練家
+[quest_title_1030505000604020] ＶＳ　帕希歐的訓練家２
+[quest_title_1030505000604030] ＶＳ　帕希歐的訓練家３
+[quest_title_1030505000604040] ＶＳ　帕希歐的訓練家４
+[quest_title_1030505000604050] １天僅限１次的高難度對戰！
+[quest_title_1030505000603000] 追著來到帕希歐……
+[quest_title_1030505000603010] 小銀與狃拉
+[quest_title_1030505000603050] ＶＳ　帕希歐的訓練家
+[quest_title_1030505000603020] 水京的夢想
+[quest_title_1030505000603060] ＶＳ　帕希歐的訓練家２
+[quest_title_1030505000603030] 不斷追尋的意義
+[quest_title_1030505000603070] ＶＳ　帕希歐的訓練家３
+[quest_title_1030505000603040] 完成接棒
+[quest_title_1030505000603080] ＶＳ　帕希歐的訓練家４
+[quest_title_1030505000603090] １天僅限１次的高難度對戰！
+[quest_title_1030505000603100] 用挑戰對戰決勝負！
+[quest_title_1030505000603110] 用挑戰對戰決勝負！２
+[quest_title_1030440708501010] ＶＳ　艾莉絲
+[quest_title_1030440708502010] ＶＳ　艾莉絲２
+[quest_title_1030440708503010] ＶＳ　艾莉絲３
+[quest_title_1030440708504010] ＶＳ　艾莉絲４
+[quest_title_1030440708505010] １天僅限１次的獎勵對戰！
+[quest_title_1030450500302010] ＶＳ　菊子
+[quest_title_1030450500303010] ＶＳ　阿桔
+[quest_title_1030450500304010] ＶＳ　源治
+[quest_title_1030450500305010] ＶＳ　婉龍
+[quest_title_1030450500301010] ＶＳ　瑪俐
+[quest_title_1030220284000000] 某日的剛石
+[quest_title_1030220285000000] 某日的珠貝
+[quest_title_1030220216000000] 某日的水京
+[quest_title_1030220133100000] 某日的美極套裝小銀
+[quest_group_title_10284000000] 剛石
+[quest_group_title_10285000000] 珠貝
+[quest_group_title_10216000000] 水京
+[quest_group_title_10133100000] 美極套裝小銀
 
 ===========
 trainer_description_de.lsd
@@ -29286,6 +29739,25 @@ Eich verbindet sie eine gemeinsame Vergangenheit.
 [10111000001] Der Champ des Indigo-Plateaus legt Wert auf Vertrauen
 und Liebe zu Pokémon und mag faire Kämpfe. Er kümmert
 sich um andere und wird von vielen verehrt.
+[10284000000] Dieser Anführer des Diamant-Clans aus der Hisui-Region
+legt viel Wert auf seine Zeit und kann ein wenig
+ungeduldig sein, ist als Gefährte jedoch einfühlsam und
+verlässlich.
+[10285000000] Diese Anführerin des Perl-Clans kommt aus der
+Hisui-Region. Da sie schon mit jungen Jahren Anführerin
+wurde, macht sie sich oft Sorgen. Doch sie agiert stets mit
+Herz, Hand und Verstand für die Zukunft von Hisui.
+[10216000000] Dieser junge Mann ist noch immer auf der Suche nach
+Legendären Pokémon. Besonders fasziniert ist er von dem
+wunderschönen Suicune, dem er leidenschaftlich bereits
+durch Johto und Kanto gefolgt ist.
+[10133100000] Silber trägt eine Machtmontur. Er stellt sich den Fehlern
+seiner unveränderbaren Vergangenheit und hat seinem
+Sniebel geschworen, die stärksten Gefährten zu werden.
+[10284000001] Dieser Anführer des Diamant-Clans aus der Hisui-Region
+legt viel Wert auf seine Zeit und kann ein wenig
+ungeduldig sein, ist als Gefährte jedoch einfühlsam und
+verlässlich.
 
 ===========
 trainer_description_en.lsd
@@ -30200,6 +30672,21 @@ She seems to have some history with Professor Oak.
 [10111000001] The Indigo League Champion prefers his battles
 fair and square, and many find his caring demeanor
 very endearing.
+[10284000000] This leader of the Diamond Clan from the Hisui region
+values his time and can be a little impatient, but he’s also
+a caring and dependable ally.
+[10285000000] This leader of the Pearl Clan is from the Hisui region.
+She became a leader at a young age, so she worries
+a lot, but she thinks and acts for the future of Hisui.
+[10216000000] This young man continues to look for Legendary Pokémon.
+He is especially fascinated by the beauty of Suicune and
+has passionately chased after it in Johto and Kanto.
+[10133100000] Silver is wearing a sygna suit. He’s facing his past
+mistakes he cannot erase and has sworn to his partner
+Pokémon Sneasel they’ll be the strongest.
+[10284000001] This leader of the Diamond Clan from the Hisui region
+values his time and can be a little impatient, but he’s also
+a caring and dependable ally.
 
 ===========
 trainer_description_es.lsd
@@ -31276,6 +31763,22 @@ pasado con el Profesor Oak.
 amor por los Pokémon por encima de todas las cosas y
 aborrece a los que juegan sucio en combate. Se preocupa
 por la gente y causa admiración allá por donde va.
+[10284000000] Jerarca del Clan Diamante de Hisui. Bondadoso y fiable
+como aliado, aunque a veces puede resultar un poco
+impaciente por lo mucho que valora su tiempo.
+[10285000000] Jerarca del Clan Perla de Hisui. Le preocupa que ser tan
+joven afecte sus aptitudes como líder, pero siempre
+actúa con el futuro de Hisui en mente.
+[10216000000] Joven que no cesa su búsqueda de Pokémon legendarios.
+Su mayor fascinación es la belleza de Suicune, a quien
+persiguió fervientemente por todo Johto y Kanto.
+[10133100000] Plata se viste con un Traje Summum para enfrentarse a
+sus errores del pasado, aunque no pueda borrarlos.
+Junto con Sneasel, tiene como objetivo convertirse en
+el Entrenador de Pokémon más fuerte del mundo.
+[10284000001] Jerarca del Clan Diamante de Hisui. Bondadoso y fiable
+como aliado, aunque a veces puede resultar un poco
+impaciente por lo mucho que valora su tiempo.
 
 ===========
 trainer_description_fr.lsd
@@ -32301,6 +32804,25 @@ le Professeur Chen par le passé.
 [10111000001] Le Maître du Plateau Indigo. Il est accompagné de
 Pokémon qui lui vouent une confiance et un amour
 absolu. Il aime les combats et aider les gens en difficulté.
+[10284000000] Ce Chef du Clan Diamant originaire de la région de Hisui
+accorde une grande importance au temps et peut donc
+se montrer légèrement impatient, mais c'est un allié
+fiable et bienveillant.
+[10285000000] Cette Cheffe du Clan Perle vient de la région de Hisui.
+Elle a été désignée Cheffe très jeune et a tendance
+à s'inquiéter, mais elle sait prendre les justes décisions
+pour le futur de Hisui.
+[10216000000] Ce jeune homme est constamment à la recherche
+de Pokémon légendaires. Il est particulièrement
+fasciné par la beauté de Suicune, qu'il poursuit
+éperdument à travers Johto et Kanto.
+[10133100000] Silver porte un Look Ultime. Il se confronte à ses erreurs
+du passé indélébiles et a promis à son Farfuret que tous
+deux deviendront les plus forts de tous.
+[10284000001] Ce Chef du Clan Diamant originaire de la région de Hisui
+accorde une grande importance au temps et peut donc
+se montrer légèrement impatient, mais c'est un allié
+fiable et bienveillant.
 
 ===========
 trainer_description_it.lsd
@@ -33307,6 +33829,26 @@ Pare avere dei trascorsi con il Professor Oak.
 [10111000001] Campione dell'Altopiano Blu. Dà molta importanza
 alla fiducia e all'affetto per i Pokémon e predilige lotte
 all'insegna della correttezza. È premuroso e molto amato.
+[10284000000] Leader del Team Diamante della regione di Hisui,
+dà molta importanza a come impiega il suo tempo
+ed è un po' impaziente. Tiene molto ai membri del
+suo team, per i quali è una sorta di fratello maggiore.
+[10285000000] Reggente del Team Perla della regione di Hisui.
+Avendo assunto questo ruolo in giovane età, spesso
+si preoccupa, ma ha molto a cuore il futuro di Hisui,
+e le sue azioni lo dimostrano.
+[10216000000] Misterioso giovane alla costante ricerca di Pokémon
+leggendari, è particolarmente affascinato da Suicune,
+che ha inseguito con passione in ogni angolo di Johto
+e di Kanto.
+[10133100000] Argento indossa un Costumax e affronta gli errori
+di un passato che non può cancellare, promettendo
+al suo Sneasel che diventerà l'Allenatore più potente
+al mondo.
+[10284000001] Leader del Team Diamante della regione di Hisui,
+dà molta importanza a come impiega il suo tempo
+ed è un po' impaziente. Tiene molto ai membri del
+suo team, per i quali è una sorta di fratello maggiore.
 
 ===========
 trainer_description_ja.lsd
@@ -34220,6 +34762,21 @@ trainer_description_ja.lsd
 [10111000001] セキエイ高原の　チャンピオン。ポケモンとの　信頼や
 愛情を　大切にしていて　正々堂々の　勝負を　好む。
 面倒見が　よく　たくさんの　人から　慕われている。
+[10284000000] ヒスイ地方の　コンゴウ団を　まとめる　リーダー。
+時間を　大切にしており　せっかちなところも　あるが
+仲間思いで　頼れる　兄貴分といった　性格。
+[10285000000] ヒスイ地方の　シンジュ団を　まとめる　長。
+若くして　長となったため　思い悩むことも　多いが
+ヒスイの未来を　考え　積極的に　活動している。
+[10216000000] 伝説のポケモンを　追い続ける　謎の青年。
+とくに　スイクンの　美しさに　魅せられており
+ジョウトや　カントーを　情熱的に　駆け回った。
+[10133100000] マジコスを　身にまとった　シルバー。
+消すことのできない　自らの過去と　真剣に向きあい
+バディの　ニューラに　最強になることを　誓う。
+[10284000001] ヒスイ地方の　コンゴウ団を　まとめる　リーダー。
+時間を　大切にしており　せっかちなところも　あるが
+仲間思いで　頼れる　兄貴分といった　性格。
 
 ===========
 trainer_description_ko.lsd
@@ -34931,7 +35488,7 @@ WPM 운영위원회의 대표도 맡고 있다.
 [10651780000] 다양한 지방을 관광하는 트레이너이며
 그 지방의 독자적인 체험을 즐기는 것을 매우 좋아한다.
 그녀의 SNS에는 추억의 사진이 가득하다.
-[10264000000] 포켓몬마스터가 되고자 하는 태초마을의 소년.
+[10264000000] 포켓몬 마스터가 되고자 하는 태초마을의 소년.
 정의감이 강하며 올곧은 성격.
 항상 함께 있는 피카츄가 최고의 파트너이다.
 [10131000001] 발명에 정열을 불태우는 미르시티의 체육관 관장.
@@ -35132,6 +35689,21 @@ WPM 운영위원회의 대표도 맡고 있다.
 [10111000001] 석영고원의 챔피언. 포켓몬과의 신뢰와 애정을
 소중하게 생각하며 정정당당한 승부를 선호한다.
 남을 잘 돌보기 때문에 많은 사람에게 존경받고 있다.
+[10284000000] 히스이지방의 금강단을 이끄는 리더.
+시간을 소중하게 여기며 성급한 면모도 있지만
+동료를 아끼는 믿음직한 형님 같은 성격을 가졌다.
+[10285000000] 히스이지방의 진주단을 이끄는 두령.
+젊은 나이에 두령이 되어 고민할 때도 많지만
+히스이지방의 미래를 생각해 적극적으로 활동하고 있다.
+[10216000000] 전설의 포켓몬을 계속 쫓고 있는 수수께끼의 청년.
+특히 스이쿤의 아름다움에 푹 빠져 있어
+성도지방과 관동지방을 정열적으로 돌아다녔다.
+[10133100000] 궁극코스를 입은 실버.
+지울 수 없는 자신의 과거를 진지하게 마주하고
+버디인 포푸니에게 최강이 될 것을 맹세했다.
+[10284000001] 히스이지방의 금강단을 이끄는 리더.
+시간을 소중하게 여기며 성급한 면모도 있지만
+동료를 아끼는 믿음직한 형님 같은 성격을 가졌다.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -36044,6 +36616,21 @@ trainer_description_zh-TW.lsd
 [10111000001] 石英高原的冠軍。重視和寶可夢之間的
 信賴與情誼，喜歡光明正大的挑戰。
 善於照顧人的個性，使他受到很多人的愛戴。
+[10284000000] 統領洗翠地區金剛隊的隊主。
+因珍惜時間而有著急性子的一面，
+但是個為夥伴著想的可靠大哥。
+[10285000000] 統領洗翠地區珍珠隊的首領。
+年紀輕輕就成了首領，因此有許多煩惱，
+但她仍為洗翠的未來著想而積極地活動。
+[10216000000] 不斷追尋傳說的寶可夢的神秘青年。
+他特別著迷於水君的美麗，
+充滿熱情地在城都和關都東奔西走。
+[10133100000] 身穿美極套裝的小銀。
+他認真地面對不可抹滅的過去，
+並對拍檔狃拉發誓要成為最強的訓練家。
+[10284000001] 統領洗翠地區金剛隊的隊主。
+因珍惜時間而有著急性子的一面，
+但是個為夥伴著想的可靠大哥。
 
 ===========
 trainer_name_de.lsd
@@ -36227,6 +36814,7 @@ trainer_name_de.lsd
 [ch0204] Nuit
 [ch0205] Soir
 [ch0215] Xenia
+[ch0216] Eusin
 [ch0217] LeBelle
 [ch0220] Matière
 [ch0221] Kalle
@@ -36287,6 +36875,8 @@ trainer_name_de.lsd
 [ch0648] Æther Foundation
 [ch0560] Skull Rüpel
 [ch0561] Skull Rüpel
+[ch0284] Diam
+[ch0285] Perla
 
 ===========
 trainer_name_en.lsd
@@ -36470,6 +37060,7 @@ trainer_name_en.lsd
 [ch0204] Nita
 [ch0205] Evelyn
 [ch0215] Lisia
+[ch0216] Eusine
 [ch0217] Looker
 [ch0220] Emma
 [ch0221] Tabitha
@@ -36530,6 +37121,8 @@ trainer_name_en.lsd
 [ch0648] Aether Foundation
 [ch0560] Team Skull Grunt
 [ch0561] Team Skull Grunt
+[ch0284] Adaman
+[ch0285] Irida
 
 ===========
 trainer_name_es.lsd
@@ -36713,6 +37306,7 @@ trainer_name_es.lsd
 [ch0204] Nocta
 [ch0205] Vésper
 [ch0215] Ariana
+[ch0216] Eusine
 [ch0217] Handsome
 [ch0220] Matière
 [ch0221] Tatiano
@@ -36773,6 +37367,8 @@ trainer_name_es.lsd
 [ch0648] Fundación Æther
 [ch0560] Recluta del Team Skull
 [ch0561] Recluta del Team Skull
+[ch0284] Adamas
+[ch0285] Nákara
 
 ===========
 trainer_name_fr.lsd
@@ -36956,6 +37552,7 @@ trainer_name_fr.lsd
 [ch0204] Nix
 [ch0205] Vesper
 [ch0215] Atalante
+[ch0216] Eusine
 [ch0217] Beladonis
 [ch0220] Millie
 [ch0221] Kelvin
@@ -37016,6 +37613,8 @@ trainer_name_fr.lsd
 [ch0648] Fondation Æther
 [ch0560] Sbire Team Skull
 [ch0561] Sbire Team Skull
+[ch0284] Adamantin
+[ch0285] Nacchara
 
 ===========
 trainer_name_it.lsd
@@ -37199,6 +37798,7 @@ trainer_name_it.lsd
 [ch0204] Notturna
 [ch0205] Vespera
 [ch0215] Orthilla
+[ch0216] Eugenius
 [ch0217] Bellocchio
 [ch0220] Matière
 [ch0221] Ottavio
@@ -37259,6 +37859,8 @@ trainer_name_it.lsd
 [ch0648] Fondazione Æther
 [ch0560] Recluta del Team Skull
 [ch0561] Recluta del Team Skull
+[ch0284] Damon
+[ch0285] Perula
 
 ===========
 trainer_name_ja.lsd
@@ -37442,6 +38044,7 @@ trainer_name_ja.lsd
 [ch0204] ラニュイ
 [ch0205] ルスワール
 [ch0215] ルチア
+[ch0216] ミナキ
 [ch0217] ハンサム
 [ch0220] マチエール
 [ch0221] ホムラ
@@ -37502,6 +38105,8 @@ trainer_name_ja.lsd
 [ch0648] エーテルざいだん
 [ch0560] スカルだんの　したっぱ
 [ch0561] スカルだんの　したっぱ
+[ch0284] セキ
+[ch0285] カイ
 
 ===========
 trainer_name_ko.lsd
@@ -37685,6 +38290,7 @@ trainer_name_ko.lsd
 [ch0204] 라뉴이
 [ch0205] 르수아르
 [ch0215] 루티아
+[ch0216] 수호
 [ch0217] 핸섬
 [ch0220] 마티에르
 [ch0221] 호걸
@@ -37745,6 +38351,8 @@ trainer_name_ko.lsd
 [ch0648] 에테르재단
 [ch0560] 스컬단의 조무래기
 [ch0561] 스컬단의 조무래기
+[ch0284] 찬석
+[ch0285] 주혜
 
 ===========
 trainer_name_zh-TW.lsd
@@ -37928,6 +38536,7 @@ trainer_name_zh-TW.lsd
 [ch0204] 夜妮
 [ch0205] 夕絲
 [ch0215] 琉琪亞
+[ch0216] 水京
 [ch0217] 帥哥
 [ch0220] 瑪琪艾兒
 [ch0221] 火村
@@ -37988,6 +38597,8 @@ trainer_name_zh-TW.lsd
 [ch0648] 以太基金會
 [ch0560] 骷髏隊手下
 [ch0561] 骷髏隊手下
+[ch0284] 剛石
+[ch0285] 珠貝
 
 ===========
 trainer_verbose_name_de.lsd
@@ -38167,6 +38778,7 @@ trainer_verbose_name_de.lsd
 [10034100000] MaMo-Matsurika
 [10007100000] MaMo-Lola
 [10160100000] MaMo-Tracy
+[10133100000] MaMo-Silber
 
 ===========
 trainer_verbose_name_en.lsd
@@ -38356,6 +38968,7 @@ Lysandre
 [10007100000] Sygna Suit 
 Acerola
 [10160100000] Sygna Suit Lana
+[10133100000] Sygna Suit Silver
 
 ===========
 trainer_verbose_name_es.lsd
@@ -38516,6 +39129,7 @@ con Kimono)
 [10034100000] Rika (Traje S)
 [10007100000] Zarala (Traje S)
 [10160100000] Nereida (Traje S)
+[10133100000] Plata (Traje S)
 
 ===========
 trainer_verbose_name_fr.lsd
@@ -38692,6 +39306,7 @@ trainer_verbose_name_fr.lsd
 [10034100000] Oléa (Ultime)
 [10007100000] Margie (Ultime)
 [10160100000] Néphie (Ultime)
+[10133100000] Silver (Ultime)
 
 ===========
 trainer_verbose_name_it.lsd
@@ -38872,6 +39487,7 @@ trainer_verbose_name_it.lsd
 [10034100000] Rika Costumax
 [10007100000] Malpi Costumax
 [10160100000] Suiren Costumax
+[10133100000] Argento Costumax
 
 ===========
 trainer_verbose_name_ja.lsd
@@ -39052,6 +39668,7 @@ trainer_verbose_name_ja.lsd
 [10034100000] マジコスマツリカ
 [10007100000] マジコスアセロラ
 [10160100000] マジコススイレン
+[10133100000] マジコスシルバー
 
 ===========
 trainer_verbose_name_ko.lsd
@@ -39232,6 +39849,7 @@ trainer_verbose_name_ko.lsd
 [10034100000] 궁극코스 말리화
 [10007100000] 궁극코스 아세로라
 [10160100000] 궁극코스 수련
+[10133100000] 궁극코스 실버
 
 ===========
 trainer_verbose_name_zh-TW.lsd
@@ -39412,6 +40030,7 @@ trainer_verbose_name_zh-TW.lsd
 [10034100000] 美極套裝茉莉
 [10007100000] 美極套裝阿塞蘿拉
 [10160100000] 美極套裝水蓮
+[10133100000] 美極套裝小銀
 
 ===========
 common_widget_de.lsd
@@ -57894,7 +58513,7 @@ pour passer 10 Appels Duo ?
 [shop/scout_036] Chances d'obtention
 [shop/scout_037] Avertissement
 [shop/scout_039] 5★ garanti !
-[shop/scout_040] Duo Festival
+[shop/scout_040] Duos festival
 [shop/scout_042] Remarque : les pourcentages de chance par nombre d'★ affichés étant arrondis après la troisième décimale, il peut arriver que leur somme totale ne soit pas égale à 100 %. Les pourcentages réels ne sont ni arrondis au supérieur, ni à l'inférieur. Les pourcentages s'appliquent à chaque Appel Duo indépendamment. Même si vous passez un certain nombre d'Appels Duo, il est possible qu'un certain Duo n'apparaisse pas du tout. Il est possible qu'un même Duo apparaisse plusieurs fois. Si vous appelez un Duo que vous avez déjà et dont vous avez fait évoluer le Pokémon, le Pokémon avant évolution apparaîtra dans le Duo affiché dans les résultats. Les Duos ayant une astérisque (*) après le nom de leur Pokémon à côté du pourcentage peuvent faire évoluer leur Pokémon si vous débloquez leur épisode d'évolution.
 [shop/scout_043] Remarque : les pourcentages de chance par nombre d'★ affichés étant arrondis après la troisième décimale, il peut arriver que leur somme totale ne soit pas égale à 100 %. Les pourcentages réels ne sont ni arrondis au supérieur, ni à l'inférieur. Les pourcentages s'appliquent à chaque Appel Duo indépendamment. Même si vous passez un certain nombre d'Appels Duo, il est possible qu'un certain Duo n'apparaisse pas du tout. Il est possible qu'un même Duo apparaisse plusieurs fois. Si vous appelez un Duo que vous avez déjà et dont vous avez fait évoluer le Pokémon, le Pokémon avant évolution apparaîtra dans le Duo affiché dans les résultats. Le dixième Appel Duo vous permettra d'obtenir un Duo 5★. Pour connaître les pourcentages utilisés lors de l'Appel Duo garantissant un Duo 5★, touchez le bouton « 5★ garanti ! » sur l'écran de pourcentages. Lorsqu'un astérisque (*) est affiché après le nom d'un Pokémon sur l'écran des pourcentages, le Duo peut faire évoluer le Pokémon à travers un épisode d'évolution.
 [shop/scout_044] Avertissement
