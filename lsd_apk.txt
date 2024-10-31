@@ -7191,6 +7191,68 @@ der Pokémon versteht
 [quest_group_title_10298000000] Jim
 [quest_group_title_10099400000] Barry (Kostüm)
 [quest_group_title_10123400000] Selene (Kostüm)
+[quest_title_1040003020001011] Ein besonderer Tag mit Cay
+(Teil 1)
+[quest_title_1040003020001021] Ein besonderer Tag mit Cay
+(Teil 2)
+[quest_title_1030110000600800] Schicksalhaftes Wiedersehen
+[quest_title_1030604000601000] Passios regionale Spezialität
+[quest_title_1030604000601010] Cay und Bianka
+[quest_title_1030604000601050] Vs. Bianka 1
+[quest_title_1030604000601020] Ein bildschönes Plätzchen
+[quest_title_1030604000601060] Vs. Bianka 2
+[quest_title_1030604000601030] Gegen ein Mädchen aus
+Kanto verliere ich nicht!
+[quest_title_1030604000601070] Vs. Bianka 3
+[quest_title_1030604000601040] Die Pointe kommt am Schluss
+[quest_title_1030604000601080] Vs. Bianka 4
+[quest_title_1030604000601090] Täglicher schwerer Kampf
+[quest_title_1030604000601100] Herausforderungskampf 1
+[quest_title_1030604000601110] Herausforderungskampf 2
+[quest_title_1030220302000000] Ein Tag mit Cay
+[quest_title_1030604000602010] Vs. Cay
+[quest_title_1030604000603000] Der Schurke hasst Ideale
+[quest_title_1030604000603010] Sorgen eines Superschurken
+[quest_title_1030604000603050] Vs. Darsteller 1
+[quest_title_1030604000603020] Ungewisse Zukunft
+[quest_title_1030604000603060] Vs. Darsteller 2
+[quest_title_1030604000603030] Ein Weg nach vorn
+[quest_title_1030604000603070] Vs. Darsteller 3
+[quest_title_1030604000603040] Ein traumhafter Kampf!
+[quest_title_1030604000603080] Vs. Darsteller 4
+[quest_title_1030604000603090] Täglicher schwerer Kampf
+[quest_title_1030604000603100] Herausforderungskampf 1
+[quest_title_1030604000603110] Herausforderungskampf 2
+[quest_title_1030460400101010] Vs. Valerie
+[quest_title_1030460400102010] Vs. Elio
+[quest_title_1030460400103010] Vs. Cosima
+[quest_title_1030460400106010] Vs. Misty
+[quest_title_1030460400107010] Vs. Benson
+[quest_title_1030460102101010] Vs. Entschlossener Delion
+[quest_title_1030604000604000] Ich will raus aus Team Skull!
+[quest_title_1030604000604020] Vs. Bromley und Fran 1
+[quest_title_1030604000604030] Vs. Bromley und Fran 2
+[quest_title_1030604000604040] Vs. Bromley und Fran 3
+[quest_title_1030604000604050] Vs. Bromley und Fran 4
+[quest_title_1030604000604060] Täglicher schwerer Kampf
+[quest_title_1030604000604010] Wenn in Alola so ’n Lüftchen
+geht...
+[quest_title_1030604000605000] Ein irre starker, unbekannter
+Trainer
+[quest_title_1030604000605020] Vs. Trainer aus Passio
+[quest_title_1030604000605030] Vs. Roy
+[quest_title_1030604000605010] Die wahre Identität des
+kleinen Mädchens
+[quest_title_1030220303000000] Ein Tag mit Poppy
+[quest_title_1030460400201010] Vs. Tony
+[quest_title_1030460400501010] Vs. Trainer aus Passio 1
+[quest_title_1030460400501011] Vs. Trainer aus Passio 2
+[quest_title_1030460400501012] Vs. Trainer aus Passio 3
+[quest_title_1030460400501013] Vs. Trainer aus Passio 4
+[quest_group_title_10302000000] Cay
+[quest_group_title_10301000000] Super Sandro
+[quest_group_title_10300000000] Cursilla
+[quest_group_title_10303000000] Poppy
 
 ===========
 story_quest_name_en.lsd
@@ -10994,6 +11056,62 @@ Nine Possibilities: Part 2
 [quest_group_title_10298000000] Jacq
 [quest_group_title_10099400000] Barry (Special Costume)
 [quest_group_title_10123400000] Selene (Special Costume)
+[quest_title_1040003020001011] A Special Day with Rika: Part 1
+[quest_title_1040003020001021] A Special Day with Rika: Part 2
+[quest_title_1030110000600800] Fateful Reunion
+[quest_title_1030604000601000] Making Pasio’s Signature Sweet
+[quest_title_1030604000601010] Rika and Whitney
+[quest_title_1030604000601050] Challenge Whitney: Part 1
+[quest_title_1030604000601020] A Picturesque Spot
+[quest_title_1030604000601060] Challenge Whitney: Part 2
+[quest_title_1030604000601030] I’m Not Losing to a Kanto Girl!
+[quest_title_1030604000601070] Challenge Whitney: Part 3
+[quest_title_1030604000601040] The Punchline
+[quest_title_1030604000601080] Challenge Whitney: Part 4
+[quest_title_1030604000601090] Daily Extreme Battle 1
+[quest_title_1030604000601100] Battle Challenge! Round 1
+[quest_title_1030604000601110] Battle Challenge! Round 2
+[quest_title_1030220302000000] A Day with Rika
+[quest_title_1030604000602010] Challenge Rika
+[quest_title_1030604000603000] The Masked Man Who Hates Ideals
+[quest_title_1030604000603010] Struggles of a Star Villain
+[quest_title_1030604000603050] Challenge the Performers: Part 1
+[quest_title_1030604000603020] Unseen Future
+[quest_title_1030604000603060] Challenge the Performers: Part 2
+[quest_title_1030604000603030] A Path Forward
+[quest_title_1030604000603070] Challenge the Performers: Part 3
+[quest_title_1030604000603040] The Dream Battle!
+[quest_title_1030604000603080] Challenge the Performers: Part 4
+[quest_title_1030604000603090] Daily Extreme Battle 1
+[quest_title_1030604000603100] Battle Challenge! Round 1
+[quest_title_1030604000603110] Battle Challenge! Round 2
+[quest_title_1030460400101010] Challenge Valerie
+[quest_title_1030460400102010] Challenge Elio
+[quest_title_1030460400103010] Challenge Penny
+[quest_title_1030460400106010] Challenge Misty
+[quest_title_1030460400107010] Challenge Marlon
+[quest_title_1030460102101010] Challenge a Super Serious Leon
+[quest_title_1030604000604000] I’m Quitting Team Skull!
+[quest_title_1030604000604020] Challenge Guzma and Plumeria: Part 1
+[quest_title_1030604000604030] Challenge Guzma and Plumeria: Part 2
+[quest_title_1030604000604040] Challenge Guzma and Plumeria: Part 3
+[quest_title_1030604000604050] Challenge Guzma and Plumeria: Part 4
+[quest_title_1030604000604060] Daily Extreme Battle 1
+[quest_title_1030604000604010] Alolan Wind Bringing Change
+[quest_title_1030604000605000] A Super Strong Mystery Trainer
+[quest_title_1030604000605020] Challenge Pasio’s Trainers
+[quest_title_1030604000605030] Challenge Raihan
+[quest_title_1030604000605010] The Girl’s True Identity
+[quest_title_1030220303000000] A Day with Poppy
+[quest_title_1030460400201010] Challenge Nate
+[quest_title_1030460400501010] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030460400501011] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030460400501012] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030460400501013] Challenge Pasio’s Trainers: Part 4
+[quest_group_title_10302000000] Rika
+[quest_group_title_10301000000] Brycen-Man
+[quest_group_title_10300000000] Bellelba
+[quest_group_title_10303000000] Poppy
 
 ===========
 story_quest_name_es.lsd
@@ -15141,6 +15259,69 @@ generación de héroes!
 [quest_group_title_10298000000] Cinio
 [quest_group_title_10099400000] Israel (Especial)
 [quest_group_title_10123400000] Selene (Especial)
+[quest_title_1040003020001011] Un día especial con Cayena
+[quest_title_1040003020001021] Un día especial con Cayena (2)
+[quest_title_1030110000600800] Un reencuentro funesto
+[quest_title_1030604000601000] El dulce representativo de
+Passio
+[quest_title_1030604000601010] Cayena y Blanca
+[quest_title_1030604000601050] VS. Blanca
+[quest_title_1030604000601020] El sitio ideal para las fotos
+[quest_title_1030604000601060] VS. Blanca (2)
+[quest_title_1030604000601030] ¡Enseñémosle quién manda a
+esta chavala de Kanto!
+[quest_title_1030604000601070] VS. Blanca (3)
+[quest_title_1030604000601040] La decisión final
+[quest_title_1030604000601080] VS. Blanca (4)
+[quest_title_1030604000601090] ¡Un combate difícil al día!
+[quest_title_1030604000601100] ¡Un combate desafiante!
+[quest_title_1030604000601110] ¡Un combate desafiante! (2)
+[quest_title_1030220302000000] Un día con Cayena
+[quest_title_1030604000602010] VS. Cayena
+[quest_title_1030604000603000] El villano enmascarado que
+desprecia los ideales
+[quest_title_1030604000603010] Las preocupaciones de un
+villano de Pokéwood
+[quest_title_1030604000603050] VS. actores
+[quest_title_1030604000603020] Un porvenir inescrutable
+[quest_title_1030604000603060] VS. actores (2)
+[quest_title_1030604000603030] El camino hacia el futuro
+[quest_title_1030604000603070] VS. actores (3)
+[quest_title_1030604000603040] ¡Confrontación estelar!
+[quest_title_1030604000603080] VS. actores (4)
+[quest_title_1030604000603090] ¡Un combate difícil al día!
+[quest_title_1030604000603100] ¡Un combate desafiante!
+[quest_title_1030604000603110] ¡Un combate desafiante! (2)
+[quest_title_1030460400101010] VS. Valeria
+[quest_title_1030460400102010] VS. Elio
+[quest_title_1030460400103010] VS. Noa
+[quest_title_1030460400106010] VS. Misty
+[quest_title_1030460400107010] VS. Ciprián
+[quest_title_1030460102101010] VS. Lionel con todo
+[quest_title_1030604000604000] ¡Me piro del Team Skull!
+[quest_title_1030604000604020] VS. Guzmán y Francine
+[quest_title_1030604000604030] VS. Guzmán y Francine (2)
+[quest_title_1030604000604040] VS. Guzmán y Francine (3)
+[quest_title_1030604000604050] VS. Guzmán y Francine (4)
+[quest_title_1030604000604060] ¡Un combate difícil al día!
+[quest_title_1030604000604010] Los vientos de Alola traen
+cambios y nuevos tiempos
+[quest_title_1030604000605000] Una persona muy muy muuuy
+fuerte y misteriosa
+[quest_title_1030604000605020] VS. Entrenadores de Passio
+[quest_title_1030604000605030] VS. Roy
+[quest_title_1030604000605010] La verdadera identidad de la
+peque
+[quest_title_1030220303000000] Un día con Pola
+[quest_title_1030460400201010] VS. Rizzo
+[quest_title_1030460400501010] VS. Entrenadores de Passio
+[quest_title_1030460400501011] VS. Entrenadores de Passio (2)
+[quest_title_1030460400501012] VS. Entrenadores de Passio (3)
+[quest_title_1030460400501013] VS. Entrenadores de Passio (4)
+[quest_group_title_10302000000] Cayena
+[quest_group_title_10301000000] Juncomán
+[quest_group_title_10300000000] Malignia
+[quest_group_title_10303000000] Pola
 
 ===========
 story_quest_name_fr.lsd
@@ -19779,6 +19960,76 @@ expérimentés !
 [quest_group_title_10298000000] Jacq
 [quest_group_title_10099400000] René (Look Spécial)
 [quest_group_title_10123400000] Selene (Look Spécial)
+[quest_title_1040003020001011] Une journée spéciale
+avec Cayenn
+[quest_title_1040003020001021] Une journée spéciale
+avec Cayenn II
+[quest_title_1030110000600800] Réunion fortuite
+[quest_title_1030604000601000] La spécialité locale de Passio
+[quest_title_1030604000601010] Cayenn et Blanche
+[quest_title_1030604000601050] Combat : Blanche
+[quest_title_1030604000601020] Un super arrière-plan
+[quest_title_1030604000601060] Combat : Blanche II
+[quest_title_1030604000601030] J'perdrai pas contre
+une nana de Kanto !
+[quest_title_1030604000601070] Combat : Blanche III
+[quest_title_1030604000601040] Le verdict
+[quest_title_1030604000601080] Combat : Blanche IV
+[quest_title_1030604000601090] Combat difficile limité
+à une fois par jour !
+[quest_title_1030604000601100] Combat difficile
+[quest_title_1030604000601110] Combat difficile II
+[quest_title_1030220302000000] Une journée avec Cayenn
+[quest_title_1030604000602010] Combat : Cayenn
+[quest_title_1030604000603000] Le super-vilain qui n'a que
+faire des idéaux
+[quest_title_1030604000603010] Les problèmes
+d'un super-vilain
+[quest_title_1030604000603050] Combat : Acteurs
+[quest_title_1030604000603020] Un futur imprévisible
+[quest_title_1030604000603060] Combat : Acteurs II
+[quest_title_1030604000603030] Le chemin à emprunter
+[quest_title_1030604000603070] Combat : Acteurs III
+[quest_title_1030604000603040] Un combat incroyable !
+[quest_title_1030604000603080] Combat : Acteurs IV
+[quest_title_1030604000603090] Combat difficile limité
+à une fois par jour !
+[quest_title_1030604000603100] Combat difficile
+[quest_title_1030604000603110] Combat difficile II
+[quest_title_1030460400101010] Combat : Valériane
+[quest_title_1030460400102010] Combat : Elio
+[quest_title_1030460400103010] Combat : Pania
+[quest_title_1030460400106010] Combat : Ondine
+[quest_title_1030460400107010] Combat : Amana
+[quest_title_1030460102101010] Combat : Tarak sans merci
+[quest_title_1030604000604000] J'me tire de la Team Skull !
+[quest_title_1030604000604020] Combat : Guzma et Apocyne
+[quest_title_1030604000604030] Combat :
+Guzma et Apocyne II
+[quest_title_1030604000604040] Combat :
+Guzma et Apocyne III
+[quest_title_1030604000604050] Combat :
+Guzma et Apocyne IV
+[quest_title_1030604000604060] Combat difficile limité
+à une fois par jour !
+[quest_title_1030604000604010] Le vent du karma
+[quest_title_1030604000605000] Une personne surpuissante
+[quest_title_1030604000605020] Combat : Dresseurs de Passio
+[quest_title_1030604000605030] Combat : Roy
+[quest_title_1030604000605010] Qui est-elle vraiment
+[quest_title_1030220303000000] Une journée avec Popi
+[quest_title_1030460400201010] Combat : Mélis
+[quest_title_1030460400501010] Combat : Dresseurs de Passio
+[quest_title_1030460400501011] Combat :
+Dresseurs de Passio II
+[quest_title_1030460400501012] Combat :
+Dresseurs de Passio III
+[quest_title_1030460400501013] Combat :
+Dresseurs de Passio IV
+[quest_group_title_10302000000] Cayenn
+[quest_group_title_10301000000] Zhuman
+[quest_group_title_10300000000] Jujube
+[quest_group_title_10303000000] Popi
 
 ===========
 story_quest_name_it.lsd
@@ -23522,6 +23773,62 @@ Persone famose ovunque!
 [quest_group_title_10298000000] Zim
 [quest_group_title_10099400000] Barry (speciale)
 [quest_group_title_10123400000] Selene (speciale)
+[quest_title_1040003020001011] Un giorno speciale con Capsi (1ª parte)
+[quest_title_1040003020001021] Un giorno speciale con Capsi (2ª parte)
+[quest_title_1030110000600800] Un fatidico ritrovarsi...
+[quest_title_1030604000601000] Il dolce tipico di Pasio
+[quest_title_1030604000601010] Capsi e Chiara
+[quest_title_1030604000601050] VS Chiara
+[quest_title_1030604000601020] Un luogo pittoresco
+[quest_title_1030604000601060] VS Chiara 2
+[quest_title_1030604000601030] Famo vedé a quaa pischella de Kanto chi è che comanna!
+[quest_title_1030604000601070] VS Chiara 3
+[quest_title_1030604000601040] La decisione
+[quest_title_1030604000601080] VS Chiara 4
+[quest_title_1030604000601090] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030604000601100] Sfida ad alta difficoltà
+[quest_title_1030604000601110] Sfida ad alta difficoltà 2
+[quest_title_1030220302000000] Un giorno con Capsi
+[quest_title_1030604000602010] VS Capsi
+[quest_title_1030604000603000] Il malvagio che rifiuta gli ideali
+[quest_title_1030604000603010] I crucci della stella del Pokéwood
+[quest_title_1030604000603050] VS gli attori
+[quest_title_1030604000603020] Futuro inscrutabile
+[quest_title_1030604000603060] VS gli attori 2
+[quest_title_1030604000603030] La via verso il futuro
+[quest_title_1030604000603070] VS gli attori 3
+[quest_title_1030604000603040] L'epico scontro tra bene e male
+[quest_title_1030604000603080] VS gli attori 4
+[quest_title_1030604000603090] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030604000603100] Sfida ad alta difficoltà
+[quest_title_1030604000603110] Sfida ad alta difficoltà 2
+[quest_title_1030460400101010] VS Valérie
+[quest_title_1030460400102010] VS Elio
+[quest_title_1030460400103010] VS Penny
+[quest_title_1030460400106010] VS Misty
+[quest_title_1030460400107010] VS Ciprian
+[quest_title_1030460102101010] VS Dandel (risoluto)
+[quest_title_1030604000604000] Abbandono il Team Skull!
+[quest_title_1030604000604020] VS Guzman e Plumeria
+[quest_title_1030604000604030] VS Guzman e Plumeria 2
+[quest_title_1030604000604040] VS Guzman e Plumeria 3
+[quest_title_1030604000604050] VS Guzman e Plumeria 4
+[quest_title_1030604000604060] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030604000604010] Il vento del cambiamento
+[quest_title_1030604000605000] Un grande talento avvolto nel mistero
+[quest_title_1030604000605020] VS Allenatori di Pasio
+[quest_title_1030604000605030] VS Laburno
+[quest_title_1030604000605010] L'identità del grande talento
+[quest_title_1030220303000000] Un giorno con Verina
+[quest_title_1030460400201010] VS Sanzo
+[quest_title_1030460400501010] VS Allenatori di Pasio
+[quest_title_1030460400501011] VS Allenatori di Pasio 2
+[quest_title_1030460400501012] VS Allenatori di Pasio 3
+[quest_title_1030460400501013] VS Allenatori di Pasio 4
+[quest_group_title_10302000000] Capsi
+[quest_group_title_10301000000] Fantasilvestro
+[quest_group_title_10300000000] Malicia
+[quest_group_title_10303000000] Verina
 
 ===========
 story_quest_name_ja.lsd
@@ -27355,6 +27662,62 @@ story_quest_name_ja.lsd
 （スペシャル）
 [quest_group_title_10123400000] ミヅキ
 （スペシャル）
+[quest_title_1040003020001011] チリとの特別な一日　前編
+[quest_title_1040003020001021] チリとの特別な一日　後編
+[quest_title_1030110000600800] 因縁の再会
+[quest_title_1030604000601000] パシオ銘菓　開発中
+[quest_title_1030604000601010] チリちゃんとアカネちゃん
+[quest_title_1030604000601050] ＶＳ　アカネ
+[quest_title_1030604000601020] 映えスポットやて？
+[quest_title_1030604000601060] ＶＳ　アカネ２
+[quest_title_1030604000601030] カントーもんには負けへんで！
+[quest_title_1030604000601070] ＶＳ　アカネ３
+[quest_title_1030604000601040] 話のオチ
+[quest_title_1030604000601080] ＶＳ　アカネ４
+[quest_title_1030604000601090] １日１回限定・高難度バトル！
+[quest_title_1030604000601100] チャレンジバトルで勝負！
+[quest_title_1030604000601110] チャレンジバトルで勝負！２
+[quest_title_1030220302000000] とある日のチリ
+[quest_title_1030604000602010] ＶＳ　チリ
+[quest_title_1030604000603000] 理想を憎む怪人
+[quest_title_1030604000603010] 悪を演じるスターの悩み
+[quest_title_1030604000603050] ＶＳ　演者たち
+[quest_title_1030604000603020] みえない未来
+[quest_title_1030604000603060] ＶＳ　演者たち２
+[quest_title_1030604000603030] これからの道
+[quest_title_1030604000603070] ＶＳ　演者たち３
+[quest_title_1030604000603040] 夢の競演！
+[quest_title_1030604000603080] ＶＳ　演者たち４
+[quest_title_1030604000603090] １日１回限定・高難度バトル！
+[quest_title_1030604000603100] チャレンジバトルで勝負！
+[quest_title_1030604000603110] チャレンジバトルで勝負！２
+[quest_title_1030460400101010] ＶＳ　マーシュ
+[quest_title_1030460400102010] ＶＳ　ヨウ
+[quest_title_1030460400103010] ＶＳ　ボタン
+[quest_title_1030460400106010] ＶＳ　カスミ
+[quest_title_1030460400107010] ＶＳ　シズイ
+[quest_title_1030460102101010] ＶＳ　超本気のダンデ
+[quest_title_1030604000604000] スカル団　辞めます！
+[quest_title_1030604000604020] ＶＳ　グズマとプルメリ
+[quest_title_1030604000604030] ＶＳ　グズマとプルメリ２
+[quest_title_1030604000604040] ＶＳ　グズマとプルメリ３
+[quest_title_1030604000604050] ＶＳ　グズマとプルメリ４
+[quest_title_1030604000604060] １日１回限定・高難度バトル！
+[quest_title_1030604000604010] なにかを変えるアローラの風
+[quest_title_1030604000605000] 謎のスゴ腕トレーナー
+[quest_title_1030604000605020] ＶＳ　パシオのトレーナー
+[quest_title_1030604000605030] ＶＳ　キバナ
+[quest_title_1030604000605010] 女の子の正体
+[quest_title_1030220303000000] とある日のポピー
+[quest_title_1030460400201010] ＶＳ　キョウヘイ
+[quest_title_1030460400501010] ＶＳ　パシオのトレーナー
+[quest_title_1030460400501011] ＶＳ　パシオのトレーナー２
+[quest_title_1030460400501012] ＶＳ　パシオのトレーナー３
+[quest_title_1030460400501013] ＶＳ　パシオのトレーナー４
+[quest_group_title_10302000000] チリ
+[quest_group_title_10301000000] ハチクマン
+[quest_group_title_10300000000] ジュジュベ
+[quest_group_title_10303000000] ポピー
 
 ===========
 story_quest_name_ko.lsd
@@ -31187,6 +31550,62 @@ story_quest_name_ko.lsd
 (스페셜)
 [quest_group_title_10123400000] 미월
 (스페셜)
+[quest_title_1040003020001011] 칠리와의 특별한 하루 전편
+[quest_title_1040003020001021] 칠리와의 특별한 하루 후편
+[quest_title_1030110000600800] 인연의 재회
+[quest_title_1030604000601000] 파시오 명과 개발 중
+[quest_title_1030604000601010] 칠리와 꼭두
+[quest_title_1030604000601050] VS 꼭두
+[quest_title_1030604000601020] 사진 찍기 좋은 곳?
+[quest_title_1030604000601060] VS 꼭두2
+[quest_title_1030604000601030] 관동지방 녀석한테 질쏘냐!
+[quest_title_1030604000601070] VS 꼭두3
+[quest_title_1030604000601040] 이야기의 결말
+[quest_title_1030604000601080] VS 꼭두4
+[quest_title_1030604000601090] 1일 1회 한정 고난도 배틀!
+[quest_title_1030604000601100] 챌린지배틀로 승부!
+[quest_title_1030604000601110] 챌린지배틀로 승부!2
+[quest_title_1030220302000000] 칠리의 어느 날
+[quest_title_1030604000602010] VS 칠리
+[quest_title_1030604000603000] 꿈을 증오하는 괴인
+[quest_title_1030604000603010] 악을 연기하는 스타의 고민
+[quest_title_1030604000603050] VS 배우들
+[quest_title_1030604000603020] 보이지 않는 미래
+[quest_title_1030604000603060] VS 배우들2
+[quest_title_1030604000603030] 앞으로 나아갈 길
+[quest_title_1030604000603070] VS 배우들3
+[quest_title_1030604000603040] 꿈의 경연!
+[quest_title_1030604000603080] VS 배우들4
+[quest_title_1030604000603090] 1일 1회 한정 고난도 배틀!
+[quest_title_1030604000603100] 챌린지배틀로 승부!
+[quest_title_1030604000603110] 챌린지배틀로 승부!2
+[quest_title_1030460400101010] VS 마슈
+[quest_title_1030460400102010] VS 영태
+[quest_title_1030460400103010] VS 모란
+[quest_title_1030460400106010] VS 이슬
+[quest_title_1030460400107010] VS 시즈
+[quest_title_1030460102101010] VS 진심으로 전력을 다하는 단델
+[quest_title_1030604000604000] 스컬단 그만두겠습니다!
+[quest_title_1030604000604020] VS 구즈마와 플루메리
+[quest_title_1030604000604030] VS 구즈마와 플루메리2
+[quest_title_1030604000604040] VS 구즈마와 플루메리3
+[quest_title_1030604000604050] VS 구즈마와 플루메리4
+[quest_title_1030604000604060] 1일 1회 한정 고난도 배틀!
+[quest_title_1030604000604010] 뭔가를 바꿀 알로라의 바람
+[quest_title_1030604000605000] 수수께끼의 굉장한 트레이너
+[quest_title_1030604000605020] VS 파시오의 트레이너
+[quest_title_1030604000605030] VS 금랑
+[quest_title_1030604000605010] 여자아이의 정체
+[quest_title_1030220303000000] 뽀삐의 어느 날
+[quest_title_1030460400201010] VS 공명
+[quest_title_1030460400501010] VS 파시오의 트레이너
+[quest_title_1030460400501011] VS 파시오의 트레이너2
+[quest_title_1030460400501012] VS 파시오의 트레이너3
+[quest_title_1030460400501013] VS 파시오의 트레이너4
+[quest_group_title_10302000000] 칠리
+[quest_group_title_10301000000] 담죽맨
+[quest_group_title_10300000000] 주즈베
+[quest_group_title_10303000000] 뽀삐
 
 ===========
 story_quest_name_zh-TW.lsd
@@ -35019,6 +35438,62 @@ story_quest_name_zh-TW.lsd
 （英雄）
 [quest_group_title_10123400000] 美月
 （英雄）
+[quest_title_1040003020001011] 與辛俐的特別日子　前篇
+[quest_title_1040003020001021] 與辛俐的特別日子　後篇
+[quest_title_1030110000600800] 有過節的兩人再度碰面
+[quest_title_1030604000601000] 帕希歐名產開發中
+[quest_title_1030604000601010] 辛俐姐姐與小茜
+[quest_title_1030604000601050] ＶＳ　小茜
+[quest_title_1030604000601020] 上相的景點嗎？
+[quest_title_1030604000601060] ＶＳ　小茜２
+[quest_title_1030604000601030] 才不會輸給關都人！
+[quest_title_1030604000601070] ＶＳ　小茜３
+[quest_title_1030604000601040] 意外的結局
+[quest_title_1030604000601080] ＶＳ　小茜４
+[quest_title_1030604000601090] １天僅限１次的高難度對戰！
+[quest_title_1030604000601100] 用挑戰對戰決勝負！
+[quest_title_1030604000601110] 用挑戰對戰決勝負！２
+[quest_title_1030220302000000] 某日的辛俐
+[quest_title_1030604000602010] ＶＳ　辛俐
+[quest_title_1030604000603000] 憎恨理想的怪人
+[quest_title_1030604000603010] 扮演反派的明星的煩惱
+[quest_title_1030604000603050] ＶＳ　演員們
+[quest_title_1030604000603020] 看不見的未來
+[quest_title_1030604000603060] ＶＳ　演員們２
+[quest_title_1030604000603030] 今後的道路
+[quest_title_1030604000603070] ＶＳ　演員們３
+[quest_title_1030604000603040] 夢幻卡司同台飆戲！
+[quest_title_1030604000603080] ＶＳ　演員們４
+[quest_title_1030604000603090] １天僅限１次的高難度對戰！
+[quest_title_1030604000603100] 用挑戰對戰決勝負！
+[quest_title_1030604000603110] 用挑戰對戰決勝負！２
+[quest_title_1030460400101010] ＶＳ　瑪綉
+[quest_title_1030460400102010] ＶＳ　小陽
+[quest_title_1030460400103010] ＶＳ　牡丹
+[quest_title_1030460400106010] ＶＳ　小霞
+[quest_title_1030460400107010] ＶＳ　西子伊
+[quest_title_1030460102101010] ＶＳ　火力全開的丹帝
+[quest_title_1030604000604000] 我要退出骷髏隊！
+[quest_title_1030604000604020] ＶＳ　古茲馬與布爾美麗
+[quest_title_1030604000604030] ＶＳ　古茲馬與布爾美麗２
+[quest_title_1030604000604040] ＶＳ　古茲馬與布爾美麗３
+[quest_title_1030604000604050] ＶＳ　古茲馬與布爾美麗４
+[quest_title_1030604000604060] １天僅限１次的高難度對戰！
+[quest_title_1030604000604010] 能夠帶來變化的阿羅拉之風
+[quest_title_1030604000605000] 神秘的高手訓練家
+[quest_title_1030604000605020] ＶＳ　帕希歐的訓練家
+[quest_title_1030604000605030] ＶＳ　奇巴納
+[quest_title_1030604000605010] 女孩的真實身分
+[quest_title_1030220303000000] 某日的波琵
+[quest_title_1030460400201010] ＶＳ　共平
+[quest_title_1030460400501010] ＶＳ　帕希歐的訓練家
+[quest_title_1030460400501011] ＶＳ　帕希歐的訓練家２
+[quest_title_1030460400501012] ＶＳ　帕希歐的訓練家３
+[quest_title_1030460400501013] ＶＳ　帕希歐的訓練家４
+[quest_group_title_10302000000] 辛俐
+[quest_group_title_10301000000] 哈奇酷俠
+[quest_group_title_10300000000] 麗棗
+[quest_group_title_10303000000] 波琵
 
 ===========
 trainer_description_de.lsd
@@ -36358,6 +36833,40 @@ Hisui. Er ist von Natur aus neugierig und kennt sich sehr
 gut mit Pokémon-Mythen und Ruinen aus. Besondere
 Leute oder seltene Gegenstände wecken stets sein
 Interesse.
+[10300000000] Als Königin des Zauberreichs setzt sie furchteinflößende
+Magie ein. Sie lockt Menschen durch Pforten in ihre Welt
+und nutzt ihre Lebenskraft als Energiequelle.
+[10301000000] Er ist bekannt als das Spektrum zwischen Trugbild und
+Realität und macht mit Wünschen kurzen Prozess. Mit
+seiner Pokémon-Truppe geht er finsteren Machenschaften
+nach, während er sich überraschenderweise um eine
+gewisse Streiterin der Gerechtigkeit sorgt.
+[10302000000] Diese Spezialistin für Boden-Pokémon ist das erste
+Top-Vier-Mitglied der Pokémon-Liga, dem Herausforderer
+in Paldea begegnen. Sobald sie in ihre Rolle als Prüferin
+schlüpft, wird der Unterschied zu ihrer alltäglichen
+Persönlichkeit deutlich.
+[10303000000] Poppy ist das zweite Mitglied der Top Vier von Paldea,
+gegen das sich Herausforderer in der Pokémon-Liga
+behaupten müssen. Sie hat sich auf Stahl-Pokémon
+spezialisiert. Der erste Eindruck trügt, denn hinter ihrem
+kindlichen Aussehen verbirgt sich überwältigendes Talent.
+[10302000001] Diese Spezialistin für Boden-Pokémon ist das erste
+Top-Vier-Mitglied der Pokémon-Liga, dem Herausforderer
+in Paldea begegnen. Sobald sie in ihre Rolle als Prüferin
+schlüpft, wird der Unterschied zu ihrer alltäglichen
+Persönlichkeit deutlich.
+[10021800001] Blau besinnt sich in seinem Outfit, das er bereits zum
+Aufbruch zu seiner ersten Reise durch die Kanto-Region
+getragen hat, auf seine Anfänge. Er steht zu seinen
+früheren Fehlern und verfolgt weiter das Ziel, der stärkste
+Trainer der Welt zu werden.
+[10125000001] Der Boss von Team Skull aus Alola ist stark genug, um
+diese verschrobenen Schurken anzuführen und genießt
+dabei das volle Vertrauen seiner Untergebenen.
+[10121000001] Als Vorstand von Team Skull nimmt sie die Rolle einer
+großen Schwester ein. Wer ihre Leute schikaniert, 
+bekommt es mit ihr zu tun.
 
 ===========
 trainer_description_en.lsd
@@ -37545,6 +38054,34 @@ with her partner Pokémon, Scizor!
 region. He knows a lot about Pokémon mythology and
 ruins, and he’s very curious, often taking an interest in
 people and rare items.
+[10300000000] Queen of the Land of Enchantment, she wields terrifying
+magic. She abducts people through a mysterious door
+and steadily extracts their life force.
+[10301000000] The Masked Man of Reality and Phantasm has no use for
+ideals. He carries out evil deeds with his trusted Pokémon
+party, but strangely shows concern for a certain champion
+of justice.
+[10302000000] This Ground-type specialist is the first of the Paldea
+region’s Elite Four that challengers face. There is a
+considerable gap between her persona when she
+interviews challengers and her usual personality.
+[10303000000] One of the Elite Four in the Paldea region’s Pokémon
+League. She is the second to face challengers and
+specializes in Steel-type Pokémon. Her youthful
+appearance belies her overwhelming skill.
+[10302000001] This Ground-type specialist is the first of the Paldea
+region’s Elite Four that challengers face. There is a
+considerable gap between her persona when she
+interviews challengers and her usual personality.
+[10021800001] Blue is going back to the basics in the outfit he wore
+when he traveled the Kanto region. He’s learned from his
+past mistakes and is still aiming to be number one.
+[10125000001] He is the strong leader of a group of toughs in Alola
+called Team Skull. The group’s rowdy members obey him,
+and his kindness has earned their devoted respect.
+[10121000001] This Team Skull Admin controls the rest of the team and
+is seen as something of a big sister type. She looks after
+the Grunts and won’t forgive anyone who bullies them.
 
 ===========
 trainer_description_es.lsd
@@ -38930,6 +39467,38 @@ Scizor.
 mucho sobre mitología Pokémon y ruinas. Dada su
 curiosidad ávida, también alberga un gran interés por los
 objetos raros y las personas.
+[10300000000] La reina del reino hechizado posee temibles poderes
+mágicos. Es capaz de crear puertas misteriosas que le
+permiten atrapar a inocentes para absorber su energía
+vital.
+[10301000000] El villano enmascarado que deambula entre la realidad y
+la fantasía considera que los ideales no son necesarios.
+Comete maldades junto con su equipo Pokémon, aunque
+extrañamente también se preocupa por su némesis.
+[10302000000] Esta especialista en el tipo Tierra es la primera miembro
+del Alto Mando a la que se enfrentan los aspirantes en
+Paldea. Hay una gran diferencia entre su personalidad
+habitual y la que muestra en las entrevistas.
+[10303000000] Segunda miembro del Alto Mando de Paldea a la que se
+enfrentan los aspirantes. Su especialidad son los Pokémon
+de tipo Acero y, a pesar de su apariencia infantil, su
+fuerza es abrumadora.
+[10302000001] Esta especialista en el tipo Tierra es la primera miembro
+del Alto Mando a la que se enfrentan los aspirantes en
+Paldea. Hay una gran diferencia entre su personalidad
+habitual y la que muestra en las entrevistas.
+[10021800001] Azul vuelve a sus inicios con la indumentaria que llevaba
+cuando viajaba por Kanto. Ha asumido que era muy
+inmaduro por entonces, pero sigue decidido a convertirse
+en el Entrenador más fuerte habido y por haber.
+[10125000001] Jefe de una organización de rufianes de la región de
+Alola conocida como Team Skull. Posee un don para
+controlar a los parias más rebeldes y su gentileza le
+ha permitido granjearse el respeto de sus subordinados.
+[10121000001] Comandante del Team Skull. Vela por sus subordinados y
+siempre los defiende cuando alguien los deja a la altura
+del betún, por lo que es como una hermana mayor para
+ellos.
 
 ===========
 trainer_description_fr.lsd
@@ -40275,6 +40844,39 @@ avec son partenaire, Cizayox !
 Il possède beaucoup de connaissances sur la mythologie
 Pokémon et les ruines, mais il est aussi très curieux
 au sujet des personnes et des objets rares.
+[10300000000] Reine du royaume magique, elle possède de terrifiants
+pouvoirs. Elle enlève des gens à l'aide d'une porte
+mystérieuse et draine leur énergie vitale.
+[10301000000] Le spectre de l'illusion et du réel est un super-vilain
+qui n'a que faire des idéaux. Il accomplit des méfaits
+avec son gang de Pokémon, mais s'intéresse
+étrangement à une certaine justicière.
+[10302000000] Cette spécialiste du type Sol est la première membre
+du Conseil 4 qu'affrontent les challengers à la Ligue
+Pokémon de Paldea. Son attitude lorsqu'elle teste
+les challengers est complètement différente
+de sa vraie personnalité.
+[10303000000] Cette spécialiste du type Acier est la deuxième membre
+du Conseil 4 qu'affrontent les challengers à la Ligue
+Pokémon de Paldea. Derrière son apparence enfantine
+se cache un talent accablant.
+[10302000001] Cette spécialiste du type Sol est la première membre
+du Conseil 4 qu'affrontent les challengers à la Ligue
+Pokémon de Paldea. Son attitude lorsqu'elle teste
+les challengers est complètement différente
+de sa vraie personnalité.
+[10021800001] Blue se replonge dans le passé en portant à nouveau
+sa tenue de Kanto. Il fait face à ses erreurs d'antan
+tout en maintenant son objectif de devenir
+le plus fort de tous les Dresseurs.
+[10125000001] Le boss d'une bande de bons à rien d'Alola nommée
+la Team Skull. Sa force lui permet de se faire obéir
+par cette bande hétéroclite, et sa gentillesse
+de s'en faire aimer.
+[10121000001] Admin de la Team Skull sur laquelle elle veille avec soin,
+Apocyne est considérée par ses Sbires comme étant
+une véritable grande sœur. Elle leur est particulièrement
+attachée et ne permet à personne de s'attaquer à eux.
 
 ===========
 trainer_description_it.lsd
@@ -41575,6 +42177,36 @@ insieme al suo Pokémon compagno, Scizor!
 di mitologia dei Pokémon e di antiche rovine. È molto
 curioso e spesso mostra uno spiccato interesse per
 gli oggetti peculiari e per le persone.
+[10300000000] La regina del regno della magia, dotata di poteri magici
+spaventosi. È in grado di creare porte misteriose,
+con cui rapisce gli esseri umani per poi impadronirsi
+della loro energia vitale.
+[10301000000] Il malvagio della realtà e della fantasia non sa cosa
+farsene degli ideali. Compie malefatte insieme
+alla sua armata di Pokémon, ma stranamente
+si preoccupa per una certa eroina della giustizia.
+[10302000000] La prima da affrontare tra i Superquattro di Paldea
+è un'esperta del tipo Terra. C'è una differenza abissale
+tra la sua personalità normale e quella che mostra
+quando sottopone gli sfidanti alla prova orale.
+[10303000000] La seconda dei Superquattro della Lega Pokémon
+di Paldea. La sua specialità sono i Pokémon
+di tipo Acciaio. Il suo aspetto infantile nasconde
+la sua forza straordinaria.
+[10302000001] La prima da affrontare tra i Superquattro di Paldea
+è un'esperta del tipo Terra. C'è una differenza abissale
+tra la sua personalità normale e quella che mostra
+quando sottopone gli sfidanti alla prova orale.
+[10021800001] Blu ritorna alle origini con il suo vecchio completo,
+indossato durante le avventure a Kanto. Ha imparato
+dai suoi errori passati e mira sempre a diventare
+il numero uno.
+[10125000001] Carismatico capo del Team Skull, un gruppo di lestofanti
+di Alola. Controlla e si prende cura dei suoi sottoposti, 
+che lo ricambiano con una fiducia incondizionata.
+[10121000001] Ufficiale del Team Skull vista dal gruppo come una
+sorta di sorella maggiore. Coccola le Reclute e non
+sopporta che i suoi subalterni vengano maltrattati.
 
 ===========
 trainer_description_ja.lsd
@@ -42746,6 +43378,30 @@ trainer_description_ja.lsd
 [10297000001] ヒスイ地方　イチョウ商会に　所属している　行商人。
 ポケモン神話や　遺跡に詳しく　珍しいものや　人に
 よく興味を持つ　好奇心旺盛な性格。
+[10300000000] 恐ろしい　魔法を使う　魔法の国の　クイーン。
+不思議な扉を　利用して　人間たちを　さらい
+どんどん　命のエキスを　吸い取っていた。
+[10301000000] 「理想」を憎む　現実と　幻想の　怪人。
+自慢の　ポケモン軍団と　共に　悪事を働いているが
+とある正義の味方を　なぜか　とても気に掛けている。
+[10302000000] パルデア地方　ポケモンリーグの　四天王。
+挑戦順では　１番手を務める　じめんタイプの使い手。
+面接官も担当しているが　普段とのギャップがすごい。
+[10303000000] パルデア地方　ポケモンリーグの　四天王。
+挑戦順では　２番手を務める　はがねタイプの使い手。
+幼い容姿からは　想像できないほど　実力が高い。
+[10302000001] パルデア地方　ポケモンリーグの　四天王。
+挑戦順では　１番手を務める　じめんタイプの使い手。
+面接官も担当しているが　普段とのギャップがすごい。
+[10021800001] カントー地方を　旅していたときの　衣装を
+身にまとい　初心に　立ち返った　グリーン。
+かつての　未熟さを　受け入れ　最強を　目指す。
+[10125000001] アローラ地方の　ならず者集団　スカル団のボス。
+ひねくれ者や　荒くれ者たちを　率いる　力量を持つ。
+面倒みはいいようで　部下からの　信頼は　厚い。
+[10121000001] スカル団の幹部で　団を束ねる　アネゴ的存在。
+したっぱたちを　かわいがっていて
+部下が　いじめられるのは　我慢ならない。
 
 ===========
 trainer_description_ko.lsd
@@ -43916,6 +44572,30 @@ WPM 운영위원회의 대표도 맡고 있다.
 [10297000001] 히스이지방 은행상회에 소속되어 있는 행상인.
 포켓몬 신화와 유적에 해박하며 특이한 물건과 사람에게
 흥미를 잘 느끼는 호기심 왕성한 인물.
+[10300000000] 무시무시한 마법을 사용하는 마법 나라의 여왕.
+이상한 문을 이용하여 사람들을 납치하고
+생명의 에너지를 점점 빨아들이고 있었다.
+[10301000000] "꿈"을 증오하는 현실과 환상의 괴인.
+자랑스러운 포켓몬 군단과 함께 악행을 저지르지만
+어째서인지 어떤 정의의 사도를 매우 신경 쓰고 있다.
+[10302000000] 팔데아지방 포켓몬리그의 사천왕.
+순서상 첫 번째로 도전하게 되는 땅타입 전문가.
+면접관도 담당하고 있는데 평소와는 분위기가 딴판이다.
+[10303000000] 팔데아지방 포켓몬리그의 사천왕.
+순서상 두 번째로 도전하게 되는 강철타입 전문가.
+어린 모습에선 상상조차 안 될 만큼 실력이 뛰어나다.
+[10302000001] 팔데아지방 포켓몬리그의 사천왕.
+순서상 첫 번째로 도전하게 되는 땅타입 전문가.
+면접관도 담당하고 있는데 평소와는 분위기가 딴판이다.
+[10021800001] 관동지방을 여행하던 시절의 의상을 입고
+초심으로 돌아간 그린.
+과거의 미숙함을 받아들이고 최강을 목표한다.
+[10125000001] 알로라지방의 불량배 집단 스컬단의 보스.
+비뚤어지거나 거친 사람들을 이끄는 역량을 가지고 있다.
+부하들을 잘 챙겨주어 부하들의 신뢰가 깊다.
+[10121000001] 스컬단의 간부이며 스컬단을 통솔하는 여두목 같은 존재.
+조무래기 단원들을 귀여워하고 있는 듯하며
+조무래기들이 당하는 것은 참을 수 없다고 한다.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -45086,6 +45766,29 @@ trainer_description_zh-TW.lsd
 [10297000001] 屬於洗翠地區銀杏商會的旅行商人，
 熟知寶可夢神話和遺跡。擁有旺盛的
 好奇心，對珍奇的人和物相當感興趣。
+[10300000000] 魔法國度的女王，會使用可怕的魔法。
+利用神秘的門抓走人類，
+然後一個個地吸取其生命精華。
+[10301000000] 現實與幻想的怪人，對「理想」感到憎恨。
+雖然平時都與自豪的寶可夢軍團一起做壞事，
+卻不知為何對某位正義的夥伴相當在意。
+[10302000000] 帕底亞地區寶可夢聯盟的四天王。
+是排在第１順位接受挑戰的地面屬性行家。
+也負責擔任面試官，但與平時的模樣反差很大。
+[10303000000] 帕底亞地區寶可夢聯盟的四天王。
+是排在第２順位接受挑戰的鋼屬性行家。
+有著從她年幼的模樣難以想像的高度實力。
+[10302000001] 帕底亞地區寶可夢聯盟的四天王。
+是排在第１順位接受挑戰的地面屬性行家。
+也負責擔任面試官，但與平時的模樣反差很大。
+[10021800001] 穿上在關都地區冒險時的服裝，
+回歸初心的青綠。他接納過去
+不成熟的自己，以最強為目標。
+[10125000001] 在阿羅拉地區愛鬧事的集團，骷髏隊的老大。
+擁有率領個性彆扭、粗暴的成員的實力。
+似乎很會照顧人，深受部下的信賴。
+[10121000001] 是骷髏隊的幹部，也是統領骷髏隊的大姐大。
+很疼愛手下們，無法忍受他們被欺負。
 
 ===========
 trainer_name_de.lsd
@@ -45360,6 +46063,10 @@ trainer_name_de.lsd
 [ch0295] Sagaria
 [ch0297] Volo
 [ch0298] Jim
+[ch0300] Cursilla
+[ch0301] Super Sandro
+[ch0302] Cay
+[ch0303] Poppy
 
 ===========
 trainer_name_en.lsd
@@ -45634,6 +46341,10 @@ trainer_name_en.lsd
 [ch0295] Geeta
 [ch0297] Volo
 [ch0298] Jacq
+[ch0300] Bellelba
+[ch0301] Brycen-Man
+[ch0302] Rika
+[ch0303] Poppy
 
 ===========
 trainer_name_es.lsd
@@ -45908,6 +46619,10 @@ trainer_name_es.lsd
 [ch0295] Ságita
 [ch0297] Volus
 [ch0298] Cinio
+[ch0300] Malignia
+[ch0301] Juncomán
+[ch0302] Cayena
+[ch0303] Pola
 
 ===========
 trainer_name_fr.lsd
@@ -46182,6 +46897,10 @@ trainer_name_fr.lsd
 [ch0295] Alisma
 [ch0297] Percupio
 [ch0298] Jacq
+[ch0300] Jujube
+[ch0301] Zhuman
+[ch0302] Cayenn
+[ch0303] Popi
 
 ===========
 trainer_name_it.lsd
@@ -46456,6 +47175,10 @@ trainer_name_it.lsd
 [ch0295] Alisma
 [ch0297] Ethelo
 [ch0298] Zim
+[ch0300] Malicia
+[ch0301] Fantasilvestro
+[ch0302] Capsi
+[ch0303] Verina
 
 ===========
 trainer_name_ja.lsd
@@ -46730,6 +47453,10 @@ trainer_name_ja.lsd
 [ch0295] オモダカ
 [ch0297] ウォロ
 [ch0298] ジニア
+[ch0300] ジュジュベ
+[ch0301] ハチクマン
+[ch0302] チリ
+[ch0303] ポピー
 
 ===========
 trainer_name_ko.lsd
@@ -47004,6 +47731,10 @@ trainer_name_ko.lsd
 [ch0295] 테사
 [ch0297] 월로
 [ch0298] 지니어
+[ch0300] 주즈베
+[ch0301] 담죽맨
+[ch0302] 칠리
+[ch0303] 뽀삐
 
 ===========
 trainer_name_zh-TW.lsd
@@ -47278,6 +48009,10 @@ trainer_name_zh-TW.lsd
 [ch0295] 也慈
 [ch0297] 望羅
 [ch0298] 吉尼亞
+[ch0300] 麗棗
+[ch0301] 哈奇酷俠
+[ch0302] 辛俐
+[ch0303] 波琵
 
 ===========
 trainer_verbose_name_de.lsd
@@ -47511,6 +48246,8 @@ trainer_verbose_name_de.lsd
 (Kostüm)
 [10123400000] Selene 
 (Kostüm)
+[10021800001] Blau 
+(Kanto)
 
 ===========
 trainer_verbose_name_en.lsd
@@ -47755,6 +48492,8 @@ Gladion
 (Special Costume)
 [10123400000] Selene 
 (Special Costume)
+[10021800001] Blue 
+(Classic)
 
 ===========
 trainer_verbose_name_es.lsd
@@ -47962,6 +48701,7 @@ con Kimono)
 [10285400000] Nákara (Especial)
 [10099400000] Israel (Especial)
 [10123400000] Selene (Especial)
+[10021800001] Azul (Kanto)
 
 ===========
 trainer_verbose_name_fr.lsd
@@ -48188,6 +48928,7 @@ trainer_verbose_name_fr.lsd
 (Spécial)
 [10099400000] René (Spécial)
 [10123400000] Selene (Spécial)
+[10021800001] Blue (Classique)
 
 ===========
 trainer_verbose_name_it.lsd
@@ -48422,6 +49163,8 @@ trainer_verbose_name_it.lsd
 (speciale)
 [10123400000] Selene 
 (speciale)
+[10021800001] Blu 
+(classico)
 
 ===========
 trainer_verbose_name_ja.lsd
@@ -48656,6 +49399,8 @@ trainer_verbose_name_ja.lsd
 （スペシャル）
 [10123400000] ミヅキ
 （スペシャル）
+[10021800001] グリーン
+（アナザー）
 
 ===========
 trainer_verbose_name_ko.lsd
@@ -48890,6 +49635,8 @@ trainer_verbose_name_ko.lsd
 (스페셜)
 [10123400000] 미월
 (스페셜)
+[10021800001] 그린
+(어나더)
 
 ===========
 trainer_verbose_name_zh-TW.lsd
@@ -49124,6 +49871,8 @@ trainer_verbose_name_zh-TW.lsd
 （英雄）
 [10123400000] 美月
 （英雄）
+[10021800001] 青綠
+（關都）
 
 ===========
 common_widget_de.lsd
@@ -49515,6 +50264,7 @@ durch Item-Tausch nicht in diesem Zustand erhalten werden.
 [common_widget/trainer_detail_086] Physischer Angreifer
 [common_widget/trainer_detail_087] Spezial-Angreifer
 [common_widget/trainer_detail_088] EX-Rolle
+[common_widget/trainer_detail_089] [Name:Type ]/[Name:Type Idx="1" ]
 [common_widget/dialog_special_item_001] [Name:Item ]
 erhalten!
 [common_widget/dialog_special_item_002] Noch [Digit:1digit ] Orden!
@@ -50329,6 +51079,7 @@ upgrades
 [common_widget/trainer_detail_086] Physical Strike
 [common_widget/trainer_detail_087] Special Strike
 [common_widget/trainer_detail_088] EX role
+[common_widget/trainer_detail_089] [Name:Type ] / [Name:Type Idx="1" ]
 [common_widget/dialog_special_item_001] [Name:Item ]
 [common_widget/dialog_special_item_002] Only [Digit:1digit ] more [EN:Qty S="badge" P="badges" ] to go!
 [common_widget/dialog_special_item_003] All badges acquired! Time to compete in the PML!
@@ -51130,6 +51881,7 @@ ni al conseguirla mediante un canje.
 [common_widget/trainer_detail_086] Ataque Físico
 [common_widget/trainer_detail_087] Ataque Especial
 [common_widget/trainer_detail_088] Función EX
+[common_widget/trainer_detail_089] [Name:Type ]/[Name:Type Idx="1" ]
 [common_widget/dialog_special_item_001] Has conseguido:
 [Name:Item ]
 [common_widget/dialog_special_item_002] Medallas restantes: [Digit:1digit ]
@@ -51958,6 +52710,7 @@ via un Appel Duo ou le menu Échange d'objets.
 [common_widget/trainer_detail_086] Attaquant Physique
 [common_widget/trainer_detail_087] Attaquant Spécial
 [common_widget/trainer_detail_088] Rôle EX
+[common_widget/trainer_detail_089] [Name:Type ]/[Name:Type Idx="1" ]
 [common_widget/dialog_special_item_001] Vous avez obtenu
 1 [Name:Item ] !
 [common_widget/dialog_special_item_002] Encore [Digit:1digit ] Badge[FR:Qty P="s" ] à obtenir !
@@ -52453,7 +53206,7 @@ common_widget_it.lsd
 [common_widget/cell_051] ＋[Digit:8digits ]
 [common_widget/cell_052] --
 [common_widget/cell_053] ???
-[common_widget/cell_054] In corso
+[common_widget/cell_054] Selezionata
 [common_widget/cell_056] [Digit:6digits ] - [Digit:6digits Idx="1" ]
 [common_widget/button_001] Ok
 [common_widget/button_002] Sì
@@ -52780,6 +53533,7 @@ Non è possibile ottenerla in questo stato dall'Unicerca o dallo scambio strumen
 [common_widget/trainer_detail_086] Attaccante fisico
 [common_widget/trainer_detail_087] Attaccante speciale
 [common_widget/trainer_detail_088] Ruolo EX
+[common_widget/trainer_detail_089] [Name:Type ] / [Name:Type Idx="1" ]
 [common_widget/dialog_special_item_001] Hai ottenuto: [Name:Item ]!
 [common_widget/dialog_special_item_002] Medaglie mancanti: [Digit:1digit ]!
 [common_widget/dialog_special_item_003] Ora hai tutte le medaglie! Puoi affrontare il WPM!
@@ -53589,6 +54343,7 @@ MAX
 [common_widget/trainer_detail_086] 物理アタッカー
 [common_widget/trainer_detail_087] 特殊アタッカー
 [common_widget/trainer_detail_088] EXロール
+[common_widget/trainer_detail_089] [Name:Type ] / [Name:Type Idx="1" ]
 [common_widget/dialog_special_item_001] [Name:Item ]を
 獲得しました！
 [common_widget/dialog_special_item_002] のこるバッジは　あと[Digit:1digit ]個！
@@ -54409,6 +55164,7 @@ Lv.1 상태
 [common_widget/trainer_detail_086] 물리 어태커
 [common_widget/trainer_detail_087] 특수 어태커
 [common_widget/trainer_detail_088] EX롤
+[common_widget/trainer_detail_089] [Name:Type ] / [Name:Type Idx="1" ]
 [common_widget/dialog_special_item_001] [Name:Item ][Kor:Particle char="wo" ]
 획득했습니다!
 [common_widget/dialog_special_item_002] 남은 배지는 앞으로 [Digit:1digit ]개!
@@ -55203,6 +55959,7 @@ MAX
 [common_widget/trainer_detail_086] 物理攻擊型
 [common_widget/trainer_detail_087] 特殊攻擊型
 [common_widget/trainer_detail_088] EX體系
+[common_widget/trainer_detail_089] [Name:Type ] / [Name:Type Idx="1" ]
 [common_widget/dialog_special_item_001] 獲得了
 [Name:Item ]！
 [common_widget/dialog_special_item_002] 還剩下[Digit:1digit ]個徽章！
@@ -59074,6 +59831,8 @@ Kämpfe verfügbar.
 [home/score_attack_101] Erstbonus
 [home/score_attack_102] Du kannst folgende Belohnungen erhalten, wenn
 du alle Kämpfe zum ersten Mal abschließt.
+[home/score_attack_103] Wenn du Gefährten der folgenden Typen im Team hast,
+wird die Basis-Punktzahl mit einem Multiplikator verrechnet.
 [home/battle_rally_001] Kampfrallye
 [home/battle_rally_002] Herausforderung
 [home/battle_rally_003] Aktive Itemeffekte
@@ -59089,6 +59848,7 @@ Gebiet [Digit:3digits ] freigeschaltet
 [home/battle_rally_012] Kampfrallye-Pass-Limit
 [home/battle_rally_013] Bonus
 [home/battle_rally_014] Aktive Itemeffekte
+[home/battle_rally_015] Rallye-Laden
 [home/battle_rally_016] Gebiet [Digit:3digits ] [Name:QuestDifficulty ]
 [home/battle_rally_017] Infos zu Rallye-Punkten
 [home/battle_rally_018] Basis-Rallye-Punkte
@@ -60316,6 +61076,8 @@ some battles.
 [home/score_attack_101] First-time rewards
 [home/score_attack_102] You can obtain the following rewards when
 you complete each battle for the first time.
+[home/score_attack_103] Adding sync pairs with the following types to
+your team will add a multiplier to your base score.
 [home/battle_rally_001] Battle Rally
 [home/battle_rally_002] Challenge
 [home/battle_rally_003] Activated Item Effects
@@ -60331,6 +61093,7 @@ you complete each battle for the first time.
 [home/battle_rally_013] Bonus
 [home/battle_rally_014] Activated
 Item Effects
+[home/battle_rally_015] Rally Shop
 [home/battle_rally_016] Area [Digit:3digits ] [Name:QuestDifficulty ]
 [home/battle_rally_017] Rally Point Details
 [home/battle_rally_018] Base Rally Points
@@ -60886,7 +61649,7 @@ cuenta con más de un bonus, solo se aplicará el más alto.
 [home/quest_detail_192] Detalles de la formación
 [home/quest_detail_193] Combate [Digit:3digits ]
 [home/quest_detail_194] Puesto
-[home/quest_detail_195] No clasificad[ES:Gen Ref="255" M="o" F="a" ]
+[home/quest_detail_195] No clasific.
 [home/quest_detail_196] [Digit:5digits ]
 [home/quest_detail_197] Récord de victorias
 [home/quest_detail_198] Compis usados
@@ -61036,7 +61799,7 @@ disponible solo por tiempo limitado!
 [home/global_menu_020] Google Play
 [home/global_menu_021] Emblemas
 [home/global_menu_022] Menú del Porygófono
-[home/global_menu_023] Título
+[home/global_menu_023] Títulos
 [home/global_menu_024] Fotomatón
 [home/global_menu_025] Diario de aventuras
 [home/global_menu_026] Rango [Digit:8digits ]
@@ -61650,6 +62413,9 @@ puedan completar con normas de retos.
 [home/score_attack_101] Primera vez
 [home/score_attack_102] Puedes obtener los siguientes premios al
 completar cada combate por primera vez.
+[home/score_attack_103] Forma un equipo con compis de los siguientes
+tipos para aplicar un multiplicador a tu
+puntuación base.
 [home/battle_rally_001] Yincana de Combates
 [home/battle_rally_002] Afrontar
 [home/battle_rally_003] Efectos de objetos activos
@@ -61668,6 +62434,7 @@ al máximo
 [home/battle_rally_013] Bonus
 [home/battle_rally_014] Efectos de
 objetos activos
+[home/battle_rally_015] Tienda Yincana
 [home/battle_rally_016] Ubicación [Digit:3digits ] ([Name:QuestDifficulty ])
 [home/battle_rally_017] Detalles de los puntos de la Yincana
 [home/battle_rally_018] Ptos. Yincana base
@@ -63103,6 +63870,8 @@ incompatibles avec certains combats.
 [home/score_attack_102] Vous pouvez obtenir les récompenses
 suivantes lorsque vous remportez
 chaque combat pour la première fois.
+[home/score_attack_103] Ajouter des Duos des types suivants à votre équipe
+appliquera un multiplicateur à votre score de base.
 [home/battle_rally_001] Rallye de combats
 [home/battle_rally_002] Défi
 [home/battle_rally_003] Effets des objets activés
@@ -63118,6 +63887,7 @@ chaque combat pour la première fois.
 [home/battle_rally_013] Bonus
 [home/battle_rally_014] Effets des objets
 activés
+[home/battle_rally_015] Boutique du rallye
 [home/battle_rally_016] Zone [Digit:3digits ] [Name:QuestDifficulty ]
 [home/battle_rally_017] Détails des Points de Rallye
 [home/battle_rally_018] Points de Rallye de base
@@ -63858,7 +64628,7 @@ Puoi vederlo subito nel negozio!
 [home/global_menu_023] Titoli
 [home/global_menu_024] Modalità foto
 [home/global_menu_025] Dati di gioco
-[home/global_menu_026] Posizione [Digit:8digits ]
+[home/global_menu_026] Rango [Digit:8digits ]
 [home/login_bonus_001] Bonus accesso
 [home/login_bonus_002] Accedi tutti i giorni per ottenere ricompense!
 [home/login_bonus_003] RICOMPENSE
@@ -64510,6 +65280,8 @@ soddisfare le condizioni delle regole sfida.
 [home/score_attack_101] Prima ricompensa
 [home/score_attack_102] Completando ciascuna lotta per la prima
 volta puoi ottenere le seguenti ricompense.
+[home/score_attack_103] Se inserisci in squadra Unità dei seguenti tipi,
+verrà applicato un moltiplicatore al tuo punteggio base.
 [home/battle_rally_001] Tour di lotta
 [home/battle_rally_002] Sfida!
 [home/battle_rally_003] Effetti strumento attivi
@@ -64525,6 +65297,7 @@ volta puoi ottenere le seguenti ricompense.
 [home/battle_rally_013] Bonus
 [home/battle_rally_014] Effetti strumento
 attivi
+[home/battle_rally_015] Negozio Tour di lotta
 [home/battle_rally_016] Area [Digit:3digits ] [Name:QuestDifficulty ]
 [home/battle_rally_017] Dettagli Punti Tour di lotta
 [home/battle_rally_018] Punti Tour di lotta base
@@ -65884,6 +66657,8 @@ GRADE一覧に戻ります
 [home/score_attack_101] 初回報酬
 [home/score_attack_102] それぞれのバトルを初めてクリアすると
 以下の報酬が獲得できます
+[home/score_attack_103] 以下のタイプのバディーズを編成することで
+基本スコアに倍率がかかります
 [home/battle_rally_001] バトルラリー
 [home/battle_rally_002] 挑戦する
 [home/battle_rally_003] 発動中のどうぐ効果
@@ -65899,6 +66674,7 @@ GRADE一覧に戻ります
 [home/battle_rally_013] ボーナス
 [home/battle_rally_014] 発動中
 どうぐ効果
+[home/battle_rally_015] ラリーショップ
 [home/battle_rally_016] エリア [Digit:3digits ]　[Name:QuestDifficulty ]
 [home/battle_rally_017] ラリーポイント詳細
 [home/battle_rally_018] 基本ラリーpt
@@ -67226,6 +68002,8 @@ WPM배지를 모두 모으면
 [home/score_attack_101] 첫 클리어 보상
 [home/score_attack_102] 각각 배틀을 처음 클리어하면
 아래 보상을 획득할 수 있습니다
+[home/score_attack_103] 아래 타입의 버디즈를 편성하면
+기본 스코어에 배율이 추가됩니다
 [home/battle_rally_001] 배틀 랠리
 [home/battle_rally_002] 도전한다
 [home/battle_rally_003] 발동 중인 도구 효과
@@ -67241,6 +68019,7 @@ WPM배지를 모두 모으면
 [home/battle_rally_013] 보너스
 [home/battle_rally_014] 발동 중인
 도구 효과
+[home/battle_rally_015] 랠리 숍
 [home/battle_rally_016] 에리어 [Digit:3digits ] [Name:QuestDifficulty ]
 [home/battle_rally_017] 랠리포인트 상세
 [home/battle_rally_018] 기본 랠리pt
@@ -68528,6 +69307,8 @@ GRADE的獎勵報酬
 [home/score_attack_101] 首次過關報酬
 [home/score_attack_102] 首次成功過關各個對戰時
 可獲得下列報酬
+[home/score_attack_103] 編制下列屬性的拍組
+會增加基本得分的倍率
 [home/battle_rally_001] 對戰接力
 [home/battle_rally_002] 挑戰
 [home/battle_rally_003] 發動中的道具效果
@@ -68544,6 +69325,7 @@ GRADE的獎勵報酬
 [home/battle_rally_013] 獎勵
 [home/battle_rally_014] 發動中
 道具效果
+[home/battle_rally_015] 接力商店
 [home/battle_rally_016] 區域[Digit:3digits ]　[Name:QuestDifficulty ]
 [home/battle_rally_017] 接力點數詳情
 [home/battle_rally_018] 基本接力點數
@@ -69439,8 +70221,14 @@ Es besteht die Möglichkeit, dass Mix-Gefährten in Zukunft auch außerhalb der 
 erhalten!
 [shop/scout_224] Zeitlich begrenzt
 [shop/scout_225] Regulär
+[shop/scout_226] Garant. 5★-G-Suche
+[shop/scout_227] Garant. 5★-G-Suche ×5
+[shop/scout_228] Garant. 5★-G-Suche ×10
 [shop/scout_231] Es sind keine Gefährtensuchen mit Tickets
 verfügbar.
+[shop/scout_232] [Digit:3digits ] × [Name:Item ]
+einsetzen, um [Digit:2digits Idx="1" ] Mal eine Ticket-
+Gefährtensuche durchzuführen?
 [shop/deck_item_sale_001] Ausrüstungstausch
 [shop/deck_item_sale_002] Ausrüstung
 [shop/deck_item_sale_003] Filter
@@ -70153,7 +70941,12 @@ Mix sync pairs may appear outside of mix-exclusive scouts in the future.
 [shop/scout_223] At Tier [Digit:3digits ], you can get a special sync pair scout ticket!
 [shop/scout_224] Limited Time
 [shop/scout_225] General
+[shop/scout_226] 5★-Guaranteed Scout
+[shop/scout_227] 5★-Guaranteed Scout ×5
+[shop/scout_228] 5★-Guaranteed Scout ×10
 [shop/scout_231] No ticket scouts available.
+[shop/scout_232] Use [Name:Item ] ×[Digit:3digits ]
+to scout [Digit:2digits Idx="1" ] [EN:Qty Ref="1" S="sync pair" P="sync pairs" ]?
 [shop/deck_item_sale_001] Exchange Gear
 [shop/deck_item_sale_002] Gear
 [shop/deck_item_sale_003] Filter
@@ -70656,7 +71449,9 @@ de la fase
 desde el menú de reclutamiento billete:
 [Name:Scout ].
 [shop/scout_132] ¡Puedes usar billetes para conseguir compis de 5★!
-[shop/scout_133] ¿Quieres usar [Name:Item ] ×[Digit:2digits ] para realizar el [Name:Scout ] [Digit:2digits Idx="1" ] ve[ES:Qty Ref="1" S="z" P="ces" ]?
+[shop/scout_133] ¿Quieres usar estos objetos para
+realizar el [Name:Scout ] [Digit:2digits Idx="1" ] ve[ES:Qty Ref="1" S="z" P="ces" ]?
+[Name:Item ] ×[Digit:2digits ]
 [shop/scout_134] Realizar reclutamiento
 [shop/scout_135] Detalles de las fases
 [shop/scout_136] ¿Quieres gastar [Digit:4digits ] joyas de pago en [Digit:2digits ] reclutamientos de compis?
@@ -70810,7 +71605,14 @@ dentro de este reclutamiento específico.
 [shop/scout_223] Fase [Digit:3digits ]: Billete especial para reclutar compis.
 [shop/scout_224] Por tiempo limitado
 [shop/scout_225] Normales
+[shop/scout_226] Recl. 5★ garantizadas
+[shop/scout_227] Recl. 5★ garantizadas ×5
+[shop/scout_228] Recl. 5★ garantizadas ×10
 [shop/scout_231] No hay reclutamientos billete disponibles.
+[shop/scout_232] ¿Quieres usar estos objetos para
+realizar un reclutamiento billete
+[Digit:2digits Idx="1" ] ve[ES:Qty Ref="1" S="z" P="ces" ]?
+[Name:Item ] ×[Digit:3digits ]
 [shop/deck_item_sale_001] Canjear accesorios
 [shop/deck_item_sale_002] Accesorios
 [shop/deck_item_sale_003] Filtrar
@@ -71509,7 +72311,13 @@ Les Duos extras sont des Duos apparaissant durant l'Appel Duo extra.
 un Bon Appel Duo spécial !
 [shop/scout_224] Durée limitée
 [shop/scout_225] Standard
+[shop/scout_226] Appel Duo 5★ garanti
+[shop/scout_227] Appel Duo 5★ garanti × 5
+[shop/scout_228] Appel Duo 5★ garanti × 10
 [shop/scout_231] Aucun Appel Duo avec Bons disponible
+[shop/scout_232] Voulez-vous utiliser
+[Name:Item ] × [Digit:3digits ]
+pour passer [Digit:2digits Idx="1" ] Appel[FR:Qty Ref="1" P="s" ] Duo ?
 [shop/deck_item_sale_001] Échanger équipement
 [shop/deck_item_sale_002] Équipement
 [shop/deck_item_sale_003] Filtrer
@@ -72273,7 +73081,12 @@ mix in futuro.
 per una ricerca Unità!
 [shop/scout_224] A durata limitata
 [shop/scout_225] Comuni
+[shop/scout_226] Unicerca con Unità 5★ garantita
+[shop/scout_227] Unicerca con Unità 5★ garantita ×5
+[shop/scout_228] Unicerca con Unità 5★ garantita ×10
 [shop/scout_231] Nessuna Unicerca con ticket disponibile.
+[shop/scout_232] Vuoi usare [Digit:3digits ] [Name:Item ]
+per effettuare [Digit:2digits Idx="1" ] [IT:Qty Ref="1" S="Unicerca" P="Unicerche" ]?
 [shop/deck_item_sale_001] Scambio accessori
 [shop/deck_item_sale_002] Accessori
 [shop/deck_item_sale_003] Filtra
@@ -73035,8 +73848,15 @@ EXカラーがありません
 [shop/scout_223] STEP[Digit:3digits ]では特別なバディーズサーチチケットがもらえる！
 [shop/scout_224] 期間限定
 [shop/scout_225] 通常
+[shop/scout_226] ★５確定Ｂサーチ
+[shop/scout_227] ５連　★５確定Ｂサーチ
+[shop/scout_228] １０連　★５確定Ｂサーチ
 [shop/scout_231] 開催中の
 チケット専用バディーズサーチはありません
+[shop/scout_232] [Name:Item ]を[Digit:3digits ]枚消費して
+チケット専用バディーズサーチを[Digit:2digits Idx="1" ]回します
+
+よろしいですか？
 [shop/deck_item_sale_001] 装備売却
 [shop/deck_item_sale_002] 装備
 [shop/deck_item_sale_003] フィルター
@@ -73823,8 +74643,15 @@ EX컬러가 없습니다
 [shop/scout_223] STEP[Digit:3digits ]에서는 특별한 버디즈서치 티켓을 받을 수 있다!
 [shop/scout_224] 기간 한정
 [shop/scout_225] 일반
+[shop/scout_226] ★5 확정 B서치
+[shop/scout_227] 5연속 ★5 확정 B서치
+[shop/scout_228] 10연속 ★5 확정 B서치
 [shop/scout_231] 개최 중인
 티켓 전용 버디즈서치는 없습니다
+[shop/scout_232] [Name:Item ][Kor:Particle char="wo" ] [Digit:3digits ]장 사용하여
+티켓 전용 버디즈서치를 [Digit:2digits Idx="1" ]회 진행합니다
+
+괜찮겠습니까?
 [shop/deck_item_sale_001] 장비 판매
 [shop/deck_item_sale_002] 장비
 [shop/deck_item_sale_003] 필터
@@ -74524,8 +75351,13 @@ shop_zh-TW.lsd
 [shop/scout_223] 在STEP[Digit:3digits ]中可獲得特別的拍組搜尋券！
 [shop/scout_224] 期間限定
 [shop/scout_225] 一般
+[shop/scout_226] 必得★５拍組搜尋
+[shop/scout_227] 連續５次必得★５拍組搜尋
+[shop/scout_228] 連續１０次必得★５拍組搜尋
 [shop/scout_231] 沒有舉辦中的
 票券專用拍組搜尋
+[shop/scout_232] 確定要消耗[Digit:3digits ]張[Name:Item ]
+進行[Digit:2digits Idx="1" ]次票券專用拍組搜尋嗎？
 [shop/deck_item_sale_001] 出售裝備
 [shop/deck_item_sale_002] 裝備
 [shop/deck_item_sale_003] 篩選
