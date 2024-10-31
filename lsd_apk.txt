@@ -929,6 +929,11 @@ Gefährtendrops M erhalten!
 Items für den Levelaufstieg und
 setze sie dann im Gefährten-Menü
 unter „Level erhöhen“ ein!
+[100064] Gefährten mit der Rolle „Initiator“
+sind gut darin, schnell zu agieren.
+[100065] Gefährten mit der Rolle
+„Feldwandler“ sind gut darin,
+Feldeffekte zu kontrollieren!
 
 ===========
 loading_tips_description_en.lsd
@@ -1131,6 +1136,10 @@ the Sync Orb Area!
 [100057] Collect level-up items in the
 Level-Up Area, then head over to
 Level Up in the Sync Pairs menu!
+[100064] Sprint sync pairs are good at
+moving quickly!
+[100065] Field sync pairs are good at
+controlling field effects!
 
 ===========
 loading_tips_description_es.lsd
@@ -1385,6 +1394,12 @@ aumento de nivel y úsalos desde
 la opción Aumentar nivel, en el
 menú Compis, para aumentar el
 nivel de tus compis.
+[100064] La función de velocidad está
+especializada en moverse con
+rapidez.
+[100065] La función de entorno está
+especializada en controlar los
+efectos de campo.
 
 ===========
 loading_tips_description_fr.lsd
@@ -1633,6 +1648,14 @@ recevoir des Duo-Sphères Coop.
 obtenir des objets que vous pourrez
 utiliser dans le menu « Duos » afin
 de monter de niveau !
+[100064] Les Duos dont le rôle est
+« Accélérateur » se spécialisent
+dans les capacités permettant
+d'agir rapidement !
+[100065] Les Duos dont le rôle est
+« Régisseur » connaissent des
+capacités permettant de contrôler
+les effets de terrain !
 
 ===========
 loading_tips_description_it.lsd
@@ -1874,6 +1897,12 @@ per raccogliere gli strumenti
 con cui salire di livello, poi
 seleziona "Aumento livello"
 nel menu Unità!
+[100064] Le Unità con il ruolo di Sprinter
+sono specializzate nei movimenti
+rapidi!
+[100065] Le Unità con il ruolo di
+Campomastri sono specializzate
+nel controllare gli effetti sul campo!
 
 ===========
 loading_tips_description_ja.lsd
@@ -2064,6 +2093,12 @@ loading_tips_description_ja.lsd
 [100057] レベルアップエリアでレベルアップ用の
 どうぐを集めてバディーズメニューから
 「レベルアップ」してみよう！
+[100064] ロール「スピード」は
+素早い　行動が
+得意な　バディーズだ！
+[100065] ロール「フィールド」は
+場の効果を　操るのが
+得意な　バディーズだ！
 
 ===========
 loading_tips_description_ko.lsd
@@ -2248,6 +2283,12 @@ HP가 줄어드는 양이 점점 늘어납니다!
 버디드롭M을 획득할 수 있습니다!
 [100057] 레벨업 에리어에서 레벨업용 도구를 모아
 버디즈 메뉴에서 "레벨업"을 해봅시다!
+[100064] 롤 "스피드"는
+재빠른 행동이
+특기인 버디즈입니다!
+[100065] 롤 "필드"는
+필드 효과를 다루는 것이
+특기인 버디즈입니다!
 
 ===========
 loading_tips_description_zh-TW.lsd
@@ -2429,6 +2470,10 @@ loading_tips_description_zh-TW.lsd
 [100057] 在升級區域
 收集可用於升級的道具，
 再從拍組選單幫拍組「升級」吧！
+[100064] 「速戰型」體系的拍組
+擅長迅速行動！
+[100065] 「場地型」體系的拍組
+擅長操控場地效果！
 
 ===========
 loading_tips_title_de.lsd
@@ -2484,6 +2529,8 @@ loading_tips_title_de.lsd
 [100053] Entwicklungs-Items
 [100054] Trainingsgebiete
 [100056] Sammle Gefährtendrops M
+[100064] Die Initiator-Rolle
+[100065] Die Feldwandler-Rolle
 
 ===========
 loading_tips_title_en.lsd
@@ -2539,6 +2586,8 @@ loading_tips_title_en.lsd
 [100053] What You Need to Evolve
 [100054] The Training Area
 [100056] Getting Co-op Sync Orbs
+[100064] Sprint Sync Pairs
+[100065] Field Sync Pairs
 
 ===========
 loading_tips_title_es.lsd
@@ -2594,6 +2643,8 @@ loading_tips_title_es.lsd
 [100053] Objetos para evolucionar
 [100054] Área de entrenamiento
 [100056] Reúne Orbes Compi Multi
+[100064] La función de velocidad
+[100065] La función de entorno
 
 ===========
 loading_tips_title_fr.lsd
@@ -2649,6 +2700,8 @@ loading_tips_title_fr.lsd
 [100053] Objets pour évoluer
 [100054] Les zones d'entraînement
 [100056] Trouver des Duo-Sphères Coop
+[100064] Le rôle d'accélérateur
+[100065] Le rôle de régisseur
 
 ===========
 loading_tips_title_it.lsd
@@ -2704,6 +2757,8 @@ loading_tips_title_it.lsd
 [100053] Strumenti per l'evoluzione
 [100054] Le aree allenamento
 [100056] Raccogliere Uniciondoli Multi
+[100064] Il ruolo di Sprinter
+[100065] Il ruolo di Campomastro
 
 ===========
 loading_tips_title_ja.lsd
@@ -2759,6 +2814,8 @@ loading_tips_title_ja.lsd
 [100053] 進化に必要などうぐ
 [100054] 「トレーニングエリア」とは
 [100056] バディドロップＭを集めよう
+[100064] ロール「スピード」
+[100065] ロール「フィールド」
 
 ===========
 loading_tips_title_ko.lsd
@@ -2814,6 +2871,8 @@ loading_tips_title_ko.lsd
 [100053] 진화에 필요한 도구
 [100054] "트레이닝 에리어"란?
 [100056] 버디드롭M을 모아보자!
+[100064] 롤 "스피드"
+[100065] 롤 "필드"
 
 ===========
 loading_tips_title_zh-TW.lsd
@@ -2869,6 +2928,8 @@ loading_tips_title_zh-TW.lsd
 [100053] 進化所需的道具
 [100054] 什麼是「訓練區域」
 [100056] 收集拍檔滴晶Ｍ吧
+[100064] 「速戰型」體系
+[100065] 「場地型」體系
 
 ===========
 story_quest_name_de.lsd
@@ -6296,6 +6357,126 @@ Zukunft
 [quest_group_title_10175000000] Astrid
 [quest_group_title_10155000000] Dracena
 [quest_group_title_10289000000] Nemila
+[quest_title_1040000170001011] Ein besonderer Tag mit Leaf
+(Teil 1)
+[quest_title_1040000170001021] Ein besonderer Tag mit Leaf
+(Teil 2)
+[quest_title_1030220206000000] Ein Tag mit Journée
+[quest_title_1030508000608010] Kämpfe in Sinnoh-Formation
+(Volldampf)
+[quest_title_1030508000609010] Kämpfe in Einall-Formation
+(Volldampf)
+[quest_title_1030508000610010] Kämpfe in Kalos-Formation
+(Volldampf)
+[quest_title_1030508000611010] Kämpfe in Alola-Formation
+(Volldampf)
+[quest_title_1030508000612010] Kämpfe in Galar-Formation
+(Volldampf)
+[quest_title_1030508000607010] Kämpfe in Kanto-Formation
+(Volldampf)
+[quest_title_1030110000590100] Unaufhaltsame Macht
+[quest_title_1030110000590600] Vs. Team Break 1
+[quest_title_1030110000590200] Das Ziel
+[quest_title_1030110000590700] Vs. Team Break 2
+[quest_title_1030110000590300] So handeln Erwachsene
+[quest_title_1030110000590800] Vs. Team Break 3
+[quest_title_1030110000590400] Die falsche Entscheidung
+[quest_title_1030110000590900] Vs. Team Break 4
+[quest_title_1030110000590500] Abermals...
+[quest_title_1030110000591500] Vs. Rüpel von Team Rocket 1
+[quest_title_1030110000591000] Der Schatten der Lügen
+[quest_title_1030110000591600] Vs. Rüpel von Team Rocket 2
+[quest_title_1030110000591100] Passios Lösung
+[quest_title_1030110000591700] Vs. Rüpel von Team Rocket 3
+[quest_title_1030110000591200] Meine Verantwortung
+[quest_title_1030110000591800] Vs. Giovanni
+[quest_title_1030110000591300] Keine Unentschlossenheit
+[quest_title_1030110000591400] Die Bewältigung des Übels
+[quest_title_1030508000603000] Professor Eichs Bitte
+[quest_title_1030508000603010] Die stärksten Kontrahenten
+[quest_title_1030508000603050] Vs. Trainer aus Passio 1
+[quest_title_1030508000603020] Unterschiedliche Methoden
+[quest_title_1030508000603060] Vs. Trainer aus Passio 2
+[quest_title_1030508000603030] Rots Absichten
+[quest_title_1030508000603070] Vs. Trainer aus Passio 3
+[quest_title_1030508000603040] Auf einen spaßigen Kampf!
+[quest_title_1030508000603080] Vs. Trainer aus Passio 4
+[quest_title_1030508000603090] Täglicher schwerer Kampf
+[quest_title_1030508000603100] Herausforderungskampf 1
+[quest_title_1030508000603110] Herausforderungskampf 2
+[quest_title_1030220000900000] Ein Tag mit Rot
+[quest_title_1030220017900000] Ein Tag mit Leaf
+[quest_title_1030220021900000] Ein Tag mit Blau
+[quest_title_1030508000604010] Stelle dich Rocko! 1
+[quest_title_1030508000604020] Stelle dich Rocko! 2
+[quest_title_1030450800301010] Vs. Rot
+[quest_title_1030450800801011] Strategiekampf 1
+[quest_title_1030450800802011] Strategiekampf 2
+[quest_title_1030450800803011] Strategiekampf 3
+[quest_title_1030450800804011] Strategiekampf 4
+[quest_title_1030450800805011] Strategiekampf 5
+[quest_title_1030450800806011] Strategiekampf 6
+[quest_title_1030450800807011] Strategiekampf 7
+[quest_title_1030450800808011] Strategiekampf 8
+[quest_title_1030450800809011] Strategiekampf 9
+[quest_title_1030450800810011] Strategiekampf 10
+[quest_title_1030220064000000] Ein Tag mit Kilian
+[quest_title_1030220105000000] Ein Tag mit Rika
+[quest_title_1030450800201010] Vs. Giovanni 1
+[quest_title_1030450800202010] Vs. Giovanni 2
+[quest_title_1030220142000000] Ein Tag mit Athena
+[quest_title_1030220143000000] Ein Tag mit Lambda
+[quest_title_1030220144000000] Ein Tag mit Lance
+[quest_title_1030220141000000] Ein Tag mit Atlas
+[quest_title_1030508000602000] Paldea lässt grüßen!
+[quest_title_1030508000602010] Vs. Trainer aus Passio 1
+[quest_title_1030508000602020] Vs. Trainer aus Passio 2
+[quest_title_1030508000602030] Vs. Trainer aus Passio 3
+[quest_title_1030508000602040] Vs. Trainer aus Passio 4
+[quest_title_1030450800501010] Vs. Major Bob
+[quest_title_1030450800502010] Vs. Volkner
+[quest_title_1030450800503010] Vs. Kamilla
+[quest_title_1030450800504010] Vs. Citro
+[quest_title_1030450800505010] Vs. Mary
+[quest_title_1030508000601000] Teilender und einender
+Ehrgeiz
+[quest_title_1030508000601040] Vs. Norman 1
+[quest_title_1030508000601010] Barrys Zielstrebigkeit
+[quest_title_1030508000601050] Vs. Norman 2
+[quest_title_1030508000601020] Dein einzigartiger Glanz
+[quest_title_1030508000601060] Vs. Norman 3
+[quest_title_1030508000601030] Seite an Seite mit der
+stärksten Koryphäe
+[quest_title_1030508000601070] Vs. Norman 4
+[quest_title_1030508000601080] Täglicher schwerer Kampf
+[quest_title_1030508000601090] Herausforderungskampf 1
+[quest_title_1030508000601100] Herausforderungskampf 2
+[quest_title_1030220134000000] Ein Tag mit Viktor
+[quest_title_1030220203000000] Ein Tag mit Argenta
+[quest_title_1030450800401010] Vs. Hop
+[quest_title_1030440708701010] Vs. Lyra 1
+[quest_title_1030440708702010] Vs. Lyra 2
+[quest_title_1030440708703010] Vs. Lyra 3
+[quest_title_1030440708704010] Vs. Lyra 4
+[quest_title_1030440708705010] Täglicher Bonus-Kampf
+[quest_title_1030450800601010] Vs. Trainer aus Passio 1
+[quest_title_1030450800601011] Vs. Trainer aus Passio 2
+[quest_title_1030450800601012] Vs. Trainer aus Passio 3
+[quest_title_1030450800601013] Vs. Trainer aus Passio 4
+[quest_group_title_10206000000] Journée
+[quest_group_title_100110] Finales Kapitel
+[quest_group_title_10000900000] Rot (Neo-Champ)
+[quest_group_title_10017900000] Leaf (Neo-Champ)
+[quest_group_title_10021900000] Blau (Neo-Champ)
+[quest_group_title_10064000000] Kilian
+[quest_group_title_10105000000] Rika
+[quest_group_title_10142000000] Athena
+[quest_group_title_10143000000] Lambda
+[quest_group_title_10144000000] Lance
+[quest_group_title_10141000000] Atlas
+[quest_group_title_10134000000] Viktor
+[quest_group_title_10203000000] Argenta
+[quest_group_detail_100110] Wo sich Ideale kreuzen
 
 ===========
 story_quest_name_en.lsd
@@ -9552,6 +9733,116 @@ Is Another’s Poison: Part 4
 [quest_group_title_10175000000] Olympia
 [quest_group_title_10155000000] Drasna
 [quest_group_title_10289000000] Nemona
+[quest_title_1040000170001011] A Special Day with Leaf: Part 1
+[quest_title_1040000170001021] A Special Day with Leaf: Part 2
+[quest_title_1030220206000000] A Day with Dana
+[quest_title_1030508000608010] Sinnoh Team-Up: Super
+[quest_title_1030508000609010] Unova Team-Up: Super
+[quest_title_1030508000610010] Kalos Team-Up: Super
+[quest_title_1030508000611010] Alola Team-Up: Super
+[quest_title_1030508000612010] Galar Team-Up: Super
+[quest_title_1030508000607010] Kanto Team-Up: Super
+[quest_title_1030110000590100] Unstoppable Power
+[quest_title_1030110000590600] Challenge Team Break: Part 1
+[quest_title_1030110000590200] The Target
+[quest_title_1030110000590700] Challenge Team Break: Part 2
+[quest_title_1030110000590300] The Adult Way
+[quest_title_1030110000590800] Challenge Team Break: Part 3
+[quest_title_1030110000590400] Wrong Choice
+[quest_title_1030110000590900] Challenge Team Break: Part 4
+[quest_title_1030110000590500] Once Again...
+[quest_title_1030110000591500] Challenge the Rocket Grunts: Part 1
+[quest_title_1030110000591000] Shadow of Lies
+[quest_title_1030110000591600] Challenge the Rocket Grunts: Part 2
+[quest_title_1030110000591100] A Pasio Solution
+[quest_title_1030110000591700] Challenge the Rocket Grunts: Part 3
+[quest_title_1030110000591200] What I Should Do
+[quest_title_1030110000591800] Challenge Giovanni
+[quest_title_1030110000591300] No Getting Lost
+[quest_title_1030110000591400] Conquering Evil
+[quest_title_1030508000603000] Professor Oak’s Request
+[quest_title_1030508000603010] The Strongest Challengers
+[quest_title_1030508000603050] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030508000603020] Different Strokes
+[quest_title_1030508000603060] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030508000603030] Red’s Intent
+[quest_title_1030508000603070] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030508000603040] A Fun Battle!
+[quest_title_1030508000603080] Challenge Pasio’s Trainers: Part 4
+[quest_title_1030508000603090] Daily Extreme Battle 1
+[quest_title_1030508000603100] Battle Challenge! Round 1
+[quest_title_1030508000603110] Battle Challenge! Round 2
+[quest_title_1030220000900000] A Day with Red
+[quest_title_1030220017900000] A Day with Leaf
+[quest_title_1030220021900000] A Day with Blue
+[quest_title_1030508000604010] Take On Brock! Part 1
+[quest_title_1030508000604020] Take On Brock! Part 2
+[quest_title_1030450800301010] Challenge Red
+[quest_title_1030450800801011] Challenge Battle 1
+[quest_title_1030450800802011] Challenge Battle 2
+[quest_title_1030450800803011] Challenge Battle 3
+[quest_title_1030450800804011] Challenge Battle 4
+[quest_title_1030450800805011] Challenge Battle 5
+[quest_title_1030450800806011] Challenge Battle 6
+[quest_title_1030450800807011] Challenge Battle 7
+[quest_title_1030450800808011] Challenge Battle 8
+[quest_title_1030450800809011] Challenge Battle 9
+[quest_title_1030450800810011] Challenge Battle 10
+[quest_title_1030220064000000] A Day with Paulo
+[quest_title_1030220105000000] A Day with Tina
+[quest_title_1030450800201010] Challenge Giovanni: Part 1
+[quest_title_1030450800202010] Challenge Giovanni: Part 2
+[quest_title_1030220142000000] A Day with Ariana
+[quest_title_1030220143000000] A Day with Petrel
+[quest_title_1030220144000000] A Day with Proton
+[quest_title_1030220141000000] A Day with Archer
+[quest_title_1030508000602000] A Paldean Nice to Meet You
+[quest_title_1030508000602010] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030508000602020] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030508000602030] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030508000602040] Challenge Pasio’s Trainers: Part 4
+[quest_title_1030450800501010] Challenge Lt. Surge
+[quest_title_1030450800502010] Challenge Volkner
+[quest_title_1030450800503010] Challenge Elesa
+[quest_title_1030450800504010] Challenge Clemont
+[quest_title_1030450800505010] Challenge Marnie
+[quest_title_1030508000601000] The Busy Family’s Breakdown
+[quest_title_1030508000601040] Challenge Norman: Part 1
+[quest_title_1030508000601010] Barry’s Determination
+[quest_title_1030508000601050] Challenge Norman: Part 2
+[quest_title_1030508000601020] When You Shine
+[quest_title_1030508000601060] Challenge Norman: Part 3
+[quest_title_1030508000601030] The Strongest Brain’s Back
+[quest_title_1030508000601070] Challenge Norman: Part 4
+[quest_title_1030508000601080] Daily Extreme Battle 1
+[quest_title_1030508000601090] Battle Challenge! Round 1
+[quest_title_1030508000601100] Battle Challenge! Round 2
+[quest_title_1030220134000000] A Day with Palmer
+[quest_title_1030220203000000] A Day with Argenta
+[quest_title_1030450800401010] Challenge Hop
+[quest_title_1030440708701010] Challenge Lyra: Part 1
+[quest_title_1030440708702010] Challenge Lyra: Part 2
+[quest_title_1030440708703010] Challenge Lyra: Part 3
+[quest_title_1030440708704010] Challenge Lyra: Part 4
+[quest_title_1030440708705010] Daily Bonus Battle 1
+[quest_title_1030450800601010] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030450800601011] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030450800601012] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030450800601013] Challenge Pasio’s Trainers: Part 4
+[quest_group_title_10206000000] Dana
+[quest_group_title_100110] Final Chapter
+[quest_group_title_10000900000] Red (Champion)
+[quest_group_title_10017900000] Leaf (Champion)
+[quest_group_title_10021900000] Blue (Champion)
+[quest_group_title_10064000000] Paulo
+[quest_group_title_10105000000] Tina
+[quest_group_title_10142000000] Ariana
+[quest_group_title_10143000000] Petrel
+[quest_group_title_10144000000] Proton
+[quest_group_title_10141000000] Archer
+[quest_group_title_10134000000] Palmer
+[quest_group_title_10203000000] Argenta
+[quest_group_detail_100110] Where Ideals Cross Paths
 
 ===========
 story_quest_name_es.lsd
@@ -13083,6 +13374,123 @@ emocionante!
 [quest_group_title_10175000000] Ástrid
 [quest_group_title_10155000000] Drácena
 [quest_group_title_10289000000] Mencía
+[quest_title_1040000170001011] Un día especial con Hoja
+[quest_title_1040000170001021] Un día especial con Hoja (2)
+[quest_title_1030220206000000] Un día con Meridia
+[quest_title_1030508000608010] Combate con un equipo de
+Sinnoh: Superavanzado
+[quest_title_1030508000609010] Combate con un equipo de
+Teselia: Superavanzado
+[quest_title_1030508000610010] Combate con un equipo de
+Kalos: Superavanzado
+[quest_title_1030508000611010] Combate con un equipo de
+Alola: Superavanzado
+[quest_title_1030508000612010] Combate con un equipo de
+Galar: Superavanzado
+[quest_title_1030508000607010] Combate con un equipo de
+Kanto: Superavanzado
+[quest_title_1030110000590100] Un poder imparable
+[quest_title_1030110000590600] VS. Team Break
+[quest_title_1030110000590200] El objetivo
+[quest_title_1030110000590700] VS. Team Break (2)
+[quest_title_1030110000590300] El mundo de los adultos
+[quest_title_1030110000590800] VS. Team Break (3)
+[quest_title_1030110000590400] La decisión equivocada
+[quest_title_1030110000590900] VS. Team Break (4)
+[quest_title_1030110000590500] Una vez más...
+[quest_title_1030110000591500] VS. Reclutas del Team Rocket
+[quest_title_1030110000591000] Máscara de mentiras
+[quest_title_1030110000591600] VS. Reclutas del Team Rocket (2)
+[quest_title_1030110000591100] La respuesta de Passio
+[quest_title_1030110000591700] VS. Reclutas del Team Rocket (3)
+[quest_title_1030110000591200] Mi deber
+[quest_title_1030110000591800] VS. Giovanni
+[quest_title_1030110000591300] Sin perder de vista el camino
+[quest_title_1030110000591400] Combatiendo la maldad
+[quest_title_1030508000603000] La petición del Profesor Oak
+[quest_title_1030508000603010] Los aspirantes más fuertes
+[quest_title_1030508000603050] VS. Entrenadores de Passio
+[quest_title_1030508000603020] Cada cual con sus métodos
+[quest_title_1030508000603060] VS. Entrenadores de Passio (2)
+[quest_title_1030508000603030] El método de Rojo
+[quest_title_1030508000603070] VS. Entrenadores de Passio (3)
+[quest_title_1030508000603040] ¡A disfrutar del combate!
+[quest_title_1030508000603080] VS. Entrenadores de Passio (4)
+[quest_title_1030508000603090] ¡Un combate difícil al día!
+[quest_title_1030508000603100] ¡Un combate desafiante!
+[quest_title_1030508000603110] ¡Un combate desafiante! (2)
+[quest_title_1030220000900000] Un día con Rojo
+[quest_title_1030220017900000] Un día con Hoja
+[quest_title_1030220021900000] Un día con Azul
+[quest_title_1030508000604010] ¡Enfréntate a Brock!
+[quest_title_1030508000604020] ¡Enfréntate a Brock! (2)
+[quest_title_1030450800301010] VS. Rojo
+[quest_title_1030450800801011] ¡Un combate desafiante!
+[quest_title_1030450800802011] ¡Un combate desafiante! (2)
+[quest_title_1030450800803011] ¡Un combate desafiante! (3)
+[quest_title_1030450800804011] ¡Un combate desafiante! (4)
+[quest_title_1030450800805011] ¡Un combate desafiante! (5)
+[quest_title_1030450800806011] ¡Un combate desafiante! (6)
+[quest_title_1030450800807011] ¡Un combate desafiante! (7)
+[quest_title_1030450800808011] ¡Un combate desafiante! (8)
+[quest_title_1030450800809011] ¡Un combate desafiante! (9)
+[quest_title_1030450800810011] ¡Un combate desafiante! (10)
+[quest_title_1030220064000000] Un día con Paolo
+[quest_title_1030220105000000] Un día con Rina
+[quest_title_1030450800201010] VS. Giovanni
+[quest_title_1030450800202010] VS. Giovanni (2)
+[quest_title_1030220142000000] Un día con Atenea
+[quest_title_1030220143000000] Un día con Petrel
+[quest_title_1030220144000000] Un día con Protón
+[quest_title_1030220141000000] Un día con Atlas
+[quest_title_1030508000602000] ¡Mucho gusto, paldeanos!
+[quest_title_1030508000602010] VS. Entrenadores de Passio
+[quest_title_1030508000602020] VS. Entrenadores de Passio (2)
+[quest_title_1030508000602030] VS. Entrenadores de Passio (3)
+[quest_title_1030508000602040] VS. Entrenadores de Passio (4)
+[quest_title_1030450800501010] VS. Teniente Surge
+[quest_title_1030450800502010] VS. Lectro
+[quest_title_1030450800503010] VS. Camila
+[quest_title_1030450800504010] VS. Lem
+[quest_title_1030450800505010] VS. Roxy
+[quest_title_1030508000601000] ¿Un problema familiar?
+[quest_title_1030508000601040] VS. Norman
+[quest_title_1030508000601010] La determinación de Israel
+[quest_title_1030508000601050] VS. Norman (2)
+[quest_title_1030508000601020] Tu fuerza es única
+[quest_title_1030508000601060] VS. Norman (3)
+[quest_title_1030508000601030] Junto al más fuerte de los
+Ases del Frente
+[quest_title_1030508000601070] VS. Norman (4)
+[quest_title_1030508000601080] ¡Un combate difícil al día!
+[quest_title_1030508000601090] ¡Un combate desafiante!
+[quest_title_1030508000601100] ¡Un combate desafiante! (2)
+[quest_title_1030220134000000] Un día con Jericor
+[quest_title_1030220203000000] Un día con Argenta
+[quest_title_1030450800401010] VS. Paul
+[quest_title_1030440708701010] VS. Lira
+[quest_title_1030440708702010] VS. Lira (2)
+[quest_title_1030440708703010] VS. Lira (3)
+[quest_title_1030440708704010] VS. Lira (4)
+[quest_title_1030440708705010] ¡Un combate extra al día!
+[quest_title_1030450800601010] VS. Entrenadores de Passio
+[quest_title_1030450800601011] VS. Entrenadores de Passio (2)
+[quest_title_1030450800601012] VS. Entrenadores de Passio (3)
+[quest_title_1030450800601013] VS. Entrenadores de Passio (4)
+[quest_group_title_10206000000] Meridia
+[quest_group_title_100110] Capítulo final
+[quest_group_title_10000900000] Rojo (Neocampeón)
+[quest_group_title_10017900000] Hoja (Neocampeona)
+[quest_group_title_10021900000] Azul (Neocampeón)
+[quest_group_title_10064000000] Paolo
+[quest_group_title_10105000000] Rina
+[quest_group_title_10142000000] Atenea
+[quest_group_title_10143000000] Petrel
+[quest_group_title_10144000000] Protón
+[quest_group_title_10141000000] Atlas
+[quest_group_title_10134000000] Jericor
+[quest_group_title_10203000000] Argenta
+[quest_group_detail_100110] Donde convergen los ideales
 
 ===========
 story_quest_name_fr.lsd
@@ -17008,6 +17416,144 @@ sombre et mystérieux
 [quest_group_title_10175000000] Astera
 [quest_group_title_10155000000] Dracéna
 [quest_group_title_10289000000] Menzi
+[quest_title_1040000170001011] Une journée spéciale
+avec Leaf
+[quest_title_1040000170001021] Une journée spéciale
+avec Leaf II
+[quest_title_1030220206000000] Une journée avec Méridia
+[quest_title_1030508000608010] Combat avec une équipe
+de Sinnoh (Expert)
+[quest_title_1030508000609010] Combat avec une équipe
+d'Unys (Expert)
+[quest_title_1030508000610010] Combat avec une équipe
+de Kalos (Expert)
+[quest_title_1030508000611010] Combat avec une équipe
+d'Alola (Expert)
+[quest_title_1030508000612010] Combat avec une équipe
+de Galar (Expert)
+[quest_title_1030508000607010] Combat avec une équipe
+de Kanto (Expert)
+[quest_title_1030110000590100] Une force imbattable
+[quest_title_1030110000590600] Combat : Team Break
+[quest_title_1030110000590200] La cible
+[quest_title_1030110000590700] Combat : Team Break II
+[quest_title_1030110000590300] À la manière des adultes
+[quest_title_1030110000590800] Combat : Team Break III
+[quest_title_1030110000590400] Le mauvais choix
+[quest_title_1030110000590900] Combat : Team Break IV
+[quest_title_1030110000590500] Un air de déjà vu...
+[quest_title_1030110000591500] Combat : Sbires Team Rocket
+[quest_title_1030110000591000] Vérité déguisée
+[quest_title_1030110000591600] Combat :
+Sbires Team Rocket II
+[quest_title_1030110000591100] La solution de Passio
+[quest_title_1030110000591700] Combat :
+Sbires Team Rocket III
+[quest_title_1030110000591200] Ce qu'il nous faut faire
+[quest_title_1030110000591800] Combat : Giovanni
+[quest_title_1030110000591300] Ne plus perdre l'essentiel
+de vue
+[quest_title_1030110000591400] La clé pour triompher du mal
+[quest_title_1030508000603000] La requête du
+Professeur Chen
+[quest_title_1030508000603010] Les plus puissants
+des participants
+[quest_title_1030508000603050] Combat : Dresseurs de Passio
+[quest_title_1030508000603020] Chacun sa méthode
+[quest_title_1030508000603060] Combat :
+Dresseurs de Passio II
+[quest_title_1030508000603030] La méthode de Red
+[quest_title_1030508000603070] Combat :
+Dresseurs de Passio III
+[quest_title_1030508000603040] S'amuser au combat !
+[quest_title_1030508000603080] Combat :
+Dresseurs de Passio IV
+[quest_title_1030508000603090] Combat difficile limité
+à une fois par jour !
+[quest_title_1030508000603100] Combat difficile
+[quest_title_1030508000603110] Combat difficile II
+[quest_title_1030220000900000] Une journée avec Red
+[quest_title_1030220017900000] Une journée avec Leaf
+[quest_title_1030220021900000] Une journée avec Blue
+[quest_title_1030508000604010] Combat corsé : Pierre
+[quest_title_1030508000604020] Combat corsé : Pierre II
+[quest_title_1030450800301010] Combat : Red
+[quest_title_1030450800801011] Combat stratégique
+[quest_title_1030450800802011] Combat stratégique II
+[quest_title_1030450800803011] Combat stratégique III
+[quest_title_1030450800804011] Combat stratégique IV
+[quest_title_1030450800805011] Combat stratégique V
+[quest_title_1030450800806011] Combat stratégique VI
+[quest_title_1030450800807011] Combat stratégique VII
+[quest_title_1030450800808011] Combat stratégique VIII
+[quest_title_1030450800809011] Combat stratégique IX
+[quest_title_1030450800810011] Combat stratégique X
+[quest_title_1030220064000000] Une journée avec Kyrill
+[quest_title_1030220105000000] Une journée avec Rika
+[quest_title_1030450800201010] Combat : Giovanni
+[quest_title_1030450800202010] Combat : Giovanni II
+[quest_title_1030220142000000] Une journée avec Ariane
+[quest_title_1030220143000000] Une journée avec Lambda
+[quest_title_1030220144000000] Une journée avec Lance
+[quest_title_1030220141000000] Une journée avec Amos
+[quest_title_1030508000602000] Les nouveaux arrivants
+de Paldea
+[quest_title_1030508000602010] Combat : Dresseurs de Passio
+[quest_title_1030508000602020] Combat :
+Dresseurs de Passio II
+[quest_title_1030508000602030] Combat :
+Dresseurs de Passio III
+[quest_title_1030508000602040] Combat :
+Dresseurs de Passio IV
+[quest_title_1030450800501010] Combat : Major Bob
+[quest_title_1030450800502010] Combat : Tanguy
+[quest_title_1030450800503010] Combat : Inezia
+[quest_title_1030450800504010] Combat : Lem
+[quest_title_1030450800505010] Combat : Rosemary
+[quest_title_1030508000601000] Un malentendu entre
+père et fils
+[quest_title_1030508000601040] Combat : Norman
+[quest_title_1030508000601010] La détermination de René
+[quest_title_1030508000601050] Combat : Norman II
+[quest_title_1030508000601020] Tout le monde a une place
+[quest_title_1030508000601060] Combat : Norman III
+[quest_title_1030508000601030] Sur les pas du plus fort
+des Meneurs de Zone
+[quest_title_1030508000601070] Combat : Norman IV
+[quest_title_1030508000601080] Combat difficile limité
+à une fois par jour !
+[quest_title_1030508000601090] Combat difficile
+[quest_title_1030508000601100] Combat difficile II
+[quest_title_1030220134000000] Une journée avec Koner
+[quest_title_1030220203000000] Une journée avec Célosia
+[quest_title_1030450800401010] Combat : Nabil
+[quest_title_1030440708701010] Combat : Célesta
+[quest_title_1030440708702010] Combat : Célesta II
+[quest_title_1030440708703010] Combat : Célesta III
+[quest_title_1030440708704010] Combat : Célesta IV
+[quest_title_1030440708705010] Combat bonus limité
+à une fois par jour !
+[quest_title_1030450800601010] Combat : Dresseurs de Passio
+[quest_title_1030450800601011] Combat :
+Dresseurs de Passio II
+[quest_title_1030450800601012] Combat :
+Dresseurs de Passio III
+[quest_title_1030450800601013] Combat :
+Dresseurs de Passio IV
+[quest_group_title_10206000000] Méridia
+[quest_group_title_100110] Chapitre final
+[quest_group_title_10000900000] Red (Néo-Maître)
+[quest_group_title_10017900000] Leaf (Néo-Maître)
+[quest_group_title_10021900000] Blue (Néo-Maître)
+[quest_group_title_10064000000] Kyrill
+[quest_group_title_10105000000] Rika
+[quest_group_title_10142000000] Ariane
+[quest_group_title_10143000000] Lambda
+[quest_group_title_10144000000] Lance
+[quest_group_title_10141000000] Amos
+[quest_group_title_10134000000] Koner
+[quest_group_title_10203000000] Célosia
+[quest_group_detail_100110] À la croisée des idéaux
 
 ===========
 story_quest_name_it.lsd
@@ -20202,6 +20748,116 @@ story_quest_name_it.lsd
 [quest_group_title_10175000000] Astra
 [quest_group_title_10155000000] Lilia
 [quest_group_title_10289000000] Nemi
+[quest_title_1040000170001011] Un giorno speciale con Leaf (1ª parte)
+[quest_title_1040000170001021] Un giorno speciale con Leaf (2ª parte)
+[quest_title_1030220206000000] Un giorno con Meridia
+[quest_title_1030508000608010] Lotta con Unità di Sinnoh in squadra! (Estremo)
+[quest_title_1030508000609010] Lotta con Unità di Unima in squadra! (Estremo)
+[quest_title_1030508000610010] Lotta con Unità di Kalos in squadra! (Estremo)
+[quest_title_1030508000611010] Lotta con Unità di Alola in squadra! (Estremo)
+[quest_title_1030508000612010] Lotta con Unità di Galar in squadra! (Estremo)
+[quest_title_1030508000607010] Lotta con Unità di Kanto in squadra! (Estremo)
+[quest_title_1030110000590100] Un potere inarrestabile
+[quest_title_1030110000590600] VS Team Break
+[quest_title_1030110000590200] L'obiettivo
+[quest_title_1030110000590700] VS Team Break 2
+[quest_title_1030110000590300] Come fanno gli adulti
+[quest_title_1030110000590800] VS Team Break 3
+[quest_title_1030110000590400] La decisione sbagliata
+[quest_title_1030110000590900] VS Team Break 4
+[quest_title_1030110000590500] Rimediare agli errori
+[quest_title_1030110000591500] VS Reclute del Team Rocket
+[quest_title_1030110000591000] L'ombra dell'inganno
+[quest_title_1030110000591600] VS Reclute del Team Rocket 2
+[quest_title_1030110000591100] La formula di Pasio
+[quest_title_1030110000591700] VS Reclute del Team Rocket 3
+[quest_title_1030110000591200] Ciò che va fatto
+[quest_title_1030110000591800] VS Giovanni
+[quest_title_1030110000591300] Senza smarrire la via
+[quest_title_1030110000591400] Sconfiggere il male
+[quest_title_1030508000603000] La richiesta di Oak
+[quest_title_1030508000603010] Gli sfidanti più forti
+[quest_title_1030508000603050] VS Allenatori di Pasio
+[quest_title_1030508000603020] Approcci diversi
+[quest_title_1030508000603060] VS Allenatori di Pasio 2
+[quest_title_1030508000603030] Cosa ha in mente Rosso?
+[quest_title_1030508000603070] VS Allenatori di Pasio 3
+[quest_title_1030508000603040] Divertiamoci con le lotte!
+[quest_title_1030508000603080] VS Allenatori di Pasio 4
+[quest_title_1030508000603090] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030508000603100] Sfida ad alta difficoltà
+[quest_title_1030508000603110] Sfida ad alta difficoltà 2
+[quest_title_1030220000900000] Un giorno con Rosso
+[quest_title_1030220017900000] Un giorno con Leaf
+[quest_title_1030220021900000] Un giorno con Blu
+[quest_title_1030508000604010] Sfida un avversario potente: Brock
+[quest_title_1030508000604020] Sfida un avversario potente: Brock 2
+[quest_title_1030450800301010] VS Rosso
+[quest_title_1030450800801011] Lotta strategica
+[quest_title_1030450800802011] Lotta strategica 2
+[quest_title_1030450800803011] Lotta strategica 3
+[quest_title_1030450800804011] Lotta strategica 4
+[quest_title_1030450800805011] Lotta strategica 5
+[quest_title_1030450800806011] Lotta strategica 6
+[quest_title_1030450800807011] Lotta strategica 7
+[quest_title_1030450800808011] Lotta strategica 8
+[quest_title_1030450800809011] Lotta strategica 9
+[quest_title_1030450800810011] Lotta strategica 10
+[quest_title_1030220064000000] Un giorno con Owen
+[quest_title_1030220105000000] Un giorno con Lena
+[quest_title_1030450800201010] VS Giovanni
+[quest_title_1030450800202010] VS Giovanni 2
+[quest_title_1030220142000000] Un giorno con Atena
+[quest_title_1030220143000000] Un giorno con Maxus
+[quest_title_1030220144000000] Un giorno con Milas
+[quest_title_1030220141000000] Un giorno con Archer
+[quest_title_1030508000602000] Nuovi arrivi da Paldea
+[quest_title_1030508000602010] VS Allenatori di Pasio
+[quest_title_1030508000602020] VS Allenatori di Pasio 2
+[quest_title_1030508000602030] VS Allenatori di Pasio 3
+[quest_title_1030508000602040] VS Allenatori di Pasio 4
+[quest_title_1030450800501010] VS Lt. Surge
+[quest_title_1030450800502010] VS Corrado
+[quest_title_1030450800503010] VS Camelia
+[quest_title_1030450800504010] VS Lem
+[quest_title_1030450800505010] VS Mary
+[quest_title_1030508000601000] Un rapporto turbolento
+[quest_title_1030508000601040] VS Norman
+[quest_title_1030508000601010] La determinazione di Barry
+[quest_title_1030508000601050] VS Norman 2
+[quest_title_1030508000601020] L'ora di brillare
+[quest_title_1030508000601060] VS Norman 3
+[quest_title_1030508000601030] Al passo con l'asso
+[quest_title_1030508000601070] VS Norman 4
+[quest_title_1030508000601080] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030508000601090] Sfida ad alta difficoltà
+[quest_title_1030508000601100] Sfida ad alta difficoltà 2
+[quest_title_1030220134000000] Un giorno con Palmer
+[quest_title_1030220203000000] Un giorno con Mara
+[quest_title_1030450800401010] VS Hop
+[quest_title_1030440708701010] VS Cetra
+[quest_title_1030440708702010] VS Cetra 2
+[quest_title_1030440708703010] VS Cetra 3
+[quest_title_1030440708704010] VS Cetra 4
+[quest_title_1030440708705010] Lotta bonus (una al giorno)!
+[quest_title_1030450800601010] VS Allenatori di Pasio
+[quest_title_1030450800601011] VS Allenatori di Pasio 2
+[quest_title_1030450800601012] VS Allenatori di Pasio 3
+[quest_title_1030450800601013] VS Allenatori di Pasio 4
+[quest_group_title_10206000000] Meridia
+[quest_group_title_100110] Conclusione
+[quest_group_title_10000900000] Rosso (Campione)
+[quest_group_title_10017900000] Leaf (Campionessa)
+[quest_group_title_10021900000] Blu (Campione)
+[quest_group_title_10064000000] Owen
+[quest_group_title_10105000000] Lena
+[quest_group_title_10142000000] Atena
+[quest_group_title_10143000000] Maxus
+[quest_group_title_10144000000] Milas
+[quest_group_title_10141000000] Archer
+[quest_group_title_10134000000] Palmer
+[quest_group_title_10203000000] Mara
+[quest_group_detail_100110] Uno scontro di ideali
 
 ===========
 story_quest_name_ja.lsd
@@ -23470,6 +24126,119 @@ story_quest_name_ja.lsd
 [quest_group_title_10175000000] ゴジカ
 [quest_group_title_10155000000] ドラセナ
 [quest_group_title_10289000000] ネモ
+[quest_title_1040000170001011] リーフとの特別な一日　前編
+[quest_title_1040000170001021] リーフとの特別な一日　後編
+[quest_title_1030220206000000] とある日のラジュルネ
+[quest_title_1030508000608010] シンオウ編成でバトル！・超級
+[quest_title_1030508000609010] イッシュ編成でバトル！・超級
+[quest_title_1030508000610010] カロス編成でバトル！・超級
+[quest_title_1030508000611010] アローラ編成でバトル！・超級
+[quest_title_1030508000612010] ガラル編成でバトル！・超級
+[quest_title_1030508000607010] カントー編成でバトル！・超級
+[quest_title_1030110000590100] 止められない力
+[quest_title_1030110000590600] ＶＳ　ブレイク団
+[quest_title_1030110000590200] 標的
+[quest_title_1030110000590700] ＶＳ　ブレイク団２
+[quest_title_1030110000590300] 「大人のやり方」
+[quest_title_1030110000590800] ＶＳ　ブレイク団３
+[quest_title_1030110000590400] 間違えた選択
+[quest_title_1030110000590900] ＶＳ　ブレイク団４
+[quest_title_1030110000590500] もう一度……
+[quest_title_1030110000591500] ＶＳ　ロケット団のしたっぱ
+[quest_title_1030110000591000] 偽りの影
+[quest_title_1030110000591600] ＶＳ　ロケット団のしたっぱ２
+[quest_title_1030110000591100] パシオが導いた答え
+[quest_title_1030110000591700] ＶＳ　ロケット団のしたっぱ３
+[quest_title_1030110000591200] やるべきこと
+[quest_title_1030110000591800] ＶＳ　サカキ
+[quest_title_1030110000591300] もう迷わない
+[quest_title_1030110000591400] 悪を征するもの
+[quest_title_1030508000603000] オーキド博士の頼みごと
+[quest_title_1030508000603010] 最強のチャレンジャーたち
+[quest_title_1030508000603050] ＶＳ　パシオのトレーナー
+[quest_title_1030508000603020] それぞれのやり方
+[quest_title_1030508000603060] ＶＳ　パシオのトレーナー２
+[quest_title_1030508000603030] レッドの狙い……？
+[quest_title_1030508000603070] ＶＳ　パシオのトレーナー３
+[quest_title_1030508000603040] 楽しい勝負を！
+[quest_title_1030508000603080] ＶＳ　パシオのトレーナー４
+[quest_title_1030508000603090] １日１回限定・高難度バトル！
+[quest_title_1030508000603100] チャレンジバトルで勝負！
+[quest_title_1030508000603110] チャレンジバトルで勝負！２
+[quest_title_1030220000900000] とある日のレッド
+[quest_title_1030220017900000] とある日のリーフ
+[quest_title_1030220021900000] とある日のグリーン
+[quest_title_1030508000604010] 強敵に挑戦！　ＶＳ　タケシ
+[quest_title_1030508000604020] 強敵に挑戦！　ＶＳ　タケシ２
+[quest_title_1030450800301010] ＶＳ　レッド
+[quest_title_1030450800801011] チャレンジバトル１
+[quest_title_1030450800802011] チャレンジバトル２
+[quest_title_1030450800803011] チャレンジバトル３
+[quest_title_1030450800804011] チャレンジバトル４
+[quest_title_1030450800805011] チャレンジバトル５
+[quest_title_1030450800806011] チャレンジバトル６
+[quest_title_1030450800807011] チャレンジバトル７
+[quest_title_1030450800808011] チャレンジバトル８
+[quest_title_1030450800809011] チャレンジバトル９
+[quest_title_1030450800810011] チャレンジバトル１０
+[quest_title_1030220064000000] とある日のキリヤ
+[quest_title_1030220105000000] とある日のリッカ
+[quest_title_1030450800201010] ＶＳ　サカキ
+[quest_title_1030450800202010] ＶＳ　サカキ２
+[quest_title_1030220142000000] とある日のアテナ
+[quest_title_1030220143000000] とある日のラムダ
+[quest_title_1030220144000000] とある日のランス
+[quest_title_1030220141000000] とある日のアポロ
+[quest_title_1030508000602000] パルデア地方の「はじめまして」
+[quest_title_1030508000602010] ＶＳ　パシオのトレーナー
+[quest_title_1030508000602020] ＶＳ　パシオのトレーナー２
+[quest_title_1030508000602030] ＶＳ　パシオのトレーナー３
+[quest_title_1030508000602040] ＶＳ　パシオのトレーナー４
+[quest_title_1030450800501010] ＶＳ　マチス
+[quest_title_1030450800502010] ＶＳ　デンジ
+[quest_title_1030450800503010] ＶＳ　カミツレ
+[quest_title_1030450800504010] ＶＳ　シトロン
+[quest_title_1030450800505010] ＶＳ　マリィ
+[quest_title_1030508000601000] せわしない親子の亀裂……？
+[quest_title_1030508000601040] ＶＳ　センリ
+[quest_title_1030508000601010] ジュンの意地
+[quest_title_1030508000601050] ＶＳ　センリ２
+[quest_title_1030508000601020] 輝けるとき
+[quest_title_1030508000601060] ＶＳ　センリ３
+[quest_title_1030508000601030] 最強のブレーンの背中
+[quest_title_1030508000601070] ＶＳ　センリ４
+[quest_title_1030508000601080] １日１回限定・高難度バトル！
+[quest_title_1030508000601090] チャレンジバトルで勝負！
+[quest_title_1030508000601100] チャレンジバトルで勝負！２
+[quest_title_1030220134000000] とある日のクロツグ
+[quest_title_1030220203000000] とある日のケイト
+[quest_title_1030450800401010] ＶＳ　ホップ
+[quest_title_1030440708701010] ＶＳ　コトネ
+[quest_title_1030440708702010] ＶＳ　コトネ２
+[quest_title_1030440708703010] ＶＳ　コトネ３
+[quest_title_1030440708704010] ＶＳ　コトネ４
+[quest_title_1030440708705010] １日１回限定・ボーナスバトル！
+[quest_title_1030450800601010] ＶＳ　パシオのトレーナー
+[quest_title_1030450800601011] ＶＳ　パシオのトレーナー２
+[quest_title_1030450800601012] ＶＳ　パシオのトレーナー３
+[quest_title_1030450800601013] ＶＳ　パシオのトレーナー４
+[quest_group_title_10206000000] ラジュルネ
+[quest_group_title_100110] 最終編
+[quest_group_title_10000900000] レッド
+（チャンピオン）
+[quest_group_title_10017900000] リーフ
+（チャンピオン）
+[quest_group_title_10021900000] グリーン
+（チャンピオン）
+[quest_group_title_10064000000] キリヤ
+[quest_group_title_10105000000] リッカ
+[quest_group_title_10142000000] アテナ
+[quest_group_title_10143000000] ラムダ
+[quest_group_title_10144000000] ランス
+[quest_group_title_10141000000] アポロ
+[quest_group_title_10134000000] クロツグ
+[quest_group_title_10203000000] ケイト
+[quest_group_detail_100110] 人の理想が交わる場所で
 
 ===========
 story_quest_name_ko.lsd
@@ -26737,6 +27506,119 @@ story_quest_name_ko.lsd
 [quest_group_title_10175000000] 고지카
 [quest_group_title_10155000000] 드라세나
 [quest_group_title_10289000000] 네모
+[quest_title_1040000170001011] 리프와의 특별한 하루 전편
+[quest_title_1040000170001021] 리프와의 특별한 하루 후편
+[quest_title_1030220206000000] 라쥬르네의 어느 날
+[quest_title_1030508000608010] 신오지방 편성으로 배틀! 특급
+[quest_title_1030508000609010] 하나지방 편성으로 배틀! 특급
+[quest_title_1030508000610010] 칼로스지방 편성으로 배틀! 특급
+[quest_title_1030508000611010] 알로라지방 편성으로 배틀! 특급
+[quest_title_1030508000612010] 가라르지방 편성으로 배틀! 특급
+[quest_title_1030508000607010] 관동지방 편성으로 배틀! 특급
+[quest_title_1030110000590100] 막을 수 없는 힘
+[quest_title_1030110000590600] VS 브레이크단
+[quest_title_1030110000590200] 표적
+[quest_title_1030110000590700] VS 브레이크단2
+[quest_title_1030110000590300] "어른의 방식"
+[quest_title_1030110000590800] VS 브레이크단3
+[quest_title_1030110000590400] 잘못된 선택
+[quest_title_1030110000590900] VS 브레이크단4
+[quest_title_1030110000590500] 다시 한번...
+[quest_title_1030110000591500] VS 로켓단의 조무래기
+[quest_title_1030110000591000] 거짓된 그림자
+[quest_title_1030110000591600] VS 로켓단의 조무래기2
+[quest_title_1030110000591100] 파시오가 이끌어 낸 답
+[quest_title_1030110000591700] VS 로켓단의 조무래기3
+[quest_title_1030110000591200] 해야 할 일
+[quest_title_1030110000591800] VS 비주기
+[quest_title_1030110000591300] 더는 헤매지 않겠어
+[quest_title_1030110000591400] 악을 물리치는 것
+[quest_title_1030508000603000] 오박사의 부탁
+[quest_title_1030508000603010] 최강의 도전자들
+[quest_title_1030508000603050] VS 파시오의 트레이너
+[quest_title_1030508000603020] 각자의 방식
+[quest_title_1030508000603060] VS 파시오의 트레이너2
+[quest_title_1030508000603030] 레드의 목적...?
+[quest_title_1030508000603070] VS 파시오의 트레이너3
+[quest_title_1030508000603040] 즐거운 승부를!
+[quest_title_1030508000603080] VS 파시오의 트레이너4
+[quest_title_1030508000603090] 1일 1회 한정 고난도 배틀!
+[quest_title_1030508000603100] 챌린지배틀로 승부!
+[quest_title_1030508000603110] 챌린지배틀로 승부!2
+[quest_title_1030220000900000] 레드의 어느 날
+[quest_title_1030220017900000] 리프의 어느 날
+[quest_title_1030220021900000] 그린의 어느 날
+[quest_title_1030508000604010] 강적에게 도전! VS 웅
+[quest_title_1030508000604020] 강적에게 도전! VS 웅2
+[quest_title_1030450800301010] VS 레드
+[quest_title_1030450800801011] 챌린지배틀1
+[quest_title_1030450800802011] 챌린지배틀2
+[quest_title_1030450800803011] 챌린지배틀3
+[quest_title_1030450800804011] 챌린지배틀4
+[quest_title_1030450800805011] 챌린지배틀5
+[quest_title_1030450800806011] 챌린지배틀6
+[quest_title_1030450800807011] 챌린지배틀7
+[quest_title_1030450800808011] 챌린지배틀8
+[quest_title_1030450800809011] 챌린지배틀9
+[quest_title_1030450800810011] 챌린지배틀10
+[quest_title_1030220064000000] 고상의 어느 날
+[quest_title_1030220105000000] 리카의 어느 날
+[quest_title_1030450800201010] VS 비주기
+[quest_title_1030450800202010] VS 비주기2
+[quest_title_1030220142000000] 아테나의 어느 날
+[quest_title_1030220143000000] 람다의 어느 날
+[quest_title_1030220144000000] 랜스의 어느 날
+[quest_title_1030220141000000] 아폴로의 어느 날
+[quest_title_1030508000602000] 처음 만나는 팔데아지방
+[quest_title_1030508000602010] VS 파시오의 트레이너
+[quest_title_1030508000602020] VS 파시오의 트레이너2
+[quest_title_1030508000602030] VS 파시오의 트레이너3
+[quest_title_1030508000602040] VS 파시오의 트레이너4
+[quest_title_1030450800501010] VS 마티스
+[quest_title_1030450800502010] VS 전진
+[quest_title_1030450800503010] VS 카밀레
+[quest_title_1030450800504010] VS 시트론
+[quest_title_1030450800505010] VS 마리
+[quest_title_1030508000601000] 분주한 가족의 균열...?
+[quest_title_1030508000601040] VS 종길
+[quest_title_1030508000601010] 용식의 고집
+[quest_title_1030508000601050] VS 종길2
+[quest_title_1030508000601020] 빛나는 순간
+[quest_title_1030508000601060] VS 종길3
+[quest_title_1030508000601030] 최강의 브레인의 뒷모습
+[quest_title_1030508000601070] VS 종길4
+[quest_title_1030508000601080] 1일 1회 한정 고난도 배틀!
+[quest_title_1030508000601090] 챌린지배틀로 승부!
+[quest_title_1030508000601100] 챌린지배틀로 승부!2
+[quest_title_1030220134000000] 종수의 어느 날
+[quest_title_1030220203000000] 맨드라의 어느 날
+[quest_title_1030450800401010] VS 호브
+[quest_title_1030440708701010] VS 금선
+[quest_title_1030440708702010] VS 금선2
+[quest_title_1030440708703010] VS 금선3
+[quest_title_1030440708704010] VS 금선4
+[quest_title_1030440708705010] 1일 1회 한정 보너스 배틀!
+[quest_title_1030450800601010] VS 파시오의 트레이너
+[quest_title_1030450800601011] VS 파시오의 트레이너2
+[quest_title_1030450800601012] VS 파시오의 트레이너3
+[quest_title_1030450800601013] VS 파시오의 트레이너4
+[quest_group_title_10206000000] 라쥬르네
+[quest_group_title_100110] 최종 편
+[quest_group_title_10000900000] 레드
+(챔피언)
+[quest_group_title_10017900000] 리프
+(챔피언)
+[quest_group_title_10021900000] 그린
+(챔피언)
+[quest_group_title_10064000000] 고상
+[quest_group_title_10105000000] 리카
+[quest_group_title_10142000000] 아테나
+[quest_group_title_10143000000] 람다
+[quest_group_title_10144000000] 랜스
+[quest_group_title_10141000000] 아폴로
+[quest_group_title_10134000000] 종수
+[quest_group_title_10203000000] 맨드라
+[quest_group_detail_100110] 사람의 이상이 교차하는 곳에서
 
 ===========
 story_quest_name_zh-TW.lsd
@@ -30004,6 +30886,119 @@ story_quest_name_zh-TW.lsd
 [quest_group_title_10175000000] 葛吉花
 [quest_group_title_10155000000] 朵拉塞娜
 [quest_group_title_10289000000] 妮莫
+[quest_title_1040000170001011] 與葉子的特別日子　前篇
+[quest_title_1040000170001021] 與葉子的特別日子　後篇
+[quest_title_1030220206000000] 某日的晝珠
+[quest_title_1030508000608010] 編制神奧隊伍來對戰！・超級
+[quest_title_1030508000609010] 編制合眾隊伍來對戰！・超級
+[quest_title_1030508000610010] 編制卡洛斯隊伍來對戰！・超級
+[quest_title_1030508000611010] 編制阿羅拉隊伍來對戰！・超級
+[quest_title_1030508000612010] 編制伽勒爾隊伍來對戰！・超級
+[quest_title_1030508000607010] 編制關都隊伍來對戰！・超級
+[quest_title_1030110000590100] 無可阻擋的力量
+[quest_title_1030110000590600] ＶＳ　破壞隊
+[quest_title_1030110000590200] 目標
+[quest_title_1030110000590700] ＶＳ　破壞隊２
+[quest_title_1030110000590300] 「大人的做法」
+[quest_title_1030110000590800] ＶＳ　破壞隊３
+[quest_title_1030110000590400] 錯誤的選擇
+[quest_title_1030110000590900] ＶＳ　破壞隊４
+[quest_title_1030110000590500] 再一次……
+[quest_title_1030110000591500] ＶＳ　火箭隊手下
+[quest_title_1030110000591000] 虛假的影子
+[quest_title_1030110000591600] ＶＳ　火箭隊手下２
+[quest_title_1030110000591100] 帕希歐推論出的解答
+[quest_title_1030110000591700] ＶＳ　火箭隊手下３
+[quest_title_1030110000591200] 該做的事
+[quest_title_1030110000591800] ＶＳ　阪木
+[quest_title_1030110000591300] 不再迷惘
+[quest_title_1030110000591400] 征服邪惡之人
+[quest_title_1030508000603000] 大木博士的請託
+[quest_title_1030508000603010] 最強的挑戰者們
+[quest_title_1030508000603050] ＶＳ　帕希歐的訓練家
+[quest_title_1030508000603020] 各自的做法
+[quest_title_1030508000603060] ＶＳ　帕希歐的訓練家２
+[quest_title_1030508000603030] 赤紅的目的……？
+[quest_title_1030508000603070] ＶＳ　帕希歐的訓練家３
+[quest_title_1030508000603040] 來場愉快的對戰！
+[quest_title_1030508000603080] ＶＳ　帕希歐的訓練家４
+[quest_title_1030508000603090] １天僅限１次的高難度對戰！
+[quest_title_1030508000603100] 用挑戰對戰決勝負！
+[quest_title_1030508000603110] 用挑戰對戰決勝負！２
+[quest_title_1030220000900000] 某日的赤紅
+[quest_title_1030220017900000] 某日的葉子
+[quest_title_1030220021900000] 某日的青綠
+[quest_title_1030508000604010] 挑戰強敵！　ＶＳ　小剛
+[quest_title_1030508000604020] 挑戰強敵！　ＶＳ　小剛２
+[quest_title_1030450800301010] ＶＳ　赤紅
+[quest_title_1030450800801011] 挑戰對戰１
+[quest_title_1030450800802011] 挑戰對戰２
+[quest_title_1030450800803011] 挑戰對戰３
+[quest_title_1030450800804011] 挑戰對戰４
+[quest_title_1030450800805011] 挑戰對戰５
+[quest_title_1030450800806011] 挑戰對戰６
+[quest_title_1030450800807011] 挑戰對戰７
+[quest_title_1030450800808011] 挑戰對戰８
+[quest_title_1030450800809011] 挑戰對戰９
+[quest_title_1030450800810011] 挑戰對戰１０
+[quest_title_1030220064000000] 某日的梧桐
+[quest_title_1030220105000000] 某日的俐卡
+[quest_title_1030450800201010] ＶＳ　阪木
+[quest_title_1030450800202010] ＶＳ　阪木２
+[quest_title_1030220142000000] 某日的雅典娜
+[quest_title_1030220143000000] 某日的拉姆達
+[quest_title_1030220144000000] 某日的蘭斯
+[quest_title_1030220141000000] 某日的阿波羅
+[quest_title_1030508000602000] 帕底亞地區的「初次見面」
+[quest_title_1030508000602010] ＶＳ　帕希歐的訓練家
+[quest_title_1030508000602020] ＶＳ　帕希歐的訓練家２
+[quest_title_1030508000602030] ＶＳ　帕希歐的訓練家３
+[quest_title_1030508000602040] ＶＳ　帕希歐的訓練家４
+[quest_title_1030450800501010] ＶＳ　馬志士
+[quest_title_1030450800502010] ＶＳ　電次
+[quest_title_1030450800503010] ＶＳ　小菊兒
+[quest_title_1030450800504010] ＶＳ　希特隆
+[quest_title_1030450800505010] ＶＳ　瑪俐
+[quest_title_1030508000601000] 浮躁父子倆的裂痕……？
+[quest_title_1030508000601040] ＶＳ　千里
+[quest_title_1030508000601010] 阿馴的堅持
+[quest_title_1030508000601050] ＶＳ　千里２
+[quest_title_1030508000601020] 綻放光彩的時刻
+[quest_title_1030508000601060] ＶＳ　千里３
+[quest_title_1030508000601030] 最強開拓頭腦的背影
+[quest_title_1030508000601070] ＶＳ　千里４
+[quest_title_1030508000601080] １天僅限１次的高難度對戰！
+[quest_title_1030508000601090] 用挑戰對戰決勝負！
+[quest_title_1030508000601100] 用挑戰對戰決勝負！２
+[quest_title_1030220134000000] 某日的桄榔
+[quest_title_1030220203000000] 某日的青葙
+[quest_title_1030450800401010] ＶＳ　赫普
+[quest_title_1030440708701010] ＶＳ　琴音
+[quest_title_1030440708702010] ＶＳ　琴音２
+[quest_title_1030440708703010] ＶＳ　琴音３
+[quest_title_1030440708704010] ＶＳ　琴音４
+[quest_title_1030440708705010] １天僅限１次的獎勵對戰！
+[quest_title_1030450800601010] ＶＳ　帕希歐的訓練家
+[quest_title_1030450800601011] ＶＳ　帕希歐的訓練家２
+[quest_title_1030450800601012] ＶＳ　帕希歐的訓練家３
+[quest_title_1030450800601013] ＶＳ　帕希歐的訓練家４
+[quest_group_title_10206000000] 晝珠
+[quest_group_title_100110] 最終篇
+[quest_group_title_10000900000] 赤紅
+（冠軍）
+[quest_group_title_10017900000] 葉子
+（冠軍）
+[quest_group_title_10021900000] 青綠
+（冠軍）
+[quest_group_title_10064000000] 梧桐
+[quest_group_title_10105000000] 俐卡
+[quest_group_title_10142000000] 雅典娜
+[quest_group_title_10143000000] 拉姆達
+[quest_group_title_10144000000] 蘭斯
+[quest_group_title_10141000000] 阿波羅
+[quest_group_title_10134000000] 桄榔
+[quest_group_title_10203000000] 青葙
+[quest_group_detail_100110] 人們的理想交會之地
 
 ===========
 trainer_description_de.lsd
@@ -31098,6 +32093,72 @@ haargenaue Anweisungen.
 [10003000001] Kalem ist ein disziplinierter Trainer, der stets danach
 strebt, stärker zu werden. Er versteckt die in ihm
 brennende Leidenschaft und gibt sich cool.
+[10000900000] Rot trägt ein Outfit, das seinem neu gewonnenen Titel als
+Passios Neo-Champ würdig ist. An der Seite seines Arktos
+kämpft er mit Würde und Eleganz.
+[10021900001] Blau trägt ein Outfit, das seinem neu gewonnenen Titel
+als Passios Neo-Champ würdig ist. Als Gefährtengespann
+mit Zapdos eilt ihm sein Ruf voraus.
+[10017900000] Leaf trägt ein Outfit, das ihrem neu gewonnenen Titel als
+Passios Neo-Champ würdig ist. Mit Lavados an ihrer Seite
+zeigt sie allen, wie innig ihre Liebe für Pokémon ist.
+[10134000000] Dieser Kampfkoloss erwartet Herausforderer im Duellturm
+von Sinnoh und ist Barrys Vater. Er ist ausgesprochen
+talentiert und genießt den großen Respekt der anderen
+Kampfkoryphäen.
+[10203000000] Diese Saaldiva begrüßt Herausforderer im Kampfsaal mit
+ihrer schwungvollen Art und eleganten Erscheinung.
+In ihrem Saal darf jeder glänzen.
+[10064010000] Dieser Trainer kam aus einer anderen Region nach Passio.
+Aufgrund eines Erlebnisses in der Vergangenheit verachtet
+er alles Böse. Um an Stärke zu gewinnen, schlug er einst
+den falschen Weg ein, doch nun will er dem Bösen mit
+der Kraft seines Herzens trotzen.
+[10105010000] Diese Trainerin kam aus einer anderen Region nach
+Passio. Sie ist seit Kindertagen mit Kilian befreundet,
+weshalb zwischen den beiden eine gesunde Rivalität
+besteht. Die Zeit, die sie mit ihren Pokémon verbringt,
+ist ihr wichtiger als alles andere.
+[10141000000] Dieser stolze Vorstand von Team Rocket übernahm einst
+die Leitung der Organisation in Johto, um den damals
+verschwundenen Giovanni zurückzubringen.
+[10142000000] Dieser überaus sture Vorstand von Team Rocket glaubt
+felsenfest daran, dass Macht zu bösen Zwecken eingesetzt
+werden sollte. Sie ist zudem eine überzeugte Verfechterin
+der Leitsätze von Team Rocket.
+[10143000000] Dieser Vorstand von Team Rocket ist nur schwer
+durchschaubar. Er ist äußerst talentiert darin, die Gestalt
+anderer nachzuahmen, doch seine Tarnung scheitert oft
+am Imitieren fremder Stimmen. Er nutzt seine Fähigkeiten,
+um seine bösen Pläne voranzutreiben.
+[10144000000] Dieser Vorstand wird oftmals als das grausamste Mitglied
+von Team Rocket gefürchtet. Die üblen Machenschaften
+der Organisation führt er mit großer Hingabe aus. Sein
+vornehmes Auftreten und gutes Aussehen machen ihn bei
+anderen Mitgliedern der Organisation sehr beliebt.
+[10206000000] Die Zweitgeborene der vier Kampf-Châtelaine-Schwestern
+zeichnet sich durch ihr temperamentvolles Wesen aus,
+brüstet sich jedoch mit den Manieren einer vornehmen
+Prinzessin, wenn sie als Châtelaine im Kampf antritt.
+Im Kampfhaus ist sie für Dreierkämpfe zuständig.
+[10017000001] Dieses fröhliche und umgängliche Mädchen hat ein
+unerschöpfliches Interesse an Pokémon und großes
+Vertrauen in sein Können im Pokémon-Kampf.
+[10140000001] Er ist der Anführer von Team Rainbow Rocket, einer
+Organisation, die mithilfe von Pokémon die Weltherrschaft
+an sich reißen will. Pokémon sind für ihn nur Werkzeuge.
+[10150000001] Dieser Arenaleiter aus Johto setzt Flug-Pokémon ein. Er
+ist sehr ernst und manchmal sturköpfig. Sein Ziel besteht
+darin, ein angesehener Trainer wie sein Vater zu werden.
+[10099000001] Ein lebhafter Junge mit einer ernsten Passion für Pokémon.
+Sein ungestümes Wesen sorgt dafür, dass er unbeirrt alles
+umsetzt, was er sich vornimmt.
+[10157000001] Diese Arenaleiterin mit einer auffälligen Sprechweise hat
+ihr originelles Outfit selbst entworfen und möchte eines
+Tages ein Pokémon werden.
+[10051000001] Eine Inselkönigin, die in Alola für ihre Stärke im Kampf
+sowie ihre fürsorgliche Art geschätzt wird. In ihrem
+Juweliergeschäft gibt es auch Fossilien.
 
 ===========
 trainer_description_en.lsd
@@ -32043,7 +33104,7 @@ was submitted by his secretary.)
 [10263000000] Oleana is the vice president of a large business
 conglomerate in Galar, Macro Cosmos. She is also Rose’s
 secretary and has impeccable schedule management. She
-used to be involved in researching of Dynamax.
+used to be involved in researching Dynamax.
 [10285000001] This leader of the Pearl Clan is from the Hisui region.
 She became a leader at a young age, so she worries
 a lot, but she thinks and acts for the future of Hisui.
@@ -32071,6 +33132,63 @@ pinpoint instructions.
 [10003000001] A stoic Trainer in pursuit of strength, he conceals
 his burning desire to grow stronger and plays it
 cool outwardly.
+[10000900000] Red is dressed in an outfit honoring his earned title:
+Neo Champion of Pasio. The way he battles alongside his
+Articuno is beautiful and graceful.
+[10021900001] Blue is dressed in an outfit honoring his earned title:
+Neo Champion of Pasio. Together with Zapdos, he sends
+his name roaring across the world.
+[10017900000] Leaf is dressed in an outfit honoring her earned title:
+Neo Champion of Pasio. With Moltres at her side, she lets
+her love for Pokémon burn.
+[10134000000] This Tower Tycoon awaits challengers at the Battle Tower
+in Sinnoh and is also Barry’s father. He is highly skilled
+and is respected by the other Frontier Brains.
+[10203000000] This Hall Matron with a lively and elegant aura waits for
+challengers at the Battle Hall in Sinnoh. She believes there
+is a place where everyone can shine.
+[10064010000] This Trainer came to Pasio from another region. Due to
+past experiences, he despises anything evil and once went
+down the wrong path in pursuit of strength. Currently, his
+goal is to combat evil with the heart.
+[10105010000] This Trainer came to Pasio from another region. She is
+Paulo’s childhood friend, and they challenge each other
+as rivals. She cherishes the time she spends with her
+Pokémon more than anything.
+[10141000000] A prideful executive of Team Rocket, he once took action
+and lead Team Rocket in Johto to bring back Giovanni,
+who had disappeared.
+[10142000000] This very headstrong Team Rocket executive believes
+power should be used for evil. She believes strongly in
+Team Rocket’s philosophies.
+[10143000000] This Team Rocket executive is difficult to read. He’s good
+at creating the perfect disguise but can’t impersonate
+voices well. He uses his talent for his evil schemes.
+[10144000000] This executive is often labeled the scariest and cruelest in
+Team Rocket. His passion for missions and loyalty to the
+organization are strong. With his polite demeanor and
+good looks, he is popular among the female members.
+[10206000000] The second-born of the four Battle Chatelaine sisters, she
+has a feisty personality but acts like a high-and-mighty
+princess when battling as a Chatelaine. In the Battle
+Maison, she’s in charge of Triple Battles.
+[10017000001] This cheerful and friendly Trainer has an insatiable sense
+of adventure and absolute confidence in her battling skills.
+[10140000001] This leader of the expansive Team Rainbow Rocket
+enterprise, which aims to use Pokémon to rule the world,
+believes Pokémon are no more than tools.
+[10150000001] This Flying-type Pokémon user and Johto Gym Leader has
+a serious demeanor and can be a bit hardheaded. He
+aims to become a great Trainer like his father.
+[10099000001] An incredibly impetuous, high-spirited young man who
+runs straight for what he wants without any hesitation,
+he has an earnest passion for Pokémon.
+[10157000001] A unique Trainer in both looks and mannerisms, she
+began designing Pokémon-inspired clothes in the hope
+that someday she could become a Pokémon.
+[10051000001] This kahuna is trusted like a big sister by her island’s
+residents, thanks to her compassion and strength in battle.
+The jewelry shop she runs also handles fossils.
 
 ===========
 trainer_description_es.lsd
@@ -33213,6 +34331,74 @@ precisas a su compi.
 [10003000001] Entrenador de personalidad firme al que lo mueve su
 afán por hacerse más fuerte, aunque intente ocultarlo
 tras una actitud serena.
+[10000900000] Rojo vuelve vestido con un traje que hace honor a su
+recién adquirido título de Neocampeón de Passio. Junto
+a su compi Articuno, convierte los combates en una
+exhibición de gracia y belleza.
+[10021900001] Azul vuelve vestido con un traje que hace honor a su
+recién adquirido título de Neocampeón de Passio. Con
+ayuda de Zapdos, hace que su nombre retumbe a lo largo
+y ancho del mundo.
+[10017900000] Hoja vuelve vestida con un traje que hace honor a su
+recién adquirido título de Neocampeona de Passio. Arde
+de amor por los Pokémon junto a su compi, Moltres.
+[10134000000] El padre de Israel es a su vez el temible Amo de la Torre
+en la Torre Batalla de Sinnoh, donde aguarda a sus
+oponentes. Es un Entrenador hábil y muy respetado entre
+los Ases del Frente.
+[10203000000] La Dama del Salón espera a sus oponentes en la Sala
+Batalla envuelta en un aura elegante y vivaz. Tiene la
+creencia de que siempre hay algo en lo que todos
+pueden destacar.
+[10064010000] Llegado a Passio desde una región lejana, este Entrenador
+desprecia la maldad debido a un acontecimiento pasado.
+Su búsqueda de la fuerza para acabar con ella lo llevó
+por el camino equivocado, pero ahora su meta es
+combatirla con todo su corazón.
+[10105010000] Llegada a Passio desde una región lejana, esta
+Entrenadora es la mejor amiga de la infancia de Paolo,
+además de su rival. Valora mucho el tiempo que pasa con
+sus Pokémon.
+[10141000000] Altivo Ejecutivo del Team Rocket que en su momento
+tomó las riendas de la organización, allá en Johto, para
+traer de vuelta a Giovanni, que había desaparecido sin
+dejar rastro.
+[10142000000] Esta obstinada Ejecutiva del Team Rocket cree que la
+fuerza debería utilizarse para sembrar el mal y es una
+ferviente seguidora de las filosofías de la organización.
+[10143000000] Es complicado adivinar lo que pasa por la cabeza de este
+Ejecutivo del Team Rocket. Es todo un maestro del disfraz,
+aunque no se le da bien imitar voces, y usa su talento
+para maquinar planes malvados.
+[10144000000] Este Ejecutivo tiene fama de ser el miembro más retorcido
+del Team Rocket. Disfruta de las misiones que le
+encomiendan y profesa una fuerte lealtad hacia la
+organización. Su cuidada conducta y su apariencia hacen
+que sea popular entre las mujeres de la organización.
+[10206000000] Es la segunda de las cuatro hermanas conocidas como las
+Damas del Combate. Tiene un carácter algo adusto, pero
+se comporta como toda una señorita cuando combate.
+En la Mansión Batalla es quien se encarga de los
+Combates Triples.
+[10017000001] Alegre y simpática Entrenadora que posee una insaciable
+curiosidad por todo lo que concierne a los Pokémon y
+una gran confianza en sus habilidades combativas.
+[10140000001] Líder del Team Rainbow Rocket, una organización criminal
+que pretende valerse de los Pokémon para dominar el
+mundo. Ve a los Pokémon como meras herramientas.
+[10150000001] Líder de Gimnasio de Johto que se especializa en el tipo
+Volador. Serio y obstinado, aspira a llegar a la altura de
+su admirado padre como Entrenador.
+[10099000001] Joven vivaracho que vierte toda su pasión en los
+Pokémon. Debido a su carácter impaciente, cuando
+tiene algo entre ceja y ceja, persigue firme su objetivo
+sin titubear.
+[10157000001] Una Entrenadora única, tanto por su apariencia como
+por su extravagancia. Diseña ropa inspirada en Pokémon
+con la esperanza de convertirse en uno algún día.
+[10051000001] Kahuna amada y respetada por su fuerza y su carácter
+compasivo. Es dueña de una joyería en la que vende
+piedras y fósiles.
 
 ===========
 trainer_description_fr.lsd
@@ -34312,6 +35498,68 @@ précision à son partenaire Pokémon.
 [10003000001] Ce Dresseur flegmatique dissimule son ardente volonté
 de s'améliorer et de devenir plus fort sous ses airs
 impassibles.
+[10000900000] Red porte une tenue faisant hommage son nouveau titre :
+Néo-Maître de Passio. La façon dont il se bat aux côtés
+de son Artikodin est belle à en donner des frissons.
+[10021900001] Blue porte une tenue faisant hommage à son nouveau
+titre : Néo-Maître de Passio. Aux côtés d'Électhor, son
+nom retentit comme le tonnerre à travers le monde.
+[10017900000] Leaf porte une tenue faisant hommage à son nouveau
+titre : Néo-Maître de Passio. Avec Sulfura à ses côtés,
+elle laisse brûler sa passion pour les Pokémon.
+[10134000000] Cet Aigle de la Tour attend ses adversaires à la Tour
+de Combat de Sinnoh. Il est aussi le père de René,
+ainsi qu'un Dresseur extrêmement talentueux
+et respecté des autres Meneurs de Zone.
+[10203000000] Cette Lady Scène à l'aura élégante attend ses adversaires
+à la Scène de Combat de Sinnoh. Elle a l'intime conviction
+que tout le monde a une place dans ce monde.
+[10064010000] Ce Dresseur est venu à Passio depuis une autre région.
+À cause de son passé, il a horreur de tout ce qui est
+malfaisant, et a autrefois emprunté la mauvaise voie
+en quête de force. Il combat désormais le mal avec
+une puissance qui lui vient du cœur. 
+[10105010000] Cette Dresseuse est venue à Passio d'une autre région.
+Amie d'enfance mais aussi rivale de Kyrill, elle adore
+plus que tout passer du temps avec son Pokémon.
+[10141000000] Ce fier Admin de la Team Rocket a un jour pris les rênes
+de l'organisation à Johto, dans le but de retrouver
+et ramener Giovanni qui avait alors disparu.
+[10142000000] Cette Admin de la Team Rocket très entêtée estime que
+le pouvoir devrait servir uniquement à faire le mal. Elle
+croit dur comme fer en la philosophie de la Team Rocket.
+[10143000000] Cet Admin de la Team Rocket est difficile à cerner.
+Il est capable de créer de parfaits déguisements,
+mais n'arrive pas à imiter les voix correctement.
+Il met son talent au profit de plans diaboliques.
+[10144000000] Cet Admin a la réputation d'être le membre de la Team
+Rocket le plus cruel. Il est dévoué à cette organisation
+et passionné par ses missions. Son attitude polie
+ainsi que son allure le rendent populaire auprès
+des membres féminins.
+[10206000000] La deuxième Châtelaine Combat. D'un tempérament
+habituellement fougueux, elle se comporte de façon
+hautaine quand elle se bat en tant que Châtelaine.
+Elle se charge des Combats Trio à la Maison de Combat.
+[10017000001] Une jeune fille joyeuse et amicale. Son insatiable curiosité
+pour tout ce qui touche aux Pokémon en fait une
+formidable Dresseuse et une redoutable adversaire.
+[10140000001] Le chef de la Team Rainbow Rocket, une organisation
+criminelle voulant utiliser les Pokémon pour conquérir le
+monde. Il considère les Pokémon comme des objets.
+[10150000001] Un Champion d'Arène de Johto spécialiste des Pokémon
+Vol. Très sérieux, il peut également se montrer têtu.
+Son objectif est de devenir un aussi bon Dresseur
+que son père.
+[10099000001] Un Dresseur extrêmement sérieux dans son approche
+des Pokémon qui, par impatience, fonce parfois pour
+atteindre son but.
+[10157000001] Une Championne qui confectionne elle-même ses tenues.
+Elle puise son inspiration unique dans son désir intense de
+devenir un Pokémon.
+[10051000001] Cette Doyenne aimée pour sa force en combat Pokémon
+et sa grande générosité tient une joaillerie et collectionne
+les fossiles.
 
 ===========
 trainer_description_it.lsd
@@ -35387,6 +36635,65 @@ per dare ordini meticolosi al suo Pokémon.
 [10003000001] Allenatore stoico dai modi compassati, dietro i quali
 si nasconde un ardente desiderio di diventare sempre
 più forte.
+[10000900000] Rosso indossa un abito che celebra il suo meritato titolo:
+Nuovo Campione di Pasio. Quando lotta insieme
+ad Articuno, dimostra uno stile elegante e incantevole.
+[10021900001] Blu indossa un abito che celebra il suo meritato titolo:
+Nuovo Campione di Pasio. Insieme al suo Zapdos,
+fa in modo che il suo nome rimbombi nel mondo intero.
+[10017900000] Leaf indossa un abito che celebra il suo meritato titolo:
+Nuova Campionessa di Pasio. Con Moltres al suo fianco,
+trasmette con ardore il suo amore per i Pokémon.
+[10134000000] Il Boss della Torre Lotta, nonché padre di Barry, è pronto
+ad ogni sfida nella Torre Lotta di Sinnoh. Il suo talento
+fa sì che sia molto rispettato dagli altri Assi del Parco.
+[10203000000] La Stella Palco dall'aura vivace e raffinata è pronta
+ad affrontare ogni sfidante al Palco Lotta di Sinnoh.
+È convinta che ci sia un luogo in cui tutti possono brillare.
+[10064010000] Allenatore arrivato a Pasio da un'altra regione,
+a causa del suo passato, disprezza la malvagità
+e ha intrapreso il cammino sbagliato con lo scopo
+di diventare più forte. Ad oggi, il suo obiettivo
+è sconfiggere il male grazie a ciò che ha nel cuore.
+[10105010000] Allenatrice arrivata a Pasio da un'altra regione,
+è amica d'infanzia di Owen e i due si considerano rivali.
+Per lei non c'è nulla di più importante del tempo passato
+con il suo Pokémon.
+[10141000000] Orgoglioso Generale del Team Rocket, a Johto prese
+in mano le redini dell'organizzazione in seguito
+alla scomparsa di Giovanni.
+[10142000000] Generale del Team Rocket dal carattere forte, crede
+nell'usare la forza per fare del male. Ha una fede
+incrollabile nella filosofia del Team Rocket.
+[10143000000] Generale del Team Rocket imperscrutabile, è un maestro
+del camuffamento, ma non riesce a mascherare
+la sua voce. Usa il suo talento per scopi malvagi.
+[10144000000] Generale del Team Rocket, è considerato il più crudele
+dell'intera organizzazione. Si entusiasma per ogni
+missione, è estremamente leale ed è popolare tra
+i membri di sesso femminile per via delle sue maniere
+educate e del suo bell'aspetto.
+[10206000000] La seconda delle quattro Dame della lotta,
+ha una personalità combattiva, ma si comporta
+da principessa altezzosa durante le lotte.
+All'interno della Villa Lotta si occupa delle Lotte
+in Triplo.
+[10017000001] Una ragazza dal carattere solare e amichevole.
+Nutre una curiosità insaziabile verso i Pokémon e
+si fida ciecamente delle proprie capacità nelle lotte.
+[10140000001] Capo del Team Rainbow Rocket, una vasta organizzazione
+che mira a conquistare il mondo servendosi di tutti
+i Pokémon. Considera i Pokémon come degli strumenti.
+[10150000001] Capopalestra di Johto specializzato nel tipo Volante,
+è molto serio e a volte un po' testardo. Mira a diventare
+un grande Allenatore come suo padre.
+[10099000001] Ragazzo vivace che prende i Pokémon davvero sul serio.
+È un tipetto impaziente e non sa starsene mai fermo.
+[10157000001] Una Capopalestra dallo stile molto particolare che disegna
+i suoi abiti spinta dal desiderio di diventare un Pokémon.
+[10051000001] Kahuna molto amata per la grande abilità con i Pokémon
+e per il carattere premuroso.
+Vende fossili e pietre nella sua gioielleria.
 
 ===========
 trainer_description_ja.lsd
@@ -36357,6 +37664,60 @@ trainer_description_ja.lsd
 [10003000001] 強さを　求める　ストイックな　トレーナー。
 強くなりたいという　熱い想いを　隠し
 表に　ださないよう　クールに　ふるまう。
+[10000900000] パシオの　ネオ・チャンピオンとして　認められ
+名誉ある衣装に　身を包んだ　レッド。
+フリーザーと　共に　戦う姿は　美しく　気高い。
+[10021900001] パシオの　ネオ・チャンピオンとして　認められ
+名誉ある衣装に　身を包んだ　グリーン。
+サンダーと　共に　世界に　その名を　轟かせる。
+[10017900000] パシオの　ネオ・チャンピオンとして　認められ
+名誉ある衣装に　身を包んだ　リーフ。
+ファイヤーと　共に　ポケモンへの　愛を　燃やす。
+[10134000000] シンオウ地方の　バトルタワーで　挑戦者を　待つ
+ジュンの　父親でもある　タワータイクーン。
+実力は高く　他のブレーンからも　一目置かれている。
+[10203000000] シンオウ地方の　バトルステージで　挑戦者を　待つ
+明るく　上品な　雰囲気の　ステージマドンナ。
+「誰にでも　輝ける場所がある」を　信条としている。
+[10064010000] どこかの地方から　パシオへやって来た　トレーナー。
+過去の経験から　悪を憎み　強さを求め　道を誤った。
+現在は「心で悪を征する」ことを　目指して　活動中。
+[10105010000] どこかの地方から　パシオへやって来た　トレーナー。
+キリヤとは　幼なじみで　競いあう　ライバル。
+ポケモンと過ごす時間を　なにより　大切にしている。
+[10141000000] プライドが高い　ロケット団の　幹部。
+姿を消した　サカキを　呼び戻すため　ジョウト地方で
+ロケット団を　率いて　行動を　起こした。
+[10142000000] とても　気が強い　ロケット団の　幹部。
+「強さ」を　悪いことに　使うべきと　考えており
+ロケット団の　在り方を　信奉している。
+[10143000000] とらえどころがない　性格の　ロケット団　幹部。
+変装が得意で　見た目は完璧だが　話すと似ていない。
+その特技を　駆使して　様々な　悪事を　働く。
+[10144000000] 最も　冷酷と　呼ばれている　ロケット団の　幹部。
+任務にかける　熱意と　組織への　忠誠は　高い。
+物腰丁寧で　顔立ちもよく　女性団員から人気がある。
+[10206000000] バトルシャトレーヌ四姉妹の　次女。
+好戦的な　性格だが　「営業中」は　高飛車なお嬢様。
+バトルハウスでは　トリプルバトルを　担当。
+[10017000001] 明るく　親しみやすい　性格の　少女。
+ポケモンに　対して　あくなき　探求心を　持ち
+勝負の　腕前に　絶対の　自信がある。
+[10140000001] すべての　ポケモンを　利用して　世界を
+支配しようと　企む　大組織　レインボーロケット団の
+リーダー。　ポケモンは　道具と　考えている。
+[10150000001] ひこうポケモン使いで　ジョウトの　ジムリーダー。
+生真面目な　性格で　少し　頑固な　ところも。
+父親のような　立派なトレーナーを　目指している。
+[10099000001] ポケモンに　かける　情熱は　真剣そのもの。
+とても　せっかちな　性格で　思い込んだら
+迷わず　一直線に　走っていく　元気な少年。
+[10157000001] 印象的な　言葉遣いを　する　ジムリーダー。
+その　独特な　ファッションは　ポケモンに
+なりたい　彼女が　自分で　デザインしている。
+[10051000001] ポケモン勝負が　強く　情に厚い　姉御肌のため
+島の住民からの　信頼が　厚い　しまクイーン。
+彼女が営む　ジュエリーショップでは　化石も扱う。
 
 ===========
 trainer_description_ko.lsd
@@ -37326,6 +38687,60 @@ WPM 운영위원회의 대표도 맡고 있다.
 [10003000001] 강함을 추구하는 엄격한 트레이너.
 강해지고 싶다는 뜨거운 마음을 숨기고
 겉으로 드러나지 않게 쿨한 척을 하고 있다.
+[10000900000] 파시오의 네오 챔피언으로 인정받아
+명예로운 의상을 입은 레드.
+프리져와 함께 싸우는 모습은 아름답고 세련됐다.
+[10021900001] 파시오의 네오 챔피언으로 인정받아
+명예로운 의상을 입은 그린.
+썬더와 함께 세계에 그 이름을 크게 떨친다.
+[10017900000] 파시오의 네오 챔피언으로 인정받아
+명예로운 의상을 입은 리프.
+파이어와 함께 포켓몬을 향한 애정을 불태운다.
+[10134000000] 신오지방의 배틀타워에서 도전자를 기다리는
+타워타이쿤이자 용식의 아버지.
+다른 브레인들도 뛰어난 실력을 인정하고 있다.
+[10203000000] 신오지방의 배틀스테이지에서 도전자를 기다리는
+밝고 우아한 분위기의 스테이지마돈나.
+"누구든지 빛날 장소가 있다"가 신조이다.
+[10064010000] 어떤 지방에서 파시오를 찾아온 트레이너.
+과거의 경험 탓에 악을 증오하고 힘을 추구하다 잘못된 길로 빠졌다.
+현재는 "마음으로 악을 물리치는 것"을 목표로 활동하고 있다.
+[10105010000] 어떤 지방에서 파시오를 찾아온 트레이너.
+고상과는 소꿉친구이면서 서로 경쟁하는 라이벌 사이.
+포켓몬과 보내는 시간을 그 무엇보다 소중히 여긴다.
+[10141000000] 자존심이 강한 로켓단의 간부.
+자취를 감춘 비주기를 다시 부르기 위해 성도지방에서
+로켓단을 이끌고 행동을 일으켰다.
+[10142000000] 기가 드센 로켓단의 간부.
+"힘"은 악행에 써야 한다고 생각하며
+로켓단의 방식을 믿고 따른다.
+[10143000000] 종잡을 수 없는 성격을 지닌 로켓단의 간부.
+변장이 특기라 겉모습은 완벽하게 변장하지만 성대모사는 별로다.
+그 특기를 살려 다양한 악행을 저지른다.
+[10144000000] 가장 냉혹하다고 불리는 로켓단의 간부.
+임무에 대한 열의와 조직을 향한 충성심이 높다.
+언행이 정중하고 미남이라 여성 단원 사이에서 인기가 많다.
+[10206000000] 배틀샤틀레느 네 자매 중 둘째.
+호전적인 성격이지만 "영업 중"일 땐 고압적인 아기씨이다.
+배틀하우스에서는 트리플배틀을 담당한다.
+[10017000001] 밝고 친근한 성격의 소녀.
+포켓몬에 대한 끝없는 탐구심을 가지고 있으며
+포켓몬 승부의 실력에는 강한 자신감을 가지고 있다.
+[10140000001] 모든 포켓몬을 이용해서 세계 정복을 꾸미는
+거대 조직 레인보우로켓단의 리더.
+포켓몬을 도구라고 생각하고 있다.
+[10150000001] 비행포켓몬 전문가이자 성도지방의 체육관 관장.
+고지식한 성격으로 약간 완고한 면도 있다.
+아버지 같은 훌륭한 트레이너가 되는 것이 목표다.
+[10099000001] 포켓몬에 대한 정열은 그야말로 진짜다.
+매우 성급한 성격이라 마음먹은 일에는
+망설임 없이 곧장 달려가는 활발한 소년.
+[10157000001] 인상적인 패션의 체육관 관장.
+그 독특한 패션은 포켓몬이 되고 싶은
+그녀가 스스로 디자인한 것이다.
+[10051000001] 포켓몬 승부에 강하고 정이 많은 여장부로
+섬의 주민들로부터 깊이 신뢰받는 섬의 여왕이다.
+그녀가 경영하는 주얼리숍에서는 화석도 취급한다.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -38295,6 +39710,60 @@ trainer_description_zh-TW.lsd
 [10003000001] 追求強大，嚴以律己的訓練家。
 心中隱藏著渴望變強的火熱鬥志，
 表面上卻裝出沉著冷靜的樣子。
+[10000900000] 受認定成為帕希歐新・冠軍，
+穿上了代表榮譽的服裝的赤紅。
+與急凍鳥並肩作戰的模樣美麗又高貴。
+[10021900001] 受認定成為帕希歐新・冠軍，
+穿上了代表榮譽的服裝的青綠。
+與閃電鳥一起名震全世界。
+[10017900000] 受認定成為帕希歐新・冠軍，
+穿上了代表榮譽的服裝的葉子。
+與火焰鳥一起燃燒對寶可夢的愛。
+[10134000000] 在神奧地區的對戰塔等待挑戰者的
+對戰塔大君。同時也是阿馴的父親。
+實力高強，連其他開拓頭腦都對他甘拜下風。
+[10203000000] 在神奧地區的對戰舞台等待挑戰者的
+舞台名伶。個性開朗，氣質優雅。
+信念是「無論是誰都有自己能綻放光彩的地方」。
+[10064010000] 從某個地區來到帕希歐的訓練家。
+過去的經驗令他憎恨邪惡，為了追求強大而曾誤入歧途。
+現在則是以「用心靈征服邪惡」為目標在活動。
+[10105010000] 從某個地區來到帕希歐的訓練家。
+和梧桐是青梅竹馬，也是互相競爭的勁敵。
+珍視與寶可夢共度的時光勝於一切。
+[10141000000] 自尊心很強的火箭隊幹部。
+為了喚回失去蹤影的阪木，
+曾在城都地區率領火箭隊展開行動。
+[10142000000] 個性極為強勢的火箭隊幹部。
+她認為「力量」就該用在壞事上，
+並信從火箭隊的組織理念。
+[10143000000] 性格難以捉摸的火箭隊幹部。
+擅長變裝，扮裝可以毫無瑕疵，但說起話來
+卻是破綻百出。會活用這項特技做各種壞事。
+[10144000000] 被人稱為最冷酷的火箭隊幹部。
+對任務充滿熱情，極為效忠組織。
+舉止有禮、容貌端正，很受女性隊員的歡迎。
+[10206000000] 對戰女城主四姐妹中的二女兒。
+個性好戰，但「工作時」是盛氣凌人的大小姐。
+在對戰屋中負責三打對戰。
+[10017000001] 個性開朗親切的少女。
+對寶可夢懷著無止境的求知慾，
+對於自己的對戰實力有絕對的自信。
+[10140000001] 是企圖利用所有寶可夢來統治世界的
+巨大組織「彩虹火箭隊」的老大。
+他認為寶可夢是一種道具。
+[10150000001] 飛行屬性寶可夢行家，城都的道館館主。
+個性一本正經，也有一點頑固。
+目標是成為像他父親一樣傑出的訓練家。
+[10099000001] 對寶可夢的熱情如假包換。急性子的他，
+一旦下定決心，就會不管三七二十一，
+一股腦地往前衝。是一位充滿活力的少年。
+[10157000001] 用字遣詞讓人印象深刻的道館館主。
+身穿的獨特服裝，是由想成為
+寶可夢的她親自設計的。
+[10051000001] 寶可夢對戰實力堅強，注重情誼的島嶼女王。
+大姊大般的個性，使她深受島上居民的信賴。
+她經營的寶石店裡也有販賣化石。
 
 ===========
 trainer_name_de.lsd
@@ -38431,6 +39900,7 @@ trainer_name_de.lsd
 [ch0131] Citro
 [ch0132] Lauro
 [ch0133] Silber
+[ch0134] Viktor
 [ch0135] Ulrich
 [ch0136] Platan
 [ch0137] Eich
@@ -38476,8 +39946,10 @@ trainer_name_de.lsd
 [ch0195] G-Cis
 [ch0196] Flordelis
 [ch0198] Lotte
+[ch0203] Argenta
 [ch0204] Nuit
 [ch0205] Soir
+[ch0206] Journée
 [ch0215] Xenia
 [ch0216] Eusin
 [ch0217] LeBelle
@@ -38683,6 +40155,7 @@ trainer_name_en.lsd
 [ch0131] Clemont
 [ch0132] Alder
 [ch0133] Silver
+[ch0134] Palmer
 [ch0135] Sidney
 [ch0136] Professor Sycamore
 [ch0137] Professor Oak
@@ -38728,8 +40201,10 @@ trainer_name_en.lsd
 [ch0195] Ghetsis
 [ch0196] Lysandre
 [ch0198] Lucy
+[ch0203] Argenta
 [ch0204] Nita
 [ch0205] Evelyn
+[ch0206] Dana
 [ch0215] Lisia
 [ch0216] Eusine
 [ch0217] Looker
@@ -38935,6 +40410,7 @@ trainer_name_es.lsd
 [ch0131] Lem
 [ch0132] Mirto
 [ch0133] Plata
+[ch0134] Jericor
 [ch0135] Sixto
 [ch0136] Ciprés
 [ch0137] Oak
@@ -38980,8 +40456,10 @@ trainer_name_es.lsd
 [ch0195] Ghechis
 [ch0196] Lysson
 [ch0198] Fortunia
+[ch0203] Argenta
 [ch0204] Nocta
 [ch0205] Vésper
+[ch0206] Meridia
 [ch0215] Ariana
 [ch0216] Eusine
 [ch0217] Handsome
@@ -39187,6 +40665,7 @@ trainer_name_fr.lsd
 [ch0131] Lem
 [ch0132] Goyah
 [ch0133] Silver
+[ch0134] Koner
 [ch0135] Damien
 [ch0136] Platane
 [ch0137] Chen
@@ -39232,8 +40711,10 @@ trainer_name_fr.lsd
 [ch0195] Ghetis
 [ch0196] Lysandre
 [ch0198] Charline
+[ch0203] Célosia
 [ch0204] Nix
 [ch0205] Vesper
+[ch0206] Méridia
 [ch0215] Atalante
 [ch0216] Eusine
 [ch0217] Beladonis
@@ -39439,6 +40920,7 @@ trainer_name_it.lsd
 [ch0131] Lem
 [ch0132] Nardo
 [ch0133] Argento
+[ch0134] Palmer
 [ch0135] Fosco
 [ch0136] Professor Platan
 [ch0137] Professor Oak
@@ -39484,8 +40966,10 @@ trainer_name_it.lsd
 [ch0195] Ghecis
 [ch0196] Elisio
 [ch0198] Fortunata
+[ch0203] Mara
 [ch0204] Notturna
 [ch0205] Vespera
+[ch0206] Meridia
 [ch0215] Orthilla
 [ch0216] Eugenius
 [ch0217] Bellocchio
@@ -39691,6 +41175,7 @@ trainer_name_ja.lsd
 [ch0131] シトロン
 [ch0132] アデク
 [ch0133] シルバー
+[ch0134] クロツグ
 [ch0135] カゲツ
 [ch0136] プラターヌ
 [ch0137] オーキド
@@ -39736,8 +41221,10 @@ trainer_name_ja.lsd
 [ch0195] ゲーチス
 [ch0196] フラダリ
 [ch0198] アザミ
+[ch0203] ケイト
 [ch0204] ラニュイ
 [ch0205] ルスワール
+[ch0206] ラジュルネ
 [ch0215] ルチア
 [ch0216] ミナキ
 [ch0217] ハンサム
@@ -39943,6 +41430,7 @@ trainer_name_ko.lsd
 [ch0131] 시트론
 [ch0132] 노간주
 [ch0133] 실버
+[ch0134] 종수
 [ch0135] 혁진
 [ch0136] 플라타느
 [ch0137] 오박사
@@ -39988,8 +41476,10 @@ trainer_name_ko.lsd
 [ch0195] 게치스
 [ch0196] 플라드리
 [ch0198] 다슬
+[ch0203] 맨드라
 [ch0204] 라뉴이
 [ch0205] 르수아르
+[ch0206] 라쥬르네
 [ch0215] 루티아
 [ch0216] 수호
 [ch0217] 핸섬
@@ -40195,6 +41685,7 @@ trainer_name_zh-TW.lsd
 [ch0131] 希特隆
 [ch0132] 阿戴克
 [ch0133] 小銀
+[ch0134] 桄榔
 [ch0135] 花月
 [ch0136] 布拉塔諾
 [ch0137] 大木
@@ -40240,8 +41731,10 @@ trainer_name_zh-TW.lsd
 [ch0195] 魁奇思
 [ch0196] 弗拉達利
 [ch0198] 小薊
+[ch0203] 青葙
 [ch0204] 夜妮
 [ch0205] 夕絲
+[ch0206] 晝珠
 [ch0215] 琉琪亞
 [ch0216] 水京
 [ch0217] 帥哥
@@ -40499,6 +41992,12 @@ trainer_verbose_name_de.lsd
 (Saison 2023)
 [10030400000] Svenja 
 (Saison 2023)
+[10000900000] Rot 
+(Neo-Champ)
+[10021900001] Blau 
+(Neo-Champ)
+[10017900000] Leaf 
+(Neo-Champ)
 
 ===========
 trainer_verbose_name_en.lsd
@@ -40697,6 +42196,12 @@ Acerola
 (Summer 2023)
 [10030400000] Liza 
 (Summer 2023)
+[10000900000] Red 
+(Champion)
+[10021900001] Blue 
+(Champion)
+[10017900000] Leaf 
+(Champion)
 
 ===========
 trainer_verbose_name_es.lsd
@@ -40865,6 +42370,12 @@ con Kimono)
 (Temporada 23)
 [10030400000] Leti 
 (Temporada 23)
+[10000900000] Rojo 
+(Neocampeón)
+[10021900001] Azul 
+(Neocampeón)
+[10017900000] Hoja 
+(Neocampeona)
 
 ===========
 trainer_verbose_name_fr.lsd
@@ -41048,6 +42559,12 @@ trainer_verbose_name_fr.lsd
 (Saison 2023)
 [10030400000] Tatia
 (Saison 2023)
+[10000900000] Red 
+(Néo-Maître)
+[10021900001] Blue 
+(Néo-Maître)
+[10017900000] Leaf 
+(Néo-Maître)
 
 ===========
 trainer_verbose_name_it.lsd
@@ -41237,6 +42754,12 @@ trainer_verbose_name_it.lsd
 (feste 2023)
 [10030400000] Pat 
 (feste 2023)
+[10000900000] Rosso 
+(Campione)
+[10021900001] Blu 
+(Campione)
+[10017900000] Leaf 
+(Campionessa)
 
 ===========
 trainer_verbose_name_ja.lsd
@@ -41426,6 +42949,12 @@ trainer_verbose_name_ja.lsd
 （２３シーズン）
 [10030400000] ラン
 （２３シーズン）
+[10000900000] レッド
+（チャンピオン）
+[10021900001] グリーン
+（チャンピオン）
+[10017900000] リーフ
+（チャンピオン）
 
 ===========
 trainer_verbose_name_ko.lsd
@@ -41615,6 +43144,12 @@ trainer_verbose_name_ko.lsd
 (23시즌)
 [10030400000] 란
 (23시즌)
+[10000900000] 레드
+(챔피언)
+[10021900001] 그린
+(챔피언)
+[10017900000] 리프
+(챔피언)
 
 ===========
 trainer_verbose_name_zh-TW.lsd
@@ -41804,6 +43339,12 @@ trainer_verbose_name_zh-TW.lsd
 （２０２３夏季）
 [10030400000] 小南
 （２０２３夏季）
+[10000900000] 赤紅
+（冠軍）
+[10021900001] 青綠
+（冠軍）
+[10017900000] 葉子
+（冠軍）
 
 ===========
 common_widget_de.lsd
@@ -42136,6 +43677,11 @@ ihrem Ausgangszustand erhalten.
 [common_widget/trainer_detail_083] Die angezeigten Werte beziehen sich auf das verstärkte
 Gefährtengespann. Es kann über die Gefährtensuche oder
 durch Item-Tausch nicht in diesem Zustand erhalten werden.
+[common_widget/trainer_detail_084] EX-Rolle
+[common_widget/trainer_detail_085] Freigeschaltet
+[common_widget/trainer_detail_086] Physischer Angreifer
+[common_widget/trainer_detail_087] Spezial-Angreifer
+[common_widget/trainer_detail_088] EX-Rolle
 [common_widget/dialog_special_item_001] [Name:Item ]
 erhalten!
 [common_widget/dialog_special_item_002] Noch [Digit:1digit ] Orden!
@@ -42245,6 +43791,12 @@ wurde zu einem
 [common_widget/filter_075] Ladebildschirm-Einstellungen
 [common_widget/filter_076] Initiator
 [common_widget/filter_077] Feldwandler
+[common_widget/filter_080] EX-Rolle
+[common_widget/filter_081] Nicht freigeschaltet
+[common_widget/filter_082] Freigeschaltet
+[common_widget/filter_083] Meister-Passivfähigkeit
+[common_widget/filter_084] Ja
+[common_widget/filter_085] Nein
 [common_widget/filter_086] Paldea
 [common_widget/sort_001] ★-Zahl
 [common_widget/sort_002] Gefährtenattacke
@@ -42289,6 +43841,10 @@ Erfüllung bestimmter Bedingungen freigeschaltet.
 [common_widget/cutin_013] Die Gefährtenattacke
 wurde verstärkt!
 [common_widget/cutin_014] Überspringen
+[common_widget/cutin_015] EX-Rolle
+freigeschaltet!
+[common_widget/cutin_016] Gefährtengespann
+wurde verstärkt!
 [common_widget/account_001] Transfer abgeschlossen
 [common_widget/account_002] Deine gesicherten Spieldaten
 wurden erfolgreich von deinem
@@ -42842,6 +44398,11 @@ upgrades
 [common_widget/trainer_detail_082] Note: Sync pairs are obtained from the sync pair scout in their base state.
 [common_widget/trainer_detail_083] Note: Upgrade status has been changed.
 (This sync pair can’t be obtained from the sync pair scout or item exchange in this state.)
+[common_widget/trainer_detail_084] EX Role
+[common_widget/trainer_detail_085] Unlocked
+[common_widget/trainer_detail_086] Physical Strike
+[common_widget/trainer_detail_087] Special Strike
+[common_widget/trainer_detail_088] EX role
 [common_widget/dialog_special_item_001] [Name:Item ]
 [common_widget/dialog_special_item_002] Only [Digit:1digit ] more [EN:Qty S="badge" P="badges" ] to go!
 [common_widget/dialog_special_item_003] All badges acquired! Time to compete in the PML!
@@ -42949,6 +44510,12 @@ into [Name:PokemonName ]!
 [common_widget/filter_075] Loading Screen Settings
 [common_widget/filter_076] Sprint
 [common_widget/filter_077] Field
+[common_widget/filter_080] EX Role
+[common_widget/filter_081] Locked
+[common_widget/filter_082] Unlocked
+[common_widget/filter_083] Master Passive Skill
+[common_widget/filter_084] Yes
+[common_widget/filter_085] No
 [common_widget/filter_086] Paldea
 [common_widget/sort_001] Number of ★s
 [common_widget/sort_002] Sync Move
@@ -42992,6 +44559,10 @@ have been unlocked.
 [common_widget/cutin_013] Sync Move
 Powered Up!
 [common_widget/cutin_014] Skip
+[common_widget/cutin_015] EX Role
+Unlocked!
+[common_widget/cutin_016] Sync Pair
+Powered Up!
 [common_widget/account_001] Transfer Complete
 [common_widget/account_002] Your backup game data has been
 successfully transferred to this device
@@ -43530,6 +45101,11 @@ inicial.
 [common_widget/trainer_detail_083] Aviso: Se muestra con mejoras. No obtendrás a la
 pareja de compis en este estado ni al reclutarla
 ni al conseguirla mediante un canje.
+[common_widget/trainer_detail_084] Función EX
+[common_widget/trainer_detail_085] Desbloqueada
+[common_widget/trainer_detail_086] Ataque Físico
+[common_widget/trainer_detail_087] Ataque Especial
+[common_widget/trainer_detail_088] Función EX
 [common_widget/dialog_special_item_001] Has conseguido:
 [Name:Item ]
 [common_widget/dialog_special_item_002] Medallas restantes: [Digit:1digit ]
@@ -43643,6 +45219,12 @@ evolución?
 [common_widget/filter_075] Ajustes de pantallas de carga
 [common_widget/filter_076] Velocidad
 [common_widget/filter_077] Entorno
+[common_widget/filter_080] Función EX
+[common_widget/filter_081] Sin desbloquear
+[common_widget/filter_082] Desbloqueada
+[common_widget/filter_083] Habilidad pasiva maestra
+[common_widget/filter_084] Sí
+[common_widget/filter_085] No
 [common_widget/filter_086] Paldea
 [common_widget/sort_001] Número de ★
 [common_widget/sort_002] Movimiento compi
@@ -43686,6 +45268,10 @@ y [Name:PokemonName ]
 [common_widget/cutin_013] ¡Movimiento
 compi mejorado!
 [common_widget/cutin_014] ¡Salto realizado!
+[common_widget/cutin_015] ¡Función EX
+desbloqueada!
+[common_widget/cutin_016] ¡Compis
+mejorados!
 [common_widget/account_001] Datos transferidos
 [common_widget/account_002] Se ha completado la transferencia
 de los datos de guardado desde tu
@@ -44237,6 +45823,11 @@ renforcements
 [common_widget/trainer_detail_083] Aperçu mis à jour.
 Ce Duo ne peut pas être obtenu dans cet état
 via un Appel Duo ou le menu Échange d'objets.
+[common_widget/trainer_detail_084] Rôle EX
+[common_widget/trainer_detail_085] Débloqué
+[common_widget/trainer_detail_086] Attaquant Physique
+[common_widget/trainer_detail_087] Attaquant Spécial
+[common_widget/trainer_detail_088] rôle EX
 [common_widget/dialog_special_item_001] Vous avez obtenu
 1 [Name:Item ] !
 [common_widget/dialog_special_item_002] Encore [Digit:1digit ] Badge[FR:Qty P="s" ] à obtenir !
@@ -44348,6 +45939,12 @@ apprise
 [common_widget/filter_075] Paramètres de l'écran de chargement
 [common_widget/filter_076] Accélérateur
 [common_widget/filter_077] Régisseur
+[common_widget/filter_080] Rôle EX
+[common_widget/filter_081] Non débloqué
+[common_widget/filter_082] Débloqué
+[common_widget/filter_083] Master talent passif
+[common_widget/filter_084] Oui
+[common_widget/filter_085] Non
 [common_widget/filter_086] Paldea
 [common_widget/sort_001] Nombre d'★
 [common_widget/sort_002] Capacité Duo
@@ -44392,6 +45989,10 @@ activer certaines cases du Plateau Duo-Gemme !
 [common_widget/cutin_013] Puissance
 augmentée !
 [common_widget/cutin_014] SAUT
+[common_widget/cutin_015] Rôle EX
+débloqué !
+[common_widget/cutin_016] Puissance du
+Duo augmentée !
 [common_widget/account_001] Transfert terminé
 [common_widget/account_002] Vos données de jeu de votre
 compte Nintendo ont bien été
@@ -44944,6 +46545,11 @@ se rinforzata
 di partenza.
 [common_widget/trainer_detail_083] I valori mostrati riguardano l'Unità rinforzata.
 Non è possibile ottenerla in questo stato dall'Unicerca o dallo scambio strumenti.
+[common_widget/trainer_detail_084] Ruolo EX
+[common_widget/trainer_detail_085] Sbloccato
+[common_widget/trainer_detail_086] Attaccante fisico
+[common_widget/trainer_detail_087] Attaccante speciale
+[common_widget/trainer_detail_088] Ruolo EX
 [common_widget/dialog_special_item_001] Hai ottenuto: [Name:Item ]!
 [common_widget/dialog_special_item_002] Medaglie mancanti: [Digit:1digit ]!
 [common_widget/dialog_special_item_003] Ora hai tutte le medaglie! Puoi affrontare il WPM!
@@ -45051,6 +46657,12 @@ dell'evoluzione?
 [common_widget/filter_075] Schermata di caricamento
 [common_widget/filter_076] Sprinter
 [common_widget/filter_077] Campomastro
+[common_widget/filter_080] Ruolo EX
+[common_widget/filter_081] Non sbloccato
+[common_widget/filter_082] Sbloccato
+[common_widget/filter_083] Abilità passiva master
+[common_widget/filter_084] Sì
+[common_widget/filter_085] No
 [common_widget/filter_086] Paldea
 [common_widget/sort_001] Numero di ★
 [common_widget/sort_002] Unimossa
@@ -45095,6 +46707,10 @@ Unità soddisfacendo determinati requisiti.
 [common_widget/cutin_013] Unimossa
 potenziata!
 [common_widget/cutin_014] Salto effettuato
+[common_widget/cutin_015] Ruolo EX
+sbloccato!
+[common_widget/cutin_016] Unità
+potenziata!
 [common_widget/account_001] Trasferimento effettuato
 [common_widget/account_002] I dati di salvataggio di backup sono
 stati trasferiti con successo dal tuo
@@ -45639,6 +47255,11 @@ MAX
 [common_widget/trainer_detail_083] ※強化状態を変更しています
 ※バディーズサーチやどうぐ交換等から
 この状態で提供されることはありません
+[common_widget/trainer_detail_084] EXロール
+[common_widget/trainer_detail_085] 解放済
+[common_widget/trainer_detail_086] 物理アタッカー
+[common_widget/trainer_detail_087] 特殊アタッカー
+[common_widget/trainer_detail_088] EXロール
 [common_widget/dialog_special_item_001] [Name:Item ]を
 獲得しました！
 [common_widget/dialog_special_item_002] のこるバッジは　あと[Digit:1digit ]個！
@@ -45746,6 +47367,12 @@ Lv.MAX
 [common_widget/filter_075] ロード画面設定
 [common_widget/filter_076] スピード
 [common_widget/filter_077] フィールド
+[common_widget/filter_080] EXロール
+[common_widget/filter_081] 未解放
+[common_widget/filter_082] 解放済み
+[common_widget/filter_083] マスターパッシブスキル
+[common_widget/filter_084] あり
+[common_widget/filter_085] なし
 [common_widget/filter_086] パルデア
 [common_widget/sort_001] ★の数
 [common_widget/sort_002] バディーズわざ
@@ -45787,6 +47414,10 @@ Lv.MAX
 [common_widget/cutin_013] バディーズわざ
 パワーアップ!
 [common_widget/cutin_014] SKIP
+[common_widget/cutin_015] EXロール
+解放!
+[common_widget/cutin_016] バディーズ
+パワーアップ!
 [common_widget/account_001] 引き継ぎ完了
 [common_widget/account_002] ゲームデータの引き継ぎが
 完了しました
@@ -46345,6 +47976,11 @@ Lv.1 상태
 [common_widget/trainer_detail_083] ※강화 상태를 변경하고 있습니다
 ※버디즈서치나 도구 교환 등에서
 이 상태로 제공되지 않습니다
+[common_widget/trainer_detail_084] EX롤
+[common_widget/trainer_detail_085] 해방 완료
+[common_widget/trainer_detail_086] 물리 어태커
+[common_widget/trainer_detail_087] 특수 어태커
+[common_widget/trainer_detail_088] EX롤
 [common_widget/dialog_special_item_001] [Name:Item ][Kor:Particle char="wo" ]
 획득했습니다!
 [common_widget/dialog_special_item_002] 남은 배지는 앞으로 [Digit:1digit ]개!
@@ -46452,6 +48088,12 @@ Lv.MAX
 [common_widget/filter_075] 로딩 화면 설정
 [common_widget/filter_076] 스피드
 [common_widget/filter_077] 필드
+[common_widget/filter_080] EX롤
+[common_widget/filter_081] 미해방
+[common_widget/filter_082] 해방 완료
+[common_widget/filter_083] 마스터 패시브스킬
+[common_widget/filter_084] 있음
+[common_widget/filter_085] 없음
 [common_widget/filter_086] 팔데아
 [common_widget/sort_001] ★의 수
 [common_widget/sort_002] 버디즈기술
@@ -46494,6 +48136,10 @@ Lv.MAX
 [common_widget/cutin_013] 버디즈기술
 파워업!
 [common_widget/cutin_014] SKIP
+[common_widget/cutin_015] EX롤
+해방!
+[common_widget/cutin_016] 버디즈
+파워업!
 [common_widget/account_001] 이어받기 완료
 [common_widget/account_002] 게임 데이터의 이어받기가
 완료되었습니다
@@ -47025,6 +48671,11 @@ MAX
 [common_widget/trainer_detail_083] ※已變更為強化後的狀態
 ※拍組搜尋和交換道具等處
 不會以此狀態來提供
+[common_widget/trainer_detail_084] EX體系
+[common_widget/trainer_detail_085] 已開放
+[common_widget/trainer_detail_086] 物理攻擊型
+[common_widget/trainer_detail_087] 特殊攻擊型
+[common_widget/trainer_detail_088] EX體系
 [common_widget/dialog_special_item_001] 獲得了
 [Name:Item ]！
 [common_widget/dialog_special_item_002] 還剩下[Digit:1digit ]個徽章！
@@ -47130,6 +48781,12 @@ Lv.MAX
 [common_widget/filter_075] 載入畫面設定
 [common_widget/filter_076] 速戰型
 [common_widget/filter_077] 場地型
+[common_widget/filter_080] EX體系
+[common_widget/filter_081] 尚未開放
+[common_widget/filter_082] 已開放
+[common_widget/filter_083] 大師被動技能
+[common_widget/filter_084] 有
+[common_widget/filter_085] 無
 [common_widget/filter_086] 帕底亞
 [common_widget/sort_001] ★數
 [common_widget/sort_002] 拍組招式
@@ -47171,6 +48828,10 @@ EX服裝！
 [common_widget/cutin_013] 拍組招式
 威力提升！
 [common_widget/cutin_014] SKIP
+[common_widget/cutin_015] EX體系
+開放！
+[common_widget/cutin_016] 拍組
+能力增強！
 [common_widget/account_001] 完成資料轉移
 [common_widget/account_002] 遊戲資料已轉移
 您現在可使用Nintendo Account
@@ -50743,7 +52404,7 @@ um so deine Basis-Punktzahl zu erhöhen.
 [home/score_attack_079] 10
 [home/score_attack_080] Hinweis: Die Menge, um die sich deine Basis-Punktzahl basierend
 auf Stärkeerhöhungen des Gegners ändert, erfolgt schrittweise.
-[home/score_attack_081] Bestpunktzahl-Optionen
+[home/score_attack_081] Bestpunktzahl-Einstellung
 [home/score_attack_082] Du hast keine Gefährten vom empfohlenen Typ in deinem Team und wirst deshalb keine Punkte am Ende des Kampfes erhalten.
 
 Möchtest du trotzdem fortfahren?
@@ -50754,6 +52415,12 @@ Möchtest du trotzdem fortfahren?
 [home/score_attack_087] Rekord: [Name:Time ]
 [home/score_attack_088] Rekord: [Digit:3digits ] %
 [home/score_attack_089] Rekord: [Digit:8digits ]
+[home/score_attack_090] Glückwunsch zum Abschluss aller
+Kämpfe! Die Ranglisten-Funktion ist
+jetzt verfügbar. Du kannst weiterhin
+an deiner Bestpunktzahl arbeiten und
+versuchen, den Meister-Rang zu
+erreichen!
 [home/score_attack_091] Die Statuswerte deines Gegners werden auf
 dem Niveau von Gegnern im Champkampf
 Schwierigkeitsgrad Schwer Lv. 1 sein.
@@ -51849,7 +53516,7 @@ raise your base score.
 [home/score_attack_079] 10
 [home/score_attack_080] Note: The amount your base score changes based on
 strength increases will change gradually.
-[home/score_attack_081] Best Score Options
+[home/score_attack_081] Best Score Setting
 [home/score_attack_082] You don’t have any sync pairs with the recommended type on your team, so you won’t be able to earn a score even if you complete the battle.
 
 Are you sure you want to continue?
@@ -51860,6 +53527,11 @@ Are you sure you want to continue?
 [home/score_attack_087] Record [Name:Time ]
 [home/score_attack_088] Record [Digit:3digits ]%
 [home/score_attack_089] Record [Digit:8digits ]
+[home/score_attack_090] Congratulations on completing all
+battles! The ranking feature has been
+unlocked. You can continue to update
+your best score and aim for
+Master Rank!
 [home/score_attack_091] Your opponent’s stats will be roughly
 equivalent to those of opponents
 in Champion Stadium Hard Lv. 1.
@@ -53055,6 +54727,11 @@ lo que no recibirás ningún punto.
 [home/score_attack_087] Récord: [Name:Time ]
 [home/score_attack_088] Récord: [Digit:3digits ]%
 [home/score_attack_089] Récord: [Digit:8digits ]
+[home/score_attack_090] ¡Enhorabuena por completar todos los
+combates! Ahora puedes acceder a la
+clasificación. Prueba a seguir
+mejorando tu puntuación máxima y
+¡a por el rango Master!
 [home/score_attack_091] Las características de tu oponente equivaldrán
 a las que tendría en los Combates de
 Campeones en Difícil (nivel 1).
@@ -54331,6 +56008,12 @@ de l'évènement
 [home/score_attack_087] Record : [Name:Time ]
 [home/score_attack_088] Record : [Digit:3digits ] %
 [home/score_attack_089] Record : [Digit:8digits ]
+[home/score_attack_090] Félicitations, vous avez remporté
+tous les combats ! La fonctionnalité
+de classement à été débloquée.
+Vous pouvez continuer à mettre
+votre meilleur score à jour
+et viser le rang Master !
 [home/score_attack_091] Les stats de votre adversaire seront à peu près
 équivalentes à celles des ennemis du Combat
 de Maître en difficulté « Difficile N. 1 ».
@@ -55564,6 +57247,11 @@ Vuoi davvero procedere?
 [home/score_attack_087] Record: [Name:Time ]
 [home/score_attack_088] Record: [Digit:3digits ]%
 [home/score_attack_089] Record: [Digit:8digits ]
+[home/score_attack_090] Complimenti per aver completato tutte
+le lotte! Hai sbloccato la classifica.
+Puoi continuare ad alzare il tuo
+punteggio migliore e puntare al rango
+Master!
 [home/score_attack_091] Le statistiche dei tuoi avversari equivarranno
 all'incirca a quelle della difficoltà "Difficile L. 1"
 della Lotta dei Campioni.
@@ -56773,6 +58461,10 @@ GRADE一覧に戻ります
 [home/score_attack_087] 記録 [Name:Time ]
 [home/score_attack_088] 記録 [Digit:3digits ]%
 [home/score_attack_089] 記録 [Digit:8digits ]
+[home/score_attack_090] 全バトルクリアおめでとうございます！
+ランキング機能が解放されました
+ベストスコアをさらに更新して
+マスターランクを目指しましょう！
 [home/score_attack_091] 相手のステータスは
 チャンピオンバトル「HARD Lv.1」相当になります
 [home/score_attack_092] 相手のステータスは
@@ -57952,6 +59644,10 @@ WPM배지를 모두 모으면
 [home/score_attack_087] 기록 [Name:Time ]
 [home/score_attack_088] 기록 [Digit:3digits ]%
 [home/score_attack_089] 기록 [Digit:8digits ]
+[home/score_attack_090] 모든 배틀 클리어 축하합니다!
+랭킹 기능이 해방되었습니다
+베스트 스코어를 갱신하고
+마스터 랭크를 노립시다!
 [home/score_attack_091] 상대의 능력은
 챔피언배틀 "HARD Lv.1" 정도입니다
 [home/score_attack_092] 상대의 능력은
@@ -57970,7 +59666,7 @@ WPM배지를 모두 모으면
 챔피언배틀 "HARD Lv.1"의
 5배 이상입니다
 [home/score_attack_097] 능력치 설정
-[home/score_attack_098] #ERROR!
+[home/score_attack_098] ＋[Digit:8digits ]
 [home/score_attack_099] ※챌린지 규칙을 달성할 수 없는 배틀이
 개최되고 있는 경우도 있습니다
 [home/score_attack_100] 이벤트 보상
@@ -59091,6 +60787,10 @@ GRADE的獎勵報酬
 [home/score_attack_087] 紀錄 [Name:Time ]
 [home/score_attack_088] 紀錄 [Digit:3digits ]%
 [home/score_attack_089] 紀錄 [Digit:8digits ]
+[home/score_attack_090] 恭喜過關所有對戰！
+排名功能已開放
+繼續刷新最佳得分
+以大師級為目標吧！
 [home/score_attack_091] 對手的能力
 將相當於冠軍對戰「HARD Lv.1」
 [home/score_attack_092] 對手的能力
@@ -59801,8 +61501,8 @@ Gefährten-Dynamax-Attacke angezeigt.
 [shop/scout_152] Mega-Entwicklung
 [shop/scout_153] Gefährten-
 Dynamax
-[shop/scout_154] Mit G-Suchetickets x10 kannst du dir
-kostenlos Gefährten ins Team holen!
+[shop/scout_154] Mit dem G-Sucheticket × 10 kannst du
+dir kostenlos Gefährten ins Team holen!
 [shop/scout_155] Gefährten werden mit aktuellem Attacken-Level angezeigt.
 [shop/scout_156] Gefährtensuche x10
 [shop/scout_157] Setze spezielle Tickets ein, um
@@ -59854,7 +61554,8 @@ den folgenden wählen.
 einer Chance auf das im Fokus stehende
 Gefährtengespann!
 [shop/scout_193] Nachdem du die G-Suche durchgeführt hast,
-kannst du ein 5★-Gefährtengespann wählen!
+kannst du aus den verfügbaren
+5★-Gefährtengespannen eines wählen!
 [shop/scout_194] [Digit:6digits ] % Gesamtchance auf das Erscheinen der Fokus-Gefährten!
 [shop/scout_195] Nur Stufe [Digit:2digits ] dieser G-Suche garantiert
 5★-Gefährten.
@@ -59876,6 +61577,23 @@ keine Gefährtenepisode.
 [shop/scout_207] Von den aktuellen Gefährten im Fokus
 gibt es für folgende Gefährtengespanne
 keine EX-Farboutfits.
+[shop/scout_209] Stufe [Digit:3digits ]: Du kannst ein Ticket mit einer [Digit:6digits ]%igen Chance
+auf den Erhalt der Fokus-Gefährten bekommen!
+[shop/scout_210] Stufe [Digit:3digits ]: Du kannst ein Ticket mit einer Gesamtchance
+von [Digit:6digits ] % auf den Erhalt der Fokus-Gefährten bekommen!
+[shop/scout_211] Stufe [Digit:3digits ]: Du kannst ein Ticket bekommen, welches dir
+den Erhalt der Fokus-Gefährten garantiert!
+[shop/scout_212] Stufe [Digit:3digits ]: Du kannst ein Ticket bekommen, mit dem du
+aus den verfügbaren Gefährtengespannen wählen kannst!
+[shop/scout_213] Stufe [Digit:3digits ]: Du kannst aus den verfügbaren
+Fokus-Gefährtengespannen wählen!
+[shop/scout_214] Wähle ein
+Gefährten-
+gespann
+[shop/scout_215] Nachdem du die G-Suche durchgeführt hast,
+kannst du ein Fokus-Gefährtengespann wählen!
+[shop/scout_216] Stufe [Digit:3digits ]: Du kannst aus den in dieser G-Suche
+verfügbaren 5★-Gefährtengespannen eines wählen!
 [shop/deck_item_sale_001] Ausrüstungstausch
 [shop/deck_item_sale_002] Ausrüstung
 [shop/deck_item_sale_003] Filter
@@ -60530,8 +62248,8 @@ the following 5★ sync pairs is guaranteed to appear.
 choose an additional sync pair from the following.
 [shop/scout_192] One 5★ sync pair guaranteed, with a chance
 of it being a featured sync pair!
-[shop/scout_193] After using the sync pair scout,
-you can choose a 5★ sync pair!
+[shop/scout_193] After using the sync pair scout, you can
+choose a 5★ sync pair from the offered pairs!
 [shop/scout_194] [Digit:6digits ]% total chance the featured sync pairs appear!
 [shop/scout_195] Only tier [Digit:2digits ] of this sync pair scout
 is 5★-guaranteed.
@@ -60551,6 +62269,17 @@ do not have a sync pair story.
 [shop/scout_207] Out of the sync pairs that are
 currently featured, the following
 do not have an EX style.
+[shop/scout_209] At Tier [Digit:3digits ], you can get a ticket with a [Digit:6digits ]% chance to scout the featured sync pair!
+[shop/scout_210] At Tier [Digit:3digits ], you can get a ticket with a [Digit:6digits ]% total chance to scout the featured sync pair!
+[shop/scout_211] At Tier [Digit:3digits ], you can get a ticket with a guaranteed chance to scout the featured sync pair!
+[shop/scout_212] At Tier [Digit:3digits ], you can get a ticket that’ll let you choose from the featured sync pairs!
+[shop/scout_213] At Tier [Digit:3digits ], you can choose from the featured sync pairs!
+[shop/scout_214] Choose a
+featured
+sync pair
+[shop/scout_215] After using the sync pair scout,
+you can also choose a featured sync pair!
+[shop/scout_216] At Tier [Digit:3digits ], you can choose a 5★ sync pair from this sync pair scout!
 [shop/deck_item_sale_001] Exchange Gear
 [shop/deck_item_sale_002] Gear
 [shop/deck_item_sale_003] Filter
@@ -61144,8 +62873,9 @@ Nota: Las parejas de compis destacadas tienen un [Digit:3digits ]% de probabilid
 una pareja de compis adicional de entre las siguientes:
 [shop/scout_192] ¡Una pareja de compis de 5★ garantizada con
 probabilidades de ser la pareja destacada!
-[shop/scout_193] ¡Tras realizar el reclutamiento, puedes recibir
-una pareja de compis de 5★ a tu elección!
+[shop/scout_193] ¡Tras realizar el reclutamiento, puedes elegir
+una pareja de compis de 5★ de entre las
+disponibles!
 [shop/scout_194] ¡[Digit:6digits ]% de prob. de obtener parejas destacadas!
 [shop/scout_195] Solo la fase [Digit:2digits ] de este reclutamiento
 garantiza una pareja de compis de 5★.
@@ -61166,6 +62896,17 @@ sincro
 no tienen episodios compi.
 [shop/scout_207] Los compis destacados siguientes
 no tienen Trajes EX.
+[shop/scout_209] Fase [Digit:3digits ]: Billete con [Digit:6digits ]% de prob. de reclutar a los compis destacados.
+[shop/scout_210] Fase [Digit:3digits ]: Billete con [Digit:6digits ]% de prob. en total de reclutar a los compis destacados.
+[shop/scout_211] Fase [Digit:3digits ]: Billete con el que reclutar con total garantía a los compis destacados.
+[shop/scout_212] Fase [Digit:3digits ]: Billete con el que elegir una pareja de compis destacados.
+[shop/scout_213] Fase [Digit:3digits ]: Pareja de compis destacada a tu elección.
+[shop/scout_214] ¡Elige una
+pareja
+destacada!
+[shop/scout_215] ¡Tras realizar el reclutamiento, puedes recibir
+una pareja de compis destacada a tu elección!
+[shop/scout_216] Fase [Digit:3digits ]: Pareja de compis de 5★ a tu elección.
 [shop/deck_item_sale_001] Canjear accesorios
 [shop/deck_item_sale_002] Accesorios
 [shop/deck_item_sale_003] Filtrar
@@ -61789,7 +63530,8 @@ parmi les Duos suivants lorsque vous aurez
 passé l'Appel Duo de ce palier.
 [shop/scout_192] Un Duo 5★ garanti avec une chance
 qu'il s'agisse d'un des Duos à l'affiche !
-[shop/scout_193] Vous pourrez choisir un Duo 5★ après
+[shop/scout_193] Vous pourrez choisir un Duo 5★
+parmi les Duos disponibles après
 avoir passé cet Appel Duo !
 [shop/scout_194] Chances d'apparition totales des Duos à l'affiche : [Digit:6digits ] %
 [shop/scout_195] Seul le palier [Digit:2digits ] de cet Appel Duo
@@ -61815,6 +63557,22 @@ Synchro
 voici ceux qui n'ont pas d'épisode Duo.
 [shop/scout_207] Parmi les Duos actuellement à l'affiche,
 voici ceux qui n'ont pas de Couleur EX.
+[shop/scout_209] Au palier [Digit:3digits ], vous pourrez recevoir un bon vous octroyant
+[Digit:6digits ] % de chances d'obtenir le Duo à l'affiche !
+[shop/scout_210] Au palier [Digit:3digits ], vous pourrez recevoir un bon vous octroyant
+[Digit:6digits ] % de chances au total d'obtenir le Duo à l'affiche !
+[shop/scout_211] Au palier [Digit:3digits ], vous pourrez recevoir un bon
+vous permettant d'obtenir le Duo à l'affiche à coup sûr !
+[shop/scout_212] Au palier [Digit:3digits ], vous pourrez recevoir un bon
+vous permettant de choisir un Duo à l'affiche !
+[shop/scout_213] Au palier [Digit:3digits ], vous pourrez choisir un Duo à l'affiche !
+[shop/scout_214] Choisir
+un Duo
+à l'affiche
+[shop/scout_215] Vous pourrez aussi choisir un Duo à l'affiche
+après avoir passé cet Appel Duo !
+[shop/scout_216] Au palier [Digit:3digits ], vous pourrez choisir un Duo 5★
+parmi cet Appel Duo !
 [shop/deck_item_sale_001] Échanger équipement
 [shop/deck_item_sale_002] Équipement
 [shop/deck_item_sale_003] Filtrer
@@ -62507,7 +64265,8 @@ le seguenti.
 [shop/scout_192] Un'Unità 5★ garantita, con la possibilità che
 sia un'Unità in evidenza!
 [shop/scout_193] Dopo aver effettuato la ricerca Unità,
-puoi scegliere un'Unità 5★!
+puoi scegliere un'Unità 5★ tra quelle
+disponibili!
 [shop/scout_194] Probabilità complessiva di ottenere un'Unità in evidenza: [Digit:6digits ]%!
 [shop/scout_195] Solo il gradino [Digit:2digits ] di questa Unicerca
 garantisce un'Unità 5★.
@@ -62529,6 +64288,22 @@ L'Unità in evidenza ha la seguente probabilità di comparire in questa ricerca 
 in evidenza non hanno episodi Unità:
 [shop/scout_207] Le seguenti Unità tra quelle al momento
 in evidenza non hanno un Costume EX:
+[shop/scout_209] Al gradino [Digit:3digits ] riceverai un ticket con il [Digit:6digits ]%
+di probabilità di ottenere l'Unità in evidenza!
+[shop/scout_210] Al gradino [Digit:3digits ] riceverai un ticket con il [Digit:6digits ]%
+di probabilità totale di ottenere un'Unità in evidenza!
+[shop/scout_211] Al gradino [Digit:3digits ] riceverai un ticket che garantisce
+l'ottenimento di un'Unità in evidenza!
+[shop/scout_212] Al gradino [Digit:3digits ] riceverai un ticket che ti permette
+di scegliere tra le Unità disponibili!
+[shop/scout_213] Al gradino [Digit:3digits ] potrai scegliere tra le Unità in evidenza.
+[shop/scout_214] Scegli
+un'Unità
+in evidenza
+[shop/scout_215] Dopo aver effettuato la ricerca Unità,
+puoi scegliere un'Unità in evidenza!
+[shop/scout_216] Al gradino [Digit:3digits ] potrai scegliere un'Unità 5★ tra quelle
+disponibili in questa ricerca Unità!
 [shop/deck_item_sale_001] Scambio accessori
 [shop/deck_item_sale_002] Accessori
 [shop/deck_item_sale_003] Filtra
@@ -63224,7 +64999,7 @@ STEP10では確定で出現するチケットがもらえる！
 [shop/scout_192] 対象となっているピックアップバディーズを含む
 ★5バディーズが1組確定！
 [shop/scout_193] バディーズサーチ実行後
-好きな★5バディーズをさらに1組選んで獲得！
+提供される★5バディーズからさらに1組選んで獲得！
 [shop/scout_194] ピックアップバディーズの出現率が合計[Digit:6digits ]％！
 [shop/scout_195] 本バディーズサーチでは
 STEP[Digit:2digits ]のみ★5確定となります
@@ -63248,6 +65023,17 @@ STEP[Digit:2digits ]のみ★5確定となります
 [shop/scout_207] ピックアップ中のバディーズのうち
 以下のバディーズには
 EXカラーがありません
+[shop/scout_209] STEP[Digit:3digits ]ではピックアップバディーズが[Digit:6digits ]％で出現するチケットがもらえる！
+[shop/scout_210] STEP[Digit:3digits ]ではピックアップバディーズが合計[Digit:6digits ]％で出現するチケットがもらえる！
+[shop/scout_211] STEP[Digit:3digits ]ではピックアップバディーズが確定で出現するチケットがもらえる！
+[shop/scout_212] STEP[Digit:3digits ]では対象バディーズから選べるチケットがもらえる！
+[shop/scout_213] STEP[Digit:3digits ]はピックアップバディーズから選べる！
+[shop/scout_214] 選べる
+ピック
+アップ
+[shop/scout_215] バディーズサーチ実行後
+ピックアップバディーズをさらに1組選んで獲得！
+[shop/scout_216] STEP[Digit:3digits ]はこのバディーズサーチ内の★5バディーズから選べる！
 [shop/deck_item_sale_001] 装備売却
 [shop/deck_item_sale_002] 装備
 [shop/deck_item_sale_003] フィルター
@@ -63968,7 +65754,7 @@ STEP10에서는 확정적으로 출현하는 티켓을 받을 수 있다!
 [shop/scout_192] 대상 픽업 버디즈를 포함한
 ★5 버디즈가 하나 확정!
 [shop/scout_193] 버디즈서치 실행 후
-원하는 ★5 버디즈를 추가로 하나 선택해서 획득!
+제공되는 ★5 버디즈에서 추가로 하나 선택해서 획득!
 [shop/scout_194] 픽업 버디즈의 출현율이 총 [Digit:6digits ]%!
 [shop/scout_195] 본 버디즈서치에서는
 STEP[Digit:2digits ]만 ★5 확정입니다
@@ -63992,6 +65778,17 @@ STEP[Digit:2digits ]만 ★5 확정입니다
 [shop/scout_207] 픽업 중인 버디즈 중
 아래의 버디즈에게는
 EX컬러가 없습니다
+[shop/scout_209] STEP[Digit:3digits ]에서는 픽업 버디즈가 [Digit:6digits ]％로 출현하는 티켓을 받을 수 있다!
+[shop/scout_210] STEP[Digit:3digits ]에서는 픽업 버디즈가 합계 [Digit:6digits ]％로 출현하는 티켓을 받을 수 있다!
+[shop/scout_211] STEP[Digit:3digits ]에서는 픽업 버디즈가 확정으로 출현하는 티켓을 받을 수 있다!
+[shop/scout_212] STEP[Digit:3digits ]에서는 대상 버디즈에서 선택 가능한 티켓을 받을 수 있다!
+[shop/scout_213] STEP[Digit:3digits ]에서는 픽업 버디즈에서 선택 가능!
+[shop/scout_214] 선택
+가능한
+픽업
+[shop/scout_215] 버디즈서치 실행 후
+픽업 버디즈를 추가로 하나 선택해서 획득!
+[shop/scout_216] STEP[Digit:3digits ]에서는 이 버디즈서치 내의 ★5 버디즈에서 선택 가능!
 [shop/deck_item_sale_001] 장비 판매
 [shop/deck_item_sale_002] 장비
 [shop/deck_item_sale_003] 필터
@@ -64629,7 +66426,7 @@ shop_zh-TW.lsd
 [shop/scout_192] 必得１對★５拍組
 且對象包含精選拍組！
 [shop/scout_193] 進行拍組搜尋後
-可另外自選１對喜歡的★５拍組來獲得！
+可另外從提供的★５拍組中自選１對來獲得！
 [shop/scout_194] 精選拍組的出現機率總計為[Digit:6digits ]％！
 [shop/scout_195] 此拍組搜尋僅限STEP[Digit:2digits ]
 會必得★5拍組
@@ -64651,6 +66448,17 @@ shop_zh-TW.lsd
 以下的拍組沒有拍組劇情
 [shop/scout_207] 現正舉辦中的拍組搜尋裡
 以下的拍組沒有EX服裝
+[shop/scout_209] 在STEP[Digit:3digits ]中可獲得精選拍組會以[Digit:6digits ]％的機率出現的票券！
+[shop/scout_210] 在STEP[Digit:3digits ]中可獲得精選拍組會以總計[Digit:6digits ]％的機率出現的票券！
+[shop/scout_211] 在STEP[Digit:3digits ]中可獲得精選拍組必定出現的票券！
+[shop/scout_212] 在STEP[Digit:3digits ]中可獲得從指定拍組中自選拍組的票券！
+[shop/scout_213] STEP[Digit:3digits ]可從精選拍組中自選拍組！
+[shop/scout_214] 自選
+精選
+拍組
+[shop/scout_215] 進行拍組搜尋後
+可另外自選１對精選拍組來獲得！
+[shop/scout_216] STEP[Digit:3digits ]可從本次拍組搜尋出現的★5拍組中自選拍組！
 [shop/deck_item_sale_001] 出售裝備
 [shop/deck_item_sale_002] 裝備
 [shop/deck_item_sale_003] 篩選
