@@ -6136,6 +6136,70 @@ Top Vier
 [quest_group_title_10285000000] Perla
 [quest_group_title_10216000000] Eusin
 [quest_group_title_10133100000] MaMo-Silber
+[quest_title_1040002850001011] Ein besonderer Tag mit Perla
+(Teil 1)
+[quest_title_1040002850001021] Ein besonderer Tag mit Perla
+(Teil 2)
+[quest_title_1030110000570100] Das letzte Übel
+[quest_title_1030220262000000] Ein Tag mit Rose
+[quest_title_1030220263000000] Ein Tag mit Olivia
+[quest_title_1030506000601000] Ein Lied an die Sterne
+[quest_title_1030506000601010] Adrians Wunsch
+[quest_title_1030506000601050] Vs. Trainer aus Passio 1
+[quest_title_1030506000601020] Ein weit entfernter Ort
+[quest_title_1030506000601060] Vs. Trainer aus Passio 2
+[quest_title_1030506000601030] Egal wie weit entfernt
+[quest_title_1030506000601070] Vs. Trainer aus Passio 3
+[quest_title_1030506000601040] Wünsch dir was!
+[quest_title_1030506000601080] Vs. Trainer aus Passio 4
+[quest_title_1030506000601090] Täglicher schwerer Kampf
+[quest_title_1030506000601100] Herausforderungskampf 1
+[quest_title_1030506000601110] Herausforderungskampf 2
+[quest_title_1030450600101010] Vs. Misty
+[quest_title_1030450600102010] Vs. Benson
+[quest_title_1030450600103010] Vs. Tracy
+[quest_title_1030450600104010] Vs. Kate
+[quest_title_1030450600105010] Vs. Adrian
+[quest_title_1030440708201010] Vs. Ignaz
+[quest_title_1030440708202010] Vs. Ignaz 2
+[quest_title_1030440708203010] Vs. Ignaz 3
+[quest_title_1030440708204010] Vs. Ignaz 4
+[quest_title_1030440708205010] Täglicher Bonus-Kampf
+[quest_title_1030110000580100] Held der Galar-Region
+[quest_title_1030110000580600] Vs. Roses Fans 1
+[quest_title_1030110000580200] Die Zeit drängt!
+[quest_title_1030110000580700] Vs. Roses Fans 2
+[quest_title_1030110000580300] Flüsternde Schatten
+[quest_title_1030110000580800] Vs. Roses Fans 3
+[quest_title_1030110000580400] Alte Fehler
+[quest_title_1030110000580900] Vs. Roses Fans 4
+[quest_title_1030110000580500] Gemeinsam in die Zukunft
+[quest_title_1030506000602010] Vs. Trainer aus Passio 1
+[quest_title_1030506000602020] Vs. Trainer aus Passio 2
+[quest_title_1030506000602030] Vs. Trainer aus Passio 3
+[quest_title_1030506000602040] Täglicher schwerer Kampf
+[quest_title_1030506000602050] Herausforderungskampf 1
+[quest_title_1030506000602060] Herausforderungskampf 2
+[quest_title_1030506000603010] Stelle dich Betys! 1
+[quest_title_1030506000603020] Stelle dich Betys! 2
+[quest_title_1030506000603030] Stelle dich Delion! 1
+[quest_title_1030506000603040] Stelle dich Delion! 2
+[quest_title_1030503000701011] Vs. Raikou 1
+[quest_title_1030503010701021] Vs. Raikou 2
+[quest_title_1030503020701031] Vs. Raikou 3
+[quest_title_1030506000604000] Teamarbeit à la Akala
+[quest_title_1030506000604020] Vs. Kiawe und Maho 1
+[quest_title_1030506000604030] Vs. Kiawe und Maho 2
+[quest_title_1030506000604040] Vs. Kiawe und Maho 3
+[quest_title_1030506000604050] Vs. Kiawe und Maho 4
+[quest_title_1030506000604060] Täglicher schwerer Kampf
+[quest_title_1030506000604010] Drei hochwertige Zutaten
+[quest_group_detail_100109] In einem Jahrtausend
+[quest_group_title_10031400000] Ben (Saison 2023)
+[quest_group_title_10030400000] Svenja (Saison 2023)
+[quest_group_title_10262000000] Rose
+[quest_group_title_10263000000] Olivia
+[quest_group_title_100109] Galar
 
 ===========
 story_quest_name_en.lsd
@@ -7999,7 +8063,7 @@ story_quest_name_en.lsd
 [quest_title_1030309000603100] Bountiful Bonus Battle 1
 [quest_title_1030309000603110] Battle Challenge! Round 1
 [quest_title_1030309000603120] Battle Challenge! Round 2
-[quest_group_title_100101] Paulo Interlude
+[quest_group_title_100101] Paulo
 [quest_group_title_10048800000] Grimsley
 (Kimono)
 [quest_group_title_10120100000] Sygna Suit Lusamine
@@ -9240,6 +9304,70 @@ Is Another’s Poison: Part 4
 [quest_group_title_10285000000] Irida
 [quest_group_title_10216000000] Eusine
 [quest_group_title_10133100000] Sygna Suit Silver
+[quest_title_1040002850001011] A Special Day with Irida: Part 1
+[quest_title_1040002850001021] A Special Day with Irida: Part 2
+[quest_title_1030110000570100] The Last Evil
+[quest_title_1030220262000000] A Day with Rose
+[quest_title_1030220263000000] A Day with Oleana
+[quest_title_1030506000601000] A Song for the Stars
+[quest_title_1030506000601010] Archie’s Wish
+[quest_title_1030506000601050] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030506000601020] Far, Far Away
+[quest_title_1030506000601060] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030506000601030] No Matter the Distance
+[quest_title_1030506000601070] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030506000601040] Wish upon a Star
+[quest_title_1030506000601080] Challenge Pasio’s Trainers: Part 4
+[quest_title_1030506000601090] Daily Extreme Battle 1
+[quest_title_1030506000601100] Battle Challenge! Round 1
+[quest_title_1030506000601110] Battle Challenge! Round 2
+[quest_title_1030450600101010] Challenge Misty
+[quest_title_1030450600102010] Challenge Marlon
+[quest_title_1030450600103010] Challenge Lana
+[quest_title_1030450600104010] Challenge Nessa
+[quest_title_1030450600105010] Challenge Archie
+[quest_title_1030440708201010] Challenge Flint: Part 1
+[quest_title_1030440708202010] Challenge Flint: Part 2
+[quest_title_1030440708203010] Challenge Flint: Part 3
+[quest_title_1030440708204010] Challenge Flint: Part 4
+[quest_title_1030440708205010] Daily Bonus Battle 1
+[quest_title_1030110000580100] The Galar Region’s Hero
+[quest_title_1030110000580600] Challenge Rose’s Supporters: Part 1
+[quest_title_1030110000580200] As Quickly as Possible
+[quest_title_1030110000580700] Challenge Rose’s Supporters: Part 2
+[quest_title_1030110000580300] Whispering Shadows
+[quest_title_1030110000580800] Challenge Rose’s Supporters: Part 3
+[quest_title_1030110000580400] Repeated Mistakes
+[quest_title_1030110000580900] Challenge Rose’s Supporters: Part 4
+[quest_title_1030110000580500] Headed for the Same Future!
+[quest_title_1030506000602010] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030506000602020] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030506000602030] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030506000602040] Daily Extreme Battle 1
+[quest_title_1030506000602050] Battle Challenge! Round 1
+[quest_title_1030506000602060] Battle Challenge! Round 2
+[quest_title_1030506000603010] Take On Bede! Part 1
+[quest_title_1030506000603020] Take On Bede! Part 2
+[quest_title_1030506000603030] Take On Leon! Part 1
+[quest_title_1030506000603040] Take On Leon! Part 2
+[quest_title_1030503000701011] Raikou’s Challenge: Part 1
+[quest_title_1030503010701021] Raikou’s Challenge: Part 2
+[quest_title_1030503020701031] Raikou’s Challenge: Part 3
+[quest_title_1030506000604000] Akala Island Combination
+[quest_title_1030506000604020] Challenge Kiawe and Mallow: Part 1
+[quest_title_1030506000604030] Challenge Kiawe and Mallow: Part 2
+[quest_title_1030506000604040] Challenge Kiawe and Mallow: Part 3
+[quest_title_1030506000604050] Challenge Kiawe and Mallow: Part 4
+[quest_title_1030506000604060] Daily Extreme Battle 1
+[quest_title_1030506000604010] Friend Trio, Good Ingredients
+[quest_group_detail_100109] A Millennium into the Future
+[quest_group_title_10031400000] Tate 
+(Summer 2023)
+[quest_group_title_10030400000] Liza 
+(Summer 2023)
+[quest_group_title_10262000000] Rose
+[quest_group_title_10263000000] Oleana
+[quest_group_title_100109] Galar
 
 ===========
 story_quest_name_es.lsd
@@ -12619,6 +12747,68 @@ armonía
 [quest_group_title_10285000000] Nákara
 [quest_group_title_10216000000] Eusine
 [quest_group_title_10133100000] Plata (Traje S)
+[quest_title_1040002850001011] Un día especial con Nákara
+[quest_title_1040002850001021] Un día especial con Nákara (2)
+[quest_title_1030110000570100] El villano definitivo
+[quest_title_1030220262000000] Un día con Rose
+[quest_title_1030220263000000] Un día con Olivia
+[quest_title_1030506000601000] La canción de las estrellas
+[quest_title_1030506000601010] El deseo de Aquiles
+[quest_title_1030506000601050] VS. Entrenadores de Passio
+[quest_title_1030506000601020] Lejos de casa
+[quest_title_1030506000601060] VS. Entrenadores de Passio (2)
+[quest_title_1030506000601030] No importa la distancia
+[quest_title_1030506000601070] VS. Entrenadores de Passio (3)
+[quest_title_1030506000601040] Pide un deseo a las estrellas
+[quest_title_1030506000601080] VS. Entrenadores de Passio (4)
+[quest_title_1030506000601090] ¡Un combate difícil al día!
+[quest_title_1030506000601100] ¡Un combate desafiante!
+[quest_title_1030506000601110] ¡Un combate desafiante! (2)
+[quest_title_1030450600101010] VS. Misty
+[quest_title_1030450600102010] VS. Ciprián
+[quest_title_1030450600103010] VS. Nereida
+[quest_title_1030450600104010] VS. Cathy
+[quest_title_1030450600105010] VS. Aquiles
+[quest_title_1030440708201010] VS. Fausto
+[quest_title_1030440708202010] VS. Fausto (2)
+[quest_title_1030440708203010] VS. Fausto (3)
+[quest_title_1030440708204010] VS. Fausto (4)
+[quest_title_1030440708205010] ¡Un combate extra al día!
+[quest_title_1030110000580100] Por la prosperidad de Galar
+[quest_title_1030110000580600] VS. Simpatizantes de Rose
+[quest_title_1030110000580200] Actuar cuanto antes
+[quest_title_1030110000580700] VS. Simpatizantes de Rose (2)
+[quest_title_1030110000580300] Susurros desde las sombras
+[quest_title_1030110000580800] VS. Simpatizantes de Rose (3)
+[quest_title_1030110000580400] El mismo error
+[quest_title_1030110000580900] VS. Simpatizantes de Rose (4)
+[quest_title_1030110000580500] ¡Juntos hacia el futuro!
+[quest_title_1030506000602010] VS. Entrenadores de Passio
+[quest_title_1030506000602020] VS. Entrenadores de Passio (2)
+[quest_title_1030506000602030] VS. Entrenadores de Passio (3)
+[quest_title_1030506000602040] ¡Un combate difícil al día!
+[quest_title_1030506000602050] ¡Un combate desafiante!
+[quest_title_1030506000602060] ¡Un combate desafiante! (2)
+[quest_title_1030506000603010] ¡Enfréntate a Berto!
+[quest_title_1030506000603020] ¡Enfréntate a Berto! (2)
+[quest_title_1030506000603030] ¡Enfréntate a Lionel!
+[quest_title_1030506000603040] ¡Enfréntate a Lionel! (2)
+[quest_title_1030503000701011] VS. Raikou
+[quest_title_1030503010701021] VS. Raikou (2)
+[quest_title_1030503020701031] VS. Raikou (3)
+[quest_title_1030506000604000] El sabor de Akala
+[quest_title_1030506000604020] VS. Kiawe y Lulú
+[quest_title_1030506000604030] VS. Kiawe y Lulú (2)
+[quest_title_1030506000604040] VS. Kiawe y Lulú (3)
+[quest_title_1030506000604050] VS. Kiawe y Lulú (4)
+[quest_title_1030506000604060] ¡Un combate difícil al día!
+[quest_title_1030506000604010] Tres ingredientes de calidad
+[quest_group_detail_100109] En cuestión de un milenio
+[quest_group_title_10031400000] Vito (Temporada 23)
+[quest_group_title_10030400000] Leti (Temporada 23)
+[quest_group_title_10262000000] Rose
+[quest_group_title_10263000000] Olivia
+[quest_group_title_100109] Trama de Galar
 
 ===========
 story_quest_name_fr.lsd
@@ -16335,6 +16525,87 @@ Dresseurs de Passio IV
 [quest_group_title_10285000000] Nacchara
 [quest_group_title_10216000000] Eusine
 [quest_group_title_10133100000] Silver (Look Ultime)
+[quest_title_1040002850001011] Une journée spéciale
+avec Nacchara
+[quest_title_1040002850001021] Une journée spéciale
+avec Nacchara II
+[quest_title_1030110000570100] L'ultime mal
+[quest_title_1030220262000000] Une journée avec Shehroz
+[quest_title_1030220263000000] Une journée avec Liv
+[quest_title_1030506000601000] Une chanson pour les étoiles
+[quest_title_1030506000601010] Le vœu d'Arthur
+[quest_title_1030506000601050] Combat : Dresseurs de Passio
+[quest_title_1030506000601020] Un endroit lointain
+[quest_title_1030506000601060] Combat :
+Dresseurs de Passio II
+[quest_title_1030506000601030] Peu importe la distance
+[quest_title_1030506000601070] Combat :
+Dresseurs de Passio III
+[quest_title_1030506000601040] Vœu sous une bonne étoile
+[quest_title_1030506000601080] Combat :
+Dresseurs de Passio IV
+[quest_title_1030506000601090] Combat difficile limité
+à une fois par jour !
+[quest_title_1030506000601100] Combat difficile
+[quest_title_1030506000601110] Combat difficile II
+[quest_title_1030450600101010] Combat : Ondine
+[quest_title_1030450600102010] Combat : Amana
+[quest_title_1030450600103010] Combat : Néphie
+[quest_title_1030450600104010] Combat : Donna
+[quest_title_1030450600105010] Combat : Arthur
+[quest_title_1030440708201010] Combat : Adrien
+[quest_title_1030440708202010] Combat : Adrien II
+[quest_title_1030440708203010] Combat : Adrien III
+[quest_title_1030440708204010] Combat : Adrien IV
+[quest_title_1030440708205010] Combat bonus limité
+à une fois par jour !
+[quest_title_1030110000580100] Le protecteur de Galar
+[quest_title_1030110000580600] Combat :
+Admiratrices de Shehroz
+[quest_title_1030110000580200] Pas une minute à perdre
+[quest_title_1030110000580700] Combat :
+Admiratrices de Shehroz II
+[quest_title_1030110000580300] À garder secret
+[quest_title_1030110000580800] Combat :
+Admiratrices de Shehroz III
+[quest_title_1030110000580400] Répéter ses erreurs
+[quest_title_1030110000580900] Combat :
+Admiratrices de Shehroz IV
+[quest_title_1030110000580500] Avancer vers le même futur !
+[quest_title_1030506000602010] Combat : Dresseurs de Passio
+[quest_title_1030506000602020] Combat :
+Dresseurs de Passio II
+[quest_title_1030506000602030] Combat :
+Dresseurs de Passio III
+[quest_title_1030506000602040] Combat difficile limité
+à une fois par jour !
+[quest_title_1030506000602050] Combat difficile
+[quest_title_1030506000602060] Combat difficile II
+[quest_title_1030506000603010] Combat corsé : Travis
+[quest_title_1030506000603020] Combat corsé : Travis II
+[quest_title_1030506000603030] Combat corsé : Tarak
+[quest_title_1030506000603040] Combat corsé : Tarak II
+[quest_title_1030503000701011] Combat : Raikou
+[quest_title_1030503010701021] Combat : Raikou II
+[quest_title_1030503020701031] Combat : Raikou III
+[quest_title_1030506000604000] Le travail équipe
+à la sauce Akala !
+[quest_title_1030506000604020] Combat : Kiawe et Barbara
+[quest_title_1030506000604030] Combat :
+Kiawe et Barbara II
+[quest_title_1030506000604040] Combat :
+Kiawe et Barbara III
+[quest_title_1030506000604050] Combat :
+Kiawe et Barbara IV
+[quest_title_1030506000604060] Combat difficile limité
+à une fois par jour !
+[quest_title_1030506000604010] Un trio unique
+[quest_group_detail_100109] Le prochain millénaire à venir
+[quest_group_title_10031400000] Lévy (Saison 2023)
+[quest_group_title_10030400000] Tatia (Saison 2023)
+[quest_group_title_10262000000] Shehroz
+[quest_group_title_10263000000] Liv
+[quest_group_title_100109] Galar
 
 ===========
 story_quest_name_it.lsd
@@ -19377,6 +19648,70 @@ story_quest_name_it.lsd
 [quest_group_title_10285000000] Perula
 [quest_group_title_10216000000] Eugenius
 [quest_group_title_10133100000] Argento Costumax
+[quest_title_1040002850001011] Un giorno speciale con Perula (1ª parte)
+[quest_title_1040002850001021] Un giorno speciale con Perula (2ª parte)
+[quest_title_1030110000570100] Il male definitivo
+[quest_title_1030220262000000] Un giorno con Rose
+[quest_title_1030220263000000] Un giorno con Olive
+[quest_title_1030506000601000] Una canzone per le stelle
+[quest_title_1030506000601010] La richiesta di Ivan
+[quest_title_1030506000601050] VS Allenatori di Pasio
+[quest_title_1030506000601020] Lontano lontano
+[quest_title_1030506000601060] VS Allenatori di Pasio 2
+[quest_title_1030506000601030] Qualunque sia la distanza
+[quest_title_1030506000601070] VS Allenatori di Pasio 3
+[quest_title_1030506000601040] Affidare i desideri alle stelle
+[quest_title_1030506000601080] VS Allenatori di Pasio 4
+[quest_title_1030506000601090] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030506000601100] Sfida ad alta difficoltà
+[quest_title_1030506000601110] Sfida ad alta difficoltà 2
+[quest_title_1030450600101010] VS Misty
+[quest_title_1030450600102010] VS Ciprian
+[quest_title_1030450600103010] VS Suiren
+[quest_title_1030450600104010] VS Azzurra
+[quest_title_1030450600105010] VS Ivan
+[quest_title_1030440708201010] VS Vulcano
+[quest_title_1030440708202010] VS Vulcano 2
+[quest_title_1030440708203010] VS Vulcano 3
+[quest_title_1030440708204010] VS Vulcano 4
+[quest_title_1030440708205010] Lotta bonus (una al giorno)!
+[quest_title_1030110000580100] Il presidente da Galar
+[quest_title_1030110000580600] VS sostenitrici di Rose
+[quest_title_1030110000580200] Il prima possibile
+[quest_title_1030110000580700] VS sostenitrici di Rose 2
+[quest_title_1030110000580300] Ombra che sussurra
+[quest_title_1030110000580800] VS sostenitrici di Rose 3
+[quest_title_1030110000580400] Errori ripetuti
+[quest_title_1030110000580900] VS sostenitrici di Rose 4
+[quest_title_1030110000580500] Verso lo stesso futuro!
+[quest_title_1030506000602010] VS Allenatori di Pasio
+[quest_title_1030506000602020] VS Allenatori di Pasio 2
+[quest_title_1030506000602030] VS Allenatori di Pasio 3
+[quest_title_1030506000602040] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030506000602050] Sfida ad alta difficoltà
+[quest_title_1030506000602060] Sfida ad alta difficoltà 2
+[quest_title_1030506000603010] Sfida un avversario potente: Beet
+[quest_title_1030506000603020] Sfida un avversario potente: Beet 2
+[quest_title_1030506000603030] Sfida un avversario potente: Dandel
+[quest_title_1030506000603040] Sfida un avversario potente: Dandel 2
+[quest_title_1030503000701011] VS Raikou
+[quest_title_1030503010701021] VS Raikou 2
+[quest_title_1030503020701031] VS Raikou 3
+[quest_title_1030506000604000] Il terzetto culinario di Akala
+[quest_title_1030506000604020] VS Kawe e Ibis
+[quest_title_1030506000604030] VS Kawe e Ibis 2
+[quest_title_1030506000604040] VS Kawe e Ibis 3
+[quest_title_1030506000604050] VS Kawe e Ibis 4
+[quest_title_1030506000604060] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030506000604010] Un trio con talento da vendere
+[quest_group_detail_100109] Per il futuro tra mille anni
+[quest_group_title_10031400000] Tell 
+(feste 2023)
+[quest_group_title_10030400000] Pat 
+(feste 2023)
+[quest_group_title_10262000000] Rose
+[quest_group_title_10263000000] Olive
+[quest_group_title_100109] Galar
 
 ===========
 story_quest_name_ja.lsd
@@ -22491,6 +22826,70 @@ story_quest_name_ja.lsd
 [quest_group_title_10285000000] カイ
 [quest_group_title_10216000000] ミナキ
 [quest_group_title_10133100000] マジコスシルバー
+[quest_title_1040002850001011] カイとの特別な一日　前編
+[quest_title_1040002850001021] カイとの特別な一日　後編
+[quest_title_1030110000570100] 最後の悪
+[quest_title_1030220262000000] とある日のローズ
+[quest_title_1030220263000000] とある日のオリーヴ
+[quest_title_1030506000601000] おほしさまのうた
+[quest_title_1030506000601010] アオギリの願い
+[quest_title_1030506000601050] ＶＳ　パシオのトレーナー
+[quest_title_1030506000601020] 遠い遠い場所
+[quest_title_1030506000601060] ＶＳ　パシオのトレーナー２
+[quest_title_1030506000601030] どんなに離れていても
+[quest_title_1030506000601070] ＶＳ　パシオのトレーナー３
+[quest_title_1030506000601040] 星に願いをこめて……
+[quest_title_1030506000601080] ＶＳ　パシオのトレーナー４
+[quest_title_1030506000601090] １日１回限定・高難度バトル！
+[quest_title_1030506000601100] チャレンジバトルで勝負！
+[quest_title_1030506000601110] チャレンジバトルで勝負！２
+[quest_title_1030450600101010] ＶＳ　カスミ
+[quest_title_1030450600102010] ＶＳ　シズイ
+[quest_title_1030450600103010] ＶＳ　スイレン
+[quest_title_1030450600104010] ＶＳ　ルリナ
+[quest_title_1030450600105010] ＶＳ　アオギリ
+[quest_title_1030440708201010] ＶＳ　オーバ
+[quest_title_1030440708202010] ＶＳ　オーバ２
+[quest_title_1030440708203010] ＶＳ　オーバ３
+[quest_title_1030440708204010] ＶＳ　オーバ４
+[quest_title_1030440708205010] １日１回限定・ボーナスバトル！
+[quest_title_1030110000580100] ガラル地方の風雲児
+[quest_title_1030110000580600] ＶＳ　ローズの支持者
+[quest_title_1030110000580200] 「一刻でも　はやく」
+[quest_title_1030110000580700] ＶＳ　ローズの支持者２
+[quest_title_1030110000580300] ささやく影
+[quest_title_1030110000580800] ＶＳ　ローズの支持者３
+[quest_title_1030110000580400] 繰り返される過ち
+[quest_title_1030110000580900] ＶＳ　ローズの支持者４
+[quest_title_1030110000580500] 同じ未来へ向かって！
+[quest_title_1030506000602010] ＶＳ　パシオのトレーナー
+[quest_title_1030506000602020] ＶＳ　パシオのトレーナー２
+[quest_title_1030506000602030] ＶＳ　パシオのトレーナー３
+[quest_title_1030506000602040] １日１回限定・高難度バトル！
+[quest_title_1030506000602050] チャレンジバトルで勝負！
+[quest_title_1030506000602060] チャレンジバトルで勝負！２
+[quest_title_1030506000603010] 強敵に挑戦！　ＶＳ　ビート
+[quest_title_1030506000603020] 強敵に挑戦！　ＶＳ　ビート２
+[quest_title_1030506000603030] 強敵に挑戦！　ＶＳ　ダンデ
+[quest_title_1030506000603040] 強敵に挑戦！　ＶＳ　ダンデ２
+[quest_title_1030503000701011] ＶＳ　ライコウ
+[quest_title_1030503010701021] ＶＳ　ライコウ２
+[quest_title_1030503020701031] ＶＳ　ライコウ３
+[quest_title_1030506000604000] アーカラ島のコンビネーション？
+[quest_title_1030506000604020] ＶＳ　カキとマオ
+[quest_title_1030506000604030] ＶＳ　カキとマオ２
+[quest_title_1030506000604040] ＶＳ　カキとマオ３
+[quest_title_1030506000604050] ＶＳ　カキとマオ４
+[quest_title_1030506000604060] １日１回限定・高難度バトル！
+[quest_title_1030506000604010] 仲良しトリオの素材のよさ
+[quest_group_detail_100109] 千年先の未来のために
+[quest_group_title_10031400000] フウ
+（２３シーズン）
+[quest_group_title_10030400000] ラン
+（２３シーズン）
+[quest_group_title_10262000000] ローズ
+[quest_group_title_10263000000] オリーヴ
+[quest_group_title_100109] ガラル編
 
 ===========
 story_quest_name_ko.lsd
@@ -23915,7 +24314,7 @@ story_quest_name_ko.lsd
 [quest_title_1030302000605060] VS 아이리스2
 [quest_title_1030302000605070] VS 아이리스3
 [quest_title_1030302000605080] VS 아이리스4
-[quest_title_1030302000605090] VS 드래곤 버디즈
+[quest_title_1030302000605090] VS 드래곤타입 버디즈
 [quest_title_1030210092800000] 아이리스의 어느 날
 [quest_title_1030302001010060] 대결! 태홍6
 [quest_group_title_10122000000] 영태
@@ -24648,7 +25047,7 @@ story_quest_name_ko.lsd
 [quest_title_1030440100109011] 최강의 졸업 시험!?2
 [quest_title_1030440100102010] 달성 축하합니다!
 [quest_title_1030440100102011] 열쇠는 "버디스톤보드"
-[quest_title_1030402000603090] VS 드래곤 버디즈
+[quest_title_1030402000603090] VS 드래곤타입 버디즈
 [quest_group_title_10118410000] 릴리에
 (스페셜)
 [quest_group_title_10259400000] 소니아
@@ -25604,6 +26003,70 @@ story_quest_name_ko.lsd
 [quest_group_title_10285000000] 주혜
 [quest_group_title_10216000000] 수호
 [quest_group_title_10133100000] 궁극코스 실버
+[quest_title_1040002850001011] 주혜와의 특별한 하루 전편
+[quest_title_1040002850001021] 주혜와의 특별한 하루 후편
+[quest_title_1030110000570100] 최후의 악
+[quest_title_1030220262000000] 로즈의 어느 날
+[quest_title_1030220263000000] 올리브의 어느 날
+[quest_title_1030506000601000] 별님의 노래
+[quest_title_1030506000601010] 아강의 소원
+[quest_title_1030506000601050] VS 파시오의 트레이너
+[quest_title_1030506000601020] 머나먼 장소
+[quest_title_1030506000601060] VS 파시오의 트레이너2
+[quest_title_1030506000601030] 아무리 멀리 떨어져 있어도
+[quest_title_1030506000601070] VS 파시오의 트레이너3
+[quest_title_1030506000601040] 별에 소원을 담아...
+[quest_title_1030506000601080] VS 파시오의 트레이너4
+[quest_title_1030506000601090] 1일 1회 한정 고난도 배틀!
+[quest_title_1030506000601100] 챌린지배틀로 승부!
+[quest_title_1030506000601110] 챌린지배틀로 승부!2
+[quest_title_1030450600101010] VS 이슬
+[quest_title_1030450600102010] VS 시즈
+[quest_title_1030450600103010] VS 수련
+[quest_title_1030450600104010] VS 야청
+[quest_title_1030450600105010] VS 아강
+[quest_title_1030440708201010] VS 대엽
+[quest_title_1030440708202010] VS 대엽2
+[quest_title_1030440708203010] VS 대엽3
+[quest_title_1030440708204010] VS 대엽4
+[quest_title_1030440708205010] 1일 1회 한정 보너스 배틀!
+[quest_title_1030110000580100] 가라르지방의 풍운아
+[quest_title_1030110000580600] VS 로즈의 지지자
+[quest_title_1030110000580200] "한시라도 빨리"
+[quest_title_1030110000580700] VS 로즈의 지지자2
+[quest_title_1030110000580300] 속삭이는 그림자
+[quest_title_1030110000580800] VS 로즈의 지지자3
+[quest_title_1030110000580400] 되풀이되는 잘못
+[quest_title_1030110000580900] VS 로즈의 지지자4
+[quest_title_1030110000580500] 같은 미래를 향해!
+[quest_title_1030506000602010] VS 파시오의 트레이너
+[quest_title_1030506000602020] VS 파시오의 트레이너2
+[quest_title_1030506000602030] VS 파시오의 트레이너3
+[quest_title_1030506000602040] 1일 1회 한정 고난도 배틀!
+[quest_title_1030506000602050] 챌린지배틀로 승부!
+[quest_title_1030506000602060] 챌린지배틀로 승부!2
+[quest_title_1030506000603010] 강적에게 도전! VS 비트
+[quest_title_1030506000603020] 강적에게 도전! VS 비트2
+[quest_title_1030506000603030] 강적에게 도전! VS 단델
+[quest_title_1030506000603040] 강적에게 도전! VS 단델2
+[quest_title_1030503000701011] VS 라이코
+[quest_title_1030503010701021] VS 라이코2
+[quest_title_1030503020701031] VS 라이코3
+[quest_title_1030506000604000] 아칼라섬의 콤비네이션?
+[quest_title_1030506000604020] VS 키아웨, 마오
+[quest_title_1030506000604030] VS 키아웨, 마오2
+[quest_title_1030506000604040] VS 키아웨, 마오3
+[quest_title_1030506000604050] VS 키아웨, 마오4
+[quest_title_1030506000604060] 1일 1회 한정 고난도 배틀!
+[quest_title_1030506000604010] 사이좋은 트리오가 가진 재료의 맛
+[quest_group_detail_100109] 천 년 후의 미래를 위해
+[quest_group_title_10031400000] 풍
+(23시즌)
+[quest_group_title_10030400000] 란
+(23시즌)
+[quest_group_title_10262000000] 로즈
+[quest_group_title_10263000000] 올리브
+[quest_group_title_100109] 가라르지방 편
 
 ===========
 story_quest_name_zh-TW.lsd
@@ -28717,6 +29180,70 @@ story_quest_name_zh-TW.lsd
 [quest_group_title_10285000000] 珠貝
 [quest_group_title_10216000000] 水京
 [quest_group_title_10133100000] 美極套裝小銀
+[quest_title_1040002850001011] 與珠貝的特別日子　前篇
+[quest_title_1040002850001021] 與珠貝的特別日子　後篇
+[quest_title_1030110000570100] 最後的邪惡
+[quest_title_1030220262000000] 某日的洛茲
+[quest_title_1030220263000000] 某日的奧利薇
+[quest_title_1030506000601000] 星星之歌
+[quest_title_1030506000601010] 水梧桐的請求
+[quest_title_1030506000601050] ＶＳ　帕希歐的訓練家
+[quest_title_1030506000601020] 遙不可及的地方
+[quest_title_1030506000601060] ＶＳ　帕希歐的訓練家２
+[quest_title_1030506000601030] 無論分隔多遠
+[quest_title_1030506000601070] ＶＳ　帕希歐的訓練家３
+[quest_title_1030506000601040] 向星星許願……
+[quest_title_1030506000601080] ＶＳ　帕希歐的訓練家４
+[quest_title_1030506000601090] １天僅限１次的高難度對戰！
+[quest_title_1030506000601100] 用挑戰對戰決勝負！
+[quest_title_1030506000601110] 用挑戰對戰決勝負！２
+[quest_title_1030450600101010] ＶＳ　小霞
+[quest_title_1030450600102010] ＶＳ　西子伊
+[quest_title_1030450600103010] ＶＳ　水蓮
+[quest_title_1030450600104010] ＶＳ　露璃娜
+[quest_title_1030450600105010] ＶＳ　水梧桐
+[quest_title_1030440708201010] ＶＳ　大葉
+[quest_title_1030440708202010] ＶＳ　大葉２
+[quest_title_1030440708203010] ＶＳ　大葉３
+[quest_title_1030440708204010] ＶＳ　大葉４
+[quest_title_1030440708205010] １天僅限１次的獎勵對戰！
+[quest_title_1030110000580100] 伽勒爾地區的風雲人物
+[quest_title_1030110000580600] ＶＳ　洛茲支持者
+[quest_title_1030110000580200] 「刻不容緩」
+[quest_title_1030110000580700] ＶＳ　洛茲支持者２
+[quest_title_1030110000580300] 呢喃的黑影
+[quest_title_1030110000580800] ＶＳ　洛茲支持者３
+[quest_title_1030110000580400] 重蹈覆轍
+[quest_title_1030110000580900] ＶＳ　洛茲支持者４
+[quest_title_1030110000580500] 迎向同樣的未來！
+[quest_title_1030506000602010] ＶＳ　帕希歐的訓練家
+[quest_title_1030506000602020] ＶＳ　帕希歐的訓練家２
+[quest_title_1030506000602030] ＶＳ　帕希歐的訓練家３
+[quest_title_1030506000602040] １天僅限１次的高難度對戰！
+[quest_title_1030506000602050] 用挑戰對戰決勝負！
+[quest_title_1030506000602060] 用挑戰對戰決勝負！２
+[quest_title_1030506000603010] 挑戰強敵！　ＶＳ　彼特
+[quest_title_1030506000603020] 挑戰強敵！　ＶＳ　彼特２
+[quest_title_1030506000603030] 挑戰強敵！　ＶＳ　丹帝
+[quest_title_1030506000603040] 挑戰強敵！　ＶＳ　丹帝２
+[quest_title_1030503000701011] ＶＳ　雷公
+[quest_title_1030503010701021] ＶＳ　雷公２
+[quest_title_1030503020701031] ＶＳ　雷公３
+[quest_title_1030506000604000] 阿卡拉島的搭配？
+[quest_title_1030506000604020] ＶＳ　卡奇與瑪奧
+[quest_title_1030506000604030] ＶＳ　卡奇與瑪奧２
+[quest_title_1030506000604040] ＶＳ　卡奇與瑪奧３
+[quest_title_1030506000604050] ＶＳ　卡奇與瑪奧４
+[quest_title_1030506000604060] １天僅限１次的高難度對戰！
+[quest_title_1030506000604010] 好友三人組的材料潛力
+[quest_group_detail_100109] 為了千年後的未來
+[quest_group_title_10031400000] 小楓
+（２０２３夏季）
+[quest_group_title_10030400000] 小南
+（２０２３夏季）
+[quest_group_title_10262000000] 洛茲
+[quest_group_title_10263000000] 奧利薇
+[quest_group_title_100109] 伽勒爾篇
 
 ===========
 trainer_description_de.lsd
@@ -29758,6 +30285,34 @@ Sniebel geschworen, die stärksten Gefährten zu werden.
 legt viel Wert auf seine Zeit und kann ein wenig
 ungeduldig sein, ist als Gefährte jedoch einfühlsam und
 verlässlich.
+[10031400000] Ben spielt beim Fest der Sterne die Hauptrolle. Mit seinem
+klaren Gesang konnte er Jirachi wecken, welches ihm
+daraufhin seinen Wunsch erfüllte, Svenja zu retten.
+[10030400000] Svenja spielt beim Fest der Sterne die Hauptrolle. Sie
+verirrte sich in eine andere Welt und wurde von Ben
+getrennt, schaffte es aber, mit ihrem neuen Freund
+Kaguron zurückzukehren.
+[10262000000] Rose ist der Geschäftsführer des Industriekonglomerats
+Macro Cosmos in Galar. Auch auf Passio stellt er sein
+grandioses Talent zur Schau.
+(Hinweis: Dieser Text wurde von seiner Assistentin
+verfasst.)
+[10263000000] Olivia ist die Vizepräsidentin des Industriekonglomerats
+Macro Cosmos in Galar. Zudem arbeitet sie als Roses
+Assistentin und verfügt über ausgezeichnete
+Organisationsfähigkeiten. Sie war an der Erforschung des
+Dynamax-Phänomens beteiligt.
+[10285000001] Diese Anführerin des Perl-Clans kommt aus der
+Hisui-Region. Da sie schon mit jungen Jahren Anführerin
+wurde, macht sie sich oft Sorgen. Doch sie agiert stets mit
+Herz, Hand und Verstand für die Zukunft von Hisui.
+[10149000001] Kiawe ist ein aufstrebender Tänzer, der von einer
+professionellen Karriere träumt. Er studiert den
+traditionellen Tanz, der in Alola seit Generationen
+weitergegeben wird.
+[10124000001] Maho ist ein Captain auf Akala in der Alola-Region. Sie
+hilft außerdem im Restaurant ihrer Familie aus. Ihre
+Gerichte schmecken eher speziell, haben aber einige Fans.
 
 ===========
 trainer_description_en.lsd
@@ -30687,6 +31242,29 @@ Pokémon Sneasel they’ll be the strongest.
 [10284000001] This leader of the Diamond Clan from the Hisui region
 values his time and can be a little impatient, but he’s also
 a caring and dependable ally.
+[10031400000] Tate is taking on a main role in the star festival. His
+clear singing voice woke Jirachi, which granted his wish
+to save Liza.
+[10030400000] Liza is taking on a main role in the star festival. She got
+lost in another world and was separated from Tate, but
+she came back with her new friend, Celesteela.
+[10262000000] Mr. Rose is the president of a large business
+conglomerate in Galar, Macro Cosmos. He is displaying
+his superb talents on Pasio as well. (NOTE: The text above
+was submitted by his secretary.)
+[10263000000] Oleana is the vice president of a large business
+conglomerate in Galar, Macro Cosmos. She is also Rose’s
+secretary and has impeccable schedule management. She
+used to be involved in researching of Dynamax.
+[10285000001] This leader of the Pearl Clan is from the Hisui region.
+She became a leader at a young age, so she worries
+a lot, but she thinks and acts for the future of Hisui.
+[10149000001] Kiawe is a captain of Akala Island and an aspiring dancer
+who hopes to go pro one day. With Marowak, he studies
+the traditional dances passed down in the Alola region. 
+[10124000001] Mallow is a captain on Akala Island in Alola and works
+at a restaurant where she hones her skills as a chef. Her
+cooking is unique but popular among some.
 
 ===========
 trainer_description_es.lsd
@@ -31779,6 +32357,32 @@ el Entrenador de Pokémon más fuerte del mundo.
 [10284000001] Jerarca del Clan Diamante de Hisui. Bondadoso y fiable
 como aliado, aunque a veces puede resultar un poco
 impaciente por lo mucho que valora su tiempo.
+[10031400000] Vito es uno de los protagonistas del Festival Estelar.
+Ha despertado a Jirachi cantando, quien ha decidido
+concederle el deseo de salvar a Leti.
+[10030400000] Leti es una de las protagonistas del Festival Estelar.
+Se perdió en otro mundo y acabó lejos de Vito, pero,
+a cambio, volvió con un nuevo amigo: Celesteela.
+[10262000000] Rose es el presidente de un consorcio de grandes
+empresas de Galar, el grupo Macrocosmos, y ha decidido
+hacer gala de su talento también en Passio. (Este texto ha
+sido proporcionado por su secretaria, Olivia).
+[10263000000] Olivia es la vicepresidenta de un consorcio de grandes
+empresas de Galar, el grupo Macrocrosmos, además de
+la secretaria personal de Rose. Tiene unas habilidades de
+organización impecables y solía participar en estudios
+sobre el fenómeno Dinamax.
+[10285000001] Jerarca del Clan Perla de Hisui. Le preocupa que ser tan
+joven afecte sus aptitudes como líder, pero siempre
+actúa con el futuro de Hisui en mente.
+[10149000001] Este Capitán de Akala es además aspirante a bailarín
+profesional. Se dedica a aprender los pasos de baile
+tradicionales de la región de Alola.
+[10124000001] Una de las Capitanas de la isla de Akala, en la región
+de Alola. Es la cara del restaurante regentado por su
+familia, donde trabaja puliendo sus habilidades culinarias
+que, a pesar de ser un tanto peculiares, se han granjeado
+la adoración de algunos.
 
 ===========
 trainer_description_fr.lsd
@@ -32823,6 +33427,36 @@ deux deviendront les plus forts de tous.
 accorde une grande importance au temps et peut donc
 se montrer légèrement impatient, mais c'est un allié
 fiable et bienveillant.
+[10031400000] Lévy est l'une des vedettes du Festival des étoiles.
+Sa douce chanson a réveillé Jirachi, qui a ensuite
+exaucé son vœu : celui de sauver Tatia.
+[10030400000] Tatia est l'une des vedettes du Festival des étoiles.
+Après s'être perdue dans un autre monde et séparée
+de Lévy, elle est revenue accompagnée de son nouvel
+ami, Bamboiselle.
+[10262000000] Monsieur Shehroz occupe aujourd'hui le poste de PDG
+d'un grand groupe industriel à Galar, Macro Cosmos.
+Il fait également démonstration de ses talents indéniables
+à Passio.
+(Texte fourni par l'assistante de M. Shehroz)
+[10263000000] Liv est la vice-présidente d'un grand groupe industriel
+de Galar du nom de Macro Cosmos. Elle est également
+l'assistante de Shehroz et sait gérer son emploi du temps
+comme personne d'autre. Elle étudiait auparavant
+le phénomène Dynamax.
+[10285000001] Cette Cheffe du Clan Perle vient de la région de Hisui.
+Elle a été désignée Cheffe très jeune et a tendance
+à s'inquiéter, mais elle sait prendre les justes décisions
+pour le futur de Hisui.
+[10149000001] Ce Capitaine d'Akala est passionné de danse
+et veut un jour en faire son métier. Accompagné
+de son Ossatueur, il étudie les danses traditionnelles
+d'Alola transmises de génération en génération.
+[10124000001] Une des Capitaines de l'île d'Akala à Alola.
+Elle accueille les clients dans le restaurant de sa famille
+et y exerce son talent pour la cuisine. Ses idées
+culinaires ne font pas toujours l'unanimité, mais elles sont
+tout de même populaires auprès de certaines personnes.
 
 ===========
 trainer_description_it.lsd
@@ -33849,6 +34483,32 @@ al mondo.
 dà molta importanza a come impiega il suo tempo
 ed è un po' impaziente. Tiene molto ai membri del
 suo team, per i quali è una sorta di fratello maggiore.
+[10031400000] Tell è protagonista del Festival siderale. La sua voce
+cristallina risveglia Jirachi, che esaudisce il suo desiderio 
+di salvare Pat.
+[10030400000] Pat è protagonista del Festival siderale. Finita in un'altra
+dimensione e separata da Tell, riesce a tornare indietro
+insieme al suo nuovo amico Celesteela.
+[10262000000] Dirigente di Macro Cosmos, un grande conglomerato
+di aziende di Galar, dimostra il suo notevole talento
+anche a Pasio. (Descrizione gentilmente fornita
+dalla segretaria personale di Rose.)
+[10263000000] Vicepresidente di Macro Cosmos, un grande conglomerato
+di aziende di Galar, è anche la segretaria personale di
+Rose, dotata di un talento impeccabile nella gestione
+degli impegni. In passato, era coinvolta nelle ricerche
+sul fenomeno Dynamax.
+[10285000001] Reggente del Team Perla della regione di Hisui.
+Avendo assunto questo ruolo in giovane età, spesso
+si preoccupa, ma ha molto a cuore il futuro di Hisui,
+e le sue azioni lo dimostrano.
+[10149000001] Uno dei Capitani dell'isola di Akala ad Alola, pratica
+la danza tradizionale della sua regione. Il suo sogno
+è diventare un danzatore del fuoco professionista.
+[10124000001] Una dei Capitani di Akala, nella regione di Alola,
+attira i clienti del ristorante di famiglia con la sua abilità
+da cuoca. I suoi piatti hanno un gusto molto originale,
+che è comunque apprezzato da alcune persone.
 
 ===========
 trainer_description_ja.lsd
@@ -34777,6 +35437,27 @@ trainer_description_ja.lsd
 [10284000001] ヒスイ地方の　コンゴウ団を　まとめる　リーダー。
 時間を　大切にしており　せっかちなところも　あるが
 仲間思いで　頼れる　兄貴分といった　性格。
+[10031400000] 星祭りの　主役を　務める　フウ。
+清らかな　歌声が　ジラーチを　目覚めさせ
+願いが　届き　ランを　救った。
+[10030400000] 星祭りの　主役を　務める　ラン。
+異世界に　迷いこみ　フウと　離れ離れになるが
+ともだちになった　テッカグヤと　帰ってきた。
+[10262000000] ガラル地方の　大企業　マクロコスモスの　総帥。
+パシオでも　その優れた手腕を　発揮なされています。
+（テキストは　秘書の方が　ご用意された　ものです）
+[10263000000] ガラル地方の　大企業　マクロコスモスの　副社長。
+ローズの　秘書でもあり　スケジュール管理は　完璧。
+以前は　ダイマックスの研究に　携わっていた。
+[10285000001] ヒスイ地方の　シンジュ団を　まとめる　長。
+若くして　長となったため　思い悩むことも　多いが
+ヒスイの未来を　考え　積極的に　活動している。
+[10149000001] アローラ地方　アーカラ島の　キャプテンの　ひとり。
+プロのダンサーを　目指している。ガラガラと　ともに
+アローラ地方に　伝わる踊りを　学んでいる。
+[10124000001] アローラ地方　アーカラ島の　キャプテンの　ひとり。
+食堂の　看板娘として　料理の腕を　ふるう。
+味は　とても　個性的だが　一部の　人に　人気だ。
 
 ===========
 trainer_description_ko.lsd
@@ -35704,6 +36385,27 @@ WPM 운영위원회의 대표도 맡고 있다.
 [10284000001] 히스이지방의 금강단을 이끄는 리더.
 시간을 소중하게 여기며 성급한 면모도 있지만
 동료를 아끼는 믿음직한 형님 같은 성격을 가졌다.
+[10031400000] 별 축제의 주역을 맡은 풍.
+맑은 노랫소리가 지라치를 깨웠고
+소원이 전해져 란을 구했다.
+[10030400000] 별 축제의 주역을 맡은 란.
+다른 세계에 흘러 들어가 풍과 이별하게 됐지만
+친구가 된 철화구야와 함께 돌아왔다.
+[10262000000] 가라르지방의 대기업 매크로코스모스의 총수.
+파시오에서도 그 뛰어난 수완을 발휘하고 계십니다.
+(위 텍스트는 비서가 직접 제출한 내용입니다)
+[10263000000] 가라르지방의 대기업 매크로코스모스의 부사장.
+로즈의 비서도 겸하고 있으며 스케줄 관리는 완벽하다.
+과거에는 다이맥스에 대해 연구하고 있었다.
+[10285000001] 히스이지방의 진주단을 이끄는 두령.
+젊은 나이에 두령이 되어 고민할 때도 많지만
+히스이지방의 미래를 생각해 적극적으로 활동하고 있다.
+[10149000001] 알로라지방 아칼라섬의 캡틴 중 한 명.
+프로 댄서를 꿈꾸고 있다. 텅구리와 함께
+알로라지방에 전해 내려오는 춤을 공부하고 있다.
+[10124000001] 알로라지방 아칼라섬의 캡틴 중 한 사람.
+식당의 얼굴로서 요리 실력을 발휘한다.
+맛은 상당히 개성적이지만 일부 손님에게 인기가 있다.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -36631,6 +37333,27 @@ trainer_description_zh-TW.lsd
 [10284000001] 統領洗翠地區金剛隊的隊主。
 因珍惜時間而有著急性子的一面，
 但是個為夥伴著想的可靠大哥。
+[10031400000] 擔任星星慶典主角的小楓。
+他清澈的歌聲喚醒了基拉祈，
+並傳遞出心願拯救了小南。
+[10030400000] 擔任星星慶典主角的小南。
+因誤入異世界而與小楓分隔兩地，
+但與鐵火輝夜成為朋友並一起歸來。
+[10262000000] 伽勒爾地區大企業馬洛科蒙的領導者。
+在帕希歐他優秀的本事也發揮無遺。
+（本文是由秘書提供）
+[10263000000] 伽勒爾地區大企業馬洛科蒙的副總裁。
+同時她也是洛茲的秘書，行程管理得相當完美。
+以前從事過極巨化的研究。
+[10285000001] 統領洗翠地區珍珠隊的首領。
+年紀輕輕就成了首領，因此有許多煩惱，
+但她仍為洗翠的未來著想而積極地活動。
+[10149000001] 阿羅拉地區阿卡拉島的隊長之一，
+目標是成為專業的舞者。目前正與嘎啦嘎啦一起，
+學習阿羅拉自古流傳的舞蹈。
+[10124000001] 阿羅拉地區阿卡拉島隊長中的一人。
+身為飯館招牌店員，經常展現自己的廚藝。
+她做的料理味道特別，但很受一部分的顧客喜愛。
 
 ===========
 trainer_name_de.lsd
@@ -36877,6 +37600,10 @@ trainer_name_de.lsd
 [ch0561] Skull Rüpel
 [ch0284] Diam
 [ch0285] Perla
+[ch0262] Rose
+[ch0263] Olivia
+[ch0280] Yell Rüpel
+[ch0281] Yell Rüpel
 
 ===========
 trainer_name_en.lsd
@@ -37123,6 +37850,10 @@ trainer_name_en.lsd
 [ch0561] Team Skull Grunt
 [ch0284] Adaman
 [ch0285] Irida
+[ch0262] Rose
+[ch0263] Oleana
+[ch0280] Team Yell Grunt
+[ch0281] Team Yell Grunt
 
 ===========
 trainer_name_es.lsd
@@ -37369,6 +38100,10 @@ trainer_name_es.lsd
 [ch0561] Recluta del Team Skull
 [ch0284] Adamas
 [ch0285] Nákara
+[ch0262] Rose
+[ch0263] Olivia
+[ch0280] Recluta del Team Yell
+[ch0281] Recluta del Team Yell
 
 ===========
 trainer_name_fr.lsd
@@ -37615,6 +38350,10 @@ trainer_name_fr.lsd
 [ch0561] Sbire Team Skull
 [ch0284] Adamantin
 [ch0285] Nacchara
+[ch0262] Shehroz
+[ch0263] Liv
+[ch0280] Sbire Team Yell
+[ch0281] Sbire Team Yell
 
 ===========
 trainer_name_it.lsd
@@ -37861,6 +38600,10 @@ trainer_name_it.lsd
 [ch0561] Recluta del Team Skull
 [ch0284] Damon
 [ch0285] Perula
+[ch0262] Rose
+[ch0263] Olive
+[ch0280] Recluta del Team Yell
+[ch0281] Recluta del Team Yell
 
 ===========
 trainer_name_ja.lsd
@@ -38107,6 +38850,10 @@ trainer_name_ja.lsd
 [ch0561] スカルだんの　したっぱ
 [ch0284] セキ
 [ch0285] カイ
+[ch0262] ローズ
+[ch0263] オリーヴ
+[ch0280] エールだんの　したっぱ
+[ch0281] エールだんの　したっぱ
 
 ===========
 trainer_name_ko.lsd
@@ -38353,6 +39100,10 @@ trainer_name_ko.lsd
 [ch0561] 스컬단의 조무래기
 [ch0284] 찬석
 [ch0285] 주혜
+[ch0262] 로즈
+[ch0263] 올리브
+[ch0280] 옐단의 조무래기
+[ch0281] 옐단의 조무래기
 
 ===========
 trainer_name_zh-TW.lsd
@@ -38599,6 +39350,10 @@ trainer_name_zh-TW.lsd
 [ch0561] 骷髏隊手下
 [ch0284] 剛石
 [ch0285] 珠貝
+[ch0262] 洛茲
+[ch0263] 奧利薇
+[ch0280] 吶喊隊手下
+[ch0281] 吶喊隊手下
 
 ===========
 trainer_verbose_name_de.lsd
@@ -38779,6 +39534,10 @@ trainer_verbose_name_de.lsd
 [10007100000] MaMo-Lola
 [10160100000] MaMo-Tracy
 [10133100000] MaMo-Silber
+[10031400000] Ben 
+(Saison 2023)
+[10030400000] Svenja 
+(Saison 2023)
 
 ===========
 trainer_verbose_name_en.lsd
@@ -38969,6 +39728,10 @@ Lysandre
 Acerola
 [10160100000] Sygna Suit Lana
 [10133100000] Sygna Suit Silver
+[10031400000] Tate 
+(Summer 2023)
+[10030400000] Liza 
+(Summer 2023)
 
 ===========
 trainer_verbose_name_es.lsd
@@ -39130,6 +39893,10 @@ con Kimono)
 [10007100000] Zarala (Traje S)
 [10160100000] Nereida (Traje S)
 [10133100000] Plata (Traje S)
+[10031400000] Vito 
+(Temporada 23)
+[10030400000] Leti 
+(Temporada 23)
 
 ===========
 trainer_verbose_name_fr.lsd
@@ -39307,6 +40074,10 @@ trainer_verbose_name_fr.lsd
 [10007100000] Margie (Ultime)
 [10160100000] Néphie (Ultime)
 [10133100000] Silver (Ultime)
+[10031400000] Lévy
+(Saison 2023)
+[10030400000] Tatia
+(Saison 2023)
 
 ===========
 trainer_verbose_name_it.lsd
@@ -39488,6 +40259,10 @@ trainer_verbose_name_it.lsd
 [10007100000] Malpi Costumax
 [10160100000] Suiren Costumax
 [10133100000] Argento Costumax
+[10031400000] Tell 
+(feste 2023)
+[10030400000] Pat 
+(feste 2023)
 
 ===========
 trainer_verbose_name_ja.lsd
@@ -39669,6 +40444,10 @@ trainer_verbose_name_ja.lsd
 [10007100000] マジコスアセロラ
 [10160100000] マジコススイレン
 [10133100000] マジコスシルバー
+[10031400000] フウ
+（２３シーズン）
+[10030400000] ラン
+（２３シーズン）
 
 ===========
 trainer_verbose_name_ko.lsd
@@ -39850,6 +40629,10 @@ trainer_verbose_name_ko.lsd
 [10007100000] 궁극코스 아세로라
 [10160100000] 궁극코스 수련
 [10133100000] 궁극코스 실버
+[10031400000] 풍
+(23시즌)
+[10030400000] 란
+(23시즌)
 
 ===========
 trainer_verbose_name_zh-TW.lsd
@@ -40031,6 +40814,10 @@ trainer_verbose_name_zh-TW.lsd
 [10007100000] 美極套裝阿塞蘿拉
 [10160100000] 美極套裝水蓮
 [10133100000] 美極套裝小銀
+[10031400000] 小楓
+（２０２３夏季）
+[10030400000] 小南
+（２０２３夏季）
 
 ===========
 common_widget_de.lsd
@@ -40347,6 +41134,7 @@ im Pokémon-Center.
 zurück.
 [common_widget/trainer_detail_071] Für dieses Gefährtengespann gibt es
 kein EX-Farboutfit.
+[common_widget/trainer_detail_074] Typ [Name:Type ]
 [common_widget/dialog_special_item_001] [Name:Item ]
 erhalten!
 [common_widget/dialog_special_item_002] Noch [Digit:1digit ] Orden!
@@ -41038,6 +41826,7 @@ Pokémon Center often.
 [common_widget/trainer_detail_070] Note: You will be returned to the Expedition screen after switching.
 [common_widget/trainer_detail_071] This sync pair does not have an
 EX style.
+[common_widget/trainer_detail_074] [Name:Type ] Type
 [common_widget/dialog_special_item_001] [Name:Item ]
 [common_widget/dialog_special_item_002] Only [Digit:1digit ] more [EN:Qty S="badge" P="badges" ] to go!
 [common_widget/dialog_special_item_003] All badges acquired! Time to compete in the PML!
@@ -41707,6 +42496,7 @@ por el Centro Pokémon.
 [common_widget/trainer_detail_070] Nota: Después, regresarás a la pantalla de exploración.
 [common_widget/trainer_detail_071] Esta pareja de compis no tiene
 Traje EX.
+[common_widget/trainer_detail_074] Tipo [Name:Type ]
 [common_widget/dialog_special_item_001] Has conseguido:
 [Name:Item ]
 [common_widget/dialog_special_item_002] Medallas restantes: [Digit:1digit ]
@@ -42398,6 +43188,7 @@ au Centre Pokémon.
 [common_widget/trainer_detail_069] Renforcement
 [common_widget/trainer_detail_070] Vous retournerez à l'écran d'exploration après ceci.
 [common_widget/trainer_detail_071] Ce Duo n'a pas de Couleur EX.
+[common_widget/trainer_detail_074] Type [Name:Type ]
 [common_widget/dialog_special_item_001] Vous avez obtenu
 1 [Name:Item ] !
 [common_widget/dialog_special_item_002] Encore [Digit:1digit ] Badge[FR:Qty P="s" ] à obtenir !
@@ -43089,6 +43880,7 @@ nel Centro Pokémon.
 [common_widget/trainer_detail_069] Rinforzo
 [common_widget/trainer_detail_070] Dopo il cambio d'abito farai ritorno alla schermata delle spedizioni.
 [common_widget/trainer_detail_071] Questa Unità non ha un Costume EX.
+[common_widget/trainer_detail_074] Tipo [Name:Type ]
 [common_widget/dialog_special_item_001] Hai ottenuto: [Name:Item ]!
 [common_widget/dialog_special_item_002] Medaglie mancanti: [Digit:1digit ]!
 [common_widget/dialog_special_item_003] Ora hai tutte le medaglie! Puoi affrontare il WPM!
@@ -43766,6 +44558,7 @@ MAX
 [common_widget/trainer_detail_069] 強化
 [common_widget/trainer_detail_070] ※実行後探索画面に戻ります
 [common_widget/trainer_detail_071] このバディーズにはEXカラーはありません
+[common_widget/trainer_detail_074] [Name:Type ]タイプ
 [common_widget/dialog_special_item_001] [Name:Item ]を
 獲得しました！
 [common_widget/dialog_special_item_002] のこるバッジは　あと[Digit:1digit ]個！
@@ -44454,6 +45247,7 @@ Lv.1 상태
 [common_widget/trainer_detail_069] 강화
 [common_widget/trainer_detail_070] ※실행 후 탐색 화면으로 돌아갑니다
 [common_widget/trainer_detail_071] 이 버디즈에게는 EX컬러가 없습니다
+[common_widget/trainer_detail_074] [Name:Type ]타입
 [common_widget/dialog_special_item_001] [Name:Item ][Kor:Particle char="wo" ]
 획득했습니다!
 [common_widget/dialog_special_item_002] 남은 배지는 앞으로 [Digit:1digit ]개!
@@ -45116,6 +45910,7 @@ MAX
 [common_widget/trainer_detail_069] 強化
 [common_widget/trainer_detail_070] ※執行後將回到探索畫面
 [common_widget/trainer_detail_071] 這對拍組沒有EX服裝
+[common_widget/trainer_detail_074] [Name:Type ]屬性
 [common_widget/dialog_special_item_001] 獲得了
 [Name:Item ]！
 [common_widget/dialog_special_item_002] 還剩下[Digit:1digit ]個徽章！
@@ -47780,6 +48575,8 @@ Möchtest du fortfahren?
 [home/quest_list_055] Aktion läuft
 [home/quest_list_056] Superschwer
 [home/quest_list_057] Ultraschwer
+[home/quest_list_058] Experte
+[home/quest_list_059] Meister
 [home/quest_list_060] Neues Kapitel freigeschaltet:
 World Pokémon Masters
 [home/quest_list_061] Kämpfe
@@ -47939,7 +48736,7 @@ des Schurkenteams [Digit:2digits ] Mal auf dem
 Schwierigkeitsgrad Normal abgeschlossen hast.
 [home/quest_list_175] Kampfpunkte-Bonus
 [home/quest_list_176] Event läuft!
-[home/quest_detail_003] Empfohlener Typ
+[home/quest_detail_003] Schwäche
 [home/quest_detail_005] Details
 [home/quest_detail_009] Teamauswahl
 [home/quest_detail_010] Team ändern
@@ -48736,6 +49533,136 @@ oder sie können nicht eingesetzt werden.
 [home/battle_replay_036] Du besitzt dieses Gefährtengespann nicht.
 [home/battle_replay_037] Es sind keine anwendbaren Brettfähigkeiten verfügbar.
 [home/battle_replay_038] Es werden keine Items verwendet.
+[home/score_attack_001] Höchste Gesamtpunktzahl
+[home/score_attack_002] Aktuelle Gesamtpunktzahl
+[home/score_attack_003] Hinweis: Belohnungen können nicht noch einmal abgeholt werden, selbst wenn du den Kampf zurücksetzt.
+[home/score_attack_004] Ab [Digit:8digits ] Punkten
+[home/score_attack_005] Alle [Digit:8digits ] Punkte
+[home/score_attack_006] Regeln des Events
+[home/score_attack_007] Erhöhe deine Punktzahl mit
+Gefährten vom empfohlenen Typ!
+[home/score_attack_008] Details zu Regeln
+[home/score_attack_009] Details zur Punktzahl
+[home/score_attack_010] Gefährten benutzt
+[home/score_attack_011] Herausforderung
+[home/score_attack_012] Aktuelle Gesamtpunktzahl
+[home/score_attack_013] Belohnungen
+[home/score_attack_014] Vs.
+[home/score_attack_015] Zurücksetzen
+[home/score_attack_016] Rangliste
+[home/score_attack_018] Die Ranglisten-Funktion wird nach dem
+Abschluss aller Kämpfe freigeschaltet.
+[home/score_attack_019] Bist du sicher, dass du den Kampffortschritt der ausgewählten Kämpfe zurücksetzen möchtest?
+
+Nach dem Zurücksetzen kannst du bereits benutzte Gefährten wieder in deinem Team verwenden, allerdings werden bereits erzielte Punkte bei den ausgewählten Kämpfen ebenfalls zurückgesetzt.
+[home/score_attack_020] Dein Gegner ist sehr stark, wodurch du es vielleicht nicht schaffst, diesen Kampf abzuschließen.
+
+Möchtest du trotzdem fortfahren?
+[home/score_attack_021] Dieser Kampf kann nicht wiederholt werden.
+[home/score_attack_022] Einer oder mehrere Gefährten deines
+Teams haben bereits einen anderen
+Kampf abgeschlossen. Bitte ändere die
+Aufstellung deines Teams.
+[home/score_attack_023] Hinweis: Wenn du die anderen Kämpfe zurücksetzt, ist
+es möglich, mit der aktuellen Aufstellung zu kämpfen.
+[home/score_attack_024] Empfohlener Typ
+[home/score_attack_025] Du kannst Kämpfe auswählen, die zurückgesetzt
+werden sollen, um diese erneut zu bestreiten.
+[home/score_attack_026] Punktzahl für jeden Kampf
+[home/score_attack_027] Details
+[home/score_attack_028] Zurücksetzen
+[home/score_attack_029] Regeln des Events
+[home/score_attack_030] Typ
+[home/score_attack_031] Wenn du Gefährten mit dem
+empfohlenen Typ im Team hast,
+wird die Basis-Punktzahl mit
+einem Multiplikator verrechnet.
+[home/score_attack_032] Anzahl der Gefährtengespanne
+[home/score_attack_033] [Digit:8digits ]
+[home/score_attack_034] Multiplikator
+[home/score_attack_035] × [Digit:8digits ]
+[home/score_attack_036] Hinweis: Du kannst nur Punkte erzielen, wenn du
+mindestens ein Gefährtengespann im Team hast,
+das dem empfohlenen Typ entspricht.
+[home/score_attack_037] Kampf
+[home/score_attack_038] Deine Basis-Punktzahl ergibt sich aus den
+Ergebnissen des Kampfes mit diesen Regeln:
+[home/score_attack_039] MAX
+[home/score_attack_040] Herausforderung
+[home/score_attack_041] Du kannst deine Basis-Punktzahl erhöhen,
+indem du folgende Bedingungen erfüllst:
+[home/score_attack_042] Basis
+[home/score_attack_043] Herausforderung
+[home/score_attack_044] Basis-Punktzahl-Details
+[home/score_attack_045] Basis-Punktzahl
+[home/score_attack_046] Eventregeln: Kampf
+[home/score_attack_047] Eventregeln: Herausforderung
+[home/score_attack_048] Gegnerische Stärkeerhöhung
+[home/score_attack_049] Bestpunktzahl
+[home/score_attack_050] Deine neue Bestpunktzahl wird aufgezeichnet, sobald deine Gesamtpunktzahl deine momentane Bestpunktzahl überschreitet, indem du alle Kämpfe abgeschlossen hast.
+[home/score_attack_051] Bestpunktzahl-Rangliste
+[home/score_attack_052] Medaille erhalten für das
+Erreichen des Meister-Rangs!
+[home/score_attack_053] Medaille bereits erhalten
+[home/score_attack_061] [Digit:8digits ] Punkte
+[home/score_attack_062] Punktzahl-Details
+[home/score_attack_063] Basis-Punktzahl
+[home/score_attack_064] Eventregeln: Kampf
+[home/score_attack_065] Eventregeln: Herausforderung
+[home/score_attack_066] Gegnerische Stärkeerhöhung
+[home/score_attack_067] Details anzeigen
+[home/score_attack_068] Multiplikator
+[home/score_attack_069] ×[Digit:3digits ]
+[home/score_attack_070] Punkte erhalten
+[home/score_attack_071] Gesamtpunktzahl
+[home/score_attack_072] Neue Bestpunktzahl!
+[home/score_attack_073] Stärke anpassen
+[home/score_attack_074] Du kannst deine Gegner stärker machen,
+um so deine Basis-Punktzahl zu erhöhen.
+[home/score_attack_075] Erreichbare Basis-Punktzahl
+[home/score_attack_076] ＋[Digit:8digits ]
+[home/score_attack_077] Stärkeerhöhung
+[home/score_attack_078] -10
+[home/score_attack_079] 10
+[home/score_attack_080] Hinweis: Die Menge, um die sich deine Basis-Punktzahl basierend
+auf Stärkeerhöhungen des Gegners ändert, erfolgt schrittweise.
+[home/score_attack_081] Bestpunktzahl-Optionen
+[home/score_attack_082] Du hast keine Gefährten vom empfohlenen Typ in deinem Team und wirst deshalb keine Punkte am Ende des Kampfes erhalten.
+
+Möchtest du trotzdem fortfahren?
+[home/score_attack_083] Eventregeln überprüfen
+[home/score_attack_084] Punktzahl-Multiplikator
+[home/score_attack_085] Exklusive Missionen
+[home/score_attack_086] Details zu Regeln
+[home/score_attack_087] Rekord: [Name:Time ]
+[home/score_attack_088] Rekord: [Digit:3digits ] %
+[home/score_attack_089] Rekord: [Digit:8digits ]
+[home/score_attack_091] Die Statuswerte deines Gegners werden auf
+dem Niveau von Gegnern im Champkampf
+Schwierigkeitsgrad Schwer Lv. 1 sein.
+[home/score_attack_092] Die Statuswerte deines Gegners werden doppelt
+so hoch wie von Gegnern im Champkampf
+Schwierigkeitsgrad Schwer Lv. 1 sein.
+[home/score_attack_093] Die Statuswerte deines Gegners werden dreimal
+so hoch wie von Gegnern im Champkampf
+Schwierigkeitsgrad Schwer Lv. 1 sein.
+[home/score_attack_094] Die Statuswerte deines Gegners werden viermal
+so hoch wie von Gegnern im Champkampf
+Schwierigkeitsgrad Schwer Lv. 1 sein.
+[home/score_attack_095] Die Statuswerte deines Gegners werden fünfmal
+so hoch wie von Gegnern im Champkampf
+Schwierigkeitsgrad Schwer Lv. 1 sein.
+[home/score_attack_096] Die Statuswerte deines Gegners werden ungefähr
+fünfmal so hoch oder mehr wie von Gegnern im
+Champkampf Schwierigkeitsgrad Schwer Lv. 1 sein.
+[home/score_attack_097] Stärkeregler
+[home/score_attack_098] ＋ [Digit:8digits ]
+[home/score_attack_099] Hinweis: Herausforderungen sind nicht für alle
+Kämpfe verfügbar.
+[home/score_attack_100] Eventbelohnungen
+[home/score_attack_101] Erstbonus
+[home/score_attack_102] Du kannst folgende Belohnungen erhalten, wenn
+du alle Kämpfe zum ersten Mal abschließt.
 
 ===========
 home_en.lsd
@@ -48815,6 +49742,8 @@ Are you sure you want to continue?
 [home/quest_list_055] Rally ongoing!
 [home/quest_list_056] Super Hard
 [home/quest_list_057] Ultra Hard
+[home/quest_list_058] Expert
+[home/quest_list_059] Master
 [home/quest_list_060] Pokémon Masters League:
 New chapter
 unlocked!
@@ -48966,7 +49895,7 @@ To unlock, collect more:
 the villain arc on Normal.
 [home/quest_list_175] BP Boost
 [home/quest_list_176] Event Under Way!
-[home/quest_detail_003] Recommended Types
+[home/quest_detail_003] Weakness
 [home/quest_detail_005] Area Details
 [home/quest_detail_009] Preset Teams
 [home/quest_detail_010] Edit
@@ -49595,8 +50524,8 @@ The special parameters and Pokémon your opponents use will also be reset, so yo
 the medal, you can test your skills
 on master mode!
 [home/champion_battle_060] Options
-[home/champion_battle_061] You can earn more points and rewards
-by making your opponents stronger.
+[home/champion_battle_061] The stronger you make your opponent, the more
+points you earn, and you can get extra rewards.
 [home/champion_battle_062] Record Total
 [home/champion_battle_063] Note: Points will be reset and completion rewards and total point rewards you’ve already claimed will become obtainable again starting [Name:DateTime ]. They cannot be obtained again using the Reset button.
 [home/champion_battle_064] This feature can be unlocked once
@@ -49716,6 +50645,130 @@ Successful Teams
 [home/battle_replay_036] You don’t have this sync pair.
 [home/battle_replay_037] No applicable grid skills.
 [home/battle_replay_038] No items will be used.
+[home/score_attack_001] Highest Total Score
+[home/score_attack_002] Current Total Score
+[home/score_attack_003] Rewards you have already received cannot be received
+again even if you perform a reset.
+[home/score_attack_004] After [Digit:8digits ] pts
+[home/score_attack_005] Every [Digit:8digits ] pts
+[home/score_attack_006] This Event’s Rules
+[home/score_attack_007] Raise your score with sync pairs that
+have the recommended type!
+[home/score_attack_008] Rule Details
+[home/score_attack_009] Score Details
+[home/score_attack_010] Sync Pairs Used
+[home/score_attack_011] Challenge
+[home/score_attack_012] Current Total Score
+[home/score_attack_013] Rewards
+[home/score_attack_014] VS
+[home/score_attack_015] Reset
+[home/score_attack_016] Ranking
+[home/score_attack_018] The ranking feature will be unlocked when you complete all battles.
+[home/score_attack_019] Are you sure you want to reset the completion status of the selected battles?
+
+Once you reset, you’ll be able to use the sync pairs that were previously used on your team, but the scores you earned in these battles will also be reset.
+[home/score_attack_020] Your opponent is very strong, so you may not be able to complete this battle.
+
+Are you sure you want to continue?
+[home/score_attack_021] You can’t replay this battle.
+[home/score_attack_022] One or more sync pairs on your team have already completed another battle.
+Please edit your team.
+[home/score_attack_023] Note: You can battle if you reset the other battles.
+[home/score_attack_024] Recommended Type
+[home/score_attack_025] You can select battles to reset in order to give them another try.
+[home/score_attack_026] Scores for Each Battle
+[home/score_attack_027] Details
+[home/score_attack_028] Reset
+[home/score_attack_029] Event Rules
+[home/score_attack_030] Type
+[home/score_attack_031] Adding sync pairs with the
+recommended type to your
+team will add a multiplier to
+your base score.
+[home/score_attack_032] Number of Sync Pairs
+[home/score_attack_033] [Digit:8digits ] [EN:Qty S="Pair" P="Pairs" ]
+[home/score_attack_034] Multiplier
+[home/score_attack_035] ×[Digit:8digits ]
+[home/score_attack_036] Note: You can’t obtain a score unless you have
+at least one sync pair with the recommended type
+on your team.
+[home/score_attack_037] Battle
+[home/score_attack_038] Your base score will be determined by the results of your battle, which has the following rules applied:
+[home/score_attack_039] Max
+[home/score_attack_040] Challenge
+[home/score_attack_041] You can add more points to your base score by meeting the following requirements:
+[home/score_attack_042] Base
+[home/score_attack_043] Challenge
+[home/score_attack_044] Base Score Details
+[home/score_attack_045] Base Score
+[home/score_attack_046] Event Rules: Battle
+[home/score_attack_047] Event Rules: Challenge
+[home/score_attack_048] Opponent Strength Increase
+[home/score_attack_049] Best Score
+[home/score_attack_050] Your best score will be updated when your total score surpasses your current best score upon completing all battles.
+[home/score_attack_051] Best Score Ranking
+[home/score_attack_052] Medal awarded for reaching
+Master Rank!
+[home/score_attack_053] Medal already acquired
+[home/score_attack_061] [Digit:8digits ] pts
+[home/score_attack_062] Score Details
+[home/score_attack_063] Base Score
+[home/score_attack_064] Event Rules: Battle
+[home/score_attack_065] Event Rules: Challenge
+[home/score_attack_066] Opponent Strength Increase
+[home/score_attack_067] Detailed View
+[home/score_attack_068] Multiplier
+[home/score_attack_069] ×[Digit:3digits ]
+[home/score_attack_070] Score Obtained
+[home/score_attack_071] Total Score
+[home/score_attack_072] New Best Score!
+[home/score_attack_073] Strength Adjustment
+[home/score_attack_074] You can make your opponent stronger to
+raise your base score.
+[home/score_attack_075] Obtainable Base Score
+[home/score_attack_076] ＋[Digit:8digits ]
+[home/score_attack_077] Strength Increase
+[home/score_attack_078] -10
+[home/score_attack_079] 10
+[home/score_attack_080] Note: The amount your base score changes based on
+strength increases will change gradually.
+[home/score_attack_081] Best Score Options
+[home/score_attack_082] You don’t have any sync pairs with the recommended type on your team, so you won’t be able to earn a score even if you complete the battle.
+
+Are you sure you want to continue?
+[home/score_attack_083] Check Event Rules
+[home/score_attack_084] Score Multiplier
+[home/score_attack_085] Exclusive Missions
+[home/score_attack_086] Rule Details
+[home/score_attack_087] Record [Name:Time ]
+[home/score_attack_088] Record [Digit:3digits ]%
+[home/score_attack_089] Record [Digit:8digits ]
+[home/score_attack_091] Your opponent’s stats will be roughly
+equivalent to those of opponents
+in Champion Stadium Hard Lv. 1.
+[home/score_attack_092] Your opponent’s stats will be roughly
+equivalent to two times those of opponents
+in Champion Stadium Hard Lv. 1.
+[home/score_attack_093] Your opponent’s stats will be roughly
+equivalent to three times those of opponents
+in Champion Stadium Hard Lv. 1.
+[home/score_attack_094] Your opponent’s stats will be roughly
+equivalent to four times those of opponents
+in Champion Stadium Hard Lv. 1.
+[home/score_attack_095] Your opponent’s stats will be roughly
+equivalent to five times those of opponents
+in Champion Stadium Hard Lv. 1.
+[home/score_attack_096] Your opponent’s stats will be five or more
+times those of opponents in Champion Stadium
+Hard Lv. 1.
+[home/score_attack_097] Strength Setting
+[home/score_attack_098] ＋[Digit:8digits ]
+[home/score_attack_099] Note: Challenge rules may be unachievable in
+some battles.
+[home/score_attack_100] Event rewards
+[home/score_attack_101] First-time rewards
+[home/score_attack_102] You can obtain the following rewards when
+you complete each battle for the first time.
 
 ===========
 home_es.lsd
@@ -49795,6 +50848,8 @@ estadio anterior.
 [home/quest_list_055] ¡Promoción en curso!
 [home/quest_list_056] Experto
 [home/quest_list_057] Superexperto
+[home/quest_list_058] Ultraexperto
+[home/quest_list_059] Maestro
 [home/quest_list_060] World Pokémon Masters
 Nuevo capítulo
 desbloqueado
@@ -49951,7 +51006,7 @@ capítulo[ES:Qty P="s" ] de la trama equipo villano en
 dificultad normal.
 [home/quest_list_175] Puntos de combate ↑
 [home/quest_list_176] ¡Evento en curso!
-[home/quest_detail_003] Tipos recomendados
+[home/quest_detail_003] Debilidad
 [home/quest_detail_005] Detalles
 [home/quest_detail_009] Elegir equipo
 [home/quest_detail_010] Cambiar formación
@@ -50770,6 +51825,145 @@ victoriosos
 [home/battle_replay_036] No tienes los compis necesarios.
 [home/battle_replay_037] No hay habilidades orbe que aplicar.
 [home/battle_replay_038] No se usará ningún objeto.
+[home/score_attack_001] Punt. máxima
+[home/score_attack_002] Punt. actual
+[home/score_attack_003] Nota: No podrás volver a recibir los premios que ya hayas
+obtenido aunque elijas la opción Restablecer.
+[home/score_attack_004] Más de [Digit:8digits ] punto[ES:Qty P="s" ]
+[home/score_attack_005] Cada [Digit:8digits ] ptos.
+[home/score_attack_006] Normas de este evento
+[home/score_attack_007] ¡Alcanza la mayor puntuación
+posible usando compis del tipo
+recomendado!
+[home/score_attack_008] Detalles de las normas
+[home/score_attack_009] Detalles de la puntuación
+[home/score_attack_010] Compis usados
+[home/score_attack_011] Desafiar
+[home/score_attack_012] Punt. actual
+[home/score_attack_013] Premios
+[home/score_attack_014] VS.
+[home/score_attack_015] Restablecer
+[home/score_attack_016] Clasificación
+[home/score_attack_018] La clasificación estará disponible tras
+completar todos los combates.
+[home/score_attack_019] ¿Seguro que quieres restablecer los
+combates seleccionados?
+
+Una vez restablecidos, podrás volver a
+usar compis que ya hayan participado,
+pero perderás las puntuaciones que
+hayas conseguido en dichos combates.
+[home/score_attack_020] Tu oponente es muy fuerte, por lo que
+es posible que no ganes este combate.
+
+¿Seguro que quieres continuar?
+[home/score_attack_021] Este combate no admite repeticiones.
+[home/score_attack_022] No puedes participar con compis que
+ya hayan participado en otro combate.
+[home/score_attack_023] Nota: Puedes participar con ellos si restableces los otros
+combates.
+[home/score_attack_024] Tipo recomendado
+[home/score_attack_025] Elige los combates que quieras restablecer para
+poder volver a afrontarlos.
+[home/score_attack_026] Puntuación de cada combate
+[home/score_attack_027] Detalles
+[home/score_attack_028] Restablecer
+[home/score_attack_029] Normas del evento
+[home/score_attack_030] Tipo
+[home/score_attack_031] Forma un equipo con compis
+del tipo recomendado para
+aplicar un multiplicador a tu
+puntuación base.
+[home/score_attack_032] Número de compis
+[home/score_attack_033] [Digit:8digits ]
+[home/score_attack_034] Multiplicador
+[home/score_attack_035] ×[Digit:8digits ]
+[home/score_attack_036] Aviso: No recibirás ningún punto si tu equipo
+no contiene como mínimo una pareja de compis
+del tipo recomendado.
+[home/score_attack_037] Combate
+[home/score_attack_038] Tu puntuación base depende del resultado
+de los combates, que tienen estas normas:
+[home/score_attack_039] Máx.
+[home/score_attack_040] Retos
+[home/score_attack_041] Puedes sumar más puntos a tu puntuación
+base si cumples alguna de estas normas:
+[home/score_attack_042] Base
+[home/score_attack_043] Retos
+[home/score_attack_044] Detalles de la punt. base
+[home/score_attack_045] Punt. base
+[home/score_attack_046] Normas del ev.: combate
+[home/score_attack_047] Normas del ev.: retos
+[home/score_attack_048] Aum. de fuerza del rival
+[home/score_attack_049] Puntuación máxima
+[home/score_attack_050] Tu puntuación máxima se actualizará cuando
+la puntuación total supere tu récord actual tras
+completar todos los combates.
+[home/score_attack_051] Clasificación de puntuaciones máximas
+[home/score_attack_052] ¡Has conseguido un emblema
+por alcanzar el rango Master!
+[home/score_attack_053] Ya tienes el emblema.
+[home/score_attack_061] [Digit:8digits ] ptos.
+[home/score_attack_062] Detalles de la puntuación
+[home/score_attack_063] Punt. base
+[home/score_attack_064] Normas del evento: combate
+[home/score_attack_065] Normas del evento: retos
+[home/score_attack_066] Aumento de fuerza del rival
+[home/score_attack_067] Detallada
+[home/score_attack_068] Multiplicador
+[home/score_attack_069] ×[Digit:3digits ]
+[home/score_attack_070] Punt. obtenida
+[home/score_attack_071] Puntuación total
+[home/score_attack_072] ¡Nueva punt. máxima!
+[home/score_attack_073] Ajuste de fuerza
+[home/score_attack_074] Puedes fortalecer a tus oponentes para
+aumentar tu puntuación base.
+[home/score_attack_075] Puntuación base que podrás conseguir
+[home/score_attack_076] ＋[Digit:8digits ]
+[home/score_attack_077] Aumento de fuerza
+[home/score_attack_078] -10
+[home/score_attack_079] 10
+[home/score_attack_080] Nota: La cantidad de puntos que se obtiene con cada
+aumento de fuerza varía de forma gradual.
+[home/score_attack_081] Mayor aumento de fuerza
+[home/score_attack_082] Tu equipo no contiene ninguna pareja
+de compis del tipo recomendado, por
+lo que no recibirás ningún punto.
+
+¿Seguro que quieres continuar?
+[home/score_attack_083] Ver normas del evento
+[home/score_attack_084] Multiplicador
+[home/score_attack_085] Misiones exclusivas
+[home/score_attack_086] Detalles de las normas
+[home/score_attack_087] Récord: [Name:Time ]
+[home/score_attack_088] Récord: [Digit:3digits ]%
+[home/score_attack_089] Récord: [Digit:8digits ]
+[home/score_attack_091] Las características de tu oponente equivaldrán
+a las que tendría en los Combates de
+Campeones en Difícil (nivel 1).
+[home/score_attack_092] Las características de tu oponente equivaldrán
+al doble de las que tendría en los Combates
+de Campeones en Difícil (nivel 1).
+[home/score_attack_093] Las características de tu oponente equivaldrán
+al triple de las que tendría en los Combates
+de Campeones en Difícil (nivel 1).
+[home/score_attack_094] Las características de tu oponente equivaldrán
+al cuádruple de las que tendría en los
+Combates de Campeones en Difícil (nivel 1).
+[home/score_attack_095] Las características de tu oponente equivaldrán
+al quíntuple de las que tendría en los
+Combates de Campeones en Difícil (nivel 1).
+[home/score_attack_096] Las características de tu oponente equivaldrán
+a más del quíntuple de las que tendría en los
+Combates de Campeones en Difícil (nivel 1).
+[home/score_attack_097] Aumento de fuerza
+[home/score_attack_098] ＋[Digit:8digits ]
+[home/score_attack_099] Nota: Es posible que algunos combates no se
+puedan completar con normas de retos.
+[home/score_attack_100] Premios de evento
+[home/score_attack_101] Primera vez
+[home/score_attack_102] Puedes obtener los siguientes premios al
+completar cada combate por primera vez.
 
 ===========
 home_fr.lsd
@@ -50850,6 +52044,8 @@ Voulez-vous vraiment continuer ?
 [home/quest_list_055] Campagne en cours !
 [home/quest_list_056] Expert
 [home/quest_list_057] Super Expert
+[home/quest_list_058] Hyper Expert
+[home/quest_list_059] Master Expert
 [home/quest_list_060] World Pokémon Masters
 Nouveau chapitre
 débloqué !
@@ -51011,7 +52207,7 @@ chapitre[FR:Qty P="s" ] de « L'organisation maléfique »
 au niveau Normal.
 [home/quest_list_175] Boost Points de Combat
 [home/quest_list_176] Évènement en cours !
-[home/quest_detail_003] Types conseillés
+[home/quest_detail_003] Faiblesse
 [home/quest_detail_005] Infos
 [home/quest_detail_009] Équipes
 [home/quest_detail_010] Duos
@@ -51895,6 +53091,156 @@ de Duo-Sphères.
 nécessaire(s).
 [home/battle_replay_037] Aucun talent Sphère à appliquer.
 [home/battle_replay_038] Aucun objet ne sera utilisé.
+[home/score_attack_001] Meilleur score total
+[home/score_attack_002] Score total actuel
+[home/score_attack_003] Vous ne pouvez pas obtenir à nouveau les récompenses
+déjà reçues, même en réinitialisant votre progression.
+[home/score_attack_004] Au-delà de [Digit:8digits ] pts
+[home/score_attack_005] Tous les [Digit:8digits ] pts
+[home/score_attack_006] Règles de cet évènement
+[home/score_attack_007] Augmentez votre score avec
+des Duos du type recommandé !
+[home/score_attack_008] Détails des règles
+[home/score_attack_009] Détails du score
+[home/score_attack_010] Duos utilisés
+[home/score_attack_011] Défi
+[home/score_attack_012] Score total actuel
+[home/score_attack_013] Récompenses
+[home/score_attack_014] Contre
+[home/score_attack_015] Réinitialiser
+[home/score_attack_016] Classement
+[home/score_attack_018] Le classement sera débloqué
+quand vous aurez terminé
+tous les combats.
+[home/score_attack_019] La progression des combats
+sélectionnés va être réinitialisée.
+Voulez-vous vraiment continuer ?
+
+Après la réinitialisation, les Duos
+précédemment utilisés pourront
+à nouveau réintégrer votre équipe
+et combattre. Cependant, les scores
+obtenus au cours de ces combats
+seront eux aussi réinitialisés.
+[home/score_attack_020] Votre adversaire est très puissant.
+Vous risquez de ne pas remporter
+ce combat.
+
+Voulez-vous vraiment continuer ?
+[home/score_attack_021] Vous ne pouvez pas rediffuser
+ce combat.
+[home/score_attack_022] Un ou plusieurs Duos de votre équipe
+ont déjà remporté un autre combat.
+Veuillez modifier votre équipe.
+[home/score_attack_023] Remarque : réinitialiser les autres combats
+vous permettra de jouer avec cette équipe.
+[home/score_attack_024] Type recommandé
+[home/score_attack_025] Vous pouvez sélectionner des combats
+à réinitialiser pour retenter votre chance.
+[home/score_attack_026] Scores de chaque combat
+[home/score_attack_027] Détails
+[home/score_attack_028] Réinitialiser
+[home/score_attack_029] Règles de l'évènement
+[home/score_attack_030] Type
+[home/score_attack_031] Ajouter des Duos du type
+recommandé à votre équipe
+appliquera un multiplicateur
+à votre score de base.
+[home/score_attack_032] Nombre de Duos
+[home/score_attack_033] [Digit:8digits ] [FR:Qty S="Duo" P="Duos" ]
+[home/score_attack_034] Multiplicateur
+[home/score_attack_035] × [Digit:8digits ]
+[home/score_attack_036] Vous n'obtiendrez pas de score si vous n'avez
+pas au moins un Duo du type recommandé
+dans votre équipe.
+[home/score_attack_037] Combat
+[home/score_attack_038] Votre score de base sera déterminé par les résultats
+de votre combat, auquel les règles suivantes s'appliquent :
+[home/score_attack_039] Max
+[home/score_attack_040] Défi
+[home/score_attack_041] Ajoutez des points à votre score de base
+en remplissant les conditions suivantes :
+[home/score_attack_042] Base
+[home/score_attack_043] Défi
+[home/score_attack_044] Détails du score de base
+[home/score_attack_045] Score de base
+[home/score_attack_046] Règles de l'évènement : combat
+[home/score_attack_047] Règles de l'évènement : défi
+[home/score_attack_048] Augmentation de la puissance de l'adversaire
+[home/score_attack_049] Meilleur score
+[home/score_attack_050] Votre meilleur score est mis à jour si
+votre nouveau score total est supérieur
+à votre meilleur score actuel une fois
+tous les combats remportés.
+[home/score_attack_051] Classement du meilleur score
+[home/score_attack_052] Emblème obtenu pour avoir
+atteint le rang Master !
+[home/score_attack_053] Emblème déjà obtenu
+[home/score_attack_061] [Digit:8digits ] pt[FR:Qty P="s" ]
+[home/score_attack_062] Détails du score
+[home/score_attack_063] Score de base
+[home/score_attack_064] Règles de l'évènement : combat
+[home/score_attack_065] Règles de l'évènement : défi
+[home/score_attack_066] Augmentation de la puissance de l'adversaire
+[home/score_attack_067] Voir les détails
+[home/score_attack_068] Multiplicateur
+[home/score_attack_069] × [Digit:3digits ]
+[home/score_attack_070] Score obtenu
+[home/score_attack_071] Score total
+[home/score_attack_072] Nouveau meilleur score !
+[home/score_attack_073] Ajustement de la puissance
+[home/score_attack_074] Vous pouvez augmenter votre score de base
+en rendant votre adversaire plus puissant.
+[home/score_attack_075] Score de base que vous pouvez obtenir
+[home/score_attack_076] ＋ [Digit:8digits ]
+[home/score_attack_077] Ajustement de la puissance
+[home/score_attack_078] -10
+[home/score_attack_079] 10
+[home/score_attack_080] Le score de base que vous pouvez obtenir dépend
+de la valeur de l'ajustement de la puissance.
+[home/score_attack_081] Options meilleur score
+[home/score_attack_082] Vous n'avez aucun Duo du type
+recommandé dans votre équipe.
+Vous ne pourrez donc pas obtenir
+de score, même si vous remportez
+le combat.
+
+Voulez-vous vraiment continuer ?
+[home/score_attack_083] Consulter les règles
+de l'évènement
+[home/score_attack_084] Multiplicateur de score
+[home/score_attack_085] Missions exclusives
+[home/score_attack_086] Détails des règles
+[home/score_attack_087] Record : [Name:Time ]
+[home/score_attack_088] Record : [Digit:3digits ] %
+[home/score_attack_089] Record : [Digit:8digits ]
+[home/score_attack_091] Les stats de votre adversaire seront à peu près
+équivalentes à celles des ennemis du Combat
+de Maître en difficulté « Difficile N. 1 ».
+[home/score_attack_092] Les stats de votre adversaire seront à peu près
+équivalentes à deux fois celles des ennemis d'un
+Combat de Maître en difficulté « Difficile N. 1 ».
+[home/score_attack_093] Les stats de votre adversaire seront à peu près
+équivalentes à trois fois celles des ennemis d'un
+Combat de Maître en difficulté « Difficile N. 1 ».
+[home/score_attack_094] Les stats de votre adversaire seront à peu près
+équivalentes à quatre fois celles des ennemis d'un
+Combat de Maître en difficulté « Difficile N. 1 ».
+[home/score_attack_095] Les stats de votre adversaire seront à peu près
+équivalentes à cinq fois celles des ennemis d'un
+Combat de Maître en difficulté « Difficile N. 1 ».
+[home/score_attack_096] Les stats de votre adversaire seront à peu près
+équivalentes à au moins cinq fois celles des ennemis
+d'un Combat de Maître en difficulté « Difficile N. 1 ».
+[home/score_attack_097] Paramètre de puissance
+[home/score_attack_098] ＋ [Digit:8digits ]
+[home/score_attack_099] Remarque : les règles des défis peuvent être
+incompatibles avec certains combats.
+[home/score_attack_100] Récompenses d'évènement
+[home/score_attack_101] Récompenses (1re fois)
+[home/score_attack_102] Vous pouvez obtenir les récompenses
+suivantes lorsque vous remportez
+chaque combat pour la première fois.
 
 ===========
 home_it.lsd
@@ -51976,6 +53322,8 @@ Vuoi partire comunque?
 [home/quest_list_055] Campagna in corso
 [home/quest_list_056] Esperto
 [home/quest_list_057] Mega esperto
+[home/quest_list_058] Ultra esperto
+[home/quest_list_059] Master
 [home/quest_list_060] Nuovo capitolo
 World Pokémon Masters
 sbloccato!
@@ -52130,7 +53478,7 @@ Ti serve: [Name:Item ].
 di "I gruppi malvagi" in modalità normale.
 [home/quest_list_175] Bonus Punti Lotta
 [home/quest_list_176] Evento in corso!
-[home/quest_detail_003] Tipi consigliati
+[home/quest_detail_003] Punti deboli
 [home/quest_detail_005] Info area
 [home/quest_detail_009] Scegli squadra
 [home/quest_detail_010] Modifica
@@ -52982,6 +54330,149 @@ vincenti
 [home/battle_replay_036] Non possiedi le Unità necessarie.
 [home/battle_replay_037] Non hai tecabilità da attivare.
 [home/battle_replay_038] Non verranno usati strumenti.
+[home/score_attack_001] Punteggio totale più alto
+[home/score_attack_002] Punteggio totale attuale
+[home/score_attack_003] Le ricompense già ottenute non potranno essere ottenute
+di nuovo neanche dopo aver effettuato un ripristino.
+[home/score_attack_004] A partire da [Digit:8digits ] punti
+[home/score_attack_005] Ogni [Digit:8digits ] punti
+[home/score_attack_006] Regole di questa edizione
+[home/score_attack_007] Aumenta il tuo punteggio con Unità
+del tipo consigliato!
+[home/score_attack_008] Info regole
+[home/score_attack_009] Punteggio ottenuto
+[home/score_attack_010] Squadra utilizzata
+[home/score_attack_011] Sfida!
+[home/score_attack_012] Punteggio totale attuale
+[home/score_attack_013] Ricompense
+[home/score_attack_014] VS
+[home/score_attack_015] Ripristina
+[home/score_attack_016] Classifica
+[home/score_attack_018] La classifica verrà sbloccata una volta
+completate tutte le lotte.
+[home/score_attack_019] Vuoi davvero ripristinare le lotte
+completate che hai selezionato?
+
+Se effettui il ripristino, ti sarà possibile
+schierare di nuovo le Unità inserite
+in squadra in precedenza, ma verrà
+ripristinato anche il punteggio ottenuto
+in queste lotte.
+[home/score_attack_020] Il tuo avversario è molto potente
+e potresti non essere in grado
+di completare questa lotta.
+
+Vuoi davvero procedere?
+[home/score_attack_021] Non puoi utilizzare la funzione replay
+per questa lotta.
+[home/score_attack_022] Non puoi partire perché hai inserito
+in squadra una o più Unità che hanno
+già vinto altre lotte.
+[home/score_attack_023] Se ripristini le altre lotte, potrai partire con
+questa squadra.
+[home/score_attack_024] Tipo consigliato
+[home/score_attack_025] Puoi selezionare delle lotte da ripristinare
+per fare un altro tentativo.
+[home/score_attack_026] Punteggio in ciascuna lotta
+[home/score_attack_027] Dettagli
+[home/score_attack_028] Ripristina
+[home/score_attack_029] Regole dell'evento
+[home/score_attack_030] Tipo
+[home/score_attack_031] Se inserisci in squadra Unità
+del tipo consigliato, verrà
+applicato un moltiplicatore
+al tuo punteggio base.
+[home/score_attack_032] Unità in squadra
+[home/score_attack_033] [Digit:8digits ]
+[home/score_attack_034] Moltiplicatore
+[home/score_attack_035] ×[Digit:8digits ]
+[home/score_attack_036] Non puoi ottenere punti se non metti in squadra
+almeno un'Unità del tipo consigliato.
+[home/score_attack_037] Lotta
+[home/score_attack_038] Il tuo punteggio base dipende dai risultati
+della lotta. Si applicano le seguenti regole:
+[home/score_attack_039] Max
+[home/score_attack_040] Sfida
+[home/score_attack_041] Puoi aumentare il tuo punteggio base
+soddisfacendo le seguenti condizioni:
+[home/score_attack_042] Base
+[home/score_attack_043] Sfida
+[home/score_attack_044] Dettagli punteggio base
+[home/score_attack_045] Punteggio base
+[home/score_attack_046] Regole della lotta
+[home/score_attack_047] Regole sfida
+[home/score_attack_048] Aumento potenza avversari
+[home/score_attack_049] Punteggio migliore
+[home/score_attack_050] Il tuo punteggio migliore viene aggiornato
+quando, una volta completate tutte le lotte,
+il punteggio totale supera il tuo punteggio
+migliore attuale.
+[home/score_attack_051] Classifica punteggi migliori
+[home/score_attack_052] Emblema ottenibile una volta
+raggiunto il rango Master!
+[home/score_attack_053] Emblema già ottenuto
+[home/score_attack_061] [Digit:8digits ]
+[home/score_attack_062] Dettagli punteggio
+[home/score_attack_063] Punteggio base
+[home/score_attack_064] Regole della lotta
+[home/score_attack_065] Regole sfida
+[home/score_attack_066] Aumento potenza avversari
+[home/score_attack_067] Dettagli
+[home/score_attack_068] Moltiplicatore
+[home/score_attack_069] ×[Digit:3digits ]
+[home/score_attack_070] Punteggio ottenuto
+[home/score_attack_071] Punteggio totale
+[home/score_attack_072] Nuovo record!
+[home/score_attack_073] Regola potenza
+[home/score_attack_074] Puoi aumentare la potenza degli avversari
+per aumentare il tuo punteggio base.
+[home/score_attack_075] Punteggio base ottenibile
+[home/score_attack_076] ＋[Digit:8digits ]
+[home/score_attack_077] Aumento potenza
+[home/score_attack_078] -10
+[home/score_attack_079] 10
+[home/score_attack_080] La variazione del tuo punteggio base dovuta
+all'aumento della potenza cambia gradualmente.
+[home/score_attack_081] Nella lotta del punteggio migliore
+[home/score_attack_082] Non hai inserito in squadra nessuna
+Unità del tipo consigliato, pertanto
+non otterrai un punteggio neanche
+se completi la lotta.
+
+Vuoi davvero procedere?
+[home/score_attack_083] Consulta le regole dell'evento
+[home/score_attack_084] Moltiplicatore
+[home/score_attack_085] Missioni esclusive
+[home/score_attack_086] Info regole
+[home/score_attack_087] Record: [Name:Time ]
+[home/score_attack_088] Record: [Digit:3digits ]%
+[home/score_attack_089] Record: [Digit:8digits ]
+[home/score_attack_091] Le statistiche dei tuoi avversari equivarranno
+all'incirca a quelle della difficoltà "Difficile L. 1"
+della Lotta dei Campioni.
+[home/score_attack_092] Le statistiche dei tuoi avversari equivarranno
+a circa due volte quelle della difficoltà
+"Difficile L. 1" della Lotta dei Campioni.
+[home/score_attack_093] Le statistiche dei tuoi avversari equivarranno
+a circa tre volte quelle della difficoltà
+"Difficile L. 1" della Lotta dei Campioni.
+[home/score_attack_094] Le statistiche dei tuoi avversari equivarranno
+a circa quattro volte quelle della difficoltà
+"Difficile L. 1" della Lotta dei Campioni.
+[home/score_attack_095] Le statistiche dei tuoi avversari equivarranno
+a circa cinque volte quelle della difficoltà
+"Difficile L. 1" della Lotta dei Campioni.
+[home/score_attack_096] Le statistiche dei tuoi avversari equivarranno a
+circa cinque volte o più quelle della difficoltà
+"Difficile L. 1" della Lotta dei Campioni.
+[home/score_attack_097] Impostazione potenza
+[home/score_attack_098] ＋[Digit:8digits ]
+[home/score_attack_099] In alcune lotte potrebbe essere impossibile
+soddisfare le condizioni delle regole sfida.
+[home/score_attack_100] Ricompense evento
+[home/score_attack_101] Prima ricompensa
+[home/score_attack_102] Completando ciascuna lotta per la prima
+volta puoi ottenere le seguenti ricompense.
 
 ===========
 home_ja.lsd
@@ -53063,6 +54554,8 @@ home_ja.lsd
 [home/quest_list_055] キャンペーン中
 [home/quest_list_056] EXPERT
 [home/quest_list_057] SUPER EXPERT
+[home/quest_list_058] HYPER EXPERT
+[home/quest_list_059] MASTER EXPERT
 [home/quest_list_060] 新しいメインストーリー
 ワールドポケモンマスターズ
 解放！
@@ -53215,7 +54708,7 @@ Lv.[Digit:2digits ]で解放
 [Digit:2digits ]種　全クリアすることで解放
 [home/quest_list_175] バトルポイントアップ
 [home/quest_list_176] イベント開催中
-[home/quest_detail_003] おすすめのタイプ
+[home/quest_detail_003] じゃくてんタイプ
 [home/quest_detail_005] エリア詳細
 [home/quest_detail_009] チーム選択
 [home/quest_detail_010] 編成
@@ -54053,6 +55546,141 @@ GRADE一覧に戻ります
 [home/battle_replay_036] バディーズを所持していません
 [home/battle_replay_037] 適用できるボードスキルがありません
 [home/battle_replay_038] どうぐの消費はありません
+[home/score_attack_001] 最高合計スコア
+[home/score_attack_002] 現在の合計スコア
+[home/score_attack_003] ※獲得済の報酬はリセットしても再度獲得できません
+[home/score_attack_004] [Digit:8digits ]pt以降
+[home/score_attack_005] [Digit:8digits ]ptごと
+[home/score_attack_006] 今回のイベントルール
+[home/score_attack_007] 推奨タイプの
+バディーズと一緒に
+スコアを集めよう！
+[home/score_attack_008] ルール詳細
+[home/score_attack_009] 獲得スコア詳細
+[home/score_attack_010] 使用したバディーズ
+[home/score_attack_011] 挑戦する
+[home/score_attack_012] 現在の合計スコア
+[home/score_attack_013] 報酬一覧
+[home/score_attack_014] VS
+[home/score_attack_015] リセット
+[home/score_attack_016] ランキング
+[home/score_attack_018] 全てのバトルをクリアすると
+ランキング機能が解放されます
+[home/score_attack_019] 選択したバトルのクリア状況を
+本当にリセットしますか？
+
+リセットすると編成したバディーズが
+再度使用できますが
+バトルで獲得したスコアもリセットされます
+[home/score_attack_020] 相手のつよさが非常に高くなっているので
+バトルをクリアできない可能性があります
+
+このまま挑戦しますか？
+[home/score_attack_021] このバトルではリプレイ機能は
+使用できません
+[home/score_attack_022] 他のバトルで既に編成した
+バディーズが編成されているため
+出発できません
+[home/score_attack_023] ※他のバトルをリセットすると
+出発できます
+[home/score_attack_024] 推奨タイプ
+[home/score_attack_025] 選択したバトルをリセットすることで
+再度挑戦することができます
+[home/score_attack_026] 各バトルの獲得スコア
+[home/score_attack_027] 詳細
+[home/score_attack_028] リセットする
+[home/score_attack_029] イベントルール
+[home/score_attack_030] タイプ
+[home/score_attack_031] 推奨タイプのバディーズを
+編成することで
+基本スコアに倍率がかかります
+[home/score_attack_032] 編成数
+[home/score_attack_033] [Digit:8digits ]組
+[home/score_attack_034] 倍率
+[home/score_attack_035] ×[Digit:8digits ]
+[home/score_attack_036] ※推奨タイプのバディーズを
+1組も編成していない場合はスコアを獲得できません
+[home/score_attack_037] バトル
+[home/score_attack_038] 以下のルールに応じたバトル中の結果によって
+基本スコアを獲得できます
+[home/score_attack_039] 最大
+[home/score_attack_040] チャレンジ
+[home/score_attack_041] 以下の条件を達成することで
+基本スコアをさらに獲得できます
+[home/score_attack_042] 基本
+[home/score_attack_043] チャレンジ
+[home/score_attack_044] 基本スコア詳細
+[home/score_attack_045] 基本スコア
+[home/score_attack_046] イベントルール：バトル
+[home/score_attack_047] イベントルール：チャレンジ
+[home/score_attack_048] 相手のつよさ上昇
+[home/score_attack_049] ベストスコア
+[home/score_attack_050] ※全てのバトルをクリアした時の合計スコアが
+現在のベストスコアを上回ると更新されます
+[home/score_attack_051] ベストスコアランキング
+[home/score_attack_052] マスターランク入賞で
+エンブレム獲得！
+[home/score_attack_053] エンブレム獲得済
+[home/score_attack_061] [Digit:8digits ]pt
+[home/score_attack_062] スコア詳細
+[home/score_attack_063] 基本スコア
+[home/score_attack_064] イベントルール：バトル
+[home/score_attack_065] イベントルール：チャレンジ
+[home/score_attack_066] 相手のつよさ上昇
+[home/score_attack_067] 詳細表示
+[home/score_attack_068] 倍率
+[home/score_attack_069] ×[Digit:3digits ]
+[home/score_attack_070] 獲得スコア
+[home/score_attack_071] 合計スコア
+[home/score_attack_072] ベストスコア更新！
+[home/score_attack_073] つよさ調整
+[home/score_attack_074] 相手のつよさを上げることで
+基本スコアをさらに獲得することができます
+[home/score_attack_075] 獲得できる基本スコア
+[home/score_attack_076] ＋[Digit:8digits ]
+[home/score_attack_077] つよさ上昇
+[home/score_attack_078] －10
+[home/score_attack_079] ＋10
+[home/score_attack_080] ※つよさ上昇による基本スコアの増加量は
+徐々に変化します
+[home/score_attack_081] ベストスコアの設定
+[home/score_attack_082] 推奨タイプが1組も編成されていません
+このまま出発してバトルをクリアしても
+スコアは獲得できません
+
+本当に出発しますか？
+[home/score_attack_083] イベントルールを確認する
+[home/score_attack_084] スコア倍率
+[home/score_attack_085] 専用ミッション
+[home/score_attack_086] ルール詳細
+[home/score_attack_087] 記録 [Name:Time ]
+[home/score_attack_088] 記録 [Digit:3digits ]%
+[home/score_attack_089] 記録 [Digit:8digits ]
+[home/score_attack_091] 相手のステータスは
+チャンピオンバトル「HARD Lv.1」相当になります
+[home/score_attack_092] 相手のステータスは
+チャンピオンバトル「HARD Lv.1」の
+2倍相当になります
+[home/score_attack_093] 相手のステータスは
+チャンピオンバトル「HARD Lv.1」の
+3倍相当になります
+[home/score_attack_094] 相手のステータスは
+チャンピオンバトル「HARD Lv.1」の
+4倍相当になります
+[home/score_attack_095] 相手のステータスは
+チャンピオンバトル「HARD Lv.1」の
+5倍相当になります
+[home/score_attack_096] 相手のステータスは
+チャンピオンバトル「HARD Lv.1」の
+5倍以上になります
+[home/score_attack_097] つよさの設定
+[home/score_attack_098] ＋[Digit:8digits ]
+[home/score_attack_099] ※チャレンジルールを達成できないバトルが
+開催されている場合もあります
+[home/score_attack_100] イベント報酬
+[home/score_attack_101] 初回報酬
+[home/score_attack_102] それぞれのバトルを初めてクリアすると
+以下の報酬が獲得できます
 
 ===========
 home_ko.lsd
@@ -54134,6 +55762,8 @@ home_ko.lsd
 [home/quest_list_055] 캠페인 중
 [home/quest_list_056] EXPERT
 [home/quest_list_057] SUPER EXPERT
+[home/quest_list_058] HYPER EXPERT
+[home/quest_list_059] MASTER EXPERT
 [home/quest_list_060] 새로운 메인 스토리
 월드 포켓몬 마스터즈
 해방!
@@ -54286,7 +55916,7 @@ Lv.[Digit:2digits ]에서 해방
 [Digit:2digits ] 종류 모두 클리어하면 해방
 [home/quest_list_175] 배틀포인트 업
 [home/quest_list_176] 이벤트 개최 중
-[home/quest_detail_003] 추천타입
+[home/quest_detail_003] 약점타입
 [home/quest_detail_005] 에리어 상세
 [home/quest_detail_009] 팀 선택
 [home/quest_detail_010] 편성
@@ -55096,6 +56726,140 @@ WPM배지를 모두 모으면
 [home/battle_replay_036] 버디즈를 보유하고 있지 않습니다
 [home/battle_replay_037] 적용할 수 있는 보드스킬이 없습니다
 [home/battle_replay_038] 도구는 소비하지 않습니다
+[home/score_attack_001] 최고 합계 스코어
+[home/score_attack_002] 현재 합계 스코어
+[home/score_attack_003] ※이미 획득한 보상은 초기화해도 다시 획득할 수 없습니다
+[home/score_attack_004] [Digit:8digits ]pt 이후
+[home/score_attack_005] [Digit:8digits ]pt마다
+[home/score_attack_006] 이번 이벤트 규칙
+[home/score_attack_007] 권장타입 버디즈와 함께
+스코어를 모으자!
+[home/score_attack_008] 규칙 상세
+[home/score_attack_009] 획득 스코어 상세
+[home/score_attack_010] 사용한 버디즈
+[home/score_attack_011] 도전한다
+[home/score_attack_012] 현재 합계 스코어
+[home/score_attack_013] 보상 일람
+[home/score_attack_014] VS
+[home/score_attack_015] 초기화
+[home/score_attack_016] 랭킹
+[home/score_attack_018] 모든 배틀을 클리어하면
+랭킹 기능이 해방됩니다
+[home/score_attack_019] 선택한 배틀의 클리어 상황을
+정말로 초기화하겠습니까?
+
+초기화하면 편성한 버디즈를
+다시 사용할 수 있지만
+배틀에서 획득한 스코어도 초기화됩니다
+[home/score_attack_020] 상대의 능력치가 매우 높아져 있어
+배틀을 클리어하지 못할 가능성이 있습니다
+
+이대로 도전하겠습니까?
+[home/score_attack_021] 이 배틀에서는 리플레이 기능을
+사용할 수 없습니다
+[home/score_attack_022] 다른 배틀에서 이미 편성한
+버디즈가 편성되어 있기 때문에
+출발할 수 없습니다
+[home/score_attack_023] ※다른 배틀을 초기화하면
+출발할 수 있습니다
+[home/score_attack_024] 권장타입
+[home/score_attack_025] 선택한 배틀을 초기화하면
+다시 도전할 수 있습니다
+[home/score_attack_026] 각 배틀의 획득 스코어
+[home/score_attack_027] 상세
+[home/score_attack_028] 초기화한다
+[home/score_attack_029] 이벤트 규칙
+[home/score_attack_030] 타입
+[home/score_attack_031] 권장타입 버디즈를
+편성하면 기본 스코어에
+배율이 추가됩니다
+[home/score_attack_032] 편성 수
+[home/score_attack_033] [Digit:8digits ] 버디즈
+[home/score_attack_034] 배율
+[home/score_attack_035] ×[Digit:8digits ]
+[home/score_attack_036] ※권장타입 버디즈를 하나도
+편성하지 않은 경우에는 스코어를 획득할 수 없습니다
+[home/score_attack_037] 배틀
+[home/score_attack_038] 아래의 규칙에 따른 배틀 중 결과에 따라
+기본 스코어를 획득할 수 있습니다
+[home/score_attack_039] 최대
+[home/score_attack_040] 챌린지
+[home/score_attack_041] 아래의 조건을 달성하면
+기본 스코어를 추가로 획득할 수 있습니다
+[home/score_attack_042] 기본
+[home/score_attack_043] 챌린지
+[home/score_attack_044] 기본 스코어 상세
+[home/score_attack_045] 기본 스코어
+[home/score_attack_046] 이벤트 규칙 : 배틀
+[home/score_attack_047] 이벤트 규칙 : 챌린지
+[home/score_attack_048] 상대의 능력치상승
+[home/score_attack_049] 베스트 스코어
+[home/score_attack_050] ※모든 배틀을 클리어했을 때의 합계 스코어가
+현재의 베스트 스코어보다 클 경우 경신됩니다
+[home/score_attack_051] 베스트 스코어 랭킹
+[home/score_attack_052] 마스터 랭크 입상하면
+엠블럼 획득!
+[home/score_attack_053] 엠블럼 획득 완료
+[home/score_attack_061] [Digit:8digits ]pt
+[home/score_attack_062] 스코어 상세
+[home/score_attack_063] 기본 스코어
+[home/score_attack_064] 이벤트 규칙 : 배틀
+[home/score_attack_065] 이벤트 규칙 : 챌린지
+[home/score_attack_066] 상대의 능력치상승
+[home/score_attack_067] 상세 표시
+[home/score_attack_068] 배율
+[home/score_attack_069] ×[Digit:3digits ]
+[home/score_attack_070] 획득 스코어
+[home/score_attack_071] 합계 스코어
+[home/score_attack_072] 베스트 스코어 경신!
+[home/score_attack_073] 능력치 조정
+[home/score_attack_074] 상대의 능력치를 올리면
+기본 스코어를 추가로 획득할 수 있습니다
+[home/score_attack_075] 획득 가능한 기본 스코어
+[home/score_attack_076] ＋[Digit:8digits ]
+[home/score_attack_077] 능력치상승
+[home/score_attack_078] -10
+[home/score_attack_079] 10
+[home/score_attack_080] ※능력치상승에 의한 기본 스코어 증가량은
+서서히 변화합니다
+[home/score_attack_081] 베스트 스코어 설정
+[home/score_attack_082] 권장타입 버디즈가 편성되어 있지 않습니다
+이대로 출발해 배틀을 클리어해도
+스코어는 획득할 수 없습니다
+
+정말로 출발하겠습니까?
+[home/score_attack_083] 이벤트 규칙을 확인한다
+[home/score_attack_084] 스코어 배율
+[home/score_attack_085] 전용 미션
+[home/score_attack_086] 규칙 상세
+[home/score_attack_087] 기록 [Name:Time ]
+[home/score_attack_088] 기록 [Digit:3digits ]%
+[home/score_attack_089] 기록 [Digit:8digits ]
+[home/score_attack_091] 상대의 능력은
+챔피언배틀 "HARD Lv.1" 정도입니다
+[home/score_attack_092] 상대의 능력은
+챔피언배틀 "HARD Lv.1"의
+2배 정도입니다
+[home/score_attack_093] 상대의 능력은
+챔피언배틀 "HARD Lv.1"의
+3배 정도입니다
+[home/score_attack_094] 상대의 능력은
+챔피언배틀 "HARD Lv.1"의
+4배 정도입니다
+[home/score_attack_095] 상대의 능력은
+챔피언배틀 "HARD Lv.1"의
+5배 정도입니다
+[home/score_attack_096] 상대의 능력은
+챔피언배틀 "HARD Lv.1"의
+5배 이상입니다
+[home/score_attack_097] 능력치 설정
+[home/score_attack_098] #ERROR!
+[home/score_attack_099] ※챌린지 규칙을 달성할 수 없는 배틀이
+개최되고 있는 경우도 있습니다
+[home/score_attack_100] 이벤트 보상
+[home/score_attack_101] 첫 클리어 보상
+[home/score_attack_102] 각각 배틀을 처음 클리어하면
+아래 보상을 획득할 수 있습니다
 
 ===========
 home_zh-TW.lsd
@@ -55174,6 +56938,8 @@ home_zh-TW.lsd
 [home/quest_list_055] 舉辦中
 [home/quest_list_056] EXPERT
 [home/quest_list_057] SUPER EXPERT
+[home/quest_list_058] HYPER EXPERT
+[home/quest_list_059] MASTER EXPERT
 [home/quest_list_060] 新主線劇情：
 世界寶可夢大師賽
 開放了！
@@ -55324,7 +57090,7 @@ home_zh-TW.lsd
 任[Digit:2digits ]篇的所有NORMAL後即可開放
 [home/quest_list_175] 對戰點數提升
 [home/quest_list_176] 活動現正舉辦中
-[home/quest_detail_003] 推薦屬性
+[home/quest_detail_003] 弱點屬性
 [home/quest_detail_005] 區域詳情
 [home/quest_detail_009] 選擇隊伍
 [home/quest_detail_010] 編制
@@ -56101,6 +57867,138 @@ GRADE的獎勵報酬
 [home/battle_replay_036] 尚未持有拍組
 [home/battle_replay_037] 沒有可套用的石盤技能
 [home/battle_replay_038] 沒有消耗道具
+[home/score_attack_001] 最高總得分
+[home/score_attack_002] 目前的總得分
+[home/score_attack_003] ※已獲得的報酬即使重設也無法再次獲得
+[home/score_attack_004] [Digit:8digits ]pt後
+[home/score_attack_005] 每[Digit:8digits ]pt
+[home/score_attack_006] 本次活動規則
+[home/score_attack_007] 與建議屬性的拍組
+一起收集得分吧！
+[home/score_attack_008] 規則說明
+[home/score_attack_009] 得分詳情
+[home/score_attack_010] 已使用的拍組
+[home/score_attack_011] 挑戰
+[home/score_attack_012] 目前的總得分
+[home/score_attack_013] 報酬一覽
+[home/score_attack_014] VS
+[home/score_attack_015] 重設
+[home/score_attack_016] 排名
+[home/score_attack_018] 成功過關所有對戰
+即可開放排名功能
+[home/score_attack_019] 確定要重設所選對戰的
+過關狀況嗎？
+
+重設後可再次派出
+編制過的拍組
+但對戰中獲得的得分也會重設
+[home/score_attack_020] 對手的戰力變得非常高
+有可能無法過關對戰
+
+確定要挑戰嗎？
+[home/score_attack_021] 此對戰無法使用
+重播功能
+[home/score_attack_022] 有拍組已被編制在其他對戰中
+因此無法出發
+[home/score_attack_023] ※重設其他對戰
+即可出發
+[home/score_attack_024] 建議屬性
+[home/score_attack_025] 重設選擇的對戰
+即可再次挑戰
+[home/score_attack_026] 每場對戰的得分
+[home/score_attack_027] 詳情
+[home/score_attack_028] 重設
+[home/score_attack_029] 活動規則
+[home/score_attack_030] 屬性
+[home/score_attack_031] 編制建議屬性的拍組
+會增加基本得分的倍率
+[home/score_attack_032] 編制數量
+[home/score_attack_033] [Digit:8digits ]對
+[home/score_attack_034] 倍率
+[home/score_attack_035] ×[Digit:8digits ]
+[home/score_attack_036] ※未編制任何建議屬性的拍組時
+將無法得分
+[home/score_attack_037] 對戰
+[home/score_attack_038] 可在有下列規則的對戰中
+根據結果獲得基本得分
+[home/score_attack_039] 最多
+[home/score_attack_040] 挑戰
+[home/score_attack_041] 達成下列條件
+可獲得更多的基本得分
+[home/score_attack_042] 基本
+[home/score_attack_043] 挑戰
+[home/score_attack_044] 基本得分詳情
+[home/score_attack_045] 基本得分
+[home/score_attack_046] 活動規則：對戰
+[home/score_attack_047] 活動規則：挑戰
+[home/score_attack_048] 對手戰力提升
+[home/score_attack_049] 最佳得分
+[home/score_attack_050] ※成功過關所有對戰時的總得分
+若超越目前的最佳得分就會更新紀錄
+[home/score_attack_051] 最佳得分排行
+[home/score_attack_052] 達到大師等級
+獲得勳章！
+[home/score_attack_053] 已獲得勳章
+[home/score_attack_061] [Digit:8digits ]pt
+[home/score_attack_062] 得分詳情
+[home/score_attack_063] 基本得分
+[home/score_attack_064] 活動規則：對戰
+[home/score_attack_065] 活動規則：挑戰
+[home/score_attack_066] 對手戰力提升
+[home/score_attack_067] 顯示詳情
+[home/score_attack_068] 倍率
+[home/score_attack_069] ×[Digit:3digits ]
+[home/score_attack_070] 得分
+[home/score_attack_071] 總得分
+[home/score_attack_072] 刷新最佳得分！
+[home/score_attack_073] 調整戰力
+[home/score_attack_074] 可提升對手的戰力
+獲得更多的基本得分
+[home/score_attack_075] 可獲得的基本得分
+[home/score_attack_076] ＋[Digit:8digits ]
+[home/score_attack_077] 戰力提升
+[home/score_attack_078] -10
+[home/score_attack_079] 10
+[home/score_attack_080] ※隨著戰力提升
+基本得分的增加量也會逐漸變化
+[home/score_attack_081] 最佳得分設定
+[home/score_attack_082] 未編制任何建議屬性的拍組
+若現在出發
+即使過關對戰也無法獲得分數
+
+確定要出發嗎？
+[home/score_attack_083] 確認活動規則
+[home/score_attack_084] 得分倍率
+[home/score_attack_085] 專用任務
+[home/score_attack_086] 詳細規則
+[home/score_attack_087] 紀錄 [Name:Time ]
+[home/score_attack_088] 紀錄 [Digit:3digits ]%
+[home/score_attack_089] 紀錄 [Digit:8digits ]
+[home/score_attack_091] 對手的能力
+將相當於冠軍對戰「HARD Lv.1」
+[home/score_attack_092] 對手的能力
+將相當於冠軍對戰
+「HARD Lv.1」的2倍
+[home/score_attack_093] 對手的能力
+將相當於冠軍對戰
+「HARD Lv.1」的3倍
+[home/score_attack_094] 對手的能力
+將相當於冠軍對戰
+「HARD Lv.1」的4倍
+[home/score_attack_095] 對手的能力
+將相當於冠軍對戰
+「HARD Lv.1」的5倍
+[home/score_attack_096] 對手的能力
+將是冠軍對戰
+「HARD Lv.1」的5倍以上
+[home/score_attack_097] 戰力設定
+[home/score_attack_098] ＋[Digit:8digits ]
+[home/score_attack_099] ※可能會舉行無法達成
+挑戰規則的對戰
+[home/score_attack_100] 活動報酬
+[home/score_attack_101] 首次過關報酬
+[home/score_attack_102] 首次成功過關各個對戰時
+可獲得下列報酬
 
 ===========
 shop_de.lsd
@@ -56346,6 +58244,7 @@ an deine Geschenkbox geschickt:
 (Boni im Gefährtendropsgebiet × [Digit:2digits Idx="1" ] für [Digit:2digits ] [DE:Qty S="Tag" P="Tage" ])
 [shop/shop_medal_106] Kampfpunkte-Bonusticket
 (Boni in Regionskämpfen × [Digit:2digits Idx="1" ] für [Digit:2digits ] [DE:Qty S="Tag" P="Tage" ])
+[shop/shop_medal_107] Derzeit ist es nicht möglich, Produkte zu kaufen. Bitte überprüfe die Einstellungen deiner Bildschirmzeit oder andere Einstellungen.
 [shop/shop_itemexchange_001] Item-Tausch
 [shop/shop_itemexchange_003] Tauschen
 [shop/shop_itemexchange_004] Tauschen
@@ -57135,6 +59034,7 @@ will be ×[Digit:2digits Idx="1" ] for [Digit:2digits ] [EN:Qty S="day" P="days"
 [shop/shop_medal_106] Battle Point Boost Pass
 (Rewards from region rotation
 battles will be ×[Digit:2digits Idx="1" ] for [Digit:2digits ] [EN:Qty S="day" P="days" ].)
+[shop/shop_medal_107] You can’t purchase any products at the moment. Please check your Screen Time settings or other settings.
 [shop/shop_itemexchange_001] Exchange Items
 [shop/shop_itemexchange_003] Exchanged
 [shop/shop_itemexchange_004] Exchange
@@ -57795,6 +59695,9 @@ Compi ×[Digit:2digits Idx="1" ] durante [Digit:2digits ] día[ES:Qty P="s" ]).
 [shop/shop_medal_106] Pase Extra de Puntos de Combate
 (Premios en los combates por
 regiones ×[Digit:2digits Idx="1" ] durante [Digit:2digits ] día[ES:Qty P="s" ]).
+[shop/shop_medal_107] No puedes comprar ningún producto
+ahora mismo. Revisa tus ajustes de
+Tiempo de uso u otros ajustes.
 [shop/shop_itemexchange_001] Canjear objetos
 [shop/shop_itemexchange_003] Canjear
 [shop/shop_itemexchange_004] Canjear
@@ -58423,6 +60326,7 @@ Duo-Sphères pendant [Digit:2digits ] [FR:Qty Ref="1" S="jour" P="jours" ])
 [shop/shop_medal_106] Pass Boost Pts de Combat
 (récompenses × [Digit:2digits Idx="1" ] dans les combats
 régionaux pendant [Digit:2digits ] [FR:Qty Ref="1" S="jour" P="jours" ])
+[shop/shop_medal_107] Vous ne pouvez actuellement pas effectuer d'achats. Veuillez vous reporter aux fonctionnalités telles que le Temps d'écran, dans les Réglages.
 [shop/shop_itemexchange_001] Échange d'objets
 [shop/shop_itemexchange_003] Échange
 [shop/shop_itemexchange_004] Échanger
@@ -59069,6 +60973,7 @@ nelle aree Uniciondoli per
 [shop/shop_medal_106] Pass bonus Punti Lotta (ricompense
 ×[Digit:2digits Idx="1" ] nelle lotte regionali per
 [Digit:2digits ] [IT:Qty S="giorno" P="giorni" ].)
+[shop/shop_medal_107] Al momento non è possibile acquistare alcun prodotto. Si prega di controllare le impostazioni in "Tempo di utilizzo" o le altre impostazioni.
 [shop/shop_itemexchange_001] Scambio strumenti
 [shop/shop_itemexchange_003] Scambiati
 [shop/shop_itemexchange_004] Scambia
@@ -59793,6 +61698,8 @@ SP報酬が解放されるおとくなパック！
 獲得量が[Digit:2digits ]日間[Digit:2digits Idx="1" ]倍）
 [shop/shop_medal_106] バトルポイントブーストパス
 （地方バトルでの獲得量が[Digit:2digits ]日間[Digit:2digits Idx="1" ]倍）
+[shop/shop_medal_107] 現在商品を購入できない状態になっています
+スクリーンタイム等の設定をご確認ください
 [shop/shop_itemexchange_001] どうぐ交換
 [shop/shop_itemexchange_003] 交換
 [shop/shop_itemexchange_004] 交換
@@ -60501,6 +62408,8 @@ SP 보상이 해방되는 유용한 팩!
 획득량이 [Digit:2digits ]일간 [Digit:2digits Idx="1" ]배)
 [shop/shop_medal_106] 배틀포인트 부스트 패스
 (지방 배틀에서 획득량이 [Digit:2digits ]일간 [Digit:2digits Idx="1" ]배)
+[shop/shop_medal_107] 현재 상품을 구입할 수 없는 상태입니다
+스크린 타임 등의 설정을 확인해 주십시오
 [shop/shop_itemexchange_001] 도구 교환
 [shop/shop_itemexchange_003] 교환
 [shop/shop_itemexchange_004] 교환
@@ -61234,6 +63143,8 @@ shop_zh-TW.lsd
 [shop/shop_medal_106] 對戰點數增量證
 （在地區對戰的獲得量
 [Digit:2digits ]天內會變為[Digit:2digits Idx="1" ]倍）
+[shop/shop_medal_107] 目前無法購買商品
+請確認螢幕使用時間等設定
 [shop/shop_itemexchange_001] 交換道具
 [shop/shop_itemexchange_003] 交換
 [shop/shop_itemexchange_004] 交換
