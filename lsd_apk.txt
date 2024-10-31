@@ -5694,6 +5694,66 @@ Möglichkeiten 2
 Kamilla (Teil 1)
 [quest_title_1040001060001021] Ein besonderer Tag mit
 Kamilla (Teil 2)
+[quest_group_title_10130900000] Serena (Neo-Champ)
+[quest_group_title_10003900000] Kalem (Neo-Champ)
+[quest_group_title_10113410000] Jasmin (Saison 2022)
+[quest_group_title_10026400000] Bianka (Saison 2022)
+[quest_title_1030110000520100] Warum wir stärker werden
+[quest_title_1030411000601000] Ebenbürtige Rivalen
+[quest_title_1030411000601010] Der Neo-Champkampf nimmt
+seinen Anfang
+[quest_title_1030411000601060] Vs. Jasmin
+[quest_title_1030411000601020] Verborgener Kampfgeist
+[quest_title_1030411000601070] Vs. Jasmin 2
+[quest_title_1030411000601030] Wahre Überzeugungen
+[quest_title_1030411000601080] Vs. Jasmin 3
+[quest_title_1030411000601040] En garde!
+[quest_title_1030411000601090] Vs. Jasmin 4
+[quest_title_1030411000601100] Täglicher schwerer Kampf
+[quest_title_1030411000601110] Herausforderungskampf 1
+[quest_title_1030411000601120] Herausforderungskampf 2
+[quest_title_1030411000602010] Stelle dich Diantha! 1
+[quest_title_1030411000602020] Stelle dich Diantha! 2
+[quest_title_1030411000602030] Stelle dich Lauro! 1
+[quest_title_1030411000602040] Stelle dich Lauro! 2
+[quest_title_1030411000603000] Willkommen, Herausforderer!
+[quest_title_1030411000603010] Stelle dich Neo-Champ
+Serena! 1
+[quest_title_1030411000603020] Stelle dich Neo-Champ
+Serena! 2
+[quest_title_1030411000603030] Stelle dich Neo-Champ
+Kalem! 1
+[quest_title_1030411000603040] Stelle dich Neo-Champ
+Kalem! 2
+[quest_title_1030441100401010] Vs. Trainer aus Passio 1
+[quest_title_1030441100401011] Vs. Trainer aus Passio 2
+[quest_title_1030441100401012] Vs. Trainer aus Passio 3
+[quest_title_1030441100401013] Vs. Trainer aus Passio 4
+[quest_title_1030411000604000] Das angeschlagene Ampharos
+[quest_title_1030411000604010] Flackernde Lichter
+[quest_title_1030411000604050] Vs. Narcisse 1
+[quest_title_1030411000604020] Ein süßer Wirbelwind
+[quest_title_1030411000604060] Vs. Narcisse 2
+[quest_title_1030411000604030] Ist alles bereit für die Party?
+[quest_title_1030411000604070] Vs. Narcisse 3
+[quest_title_1030411000604040] Ein Licht in der Dunkelheit
+[quest_title_1030411000604080] Vs. Narcisse 4
+[quest_title_1030411000604090] Täglicher schwerer Kampf
+[quest_title_1030411000604100] Herausforderungskampf 1
+[quest_title_1030411000604110] Herausforderungskampf 2
+[quest_title_1030441100101010] Vs. Winter-Gefährten
+[quest_title_1030441100105010] Geschenkezeit!
+[quest_title_1030411000608080] Täglicher schwerer Kampf 1
+[quest_title_1030411000608110] Täglicher schwerer Kampf 2
+[quest_title_1030411000608140] Täglicher schwerer Kampf 3
+[quest_title_1030411000608150] Herausforderungskampf 1
+[quest_title_1030411000608160] Herausforderungskampf 2
+[quest_title_1030220130900000] Ein Tag mit Serena
+[quest_title_1030220003900000] Ein Tag mit Kalem
+[quest_title_1040001300001011] Ein besonderer Tag mit
+Serena (Teil 1)
+[quest_title_1040001300001021] Ein besonderer Tag mit
+Serena (Teil 2)
 
 ===========
 story_quest_name_en.lsd
@@ -7105,8 +7165,7 @@ story_quest_name_en.lsd
 [quest_title_1030302000601100] Partners Forever
 [quest_title_1030302000601110] Marnie’s Cheering Squad
 [quest_title_1030302000601120] Taught by the Best
-[quest_group_title_10092800000] Iris
-(Champion)
+[quest_group_title_10092800000] Iris (Alt.)
 [quest_title_1030302000603010] Fame and Glory
 [quest_title_1030302000603020] Teamwork Makes the Dream Work
 [quest_title_1030302000605000] Festival of Champions
@@ -8382,6 +8441,63 @@ Nine Possibilities: Part 1
 Nine Possibilities: Part 2
 [quest_title_1040001060001011] A Special Day with Elesa: Part 1
 [quest_title_1040001060001021] A Special Day with Elesa: Part 2
+[quest_group_title_10130900000] Serena (Champion)
+[quest_group_title_10003900000] Calem (Champion)
+[quest_group_title_10113410000] Jasmine (Holiday 2022)
+[quest_group_title_10026400000] Whitney (Holiday 2022)
+[quest_title_1030110000520100] A Reason to Be Strong
+[quest_title_1030411000601000] A Worthy Rival
+[quest_title_1030411000601010] Neo Champion Stadium
+[quest_title_1030411000601060] Challenge Jasmine: Part 1
+[quest_title_1030411000601020] Inner Fighting Spirit
+[quest_title_1030411000601070] Challenge Jasmine: Part 2
+[quest_title_1030411000601030] True Feelings
+[quest_title_1030411000601080] Challenge Jasmine: Part 3
+[quest_title_1030411000601040] En Garde!
+[quest_title_1030411000601090] Challenge Jasmine: Part 4
+[quest_title_1030411000601100] Daily Extreme Battle 1
+[quest_title_1030411000601110] Battle Challenge! Round 1
+[quest_title_1030411000601120] Battle Challenge! Round 2
+[quest_title_1030411000602010] Take On Diantha! Part 1
+[quest_title_1030411000602020] Take On Diantha! Part 2
+[quest_title_1030411000602030] Take On Alder! Part 1
+[quest_title_1030411000602040] Take On Alder! Part 2
+[quest_title_1030411000603000] Welcome, Challenger!
+[quest_title_1030411000603010] Challenge Champion Serena:
+Part 1
+[quest_title_1030411000603020] Challenge Champion Serena:
+Part 2
+[quest_title_1030411000603030] Challenge Champion Calem:
+Part 1
+[quest_title_1030411000603040] Challenge Champion Calem:
+Part 2
+[quest_title_1030441100401010] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030441100401011] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030441100401012] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030441100401013] Challenge Pasio’s Trainers: Part 4
+[quest_title_1030411000604000] Sad Ampharos
+[quest_title_1030411000604010] Operation: Light Up!
+[quest_title_1030411000604050] Challenge Siebold: Part 1
+[quest_title_1030411000604020] Cutie on a Mission
+[quest_title_1030411000604060] Challenge Siebold: Part 2
+[quest_title_1030411000604030] The Party Begins?
+[quest_title_1030411000604070] Challenge Siebold: Part 3
+[quest_title_1030411000604040] Guide through the Darkness
+[quest_title_1030411000604080] Challenge Siebold: Part 4
+[quest_title_1030411000604090] Daily Extreme Battle 1
+[quest_title_1030411000604100] Battle Challenge! Round 1
+[quest_title_1030411000604110] Battle Challenge! Round 2
+[quest_title_1030441100101010] Challenge the Winter Sync Pairs
+[quest_title_1030441100105010] Happy Present Time!
+[quest_title_1030411000608080] Daily Extreme Battle 1
+[quest_title_1030411000608110] Daily Extreme Battle 2
+[quest_title_1030411000608140] Daily Extreme Battle 3
+[quest_title_1030411000608150] Battle Challenge! Round 1
+[quest_title_1030411000608160] Battle Challenge! Round 2
+[quest_title_1030220130900000] A Day with Serena
+[quest_title_1030220003900000] A Day with Calem
+[quest_title_1040001300001011] A Special Day with Serena: Part 1
+[quest_title_1040001300001021] A Special Day with Serena: Part 2
 
 ===========
 story_quest_name_es.lsd
@@ -11326,6 +11442,65 @@ posibilidades!
 posibilidades! (2)
 [quest_title_1040001060001011] Un día especial con Camila
 [quest_title_1040001060001021] Un día especial con Camila (2)
+[quest_group_title_10130900000] Serena (Neocampeona)
+[quest_group_title_10003900000] Kalm (Neocampeón)
+[quest_group_title_10113410000] Yasmina (Temporada 22)
+[quest_group_title_10026400000] Blanca (Temporada 22)
+[quest_title_1030110000520100] Una razón para ser fuerte
+[quest_title_1030411000601000] Un rival digno
+[quest_title_1030411000601010] Combates de Neocampeones
+[quest_title_1030411000601060] VS. Yasmina
+[quest_title_1030411000601020] Vuestro espíritu luchador
+[quest_title_1030411000601070] VS. Yasmina (2)
+[quest_title_1030411000601030] Convicciones genuinas
+[quest_title_1030411000601080] VS. Yasmina (3)
+[quest_title_1030411000601040] ¡En guardia!
+[quest_title_1030411000601090] VS. Yasmina (4)
+[quest_title_1030411000601100] ¡Un combate difícil al día!
+[quest_title_1030411000601110] ¡Un combate desafiante!
+[quest_title_1030411000601120] ¡Un combate desafiante! (2)
+[quest_title_1030411000602010] ¡Enfréntate a Dianta!
+[quest_title_1030411000602020] ¡Enfréntate a Dianta! (2)
+[quest_title_1030411000602030] ¡Enfréntate a Mirto!
+[quest_title_1030411000602040] ¡Enfréntate a Mirto! (2)
+[quest_title_1030411000603000] ¡Te damos la bienvenida,
+aspirante!
+[quest_title_1030411000603010] ¡Enfréntate a la Neocampeona
+Serena!
+[quest_title_1030411000603020] ¡Enfréntate a la Neocampeona
+Serena! (2)
+[quest_title_1030411000603030] ¡Enfréntate al Neocampeón
+Kalm!
+[quest_title_1030411000603040] ¡Enfréntate al Neocampeón
+Kalm! (2)
+[quest_title_1030441100401010] VS. Entrenadores de Passio
+[quest_title_1030441100401011] VS. Entrenadores de Passio (2)
+[quest_title_1030441100401012] VS. Entrenadores de Passio (3)
+[quest_title_1030441100401013] VS. Entrenadores de Passio (4)
+[quest_title_1030411000604000] ¿Qué le pasa a Ampharos?
+[quest_title_1030411000604010] Contratiempos lumínicos
+[quest_title_1030411000604050] VS. Narciso
+[quest_title_1030411000604020] ¡Qué mona va esta chica
+siempre!
+[quest_title_1030411000604060] VS. Narciso (2)
+[quest_title_1030411000604030] ¡Que empiece la fiesta!
+[quest_title_1030411000604070] VS. Narciso (3)
+[quest_title_1030411000604040] Faro en la noche nevada
+[quest_title_1030411000604080] VS. Narciso (4)
+[quest_title_1030411000604090] ¡Un combate difícil al día!
+[quest_title_1030411000604100] ¡Un combate desafiante!
+[quest_title_1030411000604110] ¡Un combate desafiante! (2)
+[quest_title_1030441100101010] VS. Compis invernales
+[quest_title_1030441100105010] ¡Felicidad y regalos!
+[quest_title_1030411000608080] ¡Un combate difícil al día!
+[quest_title_1030411000608110] ¡Un combate difícil al día! (2)
+[quest_title_1030411000608140] ¡Un combate difícil al día! (3)
+[quest_title_1030411000608150] ¡Un combate desafiante!
+[quest_title_1030411000608160] ¡Un combate desafiante! (2)
+[quest_title_1030220130900000] Un día con Serena
+[quest_title_1030220003900000] Un día con Kalm
+[quest_title_1040001300001011] Un día especial con Serena
+[quest_title_1040001300001021] Un día especial con Serena (2)
 
 ===========
 story_quest_name_fr.lsd
@@ -14520,6 +14695,74 @@ Neuf possibilités II
 avec Inezia
 [quest_title_1040001060001021] Une journée spéciale
 avec Inezia II
+[quest_group_title_10130900000] Serena (Néo-Maître)
+[quest_group_title_10003900000] Kalem (Néo-Maître)
+[quest_group_title_10113410000] Jasmine (Saison 2022)
+[quest_group_title_10026400000] Blanche (Saison 2022)
+[quest_title_1030110000520100] Une raison de devenir
+plus fort
+[quest_title_1030411000601000] Un adversaire de taille
+[quest_title_1030411000601010] Le Néo-Combat de Maître
+[quest_title_1030411000601060] Combat : Jasmine
+[quest_title_1030411000601020] Esprit combatif enfoui
+[quest_title_1030411000601070] Combat : Jasmine II
+[quest_title_1030411000601030] Des convictions sincères
+[quest_title_1030411000601080] Combat : Jasmine III
+[quest_title_1030411000601040] En garde !
+[quest_title_1030411000601090] Combat : Jasmine IV
+[quest_title_1030411000601100] Combat difficile limité
+à une fois par jour !
+[quest_title_1030411000601110] Combat difficile
+[quest_title_1030411000601120] Combat difficile II
+[quest_title_1030411000602010] Combat corsé : Dianthéa
+[quest_title_1030411000602020] Combat corsé : Dianthéa II
+[quest_title_1030411000602030] Combat corsé : Goyah
+[quest_title_1030411000602040] Combat corsé : Goyah II
+[quest_title_1030411000603000] Bienvenue au combat !
+[quest_title_1030411000603010] Défi corsé :
+Serena (Néo-Maître)
+[quest_title_1030411000603020] Défi corsé :
+Serena (Néo-Maître) II
+[quest_title_1030411000603030] Défi corsé :
+Kalem (Néo-Maître)
+[quest_title_1030411000603040] Défi corsé :
+Kalem (Néo-Maître) II
+[quest_title_1030441100401010] Combat : Dresseurs de Passio
+[quest_title_1030441100401011] Combat :
+Dresseurs de Passio II
+[quest_title_1030441100401012] Combat :
+Dresseurs de Passio III
+[quest_title_1030441100401013] Combat :
+Dresseurs de Passio IV
+[quest_title_1030411000604000] Pauvre Pharamp
+[quest_title_1030411000604010] Problème électrique
+[quest_title_1030411000604050] Combat : Narcisse
+[quest_title_1030411000604020] Une beauté irrésistible
+[quest_title_1030411000604060] Combat : Narcisse II
+[quest_title_1030411000604030] Que la fête commence !
+[quest_title_1030411000604070] Combat : Narcisse III
+[quest_title_1030411000604040] Un guide dans l'obscurité
+[quest_title_1030411000604080] Combat : Narcisse IV
+[quest_title_1030411000604090] Combat difficile limité
+à une fois par jour !
+[quest_title_1030411000604100] Combat difficile
+[quest_title_1030411000604110] Combat difficile II
+[quest_title_1030441100101010] Combat : Duos hivernaux
+[quest_title_1030441100105010] De la joie et des cadeaux !
+[quest_title_1030411000608080] Combat difficile limité
+à une fois par jour !
+[quest_title_1030411000608110] Combat difficile limité
+à une fois par jour ! II
+[quest_title_1030411000608140] Combat difficile limité
+à une fois par jour ! III
+[quest_title_1030411000608150] Combat difficile
+[quest_title_1030411000608160] Combat difficile II
+[quest_title_1030220130900000] Une journée avec Serena
+[quest_title_1030220003900000] Une journée avec Kalem
+[quest_title_1040001300001011] Une journée spéciale
+avec Serena
+[quest_title_1040001300001021] Une journée spéciale
+avec Serena II
 
 ===========
 story_quest_name_it.lsd
@@ -15919,7 +16162,7 @@ story_quest_name_it.lsd
 [quest_title_1030302000601100] Ricordi di un Pokémon
 [quest_title_1030302000601110] Il fan club di Mary a Pasio!
 [quest_title_1030302000601120] Dandel e il suo maestro
-[quest_group_title_10092800000] Iris (Campionessa)
+[quest_group_title_10092800000] Iris (alternativo)
 [quest_title_1030302000603010] Se faccio del mio meglio qui a Pasio...
 [quest_title_1030302000603020] Realizziamo i nostri sogni insieme!
 [quest_title_1030302000605000] Inizia il Festival dei Campioni!
@@ -17159,6 +17402,59 @@ story_quest_name_it.lsd
 [quest_title_1030410000605070] Lotta ad alta difficoltà - Nove possibilità 2
 [quest_title_1040001060001011] Un giorno speciale con Camelia (1ª parte)
 [quest_title_1040001060001021] Un giorno speciale con Camelia (2ª parte)
+[quest_group_title_10130900000] Serena (Campionessa)
+[quest_group_title_10003900000] Calem (Campione)
+[quest_group_title_10113410000] Jasmine (feste 2022)
+[quest_group_title_10026400000] Chiara (feste 2022)
+[quest_title_1030110000520100] Un motivo per diventare più forte
+[quest_title_1030411000601000] Un rivale degno di starle vicino
+[quest_title_1030411000601010] La Lotta dei Nuovi Campioni
+[quest_title_1030411000601060] VS Jasmine
+[quest_title_1030411000601020] Spirito combattivo nascosto
+[quest_title_1030411000601070] VS Jasmine 2
+[quest_title_1030411000601030] Sentimenti autentici
+[quest_title_1030411000601080] VS Jasmine 3
+[quest_title_1030411000601040] In guardia!
+[quest_title_1030411000601090] VS Jasmine 4
+[quest_title_1030411000601100] Lotta ad alta difficoltà (una al giorno)
+[quest_title_1030411000601110] Sfida ad alta difficoltà
+[quest_title_1030411000601120] Sfida ad alta difficoltà 2
+[quest_title_1030411000602010] Sfida un avversario potente: Diantha
+[quest_title_1030411000602020] Sfida un avversario potente: Diantha 2
+[quest_title_1030411000602030] Sfida un avversario potente: Nardo
+[quest_title_1030411000602040] Sfida un avversario potente: Nardo 2
+[quest_title_1030411000603000] Benvenuti, sfidanti!
+[quest_title_1030411000603010] Sfida la Campionessa: Serena
+[quest_title_1030411000603020] Sfida la Campionessa: Serena 2
+[quest_title_1030411000603030] Sfida il Campione: Calem
+[quest_title_1030411000603040] Sfida il Campione: Calem 2
+[quest_title_1030441100401010] VS Allenatori di Pasio
+[quest_title_1030441100401011] VS Allenatori di Pasio 2
+[quest_title_1030441100401012] VS Allenatori di Pasio 3
+[quest_title_1030441100401013] VS Allenatori di Pasio 4
+[quest_title_1030411000604000] Un Ampharos giù di morale
+[quest_title_1030411000604010] Operazione luminarie!
+[quest_title_1030411000604050] VS Narciso
+[quest_title_1030411000604020] Carina e indaffarata
+[quest_title_1030411000604060] VS Narciso 2
+[quest_title_1030411000604030] Finalmente inizia la festa...?
+[quest_title_1030411000604070] VS Narciso 3
+[quest_title_1030411000604040] Un faro nella notte
+[quest_title_1030411000604080] VS Narciso 4
+[quest_title_1030411000604090] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030411000604100] Sfida ad alta difficoltà
+[quest_title_1030411000604110] Sfida ad alta difficoltà 2
+[quest_title_1030441100101010] VS Unità invernali
+[quest_title_1030441100105010] Felicità e regali!
+[quest_title_1030411000608080] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030411000608110] Lotta ad alta difficoltà (una al giorno)! 2
+[quest_title_1030411000608140] Lotta ad alta difficoltà (una al giorno)! 3
+[quest_title_1030411000608150] Sfida ad alta difficoltà
+[quest_title_1030411000608160] Sfida ad alta difficoltà 2
+[quest_title_1030220130900000] Un giorno con Serena (Campionessa)
+[quest_title_1030220003900000] Un giorno con Calem (Campione)
+[quest_title_1040001300001011] Un giorno speciale con Serena (1ª parte)
+[quest_title_1040001300001021] Un giorno speciale con Serena (2ª parte)
 
 ===========
 story_quest_name_ja.lsd
@@ -19854,6 +20150,63 @@ story_quest_name_ja.lsd
 [quest_title_1030410000605070] 高難度バトル！９つの可能性！２
 [quest_title_1040001060001011] カミツレとの特別な一日　前編
 [quest_title_1040001060001021] カミツレとの特別な一日　後編
+[quest_group_title_10130900000] セレナ
+（チャンピオン）
+[quest_group_title_10003900000] カルム
+（チャンピオン）
+[quest_group_title_10113410000] ミカン
+（２２シーズン）
+[quest_group_title_10026400000] アカネ
+（２２シーズン）
+[quest_title_1030110000520100] 強くなるための理由
+[quest_title_1030411000601000] 隣に立つ資格
+[quest_title_1030411000601010] 開催　ネオ・チャンピオンバトル
+[quest_title_1030411000601060] ＶＳ　ミカン
+[quest_title_1030411000601020] 内に秘めた闘志
+[quest_title_1030411000601070] ＶＳ　ミカン２
+[quest_title_1030411000601030] 本物の想い
+[quest_title_1030411000601080] ＶＳ　ミカン３
+[quest_title_1030411000601040] ラッサンブレ　サリューエ！
+[quest_title_1030411000601090] ＶＳ　ミカン４
+[quest_title_1030411000601100] １日１回限定・高難度バトル！
+[quest_title_1030411000601110] チャレンジバトルで勝負！
+[quest_title_1030411000601120] チャレンジバトルで勝負！２
+[quest_title_1030411000602010] 強敵に挑戦！　ＶＳ　カルネ
+[quest_title_1030411000602020] 強敵に挑戦！　ＶＳ　カルネ２
+[quest_title_1030411000602030] 強敵に挑戦！　ＶＳ　アデク
+[quest_title_1030411000602040] 強敵に挑戦！　ＶＳ　アデク２
+[quest_title_1030411000603000] ようこそ挑戦者！
+[quest_title_1030411000603010] 挑戦！　チャンピオン　セレナ
+[quest_title_1030411000603020] 挑戦！　チャンピオン　セレナ２
+[quest_title_1030411000603030] 挑戦！　チャンピオン　カルム
+[quest_title_1030411000603040] 挑戦！　チャンピオン　カルム２
+[quest_title_1030441100401010] ＶＳ　パシオのトレーナー
+[quest_title_1030441100401011] ＶＳ　パシオのトレーナー２
+[quest_title_1030441100401012] ＶＳ　パシオのトレーナー３
+[quest_title_1030441100401013] ＶＳ　パシオのトレーナー４
+[quest_title_1030411000604000] 元気のないデンリュウ
+[quest_title_1030411000604010] ライトアップ大作戦！
+[quest_title_1030411000604050] ＶＳ　ズミ
+[quest_title_1030411000604020] 駆け回るプリティギャル
+[quest_title_1030411000604060] ＶＳ　ズミ２
+[quest_title_1030411000604030] いよいよパーティー開催……？
+[quest_title_1030411000604070] ＶＳ　ズミ３
+[quest_title_1030411000604040] 暗闇の道しるべ
+[quest_title_1030411000604080] ＶＳ　ズミ４
+[quest_title_1030411000604090] １日１回限定・高難度バトル！
+[quest_title_1030411000604100] チャレンジバトルで勝負！
+[quest_title_1030411000604110] チャレンジバトルで勝負！２
+[quest_title_1030441100101010] ＶＳ　冬のバディーズたち
+[quest_title_1030441100105010] ハッピープレゼントタイム！
+[quest_title_1030411000608080] １日１回限定・高難度バトル！
+[quest_title_1030411000608110] １日１回限定・高難度バトル！２
+[quest_title_1030411000608140] １日１回限定・高難度バトル！３
+[quest_title_1030411000608150] チャレンジバトルで勝負！
+[quest_title_1030411000608160] チャレンジバトルで勝負！２
+[quest_title_1030220130900000] とある日のセレナ
+[quest_title_1030220003900000] とある日のカルム
+[quest_title_1040001300001011] セレナとの特別な一日　前編
+[quest_title_1040001300001021] セレナとの特別な一日　後編
 
 ===========
 story_quest_name_ko.lsd
@@ -22548,6 +22901,63 @@ story_quest_name_ko.lsd
 [quest_title_1030410000605070] 고난도 배틀! 9가지 가능성!2
 [quest_title_1040001060001011] 카밀레와의 특별한 하루 전편
 [quest_title_1040001060001021] 카밀레와의 특별한 하루 후편
+[quest_group_title_10130900000] 세레나
+(챔피언)
+[quest_group_title_10003900000] 칼름
+(챔피언)
+[quest_group_title_10113410000] 규리
+(22시즌)
+[quest_group_title_10026400000] 꼭두
+(22시즌)
+[quest_title_1030110000520100] 강해지기 위한 이유
+[quest_title_1030411000601000] 옆에 설 자격
+[quest_title_1030411000601010] 개최 네오 챔피언배틀
+[quest_title_1030411000601060] VS 규리
+[quest_title_1030411000601020] 속에 간직한 투지
+[quest_title_1030411000601070] VS 규리2
+[quest_title_1030411000601030] 진정한 마음
+[quest_title_1030411000601080] VS 규리3
+[quest_title_1030411000601040] 라상블레 살뤼에!
+[quest_title_1030411000601090] VS 규리4
+[quest_title_1030411000601100] 1일 1회 한정 고난도 배틀!
+[quest_title_1030411000601110] 챌린지배틀로 승부!
+[quest_title_1030411000601120] 챌린지배틀로 승부!2
+[quest_title_1030411000602010] 강적에게 도전! VS 카르네
+[quest_title_1030411000602020] 강적에게 도전! VS 카르네2
+[quest_title_1030411000602030] 강적에게 도전! VS 노간주
+[quest_title_1030411000602040] 강적에게 도전! VS 노간주2
+[quest_title_1030411000603000] 어서 오세요, 도전자! 
+[quest_title_1030411000603010] 도전! 챔피언 세레나
+[quest_title_1030411000603020] 도전! 챔피언 세레나2
+[quest_title_1030411000603030] 도전! 챔피언 칼름
+[quest_title_1030411000603040] 도전! 챔피언 칼름2
+[quest_title_1030441100401010] VS 파시오의 트레이너
+[quest_title_1030441100401011] VS 파시오의 트레이너2
+[quest_title_1030441100401012] VS 파시오의 트레이너3
+[quest_title_1030441100401013] VS 파시오의 트레이너4
+[quest_title_1030411000604000] 기운이 없는 전룡
+[quest_title_1030411000604010] 라이트 업 대작전!
+[quest_title_1030411000604050] VS 즈미
+[quest_title_1030411000604020] 동분서주하는 프리티 걸
+[quest_title_1030411000604060] VS 즈미2
+[quest_title_1030411000604030] 드디어 파티 개최...?
+[quest_title_1030411000604070] VS 즈미3
+[quest_title_1030411000604040] 어둠 속의 길잡이
+[quest_title_1030411000604080] VS 즈미4
+[quest_title_1030411000604090] 1일 1회 한정 고난도 배틀!
+[quest_title_1030411000604100] 챌린지배틀로 승부!
+[quest_title_1030411000604110] 챌린지배틀로 승부!2
+[quest_title_1030441100101010] VS 겨울 버디즈
+[quest_title_1030441100105010] 해피 선물 타임!
+[quest_title_1030411000608080] 1일 1회 한정 고난도 배틀!
+[quest_title_1030411000608110] 1일 1회 한정 고난도 배틀!2
+[quest_title_1030411000608140] 1일 1회 한정 고난도 배틀!3
+[quest_title_1030411000608150] 챌린지배틀로 승부!
+[quest_title_1030411000608160] 챌린지배틀로 승부!2
+[quest_title_1030220130900000] 세레나의 어느 날
+[quest_title_1030220003900000] 칼름의 어느 날
+[quest_title_1040001300001011] 세레나와의 특별한 하루 전편
+[quest_title_1040001300001021] 세레나와의 특별한 하루 후편
 
 ===========
 story_quest_name_zh-TW.lsd
@@ -25242,6 +25652,63 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030410000605070] 高難度對戰！９種可能性！２
 [quest_title_1040001060001011] 與小菊兒的特別日子　前篇
 [quest_title_1040001060001021] 與小菊兒的特別日子　後篇
+[quest_group_title_10130900000] 莎莉娜
+（冠軍）
+[quest_group_title_10003900000] 卡魯穆
+（冠軍）
+[quest_group_title_10113410000] 阿蜜
+（２０２２冬季）
+[quest_group_title_10026400000] 小茜
+（２０２２冬季）
+[quest_title_1030110000520100] 為了變強的理由
+[quest_title_1030411000601000] 並肩而立的資格
+[quest_title_1030411000601010] 開跑！新・冠軍對戰
+[quest_title_1030411000601060] ＶＳ　阿蜜
+[quest_title_1030411000601020] 深藏的鬥志
+[quest_title_1030411000601070] ＶＳ　阿蜜２
+[quest_title_1030411000601030] 真正的心意
+[quest_title_1030411000601080] ＶＳ　阿蜜３
+[quest_title_1030411000601040] 立正，敬禮！
+[quest_title_1030411000601090] ＶＳ　阿蜜４
+[quest_title_1030411000601100] １天僅限１次的高難度對戰！
+[quest_title_1030411000601110] 用挑戰對戰決勝負！
+[quest_title_1030411000601120] 用挑戰對戰決勝負！２
+[quest_title_1030411000602010] 挑戰強敵！　ＶＳ　卡露妮
+[quest_title_1030411000602020] 挑戰強敵！　ＶＳ　卡露妮２
+[quest_title_1030411000602030] 挑戰強敵！　ＶＳ　阿戴克
+[quest_title_1030411000602040] 挑戰強敵！　ＶＳ　阿戴克２
+[quest_title_1030411000603000] 歡迎，挑戰者！
+[quest_title_1030411000603010] 挑戰！　冠軍莎莉娜
+[quest_title_1030411000603020] 挑戰！　冠軍莎莉娜２
+[quest_title_1030411000603030] 挑戰！　冠軍卡魯穆
+[quest_title_1030411000603040] 挑戰！　冠軍卡魯穆２
+[quest_title_1030441100401010] ＶＳ　帕希歐的訓練家
+[quest_title_1030441100401011] ＶＳ　帕希歐的訓練家２
+[quest_title_1030441100401012] ＶＳ　帕希歐的訓練家３
+[quest_title_1030441100401013] ＶＳ　帕希歐的訓練家４
+[quest_title_1030411000604000] 無精打采的電龍
+[quest_title_1030411000604010] 點亮城鎮大作戰！
+[quest_title_1030411000604050] ＶＳ　志米
+[quest_title_1030411000604020] 東奔西跑的漂亮美少女
+[quest_title_1030411000604060] ＶＳ　志米２
+[quest_title_1030411000604030] 派對終於要開始了……？
+[quest_title_1030411000604070] ＶＳ　志米３
+[quest_title_1030411000604040] 黑暗中的路標
+[quest_title_1030411000604080] ＶＳ　志米４
+[quest_title_1030411000604090] １天僅限１次的高難度對戰！
+[quest_title_1030411000604100] 用挑戰對戰決勝負！
+[quest_title_1030411000604110] 用挑戰對戰決勝負！２
+[quest_title_1030441100101010] ＶＳ　冬日裡的拍組們
+[quest_title_1030441100105010] 開心禮物時刻！
+[quest_title_1030411000608080] １天僅限１次的高難度對戰！
+[quest_title_1030411000608110] １天僅限１次的高難度對戰！２
+[quest_title_1030411000608140] １天僅限１次的高難度對戰！３
+[quest_title_1030411000608150] 用挑戰對戰決勝負！
+[quest_title_1030411000608160] 用挑戰對戰決勝負！２
+[quest_title_1030220130900000] 某日的莎莉娜
+[quest_title_1030220003900000] 某日的卡魯穆
+[quest_title_1040001300001011] 與莎莉娜的特別日子　前篇
+[quest_title_1040001300001021] 與莎莉娜的特別日子　後篇
 
 ===========
 trainer_description_de.lsd
@@ -26148,6 +26615,21 @@ jederzeit liebevoll um sie.
 [10106000001] Die auch als Model tätige Elektro-Arenaleiterin verzaubert
 alle, die ihr beim Kämpfen in ihrer einer prächtigen Bühne
 gleichenden Arena zuschauen.
+[10130900000] Serena trägt ein Outfit, das ihrem neu gewonnenen Titel
+als Passios Neo-Champ würdig ist. Sie teilt den Triumph
+mit Quajutsu.
+[10003900000] Kalem trägt ein Outfit, das seinem neu gewonnenen Titel
+als Passios Neo-Champ würdig ist. Er teilt den Ruhm mit
+seinem außergewöhnlich gefärbten Quajutsu.
+[10026400000] Bianka gibt alles, damit die Party ein Erfolg wird. Sie
+gibt ein hübsches Gefährtengespann mit ihrem flauschigen
+Kronjuwild in seiner Winterform ab.
+[10113410000] Jasmin gibt alles, damit die Party ein Erfolg wird. Ihr
+Ampharos soll der Nachfolger von Amphi werden, das den
+Leuchtturm in Oliviana City erhellt.
+[10130000001] Diese Trainerin liebt Pokémon und Mode. Sie ist stets
+fröhlich und positiv, doch im Kampf zeigt sie eine ruhige
+Ernsthaftigkeit.
 
 ===========
 trainer_description_en.lsd
@@ -26957,6 +27439,21 @@ on them.
 [10106000001] This Electric-type Gym Leader also works as a model.
 Watching her battle in the beautiful, bright lights of her
 Gym can be mesmerizing.
+[10130900000] Serena is dressed in an outfit honoring her earned title:
+Neo Champion of Pasio. She shares her victories with
+her Greninja.
+[10003900000] Calem is dressed in an outfit honoring his earned title:
+Neo Champion of Pasio. He shares his glory with his
+Greninja, which has rare coloring.
+[10026400000] Whitney’s working hard to set up a successful
+party. She makes a pretty sync pair with her
+fluffy Winter Form Sawsbuck.
+[10113410000] Jasmine’s working hard to set up a successful party.
+Her partner Ampharos is being trained as the successor
+to Amphy, who lights up Olivine City’s lighthouse.
+[10130000001] This Trainer from Kalos loves Pokémon and fashion. She’s
+usually cheerful and upbeat, but when a battle starts,
+her demeanor shifts, revealing her calm, serious side.
 
 ===========
 trainer_description_es.lsd
@@ -27908,6 +28405,23 @@ con esmero.
 [10106000001] Líder de Gimnasio experta en Pokémon de tipo Eléctrico
 que trabaja también como modelo. La gracilidad con la
 que combate encandila a cualquiera que la presencia.
+[10130900000] Serena luce un traje magnífico que hace honor a su
+recién adquirido título de Neocampeona de Passio, el cual
+comparte con Greninja.
+[10003900000] Kalm estrena un traje digno de su recién adquirido título
+de Neocampeón de Passio. Comparte la gloria con
+Greninja, de un color inusual.
+[10026400000] Blanca quiere que la fiesta que está organizando sea todo
+un éxito. Forma una hermosa pareja de compis con
+Sawsbuck, que ostenta su esponjosa Forma Invierno.
+[10113410000] Yasmina se está esforzando al máximo para que todo
+salga perfecto en la fiesta que están preparando. Su
+compi Ampharos entrena para suceder a Amphy, luz del
+faro de Ciudad Olivo.
+[10130000001] A esta Entrenadora le encantan tanto la moda como los
+Pokémon. Su vivaz y alegre personalidad hace que
+siempre adopte una actitud positiva, aunque durante los
+combates se muestra centrada y responsable.
 
 ===========
 trainer_description_fr.lsd
@@ -28813,6 +29327,22 @@ avec eux.
 [10106000001] Une top model et Championne du type Électrik.
 Elle fait preuve d'une élégance incomparable lorsqu'elle
 se bat dans son Arène en forme de podium.
+[10130900000] Serena porte une tenue célébrant son nouveau titre :
+Néo-Maître de Passio. Elle partage ses victoires
+avec Amphinobi, son partenaire Pokémon.
+[10003900000] Kalem porte une tenue célébrant son nouveau titre :
+Néo-Maître de Passio. Il partage cette gloire avec
+Amphinobi, son partenaire Pokémon aux couleurs rares.
+[10026400000] Blanche met les bouchées doubles pour organiser
+une fête qui marquera tous les esprits. Elle forme
+un superbe Duo avec son Haydaim tout doux
+dans sa Forme Hiver !
+[10113410000] Jasmine travaille d'arrache-pied pour que sa fête soit
+un étincelant succès. Elle entraîne son Pharamp à devenir
+le successeur de Phary, qui illumine le phare d'Oliville.
+[10130000001] Une jeune Dresseuse qui aime les Pokémon et la mode.
+D'une nature joyeuse et enjouée, elle révèle son côté
+adulte et calme dès que le combat commence !
 
 ===========
 trainer_description_it.lsd
@@ -29699,6 +30229,23 @@ sempre con gran cura.
 [10106000001] Capopalestra di tipo Elettro e modella di successo.
 Vederla lottare con eleganza nella sua Palestra,
 simile a una passerella, lascia estasiati gli spettatori.
+[10130900000] Serena indossa un abito per celebrare il titolo di Nuova
+Campionessa di Pasio da lei conquistato. Condivide
+la vittoria con il suo Greninja.
+[10003900000] Calem indossa un abito per celebrare il titolo di Nuovo
+Campione di Pasio da lui conquistato. Condivide la gloria
+con il suo Greninja dai colori rari.
+[10026400000] Chiara fa del suo meglio per organizzare una festa
+di gran successo. Forma un'Unità carinissima con
+il suo Sawsbuck Forma Inverno, dal soffice manto.
+[10113410000] Jasmine fa del suo meglio per organizzare una festa
+di gran successo. Il suo compagno Ampharos si sta
+allenando per seguire le orme di Amphy, che illumina
+il Faro di Olivinopoli.
+[10130000001] Un'Allenatrice che ama la moda e i Pokémon. È vivace,
+allegra e ottimista di carattere, ma quando arriva
+il momento di lottare sa anche essere matura
+e imperturbabile.
 
 ===========
 trainer_description_ja.lsd
@@ -30504,6 +31051,21 @@ trainer_description_ja.lsd
 [10106000001] モデルとしても　活躍している　でんきタイプの
 ジムリーダー。　華やかな　ステージのような
 ジムで　勝負する姿は　みる者を　魅了する。
+[10130900000] パシオの　ネオ・チャンピオンとして　認められ
+名誉ある衣装に　身を包んだ　セレナ。
+ゲッコウガと　共に　勝利を　わかちあう。
+[10003900000] パシオの　ネオ・チャンピオンとして　認められ
+名誉ある衣装に　身を包んだ　カルム。
+珍しい色のゲッコウガと　共に　栄光を　わかちあう。
+[10026400000] パーティーを　成功させるため　がんばる　アカネ。
+もこもことした　ふゆのすがたの　メブキジカと
+プリティな　バディーズを　結成。
+[10113410000] パーティーを　成功させるため　がんばる　ミカン。
+バディの　デンリュウは　アサギシティで　灯台を照らす
+「アカリちゃん」の　後継者となるべく　修行中。
+[10130000001] おしゃれと　ポケモンが　大好きな　トレーナー。
+快活で　明るく　前向きな　性格だが
+勝負のときは　クールで　大人びた　一面を　みせる。
 
 ===========
 trainer_description_ko.lsd
@@ -31308,6 +31870,21 @@ WPM 운영위원회의 대표도 맡고 있다.
 [10106000001] 모델로서도 활약하고 있는 전기타입의 체육관 관장.
 화려한 스테이지 같은 체육관에서
 승부하는 모습은 보는 사람을 매료시킨다.
+[10130900000] 파시오의 네오 챔피언으로 인정받아
+명예로운 의상을 입은 세레나.
+개굴닌자와 함께 승리를 나눈다.
+[10003900000] 파시오의 네오 챔피언으로 인정받아
+명예로운 의상을 입은 칼름.
+희귀한 색의 개굴닌자와 함께 영광을 나눈다.
+[10026400000] 파티를 성공시키기 위해 노력하는 꼭두.
+복슬복슬한 겨울의 모습을 한 바라철록과
+프리티한 버디즈를 결성했다.
+[10113410000] 파티를 성공시키기 위해 노력하는 규리.
+버디인 전룡은 담청시티의 등대를 비추는
+"빛나리"의 후계자가 되기 위해 수행 중이다.
+[10130000001] 패션과 포켓몬을 좋아하는 트레이너.
+쾌활하고 밝으며 긍정적인 성격이지만
+승부할 때는 쿨하고 어른스러운 일면도 보여준다.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -32112,6 +32689,21 @@ trainer_description_zh-TW.lsd
 [10106000001] 身兼人氣模特兒的電屬性道館館主。
 在舞台般華麗的道館對戰的模樣，
 總是令在場的所有人為她深深著迷。
+[10130900000] 莎莉娜被認定成帕希歐新・冠軍
+並穿上了代表榮譽的服裝，
+與甲賀忍蛙共享勝利的滋味。
+[10003900000] 卡魯穆被認定成帕希歐新・冠軍
+並穿上了代表榮譽的服裝，
+與顏色少見的甲賀忍蛙共享榮譽。
+[10026400000] 為了讓派對成功而努力的小茜。
+她和毛茸茸的冬天的樣子的萌芽鹿
+結為了漂亮的拍組。
+[10113410000] 為了讓派對成功而努力的阿蜜。
+她的拍檔電龍正在修行中，為的是成為
+在淺蔥市照亮燈塔的「光兒」的繼任者。
+[10130000001] 非常喜歡時尚與寶可夢的訓練家。
+平時個性活潑開朗又積極，
+但對戰時會展現出她帥氣又成熟的一面。
 
 ===========
 trainer_name_de.lsd
@@ -34045,6 +34637,14 @@ trainer_verbose_name_de.lsd
 [10020100000] MaMo-Warren
 [10004100000] MaMo-Lotta
 [10089100000] MaMo-N
+[10130900000] Serena
+(Neo-Champ)
+[10003900000] Kalem
+(Neo-Champ)
+[10026400000] Bianka 
+(Saison 2022)
+[10113410000] Jasmin 
+(Saison 2022)
 
 ===========
 trainer_verbose_name_en.lsd
@@ -34083,8 +34683,7 @@ Cynthia
 (Palentine's 2021)
 [10116400000] Dawn 
 (Palentine's 2021)
-[10092800000] Iris 
-(Champion)
+[10092800000] Iris (Alt.)
 [10126400000] May 
 (Spring 2021)
 [10170400000] Burgh 
@@ -34194,6 +34793,14 @@ Brendan
 [10020100000] Sygna Suit Hilbert
 [10004100000] Sygna Suit Hilda
 [10089100000] Sygna Suit N
+[10130900000] Serena 
+(Champion)
+[10003900000] Calem 
+(Champion)
+[10026400000] Whitney 
+(Holiday 2022)
+[10113410000] Jasmine 
+(Holiday 2022)
 
 ===========
 trainer_verbose_name_es.lsd
@@ -34320,6 +34927,14 @@ Rayo)
 [10020100000] Lucho (Traje S)
 [10004100000] Liza (Traje S)
 [10089100000] N (Traje S)
+[10130900000] Serena 
+(Neocampeona)
+[10003900000] Kalm 
+(Neocampeón)
+[10026400000] Blanca 
+(Temporada 22)
+[10113410000] Yasmina 
+(Temporada 22)
 
 ===========
 trainer_verbose_name_fr.lsd
@@ -34458,6 +35073,14 @@ trainer_verbose_name_fr.lsd
 [10020100000] Ludwig (Ultime)
 [10004100000] Ludvina (Ultime)
 [10089100000] N (Ultime)
+[10130900000] Serena 
+(Néo-Maître)
+[10003900000] Kalem 
+(Néo-Maître)
+[10026400000] Blanche 
+(Saison 2022)
+[10113410000] Jasmine 
+(Saison 2022)
 
 ===========
 trainer_verbose_name_it.lsd
@@ -34494,8 +35117,8 @@ trainer_verbose_name_it.lsd
 (feste 2021)
 [10116400000] Lucinda
 (feste 2021)
-[10092800000] Iris
-(Campionessa)
+[10092800000] Iris 
+(alternativo)
 [10126400000] Vera
 (feste 2021)
 [10170400000] Artemisio
@@ -34600,6 +35223,14 @@ trainer_verbose_name_it.lsd
 [10020100000] Alcide Costumax
 [10004100000] Anita Costumax
 [10089100000] N Costumax
+[10130900000] Serena 
+(Campionessa)
+[10003900000] Calem 
+(Campione)
+[10026400000] Chiara 
+(feste 2022)
+[10113410000] Jasmine 
+(feste 2022)
 
 ===========
 trainer_verbose_name_ja.lsd
@@ -34742,6 +35373,14 @@ trainer_verbose_name_ja.lsd
 [10020100000] マジコストウヤ
 [10004100000] マジコストウコ
 [10089100000] マジコスN
+[10130900000] セレナ
+（チャンピオン）
+[10003900000] カルム
+（チャンピオン）
+[10026400000] アカネ
+（２２シーズン）
+[10113410000] ミカン
+（２２シーズン）
 
 ===========
 trainer_verbose_name_ko.lsd
@@ -34884,6 +35523,14 @@ trainer_verbose_name_ko.lsd
 [10020100000] 궁극코스 투지
 [10004100000] 궁극코스 투희
 [10089100000] 궁극코스 N
+[10130900000] 세레나
+(챔피언)
+[10003900000] 칼름
+(챔피언)
+[10026400000] 꼭두
+(22시즌)
+[10113410000] 규리
+(22시즌)
 
 ===========
 trainer_verbose_name_zh-TW.lsd
@@ -35026,6 +35673,14 @@ trainer_verbose_name_zh-TW.lsd
 [10020100000] 美極套裝鬥也
 [10004100000] 美極套裝鬥子
 [10089100000] 美極套裝N
+[10130900000] 莎莉娜
+（冠軍）
+[10003900000] 卡魯穆
+（冠軍）
+[10026400000] 小茜
+（２０２２冬季）
+[10113410000] 阿蜜
+（２０２２冬季）
 
 ===========
 common_widget_de.lsd
@@ -50303,6 +50958,14 @@ beanspruchen. Bitte übertrage die Daten erneut auf
 ein Gerät mit demselben Betriebssystem wie das für
 den Kauf verwendete Gerät, um die Juwelen in
 Anspruch nehmen zu können.
+[shop/shop_common_023] Du kannst gekaufte Juwelen, die durch einen exklusiven
+Login-Bonus erhalten wurden, beim Übertragen von
+Daten von einem Gerät mit einem anderen Betriebssystem
+(z. B. iOS oder Android) als dem, mit dem das
+entsprechende Set gekauft wurde, nicht beanspruchen.
+Übertrage die Daten erneut auf ein Gerät mit demselben
+Betriebssystem wie das für den Kauf verwendete, um
+die Juwelen beanspruchen zu können.
 [shop/shop_medal_001] Juwelen-Kauf
 [shop/shop_medal_002] Sonderrabatt
 [shop/shop_medal_003] Schließen
@@ -50525,6 +51188,13 @@ in dein Team geholt hast.
 [shop/shop_itemexchange_048] Lieder
 [shop/shop_itemexchange_049] Berühre das Symbol eines Liedes, um kurz reinzuhören.
 [shop/shop_itemexchange_050] Lieder
+[shop/shop_itemexchange_051] Ausrüstung
+[shop/shop_itemexchange_052] Legenden-Abenteuer
+[shop/shop_itemexchange_053] Alte Items
+[shop/shop_itemexchange_054] Tausche alte Items ein, die nicht mehr genutzt werden können.
+[shop/shop_itemexchange_055] Ausrüstung
+[shop/shop_itemexchange_056] Legenden-Abenteuer
+[shop/shop_itemexchange_057] Alte Items
 [shop/scout_001] Gefährtensuche
 [shop/scout_002] G-Suche-
 Punkte
@@ -51066,6 +51736,13 @@ obtained for fulfilling requirements cannot be
 claimed. In order to claim paid gems, try transferring
 data to a device with the same OS as the one used to
 purchase the bundle.
+[shop/shop_common_023] If game data is transferred to a device with a
+different OS (such as iOS or Android) than the device
+on which a bundle was purchased, paid gems
+from the exclusive log-in bonus cannot be claimed.
+In order to claim paid gems, try transferring
+data to a device with the same OS as the one used to
+purchase the bundle.
 [shop/shop_medal_001] Purchase Gems
 [shop/shop_medal_002] Special Discount
 [shop/shop_medal_003] Close
@@ -51279,6 +51956,13 @@ for this exchange?
 [shop/shop_itemexchange_048] Music
 [shop/shop_itemexchange_049] Tap on the song key icon to preview songs.
 [shop/shop_itemexchange_050] Songs
+[shop/shop_itemexchange_051] Gear
+[shop/shop_itemexchange_052] Legendary Adventures
+[shop/shop_itemexchange_053] Old Items
+[shop/shop_itemexchange_054] Exchange old items that can’t be used anymore.
+[shop/shop_itemexchange_055] Gear
+[shop/shop_itemexchange_056] Legendary Adventures
+[shop/shop_itemexchange_057] Old Items
 [shop/scout_001] Sync Pair Scout
 [shop/scout_002] Scout
 Points
@@ -51710,6 +52394,14 @@ los requisitos.
 Para poder obtenerlas, vuelve a transferir los datos a
 un dispositivo con el mismo sistema operativo que el
 que utilices durante la compra.
+[shop/shop_common_023] Aviso: Si transfieres tus datos de guardado a un
+dispositivo con un sistema operativo (iOS o Android)
+distinto al dispositivo con el que compres un lote,
+no podrás obtener las joyas de pago de la
+bonificación de inicio de sesión.
+Para poder obtenerlas, vuelve a transferir los datos a
+un dispositivo con el mismo sistema operativo que el
+que utilices durante la compra.
 [shop/shop_medal_001] Comprar joyas
 [shop/shop_medal_002] Oferta especial
 [shop/shop_medal_003] Cerrar
@@ -51913,6 +52605,13 @@ de este objeto.
 [shop/shop_itemexchange_048] Música
 [shop/shop_itemexchange_049] Puedes oír una muestra de la música si tocas el icono del objeto.
 [shop/shop_itemexchange_050] Música
+[shop/shop_itemexchange_051] Accesorios
+[shop/shop_itemexchange_052] Trama Pokémon legendarios
+[shop/shop_itemexchange_053] Objetos antiguos
+[shop/shop_itemexchange_054] Aquí puedes canjear objetos antiguos que ya no se puedan usar.
+[shop/shop_itemexchange_055] Accesorios
+[shop/shop_itemexchange_056] Trama P. legen.
+[shop/shop_itemexchange_057] Obj. antiguos
 [shop/scout_001] Reclutamiento
 [shop/scout_002] Puntos
 reclut.
@@ -52289,6 +52988,14 @@ les conditions requises.
 Pour les obtenir, transférez à nouveau les données
 vers un appareil doté du même système d'exploitation
 que celui utilisé lors de l'achat.
+[shop/shop_common_023] Si vous transférez vos données de sauvegarde
+vers un appareil doté d'un système d'exploitation
+(iOS ou Android) différent de l'appareil avec lequel
+vous achetez un lot, vous ne pourrez pas recevoir
+les Diamants payants du bonus de connexion exclusif.
+Pour les obtenir, transférez à nouveau les données
+vers un appareil doté du même système d'exploitation
+que celui utilisé lors de l'achat.
 [shop/shop_medal_001] Achat de Diamants
 [shop/shop_medal_002] Promotion
 [shop/shop_medal_003] Fermer
@@ -52514,6 +53221,13 @@ de ce type à la fois.
 [shop/shop_itemexchange_048] Musique
 [shop/shop_itemexchange_049] Vous pouvez écouter un morceau en touchant l'icône de l'objet.
 [shop/shop_itemexchange_050] Morceaux
+[shop/shop_itemexchange_051] Équipement
+[shop/shop_itemexchange_052] Les Pokémon légendaires
+[shop/shop_itemexchange_053] Vieux objets
+[shop/shop_itemexchange_054] Vous pouvez échanger les vieux objets désormais inutilisables.
+[shop/shop_itemexchange_055] Équipement
+[shop/shop_itemexchange_056] Les Pokémon légendaires
+[shop/shop_itemexchange_057] Vieux objets
 [shop/scout_001] Appel Duo
 [shop/scout_002] Pts d'Appel
 Duo
@@ -52912,6 +53626,14 @@ soddisfacendo i requisiti. Per ricevere le gemme
 a pagamento puoi trasferire nuovamente i dati
 a un dispositivo dotato dello stesso sistema operativo
 utilizzato all'acquisto.
+[shop/shop_common_023] Trasferendo i dati di gioco a un dispositivo con
+un sistema operativo diverso (come iOS o Android)
+da quello del dispositivo utilizzato per l'acquisto
+di un pacchetto, non sarà possibile ricevere le gemme
+a pagamento ottenute con il bonus accesso esclusivo.
+Per ricevere le gemme a pagamento puoi trasferire
+nuovamente i dati a un dispositivo dotato dello stesso
+sistema operativo utilizzato all'acquisto.
 [shop/shop_medal_001] Acquisto gemme
 [shop/shop_medal_002] Offerta speciale
 [shop/shop_medal_003] Chiudi
@@ -53128,6 +53850,13 @@ scambiato.
 [shop/shop_itemexchange_048] Musica
 [shop/shop_itemexchange_049] Puoi ascoltare un'anteprima toccando l'icona dello strumento.
 [shop/shop_itemexchange_050] Musica
+[shop/shop_itemexchange_051] Accessori
+[shop/shop_itemexchange_052] I Pokémon leggendari
+[shop/shop_itemexchange_053] Vecchi strumenti
+[shop/shop_itemexchange_054] Puoi scambiare vecchi strumenti ormai inutilizzabili.
+[shop/shop_itemexchange_055] Accessori
+[shop/shop_itemexchange_056] I Pokémon leggendari
+[shop/shop_itemexchange_057] Vecchi strumenti
 [shop/scout_001] Ricerca Unità
 [shop/scout_002] Punti
 Unicerca
@@ -53596,6 +54325,13 @@ OS（iOSやAndroidなど）の
 受け取ることはできません
 購入した端末と同じOSの端末に
 再度データを引き継いでお受け取りください
+[shop/shop_common_023] 該当のパックを購入した端末と異なる
+OS（iOSやAndroidなど）の
+端末にデータを引き継いだ場合は
+購入者限定ログインボーナスの有償ダイヤを
+受け取ることはできません
+購入した端末と同じOSの端末に
+再度データを引き継いでお受け取りください
 [shop/shop_medal_001] ダイヤ購入
 [shop/shop_medal_002] 特別ディスカウント
 [shop/shop_medal_003] とじる
@@ -53824,6 +54560,13 @@ SP報酬が解放されるおとくなパック！
 [shop/shop_itemexchange_048] 楽曲
 [shop/shop_itemexchange_049] どうぐアイコンをタップすると楽曲を試聴できます
 [shop/shop_itemexchange_050] 楽曲
+[shop/shop_itemexchange_051] 装備
+[shop/shop_itemexchange_052] 伝説ポケモン編
+[shop/shop_itemexchange_053] 古いどうぐ
+[shop/shop_itemexchange_054] 使用できなくなった古いどうぐを交換できます
+[shop/shop_itemexchange_055] 装備
+[shop/shop_itemexchange_056] 伝説ポケモン編
+[shop/shop_itemexchange_057] 古いどうぐ
 [shop/scout_001] バディーズサーチ
 [shop/scout_002] Ｂサーチ
 ポイント
@@ -54284,6 +55027,13 @@ OS(iOS 또는 Android 등)의
 받을 수 없습니다
 구입한 단말기와 같은 OS 단말기로
 다시 데이터 이어받기를 진행하여 주십시오
+[shop/shop_common_023] 해당 팩을 구입한 단말기와
+다른 OS(iOS 또는 Android 등)의 단말기로
+데이터를 이어받은 경우에는
+구입자 대상 로그인 보너스의 유료 다이아를
+받을 수 없습니다
+구입한 단말기와 같은 OS 단말기로
+다시 데이터 이어받기를 진행하여 주십시오
 [shop/shop_medal_001] 다이아 구입
 [shop/shop_medal_002] 특별 할인
 [shop/shop_medal_003] 닫기
@@ -54504,6 +55254,13 @@ SP 보상이 해방되는 유용한 팩!
 [shop/shop_itemexchange_048] 악곡
 [shop/shop_itemexchange_049] 도구 아이콘을 터치하면 악곡을 미리 들어볼 수 있습니다
 [shop/shop_itemexchange_050] 악곡
+[shop/shop_itemexchange_051] 장비
+[shop/shop_itemexchange_052] 전설 포켓몬 편
+[shop/shop_itemexchange_053] 낡은 도구
+[shop/shop_itemexchange_054] 사용할 수 없게 된 낡은 도구를 교환할 수 있습니다
+[shop/shop_itemexchange_055] 장비
+[shop/shop_itemexchange_056] 전설 포켓몬 편
+[shop/shop_itemexchange_057] 낡은 도구
 [shop/scout_001] 버디즈서치
 [shop/scout_002] B서치
 포인트
@@ -54994,6 +55751,11 @@ shop_zh-TW.lsd
 將無法領取達成條件時發放的付費鑽石
 請再次將資料轉移到與購買組合包時
 相同OS的裝置，以便領取鑽石
+[shop/shop_common_023] 購買特定組合包後若將資料轉移到
+不同OS（iOS或Android等）的裝置上
+將無法領取購買者限定登入獎勵的付費鑽石
+請再次將資料轉移到與購買組合包時
+相同OS的裝置，以便領取鑽石
 [shop/shop_medal_001] 購買鑽石
 [shop/shop_medal_002] 特別折扣
 [shop/shop_medal_003] 關閉
@@ -55208,6 +55970,13 @@ shop_zh-TW.lsd
 [shop/shop_itemexchange_048] 樂曲
 [shop/shop_itemexchange_049] 點選道具圖示即可試聽樂曲
 [shop/shop_itemexchange_050] 樂曲
+[shop/shop_itemexchange_051] 裝備
+[shop/shop_itemexchange_052] 傳說的寶可夢篇
+[shop/shop_itemexchange_053] 舊道具
+[shop/shop_itemexchange_054] 可用已無法使用的舊道具來交換
+[shop/shop_itemexchange_055] 裝備
+[shop/shop_itemexchange_056] 傳說的寶可夢篇
+[shop/shop_itemexchange_057] 舊道具
 [shop/scout_001] 拍組搜尋
 [shop/scout_002] 拍組搜尋
 點數
