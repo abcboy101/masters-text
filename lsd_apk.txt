@@ -5818,6 +5818,64 @@ Erwachsenwerden
 [quest_title_1030440708403010] Vs. Benson 3
 [quest_title_1030440708404010] Vs. Benson 4
 [quest_title_1030440708405010] Täglicher Bonus-Kampf
+[quest_group_title_10124400000] Maho (Saison 2023)
+[quest_group_title_10106400000] Kamilla (Saison 2023)
+[quest_group_title_10196100000] MaMo-Flordelis
+[quest_group_title_10178000000] Anabel
+[quest_group_title_10220000000] Matière
+[quest_title_1040001480001011] Ein besonderer Tag mit Jens
+(Teil 1)
+[quest_title_1040001480001021] Ein besonderer Tag mit Jens
+(Teil 2)
+[quest_title_1030440800101010] Vs. Diantha
+[quest_title_1030440800105010] Vs. Thymelot
+[quest_title_1030440800108010] Vs. Pachira
+[quest_title_1030440800111010] Vs. Dracena
+[quest_title_1030440800115010] Vs. Narcisse
+[quest_title_1030501000601010] Aktion zum Tag der
+Freundschaft
+[quest_title_1030501000601020] Großartigster vs. Ultimativer!
+[quest_title_1030501000601080] Vs. Trainer aus Passio 1
+[quest_title_1030501000601030] Das Jurymitglied aus Galar
+[quest_title_1030501000601090] Vs. Trainer aus Passio 2
+[quest_title_1030501000601040] Alles bereit?
+[quest_title_1030501000601100] Vs. Trainer aus Passio 3
+[quest_title_1030501000601050] Der Pfad des Meisterkochs
+[quest_title_1030501000601110] Vs. Trainer aus Passio 4
+[quest_title_1030501000601120] Täglicher schwerer Kampf
+[quest_title_1030501000601130] Herausforderungskampf 1
+[quest_title_1030501000601140] Herausforderungskampf 2
+[quest_title_1030501000601060] Erinnerungen zum Anbeißen
+[quest_title_1030501000601070] Ein Fangeschenk
+[quest_title_1030110000540100] Pokémon im Nebel
+[quest_title_1030110000540600] Vs. Rüpel von Team Flare 5
+[quest_title_1030110000540200] Die wahren Schuldigen
+[quest_title_1030110000540700] Vs. Flare Rüpel? 1
+[quest_title_1030110000540300] Ermittler und Gendarme
+[quest_title_1030110000540800] Vs. Flare Rüpel? 2
+[quest_title_1030110000540400] Mach’s gut, LeBelle?
+[quest_title_1030110000540900] Vs. Flare Rüpel? 3
+[quest_title_1030110000540500] Unterm Sternenhimmel
+[quest_title_1030501000602010] Vs. Rüpel von Team Flare 1
+[quest_title_1030501000602020] Vs. Rüpel von Team Flare 2
+[quest_title_1030501000602030] Vs. Rüpel von Team Flare 3
+[quest_title_1030501000602040] Täglicher schwerer Kampf
+[quest_title_1030501000602050] Herausforderungskampf 1
+[quest_title_1030501000602060] Herausforderungskampf 2
+[quest_title_1030501000603010] Stelle dich Serena! 1
+[quest_title_1030501000603020] Stelle dich Serena! 2
+[quest_title_1030501000603030] Stelle dich Kalem! 1
+[quest_title_1030501000603040] Stelle dich Kalem! 2
+[quest_title_1030501000604010] Galar-Kameraden 1
+[quest_title_1030501000604020] Galar-Kameraden 2
+[quest_title_1030501000605010] Mauzi überall!
+[quest_title_1030501000605020] Vs. Mauzi 1
+[quest_title_1030501000605030] Vs. Mauzi 2
+[quest_title_1030501000605040] Vs. Mauzi 3
+[quest_title_1030501000605050] Vs. Mauzi 4
+[quest_title_1030220196100000] Ein Tag mit MaMo-Flordelis
+[quest_title_1030220178000000] Ein Tag mit Anabel
+[quest_title_1030220220000000] Ein Tag mit Matière
 
 ===========
 story_quest_name_en.lsd
@@ -8621,6 +8679,61 @@ Part 2
 [quest_title_1030440708403010] Challenge Marlon: Part 3
 [quest_title_1030440708404010] Challenge Marlon: Part 4
 [quest_title_1030440708405010] Daily Bonus Battle 1
+[quest_group_title_10124400000] Mallow (Palentine’s 2023)
+[quest_group_title_10106400000] Elesa (Palentine’s 2023)
+[quest_group_title_10196100000] Sygna Suit Lysandre
+[quest_group_title_10178000000] Anabel
+[quest_group_title_10220000000] Emma
+[quest_title_1040001480001011] A Special Day with Morty: Part 1
+[quest_title_1040001480001021] A Special Day with Morty: Part 2
+[quest_title_1030440800101010] Diantha
+[quest_title_1030440800105010] Wikstrom
+[quest_title_1030440800108010] Malva
+[quest_title_1030440800111010] Drasna
+[quest_title_1030440800115010] Siebold
+[quest_title_1030501000601010] Palentine’s Day Campaign
+[quest_title_1030501000601020] Mightiest vs. Ultimate!
+[quest_title_1030501000601080] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030501000601030] The Judge from Galar
+[quest_title_1030501000601090] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030501000601040] Ready to Bake!
+[quest_title_1030501000601100] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030501000601050] A Chef’s Path
+[quest_title_1030501000601110] Challenge Pasio’s Trainers: Part 4
+[quest_title_1030501000601120] Daily Extreme Battle 1
+[quest_title_1030501000601130] Battle Challenge! Round 1
+[quest_title_1030501000601140] Battle Challenge! Round 2
+[quest_title_1030501000601060] Tastier Together
+[quest_title_1030501000601070] From a Huge Fan
+[quest_title_1030110000540100] Hidden from Sight
+[quest_title_1030110000540600] Challenge the Flare Grunts: Part 5
+[quest_title_1030110000540200] The Traitors’ True Identity
+[quest_title_1030110000540700] Challenge the Flare Grunts(?): Part 1
+[quest_title_1030110000540300] Detectives and Officers
+[quest_title_1030110000540800] Challenge the Flare Grunts(?): Part 2
+[quest_title_1030110000540400] Farewell, Looker?
+[quest_title_1030110000540900] Challenge the Flare Grunts(?): Part 3
+[quest_title_1030110000540500] Under a Beautiful Night Sky
+[quest_title_1030501000602010] Challenge the Flare Grunts: Part 1
+[quest_title_1030501000602020] Challenge the Flare Grunts: Part 2
+[quest_title_1030501000602030] Challenge the Flare Grunts: Part 3
+[quest_title_1030501000602040] Daily Extreme Battle 1
+[quest_title_1030501000602050] Battle Challenge! Round 1
+[quest_title_1030501000602060] Battle Challenge! Round 2
+[quest_title_1030501000603010] Take On Serena! Part 1
+[quest_title_1030501000603020] Take On Serena! Part 2
+[quest_title_1030501000603030] Take On Calem! Part 1
+[quest_title_1030501000603040] Take On Calem! Part 2
+[quest_title_1030501000604010] Galar Buddies Unite: Part 1
+[quest_title_1030501000604020] Galar Buddies Unite: Part 2
+[quest_title_1030501000605010] So Many Meowth!
+[quest_title_1030501000605020] Battle Me-owth! Part 1
+[quest_title_1030501000605030] Battle Me-owth! Part 2
+[quest_title_1030501000605040] Battle Me-owth! Part 3
+[quest_title_1030501000605050] Battle Me-owth! Part 4
+[quest_title_1030220196100000] A Day with Sygna Suit Lysandre
+[quest_title_1030220178000000] A Day with Anabel
+[quest_title_1030220220000000] A Day with Emma
 
 ===========
 story_quest_name_es.lsd
@@ -11684,6 +11797,62 @@ Xana
 [quest_title_1030440708403010] VS. Ciprián (3)
 [quest_title_1030440708404010] VS. Ciprián (4)
 [quest_title_1030440708405010] ¡Un combate extra al día!
+[quest_group_title_10124400000] Lulú (Temporada 23)
+[quest_group_title_10106400000] Camila (Temporada 23)
+[quest_group_title_10196100000] Lysson (Traje S)
+[quest_group_title_10178000000] Destra
+[quest_group_title_10220000000] Matière
+[quest_title_1040001480001011] Un día especial con Morti
+[quest_title_1040001480001021] Un día especial con Morti (2)
+[quest_title_1030440800101010] VS. Dianta
+[quest_title_1030440800105010] VS. Tileo
+[quest_title_1030440800108010] VS. Malva
+[quest_title_1030440800111010] VS. Drácena
+[quest_title_1030440800115010] VS. Narciso
+[quest_title_1030501000601010] Campaña publicitaria por el
+Día de la Amistad
+[quest_title_1030501000601020] ¿De rechupete o suprema?
+[quest_title_1030501000601080] VS. Entrenadores de Passio
+[quest_title_1030501000601030] El juez de Galar
+[quest_title_1030501000601090] VS. Entrenadores de Passio (2)
+[quest_title_1030501000601040] ¡A calentar los hornos!
+[quest_title_1030501000601100] VS. Entrenadores de Passio (3)
+[quest_title_1030501000601050] La senda de la cocina
+[quest_title_1030501000601110] VS. Entrenadores de Passio (4)
+[quest_title_1030501000601120] ¡Un combate difícil al día!
+[quest_title_1030501000601130] ¡Un combate desafiante!
+[quest_title_1030501000601140] ¡Un combate desafiante! (2)
+[quest_title_1030501000601060] Con ayuda sabe mejor
+[quest_title_1030501000601070] De tu fan número uno
+[quest_title_1030110000540100] Oculto a simple vista
+[quest_title_1030110000540600] VS. Reclutas del Team Flare (5)
+[quest_title_1030110000540200] La identidad de los traidores
+[quest_title_1030110000540700] VS. ¿Reclutas del Team Flare?
+[quest_title_1030110000540300] De detectives y agentes
+[quest_title_1030110000540800] VS. ¿Reclutas del Team Flare? (2)
+[quest_title_1030110000540400] ¿Misión cumplida?
+[quest_title_1030110000540900] VS. ¿Reclutas del Team Flare? (3)
+[quest_title_1030110000540500] Bajo un hermoso cielo nocturno
+[quest_title_1030501000602010] VS. Reclutas del Team Flare
+[quest_title_1030501000602020] VS. Reclutas del Team Flare (2)
+[quest_title_1030501000602030] VS. Reclutas del Team Flare (3)
+[quest_title_1030501000602040] ¡Un combate difícil al día!
+[quest_title_1030501000602050] ¡Un combate desafiante!
+[quest_title_1030501000602060] ¡Un combate desafiante! (2)
+[quest_title_1030501000603010] ¡Enfréntate a Serena!
+[quest_title_1030501000603020] ¡Enfréntate a Serena! (2)
+[quest_title_1030501000603030] ¡Enfréntate a Kalm!
+[quest_title_1030501000603040] ¡Enfréntate a Kalm! (2)
+[quest_title_1030501000604010] Desafío con compis de Galar
+[quest_title_1030501000604020] Desafío con compis de Galar (2)
+[quest_title_1030501000605010] ¡Un miauntón de Meowth!
+[quest_title_1030501000605020] VS. Meowth a montones
+[quest_title_1030501000605030] VS. Meowth a montones (2)
+[quest_title_1030501000605040] VS. Meowth a montones (3)
+[quest_title_1030501000605050] VS. Meowth a montones (4)
+[quest_title_1030220196100000] Un día con Lysson (Traje S)
+[quest_title_1030220178000000] Un día con Destra
+[quest_title_1030220220000000] Un día con Matière
 
 ===========
 story_quest_name_fr.lsd
@@ -15025,6 +15194,75 @@ et Adriane
 [quest_title_1030440708404010] Combat : Amana IV
 [quest_title_1030440708405010] Combat bonus limité
 à une fois par jour !
+[quest_group_title_10124400000] Barbara (Saison 2023)
+[quest_group_title_10106400000] Inezia (Saison 2023)
+[quest_group_title_10196100000] Lysandre (Look Ultime)
+[quest_group_title_10178000000] Cathy
+[quest_group_title_10220000000] Millie
+[quest_title_1040001480001011] Une journée spéciale
+avec Mortimer
+[quest_title_1040001480001021] Une journée spéciale
+avec Mortimer II
+[quest_title_1030440800101010] Combat : Dianthéa
+[quest_title_1030440800105010] Combat : Thyméo
+[quest_title_1030440800108010] Combat : Malva
+[quest_title_1030440800111010] Combat : Dracéna
+[quest_title_1030440800115010] Combat : Narcisse
+[quest_title_1030501000601010] Campagne de la Fête de l'amitié
+[quest_title_1030501000601020] La meilleure contre l'ultime !
+[quest_title_1030501000601080] Combat : Dresseurs de Passio
+[quest_title_1030501000601030] Le juge de Galar
+[quest_title_1030501000601090] Combat :
+Dresseurs de Passio II
+[quest_title_1030501000601040] Aux fourneaux !
+[quest_title_1030501000601100] Combat :
+Dresseurs de Passio III
+[quest_title_1030501000601050] La voie de la cuisine
+[quest_title_1030501000601110] Combat :
+Dresseurs de Passio IV
+[quest_title_1030501000601120] Combat difficile limité
+à une fois par jour !
+[quest_title_1030501000601130] Combat difficile
+[quest_title_1030501000601140] Combat difficile II
+[quest_title_1030501000601060] En chœur pour la saveur
+[quest_title_1030501000601070] De la part d'un grand fan
+[quest_title_1030110000540100] Imperceptible à l'œil nu
+[quest_title_1030110000540600] Combat :
+Sbires Team Flare V
+[quest_title_1030110000540200] Les traîtres se dévoilent
+[quest_title_1030110000540700] Combat :
+Sbires Team Flare ?
+[quest_title_1030110000540300] L'arrivée de la Cheffe !
+[quest_title_1030110000540800] Combat :
+Sbires Team Flare ? II
+[quest_title_1030110000540400] Mission accomplie ?
+[quest_title_1030110000540900] Combat :
+Sbires Team Flare ? III
+[quest_title_1030110000540500] Sous le ciel étoilé
+[quest_title_1030501000602010] Combat : Sbires Team Flare
+[quest_title_1030501000602020] Combat :
+Sbires Team Flare II
+[quest_title_1030501000602030] Combat :
+Sbires Team Flare III
+[quest_title_1030501000602040] Combat difficile limité
+à une fois par jour !
+[quest_title_1030501000602050] Combat difficile
+[quest_title_1030501000602060] Combat difficile II
+[quest_title_1030501000603010] Combat corsé : Serena
+[quest_title_1030501000603020] Combat corsé : Serena II
+[quest_title_1030501000603030] Combat corsé : Kalem
+[quest_title_1030501000603040] Combat corsé : Kalem II
+[quest_title_1030501000604010] Compagnons de Galar
+[quest_title_1030501000604020] Compagnons de Galar II
+[quest_title_1030501000605010] Tellement de Miaouss !
+[quest_title_1030501000605020] Combat contre Miaouss !
+[quest_title_1030501000605030] Combat contre Miaouss ! II
+[quest_title_1030501000605040] Combat contre Miaouss ! III
+[quest_title_1030501000605050] Combat contre Miaouss ! IV
+[quest_title_1030220196100000] Une journée avec Lysandre
+(Look Ultime)
+[quest_title_1030220178000000] Une journée avec Cathy
+[quest_title_1030220220000000] Une journée avec Millie
 
 ===========
 story_quest_name_it.lsd
@@ -17385,7 +17623,7 @@ story_quest_name_it.lsd
 [quest_title_1030406000606030] La terza prova
 [quest_title_1030406000606040] La quarta prova
 [quest_title_1030220012100000] Un giorno con Ornella Costumax
-[quest_title_1030220243800000] Un giorno con Gloria
+[quest_title_1030220243800000] Un giorno con Gloria (Uniforme dojo)
 [quest_title_1040001010001011] Un giorno speciale con Rina (1ª parte)
 [quest_title_1040001010001021] Un giorno speciale con Rina (2ª parte)
 [quest_title_1040001180001011] Un giorno speciale con Lylia (1ª parte)
@@ -17512,7 +17750,7 @@ story_quest_name_it.lsd
 [quest_title_1030440708302010] VS Narciso 2
 [quest_title_1030440708303010] VS Narciso 3
 [quest_title_1030440708304010] VS Narciso 4
-[quest_title_1030440708305010] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030440708305010] Lotta bonus (una al giorno)!
 [quest_title_1030440800301010] VS Allenatori di Pasio
 [quest_title_1030440800302010] VS Allenatori di Pasio 2
 [quest_title_1030440800303010] VS Allenatori di Pasio 3
@@ -17776,6 +18014,61 @@ story_quest_name_it.lsd
 [quest_title_1030440708403010] VS Ciprian 3
 [quest_title_1030440708404010] VS Ciprian 4
 [quest_title_1030440708405010] Lotta bonus (una al giorno)!
+[quest_group_title_10124400000] Ibis (feste 2023)
+[quest_group_title_10106400000] Camelia (feste 2023)
+[quest_group_title_10196100000] Elisio Costumax
+[quest_group_title_10178000000] Alberta
+[quest_group_title_10220000000] Matière
+[quest_title_1040001480001011] Un giorno speciale con Angelo (1ª parte)
+[quest_title_1040001480001021] Un giorno speciale con Angelo (2ª parte)
+[quest_title_1030440800101010] VS Diantha
+[quest_title_1030440800105010] VS Timeus
+[quest_title_1030440800108010] VS Malva
+[quest_title_1030440800111010] VS Lilia
+[quest_title_1030440800115010] VS Narciso
+[quest_title_1030501000601010] La campagna del Giorno dell'affetto
+[quest_title_1030501000601020] Potentissima VS suprema!
+[quest_title_1030501000601080] VS Allenatori di Pasio
+[quest_title_1030501000601030] Il giudice di Galar
+[quest_title_1030501000601090] VS Allenatori di Pasio 2
+[quest_title_1030501000601040] Pronti a infornare!
+[quest_title_1030501000601100] VS Allenatori di Pasio 3
+[quest_title_1030501000601050] Verso l'eccellenza culinaria
+[quest_title_1030501000601110] VS Allenatori di Pasio 4
+[quest_title_1030501000601120] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030501000601130] Sfida ad alta difficoltà
+[quest_title_1030501000601140] Sfida ad alta difficoltà 2
+[quest_title_1030501000601060] Insieme c'è più gusto
+[quest_title_1030501000601070] Un pegno di ammirazione
+[quest_title_1030110000540100] Il Pokémon invisibile
+[quest_title_1030110000540600] VS Reclute del Team Flare 5
+[quest_title_1030110000540200] La vera identità dei traditori
+[quest_title_1030110000540700] VS Reclute del Team Flare?
+[quest_title_1030110000540300] I detective e l'agente
+[quest_title_1030110000540800] VS Reclute del Team Flare? 2
+[quest_title_1030110000540400] È finita, Bellocchio...?
+[quest_title_1030110000540900] VS Reclute del Team Flare? 3
+[quest_title_1030110000540500] Sotto uno splendido cielo stellato
+[quest_title_1030501000602010] VS Reclute del Team Flare
+[quest_title_1030501000602020] VS Reclute del Team Flare 2
+[quest_title_1030501000602030] VS Reclute del Team Flare 3
+[quest_title_1030501000602040] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030501000602050] Sfida ad alta difficoltà
+[quest_title_1030501000602060] Sfida ad alta difficoltà 2
+[quest_title_1030501000603010] Sfida un avversario potente: Serena
+[quest_title_1030501000603020] Sfida un avversario potente: Serena 2
+[quest_title_1030501000603030] Sfida un avversario potente: Calem
+[quest_title_1030501000603040] Sfida un avversario potente: Calem 2
+[quest_title_1030501000604010] Insieme agli amici di Galar
+[quest_title_1030501000604020] Insieme agli amici di Galar 2
+[quest_title_1030501000605010] Fin troppi Meowth!
+[quest_title_1030501000605020] Miagolotta con Meowth!
+[quest_title_1030501000605030] Miagolotta con Meowth! 2
+[quest_title_1030501000605040] Miagolotta con Meowth! 3
+[quest_title_1030501000605050] Miagolotta con Meowth! 4
+[quest_title_1030220196100000] Un giorno con Elisio Costumax
+[quest_title_1030220178000000] Un giorno con Alberta
+[quest_title_1030220220000000] Un giorno con Matière
 
 ===========
 story_quest_name_ja.lsd
@@ -20590,6 +20883,63 @@ story_quest_name_ja.lsd
 [quest_title_1030440708403010] ＶＳ　シズイ３
 [quest_title_1030440708404010] ＶＳ　シズイ４
 [quest_title_1030440708405010] １日１回限定・ボーナスバトル！
+[quest_group_title_10124400000] マオ
+（２３シーズン）
+[quest_group_title_10106400000] カミツレ
+（２３シーズン）
+[quest_group_title_10196100000] マジコスフラダリ
+[quest_group_title_10178000000] リラ
+[quest_group_title_10220000000] マチエール
+[quest_title_1040001480001011] マツバとの特別な一日　前編
+[quest_title_1040001480001021] マツバとの特別な一日　後編
+[quest_title_1030440800101010] ＶＳ　カルネ
+[quest_title_1030440800105010] ＶＳ　ガンピ
+[quest_title_1030440800108010] ＶＳ　パキラ
+[quest_title_1030440800111010] ＶＳ　ドラセナ
+[quest_title_1030440800115010] ＶＳ　ズミ
+[quest_title_1030501000601010] サンクスデイにキャンペーンを
+[quest_title_1030501000601020] 最強ＶＳ最高！
+[quest_title_1030501000601080] ＶＳ　パシオのトレーナー
+[quest_title_1030501000601030] ガラルから来た審査員
+[quest_title_1030501000601090] ＶＳ　パシオのトレーナー２
+[quest_title_1030501000601040] 対決前夜……！
+[quest_title_1030501000601100] ＶＳ　パシオのトレーナー３
+[quest_title_1030501000601050] 果てしなき料理の道
+[quest_title_1030501000601110] ＶＳ　パシオのトレーナー４
+[quest_title_1030501000601120] １日１回限定・高難度バトル！
+[quest_title_1030501000601130] チャレンジバトルで勝負！
+[quest_title_1030501000601140] チャレンジバトルで勝負！２
+[quest_title_1030501000601060] 一緒に作る思い出とおいしさ
+[quest_title_1030501000601070] 憧れと応援の気持ちを込めて……
+[quest_title_1030110000540100] 姿のみえないポケモン
+[quest_title_1030110000540600] ＶＳ　フレア団のしたっぱ５
+[quest_title_1030110000540200] 事件の真相　不届き者の正体
+[quest_title_1030110000540700] ＶＳ　フレア団のしたっぱ？
+[quest_title_1030110000540300] 突入　探偵と刑事
+[quest_title_1030110000540800] ＶＳ　フレア団のしたっぱ？２
+[quest_title_1030110000540400] さらば　ハンサム……？
+[quest_title_1030110000540900] ＶＳ　フレア団のしたっぱ？３
+[quest_title_1030110000540500] この美しき夜空の下で
+[quest_title_1030501000602010] ＶＳ　フレア団のしたっぱ
+[quest_title_1030501000602020] ＶＳ　フレア団のしたっぱ２
+[quest_title_1030501000602030] ＶＳ　フレア団のしたっぱ３
+[quest_title_1030501000602040] １日１回限定・高難度バトル！
+[quest_title_1030501000602050] チャレンジバトルで勝負！
+[quest_title_1030501000602060] チャレンジバトルで勝負！２
+[quest_title_1030501000603010] 強敵に挑戦！　ＶＳ　セレナ
+[quest_title_1030501000603020] 強敵に挑戦！　ＶＳ　セレナ２
+[quest_title_1030501000603030] 強敵に挑戦！　ＶＳ　カルム
+[quest_title_1030501000603040] 強敵に挑戦！　ＶＳ　カルム２
+[quest_title_1030501000604010] ガラルの仲間と挑戦！
+[quest_title_1030501000604020] ガラルの仲間と挑戦！２
+[quest_title_1030501000605010] いろんなニャースで迷っちゃう！
+[quest_title_1030501000605020] ニャースとバトルだにゃー
+[quest_title_1030501000605030] ニャースとバトルだにゃー２
+[quest_title_1030501000605040] ニャースとバトルだにゃー３
+[quest_title_1030501000605050] ニャースとバトルだにゃー４
+[quest_title_1030220196100000] とある日のマジコスフラダリ
+[quest_title_1030220178000000] とある日のリラ
+[quest_title_1030220220000000] とある日のマチエール
 
 ===========
 story_quest_name_ko.lsd
@@ -23403,6 +23753,63 @@ story_quest_name_ko.lsd
 [quest_title_1030440708403010] VS 시즈3
 [quest_title_1030440708404010] VS 시즈4
 [quest_title_1030440708405010] 1일 1회 한정 보너스 배틀!
+[quest_group_title_10124400000] 마오
+(23시즌)
+[quest_group_title_10106400000] 카밀레
+(23시즌)
+[quest_group_title_10196100000] 궁극코스 플라드리
+[quest_group_title_10178000000] 리라
+[quest_group_title_10220000000] 마티에르
+[quest_title_1040001480001011] 유빈과의 특별한 하루 전편
+[quest_title_1040001480001021] 유빈과의 특별한 하루 후편
+[quest_title_1030440800101010] VS 카르네
+[quest_title_1030440800105010] VS 간피
+[quest_title_1030440800108010] VS 파키라
+[quest_title_1030440800111010] VS 드라세나
+[quest_title_1030440800115010] VS 즈미
+[quest_title_1030501000601010] 스위트데이 캠페인
+[quest_title_1030501000601020] 최강 VS 최고!
+[quest_title_1030501000601080] VS 파시오의 트레이너
+[quest_title_1030501000601030] 가라르지방에서 온 심사위원
+[quest_title_1030501000601090] VS 파시오의 트레이너2
+[quest_title_1030501000601040] 대결 전날 밤...!
+[quest_title_1030501000601100] VS 파시오의 트레이너3
+[quest_title_1030501000601050] 끝이 없는 요리의 길
+[quest_title_1030501000601110] VS 파시오의 트레이너4
+[quest_title_1030501000601120] 1일 1회 한정 고난도 배틀!
+[quest_title_1030501000601130] 챌린지배틀로 승부!
+[quest_title_1030501000601140] 챌린지배틀로 승부!2
+[quest_title_1030501000601060] 함께 만드는 추억과 맛
+[quest_title_1030501000601070] 동경과 응원의 마음을 담아...
+[quest_title_1030110000540100] 모습이 보이지 않는 포켓몬
+[quest_title_1030110000540600] VS 플레어단의 조무래기5
+[quest_title_1030110000540200] 사건의 진상 괘씸한 자들의 정체
+[quest_title_1030110000540700] VS 플레어단의 조무래기?
+[quest_title_1030110000540300] 돌입 탐정과 형사
+[quest_title_1030110000540800] VS 플레어단의 조무래기?2
+[quest_title_1030110000540400] 핸섬 안녕히...?
+[quest_title_1030110000540900] VS 플레어단의 조무래기?3
+[quest_title_1030110000540500] 이 아름다운 밤하늘 아래에서
+[quest_title_1030501000602010] VS 플레어단의 조무래기
+[quest_title_1030501000602020] VS 플레어단의 조무래기2
+[quest_title_1030501000602030] VS 플레어단의 조무래기3
+[quest_title_1030501000602040] 1일 1회 한정 고난도 배틀!
+[quest_title_1030501000602050] 챌린지배틀로 승부!
+[quest_title_1030501000602060] 챌린지배틀로 승부!2
+[quest_title_1030501000603010] 강적에게 도전! VS 세레나
+[quest_title_1030501000603020] 강적에게 도전! VS 세레나2
+[quest_title_1030501000603030] 강적에게 도전! VS 칼름
+[quest_title_1030501000603040] 강적에게 도전! VS 칼름2
+[quest_title_1030501000604010] 가라르지방 동료들과 도전!
+[quest_title_1030501000604020] 가라르지방 동료들과 도전!2
+[quest_title_1030501000605010] 나옹이 여럿이라 고민돼!
+[quest_title_1030501000605020] 나옹이랑 배틀이다나옹~
+[quest_title_1030501000605030] 나옹이랑 배틀이다나옹~2
+[quest_title_1030501000605040] 나옹이랑 배틀이다나옹~3
+[quest_title_1030501000605050] 나옹이랑 배틀이다나옹~4
+[quest_title_1030220196100000] 궁극코스 플라드리의 어느 날
+[quest_title_1030220178000000] 리라의 어느 날
+[quest_title_1030220220000000] 마티에르의 어느 날
 
 ===========
 story_quest_name_zh-TW.lsd
@@ -26216,6 +26623,63 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030440708403010] ＶＳ　西子伊３
 [quest_title_1030440708404010] ＶＳ　西子伊４
 [quest_title_1030440708405010] １天僅限１次的獎勵對戰！
+[quest_group_title_10124400000] 瑪奧
+（２０２３春季）
+[quest_group_title_10106400000] 小菊兒
+（２０２３春季）
+[quest_group_title_10196100000] 美極套裝弗拉達利
+[quest_group_title_10178000000] 莉拉
+[quest_group_title_10220000000] 瑪琪艾兒
+[quest_title_1040001480001011] 與松葉的特別日子　前篇
+[quest_title_1040001480001021] 與松葉的特別日子　後篇
+[quest_title_1030440800101010] ＶＳ　卡露妮
+[quest_title_1030440800105010] ＶＳ　雁鎧
+[quest_title_1030440800108010] ＶＳ　帕琦拉
+[quest_title_1030440800111010] ＶＳ　朵拉塞娜
+[quest_title_1030440800115010] ＶＳ　志米
+[quest_title_1030501000601010] 在感謝日辦活動
+[quest_title_1030501000601020] 最強ＶＳ最棒！
+[quest_title_1030501000601080] ＶＳ　帕希歐的訓練家
+[quest_title_1030501000601030] 來自伽勒爾的評審
+[quest_title_1030501000601090] ＶＳ　帕希歐的訓練家２
+[quest_title_1030501000601040] 對決前夕……！
+[quest_title_1030501000601100] ＶＳ　帕希歐的訓練家３
+[quest_title_1030501000601050] 永無止境的料理之路
+[quest_title_1030501000601110] ＶＳ　帕希歐的訓練家４
+[quest_title_1030501000601120] １天僅限１次的高難度對戰！
+[quest_title_1030501000601130] 用挑戰對戰決勝負！
+[quest_title_1030501000601140] 用挑戰對戰決勝負！２
+[quest_title_1030501000601060] 一同打造的回憶與美味
+[quest_title_1030501000601070] 懷著崇拜與聲援之心……
+[quest_title_1030110000540100] 看不見身影的寶可夢
+[quest_title_1030110000540600] ＶＳ　閃焰隊手下５
+[quest_title_1030110000540200] 事件的真相：搗亂份子的真面目
+[quest_title_1030110000540700] ＶＳ　閃焰隊手下？
+[quest_title_1030110000540300] 闖入！偵探與刑警
+[quest_title_1030110000540800] ＶＳ　閃焰隊手下？２
+[quest_title_1030110000540400] 再見了帥哥……？
+[quest_title_1030110000540900] ＶＳ　閃焰隊手下？３
+[quest_title_1030110000540500] 在這美麗夜空之下
+[quest_title_1030501000602010] ＶＳ　閃焰隊手下
+[quest_title_1030501000602020] ＶＳ　閃焰隊手下２
+[quest_title_1030501000602030] ＶＳ　閃焰隊手下３
+[quest_title_1030501000602040] １天僅限１次的高難度對戰！
+[quest_title_1030501000602050] 用挑戰對戰決勝負！
+[quest_title_1030501000602060] 用挑戰對戰決勝負！２
+[quest_title_1030501000603010] 挑戰強敵！　ＶＳ　莎莉娜
+[quest_title_1030501000603020] 挑戰強敵！　ＶＳ　莎莉娜２
+[quest_title_1030501000603030] 挑戰強敵！　ＶＳ　卡魯穆
+[quest_title_1030501000603040] 挑戰強敵！　ＶＳ　卡魯穆２
+[quest_title_1030501000604010] 與伽勒爾的夥伴一起挑戰！
+[quest_title_1030501000604020] 與伽勒爾的夥伴一起挑戰！２
+[quest_title_1030501000605010] 好多喵喵好猶豫！
+[quest_title_1030501000605020] 與喵喵對戰喵～
+[quest_title_1030501000605030] 與喵喵對戰喵～２
+[quest_title_1030501000605040] 與喵喵對戰喵～３
+[quest_title_1030501000605050] 與喵喵對戰喵～４
+[quest_title_1030220196100000] 某日的美極套裝弗拉達利
+[quest_title_1030220178000000] 某日的莉拉
+[quest_title_1030220220000000] 某日的瑪琪艾兒
 
 ===========
 trainer_description_de.lsd
@@ -27157,6 +27621,25 @@ im Kampf immer absolut stylisch zu sein.
 [10130000001] Diese Trainerin liebt Pokémon und Mode. Sie ist stets
 fröhlich und positiv, doch im Kampf zeigt sie eine ruhige
 Ernsthaftigkeit.
+[10196100000] Flordelis trägt eine Machtmontur, die mit Technologie von
+Team Flare ausgestattet ist. Sein Pokémon, Volcanion,
+kann mit seiner Macht ganze Berge wegsprengen.
+[10124400000] Maho backt fleißig Apfelkuchen für das Fest der
+Freundschaft und versucht, ihr Rezept zu perfektionieren.
+Schlapfel hat sich mithilfe eines Süßen Apfels entwickelt.
+[10106400000] Kamilla bereitet sich auf das Fest der Freundschaft vor,
+indem sie Géraldine unterstützt und Süßigkeiten verteilt.
+Togetic bringt ihre Freundschaft zum Strahlen.
+[10178000000] Diese begabte Trainerin hat ihr Gedächtnis verloren und
+steckt voller Rätsel. Als Leiterin einer geheimen Division
+der Internationalen Polizei ist sie Ultrabestien auf der
+Spur.
+[10220000000] Diese junge Frau ist die Leiterin eines Detektivbüros in
+Illumina City in Kalos. Flauschi ist nicht ihr Pokémon,
+sondern ihr Freund.
+[10148000002] Dieser Arenaleiter kämpft mit Pokémon vom Typ Geist und
+kann durch sein geheimes Training in der Arena von Teak
+City sehen, was normalen Menschen verborgen bleibt.
 
 ===========
 trainer_description_en.lsd
@@ -27944,7 +28427,7 @@ ancient hunter.
 [10004100000] Hilda is back in her sygna suit. She’s bursting with even
 more energy than ever, thanks to her partner
 Pokémon, Victini.
-[10089100000] N is back in his synga suit. Together with Kyurem, which
+[10089100000] N is back in his sygna suit. Together with Kyurem, which
 Hilbert passed to him, and his friend Zekrom, he will
 forge a brighter future.
 [10191000000] This scientist and former boss of Team Plasma spends
@@ -27999,6 +28482,24 @@ with style.
 [10130000001] This Trainer from Kalos loves Pokémon and fashion. She’s
 usually cheerful and upbeat, but when a battle starts,
 her demeanor shifts, revealing her calm, serious side.
+[10196100000] Lysandre is wearing a sygna suit made using Team Flare’s
+technology. He’s waiting to use his partner Volcanion’s
+power, which can blow away mountains.
+[10124400000] Mallow is making apple pies for Palentine’s and working
+hard to perfect her mightiest apple pie recipe. Her partner
+Pokémon Appletun evolved using a Sweet Apple.
+[10106400000] Elesa is preparing for Palentine’s Day by planning
+a sweets giveaway to help Skyla out. Her partner
+Pokémon Togetic makes their friendship shine.
+[10178000000] This skilled Trainer is full of mysteries due to memory loss.
+She’s on the trail of Ultra Beasts as the head of the UB
+Task Force, a secret division of the International Police.
+[10220000000] This young lady happens to be the head of a detective
+bureau in Kalos’s Lumiose City. Mimi is her friend, not her
+partner Pokémon.
+[10148000002] This Ghost-type Gym Leader has secretly trained at the
+Ecruteak City Gym his entire life. As a result, he can now
+see what others cannot.
 
 ===========
 trainer_description_es.lsd
@@ -28988,6 +29489,28 @@ y elegancia.
 Pokémon. Su vivaz y alegre personalidad hace que
 siempre adopte una actitud positiva, aunque durante los
 combates se muestra centrada y responsable.
+[10196100000] Lysson lleva un Traje Summum fabricado con la tecnología
+del Team Flare. Ha unido fuerzas con Volcanion y está
+aguardando el momento de darle uso a esa potencia
+capaz de arrasar una montaña entera.
+[10124400000] Lulú está poniendo todo su empeño en perfeccionar su
+receta de tarta de manzana de rechupete para el Día de
+la Amistad. Su compi Appletun evolucionó al darle una
+Manzana Dulce.
+[10106400000] Camila está planeando salir a repartir dulces por el
+Día de la Amistad para ayudar a Gerania. La amistad que
+la une a su compi Togetic hace que brille aún más.
+[10178000000] Hábil Entrenadora que le sigue la pista a los Ultraentes
+como directora de la Unidad Especial de Prevención
+contra UE, una de las divisiones de los servicios secretos
+de la Policía Internacional. Sufre de amnesia, por lo que
+se sabe muy poco sobre ella.
+[10220000000] Ahí donde se la ve, esta muchacha es la jefa de una
+agencia de detectives de Ciudad Luminalia, en Kalos.
+Peluchín no es su compi Pokémon, sino su mejor amigo.
+[10148000002] Este líder especializado en tipo Fantasma ha entrenado
+muchas veces en secreto en el Gimnasio de Iris, por lo
+que ahora es capaz de ver lo que otros no pueden.
 
 ===========
 trainer_description_fr.lsd
@@ -29931,6 +30454,27 @@ avec élégance.
 [10130000001] Une jeune Dresseuse qui aime les Pokémon et la mode.
 D'une nature joyeuse et enjouée, elle révèle son côté
 adulte et calme dès que le combat commence !
+[10196100000] Lysandre porte un Look Ultime conçu à l'aide de la
+technologie de la Team Flare. Il attend le moment idéal 
+pour faire usage du pouvoir de son partenaire Volcanion,
+dont l'intensité permet d'éradiquer des montagnes.
+[10124400000] Barbara travaille dur pour préparer la meilleure des tartes
+aux pommes pour la Fête de l'amitié. Son partenaire
+Pokémon Dratatin a évolué à l'aide d'une Pomme Sucrée.
+[10106400000] Inezia se prépare pour la Fête de l'amitié en organisant
+une distribution de friandises pour aider Carolina.
+Son Pokémon Togetic fait briller leur amitié de mille feux.
+[10178000000] Cette Dresseuse talentueuse est pleine de mystères
+du fait de sa perte de mémoire. Elle est sur les traces
+des Ultra-Chimères en tant que cheffe du P.L.O.U.C.,
+une unité secrète des Forces de Police Internationales.
+[10220000000] Cette jeune fille s'avère être à la tête d'une agence
+de détectives de la ville d'Illumis à Kalos. Gribouille
+est avant tout son ami, et non son partenaire Pokemon.
+[10148000002] Champion d'Arène du type Spectre, Mortimer passe son
+temps à l'Arène de Rosalia à suivre son entraînement
+secret ! Il est ainsi capable de voir ce que les autres
+ne voient pas.
 
 ===========
 trainer_description_it.lsd
@@ -30855,6 +31399,28 @@ Nelle lotte si cura sempre di avere uno stile elegante.
 allegra e ottimista di carattere, ma quando arriva
 il momento di lottare sa anche essere matura
 e imperturbabile.
+[10196100000] Elisio indossa un Costumax realizzato con la tecnologia
+del Team Flare. Attende il momento giusto per utilizzare
+la potenza del suo compagno Volcanion, che sarebbe
+in grado di spazzare via una montagna.
+[10124400000] In vista del Giorno dell'affetto, Ibis si sta impegnando
+per preparare una potentissima torta di mele!
+Il suo Pokémon, Appletun, si è evoluto grazie a
+un Dolcepomo.
+[10106400000] In vista del Giorno dell'affetto, Camelia ha in programma
+di donare dolci per aiutare Anemone. Il suo Togetic
+fa risplendere al massimo la loro amicizia.
+[10178000000] Questa talentuosa Allenatrice è piena di misteri a causa
+di un'amnesia. Segue le tracce delle Ultracreature in
+quanto capo del centro operativo UC dei servizi segreti
+della Polizia Internazionale.
+[10220000000] Questa giovane fanciulla è a capo di un'agenzia
+investigativa a Luminopoli, nella regione di Kalos.
+Moko non è il suo compagno, bensì un caro amico.
+[10148000002] Capopalestra specializzato in Pokémon di tipo Spettro.
+Grazie ai lunghi allenamenti segreti nella Palestra
+di Amarantopoli, riesce ora a vedere ciò che gli altri
+non vedono.
 
 ===========
 trainer_description_ja.lsd
@@ -31693,6 +32259,24 @@ trainer_description_ja.lsd
 [10130000001] おしゃれと　ポケモンが　大好きな　トレーナー。
 快活で　明るく　前向きな　性格だが
 勝負のときは　クールで　大人びた　一面を　みせる。
+[10196100000] フレア団の科学力で　再現したマジコスを　身にまとい
+ボルケニオンと　バディになった　フラダリ。
+山をも吹き飛ばす力を　使うときを　みきわめている。
+[10124400000] サンクスデイに　アップルパイを　作る　マオ。
+「最強のアップルパイ」の　完成を目指し　がんばる。
+バディは　あまーいりんごで　進化した　タルップル。
+[10106400000] サンクスデイに　向けて　活動している　カミツレ。
+フウロを　応援するため　スイーツで宣伝を　計画中。
+バディの　トゲチックが　ふたりの友情を　輝かせる。
+[10178000000] 国際警察特務機関　ＵＢ対策本部の　部長として
+ウルトラビーストを　追う　腕利きのトレーナー。
+過去の　記憶を　失っており　謎も多い。
+[10220000000] 訳あって　カロス地方の　ミアレシティで
+探偵事務所の　所長を務めている　少女。
+「もこお」は　バディではなく　おともだち。
+[10148000002] ゴーストタイプの　ジムリーダー。
+エンジュジムで　秘密の　修行を　積み重ね
+人には　みえないものが　みえるようになった。
 
 ===========
 trainer_description_ko.lsd
@@ -32530,6 +33114,24 @@ WPM 운영위원회의 대표도 맡고 있다.
 [10130000001] 패션과 포켓몬을 좋아하는 트레이너.
 쾌활하고 밝으며 긍정적인 성격이지만
 승부할 때는 쿨하고 어른스러운 일면도 보여준다.
+[10196100000] 플레어단의 과학 기술로 재현한 궁극코스를 입고
+볼케니온과 버디가 된 플라드리.
+산조차도 날려버리는 힘을 사용할 순간을 가늠하고 있다.
+[10124400000] 스위트데이에 애플파이를 만드는 마오.
+"최강의 애플파이"를 완성하기 위해 노력한다.
+버디는 달콤한사과로 진화한 단지래플.
+[10106400000] 스위트데이를 대비해서 활동하고 있는 카밀레.
+풍란을 응원하기 위해 디저트로 선전할 계획을 꾸미는 중이다.
+버디인 토게틱이 두 사람의 우정을 빛낸다.
+[10178000000] 국제경찰 특무 기관 UB 대책 본부 부장으로서
+울트라비스트를 쫓고 있는 실력자 트레이너.
+과거의 기억을 잃었으며 수수께끼가 많다.
+[10220000000] 사정이 있어 칼로스지방의 미르시티에서
+탐정 사무소의 소장을 맡고 있는 소녀.
+"모냥"은 버디가 아니라 친구.
+[10148000002] 고스트타입의 체육관 관장.
+인주체육관에서 비밀스러운 수행을 거듭하여
+사람들에겐 보이지 않는 것을 볼 수 있게 되었다.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -33367,6 +33969,24 @@ trainer_description_zh-TW.lsd
 [10130000001] 非常喜歡時尚與寶可夢的訓練家。
 平時個性活潑開朗又積極，
 但對戰時會展現出她帥氣又成熟的一面。
+[10196100000] 身穿運用閃焰隊科技重現的美極套裝，
+與波爾凱尼恩結為拍組的弗拉達利。
+觀察著是否動用足以將整座山轟飛的力量。
+[10124400000] 為了感謝日製作蘋果派的瑪奧。
+正致力於完成「最強的蘋果派」。
+拍檔是用甜甜蘋果進化而來的豐蜜龍。
+[10106400000] 為了感謝日而活動著的小菊兒。
+正計劃著用甜點來幫忙風露做宣傳。
+拍檔的波克基古讓兩人的友情綻放出光輝。
+[10178000000] 以國際警察特務機關ＵＢ對策總部的部長身分
+追尋著究極異獸的高手訓練家。
+失去了過往的記憶，謎團重重。
+[10220000000] 因為某種原因擔任著卡洛斯地區
+密阿雷市偵探事務所所長的少女。
+「喵茸」不是她的拍檔而是朋友。
+[10148000002] 幽靈屬性的道館館主。
+在緣朱道館中不斷持續秘密修行，
+令他能看見一般人看不見的東西。
 
 ===========
 trainer_name_de.lsd
@@ -33522,6 +34142,7 @@ trainer_name_de.lsd
 [ch0152] Herbaro
 [ch0153] Frosina
 [ch0154] Teresa
+[ch0155] Dracena
 [ch0157] Valerie
 [ch9000] 
 [ch0158] Diantha
@@ -33533,6 +34154,7 @@ trainer_name_de.lsd
 [ch0171] Hartwig
 [ch0176] Lucian
 [ch0177] Pachira
+[ch0178] Anabel
 [ch0180] Tierno
 [ch0181] Trovato
 [ch0183] Marlon
@@ -33755,6 +34377,7 @@ trainer_name_en.lsd
 [ch0152] Aaron
 [ch0153] Glacia
 [ch0154] Bertha
+[ch0155] Drasna
 [ch0157] Valerie
 [ch9000] 
 [ch0158] Diantha
@@ -33766,6 +34389,7 @@ trainer_name_en.lsd
 [ch0171] Chuck
 [ch0176] Lucian
 [ch0177] Malva
+[ch0178] Anabel
 [ch0180] Tierno
 [ch0181] Trevor
 [ch0183] Molayne
@@ -33988,6 +34612,7 @@ trainer_name_es.lsd
 [ch0152] Alecrán
 [ch0153] Nívea
 [ch0154] Gaia
+[ch0155] Drácena
 [ch0157] Valeria
 [ch9000] 
 [ch0158] Dianta
@@ -33999,6 +34624,7 @@ trainer_name_es.lsd
 [ch0171] Aníbal
 [ch0176] Delos
 [ch0177] Malva
+[ch0178] Destra
 [ch0180] Beni
 [ch0181] Trovato
 [ch0183] Lario
@@ -34221,6 +34847,7 @@ trainer_name_fr.lsd
 [ch0152] Aaron
 [ch0153] Glacia
 [ch0154] Terry
+[ch0155] Dracéna
 [ch0157] Valériane
 [ch9000] 
 [ch0158] Dianthéa
@@ -34232,6 +34859,7 @@ trainer_name_fr.lsd
 [ch0171] Chuck
 [ch0176] Lucio
 [ch0177] Malva
+[ch0178] Cathy
 [ch0180] Tierno
 [ch0181] Trovato
 [ch0183] Molène
@@ -34454,6 +35082,7 @@ trainer_name_it.lsd
 [ch0152] Aaron
 [ch0153] Frida
 [ch0154] Terrie
+[ch0155] Lilia
 [ch0157] Valérie
 [ch9000] 
 [ch0158] Diantha
@@ -34465,6 +35094,7 @@ trainer_name_it.lsd
 [ch0171] Furio
 [ch0176] Luciano
 [ch0177] Malva
+[ch0178] Alberta
 [ch0180] Tierno
 [ch0181] Trovato
 [ch0183] Tapso
@@ -34687,6 +35317,7 @@ trainer_name_ja.lsd
 [ch0152] リョウ
 [ch0153] プリム
 [ch0154] キクノ
+[ch0155] ドラセナ
 [ch0157] マーシュ
 [ch9000] 
 [ch0158] カルネ
@@ -34698,6 +35329,7 @@ trainer_name_ja.lsd
 [ch0171] シジマ
 [ch0176] ゴヨウ
 [ch0177] パキラ
+[ch0178] リラ
 [ch0180] ティエルノ
 [ch0181] トロバ
 [ch0183] マーレイン
@@ -34920,6 +35552,7 @@ trainer_name_ko.lsd
 [ch0152] 충호
 [ch0153] 미혜
 [ch0154] 들국화
+[ch0155] 드라세나
 [ch0157] 마슈
 [ch9000] 
 [ch0158] 카르네
@@ -34931,6 +35564,7 @@ trainer_name_ko.lsd
 [ch0171] 사도
 [ch0176] 오엽
 [ch0177] 파키라
+[ch0178] 리라
 [ch0180] 티에르노
 [ch0181] 트로바
 [ch0183] 멀레인
@@ -35153,6 +35787,7 @@ trainer_name_zh-TW.lsd
 [ch0152] 阿柳
 [ch0153] 波妮
 [ch0154] 菊野
+[ch0155] 朵拉塞娜
 [ch0157] 瑪綉
 [ch9000] 
 [ch0158] 卡露妮
@@ -35164,6 +35799,7 @@ trainer_name_zh-TW.lsd
 [ch0171] 阿四
 [ch0176] 悟松
 [ch0177] 帕琦拉
+[ch0178] 莉拉
 [ch0180] 提耶魯諾
 [ch0181] 多羅巴
 [ch0183] 馬睿因
@@ -35387,6 +36023,11 @@ trainer_verbose_name_de.lsd
 [10158100000] MaMo-Diantha
 [10653680000] Irma 
 (Kimono-Trägerin)
+[10196100000] MaMo-Flordelis
+[10106400000] Kamilla 
+(Saison 2023)
+[10124400000] Maho 
+(Saison 2023)
 
 ===========
 trainer_verbose_name_en.lsd
@@ -35544,13 +36185,19 @@ Brendan
 [10113410000] Jasmine 
 (Holiday 2022)
 [10215400000] Lisia 
-(New Year’s 2023)
+(New Year's 2023)
 [10116410000] Dawn 
-(New Year’s 2023)
+(New Year's 2023)
 [10158100000] Sygna Suit 
 Diantha
 [10653680000] Kali 
 (Furisode Girl)
+[10196100000] Sygna Suit 
+Lysandre
+[10106400000] Elesa 
+(Palentine's 2023)
+[10124400000] Mallow 
+(Palentine's 2023)
 
 ===========
 trainer_verbose_name_es.lsd
@@ -35692,6 +36339,11 @@ Rayo)
 [10158100000] Dianta (Traje S)
 [10653680000] Lia (Jovencita 
 con Kimono)
+[10196100000] Lysson (Traje S)
+[10106400000] Camila 
+(Temporada 23)
+[10124400000] Lulú 
+(Temporada 23)
 
 ===========
 trainer_verbose_name_fr.lsd
@@ -35845,6 +36497,11 @@ trainer_verbose_name_fr.lsd
 [10158100000] Dianthéa (Ultime)
 [10653680000] Kirika 
 (Fille en Kimono)
+[10196100000] Lysandre (Ultime)
+[10106400000] Inezia 
+(Saison 2023)
+[10124400000] Barbara 
+(Saison 2023)
 
 ===========
 trainer_verbose_name_it.lsd
@@ -36002,6 +36659,11 @@ trainer_verbose_name_it.lsd
 [10158100000] Diantha Costumax
 [10653680000] Aisha 
 (Ragazza in kimono)
+[10196100000] Elisio Costumax
+[10106400000] Camelia 
+(feste 2023)
+[10124400000] Ibis 
+(feste 2023)
 
 ===========
 trainer_verbose_name_ja.lsd
@@ -36159,6 +36821,11 @@ trainer_verbose_name_ja.lsd
 [10158100000] マジコスカルネ
 [10653680000] キリカ
 （ふりそで）
+[10196100000] マジコスフラダリ
+[10106400000] カミツレ
+（２３シーズン）
+[10124400000] マオ
+（２３シーズン）
 
 ===========
 trainer_verbose_name_ko.lsd
@@ -36316,6 +36983,11 @@ trainer_verbose_name_ko.lsd
 [10158100000] 궁극코스 카르네
 [10653680000] 안향
 (기모노드레스)
+[10196100000] 궁극코스 플라드리
+[10106400000] 카밀레
+(23시즌)
+[10124400000] 마오
+(23시즌)
 
 ===========
 trainer_verbose_name_zh-TW.lsd
@@ -36473,6 +37145,11 @@ trainer_verbose_name_zh-TW.lsd
 [10158100000] 美極套裝卡露妮
 [10653680000] 桐華
 （長袖和服少女）
+[10196100000] 美極套裝弗拉達利
+[10106400000] 小菊兒
+（２０２３春季）
+[10124400000] 瑪奧
+（２０２３春季）
 
 ===========
 common_widget_de.lsd
@@ -45038,10 +45715,10 @@ Optionen aktivieren?
 [home/battle_replay_020] Hinweise: Du kannst keine Gefährten einsetzen, die du
 nicht besitzt.
 Ausrüstung wird automatisch angelegt.
-[home/battle_replay_021] Möchtest du die automatische Funktion
-dieses Gefährtensteinbretts verwenden?
-[home/battle_replay_022] Wenn du bestimmte Attacken-Level und Items nicht besitzt,
-kannst du einige Brettfähigkeiten gegebenenfalls nicht erlernen.
+[home/battle_replay_021] Möchtest du diese Gefährtensteinbretter
+automatisch anwenden?
+[home/battle_replay_022] Wenn du best. Attacken-Level & Items nicht besitzt,
+kannst du einige Brettfähigkeiten ggf. nicht erlernen.
 [home/battle_replay_023] Benötigte Items
 [home/battle_replay_024] Details zur Verstärkung
 [home/battle_replay_025] Möchtest du dieses Gefährtensteinbrett
@@ -45999,7 +46676,7 @@ these options?
 [home/battle_replay_020] Note: You can’t add sync pairs that you haven’t
 acquired yet.
 Note: Gear will be added automatically.
-[home/battle_replay_021] Use this sync grid automatically?
+[home/battle_replay_021] Use these sync grids automatically?
 [home/battle_replay_022] Lacking move levels and items may prevent you
 from learning certain grid skills.
 [home/battle_replay_023] Items Required
@@ -47014,8 +47691,8 @@ estas opciones?
 [home/battle_replay_019] ¿Quieres copiar este equipo?
 [home/battle_replay_020] Aviso: No puedes añadir compis que no tienes.
 Aviso: Los accesorios se añadirán automáticamente.
-[home/battle_replay_021] Aplicar automáticamente el Tablero
-de la Piedra Compi.
+[home/battle_replay_021] Aplicar automáticamente los
+Tableros de la Piedra Compi.
 [home/battle_replay_022] Aviso: Si no tienes el nivel o los objetos necesarios,
 puede que no aprendas algunas habilidades orbe.
 [home/battle_replay_023] Objetos necesarios
@@ -47503,7 +48180,7 @@ Duo, seul le bonus le plus important prendra effet.
 [home/quest_detail_189] Top [Digit:5digits ]
 [home/quest_detail_190] Remarque : votre rang ne s'affichera que si vous avez atteint
 le rang [Digit:5digits ] ou mieux.
-[home/quest_detail_191] Calcul en cours...
+[home/quest_detail_191] En attente de données.
 [home/quest_detail_192] Infos des équipes
 [home/quest_detail_193] Combat nº [Digit:3digits ]
 [home/quest_detail_194] Rang
@@ -47513,7 +48190,7 @@ le rang [Digit:5digits ] ou mieux.
 [home/quest_detail_198] Duos utilisés
 [home/quest_detail_199] Le classement sera disponible jusqu'au [Name:DateTime ].
 [home/quest_detail_200] Aucune information à afficher.
-[home/quest_detail_201] Calcul en cours...
+[home/quest_detail_201] En attente de données.
 [home/home_001] Boutique
 [home/home_002] Aventure
 [home/home_003] Équipe
@@ -48080,7 +48757,7 @@ terminent souvent cette information de zone avec succès.
 [home/battle_replay_004] Remarque : vous pouvez taper sur l'icône d'un Duo
 pour voir les détails de son Plateau Duo-Gemme.
 [home/battle_replay_005] Copier
-[home/battle_replay_006] Rejouer
+[home/battle_replay_006] Rediffuser
 [home/battle_replay_007] Voir les options
 [home/battle_replay_008] Dégâts
 infligés
@@ -48091,35 +48768,37 @@ infligés
 [home/battle_replay_015] Exemple d'options
 [home/battle_replay_016] Voulez-vous activer le mode Élite
 avec ces options ?
-[home/battle_replay_018] Copier l'équipe
+[home/battle_replay_018] Copie de l'équipe
 [home/battle_replay_019] Voulez-vous copier la composition
 de cette équipe ?
 [home/battle_replay_020] Remarques :
 • Vous ne pouvez pas ajouter de Duo que vous n'avez pas.
 • L'équipement sera ajouté automatiquement.
-[home/battle_replay_021] Voulez-vous activer ce Plateau
-Duo-Gemme automatiquement ?
-[home/battle_replay_022] Remarque : si vous ne possédez pas le niveau de capacité ou les objets nécessaires, il se peut que vous ne puissiez pas apprendre certains talents Sphère.
+[home/battle_replay_021] Appliquer automatiquement les
+mêmes configurations que celles
+de ces Plateaux Duo-Gemme ?
+[home/battle_replay_022] Sans le niveau de capacité ou les objets nécessaires, il peut être impossible d'apprendre certains talents Sphère.
 [home/battle_replay_023] Objets nécessaires
 [home/battle_replay_024] Détails du renforcement
-[home/battle_replay_025] Utiliser les paramètres de
-ce Plateau Duo-Gemme ?
+[home/battle_replay_025] Appliquer la même configuration que
+celle de ce Plateau Duo-Gemme ?
 [home/battle_replay_026] Remarque : le modèle actuellement en cours d'utilisation sera remplacé.
-[home/battle_replay_027] Copier équipe
-[home/battle_replay_028] Choisissez où enregistrer cette équipe.
-[home/battle_replay_029] Calcul en cours...
-[home/battle_replay_030] Aucune donnée à rejouer.
+[home/battle_replay_027] Copie de l'équipe
+[home/battle_replay_028] Choisissez quelle équipe remplacer
+par celle-ci.
+[home/battle_replay_029] En attente de données.
+[home/battle_replay_030] Aucune donnée à rediffuser.
 [home/battle_replay_031] Les Duos nécessaires à cette équipe
 ne sont pas en votre possession
 ou ne peuvent pas être utilisés.
-[home/battle_replay_032] Vous ne pouvez pas rejouer ce combat.
+[home/battle_replay_032] Vous ne pouvez pas rediffuser ce combat.
 [home/battle_replay_033] Voir les équipes ayant
 terminé avec succès
 [home/battle_replay_034] Vous n'avez pas assez
 de Duo-Sphères.
 [home/battle_replay_035] Options
-[home/battle_replay_036] Vous ne possédez pas les Duos
-nécessaires.
+[home/battle_replay_036] Vous ne possédez pas le(s) Duo(s)
+nécessaire(s).
 [home/battle_replay_037] Aucun talent Sphère à appliquer.
 [home/battle_replay_038] Aucun objet ne sera utilisé.
 
@@ -49150,12 +49829,12 @@ e impostare queste opzioni?
 [home/battle_replay_020] Non puoi aggiungere Unità che non possiedi.
 Gli accessori verranno aggiunti automaticamente.
 [home/battle_replay_021] Attiva automaticamente
-la Teca Pietra Unità
+le Teche Pietra Unità
 [home/battle_replay_022] Se non hai il livello mosse o gli strumenti necessari,
 potresti non poter imparare alcune tecabilità.
 [home/battle_replay_023] Hai bisogno di
 [home/battle_replay_024] Dettagli rinforzo
-[home/battle_replay_025] Confermi il contenuto di questa Teca Pietra
+[home/battle_replay_025] Attivare il contenuto di questa Teca Pietra
 Unità?
 [home/battle_replay_026] La configurazione in uso verrà sovrascritta.
 [home/battle_replay_027] Copia squadra
@@ -52433,6 +53112,10 @@ an deine Geschenkbox geschickt:
 [shop/shop_medal_102] Da seit deinem Kauf des Täglichen Juwelenset (EX) [Digit:2digits ] Tage vergangen sind, wurden die verbleibenden gekauften Juwelen des Login-Bonus an deine Geschenkbox geschickt.
 [shop/shop_medal_103] Da seit deinem Kauf des Täglichen Juwelenset (EX) S [Digit:2digits ] Tage vergangen sind, wurden die verbleibenden gekauften Juwelen des Login-Bonus an deine Geschenkbox geschickt.
 [shop/shop_medal_104] Login-Boni, die keine gekauften Juwelen sind, können wie gewöhnlich beim Login abgeholt werden.
+[shop/shop_medal_105] Gefährtendrops-Bonus↑
+(Boni im Gefährtendropsgebiet × [Digit:2digits Idx="1" ] für [Digit:2digits ] [DE:Qty S="Tag" P="Tage" ])
+[shop/shop_medal_106] Kampfpunkte-Bonusticket
+(Boni in Regionskämpfen × [Digit:2digits Idx="1" ] für [Digit:2digits ] [DE:Qty S="Tag" P="Tage" ])
 [shop/shop_itemexchange_001] Item-Tausch
 [shop/shop_itemexchange_003] Tauschen
 [shop/shop_itemexchange_004] Tauschen
@@ -52479,9 +53162,8 @@ eingetauscht werden.
 [shop/shop_itemexchange_043] Kampfpkt.
 [shop/shop_itemexchange_044] Kampfpunkte
 [shop/shop_itemexchange_045] Hinweis: Dieser Tausch kann jeweils nur ein Mal durchgeführt werden.
-[shop/shop_itemexchange_046] Tauschbar, wenn du dir
+[shop/shop_itemexchange_046] Für den Tausch benötigt:
 [Name:TrainerName ] & [Name:PokemonName ]
-in dein Team geholt hast.
 [shop/shop_itemexchange_047] Gefährten-Upgrade
 [shop/shop_itemexchange_048] Lieder
 [shop/shop_itemexchange_049] Berühre das Symbol eines Liedes, um kurz reinzuhören.
@@ -53208,6 +53890,12 @@ Instead, [Name:Item ] ×[Digit:6digits Idx="1" ] (the maximum that can be obtain
 [shop/shop_medal_102] Because [Digit:2digits ] days have passed since your purchase of Daily Gem Bundle EX, the remaining paid gems from the log-in bonus have been sent to your Present Box.
 [shop/shop_medal_103] Because [Digit:2digits ] days have passed since your purchase of Daily Gem Bundle EX +, the remaining paid gems from the log-in bonus have been sent to your Present Box.
 [shop/shop_medal_104] If there are log-in bonuses other than paid gems, those bonuses can be claimed as normal when logging in.
+[shop/shop_medal_105] Sync Orb Reward Boost
+(Rewards in the Sync Orb Area
+will be ×[Digit:2digits Idx="1" ] for [Digit:2digits ] [EN:Qty S="day" P="days" ].)
+[shop/shop_medal_106] Battle Point Boost Pass
+(Rewards from region rotation
+battles will be ×[Digit:2digits Idx="1" ] for [Digit:2digits ] [EN:Qty S="day" P="days" ].)
 [shop/shop_itemexchange_001] Exchange Items
 [shop/shop_itemexchange_003] Exchanged
 [shop/shop_itemexchange_004] Exchange
@@ -53853,6 +54541,12 @@ En su lugar, se enviará[ES:Qty Ref="1" P="n" ] a la caja de regalos [Digit:6dig
 [shop/shop_medal_102] Han pasado [Digit:2digits ] días desde que compraste el lote de joyas diario EX, por lo que las joyas de pago restantes de la bonificación de inicio se han enviado a la caja de regalos.
 [shop/shop_medal_103] Han pasado [Digit:2digits ] días desde que compraste el lote de joyas diario EX S, por lo que las joyas de pago restantes de la bonificación de inicio se han enviado a la caja de regalos.
 [shop/shop_medal_104] Aviso: Si hay bonificaciones de inicio que no sean joyas de pago, puedes aceptarlas de la forma habitual al iniciar sesión.
+[shop/shop_medal_105] Multiplicador de Orbes Compi
+(Premios en el área de Orbes
+Compi ×[Digit:2digits Idx="1" ] durante [Digit:2digits ] día[ES:Qty P="s" ]).
+[shop/shop_medal_106] Pase Extra de Puntos de Combate
+(Premios en los combates por
+regiones ×[Digit:2digits Idx="1" ] durante [Digit:2digits ] día[ES:Qty P="s" ]).
 [shop/shop_itemexchange_001] Canjear objetos
 [shop/shop_itemexchange_003] Canjear
 [shop/shop_itemexchange_004] Canjear
@@ -54468,6 +55162,12 @@ Les Diamants payants restants
 du bonus de connexion ont été
 envoyés dans le menu « Cadeaux ».
 [shop/shop_medal_104] Si vous devez également recevoir des bonus de connexion autres que des Diamants payants, ces bonus pourront être récupérés comme tout autre bonus lors de votre connexion.
+[shop/shop_medal_105] Duo-Sphères Reçues ↑
+(récompenses × [Digit:2digits Idx="1" ] dans la zone 
+Duo-Sphères pendant [Digit:2digits ] [FR:Qty Ref="1" S="jour" P="jours" ])
+[shop/shop_medal_106] Pass Boost Pts de Combat
+(récompenses × [Digit:2digits Idx="1" ] dans les combats
+régionaux pendant [Digit:2digits ] [FR:Qty Ref="1" S="jour" P="jours" ])
 [shop/shop_itemexchange_001] Échange d'objets
 [shop/shop_itemexchange_003] Échange
 [shop/shop_itemexchange_004] Échanger
@@ -55101,6 +55801,12 @@ Al suo posto, verranno inviati ai Regali i seguenti strumenti: [Name:Item ] ×[D
 [shop/shop_medal_102] Sono trascorsi [Digit:2digits ] giorni da quando hai acquistato il Pacchetto gemme giornaliere EX, pertanto le restanti gemme a pagamento del bonus accesso sono state inviate ai Regali.
 [shop/shop_medal_103] Sono trascorsi [Digit:2digits ] giorni da quando hai acquistato il Pacchetto gemme giornaliere EX S, pertanto le restanti gemme a pagamento del bonus accesso sono state inviate ai Regali.
 [shop/shop_medal_104] Se ci sono altri bonus accesso che non siano gemme a pagamento, possono essere ricevuti normalmente quando viene effettuato l'accesso.
+[shop/shop_medal_105] Più Uniciondoli (ricompense ×[Digit:2digits Idx="1" ]
+nelle aree Uniciondoli per
+[Digit:2digits ] [IT:Qty S="giorno" P="giorni" ].)
+[shop/shop_medal_106] Pass bonus Punti Lotta (ricompense
+×[Digit:2digits Idx="1" ] nelle lotte regionali per
+[Digit:2digits ] [IT:Qty S="giorno" P="giorni" ].)
 [shop/shop_itemexchange_001] Scambio strumenti
 [shop/shop_itemexchange_003] Scambiati
 [shop/shop_itemexchange_004] Scambia
@@ -55812,6 +56518,11 @@ SP報酬が解放されるおとくなパック！
 プレゼントボックスに送られました
 [shop/shop_medal_104] ※有償ダイヤ以外のログインボーナスがある場合は
 引き続き今後のログイン毎に受取可能です
+[shop/shop_medal_105] バディドロップ報酬アップ
+（バディドロップエリアでの
+獲得量が[Digit:2digits ]日間[Digit:2digits Idx="1" ]倍）
+[shop/shop_medal_106] バトルポイントブーストパス
+（地方バトルでの獲得量が[Digit:2digits ]日間[Digit:2digits Idx="1" ]倍）
 [shop/shop_itemexchange_001] どうぐ交換
 [shop/shop_itemexchange_003] 交換
 [shop/shop_itemexchange_004] 交換
@@ -56506,6 +57217,11 @@ SP 보상이 해방되는 유용한 팩!
 프레젠트박스로 보내졌습니다
 [shop/shop_medal_104] ※유료 다이아 이외의 로그인 보너스가 있는 경우에는
 앞으로도 계속해서 로그인할 때마다 받을 수 있습니다
+[shop/shop_medal_105] 버디드롭 보상 업
+(버디드롭 에리어에서
+획득량이 [Digit:2digits ]일간 [Digit:2digits Idx="1" ]배)
+[shop/shop_medal_106] 배틀포인트 부스트 패스
+(지방 배틀에서 획득량이 [Digit:2digits ]일간 [Digit:2digits Idx="1" ]배)
 [shop/shop_itemexchange_001] 도구 교환
 [shop/shop_itemexchange_003] 교환
 [shop/shop_itemexchange_004] 교환
@@ -57224,6 +57940,12 @@ shop_zh-TW.lsd
 已送到禮物箱
 [shop/shop_medal_104] ※如果有付費鑽石以外的登入獎勵
 仍可在今後的每次登入時領取
+[shop/shop_medal_105] 拍檔滴晶報酬增加
+（在拍檔滴晶區域的獲得量
+[Digit:2digits ]天內會變為[Digit:2digits Idx="1" ]倍）
+[shop/shop_medal_106] 對戰點數增量證
+（在地區對戰的獲得量
+[Digit:2digits ]天內會變為[Digit:2digits Idx="1" ]倍）
 [shop/shop_itemexchange_001] 交換道具
 [shop/shop_itemexchange_003] 交換
 [shop/shop_itemexchange_004] 交換
@@ -58125,6 +58847,22 @@ zustimmen
 [title/title_155] Accounts, die mit dieser App verknüpft sind, werden unter
 Umständen nicht angezeigt.
 Berühre die Info-Schaltfläche für weitere Details.
+[title/title_156] Über die unten aufgeführte Schaltfläche wirst du auf die
+Seite „Nintendo-Account löschen“ weitergeleitet.
+
+Das Löschen eines Nintendo-Accounts führt dazu, dass
+App-Daten für alle Spiele außer
+[Name:TitleName ], die ebenfalls mit dem
+Nintendo-Account verknüpft sind, unzugänglich und
+nach 30 Tagen gelöscht werden.
+
+Bitte lies dir die Warnungen auf der Seite
+„Nintendo-Account löschen“ gründlich durch, falls du
+deinen Account noch immer löschen möchtest, und fahre
+über die verknüpfte Seite fort.
+[title/title_157] Die verwendeten Speicherdaten sind mit
+einem Nintendo-Account verknüpft.
+[title/title_158] Nintendo-Account löschen
 [title/assetdl_004] 翻訳不要
 [title/assetdl_006] 翻訳不要
 [title/assetdl_007] 翻訳不要
@@ -58718,6 +59456,20 @@ and Agree
 [title/title_154] Nintendo Account Page
 [title/title_155] Accounts linked to this application may not be displayed
 Tap the information button above to learn more
+[title/title_156] The button below will take you to the Delete Nintendo
+Account page.
+
+Once a Nintendo Account is deleted, the app data for
+games other than [Name:TitleName ] that are
+also linked to the account will become inaccessible, and
+all data will be deleted after 30 days.
+
+Please carefully read the warnings on the Delete
+Nintendo Account page, and if you still wish to delete
+your account, proceed via the linked page.
+[title/title_157] The save data currently in use is linked to
+a Nintendo Account.
+[title/title_158] Delete Nintendo Account
 [title/assetdl_004] Would you like to participate
 in a survey?
 [title/assetdl_006] Please select where you’ve played or seen Pokémon in the past.
@@ -59332,6 +60084,20 @@ y aceptar
 [title/title_155] Es posible que no se muestren las cuentas vinculadas a la
 aplicación.
 Toca el botón de información para obtener más detalles.
+[title/title_156] El siguiente botón permite acceder a la página en la que
+podrás borrar tu cuenta Nintendo.
+
+Si borras tu cuenta Nintendo, dejarás de tener acceso a
+los datos de todos los juegos que hayas vinculado a ella
+excepto [Name:TitleName ] y, tras 30 días, se
+eliminarán todos los datos.
+
+Lee atentamente los avisos en la página "Eliminación de
+tu cuenta Nintendo". Si aun así quieres borrar tu cuenta,
+podrás continuar el proceso desde el enlace.
+[title/title_157] Los datos de guardado actuales están
+vinculados a una cuenta Nintendo.
+[title/title_158] Borrar cuenta Nintendo
 [title/assetdl_004] 翻訳不要
 [title/assetdl_006] 翻訳不要
 [title/assetdl_007] 翻訳不要
@@ -59958,6 +60724,23 @@ et accepter
 [title/title_155] Il est possible que les comptes liés à l'application
 n'apparaissent pas.
 Touchez le bouton d'information pour en savoir plus.
+[title/title_156] Le bouton ci-dessous vous redirigera vers la page
+« Suppression du compte Nintendo ».
+
+Une fois un compte Nintendo supprimé,
+les données d'application des jeux autres
+que [Name:TitleName ] également liés
+à ce compte deviendront inaccessibles, et toutes
+les données seront supprimées après 30 jours.
+
+Merci de lire attentivement les avertissements
+de la page « Suppression du compte Nintendo ».
+Si vous souhaitez toujours supprimer votre compte,
+veuillez poursuivre via le lien mis à votre disposition.
+[title/title_157] Les données de sauvegarde
+en cours d'utilisation sont liées
+à un compte Nintendo.
+[title/title_158] Suppression du compte Nintendo
 [title/assetdl_004] 翻訳不要
 [title/assetdl_006] 翻訳不要
 [title/assetdl_007] 翻訳不要
@@ -60577,6 +61360,22 @@ e accetta
 [title/title_155] È possibile che gli account collegati a questa app
 non vengano visualizzati.
 Tocca "Info" per saperne di più.
+[title/title_156] Il pulsante qui sotto ti permette di accedere alla pagina
+"Elimina account Nintendo".
+
+Una volta eliminato un account Nintendo, i dati delle app
+per i giochi all'infuori di [Name:TitleName ]
+che sono a loro volta collegati all'account diventeranno
+inaccessibili, e dopo 30 giorni verranno eliminati tutti
+i dati.
+
+Si prega di leggere attentamente le avvertenze
+sulla schermata Elimina account Nintendo e,
+se si desidera ancora eliminare il proprio account,
+è possibile procedere tramite la pagina collegata.
+[title/title_157] I dati di salvataggio attualmente in uso
+sono collegati a un account Nintendo.
+[title/title_158] Elimina account Nintendo
 [title/assetdl_004] 翻訳不要
 [title/assetdl_006] 翻訳不要
 [title/assetdl_007] 翻訳不要
@@ -61207,6 +62006,21 @@ Apple IDに連携されていた
 [title/title_155] 当アプリと連携しているアカウントが
 表示されない場合があります
 詳細はインフォボタンからご確認ください
+[title/title_156] ※以下のボタンからニンテンドーアカウント削除ページに
+遷移できます
+
+ニンテンドーアカウントを削除すると
+ニンテンドーアカウント連携してプレイしている
+[Name:TitleName ]以外のアプリのデータも
+利用できなくなり、30日後に全て削除されます
+
+その他遷移先ページの注意事項をよくご確認の上
+アカウント削除を希望される場合は
+遷移先ページからお手続きください
+[title/title_157] ご利用のセーブデータは
+ニンテンドーアカウントと
+紐づいています
+[title/title_158] ニンテンドーアカウント削除
 [title/assetdl_004] アンケートに
 ご協力をお願いします
 [title/assetdl_006] あなたが「ポケモン」について遊んだり見たりしたことがあるものを全てお選びください
@@ -61839,6 +62653,19 @@ Apple ID에 연동되어 있던
 [title/title_155] 본 앱과 연동한 어카운트가
 표시되지 않는 경우가 있습니다
 자세한 내용은 정보 버튼에서 확인하여 주십시오
+[title/title_156] ※아래 버튼을 누르면 닌텐도 어카운트 삭제 페이지로 이동합니다
+
+닌텐도 어카운트를 삭제하면
+닌텐도 어카운트를 연동해서 플레이 중인
+[Name:TitleName ] 이외의 앱 데이터도 이용할 수 없게 되며
+30일 뒤에 모두 삭제됩니다
+
+기타 닌텐도 어카운트 삭제 페이지의 주의 사항을 확인 부탁드리며
+어카운트 삭제를 희망하는 경우에는
+닌텐도 어카운트 삭제 페이지에서 진행해 주시기 바랍니다
+[title/title_157] 이용 중이신 저장 데이터는
+닌텐도 어카운트와 연동되어 있습니다
+[title/title_158] 닌텐도 어카운트 삭제
 [title/assetdl_004] 翻訳不要
 [title/assetdl_006] 翻訳不要
 [title/assetdl_007] 翻訳不要
@@ -62428,6 +63255,20 @@ OS 버전, OS 타입, 타게팅 광고의 제한에 관한 설정 상태, 단말
 [title/title_155] 與本應用程式連動中的帳號
 有可能不會顯示
 詳情請點選資訊按鈕確認
+[title/title_156] ※可從下方按鈕前往
+刪除Nintendo Account的頁面
+
+刪除Nintendo Account後
+除了與Nintendo Account連動遊玩的[Name:TitleName ]以外
+其他的應用程式資料也將無法使用
+且會在30天後被全數刪除
+
+如在前往的頁面中仔細閱讀其他注意事項後
+仍欲刪除Nintendo Account帳號
+請從該頁面辦理手續
+[title/title_157] 您所使用的儲存資料
+已和Nintendo Account綁定
+[title/title_158] 刪除Nintendo Account
 [title/assetdl_004] 翻訳不要
 [title/assetdl_006] 翻訳不要
 [title/assetdl_007] 翻訳不要
