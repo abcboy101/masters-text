@@ -1667,6 +1667,15 @@ nett?!
 [quest_title_1030220116000200] Chelcarain entwickelt sich
 [quest_title_1030210048100000] Ein Tag mit MaMo-Astor
 [quest_title_1030210170000000] Ein Tag mit Artie
+[quest_title_1030206000702001] Sanfter Silberwind
+[quest_title_1030206010702001] Grünes Getöse
+[quest_title_1030206020702001] Scharfe Blattspitzen
+[quest_title_1030206030702001] Von weißen Fäden verfolgt
+[quest_title_1030206000702002] Stelle dich dem kräftigen
+Schnappmaul!
+[quest_title_1030206010702002] Stoppe die heftigen Bisse!
+[quest_title_1030206020702002] Bezwinge die riesigen
+Fangzähne!
 [quest_title_1030205000600010] Verzaubere das Publikum!
 [quest_title_1030205000600020] Tanz dich zum Sieg!
 [quest_title_1030205000600030] Das fulminante Finale!
@@ -1689,7 +1698,50 @@ nett?!
 [quest_title_1030205510701001] Vs. Entei 1
 [quest_title_1030205520701001] Vs. Entei 2
 [quest_title_1030205530701001] Vs. Entei 3
+[quest_group_title_10130000000] Serena
+[quest_group_title_10148000000] Jens
+[quest_group_title_10198000000] Lotte
+[quest_title_1030210130000001] Ein Tag mit Serena
+[quest_title_1030210148000001] Ein Tag mit Jens
+[quest_title_1030210198000001] Ein Tag mit Lotte
+[quest_title_1030220130000100] Fynx entwickelt sich
+[quest_title_1030220130000200] Rutena entwickelt sich
+[quest_title_1030206000602020] Geister-Trainingskampf 1
+[quest_title_1030206000602030] Geister-Trainingskampf 2
+[quest_title_1030206000602040] Geister-Trainingskampf 3
+[quest_title_1030206000602060] Geister-Trainingskampf 4
+[quest_title_1030206000602080] Kollektivkampf 1
+[quest_title_1030206000602090] Kollektivkampf 2
+[quest_title_1030206000601000] Ein Pokémon macht schlapp...
+[quest_title_1030206000601010] Lasst uns Zutaten sammeln!
+[quest_title_1030206000601090] Ein unerwarteter Zwischenfall
+[quest_title_1030206000601100] Gemeinsam sind wir stark!
+[quest_title_1030206000601110] Serenas Gefühle
+[quest_title_1030206000601050] Und die Party...?!
+[quest_title_1030206000601020] Vs. Team Break 1
+[quest_title_1030206000601030] Vs. Team Break 2
+[quest_title_1030206000601040] Vs. Team Break 3
+[quest_title_1030206000601060] Vs. Team Break 4
+[quest_title_1030206000601070] Kollektivkampf 1
+[quest_title_1030206000601080] Kollektivkampf 2
+[quest_group_title_10240000000] Jessie
+[quest_title_1031206000201011] Team Rockets großer Auftritt!
+[quest_title_1031206000201021] Jetzt gibt’s Ärger (im Wald)!
+[quest_title_1031206000201031] Liebe und Wahrheit
+verurteilen wir (mit Stolz)!
+[quest_title_1031206000201041] Vs. Team Break 1
+[quest_title_1031206000201051] Vs. Team Break 2
+[quest_title_1031206000201061] Vs. Team Break 3
+[quest_title_1030206000703001] Vs. Kobalium 1
+[quest_title_1030206010703001] Vs. Kobalium 2
+[quest_title_1030206020703001] Vs. Kobalium 3
+[quest_title_1030420600101010] Vs. Knirps 1
+[quest_title_1030420600101011] Vs. Knirps 2
+[quest_title_1030420600101012] Vs. Knirps 3
+[quest_title_1030420600101013] Vs. Pokéfan
 [quest_title_1030420400101011] Vs. Trainer aus Passio
+[quest_title_1030206040701001] Ein tapferer Kämpfer
+[quest_title_1030206040702001] Im Labyrinth der Fäden
 [quest_title_1030205040702001] Ein hartnäckiger Felsen
 
 ===========
@@ -2658,6 +2710,13 @@ story_quest_name_en.lsd
 [quest_title_1030220116000200] Grotle’s Evolution
 [quest_title_1030210048100000] A Day with Sygna Suit Grimsley
 [quest_title_1030210170000000] A Day with Burgh
+[quest_title_1030206000702001] A Gentle, Silvery Wind
+[quest_title_1030206010702001] A Thousand Rustling Leaves
+[quest_title_1030206020702001] Leaves like Daggers
+[quest_title_1030206030702001] Entangling White Silk
+[quest_title_1030206000702002] Thwart the Snapping Jaws!
+[quest_title_1030206010702002] Quash the Crushing Chompers!
+[quest_title_1030206020702002] Overpower the Ginormous Fangs!
 [quest_title_1030205000600010] Dress to Impress!
 [quest_title_1030205000600020] Sweep ’Em Off Their Feet!
 [quest_title_1030205000600030] Razzle ’Em and Dazzle ’Em!
@@ -2680,7 +2739,49 @@ story_quest_name_en.lsd
 [quest_title_1030205510701001] Entei’s Challenge: Part 1
 [quest_title_1030205520701001] Entei’s Challenge: Part 2
 [quest_title_1030205530701001] Entei’s Challenge: Part 3
+[quest_group_title_10130000000] Serena
+[quest_group_title_10148000000] Morty
+[quest_group_title_10198000000] Lucy
+[quest_title_1030210130000001] A Day with Serena
+[quest_title_1030210148000001] A Day with Morty
+[quest_title_1030210198000001] A Day with Lucy
+[quest_title_1030220130000100] Fennekin’s Evolution
+[quest_title_1030220130000200] Braixen’s Evolution
+[quest_title_1030206000602020] Secret Ghost Training: Part 1
+[quest_title_1030206000602030] Secret Ghost Training: Part 2
+[quest_title_1030206000602040] Secret Ghost Training: Part 3
+[quest_title_1030206000602060] Secret Ghost Training: Part 4
+[quest_title_1030206000602080] Full-Force Battle! Round 1
+[quest_title_1030206000602090] Full-Force Battle! Round 2
+[quest_title_1030206000601000] A Sweet Pick-Me-Up
+[quest_title_1030206000601010] On the Hunt for Berries
+[quest_title_1030206000601090] Surprise Setback
+[quest_title_1030206000601100] Time to Join Forces!
+[quest_title_1030206000601110] If You Play with Fire
+[quest_title_1030206000601050] The Sweetest Cure-All
+[quest_title_1030206000601020] Challenge Team Break: Part 1
+[quest_title_1030206000601030] Challenge Team Break: Part 2
+[quest_title_1030206000601040] Challenge Team Break: Part 3
+[quest_title_1030206000601060] Challenge Team Break: Part 4
+[quest_title_1030206000601070] Full-Force Battle! Round 1
+[quest_title_1030206000601080] Full-Force Battle! Round 2
+[quest_group_title_10240000000] Jessie
+[quest_title_1031206000201011] Team Rocket on the Scene!
+[quest_title_1031206000201021] Forest Shenanigans
+[quest_title_1031206000201031] Pride in the Evils of Truth and Love
+[quest_title_1031206000201041] Challenge Team Break: Part 1
+[quest_title_1031206000201051] Challenge Team Break: Part 2
+[quest_title_1031206000201061] Challenge Team Break: Part 3
+[quest_title_1030206000703001] Cobalion’s Challenge: Part 1
+[quest_title_1030206010703001] Cobalion’s Challenge: Part 2
+[quest_title_1030206020703001] Cobalion’s Challenge: Part 3
+[quest_title_1030420600101010] Challenge the Youngster: Part 1
+[quest_title_1030420600101011] Challenge the Youngster: Part 2
+[quest_title_1030420600101012] Challenge the Youngster: Part 3
+[quest_title_1030420600101013] Challenge the Poké Fan
 [quest_title_1030420400101011] Challenge Pasio’s Trainers
+[quest_title_1030206040701001] A Mighty Warrior
+[quest_title_1030206040702001] A Labyrinthine Weave of Silk
 [quest_title_1030205040702001] A Daunting Cliff Face
 
 ===========
@@ -3650,8 +3751,15 @@ de moda
 [quest_title_1030210116000000] Un día con Maya
 [quest_title_1030220116000100] ¡Turtwig evoluciona!
 [quest_title_1030220116000200] ¡Grotle evoluciona!
-[quest_title_1030210048100000] Un día con Aza (S)
+[quest_title_1030210048100000] Un día con Aza (Traje S)
 [quest_title_1030210170000000] Un día con Camus
+[quest_title_1030206000702001] Un sosegado viento argénteo
+[quest_title_1030206010702001] Verdor exuberante
+[quest_title_1030206020702001] Hojas afiladas
+[quest_title_1030206030702001] Un hilo blanco y pegadizo
+[quest_title_1030206000702002] ¡Cuidado con esos colmillos imponentes!
+[quest_title_1030206010702002] ¡Dentelladas juguetonas pero letales!
+[quest_title_1030206020702002] ¡Derrota a los temibles colmillos gigantes!
 [quest_title_1030205000600010] ¡A posar!
 [quest_title_1030205000600020] Un baile divertido
 [quest_title_1030205000600030] ¡Un combate deslumbrante!
@@ -3674,7 +3782,49 @@ de moda
 [quest_title_1030205510701001] VS. Entei
 [quest_title_1030205520701001] VS. Entei (2)
 [quest_title_1030205530701001] VS. Entei (3)
+[quest_group_title_10130000000] Serena
+[quest_group_title_10148000000] Morti
+[quest_group_title_10198000000] Fortunia
+[quest_title_1030210130000001] Un día con Serena
+[quest_title_1030210148000001] Un día con Morti
+[quest_title_1030210198000001] Un día con Fortunia
+[quest_title_1030220130000100] ¡Fennekin evoluciona!
+[quest_title_1030220130000200] ¡Braixen evoluciona!
+[quest_title_1030206000602020] Combate de entrenamiento Fantasma
+[quest_title_1030206000602030] Combate de entrenamiento Fantasma (2)
+[quest_title_1030206000602040] Combate de entrenamiento Fantasma (3)
+[quest_title_1030206000602060] Combate de entrenamiento Fantasma (4)
+[quest_title_1030206000602080] ¡Un combate colectivo!
+[quest_title_1030206000602090] ¡Un combate colectivo! (2)
+[quest_title_1030206000601000] ¿Los Pokémon están tristes?
+[quest_title_1030206000601010] ¡Consigamos ingredientes!
+[quest_title_1030206000601090] Un imprevisto
+[quest_title_1030206000601100] Arrimando el hombro
+[quest_title_1030206000601110] Los sentimientos de Serena
+[quest_title_1030206000601050] Preparativos para la fiesta
+[quest_title_1030206000601020] VS. Team Break
+[quest_title_1030206000601030] VS. Team Break (2)
+[quest_title_1030206000601040] VS. Team Break (3)
+[quest_title_1030206000601060] VS. Team Break (4)
+[quest_title_1030206000601070] ¡Un combate colectivo!
+[quest_title_1030206000601080] ¡Un combate colectivo! (2)
+[quest_group_title_10240000000] Jessie
+[quest_title_1031206000201011] ¡Aquí está el Team Rocket!
+[quest_title_1031206000201021] Problemas en el bosque
+[quest_title_1031206000201031] El orgullo de la verdad y el amor
+[quest_title_1031206000201041] VS. Team Break
+[quest_title_1031206000201051] VS. Team Break (2)
+[quest_title_1031206000201061] VS. Team Break (3)
+[quest_title_1030206000703001] VS. Cobalion
+[quest_title_1030206010703001] VS. Cobalion (2)
+[quest_title_1030206020703001] Vs. Cobalion (3)
+[quest_title_1030420600101010] VS. Joven
+[quest_title_1030420600101011] VS. Joven (2)
+[quest_title_1030420600101012] VS. Joven (3)
+[quest_title_1030420600101013] VS. Pokéfan
 [quest_title_1030420400101011] VS. Entrenadores de Passio
+[quest_title_1030206040701001] El imponente soldado
+[quest_title_1030206040702001] El hilo que guía fuera del laberinto
 [quest_title_1030205040702001] La enorme roca inquebrantable
 
 ===========
@@ -4675,6 +4825,13 @@ avec la Team Skull !
 [quest_title_1030210048100000] Une journée avec Pieris (Look
 Ultime)
 [quest_title_1030210170000000] Une journée avec Artie
+[quest_title_1030206000702001] Les délicats vents argentés
+[quest_title_1030206010702001] Le vacarme du feuillage vert
+[quest_title_1030206020702001] Les feuilles acérées
+[quest_title_1030206030702001] Les fils blancs enchevêtrés
+[quest_title_1030206000702002] Les mandibules robustes
+[quest_title_1030206010702002] Une morsure puissante
+[quest_title_1030206020702002] L'estocade des crocs géants
 [quest_title_1030205000600010] Une Prestance naturelle
 [quest_title_1030205000600020] Une Danse éblouissante
 [quest_title_1030205000600030] Un combat de Brillance
@@ -4697,7 +4854,59 @@ Ultime)
 [quest_title_1030205510701001] Combat : Entei
 [quest_title_1030205520701001] Combat : Entei 2
 [quest_title_1030205530701001] Combat : Entei 3
+[quest_group_title_10130000000] Serena
+[quest_group_title_10148000000] Mortimer
+[quest_group_title_10198000000] Charline
+[quest_title_1030210130000001] Une journée avec Serena
+[quest_title_1030210148000001] Une journée avec Mortimer
+[quest_title_1030210198000001] Une journée avec Charline
+[quest_title_1030220130000100] L'évolution de Feunnec
+[quest_title_1030220130000200] L'évolution de Roussil
+[quest_title_1030206000602020] Entraînement spectral :
+l'affrontement !
+[quest_title_1030206000602030] Entraînement spectral :
+l'affrontement ! II
+[quest_title_1030206000602040] Entraînement spectral :
+l'affrontement ! III
+[quest_title_1030206000602060] Entraînement spectral :
+l'affrontement ! IV
+[quest_title_1030206000602080] Combat Collectif :
+l'affrontement !
+[quest_title_1030206000602090] Combat Collectif :
+l'affrontement ! II
+[quest_title_1030206000601000] Steelix n'est pas en forme...
+[quest_title_1030206000601010] Rassemblons les ingrédients !
+[quest_title_1030206000601090] Complication inattendue
+[quest_title_1030206000601100] Ensemble, sus aux voleurs !
+[quest_title_1030206000601110] Serena passe à l'attaque !
+[quest_title_1030206000601050] C'est ici, la fête ?
+[quest_title_1030206000601020] Combat : Team Break
+[quest_title_1030206000601030] Combat : Team Break II
+[quest_title_1030206000601040] Combat : Team Break III
+[quest_title_1030206000601060] Combat : Team Break IV
+[quest_title_1030206000601070] Combat Collectif :
+l'affrontement !
+[quest_title_1030206000601080] Combat Collectif :
+l'affrontement ! II
+[quest_group_title_10240000000] Jessie
+[quest_title_1031206000201011] L'arrivée de la Team Rocket !
+[quest_title_1031206000201021] Nous sommes de retour,
+dans la forêt !
+[quest_title_1031206000201031] L'amour et la vérité ont
+leur fierté
+[quest_title_1031206000201041] Combat : Team Break
+[quest_title_1031206000201051] Combat : Team Break II
+[quest_title_1031206000201061] Combat : Team Break III
+[quest_title_1030206000703001] Combat : Cobaltium
+[quest_title_1030206010703001] Combat : Cobaltium II
+[quest_title_1030206020703001] Combat : Cobaltium III
+[quest_title_1030420600101010] Combat : Gamin
+[quest_title_1030420600101011] Combat : Gamin II
+[quest_title_1030420600101012] Combat : Gamin III
+[quest_title_1030420600101013] Combat : Pokéfan
 [quest_title_1030420400101011] Combat : Dresseurs de Passio
+[quest_title_1030206040701001] Le général valeureux et fort
+[quest_title_1030206040702001] Le dédale et le fil
 [quest_title_1030205040702001] Robustesse du grand roc
 
 ===========
@@ -5664,6 +5873,13 @@ story_quest_name_it.lsd
 [quest_title_1030220116000200] L'evoluzione di Grotle
 [quest_title_1030210048100000] Un giorno con Mirton Costumax
 [quest_title_1030210170000000] Un giorno con Artemisio
+[quest_title_1030206000702001] Un placido vento argentato
+[quest_title_1030206010702001] Una verde foresta mormorante
+[quest_title_1030206020702001] Foglie affilate come lame
+[quest_title_1030206030702001] Un filo bianco avvolgente
+[quest_title_1030206000702002] Fronteggia la mascella poderosa!
+[quest_title_1030206010702002] Doma il morso possente!
+[quest_title_1030206020702002] Abbatti le zanne mostruose!
 [quest_title_1030205000600010] In mostra per la giuria!
 [quest_title_1030205000600020] Danze strabilianti!
 [quest_title_1030205000600030] E per finire... lotte splendenti!
@@ -5686,7 +5902,49 @@ story_quest_name_it.lsd
 [quest_title_1030205510701001] VS Entei
 [quest_title_1030205520701001] VS Entei 2
 [quest_title_1030205530701001] VS Entei 3
+[quest_group_title_10130000000] Serena
+[quest_group_title_10148000000] Angelo
+[quest_group_title_10198000000] Fortunata
+[quest_title_1030210130000001] Un giorno con Serena
+[quest_title_1030210148000001] Un giorno con Angelo
+[quest_title_1030210198000001] Un giorno con Fortunata
+[quest_title_1030220130000100] L'evoluzione di Fennekin
+[quest_title_1030220130000200] L'evoluzione di Braixen
+[quest_title_1030206000602020] La sfida dell'AllenaSpettro
+[quest_title_1030206000602030] La sfida dell'AllenaSpettro 2
+[quest_title_1030206000602040] La sfida dell'AllenaSpettro 3
+[quest_title_1030206000602060] La sfida dell'AllenaSpettro 4
+[quest_title_1030206000602080] Una Lotta Collettiva!
+[quest_title_1030206000602090] Una Lotta Collettiva! 2
+[quest_title_1030206000601000] Cosa succede ai Pokémon?
+[quest_title_1030206000601010] Raccogliamo gli ingredienti!
+[quest_title_1030206000601090] Un problema imprevisto
+[quest_title_1030206000601100] Recuperiamo il maltolto!
+[quest_title_1030206000601110] I sentimenti di Serena
+[quest_title_1030206000601050] E la festa...?
+[quest_title_1030206000601020] VS Team Break
+[quest_title_1030206000601030] VS Team Break 2
+[quest_title_1030206000601040] VS Team Break 3
+[quest_title_1030206000601060] VS Team Break 4
+[quest_title_1030206000601070] Una Lotta Collettiva!
+[quest_title_1030206000601080] Una Lotta Collettiva! 2
+[quest_group_title_10240000000] Jessie
+[quest_title_1031206000201011] Arriva il Team Rocket!
+[quest_title_1031206000201021] Guai molto grossi nella foresta!
+[quest_title_1031206000201031] L'orgoglio di chi denuncia i mali
+[quest_title_1031206000201041] VS Team Break
+[quest_title_1031206000201051] VS Team Break 2
+[quest_title_1031206000201061] VS Team Break 3
+[quest_title_1030206000703001] VS Cobalion
+[quest_title_1030206010703001] VS Cobalion 2
+[quest_title_1030206020703001] VS Cobalion 3
+[quest_title_1030420600101010] VS Marmocchio 1
+[quest_title_1030420600101011] VS Marmocchio 2
+[quest_title_1030420600101012] VS Marmocchio 3
+[quest_title_1030420600101013] VS Pokéfan
 [quest_title_1030420400101011] VS Allenatori di Pasio
+[quest_title_1030206040701001] Un condottiero forte e valoroso
+[quest_title_1030206040702001] Un labirinto di fili
 [quest_title_1030205040702001] Un muro di roccia incrollabile
 
 ===========
@@ -6380,7 +6638,7 @@ story_quest_name_ja.lsd
 [quest_title_1030112020704002] 暴れ狂う乱流を倒せ！
 [quest_title_1030112020705001] そびえる硬岩のゆくえ
 [quest_title_1030112030705001] 不動なる岩塊のゆくえ
-[quest_title_1030112020705002] ヘヴィな猛炎を倒せ！						
+[quest_title_1030112020705002] ヘヴィな猛炎を倒せ！                                                
 [quest_title_1030112020706001] 凝視する鋭き目のゆくえ
 [quest_title_1030112030706001] 鋭利な巨大クチバシのゆくえ
 [quest_title_1030112020706002] 鉄骨をも斬る牙竜を倒せ！
@@ -6656,6 +6914,13 @@ story_quest_name_ja.lsd
 [quest_title_1030220116000200] ハヤシガメの進化
 [quest_title_1030210048100000] とある日のマジコスギーマ
 [quest_title_1030210170000000] とある日のアーティ
+[quest_title_1030206000702001] 密やかな銀の風のゆくえ
+[quest_title_1030206010702001] 新緑のさざめきのゆくえ
+[quest_title_1030206020702001] 鋭利な葉先のゆくえ
+[quest_title_1030206030702001] 纏いつく白い糸のゆくえ
+[quest_title_1030206000702002] 屈強な下アゴに立ち向かえ！
+[quest_title_1030206010702002] 全身全霊の噛みつきを制圧せよ！
+[quest_title_1030206020702002] 驚きの巨大な牙を倒せ！
 [quest_title_1030205000600010] アピールしていこう！
 [quest_title_1030205000600020] キレッキレ　ダンス！
 [quest_title_1030205000600030] ラストは　かがやき勝負！
@@ -6678,7 +6943,49 @@ story_quest_name_ja.lsd
 [quest_title_1030205510701001] ＶＳ　エンテイ
 [quest_title_1030205520701001] ＶＳ　エンテイ２
 [quest_title_1030205530701001] ＶＳ　エンテイ３
+[quest_group_title_10130000000] セレナ
+[quest_group_title_10148000000] マツバ
+[quest_group_title_10198000000] アザミ
+[quest_title_1030210130000001] とある日のセレナ
+[quest_title_1030210148000001] とある日のマツバ
+[quest_title_1030210198000001] とある日のアザミ
+[quest_title_1030220130000100] フォッコの進化
+[quest_title_1030220130000200] テールナーの進化
+[quest_title_1030206000602020] ゴースト修行の勝負
+[quest_title_1030206000602030] ゴースト修行の勝負２
+[quest_title_1030206000602040] ゴースト修行の勝負３
+[quest_title_1030206000602060] ゴースト修行の勝負４
+[quest_title_1030206000602080] ソウリョクバトルで勝負！
+[quest_title_1030206000602090] ソウリョクバトルで勝負！２
+[quest_title_1030206000601000] ポケモンの様子が……？
+[quest_title_1030206000601010] 材料を集めよう！
+[quest_title_1030206000601090] 思わぬアクシデント
+[quest_title_1030206000601100] 一致団結！
+[quest_title_1030206000601110] セレナの想い
+[quest_title_1030206000601050] パーティのゆくえは……！？
+[quest_title_1030206000601020] ＶＳ　ブレイク団
+[quest_title_1030206000601030] ＶＳ　ブレイク団２
+[quest_title_1030206000601040] ＶＳ　ブレイク団３
+[quest_title_1030206000601060] ＶＳ　ブレイク団４
+[quest_title_1030206000601070] ソウリョクバトルで勝負！
+[quest_title_1030206000601080] ソウリョクバトルで勝負！２
+[quest_group_title_10240000000] ムサシ
+[quest_title_1031206000201011] ロケット団参上！
+[quest_title_1031206000201021] なんだかんだで森の中！
+[quest_title_1031206000201031] 愛と真実の悪のプライド
+[quest_title_1031206000201041] ＶＳ　ブレイク団
+[quest_title_1031206000201051] ＶＳ　ブレイク団２
+[quest_title_1031206000201061] ＶＳ　ブレイク団３
+[quest_title_1030206000703001] ＶＳ　コバルオン
+[quest_title_1030206010703001] ＶＳ　コバルオン２
+[quest_title_1030206020703001] ＶＳ　コバルオン３
+[quest_title_1030420600101010] ＶＳ　たんぱんこぞう１
+[quest_title_1030420600101011] ＶＳ　たんぱんこぞう２
+[quest_title_1030420600101012] ＶＳ　たんぱんこぞう３
+[quest_title_1030420600101013] ＶＳ　だいすきクラブ
 [quest_title_1030420400101011] ＶＳ　パシオのトレーナー
+[quest_title_1030206040701001] 屈強なる勇将のゆくえ
+[quest_title_1030206040702001] 糸の導きし迷路のゆくえ
 [quest_title_1030205040702001] 頑強なる巨岩のゆくえ
 
 ===========
@@ -7647,6 +7954,13 @@ story_quest_name_ko.lsd
 [quest_title_1030220116000200] 수풀부기의 진화
 [quest_title_1030210048100000] 궁극코스 블래리의 어느 날
 [quest_title_1030210170000000] 아티의 어느 날
+[quest_title_1030206000702001] 고요한 은색 바람의 행방
+[quest_title_1030206010702001] 떠들썩한 신록의 행방
+[quest_title_1030206020702001] 첨예한 잎끝의 행방
+[quest_title_1030206030702001] 엉겨 붙는 하얀 실의 행방
+[quest_title_1030206000702002] 강력한 아래턱에 맞서라!
+[quest_title_1030206010702002] 혼신의 물어뜯기를 제압하라!
+[quest_title_1030206020702002] 경이로운 거대 엄니를 쓰러뜨려라!
 [quest_title_1030205000600010] 어필해보자!
 [quest_title_1030205000600020] 빠릿빠릿 댄스!
 [quest_title_1030205000600030] 마지막은 반짝임 승부!
@@ -7669,7 +7983,49 @@ story_quest_name_ko.lsd
 [quest_title_1030205510701001] VS 앤테이
 [quest_title_1030205520701001] VS 앤테이2
 [quest_title_1030205530701001] VS 앤테이3
+[quest_group_title_10130000000] 세레나
+[quest_group_title_10148000000] 유빈
+[quest_group_title_10198000000] 다슬
+[quest_title_1030210130000001] 세레나의 어느 날
+[quest_title_1030210148000001] 유빈의 어느 날
+[quest_title_1030210198000001] 다슬의 어느 날
+[quest_title_1030220130000100] 푸호꼬의 진화
+[quest_title_1030220130000200] 테르나의 진화
+[quest_title_1030206000602020] 고스트타입 수행과 승부
+[quest_title_1030206000602030] 고스트타입 수행과 승부2
+[quest_title_1030206000602040] 고스트타입 수행과 승부3
+[quest_title_1030206000602060] 고스트타입 수행과 승부4
+[quest_title_1030206000602080] 총력배틀로 승부!
+[quest_title_1030206000602090] 총력배틀로 승부!2
+[quest_title_1030206000601000] 포켓몬의 모습이...?
+[quest_title_1030206000601010] 재료를 모으자!
+[quest_title_1030206000601090] 뜻밖의 사고
+[quest_title_1030206000601100] 한마음 한뜻으로!
+[quest_title_1030206000601110] 세레나의 마음
+[quest_title_1030206000601050] 파티는 어디로...!?
+[quest_title_1030206000601020] VS 브레이크단
+[quest_title_1030206000601030] VS 브레이크단2
+[quest_title_1030206000601040] VS 브레이크단3
+[quest_title_1030206000601060] VS 브레이크단4
+[quest_title_1030206000601070] 총력배틀로 승부!
+[quest_title_1030206000601080] 총력배틀로 승부!2
+[quest_group_title_10240000000] 로사
+[quest_title_1031206000201011] 로켓단 등장!
+[quest_title_1031206000201021] 숲속이냐고 물으신다면!
+[quest_title_1031206000201031] 사랑과 진실, 어둠의 긍지
+[quest_title_1031206000201041] VS 브레이크단
+[quest_title_1031206000201051] VS 브레이크단2
+[quest_title_1031206000201061] VS 브레이크단3
+[quest_title_1030206000703001] VS 코바르온
+[quest_title_1030206010703001] VS 코바르온2
+[quest_title_1030206020703001] VS 코바르온3
+[quest_title_1030420600101010] VS 반바지 꼬마1
+[quest_title_1030420600101011] VS 반바지 꼬마2
+[quest_title_1030420600101012] VS 반바지 꼬마3
+[quest_title_1030420600101013] VS 애호가클럽
 [quest_title_1030420400101011] VS 파시오의 트레이너
+[quest_title_1030206040701001] 강인하고 용맹한 장군의 행방
+[quest_title_1030206040702001] 한 가닥 실이 이끄는 미로의 행방
 [quest_title_1030205040702001] 완강한 거대 암석의 행방
 
 ===========
@@ -8638,6 +8994,13 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030220116000200] 樹林龜的進化
 [quest_title_1030210048100000] 某日的美極套裝越橘
 [quest_title_1030210170000000] 某日的亞堤
+[quest_title_1030206000702001] 靜悄銀風的去向
+[quest_title_1030206010702001] 嫩葉嘈雜聲的去向
+[quest_title_1030206020702001] 銳利葉尖的去向
+[quest_title_1030206030702001] 纏繞白線的去向
+[quest_title_1030206000702002] 面對強壯下顎！
+[quest_title_1030206010702002] 壓制全心全意的啃咬！
+[quest_title_1030206020702002] 打倒驚人的巨大獠牙！
 [quest_title_1030205000600010] 展現魅力吧！
 [quest_title_1030205000600020] 俐落的舞蹈！
 [quest_title_1030205000600030] 一較高下看誰最閃耀！
@@ -8660,7 +9023,49 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030205510701001] ＶＳ　炎帝
 [quest_title_1030205520701001] ＶＳ　炎帝２
 [quest_title_1030205530701001] ＶＳ　炎帝３
+[quest_group_title_10130000000] 莎莉娜
+[quest_group_title_10148000000] 松葉
+[quest_group_title_10198000000] 小薊
+[quest_title_1030210130000001] 某日的莎莉娜
+[quest_title_1030210148000001] 某日的松葉
+[quest_title_1030210198000001] 某日的小薊
+[quest_title_1030220130000100] 火狐狸的進化
+[quest_title_1030220130000200] 長尾火狐的進化
+[quest_title_1030206000602020] 幽靈屬性修行的對戰
+[quest_title_1030206000602030] 幽靈屬性修行的對戰２
+[quest_title_1030206000602040] 幽靈屬性修行的對戰３
+[quest_title_1030206000602060] 幽靈屬性修行的對戰４
+[quest_title_1030206000602080] 用大對戰決勝負！
+[quest_title_1030206000602090] 用大對戰決勝負！２
+[quest_title_1030206000601000] 寶可夢的樣子……？
+[quest_title_1030206000601010] 收集材料吧！
+[quest_title_1030206000601090] 意想不到的突發事件
+[quest_title_1030206000601100] 團結一致！
+[quest_title_1030206000601110] 莎莉娜的心情
+[quest_title_1030206000601050] 派對的去向……！？
+[quest_title_1030206000601020] ＶＳ　破壞隊
+[quest_title_1030206000601030] ＶＳ　破壞隊２
+[quest_title_1030206000601040] ＶＳ　破壞隊３
+[quest_title_1030206000601060] ＶＳ　破壞隊４
+[quest_title_1030206000601070] 用大對戰決勝負！
+[quest_title_1030206000601080] 用大對戰決勝負！２
+[quest_group_title_10240000000] 武藏
+[quest_title_1031206000201011] 火箭隊登場！
+[quest_title_1031206000201021] 森林裡狀況百出！
+[quest_title_1031206000201031] 愛與真實的邪惡自尊心
+[quest_title_1031206000201041] ＶＳ　破壞隊
+[quest_title_1031206000201051] ＶＳ　破壞隊２
+[quest_title_1031206000201061] ＶＳ　破壞隊３
+[quest_title_1030206000703001] ＶＳ　勾帕路翁
+[quest_title_1030206010703001] ＶＳ　勾帕路翁２
+[quest_title_1030206020703001] ＶＳ　勾帕路翁３
+[quest_title_1030420600101010] ＶＳ　短褲小子１
+[quest_title_1030420600101011] ＶＳ　短褲小子２
+[quest_title_1030420600101012] ＶＳ　短褲小子３
+[quest_title_1030420600101013] ＶＳ　發燒友俱樂部
 [quest_title_1030420400101011] ＶＳ　帕希歐的訓練家
+[quest_title_1030206040701001] 強壯勇將的去向
+[quest_title_1030206040702001] 指引之絲的迷宮去向
 [quest_title_1030205040702001] 頑強巨岩的去向
 
 ===========
@@ -8972,6 +9377,18 @@ Er lässt sich nie hetzen und seine Denkweise ist flexibel.
 [10048100000] Astors Machtmontur besticht durch ein imposantes Blau.
 Das stürmische Wetter auf hoher See hat seinen Instinkt
 für Kämpfe geschärft. Nun fährt er wellenweise Siege ein.
+[10130000000] Dieser Trainer liebt Pokémon und Mode. Sie ist stets
+fröhlich und positiv, doch im Kampf zeigt sie eine ruhige
+Ernsthaftigkeit.
+[10148000000] Dieser Arenaleiter kämpft mit Pokémon vom Typ Geist und
+kann durch sein geheimes Training in der Arena von Teak
+City sehen, was normalen Menschen verborgen bleibt.
+[10198000000] Die schweigsame Kampfkoryphäe der Kampfipitis verfügt
+über einen starken Kampfgeist. Einen Trainer, der sie
+besiegt hat, vergisst sie ihr Leben lang nicht.
+[10240000000] Liebe und Wahrheit verurteilt sie. Als Mitglied von Team
+Rocket hat sie ihrem Boss Giovanni die Treue geschworen
+und begeht zusammen mit James und Mauzi böse Taten.
 
 ===========
 trainer_description_en.lsd
@@ -9282,6 +9699,18 @@ own pace, keeping an open mind to new discoveries.
 [10048100000] Grimsley is back in his brand-new, crisp blue sygna suit!
 His sharp instincts honed by the raging seas, this thrill
 seeker has set his sights on riding a wave to victory.
+[10130000000] This Trainer from Kalos loves Pokémon and fashion. She’s
+usually cheerful and upbeat, but when a battle starts,
+her demeanor shifts, revealing her calm, serious side.
+[10148000000] This Ghost-type Gym Leader has secretly trained at the
+Ecruteak City Gym his entire life. As a result, he can now
+see what others cannot.
+[10198000000] The taciturn Frontier Brain of Hoenn’s Battle Pike prefers
+to let the roar of her fighting spirit speak for her. She
+never forgets the face of anyone who defeats her.
+[10240000000] This member of Team Rocket denounces the evils of truth
+and love, and swears her loyalty to the boss, Giovanni.
+James and Meowth are her eternal partners in crime.
 
 ===========
 trainer_description_es.lsd
@@ -9632,6 +10061,20 @@ pero flexible, siempre abierto a sugerencias.
 pone en práctica su entrenamiento contra enérgicas
 mareas y hace gala de intrépidas tácticas para nadar
 hacia la victoria.
+[10130000000] A esta Entrenadora le encantan tanto la moda como los
+Pokémon. Su vivaz y alegre personalidad hace que
+siempre adopte una actitud positiva, aunque durante los
+combates se muestra centrada y responsable.
+[10148000000] Este líder especializado en tipo Fantasma ha entrenado
+muchas veces en secreto en el Gimnasio de Iris, por lo
+que ahora es capaz de ver lo que otros no pueden.
+[10198000000] Reina de la Sierpe del Frente de Batalla. Aunque es algo
+parca en palabras, en combate muestra gran ferocidad
+y pasión. Jamás olvida a quien le arrebata la victoria.
+[10240000000] Esta miembro del Team Rocket siempre piensa en
+denunciar a los enemigos de la verdad y el amor.
+Es leal a Giovanni, jefe de la banda, y sus infatigables
+compañeros de fechorías son James y Meowth.
 
 ===========
 trainer_description_fr.lsd
@@ -9923,6 +10366,21 @@ Il vit à son rythme mais possède une grande intelligence.
 [10048100000] Pieris a revêtu son impressionnant Look Ultime bleu.
 Affûté par les mers déchaînées, son amour pour le hasard
 lui donne un grand avantage pour remporter la victoire.
+[10130000000] Une jeune Dresseuse qui aime les Pokémon et la mode.
+D'une nature joyeuse et enjouée, elle révèle son côté
+adulte et calme dès que le combat commence !
+[10148000000] Champion d'Arène du type Spectre, Mortimer passe son
+temps à l'Arène de Rosalia à suivre son entraînement
+secret ! Il est ainsi capable de voir ce que les autres ne
+voient pas.
+[10198000000] Meneuse du Reptile de Combat, son flegme cache en
+réalité une grande combativité. Les défaites lui restent en
+travers de la gorge et elle n'oublie jamais un adversaire
+contre qui elle a perdu.
+[10240000000] Membre de la Team Rocket, Jessie est là afin d'écraser
+l'amour et la vérité. En équipe avec ses acolytes, James
+et Miaouss, elle répand le mal sur terre après avoir juré
+allégeance à leur boss Giovanni.
 
 ===========
 trainer_description_it.lsd
@@ -10236,6 +10694,21 @@ di avere una mentalità aperta.
 Grazie al suo istinto da esperto di sfide, affinato sul mare
 in tempesta, sa cavalcare l'onda per conquistare
 la vittoria.
+[10130000000] Un'Allenatrice che ama la moda e i Pokémon. È vivace,
+allegra e ottimista di carattere, ma quando arriva
+il momento di lottare sa anche essere matura
+e imperturbabile.
+[10148000000] Capopalestra specializzato in Pokémon di tipo Spettro.
+Grazie ai lunghi allenamenti segreti nella Palestra
+di Amarantopoli, riesce ora a vedere ciò che gli altri
+non vedono.
+[10198000000] Asso del Parco della Serpe Lotta. È di poche parole,
+ma possiede anche un ardente spirito combattivo.
+Non dimentica mai gli avversari che la sconfiggono.
+[10240000000] Fa parte del Team Rocket e vuole denunciare i mali
+della verità e dell'amore. Ha giurato fedeltà a Giovanni,
+il capo dell'organizzazione, e compie malefatte insieme
+a James e a Meowth.
 
 ===========
 trainer_description_ja.lsd
@@ -10546,6 +11019,18 @@ trainer_description_ja.lsd
 [10048100000] 青が　印象的な　マジコスに　身を包んだ　ギーマ。
 荒れ狂う　海の中で　研ぎ澄まされた
 勝負師の　勘が　勝利の波を　引き寄せる。
+[10130000000] おしゃれと　ポケモンが　大好きな　トレーナー。
+快活で　明るく　前向きな　性格だが
+勝負のときは　クールで　大人びた　一面を　みせる。
+[10148000000] ゴーストタイプの　ジムリーダー。
+エンジュジムで　秘密の　修行を　積み重ね
+人には　みえないものが　みえるようになった。
+[10198000000] バトルチューブの　フロンティアブレーン。
+口数は　少ないが　激しい　闘志を　秘めており
+自分を　負かした　相手は　一生　忘れない。
+[10240000000] 愛と　真実の　悪を　貫く　ロケット団員。
+ボスである　サカキに　忠誠を　誓い
+コジロウ　ニャースと　共に　悪事を　働く。
 
 ===========
 trainer_description_ko.lsd
@@ -10856,6 +11341,18 @@ trainer_description_ko.lsd
 [10048100000] 파란색이 인상적인 궁극코스를 입은 블래리.
 성난 바다에서 연마한 승부사의 감이
 승리의 흐름을 이끌어 낸다.
+[10130000000] 패션과 포켓몬을 좋아하는 트레이너.
+쾌활하고 밝으며 긍정적인 성격이지만
+승부할 때는 쿨하고 어른스러운 일면도 보여준다.
+[10148000000] 고스트타입의 체육관 관장.
+인주체육관에서 비밀스러운 수행을 거듭하여
+사람들에겐 보이지 않는 것을 볼 수 있게 되었다.
+[10198000000] 배틀튜브의 프런티어브레인.
+말수는 적지만 격렬한 투지를 숨기고 있으며
+자신을 쓰러뜨린 상대는 평생 잊지 않는다.
+[10240000000] 사랑과 진실, 어둠을 뿌리고 다니는 로켓단 단원.
+보스인 비주기에게 충성을 맹세하고
+로이, 나옹과 함께 나쁜 일을 일삼는다.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -11165,6 +11662,18 @@ trainer_description_zh-TW.lsd
 [10048100000] 身穿的美極套裝藍得令人印象深刻。
 在驚濤駭浪中鍛鍊出來的敏銳直覺，
 會為賭徒越橘吸引勝利的波浪。
+[10130000000] 非常喜歡時尚與寶可夢的訓練家。
+平時個性活潑開朗又積極，
+但對戰時會展現出她帥氣又成熟的一面。
+[10148000000] 幽靈屬性的道館館主。
+在緣朱道館中不斷持續秘密修行，
+令他能看見一般人看不見的東西。
+[10198000000] 對戰管道的開拓頭腦。
+雖沉默寡言但蘊藏著高昂的鬥志，
+一輩子都不會忘記打敗自己的對手。
+[10240000000] 貫徹愛與真實的邪惡的火箭隊隊員。
+她發誓效忠老大阪木，
+並與小次郎和喵喵一起做壞事。
 
 ===========
 trainer_name_de.lsd
@@ -11282,16 +11791,21 @@ trainer_name_de.lsd
 [ch0127] Wassili
 [ch0128] Heiko
 [ch0129] Amalia
+[ch0130] Serena
 [ch0131] Citro
 [ch0133] Silber
 [ch0137] Eich
 [ch0140] Giovanni
+[ch0148] Jens
 [ch0151] Lamina
 [ch0153] Frosina
 [ch0157] Valerie
 [ch9000] 
 [ch0159] Perenus
 [ch0170] Artie
+[ch0198] Lotte
+[ch0240] Jessie
+[ch0241] James
 
 ===========
 trainer_name_en.lsd
@@ -11409,16 +11923,21 @@ trainer_name_en.lsd
 [ch0127] Wallace
 [ch0128] Wally
 [ch0129] Zinnia
+[ch0130] Serena
 [ch0131] Clemont
 [ch0133] Silver
 [ch0137] Professor Oak
 [ch0140] Giovanni
+[ch0148] Morty
 [ch0151] Fantina
 [ch0153] Glacia
 [ch0157] Valerie
 [ch9000] 
 [ch0159] Darach
 [ch0170] Burgh
+[ch0198] Lucy
+[ch0240] Jessie
+[ch0241] James
 
 ===========
 trainer_name_es.lsd
@@ -11536,16 +12055,21 @@ trainer_name_es.lsd
 [ch0127] Plubio
 [ch0128] Blasco
 [ch0129] Tristana
+[ch0130] Serena
 [ch0131] Lem
 [ch0133] Plata
 [ch0137] Oak
 [ch0140] Giovanni
+[ch0148] Morti
 [ch0151] Fantina
 [ch0153] Nívea
 [ch0157] Valeria
 [ch9000] 
 [ch0159] Kokuran
 [ch0170] Camus
+[ch0198] Fortunia
+[ch0240] Jessie
+[ch0241] James
 
 ===========
 trainer_name_fr.lsd
@@ -11663,16 +12187,21 @@ trainer_name_fr.lsd
 [ch0127] Marc
 [ch0128] Timmy
 [ch0129] Amaryllis
+[ch0130] Serena
 [ch0131] Lem
 [ch0133] Silver
 [ch0137] Chen
 [ch0140] Giovanni
+[ch0148] Mortimer
 [ch0151] Kiméra
 [ch0153] Glacia
 [ch0157] Valériane
 [ch9000] 
 [ch0159] Parsley
 [ch0170] Artie
+[ch0198] Charline
+[ch0240] Jessie
+[ch0241] James
 
 ===========
 trainer_name_it.lsd
@@ -11790,16 +12319,21 @@ trainer_name_it.lsd
 [ch0127] Adriano
 [ch0128] Lino
 [ch0129] Lyris
+[ch0130] Serena
 [ch0131] Lem
 [ch0133] Argento
 [ch0137] Professor Oak
 [ch0140] Giovanni
+[ch0148] Angelo
 [ch0151] Fannie
 [ch0153] Frida
 [ch0157] Valérie
 [ch9000] 
 [ch0159] Paride
 [ch0170] Artemisio
+[ch0198] Fortunata
+[ch0240] Jessie
+[ch0241] James
 
 ===========
 trainer_name_ja.lsd
@@ -11917,16 +12451,21 @@ trainer_name_ja.lsd
 [ch0127] ミクリ
 [ch0128] ミツル
 [ch0129] ヒガナ
+[ch0130] セレナ
 [ch0131] シトロン
 [ch0133] シルバー
 [ch0137] オーキド
 [ch0140] サカキ
+[ch0148] マツバ
 [ch0151] メリッサ
 [ch0153] プリム
 [ch0157] マーシュ
 [ch9000] 
 [ch0159] コクラン
 [ch0170] アーティ
+[ch0198] アザミ
+[ch0240] ムサシ
+[ch0241] コジロウ
 
 ===========
 trainer_name_ko.lsd
@@ -12044,16 +12583,21 @@ trainer_name_ko.lsd
 [ch0127] 윤진
 [ch0128] 민진
 [ch0129] 피아나
+[ch0130] 세레나
 [ch0131] 시트론
 [ch0133] 실버
 [ch0137] 오박사
 [ch0140] 비주기
+[ch0148] 유빈
 [ch0151] 멜리사
 [ch0153] 미혜
 [ch0157] 마슈
 [ch9000] 
 [ch0159] 코크런
 [ch0170] 아티
+[ch0198] 다슬
+[ch0240] 로사
+[ch0241] 로이
 
 ===========
 trainer_name_zh-TW.lsd
@@ -12171,16 +12715,21 @@ trainer_name_zh-TW.lsd
 [ch0127] 米可利
 [ch0128] 滿充
 [ch0129] 希嘉娜
+[ch0130] 莎莉娜
 [ch0131] 希特隆
 [ch0133] 小銀
 [ch0137] 大木
 [ch0140] 阪木
+[ch0148] 松葉
 [ch0151] 梅麗莎
 [ch0153] 波妮
 [ch0157] 瑪綉
 [ch9000] 
 [ch0159] 石蘭
 [ch0170] 亞堤
+[ch0198] 小薊
+[ch0240] 武藏
+[ch0241] 小次郎
 
 ===========
 common_widget_de.lsd
@@ -12416,6 +12965,8 @@ könnt jetzt ein Gefährtengespann bilden!
 [common_widget/cutin_trainer_016] Attacken-Level↑
 [common_widget/cutin_trainer_017] Attacken-Level MAX
 [common_widget/cutin_trainer_018] Der Attacken-Level ist gestiegen!
+[common_widget/cutin_trainer_019] [Name:PokemonName ] ist jetzt
+dein Gefährte!
 [common_widget/balloon_menu_001] AUTO
 [common_widget/balloon_menu_002] Überspringen
 [common_widget/balloon_menu_003] Möchtest du diese Sequenz
@@ -12450,6 +13001,10 @@ wurde zu einem
 [common_widget/filter_024] Broschen
 [common_widget/filter_025] Auswählen
 [common_widget/filter_026] Kategorie
+[common_widget/filter_028] Anzahl der Passivfähigkeiten
+[common_widget/filter_031] 1
+[common_widget/filter_032] 2
+[common_widget/filter_033] 3
 [common_widget/sort_001] ★-Zahl
 [common_widget/sort_002] Gefährtenattacke
 [common_widget/sort_003] KP
@@ -12551,6 +13106,12 @@ mit Team Break!“ in Kapitel 2 der
 Hauptgeschichte freigeschaltet.
 [common_widget/release_009] Wird nach Abschluss von „Nieder mit Team Break!“ in
 Kapitel 2 der Hauptgeschichte freigeschaltet.
+[common_widget/release_010] Wird freigeschaltet, indem du das erste Ei ausbrütest, das
+du von Professor Daisy erhalten hast.
+[common_widget/release_013] Professor Daisys Pokémon-Labor wird
+freigeschaltet, wenn du das erste Ei
+ausbrütest, das du von ihr erhalten
+hast.
 [common_widget/egg_hatched_cutin_001] Oh?
 [common_widget/egg_hatched_cutin_002] Ein [Name:PokemonName ] ist aus
 dem Ei geschlüpft!
@@ -12776,6 +13337,8 @@ Lv. MAX!
 [common_widget/cutin_trainer_017] Move Level
 MAX!
 [common_widget/cutin_trainer_018] Moves have been leveled up!
+[common_widget/cutin_trainer_019] You formed a sync pair
+with [Name:PokemonName ]!
 [common_widget/balloon_menu_001] AUTO
 [common_widget/balloon_menu_002] Skip
 [common_widget/balloon_menu_003] Skip this conversation?
@@ -12808,6 +13371,10 @@ into [Name:PokemonName ]!
 [common_widget/filter_024] Pin
 [common_widget/filter_025] Select
 [common_widget/filter_026] Category
+[common_widget/filter_028] Passive Skills
+[common_widget/filter_031] 1 Skill
+[common_widget/filter_032] 2 Skills
+[common_widget/filter_033] 3 Skills
 [common_widget/sort_001] Number of ★s
 [common_widget/sort_002] Sync Move
 [common_widget/sort_003] HP
@@ -12884,6 +13451,9 @@ Where There’s a Will, There’s a Way.
 Defeat Team Break!
 [common_widget/release_009] To unlock, complete Chapter 2:
 Defeat Team Break!
+[common_widget/release_010] To unlock, hatch the Egg you first received
+from Professor Bellis.
+[common_widget/release_013] To unlock Bellis’s Lab, hatch the Egg you first received from Professor Bellis.
 [common_widget/egg_hatched_cutin_001] Oh?
 [common_widget/egg_hatched_cutin_002] [Name:PokemonName ] hatched
 from the Egg!
@@ -13102,7 +13672,7 @@ se hará más fuerte.
 [common_widget/cutin_trainer_003] [Name:TrainerName ]
 [common_widget/cutin_trainer_004] 
 [common_widget/cutin_trainer_005] Movimiento compi
-[common_widget/cutin_trainer_006] Nv.[Character2:EndSpace ]
+[common_widget/cutin_trainer_006] Nv. 
 [common_widget/cutin_trainer_007] [Digit:1digit ]
 [common_widget/cutin_trainer_008] /[Digit:1digit ]
 [common_widget/cutin_trainer_009] Movimiento compi
@@ -13119,6 +13689,8 @@ movimientos ↑!
 de movimientos!
 [common_widget/cutin_trainer_018] Se ha aumentado el nivel
 de los movimientos.
+[common_widget/cutin_trainer_019] ¡Ahora puedes formar pareja con
+[Name:PokemonName ]!
 [common_widget/balloon_menu_001] AUTO
 [common_widget/balloon_menu_002] Omitir
 [common_widget/balloon_menu_003] ¿Quieres omitir esta conversación?
@@ -13153,6 +13725,10 @@ evolución?
 [common_widget/filter_024] Broche
 [common_widget/filter_025] Elegir
 [common_widget/filter_026] Categoría
+[common_widget/filter_028] Número de habilidades pasivas
+[common_widget/filter_031] 1
+[common_widget/filter_032] 2
+[common_widget/filter_033] 3
 [common_widget/sort_001] Número de ★
 [common_widget/sort_002] Movimiento compi
 [common_widget/sort_003] PS
@@ -13235,6 +13811,12 @@ del capítulo 7 de la historia principal.
 capítulo 2 de la historia principal.
 [common_widget/release_009] Completa "Hay que derrotar al Team Break" del
 capítulo 2 de la historia principal.
+[common_widget/release_010] Disponible cuando eclosione el primer Huevo que te
+entregó la Profesora Margarita.
+[common_widget/release_013] Puedes acceder al Laboratorio Pokémon
+de la Profesora Margarita después de
+que eclosione el primer Huevo que
+te entregue.
 [common_widget/egg_hatched_cutin_001] Anda...
 [common_widget/egg_hatched_cutin_002] El Huevo ha eclosionado y ha salido un
 [Name:PokemonName ].
@@ -13465,6 +14047,8 @@ renforcées !
 [common_widget/cutin_trainer_017] Niveau des
 capacités max !
 [common_widget/cutin_trainer_018] Niveau des capacités augmenté !
+[common_widget/cutin_trainer_019] Vous pouvez maintenant faire équipe
+avec [Name:PokemonName ] !
 [common_widget/balloon_menu_001] AUTO
 [common_widget/balloon_menu_002] Passer
 [common_widget/balloon_menu_003] Voulez-vous passer la conversation ?
@@ -13498,6 +14082,10 @@ a évolué en
 [common_widget/filter_024] Broche
 [common_widget/filter_025] Choisir
 [common_widget/filter_026] Catégorie
+[common_widget/filter_028] Nombres de talents passifs
+[common_widget/filter_031] 1
+[common_widget/filter_032] 2
+[common_widget/filter_033] 3
 [common_widget/sort_001] Nombre d'★
 [common_widget/sort_002] Capacité Duo
 [common_widget/sort_003] PV
@@ -13589,6 +14177,11 @@ au chapitre 7.
 dans le chapitre 2.
 [common_widget/release_009] Terminez « Battons la Team Break ! »
 dans le chapitre 2.
+[common_widget/release_010] Débloqué après avoir fait éclore l'Œuf que
+la Professeure Bellis vous a confié.
+[common_widget/release_013] Le Laboratoire Pokémon Bellis est
+débloqué après avoir fait éclore l'Œuf
+que la Professeur Bellis vous a confié.
 [common_widget/egg_hatched_cutin_001] Oh ?!
 [common_widget/egg_hatched_cutin_002] Un [Name:PokemonName ] est
 sorti de l'Œuf !
@@ -13796,7 +14389,7 @@ Vuoi andare agli episodi Unità?
 [common_widget/cutin_trainer_003] [Name:TrainerName ]
 [common_widget/cutin_trainer_004] 
 [common_widget/cutin_trainer_005] NUOVO LIVELLO
-[common_widget/cutin_trainer_006] Livello[Character2:EndSpace ]
+[common_widget/cutin_trainer_006] Livello 
 [common_widget/cutin_trainer_007] [Digit:1digit ]
 [common_widget/cutin_trainer_008] /[Digit:1digit ]
 [common_widget/cutin_trainer_009] Livello massimo
@@ -13811,6 +14404,8 @@ Unimossa
 [common_widget/cutin_trainer_017] Livello mosse
 al massimo!
 [common_widget/cutin_trainer_018] Il livello mosse è aumentato!
+[common_widget/cutin_trainer_019] Ora puoi formare un'Unità
+con [Name:PokemonName ]!
 [common_widget/balloon_menu_001] AUTO
 [common_widget/balloon_menu_002] Salta
 [common_widget/balloon_menu_003] Vuoi saltare il dialogo?
@@ -13843,6 +14438,10 @@ dell'evoluzione?
 [common_widget/filter_024] Spille
 [common_widget/filter_025] Seleziona
 [common_widget/filter_026] Categoria
+[common_widget/filter_028] Numero di abilità passive
+[common_widget/filter_031] 1
+[common_widget/filter_032] 2
+[common_widget/filter_033] 3
 [common_widget/sort_001] Numero di ★
 [common_widget/sort_002] Unimossa
 [common_widget/sort_003] PS
@@ -13863,7 +14462,7 @@ dell'evoluzione?
 [common_widget/sort_022] L. massimi sbloccati
 [common_widget/sort_023] Livello mosse
 [common_widget/cutin_001] NUOVO LIVELLO!
-[common_widget/cutin_002] L.[Character2:EndSpace ]
+[common_widget/cutin_002] L. 
 [common_widget/cutin_003] AUMENTO ★!
 [common_widget/account_001] Trasferimento effettuato
 [common_widget/account_002] I dati di salvataggio di backup sono
@@ -13926,6 +14525,11 @@ della storia.
 [common_widget/dialog_release_010] Si sblocca completando "Sconfiggi il Team Break!"
 del capitolo 2.
 [common_widget/release_009] Completa "Sconfiggi il Team Break!" del capitolo 2.
+[common_widget/release_010] Fai schiudere il primo Uovo ricevuto dalla Professoressa
+Bellisperia per sbloccare questa funzione.
+[common_widget/release_013] Fai schiudere il primo Uovo ricevuto
+dalla Professoressa Bellisperia
+per sbloccare il Laboratorio Pokémon.
 [common_widget/egg_hatched_cutin_001] Oh!
 [common_widget/egg_hatched_cutin_002] Dall'Uovo è nato [Name:PokemonName ]!
 [common_widget/egg_detail_001] Inserisci un nome.
@@ -14147,6 +14751,8 @@ Lv.MAX
 [common_widget/cutin_trainer_016] わざレベルアップ！
 [common_widget/cutin_trainer_017] わざレベルMAX！
 [common_widget/cutin_trainer_018] わざレベルが上昇しました！
+[common_widget/cutin_trainer_019] [Name:PokemonName ]と
+バディを組めるようになりました！
 [common_widget/balloon_menu_001] AUTO
 [common_widget/balloon_menu_002] スキップ
 [common_widget/balloon_menu_003] お話をスキップしますか？
@@ -14179,6 +14785,10 @@ Lv.MAX
 [common_widget/filter_024] ブローチ
 [common_widget/filter_025] 選択
 [common_widget/filter_026] 種類
+[common_widget/filter_028] パッシブスキル数
+[common_widget/filter_031] 1個
+[common_widget/filter_032] 2個
+[common_widget/filter_033] 3個
 [common_widget/sort_001] ★の数
 [common_widget/sort_002] バディーズわざ
 [common_widget/sort_003] HP
@@ -14275,6 +14885,11 @@ HARDクリアで解放
 クリアで解放されます
 [common_widget/release_009] メインストーリー第２章「ブレイク団を倒せ！」
 クリアで解放
+[common_widget/release_010] 初めてヒナギク博士から預かった
+タマゴをかえすと解放
+[common_widget/release_013] ヒナギクポケモン研究所は
+初めてヒナギク博士から預かった
+タマゴをかえすと解放されます
 [common_widget/egg_hatched_cutin_001] おや？
 [common_widget/egg_hatched_cutin_002] タマゴが　かえって
 [Name:PokemonName ]が　うまれた！
@@ -14355,7 +14970,7 @@ common_widget_ko.lsd
 [common_widget/dialog_017] 모험을 포기하고 그만둡니다
 괜찮겠습니까?
 [common_widget/dialog_018] ※모험 도중에 손에 넣은 보상은 사라집니다
-[common_widget/dialog_019] ※교환 기간이 종료된 뒤에도 자동판매되지 않습니다.
+[common_widget/dialog_019] ※교환 기간이 종료된 뒤에도 자동판매되지 않습니다
 [common_widget/dialog_020] 획득 가능한 기한이 지나면
 획득할 수 없는
 버디즈가 있습니다!
@@ -14379,7 +14994,7 @@ common_widget_ko.lsd
 [common_widget/dialog_031] 참가 보상 일람
 [common_widget/dialog_032] 이번 회 참가 보상은 다음 회 배틀빌라의
 목록 화면에 들어가면 받을 수 있습니다
-[common_widget/dialog_033] 사용기한이 얼마 남지 않은 잠재력이 있습니다.
+[common_widget/dialog_033] 사용기한이 얼마 남지 않은 잠재력이 있습니다
 [common_widget/dialog_034] 기한이 만료되어
 아래의 도구가 파기되었습니다
 [common_widget/dialog_036] ※사용기한이 지나면
@@ -14425,7 +15040,7 @@ common_widget_ko.lsd
 [common_widget/dialog_063] [Name:TrainerName ]&[Name:PokemonName ]의
 버디즈기술과 기술의 위력이 상승합니다
 [common_widget/dialog_065] ※기술 레벨이 5인 경우에는
-원래 ★의 수의 잠재력으로 바뀝니다.
+원래 ★의 수의 잠재력으로 바뀝니다
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -14495,6 +15110,8 @@ Lv.MAX
 [common_widget/cutin_trainer_016] 기술 레벨업!
 [common_widget/cutin_trainer_017] 기술 레벨MAX!
 [common_widget/cutin_trainer_018] 기술 레벨이 상승했습니다!
+[common_widget/cutin_trainer_019] [Name:PokemonName ][Kor:Particle char="to" ]
+버디가 되었습니다!
 [common_widget/balloon_menu_001] AUTO
 [common_widget/balloon_menu_002] 건너뛰기
 [common_widget/balloon_menu_003] 대화를 건너뛰겠습니까?
@@ -14527,6 +15144,10 @@ Lv.MAX
 [common_widget/filter_024] 브로치
 [common_widget/filter_025] 선택
 [common_widget/filter_026] 종류
+[common_widget/filter_028] 패시브스킬 수
+[common_widget/filter_031] 1개
+[common_widget/filter_032] 2개
+[common_widget/filter_033] 3개
 [common_widget/sort_001] ★의 수
 [common_widget/sort_002] 버디즈기술
 [common_widget/sort_003] HP
@@ -14620,6 +15241,11 @@ Lv.MAX
 클리어하면 해방됩니다
 [common_widget/release_009] 메인 스토리 제2장 "브레이크단을 쓰러뜨려라!"를
 클리어하면 해방
+[common_widget/release_010] 데이지박사에게 처음 받은 알을
+부화시키면 해방
+[common_widget/release_013] 데이지 포켓몬 연구소는
+데이지박사에게 처음 받은
+알을 부화시키면 해방됩니다
 [common_widget/egg_hatched_cutin_001] 어라?
 [common_widget/egg_hatched_cutin_002] 알이 부화해서
 [Name:PokemonName ][Kor:Particle char="ga" ] 태어났다!
@@ -14828,6 +15454,7 @@ Lv.MAX
 [common_widget/cutin_trainer_016] 招式等級提升！
 [common_widget/cutin_trainer_017] 招式等級MAX！
 [common_widget/cutin_trainer_018] 招式等級提升了！
+[common_widget/cutin_trainer_019] 可以和[Name:PokemonName ]結為拍組了！
 [common_widget/balloon_menu_001] AUTO
 [common_widget/balloon_menu_002] 跳過
 [common_widget/balloon_menu_003] 要跳過對話嗎？
@@ -14860,6 +15487,10 @@ Lv.MAX
 [common_widget/filter_024] 胸針
 [common_widget/filter_025] 選擇
 [common_widget/filter_026] 種類
+[common_widget/filter_028] 被動技能數
+[common_widget/filter_031] 1個
+[common_widget/filter_032] 2個
+[common_widget/filter_033] 3個
 [common_widget/sort_001] ★數
 [common_widget/sort_002] 拍組招式
 [common_widget/sort_003] HP
@@ -14942,6 +15573,11 @@ Lv.MAX
 「打倒破壞隊！」即可開放
 [common_widget/release_009] 開放條件：
 成功過關主線劇情第２章「打倒破壞隊！」
+[common_widget/release_010] 首次孵化雛菊博士給的蛋之後
+將會開放
+[common_widget/release_013] 雛菊寶可夢研究所將在
+首次孵化雛菊博士
+給的蛋之後開放
 [common_widget/egg_hatched_cutin_001] ……咦？
 [common_widget/egg_hatched_cutin_002] 蛋孵化成[Name:PokemonName ]了！
 [common_widget/egg_detail_001] 請輸入暱稱
@@ -17028,6 +17664,9 @@ um aufbrechen zu können.
 weiter auf der Karte fortschreiten.
 [home/quest_detail_075] Belohnung
 [home/quest_detail_076] Hinweis: Belohnungen sind wahrscheinlichkeitsabhängig. Es kann auch vorkommen, dass es keine Belohnung gibt.
+[home/quest_detail_077] Ei-Erhaltrate
+[home/quest_detail_095] Hinweis: Deine Eierbox ist voll. Du kannst keine
+weiteren Eier ablegen.
 [home/home_001] Laden
 [home/home_002] Abenteuer
 [home/home_003] Team
@@ -17037,6 +17676,19 @@ weiter auf der Karte fortschreiten.
 [home/home_019] Jetzt mehr Versuche!
 [home/home_020] Ein Legenden-Event läuft!
 [home/home_021] PokéFestival!
+[home/home_022] Zeitl. begr.
+[home/home_023] Zeitlich begr. G-Suche!
+[home/home_024] Die folgenden zeitlich begrenzten
+Gefährtensuchen sind nun verfügbar:
+[Name:BannerText ]
+[Name:BannerText Idx="1" ]
+Schaue im Laden vorbei, um mehr zu
+erfahren.
+[home/home_025] Die zeitlich begrenzte Gefährtensuche
+[Name:BannerText ]
+endet bald. Schaue im Laden vorbei,
+um mehr zu erfahren.
+[home/home_026] Zeitlich begr. G-Suche!
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missionen
 [home/global_menu_008] Freunde
@@ -17152,7 +17804,7 @@ lange zurückliegt.
 [home/legend_battle_016] Voraussetzung für den Erhalt
 [home/legend_battle_017] Emblem
 [home/legend_battle_018] Schadensbelohnung
-[home/legend_battle_019] Senkt das [Digit:2digits ]. Segment auf [Digit:3digits Idx="1" ] %
+[home/legend_battle_019] Senke das [Digit:2digits ]. Segment auf [Digit:3digits Idx="1" ] %
 [home/legend_battle_020] Standardpreis
 [home/legend_battle_021] Je nachdem, wie viel Schaden dem Boss zugefügt
 wurde, erhältst du verschiedene Belohnungen.
@@ -17169,6 +17821,27 @@ kampfunfähig. Du kannst nicht
 aufbrechen.
 [home/legend_battle_028] Hinweis: Brichst du die Teilnahme ab, werden alle
 kampfunfähigen Gefährten vollständig geheilt.
+[home/sp_battle_001] Die Zahl der zu Event-Kollektivkämpfen
+aufgebrochenen Gefährten sowie der
+gegnerische Zustand (KP etc.) werden
+bei Abbruch zurückgesetzt. Fortfahren?
+[home/sp_battle_002] Dein Fortschritt beim aktuellen
+Event-Kollektivkampf wurde
+zurückgesetzt.
+[home/sp_battle_003] Es ist nicht möglich, an mehr als
+einem Event-Kollektivkampf zugleich
+teilzunehmen.
+
+Wenn du trotzdem an einem anderen
+Kollektivkampf teilnehmen möchtest,
+musst du den aktuellen Kollektivkampf
+zuerst abbrechen.
+[home/sp_battle_004] Dein Fortschritt wurde zurückgesetzt,
+da deine letzte Teilnahme bereits zu
+lange zurückliegt.
+[home/sp_battle_005] Du hast den Kollektivkampf gewonnen!
+Versuche dich am besten gleich am
+nächsten!
 
 ===========
 home_en.lsd
@@ -17344,6 +18017,9 @@ To continue, collect more:
 longer progress through this map.
 [home/quest_detail_075] Battle Rewards
 [home/quest_detail_076] Note: Each battle reward has a drop rate. You may not receive all of the items shown.
+[home/quest_detail_077] Egg Reward Rate
+[home/quest_detail_095] Note: You can’t receive any more Eggs right now
+because your Egg Box is full.
 [home/home_001] Shop
 [home/home_002] Explore
 [home/home_003] Team
@@ -17353,6 +18029,17 @@ longer progress through this map.
 [home/home_019] Extra Replays
 [home/home_020] Legendary Event
 [home/home_021] Poké Fair
+[home/home_022] Limited-Time
+[home/home_023] Limited-Time Scout!
+[home/home_024] [Name:BannerText ]
+and
+[Name:BannerText Idx="1" ]
+available for a limited time!
+Check out the shop for more details.
+[home/home_025] [Name:BannerText ]
+Only a little time left to scout!
+Check out the shop for more details.
+[home/home_026] Limited-Time Scout
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missions
 [home/global_menu_008] Friends
@@ -17486,6 +18173,27 @@ progress have been reset.
 your team are able to battle.
 [home/legend_battle_028] Note: Fainted Pokémon recover when the
 challenge is reset.
+[home/sp_battle_001] The number of sync pairs engaged in
+Full-Force Battles as well as your
+opponents’ HP and battle status
+will be reset for this event.
+
+Are you sure you want to reset?
+[home/sp_battle_002] Your Full-Force Battle progress
+for this event has been reset.
+[home/sp_battle_003] You can take on only one Full-Force
+Battle at a time during this event.
+
+If you’d like to take on a different
+Full-Force Battle, tap the Reset button.
+[home/sp_battle_004] The time frame to resume this
+challenge has ended.
+Your progress has been reset.
+[home/sp_battle_005] Congratulations!
+You won this Full-Force Battle!
+
+Next, try testing your might against
+another opponent!
 
 ===========
 home_es.lsd
@@ -17662,6 +18370,9 @@ máximo de veces.
 seguir avanzando por este mapa.
 [home/quest_detail_075] Botín
 [home/quest_detail_076] *Cada botín tiene una tasa de obtención, por lo que es posible que no obtengas todos los objetos, e incluso que no obtengas ninguno.
+[home/quest_detail_077] Índice de aparición de Huevos
+[home/quest_detail_095] Aviso: No tienes más espacio en la Caja Huevo,
+así que no puedes aceptar más Huevos.
 [home/home_001] Tienda
 [home/home_002] Aventura
 [home/home_003] Equipo
@@ -17671,6 +18382,18 @@ seguir avanzando por este mapa.
 [home/home_019] ¡Más intentos!
 [home/home_020] ¡Evento legendario!
 [home/home_021] ¡Pokéfestival!
+[home/home_022] Limitado
+[home/home_023] ¡Reclutamiento limitado!
+[home/home_024] Estos reclutamientos están
+disponibles por tiempo limitado:
+"[Name:BannerText ]" y
+"[Name:BannerText Idx="1" ]".
+¡Pásate por la tienda a conseguirlos!
+[home/home_025] El reclutamiento por tiempo limitado de
+"[Name:BannerText ]"
+va a finalizar dentro de poco.
+¡Pásate por la tienda cuanto antes!
+[home/home_026] Reclutamiento limitado
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Misiones
 [home/global_menu_008] Amigos
@@ -17797,6 +18520,24 @@ combate y los premios por daño.
 equipo actual está fuera de combate.
 [home/legend_battle_028] Aviso: Puedes elegir la opción Restablecer para que las
 parejas de compis debilitadas se recuperen.
+[home/sp_battle_001] Se restablecerá todo el progreso del
+combate colectivo, los PS restantes de
+los rivales y los compis usados.
+¿Quieres continuar?
+[home/sp_battle_002] Se ha restablecido el progreso del
+combate colectivo en el evento.
+[home/sp_battle_003] No puedes librar un combate colectivo
+si ya estás llevando a cabo uno en el
+evento.
+Para disputar otro combate colectivo,
+usa la opción Restablecer.
+[home/sp_battle_004] Se ha rebasado el límite de tiempo,
+por lo que se ha restablecido el
+progreso.
+[home/sp_battle_005] ¡Enhorabuena por la victoria!
+
+Ponte a prueba con otro combate
+colectivo.
 
 ===========
 home_fr.lsd
@@ -17974,6 +18715,10 @@ tous vos essais disponibles.
 pouvez plus progresser sur la carte.
 [home/quest_detail_075] Récomp. bonus
 [home/quest_detail_076] Le taux d'obtention des récompenses bonus est inférieur à 100 %. Il est donc possible de ne pas en obtenir.
+[home/quest_detail_077] Taux d'obtention des Œufs
+[home/quest_detail_095] La Boîte à Œufs est pleine. 
+Vous ne pouvez pas déposer
+d'Œuf supplémentaire.
 [home/home_001] Boutique
 [home/home_002] Aventure
 [home/home_003] Équipe
@@ -17983,6 +18728,20 @@ pouvez plus progresser sur la carte.
 [home/home_019] Plus d'explorations !
 [home/home_020] Évènement légendaire !
 [home/home_021] Festival !
+[home/home_022] Durée limitée
+[home/home_023] Appel Duo limité !
+[home/home_024] Ces Appels Duo sont disponibles
+pour une durée limitée !
+« [Name:BannerText ] »
+« [Name:BannerText Idx="1" ] »
+Rendez-vous dans la boutique pour
+en savoir plus !
+[home/home_025] Il ne vous reste plus longtemps pour
+cet Appel Duo limité !
+« [Name:BannerText ] »
+Rendez-vous dans la boutique pour
+en savoir plus !
+[home/home_026] Appel Duo limité
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missions
 [home/global_menu_008] Amis
@@ -18116,6 +18875,27 @@ réinitialisées.
 [home/legend_battle_027] Les Duos de votre équipe sont K.O.
 Vous ne pouvez pas partir à l'aventure.
 [home/legend_battle_028] Réinitialiser soignera les Duos qui ont été mis K.O.
+[home/sp_battle_001] Les PV des ennemis seront restaurés
+et le nombre de Duos utilisés pendant
+le Combat Collectif retombera à 0.
+Voulez-vous réinitialiser ?
+[home/sp_battle_002] Votre progression dans
+le Combat Collectif de cet
+évènement a été réinitialisée.
+[home/sp_battle_003] Vous ne pouvez participer qu'à
+un seul Combat Collectif à la fois
+pendant cet évènement.
+
+Pour prendre part à un autre Combat
+Collectif, veuillez réinitialiser celui
+en cours.
+[home/sp_battle_004] Vous avez dépassé la limite
+de temps. Votre progression a
+été réinitialisée.
+[home/sp_battle_005] Vous avez remporté le combat !
+
+Tentez votre chance dans le Combat
+Collectif suivant !
 
 ===========
 home_it.lsd
@@ -18292,6 +19072,9 @@ Guida area.
 possibile proseguire sulla mappa.
 [home/quest_detail_075] Ricompensa lotta
 [home/quest_detail_076] L'ottenimento degli strumenti della ricompensa lotta si basa su probabilità variabili. È quindi possibile anche non ricevere alcuno strumento fra quelli mostrati.
+[home/quest_detail_077] Probabilità di ottenere un Uovo
+[home/quest_detail_095] Non puoi ricevere altre Uova perché il tuo Box
+Uova è pieno.
 [home/home_001] Negozio
 [home/home_002] Avventura
 [home/home_003] Squadra
@@ -18301,6 +19084,21 @@ possibile proseguire sulla mappa.
 [home/home_019] Più tentativi disponibili
 [home/home_020] Evento leggendario in corso
 [home/home_021] Masterparty
+[home/home_022] Offerta limitata
+[home/home_023] Unicerche limitate!
+[home/home_024] Sono ora disponibili le seguenti
+Unicerche limitate:
+"[Name:BannerText ]"
+"[Name:BannerText Idx="1" ]"
+
+Scoprile subito nel negozio!
+[home/home_025] La seguente Unicerca limitata sta
+per terminare:
+"[Name:BannerText ]"
+
+Vai subito nel negozio
+per approfittarne!
+[home/home_026] Unicerca limitata
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missioni
 [home/global_menu_008] Amici
@@ -18434,6 +19232,27 @@ azzerati.
 in squadra sono esauste.
 [home/legend_battle_028] Puoi effettuare un ripristino per rimettere in sesto
 le Unità.
+[home/sp_battle_001] Il ripristino azzererà il numero di Unità
+alleate partite per la Lotta Collettiva
+e rimetterà del tutto in sesto i nemici.
+Vuoi procedere?
+[home/sp_battle_002] I tuoi progressi nella Lotta Collettiva
+in corso durante l'evento sono stati
+ripristinati.
+[home/sp_battle_003] Se stai già affrontando una Lotta
+Collettiva, non puoi accedere alle altre
+dello stesso evento.
+
+Se vuoi affrontare un'altra Lotta
+Collettiva dello stesso evento, tocca
+il pulsante "Ripristina".
+[home/sp_battle_004] I tuoi progressi sono stati ripristinati
+perché hai superato il tempo massimo
+previsto.
+[home/sp_battle_005] Congratulazioni per la vittoria!
+
+Ora perché non ti metti alla prova
+con un'altra Lotta Collettiva?
 
 ===========
 home_ja.lsd
@@ -18610,6 +19429,9 @@ Lv.[Digit:2digits ]で解放
 [home/quest_detail_075] ドロップ報酬
 [home/quest_detail_076] ※ドロップ報酬は確率によって決まるため、
 どうぐがドロップしない場合があります
+[home/quest_detail_077] タマゴの入手率
+[home/quest_detail_095] ※タマゴボックスがいっぱいのため
+これ以上タマゴを預かることができません
 [home/home_001] ショップ
 [home/home_002] ぼうけん
 [home/home_003] チーム
@@ -18619,6 +19441,19 @@ Lv.[Digit:2digits ]で解放
 [home/home_019] 挑戦回数アップ中
 [home/home_020] 伝説ポケモンイベント開催中
 [home/home_021] フェス開催中
+[home/home_022] 時間限定
+[home/home_023] 時間限定Bサーチ出現!
+[home/home_024] 時間限定で解放されるおとくなBサーチ
+「[Name:BannerText ]」
+「[Name:BannerText Idx="1" ]」
+が出現しました！
+
+さっそくショップに行ってみよう。
+[home/home_025] 時間限定のおとくなBサーチ
+「[Name:BannerText ]」
+がもうすぐ終了！
+ショップにいそごう！
+[home/home_026] 時間限定Bサーチ
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] ミッション
 [home/global_menu_008] ともだち
@@ -18750,6 +19585,23 @@ Lv.[Digit:2digits ]で解放
 [home/legend_battle_027] 編成されているすべてのバディーズが
 ひんしのため出発できません
 [home/legend_battle_028] ※ひんし状態はリセットすると回復します
+[home/sp_battle_001] リセットを実行すると同イベントの挑戦中
+ソウリョクバトルの味方の出発数や
+敵のＨＰなどの状態がリセットされます
+よろしいですか？
+[home/sp_battle_002] 同イベントの挑戦中ソウリョクバトルの
+進捗がリセットされました
+[home/sp_battle_003] 同イベントに挑戦中ソウリョクバトルが
+ある場合、他のソウリョクバトルに
+挑戦できません
+
+他のソウリョクバトルに挑戦したい時は
+リセットを実行してください
+[home/sp_battle_004] 保持期間が切れたため
+進捗がリセットされました
+[home/sp_battle_005] ソウリョクバトルに勝利しました！
+
+次のソウリョクバトルに挑戦しましょう
 
 ===========
 home_ko.lsd
@@ -18925,6 +19777,9 @@ Lv.[Digit:2digits ]에서 해방
 [home/quest_detail_075] 드롭 보상
 [home/quest_detail_076] ※드롭 보상은 확률에 따라 정해지므로
 도구를 얻지 못할 수 있습니다
+[home/quest_detail_077] 알 입수 확률
+[home/quest_detail_095] ※알박스가 가득 차 있기 때문에
+이 이상 알을 받을 수 없습니다
 [home/home_001] 숍
 [home/home_002] 모험
 [home/home_003] 팀
@@ -18934,6 +19789,18 @@ Lv.[Digit:2digits ]에서 해방
 [home/home_019] 도전 횟수 증가 중
 [home/home_020] 전설 포켓몬 이벤트 개최 중
 [home/home_021] 페스티벌 개최 중
+[home/home_022] 시간 한정
+[home/home_023] 시간 한정 B서치 출현!
+[home/home_024] 시간 한정으로 해방되는 스페셜 B서치
+"[Name:BannerText ]"
+"[Name:BannerText Idx="1" ]"[Kor:Particle char="ga" ]
+출현했습니다!
+바로 숍으로 가봅시다
+[home/home_025] 시간 한정 스페셜 B서치
+"[Name:BannerText ]"[Kor:Particle char="ga" ]
+곧 종료됩니다!
+
+[home/home_026] 시간 한정 B서치
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] 미션
 [home/global_menu_008] 친구
@@ -19068,6 +19935,22 @@ Lv.[Digit:2digits ]에서 해방
 [home/legend_battle_027] 편성된 모든 버디즈가 기절했기 때문에
 출발할 수 없습니다
 [home/legend_battle_028] ※기절 상태는 초기화하면 회복됩니다
+[home/sp_battle_001] 초기화하면 같은 이벤트에서 도전 중인
+총력배틀에서 출발 가능한 같은 편의 버디즈 수나
+상대의 HP 등의 상태가 초기화됩니다
+
+괜찮겠습니까?
+[home/sp_battle_002] 같은 이벤트에서 도전 중인 총력배틀의
+진척 상황이 초기화되었습니다
+[home/sp_battle_003] 같은 이벤트에 도전 중인 총력배틀이 있을 경우
+다른 총력배틀에 도전할 수 없습니다
+
+다른 총력배틀에 도전하고 싶을 때는
+초기화를 해 주십시오
+[home/sp_battle_004] 유지 기간이 끝나
+진척 상황이 초기화되었습니다
+[home/sp_battle_005] 총력배틀에서 승리하였습니다!
+다음 총력배틀에 도전합시다
 
 ===========
 home_zh-TW.lsd
@@ -19236,6 +20119,9 @@ home_zh-TW.lsd
 無法繼續前進
 [home/quest_detail_075] 掉落報酬
 [home/quest_detail_076] ※掉落報酬依機率而定，因此有時可能會沒有道具掉落。
+[home/quest_detail_077] 獲得蛋的機率
+[home/quest_detail_095] ※蛋盒已滿
+無法寄放更多蛋
 [home/home_001] 商店
 [home/home_002] 冒險
 [home/home_003] 隊伍
@@ -19245,6 +20131,18 @@ home_zh-TW.lsd
 [home/home_019] 挑戰次數增加中
 [home/home_020] 傳說的寶可夢活動現正舉辦中！
 [home/home_021] 盛典舉辦中
+[home/home_022] 限時
+[home/home_023] 限時拍組搜尋出現！
+[home/home_024] 限時開放的超值拍組搜尋
+「[Name:BannerText ]」
+「[Name:BannerText Idx="1" ]」
+出現了！
+快去商店看看吧！
+[home/home_025] 限時開放的超值拍組搜尋
+「[Name:BannerText ]」
+即將結束！
+趕緊去商店看看吧！
+[home/home_026] 限時拍組搜尋
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] 任務
 [home/global_menu_008] 朋友
@@ -19365,6 +20263,22 @@ home_zh-TW.lsd
 [home/legend_battle_027] 編制的所有拍組皆為瀕死狀態
 無法出發
 [home/legend_battle_028] ※瀕死狀態會在重設後回復
+[home/sp_battle_001] 一旦進行重設，本活動內挑戰中
+大對戰的我方出發數與敵人的
+ＨＰ狀態將會重設
+確定要重設嗎？
+[home/sp_battle_002] 本活動內挑戰中大對戰的
+進度已重設
+[home/sp_battle_003] 在本活動內，
+若有正在挑戰的大對戰
+將會無法挑戰其他的大對戰
+
+如果想要挑戰其他的大對戰
+請進行重設
+[home/sp_battle_004] 因保留期間已過
+進度已重設
+[home/sp_battle_005] 大對戰獲勝了！
+快去挑戰下一個大對戰吧
 
 ===========
 shop_de.lsd
@@ -19375,6 +20289,8 @@ shop_de.lsd
 [shop/shop_top_005] Item-Tausch
 [shop/shop_top_006] Kauf abschließen
 [shop/shop_top_008] Ausrüstungstausch
+[shop/shop_top_010] Eier-Forschungsitem
+[shop/shop_top_011] Zeitl. begr. G-Suche im Gang
 [shop/shop_common_001] Handelstransaktionen
 [shop/shop_common_002] Zahlungsgesetze
 [shop/shop_common_003] Kauflimit
@@ -19682,25 +20598,26 @@ zusätzlich ein 5★-Gefährtengespann!
 Selbst wenn du Gefährten schon hast und sich bei ihnen
 das Pokémon schon entwickelt hat, wird das Pokémon
 vor der Entwicklung angezeigt, wenn du sie durch
-Gefährtensuchen erhältst. Du kannst dir nach der
-Durchführung der Gefährtensuche × 10 ein zusätzliches
-Gefährtengespann aussuchen. Tritt während der Suche
-ein Verbindungsfehler auf und du musst noch einmal
-wählen, stelle sicher, dass du dies bis spätestens eine
-Woche nach Ablauf der Gefährtensuche tust. Nach Ablauf
-dieser Frist kannst du die Gefährten nicht mehr erhalten.
+Gefährtensuchen erhältst.
+Du kannst dir nach der Durchführung der Gefährtensuche
+ein Gefährtengespann aussuchen. Tritt während der
+Suche ein Verbindungsfehler auf und du musst noch
+einmal wählen, stelle sicher, dass du dies bis spätestens
+eine Woche nach Ablauf der Gefährtensuche tust. Nach
+Ablauf dieser Frist kannst du die Gefährten nicht mehr
+erhalten.
 [shop/scout_080] Such dir ein 5★-Gefährtengespann aus!
-[shop/scout_081] Als Zugabe zu dieser Gefährtensuche × 10 kannst du
-dir eines der folgenden Gefährtengespanne aussuchen.
+[shop/scout_081] Als Zugabe zu dieser Gefährtensuche kannst du dir
+eines der folgenden Gefährtengespanne aussuchen.
 [shop/scout_082] Hinweis: Steht bei der Erscheinungsrate hinter dem Pokémon-
 Namen ein *, heißt das, dass sich das Pokémon durch eine
 Entwicklungs-Episode entwickeln kann.
-Du kannst dir nach der Durchführung der Gefährtensuche × 10
-ein zusätzliches Gefährtengespann aussuchen. Tritt während der
-Suche ein Verbindungsfehler auf und du musst noch einmal
-wählen, stelle sicher, dass du dies bis spätestens eine Woche
-nach Ablauf der Gefährtensuche tust. Nach Ablauf dieser Frist
-kannst du die Gefährten nicht mehr erhalten.
+Du kannst dir nach der Durchführung der Gefährtensuche ein
+Gefährtengespann aussuchen. Tritt während der Suche ein
+Verbindungsfehler auf und du musst noch einmal wählen,
+stelle sicher, dass du dies bis spätestens eine Woche nach
+Ablauf der Gefährtensuche tust. Nach Ablauf dieser Frist kannst
+du die Gefährten nicht mehr erhalten.
 [shop/scout_083] Möchtest du dieses Gefährtengespann
 wählen?
 [shop/scout_084] Hinweis: Du kannst deine Auswahl nach dem Erhalt
@@ -19743,6 +20660,7 @@ details
 [shop/scout_097] Tägliche Suche × 10
 [shop/scout_102] [Name:TrainerName ] & [Name:PokemonName ]
 haben Attacken-Level [Digit:1digit ] erreicht!
+[shop/scout_104] Angebot: [Digit:2digits ] Mal pro Tag
 [shop/deck_item_sale_001] Ausrüstungstausch
 [shop/deck_item_sale_002] Ausrüstung
 [shop/deck_item_sale_003] Filter
@@ -19760,6 +20678,17 @@ rückgängig gemacht werden.
 [shop/deck_item_sale_014] Ausrüstung wurde eingetauscht!
 [shop/deck_item_sale_015] OK
 [shop/deck_item_sale_016] Du hast keine eintauschbare Ausrüstung.
+[shop/catalogue_001] Eier-Forschungsitem
+[shop/catalogue_002] Gekaufte Juwelen
+[shop/catalogue_003] Gekauft
+[shop/catalogue_004] Möchtest du [Digit:5digits ] [DE:Qty S="gekauftes Juwel" P="gekaufte Juwelen" ]
+einsetzen, um Folgendes zu erhalten?
+[shop/catalogue_005] Du hast die Ware gekauft.
+[shop/catalogue_006] Gültigkeitsdauer:
+[shop/catalogue_007] Kauf abgeschlossen
+[shop/catalogue_008] Du hast nicht genügend Juwelen dafür.
+Möchtest du zum Juwelenkauf-
+Bildschirm wechseln?
 
 ===========
 shop_en.lsd
@@ -19770,6 +20699,8 @@ shop_en.lsd
 [shop/shop_top_005] Exchange Items
 [shop/shop_top_006] Complete Purchase
 [shop/shop_top_008] Exchange Gear
+[shop/shop_top_010] Egg Research Items
+[shop/shop_top_011] Limited-Time Scout
 [shop/shop_common_001] Commercial Transactions
 [shop/shop_common_002] Payment Laws
 [shop/shop_common_003] Purchase Limits
@@ -19833,7 +20764,7 @@ parent or guardian when purchasing
 gems. Do you have the permission of
 your parent or guardian?
 [shop/shop_medal_026] Spending Notifications
-[shop/shop_medal_027] Purchase
+[shop/shop_medal_027] Purchased
 [shop/shop_itemexchange_001] Exchange Items
 [shop/shop_itemexchange_003] Exchanged
 [shop/shop_itemexchange_004] Exchange
@@ -19992,11 +20923,11 @@ Sync pairs of the currently featured type(s) have a higher offering rate than ot
 [shop/scout_077] You can also choose a 5★ sync pair!
 [shop/scout_078] Special Scout ×10
 [shop/scout_079] This will use your paid gems. When you are scouting, sync pairs are shown with unevolved Pokémon even if you have previously acquired and evolved them.
-You may select your additional sync pair after the initial 10 scouts are completed. If a connection error occurs during this process and you need to reselect your sync pair, please select an available sync pair within one week of this special scout’s end date. You will not be able to obtain your additional sync pair after this time.
+You may select your additional sync pair after the initial scout is complete. If a connection error occurs during this process and you need to reselect your sync pair, please select an available sync pair within one week of this special scout’s end date. You will not be able to obtain your additional sync pair after this time.
 [shop/scout_080] Choose your favorite 5★ sync pair!
-[shop/scout_081] This special sync pair scout allows you to acquire an additional sync pair of your choosing on top of the usual 10.
+[shop/scout_081] This special sync pair scout allows you to choose one additional sync pair from the following list to team up with.
 [shop/scout_082] When you see a * displayed after a Pokémon name in the offering rate, that means that sync pair can evolve their Pokémon through an Evolution sync pair story.
-You may select your additional sync pair after the initial 10 scouts are completed. If a connection error occurs during this process and you need to reselect your sync pair, please select an available sync pair within one week of this special scout’s end date. You will not be able to obtain your additional sync pair after this time.
+You may select your additional sync pair after the initial scout is complete. If a connection error occurs during this process and you need to reselect your sync pair, please select an available sync pair within one week of this special scout’s end date. You will not be able to obtain your additional sync pair after this time.
 [shop/scout_083] Are you sure you want to choose
 this sync pair?
 [shop/scout_084] Note: You cannot change this sync pair later.
@@ -20027,6 +20958,7 @@ for 5★s!
 [shop/scout_102] [Name:TrainerName ]
 & [Name:PokemonName ]
 now have Lv. [Digit:1digit ] moves!
+[shop/scout_104] Daily Discount: Limit [Digit:2digits ]!
 [shop/deck_item_sale_001] Exchange Gear
 [shop/deck_item_sale_002] Gear
 [shop/deck_item_sale_003] Filter
@@ -20043,6 +20975,18 @@ now have Lv. [Digit:1digit ] moves!
 [shop/deck_item_sale_014] You exchanged your gear!
 [shop/deck_item_sale_015] OK
 [shop/deck_item_sale_016] You don’t have any gear to exchange.
+[shop/catalogue_001] Egg Research Items
+[shop/catalogue_002] Paid Gems
+[shop/catalogue_003] Purchased
+[shop/catalogue_004] Do you want to use [Digit:5digits ] paid gems
+to make the following purchase?
+[shop/catalogue_005] You purchased a product.
+[shop/catalogue_006] Time Remaining:
+[shop/catalogue_007] Purchase Complete
+[shop/catalogue_008] You don’t have enough gems to
+complete this purchase.
+Would you like to go to the
+gem purchase screen?
 
 ===========
 shop_es.lsd
@@ -20053,6 +20997,9 @@ shop_es.lsd
 [shop/shop_top_005] Canjear objetos
 [shop/shop_top_006] Finalizar compra
 [shop/shop_top_008] Canjear accesorios
+[shop/shop_top_010] Objetos de investigación
+de Huevo
+[shop/shop_top_011] Reclutamiento limitado
 [shop/shop_common_001] Transacciones comerciales específicas
 [shop/shop_common_002] Legislación relativa a los pagos
 [shop/shop_common_003] Límite de compra
@@ -20253,11 +21200,11 @@ Las tasas de aparición de las parejas de compis con los tipos destacados serán
 [shop/scout_077] ¡Elige una pareja de compis de 5★!
 [shop/scout_078] Recl. ×10 especial
 [shop/scout_079] Nota: Se usarán joyas de pago. Aunque el Pokémon de una pareja de compis haya evolucionado, si reclutas una pareja de compis idéntica, el Pokémon aparecerá siempre en su primera fase evolutiva.
-Podrás obtener una pareja de compis a tu elección tras realizar el reclutamiento de compis ×10. Si se produce un error durante el proceso, dispondrás de una semana desde que se realizó el reclutamiento en cuestión para elegir la pareja de compis que tú quieras. No podrás obtener la pareja pasado este tiempo.
+Podrás obtener una pareja de compis a tu elección tras realizar el reclutamiento de compis. Si se produce un error durante el proceso, dispondrás de una semana desde que se realizó el reclutamiento en cuestión para elegir la pareja de compis que tú quieras. No podrás obtener la pareja pasado este tiempo.
 [shop/scout_080] ¡Elige una pareja de compis de 5★!
-[shop/scout_081] En este reclutamiento de compis ×10 tendrás la posibilidad de elegir una de las parejas de la siguiente lista.
+[shop/scout_081] En este reclutamiento de compis tendrás la posibilidad de elegir una de las parejas de la siguiente lista.
 [shop/scout_082] Los Pokémon de las parejas de compis marcadas con un asterisco (*) en la pantalla de las tasas de aparición podrán evolucionar tras completar el episodio de evolución correspondiente.
-Podrás obtener una pareja de compis a tu elección tras realizar el reclutamiento de compis ×10. Si se produce un error durante el proceso, dispondrás de una semana desde que se realizó el reclutamiento en cuestión para elegir la pareja de compis que tú quieras. No podrás obtener la pareja pasado este tiempo.
+Podrás obtener una pareja de compis a tu elección tras realizar el reclutamiento de compis. Si se produce un error durante el proceso, dispondrás de una semana desde que se realizó el reclutamiento en cuestión para elegir la pareja de compis que tú quieras. No podrás obtener la pareja pasado este tiempo.
 [shop/scout_083] ¿Seguro que quieres elegir esta pareja
 de compis?
 [shop/scout_084] Aviso: Una vez elegidos, no se podrán cambiar.
@@ -20284,6 +21231,7 @@ de 5★: [Digit:4digits ]%
 [Name:TrainerName ] y
 [Name:PokemonName ]
 ha alcanzado el nivel [Digit:1digit ].
+[shop/scout_104] [Digit:2digits ] chollo[ES:Qty P="s" ] al día
 [shop/deck_item_sale_001] Canjear accesorios
 [shop/deck_item_sale_002] Accesorios
 [shop/deck_item_sale_003] Filtrar
@@ -20300,6 +21248,18 @@ ha alcanzado el nivel [Digit:1digit ].
 [shop/deck_item_sale_014] ¡El canje se ha completado con éxito!
 [shop/deck_item_sale_015] Vale
 [shop/deck_item_sale_016] No tienes accesorios que puedas canjear.
+[shop/catalogue_001] Objetos de investigación de Huevo
+[shop/catalogue_002] Joyas de pago
+[shop/catalogue_003] Comprado
+[shop/catalogue_004] ¿Quieres gastar [Digit:5digits ] joya[ES:Qty P="s" ] de pago
+para efectuar la siguiente compra?
+[shop/catalogue_005] Has finalizado la compra.
+[shop/catalogue_006] Duración:
+[shop/catalogue_007] Compra finalizada
+[shop/catalogue_008] No tienes suficientes joyas para
+realizar la compra.
+¿Quieres ir a la pantalla de compra
+de joyas?
 
 ===========
 shop_fr.lsd
@@ -20310,6 +21270,8 @@ shop_fr.lsd
 [shop/shop_top_005] Échange d'objets
 [shop/shop_top_006] Finaliser un achat
 [shop/shop_top_008] Échange équipement
+[shop/shop_top_010] Objets d'Études
+[shop/shop_top_011] Appel Duo limité en cours !
 [shop/shop_common_001] Transactions commerciales spécifiées
 [shop/shop_common_002] Lois relatives aux paiements
 [shop/shop_common_003] Limite d'achat
@@ -20497,10 +21459,12 @@ montée au niveau [Digit:1digit ].
 [shop/scout_077] Effectuez 10 Appels Duo d'un coup et
 choisissez un des Duos 5★ proposés !
 [shop/scout_078] 10 Appels Duo (spécial)
-[shop/scout_079] Remarque : vos Diamants payants seront utilisés. Si vous appelez un Duo que vous avez déjà, le Pokémon avant évolution apparaîtra, ce même si vous avez déjà fait évoluer le Pokémon du Duo. Vous pourrez obtenir le Duo de votre choix après avoir passé les 10 Appels Duos. Si une erreur de communication devait se produire pendant l'opération et que vous devez choisir à nouveau, assurez-vous de récupérer votre Duo au plus tard une semaine après avoir passé les Appels Duos. Après cette période, vous ne pourrez plus obtenir le Duo.
+[shop/scout_079] Remarque : vos Diamants payants seront utilisés. Si vous appelez un Duo que vous avez déjà, le Pokémon avant évolution apparaîtra, même si vous avez déjà fait évoluer le Pokémon du Duo.
+Vous pourrez obtenir un Duo supplémentaire de votre choix après avoir passé l'Appel Duo. Si une erreur de communication devait se produire pendant l'opération et que vous devez en choisir un à nouveau, assurez-vous de récupérer votre Duo supplémentaire au plus tard une semaine après la fin de cet Appel Duo spécial. Après cette période, vous ne pourrez plus obtenir le Duo.
 [shop/scout_080] Choisissez le Duo 5★ que vous voulez !
-[shop/scout_081] Si vous passez ces 10 Appels Duo, vous pourrez en plus obtenir le Duo de votre choix parmi la liste ci-dessous.
-[shop/scout_082] Remarque : lorsqu'un astérisque (*) est affiché après le nom d'un Pokémon sur l'écran des pourcentages, le Duo peut faire évoluer le Pokémon à travers un épisode d'évolution. Vous pourrez obtenir le Duo de votre choix après avoir passé les 10 Appels Duos. Si une erreur de communication devait se produire pendant l'opération et que vous devez choisir à nouveau, assurez-vous de récupérer votre Duo au plus tard une semaine après avoir passé les Appels Duos. Après cette période, vous ne pourrez plus obtenir le Duo.
+[shop/scout_081] Cet Appel Duo spécial vous permettra d'obtenir un Duo supplémentaire de votre choix parmi la liste ci-dessous.
+[shop/scout_082] Remarque : lorsqu'un astérisque (*) est affiché après le nom d'un Pokémon sur l'écran des pourcentages, le Duo peut faire évoluer le Pokémon à travers un épisode d'évolution.
+Vous pourrez obtenir un Duo supplémentaire de votre choix après avoir passé l'Appel Duo. Si une erreur de communication devait se produire pendant l'opération et que vous devez choisir à nouveau, assurez-vous de récupérer votre Duo au plus tard une semaine après la fin de cet Appel Duo spécial. Après cette période, vous ne pourrez plus obtenir le Duo.
 [shop/scout_083] Valider votre choix ?
 [shop/scout_084] Remarque : vous ne pourrez pas changer votre Duo
 une fois que vous l'aurez reçu.
@@ -20522,6 +21486,7 @@ de 5★ : [Digit:4digits ] % !
 [Name:TrainerName ] &
 [Name:PokemonName ] sont
 passées au N. [Digit:1digit ].
+[shop/scout_104] Promo du jour ([Digit:2digits ] fois/j) !
 [shop/deck_item_sale_001] Échanger équipement
 [shop/deck_item_sale_002] Équipement
 [shop/deck_item_sale_003] Filtrer
@@ -20539,6 +21504,17 @@ passées au N. [Digit:1digit ].
 [shop/deck_item_sale_014] Vous avez échangé votre équipement.
 [shop/deck_item_sale_015] OK
 [shop/deck_item_sale_016] Aucun équipement à échanger.
+[shop/catalogue_001] Objets d'Études
+[shop/catalogue_002] Payants
+[shop/catalogue_003] Achetés
+[shop/catalogue_004] Voulez-vous utiliser [Digit:5digits ] Diamant[FR:Qty P="s" ]
+payant[FR:Qty P="s" ] et effectuer l'achat suivant ?
+[shop/catalogue_005] Vous avez acheté un produit.
+[shop/catalogue_006] Temps restant :
+[shop/catalogue_007] Achat finalisé
+[shop/catalogue_008] Vous n'avez pas assez de Diamants
+pour effectuer cet achat. Voulez-vous
+afficher l'écran d'achat de Diamants ?
 
 ===========
 shop_it.lsd
@@ -20549,6 +21525,8 @@ shop_it.lsd
 [shop/shop_top_005] Scambio strumenti
 [shop/shop_top_006] Completa acquisto
 [shop/shop_top_008] Scambio accessori
+[shop/shop_top_010] Strumenti ricerca Uova
+[shop/shop_top_011] Unicerca limitata attiva
 [shop/shop_common_001] Transazioni commerciali
 [shop/shop_common_002] Leggi relative ai pagamenti
 [shop/shop_common_003] Limiti di acquisto
@@ -20800,20 +21778,19 @@ potrai scegliere un'Unità 5★!
 [shop/scout_079] Verranno usate le gemme a pagamento.
 Nella ricerca Unità, le Unità sono mostrate con Pokémon
 non evoluti, anche se le hai già ottenute e ne hai fatto
-evolvere il Pokémon.
-Le Unità possono essere scelte dopo l'esecuzione della
-ricerca Unità x10. Non sarà possibile ottenere l'Unità
-scelta dopo il termine dell'offerta. In caso di errori di
-connessione durante la ricerca, verrà data un'ulteriore
-occasione per scegliere un'Unità. Quest'ultima dovrà
-essere ottenuta entro una settimana dal termine della
-ricerca Unità corrente.
+evolvere il Pokémon. L'Unità aggiuntiva può essere scelta
+dopo l'esecuzione della ricerca Unità. Non sarà possibile
+ottenere l'Unità scelta dopo il termine dell'offerta. In caso
+di errori di connessione durante la ricerca, verrà data
+un'ulteriore occasione per scegliere un'Unità.
+Quest'ultima dovrà essere ottenuta entro una settimana
+dal termine della ricerca Unità corrente.
 [shop/scout_080] Scegli un'Unità 5★ a piacere!
-[shop/scout_081] In questa ricerca Unità x10 puoi ottenere un'ulteriore
+[shop/scout_081] In questa ricerca Unità puoi ottenere un'ulteriore
 Unità a tua scelta tra le seguenti.
 [shop/scout_082] I Pokémon con un asterisco dopo il nome nel tasso di comparsa dell'Unità possono evolversi tramite episodio evolutivo.
 
-L'Unità aggiuntiva può essere scelta dopo l'esecuzione della ricerca Unità x10. Se si dovesse verificare un errore di connessione nel corso della ricerca e venisse quindi data un'ulteriore occasione di scegliere un'Unità, questa dovrà essere scelta entro una settimana dal termine della ricerca Unità corrente.
+L'Unità aggiuntiva può essere scelta dopo l'esecuzione della ricerca Unità. Se si dovesse verificare un errore di connessione nel corso della ricerca e venisse quindi data un'ulteriore occasione di scegliere un'Unità, questa dovrà essere scelta entro una settimana dal termine della ricerca Unità corrente.
 [shop/scout_083] Vuoi davvero questa Unità?
 [shop/scout_084] Non potrai cambiare la tua scelta dopo aver ottenuto
 l'Unità.
@@ -20838,6 +21815,7 @@ regali
 [Digit:4digits ]%!
 [shop/scout_097] Unicerca giornaliera ×10
 [shop/scout_102] Il livello delle mosse di [Name:TrainerName ] & [Name:PokemonName ] è salito a [Digit:1digit ].
+[shop/scout_104] Offerta ([Digit:2digits ] volt[IT:Qty S="a" P="e" ]/giorno)
 [shop/deck_item_sale_001] Scambio accessori
 [shop/deck_item_sale_002] Accessori
 [shop/deck_item_sale_003] Filtra
@@ -20855,6 +21833,18 @@ non potranno essere recuperati.
 [shop/deck_item_sale_014] Scambio effettuato con successo!
 [shop/deck_item_sale_015] Ok
 [shop/deck_item_sale_016] Non hai accessori da scambiare
+[shop/catalogue_001] Strumenti ricerca Uova
+[shop/catalogue_002] Gemme a pagamento
+[shop/catalogue_003] Acquistati
+[shop/catalogue_004] Vuoi usare [Digit:5digits ] gemm[IT:Qty S="a" P="e" ] a pagamento
+per il seguente acquisto?
+[shop/catalogue_005] Hai comprato un prodotto.
+[shop/catalogue_006] Scadenza:
+[shop/catalogue_007] Acquisto completato
+[shop/catalogue_008] Non hai abbastanza gemme
+per completare l'acquisto.
+Vuoi andare alla schermata di acquisto
+delle gemme?
 
 ===========
 shop_ja.lsd
@@ -20865,6 +21855,8 @@ shop_ja.lsd
 [shop/shop_top_005] どうぐ交換
 [shop/shop_top_006] 購入処理の完了
 [shop/shop_top_008] 装備売却
+[shop/shop_top_010] タマゴ研究応援どうぐ
+[shop/shop_top_011] 時間限定Bサーチ出現中
 [shop/shop_common_001] 特定商取引に基づく表示
 [shop/shop_common_002] 資金決済法に基づく表示
 [shop/shop_common_003] 課金上限／残高について
@@ -20983,7 +21975,7 @@ ONにしてください
 ポイント
 [shop/scout_003] バディーズサーチ
 [shop/scout_004] １０連バディーズサーチ
-[shop/scout_005] １日１回割引
+[shop/scout_005] 1日1回割引
 [shop/scout_006] 有償
 [shop/scout_007] とじる
 [shop/scout_008] 提供割合
@@ -21119,11 +22111,11 @@ Lv.[Digit:1digit ]になりました
 ※ポケモン進化後の同一バディーズを
 既に所持している場合でも
 バディーズサーチでは進化前のバディーズが表示されます
-※バディーズは１０連バディーズサーチ実行後に選ぶことができます。実行中に通信エラーなどが発生し、再選択を行う場合には、本バディーズサーチの提供期間終了後、一週間以内に選べるバディーズを獲得してください。期間終了後は獲得できなくなります
+※バディーズはバディーズサーチ実行後に選ぶことができます。実行中に通信エラーなどが発生し、再選択を行う場合には、本バディーズサーチの提供期間終了後、一週間以内に選べるバディーズを獲得してください。期間終了後は獲得できなくなります
 [shop/scout_080] 好きな★５バディーズを選ぼう！
-[shop/scout_081] この１０連バディーズサーチでは、さらに追加で以下から好きなバディーズを選んで獲得することができます
+[shop/scout_081] このバディーズサーチでは、さらに追加で以下から好きなバディーズを選んで獲得することができます
 [shop/scout_082] ※提供割合にてポケモン名の後ろに（*）が表示されているバディーズは、進化エピソードを通してポケモンを進化させることができます
-※バディーズは１０連バディーズサーチ実行後に選ぶことができます。実行中に通信エラーなどが発生し、再選択を行う場合には、本バディーズサーチの提供期間終了後、一週間以内に選べるバディーズを獲得してください。期間終了後は獲得できなくなります
+※バディーズはバディーズサーチ実行後に選ぶことができます。実行中に通信エラーなどが発生し、再選択を行う場合には、本バディーズサーチの提供期間終了後、一週間以内に選べるバディーズを獲得してください。期間終了後は獲得できなくなります
 [shop/scout_083] このバディーズを選びます
 よろしいですか？
 [shop/scout_084] ※獲得後に選びなおすことはできません
@@ -21154,6 +22146,7 @@ Lv.[Digit:1digit ]になりました
 [Name:PokemonName ]の
 わざレベルが
 Lv.[Digit:1digit ]になりました
+[shop/scout_104] 1日[Digit:2digits ]回割引
 [shop/deck_item_sale_001] 装備売却
 [shop/deck_item_sale_002] 装備
 [shop/deck_item_sale_003] フィルター
@@ -21170,6 +22163,17 @@ Lv.[Digit:1digit ]になりました
 [shop/deck_item_sale_014] 装備を売却しました！
 [shop/deck_item_sale_015] OK
 [shop/deck_item_sale_016] 売却できる装備がありません
+[shop/catalogue_001] タマゴ研究応援どうぐ
+[shop/catalogue_002] 有償
+[shop/catalogue_003] 購入
+[shop/catalogue_004] 有償ダイヤを[Digit:5digits ]個消費して
+以下を入手します
+よろしいですか？
+[shop/catalogue_005] 商品を購入しました
+[shop/catalogue_006] 効果期間
+[shop/catalogue_007] 購入完了
+[shop/catalogue_008] 購入するためのダイヤが足りません
+ダイヤ購入画面に行きますか？
 
 ===========
 shop_ko.lsd
@@ -21180,6 +22184,8 @@ shop_ko.lsd
 [shop/shop_top_005] 도구 교환
 [shop/shop_top_006] 구입처리 완료
 [shop/shop_top_008] 장비 판매
+[shop/shop_top_010] 알 연구 응원 도구
+[shop/shop_top_011] 시간 한정 B서치 출현 중
 [shop/shop_common_001] 일본 특정상거래법에 의거하는 표기
 [shop/shop_common_002] 일본 자금결제법에 의거하는 표기
 [shop/shop_common_003] 과금상한 및 잔액에 대하여
@@ -21386,7 +22392,7 @@ MAX가 되었습니다
 [shop/scout_055] 버디즈서치를 진행하기 위한
 다이아가 부족합니다
 
-다이아 구입화면으로 가겠습니까?
+다이아 구입 화면으로 가겠습니까?
 [shop/scout_058] ※버디즈서치 포인트는 해당 버디즈서치의
 개최 기간이 끝나면 0으로 돌아갑니다 
 ※버디즈서치 포인트를
@@ -21445,11 +22451,11 @@ Lv.[Digit:1digit ][Kor:Particle char="ga" ] 되었습니다
 ※포켓몬 진화 후의 같은 버디즈를
 이미 보유하고 있는 경우에도
 버디즈서치에서는 진화 전 버디즈가 표시됩니다
-※버디즈는 10연속 버디즈서치를 실행한 후에 선택할 수 있습니다. 실행 중에 통신 에러 등이 발생하여 다시 선택해야 하는 경우에는 본 버디즈서치의 제공 기간 종료 후, 1주일 이내에 버디즈를 선택하여 획득해 주십시오. 제공 기간이 종료된 후에는 획득할 수 없습니다.
+※버디즈는 버디즈서치를 실행한 후에 선택할 수 있습니다. 실행 중에 통신 에러 등이 발생하여 다시 선택해야 하는 경우에는 본 버디즈서치의 제공 기간 종료 후, 1주일 이내에 버디즈를 선택하여 획득해 주십시오. 제공 기간이 종료된 후에는 획득할 수 없습니다.
 [shop/scout_080] 원하는 ★5 버디즈를 선택하자!
-[shop/scout_081] 이 10연속 버디즈서치에서는 추가로 아래에서 원하는 버디즈를 선택하여 획득할 수 있습니다
+[shop/scout_081] 이 버디즈서치에서는 추가로 아래에서 원하는 버디즈를 선택하여 획득할 수 있습니다
 [shop/scout_082] ※제공 확률에서 포켓몬 이름의 뒤에 (*)이 표시되어 있는 버디즈는 진화 에피소드를 통하여 포켓몬을 진화시킬 수 있습니다.
-※버디즈는 10연속 버디즈서치를 실행한 후에 선택할 수 있습니다. 실행 중에 통신 에러 등이 발생하여 다시 선택해야 하는 경우에는 본 버디즈서치의 제공 기간 종료 후 1주일 이내에 버디즈를 선택하여 획득해 주십시오. 제공 기간이 종료된 후에는 획득할 수 없습니다.
+※버디즈는 버디즈서치를 실행한 후에 선택할 수 있습니다. 실행 중에 통신 에러 등이 발생하여 다시 선택해야 하는 경우에는 본 버디즈서치의 제공 기간 종료 후 1주일 이내에 버디즈를 선택하여 획득해 주십시오. 제공 기간이 종료된 후에는 획득할 수 없습니다.
 [shop/scout_083] 이 버디즈를 선택하겠습니다
 괜찮겠습니까?
 [shop/scout_084] ※획득한 후에 다시 선택할 수는 없습니다
@@ -21483,6 +22489,7 @@ Lv.[Digit:1digit ][Kor:Particle char="ga" ] 되었습니다
 [Name:PokemonName ]의
 기술 레벨이
 Lv.[Digit:1digit ][Kor:Particle char="ga" ] 되었습니다
+[shop/scout_104] 1일 [Digit:2digits ]회 할인
 [shop/deck_item_sale_001] 장비 판매
 [shop/deck_item_sale_002] 장비
 [shop/deck_item_sale_003] 필터
@@ -21499,6 +22506,17 @@ Lv.[Digit:1digit ][Kor:Particle char="ga" ] 되었습니다
 [shop/deck_item_sale_014] 장비를 판매하였습니다!
 [shop/deck_item_sale_015] OK
 [shop/deck_item_sale_016] 판매할 수 있는 장비가 없습니다
+[shop/catalogue_001] 알 연구 응원 도구
+[shop/catalogue_002] 유료
+[shop/catalogue_003] 구입
+[shop/catalogue_004] 유료 다이아를 [Digit:5digits ]개 사용하여
+아래 상품을 획득합니다
+괜찮겠습니까?
+[shop/catalogue_005] 상품을 구입하였습니다
+[shop/catalogue_006] 효과 기간
+[shop/catalogue_007] 구입 완료
+[shop/catalogue_008] 구입하기 위한 다이아가 부족합니다
+다이아 구입 화면으로 가겠습니까?
 
 ===========
 shop_zh-TW.lsd
@@ -21509,6 +22527,8 @@ shop_zh-TW.lsd
 [shop/shop_top_005] 交換道具
 [shop/shop_top_006] 完成購買程序
 [shop/shop_top_008] 出售裝備
+[shop/shop_top_010] 蛋研究聲援道具
+[shop/shop_top_011] 限時拍組搜尋現正出現
 [shop/shop_common_001] 基於特定商業交易法顯示內容
 [shop/shop_common_002] 基於資金結算法顯示內容
 [shop/shop_common_003] 關於消費額上限／餘額
@@ -21619,7 +22639,7 @@ shop_zh-TW.lsd
 點數
 [shop/scout_003] 拍組搜尋
 [shop/scout_004] 連續１０次拍組搜尋
-[shop/scout_005] １天１次折扣
+[shop/scout_005] 1天1次折扣
 [shop/scout_006] 付費
 [shop/scout_007] 關閉
 [shop/scout_008] 提供比例
@@ -21734,13 +22754,13 @@ shop_zh-TW.lsd
 [shop/scout_079] ※將使用付費鑽石
 ※即使您持有的是寶可夢進化後的拍組
 在拍組搜尋時仍只會顯示寶可夢進化前的該拍組
-※可於連續１０次拍組搜尋後自選1對拍組
+※可於拍組搜尋後自選1對拍組
 購買程序中若發生通訊錯誤等狀況，導致需重新自選拍組時，需最晚在本拍組搜尋的舉辦期間結束後一週之內領取自選拍組
 超過上述期限後，將無法獲得自選拍組
 [shop/scout_080] 選擇喜歡的★５拍組吧！
-[shop/scout_081] 進行此連續１０次拍組搜尋後，可以再由下列拍組中額外獲得１對自選的拍組
+[shop/scout_081] 進行此拍組搜尋後，可以再由下列拍組中額外獲得１對自選的拍組
 [shop/scout_082] ※在提供比例畫面中，若拍組的寶可夢名字後面標有(*)，則表示該寶可夢可透過進化劇情進化
-※可於連續１０次拍組搜尋後自選１對拍組
+※可於拍組搜尋後自選１對拍組
 購買程序中若發生通訊錯誤等狀況，導致需重新自選拍組時，需最晚在本拍組搜尋的舉辦期間結束後一週之內領取自選拍組
 超過上述期限後，將無法獲得自選拍組
 [shop/scout_083] 確定要選擇這對拍組嗎？
@@ -21767,6 +22787,7 @@ shop_zh-TW.lsd
 [shop/scout_097] 連續10次每日搜尋
 [shop/scout_102] [Name:TrainerName ]＆[Name:PokemonName ]
 的招式等級提升至Lv.[Digit:1digit ]了！
+[shop/scout_104] 1天[Digit:2digits ]次折扣
 [shop/deck_item_sale_001] 出售裝備
 [shop/deck_item_sale_002] 裝備
 [shop/deck_item_sale_003] 篩選
@@ -21783,6 +22804,16 @@ shop_zh-TW.lsd
 [shop/deck_item_sale_014] 裝備已售出！
 [shop/deck_item_sale_015] OK
 [shop/deck_item_sale_016] 沒有可以出售的裝備
+[shop/catalogue_001] 蛋研究聲援道具
+[shop/catalogue_002] 付費
+[shop/catalogue_003] 購買
+[shop/catalogue_004] 確定要消耗[Digit:5digits ]個付費鑽石
+來獲得下列物品嗎？
+[shop/catalogue_005] 已購買商品
+[shop/catalogue_006] 效果期間
+[shop/catalogue_007] 交易完成
+[shop/catalogue_008] 持有的鑽石不足以進行購買
+要前往鑽石的購買畫面嗎？
 
 ===========
 system_de.lsd
@@ -21796,6 +22827,7 @@ system_de.lsd
 [system/title_name] Pokémon Masters
 [system/remaining_days_double] Noch
 [Digit:3digits ] [DE:Qty S="Tag" P="Tage" ]
+[system/remaining_time] Noch [Name:DateTime ]
 
 ===========
 system_en.lsd
@@ -21809,6 +22841,7 @@ system_en.lsd
 [system/title_name] Pokémon Masters
 [system/remaining_days_double] [Digit:3digits ] [EN:Qty S="day" P="days" ]
 remaining
+[system/remaining_time] Ends [Name:DateTime ]
 
 ===========
 system_es.lsd
@@ -21822,6 +22855,7 @@ system_es.lsd
 [system/title_name] Pokémon Masters
 [system/remaining_days_double] Queda[ES:Qty P="n" ]
 [Digit:3digits ] día[ES:Qty P="s" ]
+[system/remaining_time] Quedan [Name:DateTime ]
 
 ===========
 system_fr.lsd
@@ -21835,6 +22869,7 @@ system_fr.lsd
 [system/title_name] Pokémon Masters
 [system/remaining_days_double] Plus que
 [Digit:3digits ] jour[FR:Qty P="s" ]
+[system/remaining_time] Reste [Name:DateTime ]
 
 ===========
 system_it.lsd
@@ -21848,6 +22883,7 @@ system_it.lsd
 [system/title_name] Pokémon Masters
 [system/remaining_days_double] Ancora
 [Digit:3digits ] giorn[IT:Qty S="o" P="i" ]
+[system/remaining_time] Ancora [Name:DateTime ]
 
 ===========
 system_ja.lsd
@@ -21861,6 +22897,7 @@ system_ja.lsd
 [system/title_name] ポケモンマスターズ
 [system/remaining_days_double] あと
 [Digit:3digits ]日
+[system/remaining_time] あと [Name:DateTime ]
 
 ===========
 system_ko.lsd
@@ -21874,6 +22911,7 @@ system_ko.lsd
 [system/title_name] Pokémon Masters
 [system/remaining_days_double] 앞으로
 [Digit:3digits ]일
+[system/remaining_time] 앞으로 [Name:DateTime ]
 
 ===========
 system_zh-TW.lsd
@@ -21887,6 +22925,7 @@ system_zh-TW.lsd
 [system/title_name] Pokémon Masters
 [system/remaining_days_double] 還剩
 [Digit:3digits ]天
+[system/remaining_time] 還剩[Name:DateTime ]
 
 ===========
 title_de.lsd
@@ -22288,6 +23327,7 @@ Danke!
 [title/push_001] Pokémon Masters
 [title/push_002] Adventure is waiting for you on Pasio. Log in now!
 [title/push_003] Notification
+[title/push_004] Ein Ei schlüpft jeden Moment! Auf zu Professor Daisys Pokémon-Labor!
 [title/egg_001] Ich wähle dieses Ei!
 [title/egg_002] Entscheidest du dich für dieses Ei?
 [title/egg_003] Du entscheidest dich für ein
@@ -22750,6 +23790,7 @@ your feedback!
 [title/push_001] Pokémon Masters
 [title/push_002] Adventure is waiting for you on Pasio. Log in now!
 [title/push_003] Notification
+[title/push_004] Oh? Is that...an Egg about to hatch? Time for a visit to Professor Bellis’s lab!
 [title/egg_001] I choose you!
 [title/egg_002] Would you like to choose this Egg?
 [title/egg_003] You chose a
@@ -23224,6 +24265,7 @@ juego. ¿Tienes algún comentario?
 [title/push_001] Pokémon Masters
 [title/push_002] Adventure is waiting for you on Pasio. Log in now!
 [title/push_003] Notification
+[title/push_004] ¡Parece que el Huevo va a eclosionar! Ve al Laboratorio Pokémon.
 [title/egg_001] ¡Me quedo este!
 [title/egg_002] ¿Quieres quedarte este Huevo?
 [title/egg_003] ¡Has elegido un Huevo de
@@ -23716,6 +24758,7 @@ laisser un commentaire ?
 [title/push_001] Pokémon Masters
 [title/push_002] Adventure is waiting for you on Pasio. Log in now!
 [title/push_003] Notification
+[title/push_004] Un Œuf est sur le point d'éclore ! Rendez-vous vite au Laboratoire !
 [title/egg_001] Choisir cet Œuf !
 [title/egg_002] Voulez-vous cet Œuf ?
 [title/egg_003] Vous avez choisi l'Œuf de
@@ -24190,6 +25233,7 @@ Se vuoi, puoi lasciare una recensione.
 [title/push_001] Pokémon Masters
 [title/push_002] Adventure is waiting for you on Pasio. Log in now!
 [title/push_003] Notification
+[title/push_004] Un Uovo sta per schiudersi! Vai a vedere al Laboratorio Pokémon!
 [title/egg_001] Scelgo quest'Uovo!
 [title/egg_002] Vuoi confermare la tua scelta?
 [title/egg_003] Hai scelto l'Uovo di [Name:PokemonName ]!
@@ -24692,6 +25736,7 @@ OSの処理によってダウンロードが止まることがあります
 [title/push_001] ポケモンマスターズ
 [title/push_002] パシオでの冒険をはじめよう！
 [title/push_003] Notification
+[title/push_004] タマゴがかえりそうだ！　ヒナギクポケモン研究所に行ってみよう！
 [title/egg_001] このタマゴにする！
 [title/egg_002] このタマゴにする？
 [title/egg_003] [Name:PokemonName ]の
@@ -25172,6 +26217,7 @@ OS 처리 상황에 따라 다운로드가 중지될 수 있습니다
 [title/push_001] Pokémon Masters
 [title/push_002] Adventure is waiting for you on Pasio. Log in now!
 [title/push_003] Notification
+[title/push_004] 알이 부화할 것 같다! 데이지 포켓몬 연구소에 가봅시다!
 [title/egg_001] 이 알로 할래요!
 [title/egg_002] 이 알로 할래?
 [title/egg_003] [Name:PokemonName ]의 알로 정했다!
@@ -25620,6 +26666,7 @@ OS 버전, OS 타입, 타게팅 광고의 제한에 관한 설정 상태, 단말
 [title/push_001] Pokémon Masters
 [title/push_002] Adventure is waiting for you on Pasio. Log in now!
 [title/push_003] Notification
+[title/push_004] 
 [title/egg_001] 選擇這顆蛋！
 [title/egg_002] 要選擇這顆蛋嗎？
 [title/egg_003] 就決定是[Name:PokemonName ]的蛋了！
