@@ -2354,6 +2354,70 @@ Tanz
 [quest_title_1030304001011020] Vs. G-Cis 3
 [quest_title_1030304001011030] Vs. G-Cis 4
 [quest_title_1030304001011040] Vs. G-Cis 5
+[quest_group_title_10108000000] Hin
+[quest_group_title_10109000000] Her
+[quest_group_title_10243400000] Gloria (Saison 2021)
+[quest_group_title_10245400000] Mary (Saison 2021)
+[quest_title_1030306000603010] Kämpfe in Einall-Formation
+(zum Aufwärmen)
+[quest_title_1030306000603020] Kämpfe in Einall-Formation
+(in Fahrt)
+[quest_title_1030306000603030] Kämpfe in Einall-Formation
+(intensiv)
+[quest_title_1030306000603040] Kämpfe in Kalos-Formation
+(zum Aufwärmen)
+[quest_title_1030306000603050] Kämpfe in Kalos-Formation
+(in Fahrt)
+[quest_title_1030306000603060] Kämpfe in Kalos-Formation
+(intensiv)
+[quest_title_1030306000603070] Kämpfe in Alola-Formation
+(zum Aufwärmen)
+[quest_title_1030306000603080] Kämpfe in Alola-Formation
+(in Fahrt)
+[quest_title_1030306000603090] Kämpfe in Alola-Formation
+(intensiv)
+[quest_title_1030306000603100] Kämpfe in Galar-Formation
+(zum Aufwärmen)
+[quest_title_1030306000603110] Kämpfe in Galar-Formation
+(in Fahrt)
+[quest_title_1030306000603120] Kämpfe in Galar-Formation
+(intensiv)
+[quest_title_1030306000601000] Eine bravouröse Idee
+[quest_title_1030306000601010] Folge den Schienen
+[quest_title_1030306000601020] Doppelformation in Fahrt
+[quest_title_1030306000601030] Seltsame Hobbies
+[quest_title_1030306000601040] Schienenbau abgeschlossen
+[quest_title_1030306000601050] Die Fahrt kann losgehen!
+[quest_title_1030306000601140] Vs. Metromeister
+[quest_title_1030306000601150] Vs. Metromeister 2
+[quest_title_1030306000601060] Am Ende der Gleise
+[quest_title_1030220108000000] Ein Tag mit Hin
+[quest_title_1030220109000000] Ein Tag mit Her
+[quest_title_1030306000701011] Vs. Lavados
+[quest_title_1030306010701021] Vs. Lavados 2
+[quest_title_1030306020701031] Vs. Lavados 3
+[quest_title_1030306000602000] Die Strandhütte ist eröffnet!
+[quest_title_1030306000602010] Ich wähle dich, Intelleon!
+[quest_title_1030306000602020] Einmal Rivalinnen, immer
+Rivalinnen!
+[quest_title_1030306000602030] Marys Verkaufskniff
+[quest_title_1030306000602040] Ein unvergesslicher Sommer
+auf Passio
+[quest_title_1030306000602100] Bonus-Kampf:
+Lasst uns Items sammeln!
+[quest_title_1030430600201010] Vs. Kai
+[quest_title_1030430600202010] Vs. Kai 2
+[quest_title_1030430600203010] Vs. Kai 3
+[quest_title_1030430600204010] Vs. Kai (Finale)
+[quest_title_1030430600101010] Vs. Pyro
+[quest_title_1030430600102010] Vs. Pyro 2
+[quest_title_1030430600103010] Vs. Pyro 3
+[quest_title_1030430600104010] Vs. Pyro 4
+[quest_title_1030306000601070] Vs. Perenus
+[quest_title_1030306000601080] Vs. Perenus 2
+[quest_title_1030306000601090] Vs. Perenus 3
+[quest_title_1030306000601100] Vs. Perenus 4
+[quest_title_1030430600105010] Täglicher Bonus-Kampf
 
 ===========
 story_quest_name_en.lsd
@@ -3938,6 +4002,57 @@ story_quest_name_en.lsd
 [quest_title_1030304001011020] Challenge Ghetsis: Part 3
 [quest_title_1030304001011030] Challenge Ghetsis: Part 4
 [quest_title_1030304001011040] Challenge Ghetsis: Part 5
+[quest_group_title_10108000000] Ingo
+[quest_group_title_10109000000] Emmet
+[quest_group_title_10243400000] Gloria
+(Summer 2021)
+[quest_group_title_10245400000] Marnie
+(Summer 2021)
+[quest_title_1030306000603010] Unova Team-Up: Beginner
+[quest_title_1030306000603020] Unova Team-Up: Intermediate
+[quest_title_1030306000603030] Unova Team-Up: Advanced
+[quest_title_1030306000603040] Kalos Team-Up: Beginner
+[quest_title_1030306000603050] Kalos Team-Up: Intermediate
+[quest_title_1030306000603060] Kalos Team-Up: Advanced
+[quest_title_1030306000603070] Alola Team-Up: Beginner
+[quest_title_1030306000603080] Alola Team-Up: Intermediate
+[quest_title_1030306000603090] Alola Team-Up: Advanced
+[quest_title_1030306000603100] Galar Team-Up: Beginner
+[quest_title_1030306000603110] Galar Team-Up: Intermediate
+[quest_title_1030306000603120] Galar Team-Up: Advanced
+[quest_title_1030306000601000] A Train of Thought
+[quest_title_1030306000601010] The Tracks Continue
+[quest_title_1030306000601020] Full Speed Ahead
+[quest_title_1030306000601030] Excavation Negotiations
+[quest_title_1030306000601040] The Minecart Subway
+[quest_title_1030306000601050] Hop on Board!
+[quest_title_1030306000601140] Challenge the Subway Bosses: Part 1
+[quest_title_1030306000601150] Challenge the Subway Bosses: Part 2
+[quest_title_1030306000601060] The End of the Tracks?
+[quest_title_1030220108000000] A Day with Ingo
+[quest_title_1030220109000000] A Day with Emmet
+[quest_title_1030306000701011] Moltres’s Challenge: Part 1
+[quest_title_1030306010701021] Moltres’s Challenge: Part 2
+[quest_title_1030306020701031] Moltres’s Challenge: Part 3
+[quest_title_1030306000602000] Open for Business!
+[quest_title_1030306000602010] Shoot for the Cool Factor
+[quest_title_1030306000602020] Pop-Up Rivals
+[quest_title_1030306000602030] A Splash of Inspiration
+[quest_title_1030306000602040] Summer Memories
+[quest_title_1030306000602100] Bountiful Bonus Battle 1
+[quest_title_1030430600201010] Challenge Bugsy: Part 1
+[quest_title_1030430600202010] Challenge Bugsy: Part 2
+[quest_title_1030430600203010] Challenge Bugsy: Part 3
+[quest_title_1030430600204010] Challenge Bugsy: Finale
+[quest_title_1030430600101010] Challenge Blaine: Part 1
+[quest_title_1030430600102010] Challenge Blaine: Part 2
+[quest_title_1030430600103010] Challenge Blaine: Part 3
+[quest_title_1030430600104010] Challenge Blaine: Part 4
+[quest_title_1030306000601070] Challenge Darach: Part 1
+[quest_title_1030306000601080] Challenge Darach: Part 2
+[quest_title_1030306000601090] Challenge Darach: Part 3
+[quest_title_1030306000601100] Challenge Darach: Part 4
+[quest_title_1030430600105010] Daily Bonus Battle 1
 
 ===========
 story_quest_name_es.lsd
@@ -5618,6 +5733,72 @@ el Enmascarado
 [quest_title_1030304001011020] VS. Ghechis (3)
 [quest_title_1030304001011030] VS. Ghechis (4)
 [quest_title_1030304001011040] VS. Ghechis (5)
+[quest_group_title_10108000000] Fero
+[quest_group_title_10109000000] Caril
+[quest_group_title_10243400000] Gloria
+(Temporada 21)
+[quest_group_title_10245400000] Roxy
+(Temporada 21)
+[quest_title_1030306000603010] Combate con un equipo de
+Teselia: Principiante
+[quest_title_1030306000603020] Combate con un equipo de
+Teselia: Intermedio
+[quest_title_1030306000603030] Combate con un equipo de
+Teselia: Avanzado
+[quest_title_1030306000603040] Combate con un equipo de
+Kalos: Principiante
+[quest_title_1030306000603050] Combate con un equipo de
+Kalos: Intermedio
+[quest_title_1030306000603060] Combate con un equipo de
+Kalos: Avanzado
+[quest_title_1030306000603070] Combate con un equipo de
+Alola: Principiante
+[quest_title_1030306000603080] Combate con un equipo de
+Alola: Intermedio
+[quest_title_1030306000603090] Combate con un equipo de
+Alola: Avanzado
+[quest_title_1030306000603100] Combate con un equipo de
+Galar: Principiante
+[quest_title_1030306000603110] Combate con un equipo de
+Galar: Intermedio
+[quest_title_1030306000603120] Combate con un equipo de
+Galar: Avanzado
+[quest_title_1030306000601000] Una idea digna de un "¡bravo!"
+[quest_title_1030306000601010] Siguiendo las vías
+[quest_title_1030306000601020] Un tren arrollador
+[quest_title_1030306000601030] Gente con aficiones peculiares
+[quest_title_1030306000601040] ¡Todo listo para los combates
+subterráneos!
+[quest_title_1030306000601050] ¡En marcha!
+[quest_title_1030306000601140] ¡Enfréntate a los Jefes Metro!
+[quest_title_1030306000601150] ¡Enfréntate a los Jefes Metro! (2)
+[quest_title_1030306000601060] ¡Gracias por subir a bordo!
+[quest_title_1030220108000000] Un día con Fero
+[quest_title_1030220109000000] Un día con Caril
+[quest_title_1030306000701011] VS. Moltres
+[quest_title_1030306010701021] VS. Moltres (2)
+[quest_title_1030306020701031] VS. Moltres (3)
+[quest_title_1030306000602000] ¡Abrimos el chiringuito!
+[quest_title_1030306000602010] Inteleon en acción
+[quest_title_1030306000602020] Rivales de nuevo
+[quest_title_1030306000602030] El encanto de Roxy
+[quest_title_1030306000602040] Un verano inolvidable
+en Passio
+[quest_title_1030306000602100] Un combate extra:
+¡Objetos por doquier!
+[quest_title_1030430600201010] VS. Antón
+[quest_title_1030430600202010] VS. Antón (2)
+[quest_title_1030430600203010] VS. Antón (3)
+[quest_title_1030430600204010] VS. Antón (Final)
+[quest_title_1030430600101010] VS. Blaine
+[quest_title_1030430600102010] VS. Blaine (2)
+[quest_title_1030430600103010] VS. Blaine (3)
+[quest_title_1030430600104010] VS. Blaine (4)
+[quest_title_1030306000601070] VS. Kokuran
+[quest_title_1030306000601080] VS. Kokuran (2)
+[quest_title_1030306000601090] VS. Kokuran (3)
+[quest_title_1030306000601100] VS. Kokuran (4)
+[quest_title_1030430600105010] ¡Un combate extra al día!
 
 ===========
 story_quest_name_fr.lsd
@@ -7390,6 +7571,74 @@ contre Alexis !
 [quest_title_1030304001011020] Combat : Ghetis III
 [quest_title_1030304001011030] Combat : Ghetis IV
 [quest_title_1030304001011040] Combat : Ghetis V
+[quest_group_title_10108000000] Chammal
+[quest_group_title_10109000000] Chamsin
+[quest_group_title_10243400000] Gloria
+(Saison 2021)
+[quest_group_title_10245400000] Rosemary
+(Saison 2021)
+[quest_title_1030306000603010] Combat avec une équipe
+d'Unys (Débutant)
+[quest_title_1030306000603020] Combat avec une équipe
+d'Unys (Avancé)
+[quest_title_1030306000603030] Combat avec une équipe
+d'Unys (Pro)
+[quest_title_1030306000603040] Combat avec une équipe
+de Kalos (Débutant)
+[quest_title_1030306000603050] Combat avec une équipe
+de Kalos (Avancé)
+[quest_title_1030306000603060] Combat avec une équipe
+de Kalos (Pro)
+[quest_title_1030306000603070] Combat avec une équipe
+d'Alola (Débutant)
+[quest_title_1030306000603080] Combat avec une équipe
+d'Alola (Avancé)
+[quest_title_1030306000603090] Combat avec une équipe
+d'Alola (Pro)
+[quest_title_1030306000603100] Combat avec une équipe
+de Galar (Débutant)
+[quest_title_1030306000603110] Combat avec une équipe
+de Galar (Avancé)
+[quest_title_1030306000603120] Combat avec une équipe
+de Galar (Pro)
+[quest_title_1030306000601000] Bravo, bravo,
+mille fois bravo !
+[quest_title_1030306000601010] La voie continue... ?
+[quest_title_1030306000601020] À toute vapeur !
+[quest_title_1030306000601030] Des hobbys particuliers
+[quest_title_1030306000601040] Sur les rails
+[quest_title_1030306000601050] En voiture, tout le monde !
+[quest_title_1030306000601140] Combat : Chefs du Métro
+[quest_title_1030306000601150] Combat : Chefs du Métro II
+[quest_title_1030306000601060] Merci d'avoir voyagé
+avec nous !
+[quest_title_1030220108000000] Une journée avec Chammal
+[quest_title_1030220109000000] Une journée avec Chamsin
+[quest_title_1030306000701011] Combat : Sulfura
+[quest_title_1030306010701021] Combat : Sulfura II
+[quest_title_1030306020701031] Combat : Sulfura III
+[quest_title_1030306000602000] La Paillote Dynamax
+est ouverte !
+[quest_title_1030306000602010] En plein dans le mille !
+[quest_title_1030306000602020] Une rivalité renouvelée
+[quest_title_1030306000602030] Une idée de génie
+[quest_title_1030306000602040] Souvenirs d'été à Passio
+[quest_title_1030306000602100] Combat bonus :
+Objets en folie !
+[quest_title_1030430600201010] Combat : Hector
+[quest_title_1030430600202010] Combat : Hector II
+[quest_title_1030430600203010] Combat : Hector III
+[quest_title_1030430600204010] Combat : Hector (Intense)
+[quest_title_1030430600101010] Combat : Auguste
+[quest_title_1030430600102010] Combat : Auguste II
+[quest_title_1030430600103010] Combat : Auguste III
+[quest_title_1030430600104010] Combat : Auguste IV
+[quest_title_1030306000601070] Combat : Parsley
+[quest_title_1030306000601080] Combat : Parsley II
+[quest_title_1030306000601090] Combat : Parsley III
+[quest_title_1030306000601100] Combat : Parsley IV
+[quest_title_1030430600105010] Combat bonus limité
+à une fois par jour !
 
 ===========
 story_quest_name_it.lsd
@@ -8959,6 +9208,55 @@ story_quest_name_it.lsd
 [quest_title_1030304001011020] VS Ghecis 3
 [quest_title_1030304001011030] VS Ghecis 4
 [quest_title_1030304001011040] VS Ghecis 5
+[quest_group_title_10108000000] Andy
+[quest_group_title_10109000000] Torn
+[quest_group_title_10243400000] Gloria (feste 2021)
+[quest_group_title_10245400000] Mary (feste 2021)
+[quest_title_1030306000603010] Lotta con Unità di Unima in squadra! (Principiante)
+[quest_title_1030306000603020] Lotta con Unità di Unima in squadra! (Intermedio)
+[quest_title_1030306000603030] Lotta con Unità di Unima in squadra! (Avanzato)
+[quest_title_1030306000603040] Lotta con Unità di Kalos in squadra! (Principiante)
+[quest_title_1030306000603050] Lotta con Unità di Kalos in squadra! (Intermedio)
+[quest_title_1030306000603060] Lotta con Unità di Kalos in squadra! (Avanzato)
+[quest_title_1030306000603070] Lotta con Unità di Alola in squadra! (Principiante)
+[quest_title_1030306000603080] Lotta con Unità di Alola in squadra! (Intermedio)
+[quest_title_1030306000603090] Lotta con Unità di Alola in squadra! (Avanzato)
+[quest_title_1030306000603100] Lotta con Unità di Galar in squadra! (Principiante)
+[quest_title_1030306000603110] Lotta con Unità di Galar in squadra! (Intermedio)
+[quest_title_1030306000603120] Lotta con Unità di Galar in squadra! (Avanzato)
+[quest_title_1030306000601000] Complimenti per l'idea!
+[quest_title_1030306000601010] Dove portano le rotaie?
+[quest_title_1030306000601020] Un treno a due vagoni
+[quest_title_1030306000601030] Gli appassionati degli scavi
+[quest_title_1030306000601040] Le nuove rotaie sono pronte!
+[quest_title_1030306000601050] In carrozza, si parte!
+[quest_title_1030306000601140] Sfida ai Capometrò!
+[quest_title_1030306000601150] Sfida ai Capometrò! 2
+[quest_title_1030306000601060] Grazie per aver viaggiato con noi!
+[quest_title_1030220108000000] Un giorno con Andy
+[quest_title_1030220109000000] Un giorno con Torn
+[quest_title_1030306000701011] VS Moltres
+[quest_title_1030306010701021] VS Moltres 2
+[quest_title_1030306020701031] VS Moltres 3
+[quest_title_1030306000602000] Sta per aprire il Chiosco Dynamax!
+[quest_title_1030306000602010] Ordini a raffica con Inteleon!
+[quest_title_1030306000602020] Ancora una volta saremo rivali!
+[quest_title_1030306000602030] L'idea di Mary
+[quest_title_1030306000602040] Un'estate memorabile
+[quest_title_1030306000602100] Lotta bonus: tanti strumenti!
+[quest_title_1030430600201010] VS Raffaello
+[quest_title_1030430600202010] VS Raffaello 2
+[quest_title_1030430600203010] VS Raffaello 3
+[quest_title_1030430600204010] VS Raffaello: lotta furibonda!
+[quest_title_1030430600101010] VS Blaine
+[quest_title_1030430600102010] VS Blaine 2
+[quest_title_1030430600103010] VS Blaine 3
+[quest_title_1030430600104010] VS Blaine 4
+[quest_title_1030306000601070] VS Paride
+[quest_title_1030306000601080] VS Paride 2
+[quest_title_1030306000601090] VS Paride 3
+[quest_title_1030306000601100] VS Paride 4
+[quest_title_1030430600105010] Lotta bonus (una al giorno)!
 
 ===========
 story_quest_name_ja.lsd
@@ -10544,6 +10842,57 @@ story_quest_name_ja.lsd
 [quest_title_1030304001011020] ＶＳ　ゲーチス３
 [quest_title_1030304001011030] ＶＳ　ゲーチス４
 [quest_title_1030304001011040] ＶＳ　ゲーチス５
+[quest_group_title_10108000000] ノボリ
+[quest_group_title_10109000000] クダリ
+[quest_group_title_10243400000] ユウリ
+（２１シーズン）
+[quest_group_title_10245400000] マリィ
+（２１シーズン）
+[quest_title_1030306000603010] イッシュ編成でバトル！・初級
+[quest_title_1030306000603020] イッシュ編成でバトル！・中級
+[quest_title_1030306000603030] イッシュ編成でバトル！・上級
+[quest_title_1030306000603040] カロス編成でバトル！・初級
+[quest_title_1030306000603050] カロス編成でバトル！・中級
+[quest_title_1030306000603060] カロス編成でバトル！・上級
+[quest_title_1030306000603070] アローラ編成でバトル！・初級
+[quest_title_1030306000603080] アローラ編成でバトル！・中級
+[quest_title_1030306000603090] アローラ編成でバトル！・上級
+[quest_title_1030306000603100] ガラル編成でバトル！・初級
+[quest_title_1030306000603110] ガラル編成でバトル！・中級
+[quest_title_1030306000603120] ガラル編成でバトル！・上級
+[quest_title_1030306000601000] ブラボーな思いつき
+[quest_title_1030306000601010] 線路は続くよ……？
+[quest_title_1030306000601020] 駆けあがる車両たち
+[quest_title_1030306000601030] イッシュのやり手と物好きたち
+[quest_title_1030306000601040] 完成！　トロッコサブウェイ！
+[quest_title_1030306000601050] みなさま　ご乗車ください！
+[quest_title_1030306000601140] サブウェイマスターに挑戦！
+[quest_title_1030306000601150] サブウェイマスターに挑戦！２
+[quest_title_1030306000601060] ご乗車ありがとうございました！
+[quest_title_1030220108000000] とある日のノボリ
+[quest_title_1030220109000000] とある日のクダリ
+[quest_title_1030306000701011] ＶＳ　ファイヤー
+[quest_title_1030306010701021] ＶＳ　ファイヤー２
+[quest_title_1030306020701031] ＶＳ　ファイヤー３
+[quest_title_1030306000602000] 海の家がオープンするよ！
+[quest_title_1030306000602010] インテレオンと決めちゃえ！
+[quest_title_1030306000602020] あたしたちライバルやけんね！
+[quest_title_1030306000602030] マリィのウリ　ひらめいた！
+[quest_title_1030306000602040] パシオで作った夏の思い出！
+[quest_title_1030306000602100] どうぐ大量・ボーナスバトル！
+[quest_title_1030430600201010] ＶＳ　ツクシ
+[quest_title_1030430600202010] ＶＳ　ツクシ２
+[quest_title_1030430600203010] ＶＳ　ツクシ３
+[quest_title_1030430600204010] ＶＳ　激闘！　ツクシ
+[quest_title_1030430600101010] ＶＳ　カツラ
+[quest_title_1030430600102010] ＶＳ　カツラ２
+[quest_title_1030430600103010] ＶＳ　カツラ３
+[quest_title_1030430600104010] ＶＳ　カツラ４
+[quest_title_1030306000601070] ＶＳ　コクラン
+[quest_title_1030306000601080] ＶＳ　コクラン２
+[quest_title_1030306000601090] ＶＳ　コクラン３
+[quest_title_1030306000601100] ＶＳ　コクラン４
+[quest_title_1030430600105010] １日１回限定・ボーナスバトル！
 
 ===========
 story_quest_name_ko.lsd
@@ -12128,6 +12477,57 @@ story_quest_name_ko.lsd
 [quest_title_1030304001011020] VS 게치스3
 [quest_title_1030304001011030] VS 게치스4
 [quest_title_1030304001011040] VS 게치스5
+[quest_group_title_10108000000] 상행
+[quest_group_title_10109000000] 하행
+[quest_group_title_10243400000] 우리
+(21시즌)
+[quest_group_title_10245400000] 마리
+(21시즌)
+[quest_title_1030306000603010] 하나지방 편성으로 배틀! 초급
+[quest_title_1030306000603020] 하나지방 편성으로 배틀! 중급
+[quest_title_1030306000603030] 하나지방 편성으로 배틀! 상급
+[quest_title_1030306000603040] 칼로스지방 편성으로 배틀! 초급
+[quest_title_1030306000603050] 칼로스지방 편성으로 배틀! 중급
+[quest_title_1030306000603060] 칼로스지방 편성으로 배틀! 상급
+[quest_title_1030306000603070] 알로라지방 편성으로 배틀! 초급
+[quest_title_1030306000603080] 알로라지방 편성으로 배틀! 중급
+[quest_title_1030306000603090] 알로라지방 편성으로 배틀! 상급
+[quest_title_1030306000603100] 가라르지방 편성으로 배틀! 초급
+[quest_title_1030306000603110] 가라르지방 편성으로 배틀! 중급
+[quest_title_1030306000603120] 가라르지방 편성으로 배틀! 상급
+[quest_title_1030306000601000] 브라보한 아이디어
+[quest_title_1030306000601010] 선로는 계속된다...?
+[quest_title_1030306000601020] 달리기 시작하는 열차들
+[quest_title_1030306000601030] 하나지방의 사업가와 별종들
+[quest_title_1030306000601040] 광차서브웨이 완성!
+[quest_title_1030306000601050] 승차해 주십시오 여러분!
+[quest_title_1030306000601140] 서브웨이마스터에게 도전하자!
+[quest_title_1030306000601150] 서브웨이마스터에게 도전하자!2
+[quest_title_1030306000601060] 승차해 주셔서 감사합니다!
+[quest_title_1030220108000000] 상행의 어느 날
+[quest_title_1030220109000000] 하행의 어느 날
+[quest_title_1030306000701011] VS 파이어
+[quest_title_1030306010701021] VS 파이어2
+[quest_title_1030306020701031] VS 파이어3
+[quest_title_1030306000602000] 바다의 집 오픈합니다!
+[quest_title_1030306000602010] 인텔리레온과 메뉴를 정해보자!
+[quest_title_1030306000602020] 우리는 라이벌이야!
+[quest_title_1030306000602030] 마리가 떠올린 판매 방법!
+[quest_title_1030306000602040] 파시오에서 만든 여름의 추억!
+[quest_title_1030306000602100] 도구 대량 보너스 배틀!
+[quest_title_1030430600201010] VS 호일
+[quest_title_1030430600202010] VS 호일2
+[quest_title_1030430600203010] VS 호일3
+[quest_title_1030430600204010] VS 격전! 호일
+[quest_title_1030430600101010] VS 강연
+[quest_title_1030430600102010] VS 강연2
+[quest_title_1030430600103010] VS 강연3
+[quest_title_1030430600104010] VS 강연4
+[quest_title_1030306000601070] VS 코크런
+[quest_title_1030306000601080] VS 코크런2
+[quest_title_1030306000601090] VS 코크런3
+[quest_title_1030306000601100] VS 코크런4
+[quest_title_1030430600105010] 1일 1회 한정 보너스 배틀!
 
 ===========
 story_quest_name_zh-TW.lsd
@@ -13712,6 +14112,57 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030304001011020] ＶＳ　魁奇思３
 [quest_title_1030304001011030] ＶＳ　魁奇思４
 [quest_title_1030304001011040] ＶＳ　魁奇思５
+[quest_group_title_10108000000] 北尚
+[quest_group_title_10109000000] 南廈
+[quest_group_title_10243400000] 小優
+（２０２１夏季）
+[quest_group_title_10245400000] 瑪俐
+（２０２１夏季）
+[quest_title_1030306000603010] 編制合眾隊伍來對戰！・初級
+[quest_title_1030306000603020] 編制合眾隊伍來對戰！・中級
+[quest_title_1030306000603030] 編制合眾隊伍來對戰！・高級
+[quest_title_1030306000603040] 編制卡洛斯隊伍來對戰！・初級
+[quest_title_1030306000603050] 編制卡洛斯隊伍來對戰！・中級
+[quest_title_1030306000603060] 編制卡洛斯隊伍來對戰！・高級
+[quest_title_1030306000603070] 編制阿羅拉隊伍來對戰！・初級
+[quest_title_1030306000603080] 編制阿羅拉隊伍來對戰！・中級
+[quest_title_1030306000603090] 編制阿羅拉隊伍來對戰！・高級
+[quest_title_1030306000603100] 編制伽勒爾隊伍來對戰！・初級
+[quest_title_1030306000603110] 編制伽勒爾隊伍來對戰！・中級
+[quest_title_1030306000603120] 編制伽勒爾隊伍來對戰！・高級
+[quest_title_1030306000601000] 超棒的點子
+[quest_title_1030306000601010] 軌道將繼續延伸喔……？
+[quest_title_1030306000601020] 奔馳的列車們
+[quest_title_1030306000601030] 合眾的精明企業家和愛好者們
+[quest_title_1030306000601040] 完成！礦車地下鐵！
+[quest_title_1030306000601050] 各位，請上車！
+[quest_title_1030306000601140] 挑戰地下鐵總管！
+[quest_title_1030306000601150] 挑戰地下鐵總管！２
+[quest_title_1030306000601060] 感謝您的搭乘！
+[quest_title_1030220108000000] 某日的北尚
+[quest_title_1030220109000000] 某日的南廈
+[quest_title_1030306000701011] ＶＳ　火焰鳥
+[quest_title_1030306010701021] ＶＳ　火焰鳥２
+[quest_title_1030306020701031] ＶＳ　火焰鳥３
+[quest_title_1030306000602000] 海邊小屋要開張囉！
+[quest_title_1030306000602010] 與千面避役一起選餐！
+[quest_title_1030306000602020] 我們是競爭對手吶！
+[quest_title_1030306000602030] 靈光一現！瑪俐的賣點！
+[quest_title_1030306000602040] 在帕希歐寫下的夏日回憶！
+[quest_title_1030306000602100] 獲得大量道具的獎勵對戰！
+[quest_title_1030430600201010] ＶＳ　阿筆
+[quest_title_1030430600202010] ＶＳ　阿筆２
+[quest_title_1030430600203010] ＶＳ　阿筆３
+[quest_title_1030430600204010] ＶＳ　與阿筆激戰！
+[quest_title_1030430600101010] ＶＳ　夏伯
+[quest_title_1030430600102010] ＶＳ　夏伯２
+[quest_title_1030430600103010] ＶＳ　夏伯３
+[quest_title_1030430600104010] ＶＳ　夏伯４
+[quest_title_1030306000601070] ＶＳ　石蘭
+[quest_title_1030306000601080] ＶＳ　石蘭２
+[quest_title_1030306000601090] ＶＳ　石蘭３
+[quest_title_1030306000601100] ＶＳ　石蘭４
+[quest_title_1030430600105010] １天僅限１次的獎勵對戰！
 
 ===========
 trainer_description_de.lsd
@@ -14226,6 +14677,22 @@ Pokémon haben es ihr besonders angetan.
 [10129000001] Eine geheimnisvolle Frau mit einem verwegenen Lächeln.
 In der Hoenn-Region hat sie versucht, ihre Mission als
 Wissenshüterin des Volks der Meteoraner zu erfüllen.
+[10108000000] Dieser Metromeister ist der ältere der beiden Zwillinge,
+die die Kampfmetro in Einall betreiben. Für gewöhnlich
+spezialisiert er sich auf Einzelkämpfe.
+[10109000000] Dieser Metromeister ist der jüngere der beiden Zwillinge,
+die die Kampfmetro in Einall betreiben. Er hat eine
+Vorliebe dafür, verschiedene Pokémon in Doppelkämpfen
+zu kombinieren.
+[10243400000] Gloria trägt ein hübsches luftiges Outfit! Mit ihrem Partner
+Intelleon beweist sie ihre Zielsicherheit selbst gegen die
+stärksten Gegner!
+[10245400000] Mary präsentiert sich cool und in Feierlaune! Zusammen
+mit Olangaar hat sie an ihrem Lächeln gearbeitet, um ihre
+Kunden in der Strandhütte willkommen zu heißen!
+[10045900000] Das Nesthäkchen unter den Arenaleitern von Johto ist ein
+wahrer Experte für Käfer-Pokémon und träumt von einer
+Karriere als Pokémon-Professor.
 
 ===========
 trainer_description_en.lsd
@@ -14711,6 +15178,21 @@ She likes wild and tough Dark-type Pokémon.
 [10129000001] This mysterious Trainer journeyed throughout the Hoenn
 region to carry out her mission as the Lorekeeper of the
 Draconid people.
+[10108000000] This Subway Boss is the older of the twin brothers who
+run the Battle Subway in Unova. He usually specializes in
+Single Battles.  
+[10109000000] This Subway Boss is the younger of the twin brothers who
+run the Battle Subway in Unova. He likes working with
+different combinations of Pokémon in Double Battles.
+[10243400000] Gloria’s dressed in a cute, breezy outfit! With her
+partner Inteleon, she’ll snipe through even the
+strongest opponents!
+[10245400000] Marnie’s looking cool and ready to party! She’s been
+practicing her smiles with Grimmsnarl to help welcome
+customers to the beachside pop-up eatery!
+[10045900000] The youngest Gym Leader in Johto and a lover of bug
+Pokémon, he has great knowledge of Bug types and
+wants to become a Pokémon Professor.
 
 ===========
 trainer_description_es.lsd
@@ -15287,6 +15769,22 @@ naturaleza fuerte y salvaje.
 es la Cronista heredera del legado del Clan Meteoro.
 Viajó por la región de Hoenn con el objetivo de cumplir
 la misión que le fue encomendada.
+[10108000000] Este Jefe Metro es el mayor de los gemelos que dirigen
+el Metro Batalla de Teselia. Está especializado en el
+Combate Individual.
+[10109000000] Este Jefe Metro es el menor de los gemelos que dirigen
+el Metro Batalla de Teselia. Le gusta combinar Pokémon,
+y por eso se ha especializado en el Combate Doble.
+[10243400000] Gloria vuelve con un conjunto veraniego muy estiloso.
+Con Inteleon, su querido compi, hará diana hasta en los
+enemigos más escurridizos.
+[10245400000] Roxy se ha puesto su ropa más alegre y está lista para el
+verano. Está practicando su sonrisa con Grimmsnarl para
+recibir a los clientes en el chiringuito.
+[10045900000] Líder de Gimnasio de Johto y amante de los Pokémon de
+tipo Bicho. A pesar de su corta edad, sabe mucho acerca
+de los Pokémon y su sueño es llegar a ser Profesor
+Pokémon algún día.
 
 ===========
 trainer_description_fr.lsd
@@ -15789,6 +16287,25 @@ les plus sauvages.
 [10129000001] Une jeune fille mystérieuse au sourire énigmatique. Elle
 fera tout pour remplir sa mission en tant que Gardienne
 du Savoir du Peuple du Météore.
+[10108000000] Ce Chef du Métro est l'aîné des deux jumeaux
+qui dirigent le célèbre Métro de Combat
+de la région d'Unys. Il se spécialise
+dans les combats Solo.
+[10109000000] Ce Chef du Métro est le cadet des deux jumeaux
+qui dirigent le célèbre Métro de Combat de la région
+d'Unys. Il aime voir toutes les combinaisons de Pokémon
+possibles lors des combats Duo.
+[10243400000] Gloria porte une jolie tenue estivale. Accompagnée
+de Lézargus, son partenaire Pokémon de longue date,
+elle ne rate jamais son coup, même lorsqu'elle vise
+les plus forts de ses adversaires !
+[10245400000] Rosemary a revêtu une tenue estivale colorée.
+Elle s'entraîne à sourire avec Angoliath pour
+être fin prête à accueillir tous les clients
+de la paillote de plage où elle travaille cet été.
+[10045900000] Ce Champion, le plus jeune de Johto, est fan du type
+Insecte et en connaît tous les secrets. Il espère devenir
+Professeur Pokémon.
 
 ===========
 trainer_description_it.lsd
@@ -16318,6 +16835,20 @@ In particolare adora quelli di tipo Buio per l'aspetto
 [10129000001] Una ragazza misteriosa dal sorriso sprezzante. A Hoenn
 ha cercato di portare a termine la sua missione in qualità
 di Custode del segreto del popolo delle meteore.
+[10108000000] Uno dei gemelli Capometrò del Metrò Lotta di Unima.
+La sua specialità è la Lotta in Singolo.
+[10109000000] Uno dei gemelli Capometrò del Metrò Lotta di Unima.
+Gli piace sperimentare diverse combinazioni di Pokémon
+nella Lotta in Doppio.
+[10243400000] Gloria indossa un abito fresco e carino! Insieme al suo
+compagno Inteleon, colpirà il punto debole degli avversari
+più temibili!
+[10245400000] Mary indossa un abito fresco e vivace, e si esercita
+a sorridere insieme a Grimmsnarl per accogliere i clienti
+del chiosco sulla spiaggia!
+[10045900000] È il Capopalestra più giovane di Johto e la sa lunga sui
+Pokémon di tipo Coleottero, che adora. Da grande
+vorrebbe fare il Professore.
 
 ===========
 trainer_description_ja.lsd
@@ -16802,6 +17333,21 @@ trainer_description_ja.lsd
 [10129000001] 不敵な　笑みを　浮かべる　謎の　多い　少女。
 ホウエン地方では　流星の民の　伝承者として
 使命を　果たすために　行動していた。
+[10108000000] イッシュ地方の　名物　バトルサブウェイの　頂点
+サブウェイマスターを　務める　双子の　兄。
+普段は　シングルバトルを　得意としている。
+[10109000000] イッシュ地方の　名物　バトルサブウェイの　頂点
+サブウェイマスターを　務める　双子の　弟。
+ダブルバトルなど　ポケモン同士の　連携が　好き。
+[10243400000] 涼しく　かわいく　キメた　ユウリ。
+つきあいの長い　インテレオンを　バディに
+手ごわい　相手の　ハートを　撃ち抜く。
+[10245400000] クールに　ノリノリで　キメた　マリィ。
+海の家の　仕事で　お客さんを　迎えるために
+オーロンゲと　一緒に　笑顔の　練習中。
+[10045900000] むしポケモンが　大好きな　ジョウト地方で　最年少の
+ジムリーダー。　むしポケモンの　知識が　豊富で
+将来は　ポケモン博士に　なりたいと　考えている。
 
 ===========
 trainer_description_ko.lsd
@@ -17286,6 +17832,21 @@ trainer_description_ko.lsd
 [10129000001] 기분 나쁜 미소를 짓는 수수께끼 많은 소녀.
 호연지방에선 유성의 민족의 전승자로서
 사명을 다하기 위해 행동하고 있었다.
+[10108000000] 하나지방의 명물 배틀서브웨이의 정점
+서브웨이마스터를 맡고 있는 쌍둥이 중 형.
+평소에는 싱글배틀이 특기다.
+[10109000000] 하나지방의 명물 배틀서브웨이의 정점
+서브웨이마스터를 맡고 있는 쌍둥이 중 동생.
+더블배틀처럼 포켓몬 간에 연계를 좋아한다.
+[10243400000] 시원하고 귀엽게 꾸민 우리.
+긴 시간 함께한 인텔리레온을 버디로
+강한 상대의 하트를 꿰뚫는다.
+[10245400000] 쿨하고 신나게 꾸민 마리.
+바다의 집에서 일하면서 손님을 맞이하기 위해
+오롱털과 함께 미소를 연습 중이다.
+[10045900000] 벌레포켓몬을 정말 좋아하는 성도지방 최연소 체육관 관장.
+벌레포켓몬에 대한 지식이 풍부하고
+장래에는 포켓몬 박사가 되고 싶어 한다.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -17769,6 +18330,21 @@ trainer_description_zh-TW.lsd
 [10129000001] 面帶無懼笑容的謎樣少女。
 在豐緣地區時，身為流星之民傳承者的她
 曾經為了完成自己的使命而行動。
+[10108000000] 在合眾地區著名的對戰地下鐵擔任
+該設施首領「地下鐵總管」的雙胞胎哥哥。
+平時擅長的是單打對戰。
+[10109000000] 在合眾地區著名的對戰地下鐵擔任
+該設施首領「地下鐵總管」的雙胞胎弟弟。
+喜歡寶可夢之間互相配合的雙打對戰。
+[10243400000] 打扮得涼爽又可愛的小優。
+她的拍檔是和她相處許久的千面避役。
+他們將一起擊中難纏對手的心。
+[10245400000] 打扮得又酷又帶勁兒的瑪俐。
+為了完成在海邊小屋接待客人的工作，
+正和長毛巨魔一起練習露出笑容。
+[10045900000] 喜歡蟲屬性寶可夢，城都地區年紀最小的
+道館館主。擁有豐富的蟲屬性寶可夢知識。
+將來想要成為寶可夢博士。
 
 ===========
 trainer_name_de.lsd
@@ -17877,6 +18453,8 @@ trainer_name_de.lsd
 [ch0103] Trixi
 [ch0104] Sasha
 [ch0106] Kamilla
+[ch0108] Hin
+[ch0109] Her
 [ch0110] Misty
 [ch0111] Siegfried
 [ch0112] Klarin
@@ -18041,6 +18619,8 @@ trainer_name_en.lsd
 [ch0103] Tricia
 [ch0104] Trinnia
 [ch0106] Elesa
+[ch0108] Ingo
+[ch0109] Emmet
 [ch0110] Misty
 [ch0111] Lance
 [ch0112] Ethan
@@ -18205,6 +18785,8 @@ trainer_name_es.lsd
 [ch0103] Tricia
 [ch0104] Trini
 [ch0106] Camila
+[ch0108] Fero
+[ch0109] Caril
 [ch0110] Misty
 [ch0111] Lance
 [ch0112] Eco
@@ -18369,6 +18951,8 @@ trainer_name_fr.lsd
 [ch0103] Aglaé
 [ch0104] Euphrosyne
 [ch0106] Inezia
+[ch0108] Chammal
+[ch0109] Chamsin
 [ch0110] Ondine
 [ch0111] Peter
 [ch0112] Luth
@@ -18533,6 +19117,8 @@ trainer_name_it.lsd
 [ch0103] Tricia
 [ch0104] Tilia
 [ch0106] Camelia
+[ch0108] Andy
+[ch0109] Torn
 [ch0110] Misty
 [ch0111] Lance
 [ch0112] Armonio
@@ -18697,6 +19283,8 @@ trainer_name_ja.lsd
 [ch0103] トリカ
 [ch0104] サクサ
 [ch0106] カミツレ
+[ch0108] ノボリ
+[ch0109] クダリ
 [ch0110] カスミ
 [ch0111] ワタル
 [ch0112] ヒビキ
@@ -18861,6 +19449,8 @@ trainer_name_ko.lsd
 [ch0103] 트리커
 [ch0104] 사크사
 [ch0106] 카밀레
+[ch0108] 상행
+[ch0109] 하행
 [ch0110] 이슬
 [ch0111] 목호
 [ch0112] 심향
@@ -19025,6 +19615,8 @@ trainer_name_zh-TW.lsd
 [ch0103] 藍菫
 [ch0104] 綠菫
 [ch0106] 小菊兒
+[ch0108] 北尚
+[ch0109] 南廈
 [ch0110] 小霞
 [ch0111] 阿渡
 [ch0112] 阿響
@@ -19255,8 +19847,8 @@ zu diesen Gefährten öffnest.
 [common_widget/dialog_068] Wenn du das Potenzial eines
 Gefährtengespanns auf 6★ EX
 erhöhst, erhältst du sein EX-Farboutfit.
-[common_widget/dialog_070] Das Datum hat sich geändert. Dein
-Team wurde vollständig geheilt.
+[common_widget/dialog_070] Das Datum hat sich geändert. Die tägl.
+vollständige Heilung ist verfügbar.
 [common_widget/dialog_071] Kampfvilla-Mission
 [common_widget/dialog_072] Hinweis: Diese Items werden nicht automatisch
 eingetauscht.
@@ -19524,11 +20116,15 @@ Hauptgeschichte freigeschaltet.
 Kapitel 2 der Hauptgeschichte freigeschaltet.
 [common_widget/release_010] Wird freigeschaltet, indem du das erste Ei ausbrütest, das
 du von Professor Daisy erhalten hast.
+[common_widget/release_012] Wird nach Abschluss von „Vorhang auf für die WPM!“ im
+Zwischenspiel der Hauptgeschichte freigeschaltet.
 [common_widget/release_013] Professor Daisys Pokémon-Labor wird
 freigeschaltet, wenn du das erste Ei
 ausbrütest, das du von ihr erhalten
 hast.
 [common_widget/release_014] Wird in einem zukünftigem Update freigeschaltet.
+[common_widget/release_018] Dieser Event ist nur im Multimodus verfügbar. Der Multimodus wird nach Abschluss von „Vorhang auf für die WPM!“ im Zwischenspiel 1 der Hauptgeschichte freigeschaltet.
+[common_widget/release_019] Dieser Event ist nur im Multimodus verfügbar. Den Modus kannst du über die Schaltfläche oben auf dem Bildschirm wechseln.
 [common_widget/egg_hatched_cutin_001] Oh?
 [common_widget/egg_hatched_cutin_002] Ein [Name:PokemonName ] ist aus
 dem Ei geschlüpft!
@@ -19980,8 +20576,17 @@ Defeat Team Break!
 Defeat Team Break!
 [common_widget/release_010] To unlock, hatch the Egg you first received
 from Professor Bellis.
+[common_widget/release_012] To unlock, complete Interlude 1:
+Let the Tournament Begin!
 [common_widget/release_013] To unlock Bellis’s Lab, hatch the Egg you first received from Professor Bellis.
 [common_widget/release_014] Coming soon!
+[common_widget/release_018] This is a co-op-only event.
+
+To unlock co-op, complete Interlude 1:
+Let the Tournament Begin!
+[common_widget/release_019] This is a co-op-only event.
+You can switch to co-op view by tapping
+the button at the top of the screen.
 [common_widget/egg_hatched_cutin_001] Oh?
 [common_widget/egg_hatched_cutin_002] [Name:PokemonName ] hatched
 from the Egg!
@@ -20207,11 +20812,11 @@ de hoy.
 [common_widget/dialog_072] Nota: Este objeto no se canjeará automáticamente.
 [common_widget/dialog_073] Nota: Las limitaciones de formación se restablecerán al realizar la recuperación completa.
 [common_widget/dialog_074] Nota: Los compis debilitados se recuperarán al realizar la recuperación completa.
-[common_widget/dialog_075] Puedes canjear tus puntos de combate
-para reclutar a una pareja de compis.
-Si ya la tienes, podrás usar tus puntos
-para potenciar los movimientos y los
-movimientos compi de dicha pareja.
+[common_widget/dialog_075] Al efectuar el canje, recibirás a la
+pareja de compis si no la tenías. Si ya
+la tenías, se potenciarán los
+movimientos y los movimientos compi
+de dicha pareja. 
 [common_widget/dialog_076] Nota: No hay ningún episodio compi dedicado a esta pareja.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Nv.
@@ -20450,11 +21055,15 @@ del capítulo 7 de la historia principal.
 capítulo 2 de la historia principal.
 [common_widget/release_010] Disponible cuando eclosione el primer Huevo que te
 entregó la Profesora Margarita.
+[common_widget/release_012] Completa "¡Que comience el WPM!", del primer interludio
+de la historia principal.
 [common_widget/release_013] Puedes acceder al Laboratorio Pokémon
 de la Profesora Margarita después de
 que eclosione el primer Huevo que
 te entregue.
 [common_widget/release_014] Disponible en una próxima actualización.
+[common_widget/release_018] Este evento solo está disponible en modo multijugador. Para desbloquear este modo, completa "¡Que comience el WPM!", del primer interludio de la historia principal.
+[common_widget/release_019] Este evento solo está disponible en modo multijugador. Puedes seleccionar este modo tocando el botón en la parte superior de la pantalla.
 [common_widget/egg_hatched_cutin_001] Anda...
 [common_widget/egg_hatched_cutin_002] El Huevo ha eclosionado y ha salido un
 [Name:PokemonName ].
@@ -20928,10 +21537,19 @@ dans le chapitre 2.
 dans le chapitre 2.
 [common_widget/release_010] Débloqué après avoir fait éclore l'Œuf que
 la Professeure Bellis vous a confié.
+[common_widget/release_012] Terminez « Le WPM commence ! » dans l'intermède.
 [common_widget/release_013] Le Laboratoire Pokémon Bellis est
 débloqué après avoir fait éclore l'Œuf
 que la Professeur Bellis vous a confié.
 [common_widget/release_014] Disponible lors d'une prochaine mise à jour !
+[common_widget/release_018] Cet évènement est exclusif au mode coop.
+Pour débloquer le mode coop,
+terminez « Le WPM commence ! »
+dans l'intermède.
+[common_widget/release_019] Cet évènement est exclusif au mode coop.
+Vous pouvez accéder au mode coop
+en appuyant sur le bouton
+en haut de l'écran.
 [common_widget/egg_hatched_cutin_001] Oh ?!
 [common_widget/egg_hatched_cutin_002] Un [Name:PokemonName ] est
 sorti de l'Œuf !
@@ -21388,10 +22006,21 @@ del capitolo 2.
 [common_widget/release_009] Completa "Sconfiggi il Team Break!" del capitolo 2.
 [common_widget/release_010] Fai schiudere il primo Uovo ricevuto dalla Professoressa
 Bellisperia per sbloccare questa funzione.
+[common_widget/release_012] Si sblocca completando "Inizia il WPM!" del capitolo
+speciale 1 della storia.
 [common_widget/release_013] Fai schiudere il primo Uovo ricevuto
 dalla Professoressa Bellisperia
 per sbloccare il Laboratorio Pokémon.
 [common_widget/release_014] Disponibile in un aggiornamento futuro.
+[common_widget/release_018] Questo evento è disponibile solamente
+in modalità multigiocatore. Puoi sbloccare
+questa modalità completando "Inizia
+il WPM!" del capitolo speciale 1
+della storia.
+[common_widget/release_019] Questo evento è disponibile solamente
+in modalità multigiocatore. Puoi accedere
+a questa modalità toccando il pulsante
+"Gioca in compagnia" in alto a destra.
 [common_widget/egg_hatched_cutin_001] Oh!
 [common_widget/egg_hatched_cutin_002] Dall'Uovo è nato [Name:PokemonName ]!
 [common_widget/egg_detail_001] Inserisci un nome.
@@ -21855,10 +22484,22 @@ HARDクリアで解放
 クリアで解放
 [common_widget/release_010] 初めてヒナギク博士から預かった
 タマゴをかえすと解放
+[common_widget/release_012] メインストーリー幕間の物語１「開幕！　ＷＰＭ！」
+クリアで解放
 [common_widget/release_013] ヒナギクポケモン研究所は
 初めてヒナギク博士から預かった
 タマゴをかえすと解放されます
 [common_widget/release_014] 今後のアップデートで解放予定
+[common_widget/release_018] 「みんなであそぶ」専用イベントです
+
+「みんなであそぶ」は
+メインストーリー幕間の物語１
+「開幕！　ＷＰＭ！」クリアで解放されます
+[common_widget/release_019] 「みんなであそぶ」専用イベントです
+
+「みんなであそぶ」には
+画面上部のボタンから
+切り替えることができます
 [common_widget/egg_hatched_cutin_001] おや？
 [common_widget/egg_hatched_cutin_002] タマゴが　かえって
 [Name:PokemonName ]が　うまれた！
@@ -22320,10 +22961,22 @@ Lv.MAX
 클리어하면 해방
 [common_widget/release_010] 데이지박사에게 처음 받은 알을
 부화시키면 해방
+[common_widget/release_012] 메인 스토리 막간의 이야기1
+"개막! WPM!"을 클리어하면 해방
 [common_widget/release_013] 데이지 포켓몬 연구소는
 데이지박사에게 처음 받은
 알을 부화시키면 해방됩니다
 [common_widget/release_014] 추후 업데이트에서 해방될 예정입니다
+[common_widget/release_018] "멀티플레이" 전용 이벤트입니다
+
+"멀티플레이"는
+메인 스토리 막간의 이야기1
+"개막! WPM!"을 클리어하면 해방됩니다
+[common_widget/release_019] "멀티플레이" 전용 이벤트입니다
+
+"멀티플레이"를 하기 위해서는
+화면 위쪽의 버튼을 눌러서
+변경할 수 있습니다
 [common_widget/egg_hatched_cutin_001] 어라?
 [common_widget/egg_hatched_cutin_002] 알이 부화해서
 [Name:PokemonName ][Kor:Particle char="ga" ] 태어났다!
@@ -22755,10 +23408,19 @@ EX服裝！
 成功過關主線劇情第２章「打倒破壞隊！」
 [common_widget/release_010] 首次孵化雛菊博士給的蛋之後
 將會開放
+[common_widget/release_012] 成功過關主線劇情的中場故事１
+「ＷＰＭ開幕！」即可開放
 [common_widget/release_013] 雛菊寶可夢研究所將在
 首次孵化雛菊博士
 給的蛋之後開放
 [common_widget/release_014] 預定在今後的更新中開放
+[common_widget/release_018] 這是「多隊模式」專用活動
+
+成功過關主線劇情的中場故事１
+「ＷＰＭ開幕！」即可開放「多隊模式」
+[common_widget/release_019] 這是「多隊模式」專用活動
+透過畫面上方的按鈕
+即可切換成「多隊模式」
 [common_widget/egg_hatched_cutin_001] ……咦？
 [common_widget/egg_hatched_cutin_002] 蛋孵化成[Name:PokemonName ]了！
 [common_widget/egg_detail_001] 請輸入暱稱
@@ -30497,6 +31159,7 @@ shop_de.lsd
 [shop/shop_top_017] Ticket-G-Suche
 [shop/shop_top_018] Erhalte Gefährten z. B. durch Tickets!
 [shop/shop_top_019] Ticket-Gefährtensuche
+[shop/shop_top_020] Tausche Ausrüstung gegen Münzen und Items
 [shop/shop_common_001] Handelstransaktionen
 [shop/shop_common_002] Zahlungsgesetze
 [shop/shop_common_003] Kauflimit
@@ -30661,6 +31324,9 @@ Beliebige Gefährtensuche
 [shop/scout_015] Erscheinungsrate
 [shop/scout_017] Gefährtensuche-Punkte
 [shop/scout_018] Aktuelle Gefährtensuche-Punkte
+[shop/scout_019] Wenn du das Punkte-Maximum
+erreichst, kannst du nach einem
+beliebigen Gefährtengespann suchen!
 [shop/scout_020] Mit Bonus
 [shop/scout_021] Bestätigen
 [shop/scout_022] [Digit:4digits ] Juwelen einsetzen,
@@ -31030,6 +31696,13 @@ rückgängig gemacht werden.
 [shop/deck_item_sale_014] Ausrüstung wurde eingetauscht!
 [shop/deck_item_sale_015] OK
 [shop/deck_item_sale_016] Du hast keine eintauschbare Ausrüstung.
+[shop/deck_item_sale_017] Erhalte je nach dem aktuellen und maximalen
+Level der getauschten Ausrüstung weitere Items.
+[shop/deck_item_sale_018] Zu löschende Items
+[shop/deck_item_sale_019] Maximales Speicherlimit überschritten.
+Items, die das maximale Limit
+überschreiten, werden gelöscht.
+Möchtest du dennoch damit fortfahren?
 [shop/catalogue_001] Eier-Forschungsitem
 [shop/catalogue_002] Gekaufte Juwelen
 [shop/catalogue_003] Gekauft
@@ -31061,6 +31734,7 @@ shop_en.lsd
 [shop/shop_top_017] Ticket Scout
 [shop/shop_top_018] Team up with sync pairs using tickets, etc.
 [shop/shop_top_019] Ticket Scout
+[shop/shop_top_020] Exchange unwanted gear for items and coins
 [shop/shop_common_001] Commercial Transactions
 [shop/shop_common_002] Payment Laws
 [shop/shop_common_003] Purchase Limits
@@ -31220,6 +31894,8 @@ Scout the sync pair you want!
 [shop/scout_015] Offering Rate
 [shop/scout_017] Scout Points
 [shop/scout_018] Current Scout Points
+[shop/scout_019] When you reach the max, you can
+scout any one sync pair you want!
 [shop/scout_020] Bonus
 [shop/scout_021] Confirm
 [shop/scout_022] Do you want to use [Digit:4digits ] gems
@@ -31458,6 +32134,12 @@ or meeting certain requirements mid-battle.
 [shop/deck_item_sale_014] You exchanged your gear!
 [shop/deck_item_sale_015] OK
 [shop/deck_item_sale_016] You don’t have any gear to exchange.
+[shop/deck_item_sale_017] More items can be received based on the current
+level and maximum level of the exchanged gear.
+[shop/deck_item_sale_018] Items to Be Deleted
+[shop/deck_item_sale_019] Maximum storage limit exceeded.
+Items that exceed the maximum limit will be deleted.
+Do you wish to proceed?
 [shop/catalogue_001] Egg Research Items
 [shop/catalogue_002] Paid Gems
 [shop/catalogue_003] Purchased
@@ -31490,6 +32172,7 @@ shop_es.lsd
 [shop/shop_top_017] Reclutamiento billete
 [shop/shop_top_018] Usa billetes para obtener compis.
 [shop/shop_top_019] Reclutamiento billete
+[shop/shop_top_020] Canjea accesorios por objetos y monedas
 [shop/shop_common_001] Transacciones comerciales específicas
 [shop/shop_common_002] Legislación relativa a los pagos
 [shop/shop_common_003] Límite de compra
@@ -31651,6 +32334,9 @@ reclut.
 [shop/scout_015] Tasas de aparición
 [shop/scout_017] Puntos reclutamiento
 [shop/scout_018] Puntos de reclutamiento actuales
+[shop/scout_019] Cuando alcances el máximo, podrás
+reclutar a la pareja de compis que
+elijas.
 [shop/scout_020] ¡Con bonus!
 [shop/scout_021] Confirmar
 [shop/scout_022] ¿Quieres gastar [Digit:4digits ] joyas en diez reclutamientos de compis?
@@ -31851,6 +32537,9 @@ situaciones de combate.
 [shop/deck_item_sale_014] ¡El canje se ha completado con éxito!
 [shop/deck_item_sale_015] Vale
 [shop/deck_item_sale_016] No tienes accesorios que puedas canjear.
+[shop/deck_item_sale_017] Nota: Puedes recibir más objetos en función de los niveles actual y máximo de los accesorios que canjees.
+[shop/deck_item_sale_018] Objetos que se van a descartar
+[shop/deck_item_sale_019] Has superado el máximo de uno o varios objetos. Los objetos por encima del límite se van a descartar. ¿Quieres continuar?
 [shop/catalogue_001] Objetos de investigación
 [shop/catalogue_002] Joyas de pago
 [shop/catalogue_003] Comprado
@@ -31883,6 +32572,7 @@ shop_fr.lsd
 [shop/shop_top_017] Appel Duo avec Bons
 [shop/shop_top_018] Vous pouvez obtenir des Duos en utilisant des Bons, etc.
 [shop/shop_top_019] Appel Duo avec Bons
+[shop/shop_top_020] Échangez votre équipement contre objets et Pièces.
 [shop/shop_common_001] Transactions commerciales spécifiées
 [shop/shop_common_002] Lois relatives aux paiements
 [shop/shop_common_003] Limite d'achat
@@ -32042,6 +32732,9 @@ Appelez le Duo de votre choix !
 [shop/scout_015] Chances d'obtention
 [shop/scout_017] Points d'Appel Duo
 [shop/scout_018] Vos Points d'Appel Duo :
+[shop/scout_019] Quand vous aurez atteint le maximum
+de points, vous pourrez appeler le Duo
+de votre choix.
 [shop/scout_020] Bonus inclus
 [shop/scout_021] Confirmation
 [shop/scout_022] Voulez-vous utiliser [Digit:4digits ] Diamants
@@ -32244,6 +32937,11 @@ de la capacité Duo d'origine qui sera rejouée.
 [shop/deck_item_sale_014] Vous avez échangé votre équipement.
 [shop/deck_item_sale_015] OK
 [shop/deck_item_sale_016] Aucun équipement à échanger.
+[shop/deck_item_sale_017] Vous pouvez recevoir plus d'objets en fonction du niveau actuel et maximum de l'équipement que vous échangez.
+[shop/deck_item_sale_018] Objets à supprimer
+[shop/deck_item_sale_019] Vous avez atteint la limite.
+Le surplus sera supprimé.
+Souhaitez-vous continuer ?
 [shop/catalogue_001] Objets d'Études
 [shop/catalogue_002] Payants
 [shop/catalogue_003] Achetés
@@ -32276,6 +32974,7 @@ shop_it.lsd
 [shop/shop_top_017] Unicerca con ticket
 [shop/shop_top_018] Puoi ottenere Unità con ticket e in altri modi.
 [shop/shop_top_019] Ricerca Unità con ticket
+[shop/shop_top_020] Scambio accessori con monete e materiali
 [shop/shop_common_001] Transazioni commerciali
 [shop/shop_common_002] Leggi relative ai pagamenti
 [shop/shop_common_003] Limiti di acquisto
@@ -32440,6 +33139,8 @@ Cerca un'Unità a piacere!
 [shop/scout_015] Tasso comparsa
 [shop/scout_017] Punti Unicerca
 [shop/scout_018] I tuoi punti Unicerca attuali
+[shop/scout_019] Quando raggiungerai il massimo dei
+punti, potrai cercare un'Unità a scelta!
 [shop/scout_020] Bonus incluso
 [shop/scout_021] Conferma
 [shop/scout_022] Vuoi usare [Digit:4digits ] gemme per fare
@@ -32711,6 +33412,12 @@ non potranno essere recuperati.
 [shop/deck_item_sale_014] Scambio effettuato con successo!
 [shop/deck_item_sale_015] Ok
 [shop/deck_item_sale_016] Non hai accessori da scambiare
+[shop/deck_item_sale_017] La quantità di materiali ottenuti aumenta in base
+al livello attuale e massimo dell'accessorio.
+[shop/deck_item_sale_018] Alcuni strumenti verranno eliminati
+[shop/deck_item_sale_019] Hai raggiunto il limite massimo per
+alcuni strumenti, che pertanto verranno
+eliminati. Vuoi continuare?
 [shop/catalogue_001] Strumenti ricerca Uova
 [shop/catalogue_002] Gemme a pagamento
 [shop/catalogue_003] Acquistati
@@ -32743,6 +33450,7 @@ shop_ja.lsd
 [shop/shop_top_017] チケット専用バディーズサーチ
 [shop/shop_top_018] チケット等を使ってバディーズを獲得できます
 [shop/shop_top_019] チケット専用バディーズサーチ
+[shop/shop_top_020] 装備を売却して素材やコインと交換できます
 [shop/shop_common_001] 特定商取引に基づく表示
 [shop/shop_common_002] 資金決済法に基づく表示
 [shop/shop_common_003] 課金上限／残高について
@@ -32909,6 +33617,9 @@ ONにしてください
 [shop/scout_015] 提供割合
 [shop/scout_017] バディーズサーチポイント
 [shop/scout_018] 現在のバディーズサーチポイント
+[shop/scout_019] マックスになると
+好きなバディーズ１体を
+サーチできます！
 [shop/scout_020] おまけ付き
 [shop/scout_021] 確認
 [shop/scout_022] ダイヤを[Digit:4digits ]個消費して
@@ -33176,6 +33887,13 @@ STEPによってはプレゼントが設定されている場合があります�
 [shop/deck_item_sale_014] 装備を売却しました！
 [shop/deck_item_sale_015] OK
 [shop/deck_item_sale_016] 売却できる装備がありません
+[shop/deck_item_sale_017] ※売却する装備のレベルと上限レベルが高いほど
+獲得できる素材の量が増加します
+[shop/deck_item_sale_018] 破棄されるもの
+[shop/deck_item_sale_019] 所持上限を超えています
+
+超過分は破棄されますが
+よろしいですか？
 [shop/catalogue_001] タマゴ研究応援どうぐ
 [shop/catalogue_002] 有償
 [shop/catalogue_003] 購入
@@ -33207,6 +33925,7 @@ shop_ko.lsd
 [shop/shop_top_017] 티켓 전용 버디즈서치
 [shop/shop_top_018] 티켓 등을 사용해서 버디즈를 획득할 수 있습니다
 [shop/shop_top_019] 티켓 전용 버디즈서치
+[shop/shop_top_020] 장비를 판매하여 소재나 코인과 교환할 수 있습니다
 [shop/shop_common_001] 일본 특정상거래법에 의거하는 표기
 [shop/shop_common_002] 일본 자금결제법에 의거하는 표기
 [shop/shop_common_003] 과금상한 및 잔액에 대하여
@@ -33370,6 +34089,9 @@ ON으로 바꿔주십시오
 [shop/scout_015] 제공 확률
 [shop/scout_017] 버디즈서치 포인트
 [shop/scout_018] 현재 버디즈서치 포인트
+[shop/scout_019] 최대치가 되면
+좋아하는 버디즈 하나를
+찾을 수 있습니다!
 [shop/scout_020] 추가 증정
 [shop/scout_021] 확인
 [shop/scout_022] 다이아를 [Digit:4digits ]개 사용하여
@@ -33562,7 +34284,7 @@ Lv.[Digit:1digit ][Kor:Particle char="ga" ] 되었습니다
 [shop/scout_112] 대상 버디즈
 [shop/scout_113] 획득 [Digit:2digits ]번째의 선물
 [shop/scout_114] ※선물은 프레젠트박스의
-"임시보관"에서 받을 수 있습니다.
+"임시보관"에서 받을 수 있습니다
 [shop/scout_116] 스페셜 11연속 버디즈서치
 [shop/scout_117] 선물 목록
 [shop/scout_118] 획득 [Digit:2digits ]번째 이후의 선물
@@ -33659,6 +34381,12 @@ STEP에 따라서는 선물이 포함된 경우가 있습니다.
 [shop/deck_item_sale_014] 장비를 판매하였습니다!
 [shop/deck_item_sale_015] OK
 [shop/deck_item_sale_016] 판매할 수 있는 장비가 없습니다
+[shop/deck_item_sale_017] 판매할 장비의 레벨과 상한 레벨이 높을수록
+얻을 수 있는 소재의 양이 증가합니다
+[shop/deck_item_sale_018] 파기 목록
+[shop/deck_item_sale_019] 보유 상한을 넘었습니다
+초과한 분량은 파기됩니다만
+괜찮겠습니까?
 [shop/catalogue_001] 알 연구 응원 도구
 [shop/catalogue_002] 유료
 [shop/catalogue_003] 구입
@@ -33690,6 +34418,7 @@ shop_zh-TW.lsd
 [shop/shop_top_017] 票券專用拍組搜尋
 [shop/shop_top_018] 使用票券等道具可獲得拍組
 [shop/shop_top_019] 票券專用拍組搜尋
+[shop/shop_top_020] 可出售裝備來交換成材料或金幣
 [shop/shop_common_001] 基於特定商業交易法顯示內容
 [shop/shop_common_002] 基於資金結算法顯示內容
 [shop/shop_common_003] 關於消費額上限／餘額
@@ -33844,6 +34573,8 @@ shop_zh-TW.lsd
 [shop/scout_015] 提供比例
 [shop/scout_017] 拍組搜尋點數
 [shop/scout_018] 目前的拍組搜尋點數
+[shop/scout_019] 點數全滿後
+即可搜尋１對喜歡的拍組！
 [shop/scout_020] 附贈品
 [shop/scout_021] 確認
 [shop/scout_022] 確定要消耗[Digit:4digits ]個鑽石
@@ -34074,6 +34805,11 @@ shop_zh-TW.lsd
 [shop/deck_item_sale_014] 裝備已售出！
 [shop/deck_item_sale_015] OK
 [shop/deck_item_sale_016] 沒有可以出售的裝備
+[shop/deck_item_sale_017] ※出售裝備時，裝備的等級與上限等級越高
+可獲得的材料數量就會增加得越多
+[shop/deck_item_sale_018] 作廢物品
+[shop/deck_item_sale_019] 超過持有上限
+確定要將過量的物品作廢嗎？
 [shop/catalogue_001] 蛋研究聲援道具
 [shop/catalogue_002] 付費
 [shop/catalogue_003] 購買
@@ -34295,8 +35031,7 @@ um diesen Service nutzen zu können.
 [title/title_029] [Name:TitleName ]
 (im Folgenden „die App“ genannt)
 nutzt Nutzungsdaten und persönliche Daten wie in
-der <attr color='E27707'>Datenschutzbestimmung</attr> angegeben. Bitte lies sie
-dir durch und stimme zu.
+der <attr color='E27707'>Datenschutzbestimmung</attr> angegeben.
 <attr color='EB1414'>Du kannst deine Einstellungen später ändern.</attr>
 [title/title_030] Datennutzung für Spielmitteilungen
 [title/title_031] Wir nutzen Informationen zu deiner Nutzung
@@ -34820,9 +35555,8 @@ and Privacy Policy to use this service.
 [title/title_029] In [Name:TitleName ] (henceforth, this app),
 your usage data and personal data may be
 collected for the reasons indicated in the
-<attr color='E27707'>Privacy Policy</attr>. Please check the contents below
-and agree.
-<attr color='EB1414'>Note: You can change your settings later.</attr>
+<attr color='E27707'>privacy policy</attr>.
+<attr color='EB1414'>You can change your settings later.</attr>
 [title/title_030] Data Usage for In-Game Notifications
 [title/title_031] We will use information about your usage of
 this app to send relevant advertisements and
@@ -35334,7 +36068,6 @@ necesario aceptar el EULA.
 [title/title_028] Información personal
 [title/title_029] En [Name:TitleName ] (la "aplicación"), es posible que se recopilen tus datos de uso e información personal por los motivos indicados en la
 <attr color='E27707'>política de privacidad</attr>.
-Lee la información que se muestra a continuación y acepta los términos.
 <attr color='EB1414'>Nota: Podrás modificar los ajustes más adelante.</attr>
 [title/title_030] Uso de datos para notificaciones
 [title/title_031] Utilizaremos la información acerca del uso
@@ -35854,7 +36587,6 @@ utiliser ce service.
 vos données d'utilisation et personnelles peuvent
 être recueillies pour les raisons indiquées dans la
 <attr color='E27707'>politique de confidentialité</attr>.
-Veuillez lire et accepter les termes ci-dessous.
 <attr color='EB1414'>Remarque : vous pourrez changer vos paramètres
 plus tard.</attr>
 [title/title_030] Utilisation des données pour les notifications
@@ -36395,7 +37127,6 @@ e l'informativa sulla privacy.
 [title/title_029] In "[Name:TitleName ]" (di seguito, "l'app"), i dati
 personali e di utilizzo potrebbero essere raccolti
 per i fini indicati nell'<attr color='E27707'>informativa sulla privacy</attr>.
-Si prega di leggere e accettare i punti seguenti.
 <attr color='EB1414'>La scelta potrà essere modificata in seguito.</attr>
 [title/title_030] Uso dei dati nelle notifiche interne al gioco
 [title/title_031] Le informazioni di utilizzo dell'app verranno
@@ -36928,7 +37659,6 @@ title_ja.lsd
 [title/title_029] 「[Name:TitleName ]（以下当アプリ）」では
 <attr color='E27707'>プライバシーポリシー</attr>に基づく以下の目的で
 お客様のご利用データ・個人データを取得します
-以下の内容をご確認のうえ同意をお願いします
 <attr color='EB1414'>※後からも設定は変更できます</attr>
 [title/title_030] ゲーム内のお知らせでのデータ利用
 [title/title_031] お客様の当アプリでのご利用情報を
@@ -37480,7 +38210,6 @@ title_ko.lsd
 [title/title_029] "[Name:TitleName ](이하 앱)"에서는
 <attr color='E27707'>개인정보 처리방침</attr>에 근거하여 아래의 목적으로
 고객님의 이용 데이터와 개인정보를 취득합니다
-이하의 내용을 확인한 후 동의하여 주십시오
 <attr color='EB1414'>※이후에도 설정은 변경할 수 있습니다</attr>
 [title/title_030] 게임 내 알림으로 데이터 이용
 [title/title_031] 고객님의 본 앱에서의 이용 정보를
@@ -37998,7 +38727,6 @@ title_zh-TW.lsd
 [title/title_029] 「[Name:TitleName ]（下稱本應用程式）」
 將基於<attr color='E27707'>隱私權政策</attr>，以下列目的
 取得用戶的使用資訊和個人資訊
-請確認並同意下方內容
 <attr color='EB1414'>※此設定以後仍可更改</attr>
 [title/title_030] 在遊戲通知中使用個人資訊
 [title/title_031] 用戶在本應用程式內的使用資訊
