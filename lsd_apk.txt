@@ -847,10 +847,12 @@ leichter sammeln kannst.
 Team eine Attackenleiste.
 Konzentriere dich auf sehr effektive
 Attacken!
-[100034] Achte beim Zusammenstellen
-deines Teams darauf, Gefährten
-mit Attacken des für das Abenteuer
-empfohlenen Typs zu wählen!
+[100034] Für jedes Abenteuer gilt beim
+Zusammenstellen deines Teams
+darauf zu achten, Gefährten zu
+wählen, deren Attacken sich die
+Typenschwäche von Gegnern
+zunutze machen!
 [100035] Setze Gefährtenattacken entweder
 gegen starke Gegner ein oder
 gegen Gegner, bei denen sie sehr
@@ -1056,10 +1058,10 @@ your sync pairs.
 gauge in single-player battles.
 Try to focus your strategy around
 supereffective moves!
-[100034] Each area has different
-recommended types. Make sure
-you edit your team to match
-those recommendations!
+[100034] Each area has different weakness
+types. Make sure you edit your
+team to have moves that match
+those types!
 [100035] Choose your targets wisely!
 Whether you win or lose may
 come down to how you use
@@ -1297,7 +1299,7 @@ de movimientos. ¡Céntrate en usar
 tantos movimientos supereficaces
 como puedas!
 [100034] ¡Es fundamental prestar atención
-a los tipos recomendados de cada
+a las debilidades del rival en cada
 ubicación para elegir la formación
 adecuada!
 [100035] Utiliza los movimientos compi
@@ -1546,10 +1548,11 @@ Concentrez-vous sur les
 adversaires contre lesquels
 vous avez l'avantage de type !
 [100034] La base d'une bonne équipe,
-c'est d'avoir des Duos ayant des
-capacités du type recommandé
-pour l'aventure dans laquelle
-vous souhaitez vous lancer !
+c'est d'avoir des Duos ayant
+des capacités dont le type aura
+l'avantage lors de la prochaine
+aventure dans laquelle vous
+vous lancerez !
 [100035] Utilisez vos capacités Duos sur
 les adversaires faibles face au
 type de la capacité !
@@ -1791,9 +1794,10 @@ la barra mosse è condivisa tra tutti
 i membri della squadra!
 Sferra mosse superefficaci verso
 gli avversari!
-[100034] È fondamentale mettere in squadra
-Unità con mosse dei tipi consigliati
-per ogni avventura!
+[100034] Per ogni avventura è fondamentale
+mettere in squadra Unità con
+mosse che sfruttano i punti deboli
+degli avversari!
 [100035] L'uso dell'Unimossa può decidere
 l'esito della lotta! Sferrala quando
 fronteggi nemici fortissimi o
@@ -1993,7 +1997,7 @@ loading_tips_description_ja.lsd
 チーム全員で　共通だ！
 相手に　こうかばつぐんが取れる
 わざを　中心に　戦ってみよう！
-[100034] ぼうけんごとの　おすすめタイプに
+[100034] ぼうけんごとの　じゃくてんタイプに
 一致したわざを持つ　バディーズで
 チームを作るのが　編成の基本だ！
 [100035] バディーズわざでの　攻撃は　強敵や
@@ -2183,7 +2187,7 @@ HP가 줄어드는 양이 점점 늘어납니다!
 팀 전원이 공유합니다!
 상대에게 효과가 굉장한 공격을 할 수 있는
 기술을 중심으로 싸워봅시다!
-[100034] 모험마다 있는 추천타입과
+[100034] 모험마다 있는 약점타입과
 같은 타입의 기술을 가진 버디즈로
 팀을 만드는 것이 편성의 기본입니다!
 [100035] 버디즈기술로 공격할 때는 강한 상대나
@@ -2362,7 +2366,7 @@ loading_tips_description_zh-TW.lsd
 對戰時，盡量使用能達到
 效果絕佳的招式吧！
 [100034] 編制隊伍的基本方式，
-就是依照每個冒險的推薦屬性，
+就是依照每個冒險的弱點屬性，
 選擇擁有合適招式的拍組！
 [100035] 將拍組招式的攻擊用在強敵
 或能取得效果絕佳的對手身上吧！
@@ -6200,6 +6204,98 @@ Top Vier
 [quest_group_title_10262000000] Rose
 [quest_group_title_10263000000] Olivia
 [quest_group_title_100109] Galar
+[quest_title_1040000030001011] Ein besonderer Tag mit
+Kalem (Teil 1)
+[quest_title_1040000030001021] Ein besonderer Tag mit
+Kalem (Teil 2)
+[quest_title_1030220247800000] Ein Tag mit Delion
+[quest_title_1030220243810000] Ein Tag mit Gloria
+[quest_title_1030220175000000] Ein Tag mit Astrid
+[quest_title_1030220155000000] Ein Tag mit Dracena
+[quest_title_1030220289000000] Ein Tag mit Nemila
+[quest_title_1030110000581000] Delions Wunsch
+[quest_title_1030110000581500] Vs. Roses Fans 5
+[quest_title_1030110000581100] Roses Methode
+[quest_title_1030110000581600] Vs. Roses Fans 6
+[quest_title_1030110000581200] Der Entscheidungskampf 
+beginnt!
+[quest_title_1030110000581700] Vs. Roses Fans 7
+[quest_title_1030110000581300] Auf wessen Seite?
+[quest_title_1030110000581800] Vs. Rose
+[quest_title_1030110000581400] Ein kleiner Schritt in Richtung
+Zukunft
+[quest_title_1030507000601010] Vs. Rüpel von Team Yell 1
+[quest_title_1030507000601020] Vs. Rüpel von Team Yell 2
+[quest_title_1030507000601030] Vs. Rüpel von Team Yell 3
+[quest_title_1030507000601040] Täglicher schwerer Kampf
+[quest_title_1030507000601050] Herausforderungskampf 1
+[quest_title_1030507000601060] Herausforderungskampf 2
+[quest_title_1030507000602010] Vs. MaMo-Delion
+[quest_title_1030507000602020] Vs. MaMo-Delion 2
+[quest_title_1030450700101010] Vs. Psycho-Gefährten
+[quest_title_1030450700102010] Vs. Gestein-Gefährten
+[quest_title_1030450700103010] Vs. Wasser-Gefährten
+[quest_title_1030450700104010] Vs. Drachen-Gefährten
+[quest_title_1030450700105010] Vs. Stahl-Gefährten
+[quest_title_1030450700106010] Vs. Feen-Gefährten
+[quest_title_1030450700107010] Vs. Pflanzen-Gefährten
+[quest_title_1030450700108010] Vs. Kampf-Gefährten
+[quest_title_1030450700109010] Vs. Normal-Gefährten
+[quest_title_1030450700110010] Vs. Elektro-Gefährten
+[quest_title_1030450700111010] Vs. Eis-Gefährten
+[quest_title_1030450700112010] Vs. Boden-Gefährten
+[quest_title_1030450700113010] Vs. Gift-Gefährten
+[quest_title_1030450700114010] Vs. Käfer-Gefährten
+[quest_title_1030450700115010] Vs. Geister-Gefährten
+[quest_title_1030450700116010] Vs. Flug-Gefährten
+[quest_title_1030450700117010] Vs. Unlicht-Gefährten
+[quest_title_1030450700118010] Vs. Feuer-Gefährten
+[quest_title_1030450700201010] Vs. Trainer aus Passio 1
+[quest_title_1030450700201011] Vs. Trainer aus Passio 2
+[quest_title_1030450700201012] Vs. Trainer aus Passio 3
+[quest_title_1030450700201013] Vs. Trainer aus Passio 4
+[quest_title_1030507000604000] Eine perfekte Gelegenheit
+[quest_title_1030507000604010] Aufregung pur!
+[quest_title_1030507000604050] Vs. Trainer aus Passio 1
+[quest_title_1030507000604020] Eine Vorliebe für Kämpfe
+[quest_title_1030507000604060] Vs. Trainer aus Passio 2
+[quest_title_1030507000604030] Ein Turnier?! Wahnsinn!
+[quest_title_1030507000604070] Vs. Trainer aus Passio 3
+[quest_title_1030507000604040] Gegner, Freunde und Rivalen
+[quest_title_1030507000604080] Vs. Trainer aus Passio 4
+[quest_title_1030507000604090] Täglicher schwerer Kampf
+[quest_title_1030507000604100] Herausforderungskampf 1
+[quest_title_1030507000604110] Herausforderungskampf 2
+[quest_title_1030507000603010] Nemilas Bitte
+[quest_title_1030507000603020] Vs. Nemila 1
+[quest_title_1030507000603030] Vs. Nemila 2
+[quest_title_1030507000603040] Vs. Nemila 3
+[quest_title_1030507000603050] Vs. Nemila 4
+[quest_title_1030507000603060] Vs. Nemila 5
+[quest_title_1030507000603070] Vs. Nemila 6
+[quest_title_1030507000603080] Vs. Nemila 7
+[quest_title_1030450700501010] Initiator-Intensivkurs 1
+[quest_title_1030450700502010] Initiator-Intensivkurs 2
+[quest_title_1030450700503010] Initiator-Intensivkurs 3
+[quest_title_1030450700504010] Initiator-Intensivkurs 4
+[quest_title_1030450700505010] Initiator-Intensivkurs 5
+[quest_title_1030450700506010] Initiator-Intensivkurs 6
+[quest_title_1030507000605000] Geheimnisvolles Ross
+[quest_title_1030507000605010] Vs. Sania 1
+[quest_title_1030507000605020] Vs. Sania 2
+[quest_title_1030507000605030] Vs. Sania 3
+[quest_title_1030507000605040] Vs. Sania 4
+[quest_title_1030450700601010] Feldwandler-Intensivkurs 1
+[quest_title_1030450700602010] Feldwandler-Intensivkurs 2
+[quest_title_1030450700603010] Feldwandler-Intensivkurs 3
+[quest_title_1030450700604010] Feldwandler-Intensivkurs 4
+[quest_title_1030450700605010] Feldwandler-Intensivkurs 5
+[quest_title_1030450700606010] Feldwandler-Intensivkurs 6
+[quest_group_title_10247800000] Delion (Variante)
+[quest_group_title_10243810000] Gloria (Variante 2)
+[quest_group_title_10175000000] Astrid
+[quest_group_title_10155000000] Dracena
+[quest_group_title_10289000000] Nemila
 
 ===========
 story_quest_name_en.lsd
@@ -9368,6 +9464,94 @@ Is Another’s Poison: Part 4
 [quest_group_title_10262000000] Rose
 [quest_group_title_10263000000] Oleana
 [quest_group_title_100109] Galar
+[quest_title_1040000030001011] A Special Day with Calem: Part 1
+[quest_title_1040000030001021] A Special Day with Calem: Part 2
+[quest_title_1030220247800000] A Day with Leon
+[quest_title_1030220243810000] A Day with Gloria
+[quest_title_1030220175000000] A Day with Olympia
+[quest_title_1030220155000000] A Day with Drasna
+[quest_title_1030220289000000] A Day with Nemona
+[quest_title_1030110000581000] Leon’s Wish
+[quest_title_1030110000581500] Challenge Rose’s Supporters: Part 5
+[quest_title_1030110000581100] Rose’s Methods
+[quest_title_1030110000581600] Challenge Rose’s Supporters: Part 6
+[quest_title_1030110000581200] The Decisive Battle Begins
+[quest_title_1030110000581700] Challenge Rose’s Supporters: Part 7
+[quest_title_1030110000581300] Taking Sides
+[quest_title_1030110000581800] Challenge Rose
+[quest_title_1030110000581400] A Small Step into the Future
+[quest_title_1030507000601010] Challenge the Team Yell Grunts: Part 1
+[quest_title_1030507000601020] Challenge the Team Yell Grunts: Part 2
+[quest_title_1030507000601030] Challenge the Team Yell Grunts: Part 3
+[quest_title_1030507000601040] Daily Extreme Battle 1
+[quest_title_1030507000601050] Battle Challenge! Round 1
+[quest_title_1030507000601060] Battle Challenge! Round 2
+[quest_title_1030507000602010] Challenge Sygna Suit Leon: Part 1
+[quest_title_1030507000602020] Challenge Sygna Suit Leon: Part 2
+[quest_title_1030450700101010] Challenge the Psychic Types
+[quest_title_1030450700102010] Challenge the Rock Types
+[quest_title_1030450700103010] Challenge the Water Types
+[quest_title_1030450700104010] Challenge the Dragon Types
+[quest_title_1030450700105010] Challenge the Steel Types
+[quest_title_1030450700106010] Challenge the Fairy Types
+[quest_title_1030450700107010] Challenge the Grass Types
+[quest_title_1030450700108010] Challenge the Fighting Types
+[quest_title_1030450700109010] Challenge the Normal Types
+[quest_title_1030450700110010] Challenge the Electric Types
+[quest_title_1030450700111010] Challenge the Ice Types
+[quest_title_1030450700112010] Challenge the Ground Types
+[quest_title_1030450700113010] Challenge the Poison Types
+[quest_title_1030450700114010] Challenge the Bug Types
+[quest_title_1030450700115010] Challenge the Ghost Types
+[quest_title_1030450700116010] Challenge the Flying Types
+[quest_title_1030450700117010] Challenge the Dark Types
+[quest_title_1030450700118010] Challenge the Fire Types
+[quest_title_1030450700201010] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030450700201011] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030450700201012] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030450700201013] Challenge Pasio’s Trainers: Part 4
+[quest_title_1030507000604000] Right Person, Right Place
+[quest_title_1030507000604010] Full of Excitement!
+[quest_title_1030507000604050] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030507000604020] A Fellow Battle Enthusiast
+[quest_title_1030507000604060] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030507000604030] The Best Stage Ever!
+[quest_title_1030507000604070] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030507000604040] Opponents, Friends, Rivals
+[quest_title_1030507000604080] Challenge Pasio’s Trainers: Part 4
+[quest_title_1030507000604090] Daily Extreme Battle 1
+[quest_title_1030507000604100] Battle Challenge! Round 1
+[quest_title_1030507000604110] Battle Challenge! Round 2
+[quest_title_1030507000603010] Nemona’s Request
+[quest_title_1030507000603020] Challenge Nemona: Part 1
+[quest_title_1030507000603030] Challenge Nemona: Part 2
+[quest_title_1030507000603040] Challenge Nemona: Part 3
+[quest_title_1030507000603050] Challenge Nemona: Part 4
+[quest_title_1030507000603060] Challenge Nemona: Part 5
+[quest_title_1030507000603070] Challenge Nemona: Part 6
+[quest_title_1030507000603080] Challenge Nemona: Part 7
+[quest_title_1030450700501010] Sprint Drill 1
+[quest_title_1030450700502010] Sprint Drill 2
+[quest_title_1030450700503010] Sprint Drill 3
+[quest_title_1030450700504010] Sprint Drill 4
+[quest_title_1030450700505010] Sprint Drill 5
+[quest_title_1030450700506010] Sprint Drill 6
+[quest_title_1030507000605000] A Mysterious Horse Pokémon
+[quest_title_1030507000605010] Challenge Sonia: Part 1
+[quest_title_1030507000605020] Challenge Sonia: Part 2
+[quest_title_1030507000605030] Challenge Sonia: Part 3
+[quest_title_1030507000605040] Challenge Sonia: Part 4
+[quest_title_1030450700601010] Field Drill 1
+[quest_title_1030450700602010] Field Drill 2
+[quest_title_1030450700603010] Field Drill 3
+[quest_title_1030450700604010] Field Drill 4
+[quest_title_1030450700605010] Field Drill 5
+[quest_title_1030450700606010] Field Drill 6
+[quest_group_title_10247800000] Leon (Alt.)
+[quest_group_title_10243810000] Gloria (Alt. 2)
+[quest_group_title_10175000000] Olympia
+[quest_group_title_10155000000] Drasna
+[quest_group_title_10289000000] Nemona
 
 ===========
 story_quest_name_es.lsd
@@ -12809,6 +12993,96 @@ armonía
 [quest_group_title_10262000000] Rose
 [quest_group_title_10263000000] Olivia
 [quest_group_title_100109] Trama de Galar
+[quest_title_1040000030001011] Un día especial con Kalm
+[quest_title_1040000030001021] Un día especial con Kalm (2)
+[quest_title_1030220247800000] Un día con Lionel
+[quest_title_1030220243810000] Un día con Gloria
+[quest_title_1030220175000000] Un día con Ástrid
+[quest_title_1030220155000000] Un día con Drácena
+[quest_title_1030220289000000] Un día con Mencía
+[quest_title_1030110000581000] La aspiración de Lionel
+[quest_title_1030110000581500] VS. Simpatizantes de Rose (5)
+[quest_title_1030110000581100] Los métodos de Rose
+[quest_title_1030110000581600] VS. Simpatizantes de Rose (6)
+[quest_title_1030110000581200] Comienza el combate decisivo
+[quest_title_1030110000581700] VS. Simpatizantes de Rose (7)
+[quest_title_1030110000581300] Eligiendo bando
+[quest_title_1030110000581800] VS. Rose
+[quest_title_1030110000581400] Un paso hacia el futuro
+[quest_title_1030507000601010] VS. Reclutas del Team Yell
+[quest_title_1030507000601020] VS. Reclutas del Team Yell (2)
+[quest_title_1030507000601030] VS. Reclutas del Team Yell (3)
+[quest_title_1030507000601040] ¡Un combate difícil al día!
+[quest_title_1030507000601050] ¡Un combate desafiante!
+[quest_title_1030507000601060] ¡Un combate desafiante! (2)
+[quest_title_1030507000602010] VS. Lionel (Traje S)
+[quest_title_1030507000602020] VS. Lionel (Traje S) (2)
+[quest_title_1030450700101010] Vs. compis de tipo Psíquico
+[quest_title_1030450700102010] VS. compis de tipo Roca
+[quest_title_1030450700103010] VS. compis de tipo Agua
+[quest_title_1030450700104010] VS. compis de tipo Dragón
+[quest_title_1030450700105010] VS. compis de tipo Acero
+[quest_title_1030450700106010] VS. compis de tipo Hada
+[quest_title_1030450700107010] VS. compis de tipo Planta
+[quest_title_1030450700108010] VS. compis de tipo Lucha
+[quest_title_1030450700109010] VS. compis de tipo Normal
+[quest_title_1030450700110010] VS. compis de tipo Eléctrico
+[quest_title_1030450700111010] VS. compis de tipo Hielo
+[quest_title_1030450700112010] VS. compis de tipo Tierra
+[quest_title_1030450700113010] VS. compis de tipo Veneno
+[quest_title_1030450700114010] VS. compis de tipo Bicho
+[quest_title_1030450700115010] VS. compis de tipo Fantasma
+[quest_title_1030450700116010] VS. compis de tipo Volador
+[quest_title_1030450700117010] VS. compis de tipo Siniestro
+[quest_title_1030450700118010] VS. compis de tipo Fuego
+[quest_title_1030450700201010] VS. Entrenadores de Passio
+[quest_title_1030450700201011] VS. Entrenadores de Passio (2)
+[quest_title_1030450700201012] VS. Entrenadores de Passio (3)
+[quest_title_1030450700201013] VS. Entrenadores de Passio (4)
+[quest_title_1030507000604000] La persona indicada en el
+lugar indicado
+[quest_title_1030507000604010] ¡Qué perspectiva tan
+emocionante!
+[quest_title_1030507000604050] VS. Entrenadores de Passio
+[quest_title_1030507000604020] Una entusiasta de los combates
+[quest_title_1030507000604060] VS. Entrenadores de Passio (2)
+[quest_title_1030507000604030] ¡¿Un torneo?! ¡Qué pasada!
+[quest_title_1030507000604070] VS. Entrenadores de Passio (3)
+[quest_title_1030507000604040] Oponentes, amigos y rivales
+[quest_title_1030507000604080] VS. Entrenadores de Passio (4)
+[quest_title_1030507000604090] ¡Un combate difícil al día!
+[quest_title_1030507000604100] ¡Un combate desafiante!
+[quest_title_1030507000604110] ¡Un combate desafiante! (2)
+[quest_title_1030507000603010] La petición de Mencía
+[quest_title_1030507000603020] VS. Mencía
+[quest_title_1030507000603030] VS. Mencía (2)
+[quest_title_1030507000603040] VS. Mencía (3)
+[quest_title_1030507000603050] VS. Mencía (4)
+[quest_title_1030507000603060] VS. Mencía (5)
+[quest_title_1030507000603070] VS. Mencía (6)
+[quest_title_1030507000603080] VS. Mencía (7)
+[quest_title_1030450700501010] Entrenamiento de Velocidad 1
+[quest_title_1030450700502010] Entrenamiento de Velocidad 2
+[quest_title_1030450700503010] Entrenamiento de Velocidad 3
+[quest_title_1030450700504010] Entrenamiento de Velocidad 4
+[quest_title_1030450700505010] Entrenamiento de Velocidad 5
+[quest_title_1030450700506010] Entrenamiento de Velocidad 6
+[quest_title_1030507000605000] Un enigmático Pokémon corcel
+[quest_title_1030507000605010] VS. Sonia
+[quest_title_1030507000605020] VS. Sonia (2)
+[quest_title_1030507000605030] VS. Sonia (3)
+[quest_title_1030507000605040] VS. Sonia (4)
+[quest_title_1030450700601010] Entrenamiento de Entorno 1
+[quest_title_1030450700602010] Entrenamiento de Entorno 2
+[quest_title_1030450700603010] Entrenamiento de Entorno 3
+[quest_title_1030450700604010] Entrenamiento de Entorno 4
+[quest_title_1030450700605010] Entrenamiento de Entorno 5
+[quest_title_1030450700606010] Entrenamiento de Entorno 6
+[quest_group_title_10247800000] Lionel (Torre Batalla)
+[quest_group_title_10243810000] Gloria (Aspirante)
+[quest_group_title_10175000000] Ástrid
+[quest_group_title_10155000000] Drácena
+[quest_group_title_10289000000] Mencía
 
 ===========
 story_quest_name_fr.lsd
@@ -16606,6 +16880,134 @@ Kiawe et Barbara IV
 [quest_group_title_10262000000] Shehroz
 [quest_group_title_10263000000] Liv
 [quest_group_title_100109] Galar
+[quest_title_1040000030001011] Une journée spéciale
+avec Kalem
+[quest_title_1040000030001021] Une journée spéciale
+avec Kalem II
+[quest_title_1030220247800000] Une journée avec Tarak
+[quest_title_1030220243810000] Une journée avec Gloria
+[quest_title_1030220175000000] Une journée avec Astera
+[quest_title_1030220155000000] Une journée avec Dracéna
+[quest_title_1030220289000000] Une journée avec Menzi
+[quest_title_1030110000581000] Le souhait de Tarak
+[quest_title_1030110000581500] Combat :
+Admiratrices de Shehroz V
+[quest_title_1030110000581100] Les méthodes de Shehroz
+[quest_title_1030110000581600] Combat :
+Admiratrices de Shehroz VI
+[quest_title_1030110000581200] Le combat décisif commence
+[quest_title_1030110000581700] Combat :
+Admiratrices de Shehroz VII
+[quest_title_1030110000581300] Parti pris
+[quest_title_1030110000581800] Combat : Shehroz
+[quest_title_1030110000581400] Un pas vers le futur
+[quest_title_1030507000601010] Combat : Sbires Team Yell
+[quest_title_1030507000601020] Combat :
+Sbires Team Yell II
+[quest_title_1030507000601030] Combat :
+Sbires Team Yell III
+[quest_title_1030507000601040] Combat difficile limité
+à une fois par jour !
+[quest_title_1030507000601050] Combat difficile
+[quest_title_1030507000601060] Combat difficile II
+[quest_title_1030507000602010] Combat : Tarak
+(Look Ultime)
+[quest_title_1030507000602020] Combat : Tarak
+(Look Ultime) II
+[quest_title_1030450700101010] Combat : Duos
+de type Psy
+[quest_title_1030450700102010] Combat : Duos
+de type Roche
+[quest_title_1030450700103010] Combat : Duos
+de type Eau
+[quest_title_1030450700104010] Combat : Duos
+de type Dragon
+[quest_title_1030450700105010] Combat : Duos
+de type Acier
+[quest_title_1030450700106010] Combat : Duos
+de type Fée
+[quest_title_1030450700107010] Combat : Duos
+de type Plante
+[quest_title_1030450700108010] Combat : Duos
+de type Combat
+[quest_title_1030450700109010] Combat : Duos
+de type Normal
+[quest_title_1030450700110010] Combat : Duos
+de type Électrik
+[quest_title_1030450700111010] Combat : Duos
+de type Glace
+[quest_title_1030450700112010] Combat : Duos
+de type Sol
+[quest_title_1030450700113010] Combat : Duos
+de type Poison
+[quest_title_1030450700114010] Combat : Duos
+de type Insecte
+[quest_title_1030450700115010] Combat : Duos
+de type Spectre
+[quest_title_1030450700116010] Combat : Duos
+de type Vol
+[quest_title_1030450700117010] Combat : Duos
+de type Ténèbres
+[quest_title_1030450700118010] Combat : Duos
+de type Feu
+[quest_title_1030450700201010] Combat : Dresseurs de Passio
+[quest_title_1030450700201011] Combat :
+Dresseurs de Passio II
+[quest_title_1030450700201012] Combat :
+Dresseurs de Passio III
+[quest_title_1030450700201013] Combat :
+Dresseurs de Passio IV
+[quest_title_1030507000604000] La bonne personne au bon
+endroit et au bon moment
+[quest_title_1030507000604010] Impossible de tenir
+en place !
+[quest_title_1030507000604050] Combat : Dresseurs de Passio
+[quest_title_1030507000604020] Une autre passionnée
+de combat
+[quest_title_1030507000604060] Combat :
+Dresseurs de Passio II
+[quest_title_1030507000604030] Un impressionnant public
+à impressionner
+[quest_title_1030507000604070] Combat :
+Dresseurs de Passio III
+[quest_title_1030507000604040] Adversaires, amis, rivaux
+[quest_title_1030507000604080] Combat :
+Dresseurs de Passio IV
+[quest_title_1030507000604090] Combat difficile limité
+à une fois par jour !
+[quest_title_1030507000604100] Combat difficile
+[quest_title_1030507000604110] Combat difficile II
+[quest_title_1030507000603010] La requête de Menzi
+[quest_title_1030507000603020] Combat : Menzi
+[quest_title_1030507000603030] Combat : Menzi II
+[quest_title_1030507000603040] Combat : Menzi III
+[quest_title_1030507000603050] Combat : Menzi IV
+[quest_title_1030507000603060] Combat : Menzi V
+[quest_title_1030507000603070] Combat : Menzi VI
+[quest_title_1030507000603080] Combat : Menzi VII
+[quest_title_1030450700501010] Exercice Accélérateur I
+[quest_title_1030450700502010] Exercice Accélérateur II
+[quest_title_1030450700503010] Exercice Accélérateur III
+[quest_title_1030450700504010] Exercice Accélérateur IV
+[quest_title_1030450700505010] Exercice Accélérateur V
+[quest_title_1030450700506010] Exercice Accélérateur VI
+[quest_title_1030507000605000] Un Pokémon cheval
+sombre et mystérieux
+[quest_title_1030507000605010] Combat : Sonya
+[quest_title_1030507000605020] Combat : Sonya II
+[quest_title_1030507000605030] Combat : Sonya III
+[quest_title_1030507000605040] Combat : Sonya IV
+[quest_title_1030450700601010] Exercice Régisseur I
+[quest_title_1030450700602010] Exercice Régisseur II
+[quest_title_1030450700603010] Exercice Régisseur III
+[quest_title_1030450700604010] Exercice Régisseur IV
+[quest_title_1030450700605010] Exercice Régisseur V
+[quest_title_1030450700606010] Exercice Régisseur VI
+[quest_group_title_10247800000] Tarak (Alternatif)
+[quest_group_title_10243810000] Gloria (Challenger)
+[quest_group_title_10175000000] Astera
+[quest_group_title_10155000000] Dracéna
+[quest_group_title_10289000000] Menzi
 
 ===========
 story_quest_name_it.lsd
@@ -19593,7 +19995,7 @@ story_quest_name_it.lsd
 [quest_group_title_10034100000] Rika Costumax
 [quest_group_title_10007100000] Malpi Costumax
 [quest_group_title_10160100000] Suiren Costumax
-[quest_group_title_100108] Capitolo di Alola
+[quest_group_title_100108] Alola
 [quest_title_1040002840001011] Un giorno speciale con Damon (1ª parte)
 [quest_title_1040002840001021] Un giorno speciale con Damon (2ª parte)
 [quest_title_1030505000601000] Uno squarcio nel cielo
@@ -19712,6 +20114,94 @@ story_quest_name_it.lsd
 [quest_group_title_10262000000] Rose
 [quest_group_title_10263000000] Olive
 [quest_group_title_100109] Galar
+[quest_title_1040000030001011] Un giorno speciale con Calem (1ª parte)
+[quest_title_1040000030001021] Un giorno speciale con Calem (2ª parte)
+[quest_title_1030220247800000] Un giorno con Dandel (alternativo)
+[quest_title_1030220243810000] Un giorno con Gloria (alternativo 2)
+[quest_title_1030220175000000] Un giorno con Astra
+[quest_title_1030220155000000] Un giorno con Lilia
+[quest_title_1030220289000000] Un giorno con Nemi
+[quest_title_1030110000581000] La speranza di Dandel
+[quest_title_1030110000581500] VS sostenitrici di Rose 5
+[quest_title_1030110000581100] Il modo di fare di Rose
+[quest_title_1030110000581600] VS sostenitrici di Rose 6
+[quest_title_1030110000581200] La resa dei conti
+[quest_title_1030110000581700] VS sostenitrici di Rose 7
+[quest_title_1030110000581300] I due schieramenti
+[quest_title_1030110000581800] VS Rose
+[quest_title_1030110000581400] Un passo verso il futuro
+[quest_title_1030507000601010] VS Reclute del Team Yell
+[quest_title_1030507000601020] VS Reclute del Team Yell 2
+[quest_title_1030507000601030] VS Reclute del Team Yell 3
+[quest_title_1030507000601040] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030507000601050] Sfida ad alta difficoltà
+[quest_title_1030507000601060] Sfida ad alta difficoltà 2
+[quest_title_1030507000602010] VS Dandel Costumax
+[quest_title_1030507000602020] VS Dandel Costumax 2
+[quest_title_1030450700101010] VS Unità di tipo Psico
+[quest_title_1030450700102010] VS Unità di tipo Roccia
+[quest_title_1030450700103010] VS Unità di tipo Acqua
+[quest_title_1030450700104010] VS Unità di tipo Drago
+[quest_title_1030450700105010] VS Unità di tipo Acciaio
+[quest_title_1030450700106010] VS Unità di tipo Folletto
+[quest_title_1030450700107010] VS Unità di tipo Erba
+[quest_title_1030450700108010] VS Unità di tipo Lotta
+[quest_title_1030450700109010] VS Unità di tipo Normale
+[quest_title_1030450700110010] VS Unità di tipo Elettro
+[quest_title_1030450700111010] VS Unità di tipo Ghiaccio
+[quest_title_1030450700112010] VS Unità di tipo Terra
+[quest_title_1030450700113010] VS Unità di tipo Veleno
+[quest_title_1030450700114010] VS Unità di tipo Coleottero
+[quest_title_1030450700115010] VS Unità di tipo Spettro
+[quest_title_1030450700116010] VS Unità di tipo Volante
+[quest_title_1030450700117010] VS Unità di tipo Buio
+[quest_title_1030450700118010] VS Unità di tipo Fuoco
+[quest_title_1030450700201010] VS Allenatori di Pasio
+[quest_title_1030450700201011] VS Allenatori di Pasio 2
+[quest_title_1030450700201012] VS Allenatori di Pasio 3
+[quest_title_1030450700201013] VS Allenatori di Pasio 4
+[quest_title_1030507000604000] Nel posto giusto
+[quest_title_1030507000604010] Non sto nella pelle!
+[quest_title_1030507000604050] VS Allenatori di Pasio
+[quest_title_1030507000604020] Un'altra appassionata di lotte
+[quest_title_1030507000604060] VS Allenatori di Pasio 2
+[quest_title_1030507000604030] Il torneo migliore di sempre!
+[quest_title_1030507000604070] VS Allenatori di Pasio 3
+[quest_title_1030507000604040] Avversari, amici, rivali
+[quest_title_1030507000604080] VS Allenatori di Pasio 4
+[quest_title_1030507000604090] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030507000604100] Sfida ad alta difficoltà
+[quest_title_1030507000604110] Sfida ad alta difficoltà 2
+[quest_title_1030507000603010] La richiesta di Nemi
+[quest_title_1030507000603020] VS Nemi
+[quest_title_1030507000603030] VS Nemi 2
+[quest_title_1030507000603040] VS Nemi 3
+[quest_title_1030507000603050] VS Nemi 4
+[quest_title_1030507000603060] VS Nemi 5
+[quest_title_1030507000603070] VS Nemi 6
+[quest_title_1030507000603080] VS Nemi 7
+[quest_title_1030450700501010] Allenamento Sprinter 1
+[quest_title_1030450700502010] Allenamento Sprinter 2
+[quest_title_1030450700503010] Allenamento Sprinter 3
+[quest_title_1030450700504010] Allenamento Sprinter 4
+[quest_title_1030450700505010] Allenamento Sprinter 5
+[quest_title_1030450700506010] Allenamento Sprinter 6
+[quest_title_1030507000605000] Un insolito Pokémon destriero
+[quest_title_1030507000605010] VS Sonia
+[quest_title_1030507000605020] VS Sonia 2
+[quest_title_1030507000605030] VS Sonia 3
+[quest_title_1030507000605040] VS Sonia 4
+[quest_title_1030450700601010] Allenamento Campomastri 1
+[quest_title_1030450700602010] Allenamento Campomastri 2
+[quest_title_1030450700603010] Allenamento Campomastri 3
+[quest_title_1030450700604010] Allenamento Campomastri 4
+[quest_title_1030450700605010] Allenamento Campomastri 5
+[quest_title_1030450700606010] Allenamento Campomastri 6
+[quest_group_title_10247800000] Dandel (alternativo)
+[quest_group_title_10243810000] Gloria (alternativo 2)
+[quest_group_title_10175000000] Astra
+[quest_group_title_10155000000] Lilia
+[quest_group_title_10289000000] Nemi
 
 ===========
 story_quest_name_ja.lsd
@@ -22890,6 +23380,96 @@ story_quest_name_ja.lsd
 [quest_group_title_10262000000] ローズ
 [quest_group_title_10263000000] オリーヴ
 [quest_group_title_100109] ガラル編
+[quest_title_1040000030001011] カルムとの特別な一日　前編
+[quest_title_1040000030001021] カルムとの特別な一日　後編
+[quest_title_1030220247800000] とある日のダンデ
+[quest_title_1030220243810000] とある日のユウリ
+[quest_title_1030220175000000] とある日のゴジカ
+[quest_title_1030220155000000] とある日のドラセナ
+[quest_title_1030220289000000] とある日のネモ
+[quest_title_1030110000581000] ダンデたちの願い
+[quest_title_1030110000581500] ＶＳ　ローズの支持者５
+[quest_title_1030110000581100] ローズのやり方
+[quest_title_1030110000581600] ＶＳ　ローズの支持者６
+[quest_title_1030110000581200] 決戦の火蓋
+[quest_title_1030110000581700] ＶＳ　ローズの支持者７
+[quest_title_1030110000581300] 手を組んだ者たち
+[quest_title_1030110000581800] ＶＳ　ローズ
+[quest_title_1030110000581400] 未来への小さな一歩
+[quest_title_1030507000601010] ＶＳ　エール団のしたっぱ
+[quest_title_1030507000601020] ＶＳ　エール団のしたっぱ２
+[quest_title_1030507000601030] ＶＳ　エール団のしたっぱ３
+[quest_title_1030507000601040] １日１回限定・高難度バトル！
+[quest_title_1030507000601050] チャレンジバトルで勝負！
+[quest_title_1030507000601060] チャレンジバトルで勝負！２
+[quest_title_1030507000602010] ＶＳ　マジコスダンデ
+[quest_title_1030507000602020] ＶＳ　マジコスダンデ２
+[quest_title_1030450700101010] ＶＳ　エスパーバディーズ
+[quest_title_1030450700102010] ＶＳ　いわバディーズ
+[quest_title_1030450700103010] ＶＳ　みずバディーズ
+[quest_title_1030450700104010] ＶＳ　ドラゴンバディーズ
+[quest_title_1030450700105010] ＶＳ　はがねバディーズ
+[quest_title_1030450700106010] ＶＳ　フェアリーバディーズ
+[quest_title_1030450700107010] ＶＳ　くさバディーズ
+[quest_title_1030450700108010] ＶＳ　かくとうバディーズ
+[quest_title_1030450700109010] ＶＳ　ノーマルバディーズ
+[quest_title_1030450700110010] ＶＳ　でんきバディーズ
+[quest_title_1030450700111010] ＶＳ　こおりバディーズ
+[quest_title_1030450700112010] ＶＳ　じめんバディーズ
+[quest_title_1030450700113010] ＶＳ　どくバディーズ
+[quest_title_1030450700114010] ＶＳ　むしバディーズ
+[quest_title_1030450700115010] ＶＳ　ゴーストバディーズ
+[quest_title_1030450700116010] ＶＳ　ひこうバディーズ
+[quest_title_1030450700117010] ＶＳ　あくバディーズ
+[quest_title_1030450700118010] ＶＳ　ほのおバディーズ
+[quest_title_1030450700201010] ＶＳ　パシオのトレーナー
+[quest_title_1030450700201011] ＶＳ　パシオのトレーナー２
+[quest_title_1030450700201012] ＶＳ　パシオのトレーナー３
+[quest_title_1030450700201013] ＶＳ　パシオのトレーナー４
+[quest_title_1030507000604000] 適材適所な訪問者
+[quest_title_1030507000604010] ワクワクだらけ
+[quest_title_1030507000604050] ＶＳ　パシオのトレーナー
+[quest_title_1030507000604020] 似た者同士の勝負好き
+[quest_title_1030507000604060] ＶＳ　パシオのトレーナー２
+[quest_title_1030507000604030] 最っ高の舞台！
+[quest_title_1030507000604070] ＶＳ　パシオのトレーナー３
+[quest_title_1030507000604040] 強敵と仲間とライバルと
+[quest_title_1030507000604080] ＶＳ　パシオのトレーナー４
+[quest_title_1030507000604090] １日１回限定・高難度バトル！
+[quest_title_1030507000604100] チャレンジバトルで勝負！
+[quest_title_1030507000604110] チャレンジバトルで勝負！２
+[quest_title_1030507000603010] ネモのお願い……？
+[quest_title_1030507000603020] ＶＳ　ネモ
+[quest_title_1030507000603030] ＶＳ　ネモ２
+[quest_title_1030507000603040] ＶＳ　ネモ３
+[quest_title_1030507000603050] ＶＳ　ネモ４
+[quest_title_1030507000603060] ＶＳ　ネモ５
+[quest_title_1030507000603070] ＶＳ　ネモ６
+[quest_title_1030507000603080] ＶＳ　ネモ７
+[quest_title_1030450700501010] スピードの鍛錬１
+[quest_title_1030450700502010] スピードの鍛錬２
+[quest_title_1030450700503010] スピードの鍛錬３
+[quest_title_1030450700504010] スピードの鍛錬４
+[quest_title_1030450700505010] スピードの鍛錬５
+[quest_title_1030450700506010] スピードの鍛錬６
+[quest_title_1030507000605000] 謎の黒い　うまポケモン
+[quest_title_1030507000605010] ＶＳ　ソニア
+[quest_title_1030507000605020] ＶＳ　ソニア２
+[quest_title_1030507000605030] ＶＳ　ソニア３
+[quest_title_1030507000605040] ＶＳ　ソニア４
+[quest_title_1030450700601010] フィールドの鍛錬１
+[quest_title_1030450700602010] フィールドの鍛錬２
+[quest_title_1030450700603010] フィールドの鍛錬３
+[quest_title_1030450700604010] フィールドの鍛錬４
+[quest_title_1030450700605010] フィールドの鍛錬５
+[quest_title_1030450700606010] フィールドの鍛錬６
+[quest_group_title_10247800000] ダンデ
+（アナザー）
+[quest_group_title_10243810000] ユウリ
+（アナザー２）
+[quest_group_title_10175000000] ゴジカ
+[quest_group_title_10155000000] ドラセナ
+[quest_group_title_10289000000] ネモ
 
 ===========
 story_quest_name_ko.lsd
@@ -26067,6 +26647,96 @@ story_quest_name_ko.lsd
 [quest_group_title_10262000000] 로즈
 [quest_group_title_10263000000] 올리브
 [quest_group_title_100109] 가라르지방 편
+[quest_title_1040000030001011] 칼름과의 특별한 하루 전편
+[quest_title_1040000030001021] 칼름과의 특별한 하루 후편
+[quest_title_1030220247800000] 단델의 어느 날
+[quest_title_1030220243810000] 우리의 어느 날
+[quest_title_1030220175000000] 고지카의 어느 날
+[quest_title_1030220155000000] 드라세나의 어느 날
+[quest_title_1030220289000000] 네모의 어느 날
+[quest_title_1030110000581000] 단델 팀의 소원
+[quest_title_1030110000581500] VS 로즈의 지지자5
+[quest_title_1030110000581100] 로즈의 방식
+[quest_title_1030110000581600] VS 로즈의 지지자6
+[quest_title_1030110000581200] 결전의 신호탄
+[quest_title_1030110000581700] VS 로즈의 지지자7
+[quest_title_1030110000581300] 손을 잡은 자들
+[quest_title_1030110000581800] VS 로즈
+[quest_title_1030110000581400] 미래로 가는 작은 한 걸음
+[quest_title_1030507000601010] VS 옐단의 조무래기
+[quest_title_1030507000601020] VS 옐단의 조무래기2
+[quest_title_1030507000601030] VS 옐단의 조무래기3
+[quest_title_1030507000601040] 1일 1회 한정 고난도 배틀!
+[quest_title_1030507000601050] 챌린지배틀로 승부!
+[quest_title_1030507000601060] 챌린지배틀로 승부!2
+[quest_title_1030507000602010] VS 궁극코스 단델
+[quest_title_1030507000602020] VS 궁극코스 단델2
+[quest_title_1030450700101010] VS 에스퍼타입 버디즈
+[quest_title_1030450700102010] VS 바위타입 버디즈
+[quest_title_1030450700103010] VS 물타입 버디즈
+[quest_title_1030450700104010] VS 드래곤타입 버디즈
+[quest_title_1030450700105010] VS 강철타입 버디즈
+[quest_title_1030450700106010] VS 페어리타입 버디즈
+[quest_title_1030450700107010] VS 풀타입 버디즈
+[quest_title_1030450700108010] VS 격투타입 버디즈
+[quest_title_1030450700109010] VS 노말타입 버디즈
+[quest_title_1030450700110010] VS 전기타입 버디즈
+[quest_title_1030450700111010] VS 얼음타입 버디즈
+[quest_title_1030450700112010] VS 땅타입 버디즈
+[quest_title_1030450700113010] VS 독타입 버디즈
+[quest_title_1030450700114010] VS 벌레타입 버디즈
+[quest_title_1030450700115010] VS 고스트타입 버디즈
+[quest_title_1030450700116010] VS 비행타입 버디즈
+[quest_title_1030450700117010] VS 악타입 버디즈
+[quest_title_1030450700118010] VS 불꽃타입 버디즈
+[quest_title_1030450700201010] VS 파시오의 트레이너
+[quest_title_1030450700201011] VS 파시오의 트레이너2
+[quest_title_1030450700201012] VS 파시오의 트레이너3
+[quest_title_1030450700201013] VS 파시오의 트레이너4
+[quest_title_1030507000604000] 적재적소인 방문자
+[quest_title_1030507000604010] 전부 흥미진진
+[quest_title_1030507000604050] VS 파시오의 트레이너
+[quest_title_1030507000604020] 서로 닮은 승부 마니아들
+[quest_title_1030507000604060] VS 파시오의 트레이너2
+[quest_title_1030507000604030] 최고의 무대!
+[quest_title_1030507000604070] VS 파시오의 트레이너3
+[quest_title_1030507000604040] 강적과 동료와 라이벌
+[quest_title_1030507000604080] VS 파시오의 트레이너4
+[quest_title_1030507000604090] 1일 1회 한정 고난도 배틀!
+[quest_title_1030507000604100] 챌린지배틀로 승부!
+[quest_title_1030507000604110] 챌린지배틀로 승부!2
+[quest_title_1030507000603010] 네모의 소원...?
+[quest_title_1030507000603020] VS 네모
+[quest_title_1030507000603030] VS 네모2
+[quest_title_1030507000603040] VS 네모3
+[quest_title_1030507000603050] VS 네모4
+[quest_title_1030507000603060] VS 네모5
+[quest_title_1030507000603070] VS 네모6
+[quest_title_1030507000603080] VS 네모7
+[quest_title_1030450700501010] 스피드의 단련1
+[quest_title_1030450700502010] 스피드의 단련2
+[quest_title_1030450700503010] 스피드의 단련3
+[quest_title_1030450700504010] 스피드의 단련4
+[quest_title_1030450700505010] 스피드의 단련5
+[quest_title_1030450700506010] 스피드의 단련6
+[quest_title_1030507000605000] 수수께끼의 검은 말포켓몬
+[quest_title_1030507000605010] VS 소니아
+[quest_title_1030507000605020] VS 소니아2
+[quest_title_1030507000605030] VS 소니아3
+[quest_title_1030507000605040] VS 소니아4
+[quest_title_1030450700601010] 필드의 단련1
+[quest_title_1030450700602010] 필드의 단련2
+[quest_title_1030450700603010] 필드의 단련3
+[quest_title_1030450700604010] 필드의 단련4
+[quest_title_1030450700605010] 필드의 단련5
+[quest_title_1030450700606010] 필드의 단련6
+[quest_group_title_10247800000] 단델
+(어나더)
+[quest_group_title_10243810000] 우리
+(어나더2)
+[quest_group_title_10175000000] 고지카
+[quest_group_title_10155000000] 드라세나
+[quest_group_title_10289000000] 네모
 
 ===========
 story_quest_name_zh-TW.lsd
@@ -29244,6 +29914,96 @@ story_quest_name_zh-TW.lsd
 [quest_group_title_10262000000] 洛茲
 [quest_group_title_10263000000] 奧利薇
 [quest_group_title_100109] 伽勒爾篇
+[quest_title_1040000030001011] 與卡魯穆的特別日子　前篇
+[quest_title_1040000030001021] 與卡魯穆的特別日子　後篇
+[quest_title_1030220247800000] 某日的丹帝
+[quest_title_1030220243810000] 某日的小優
+[quest_title_1030220175000000] 某日的葛吉花
+[quest_title_1030220155000000] 某日的朵拉塞娜
+[quest_title_1030220289000000] 某日的妮莫
+[quest_title_1030110000581000] 丹帝等人的心願
+[quest_title_1030110000581500] ＶＳ　洛茲支持者５
+[quest_title_1030110000581100] 洛茲的作風
+[quest_title_1030110000581600] ＶＳ　洛茲支持者６
+[quest_title_1030110000581200] 揭開決戰序幕
+[quest_title_1030110000581700] ＶＳ　洛茲支持者７
+[quest_title_1030110000581300] 攜手合作的人們
+[quest_title_1030110000581800] ＶＳ　洛茲
+[quest_title_1030110000581400] 往未來的一小步
+[quest_title_1030507000601010] ＶＳ　吶喊隊手下
+[quest_title_1030507000601020] ＶＳ　吶喊隊手下２
+[quest_title_1030507000601030] ＶＳ　吶喊隊手下３
+[quest_title_1030507000601040] １天僅限１次的高難度對戰！
+[quest_title_1030507000601050] 用挑戰對戰決勝負！
+[quest_title_1030507000601060] 用挑戰對戰決勝負！２
+[quest_title_1030507000602010] ＶＳ　美極套裝丹帝
+[quest_title_1030507000602020] ＶＳ　美極套裝丹帝２
+[quest_title_1030450700101010] ＶＳ　超能力屬性拍組
+[quest_title_1030450700102010] ＶＳ　岩石屬性拍組
+[quest_title_1030450700103010] ＶＳ　水屬性拍組
+[quest_title_1030450700104010] ＶＳ　龍屬性拍組
+[quest_title_1030450700105010] ＶＳ　鋼屬性拍組
+[quest_title_1030450700106010] ＶＳ　妖精屬性拍組
+[quest_title_1030450700107010] ＶＳ　草屬性拍組
+[quest_title_1030450700108010] ＶＳ　格鬥屬性拍組
+[quest_title_1030450700109010] ＶＳ　一般屬性拍組
+[quest_title_1030450700110010] ＶＳ　電屬性拍組
+[quest_title_1030450700111010] ＶＳ　冰屬性拍組
+[quest_title_1030450700112010] ＶＳ　地面屬性拍組
+[quest_title_1030450700113010] ＶＳ　毒屬性拍組
+[quest_title_1030450700114010] ＶＳ　蟲屬性拍組
+[quest_title_1030450700115010] ＶＳ　幽靈屬性拍組
+[quest_title_1030450700116010] ＶＳ　飛行屬性拍組
+[quest_title_1030450700117010] ＶＳ　惡屬性拍組
+[quest_title_1030450700118010] ＶＳ　火屬性拍組
+[quest_title_1030450700201010] ＶＳ　帕希歐的訓練家
+[quest_title_1030450700201011] ＶＳ　帕希歐的訓練家２
+[quest_title_1030450700201012] ＶＳ　帕希歐的訓練家３
+[quest_title_1030450700201013] ＶＳ　帕希歐的訓練家４
+[quest_title_1030507000604000] 適得其所的訪客
+[quest_title_1030507000604010] 滿滿的興奮
+[quest_title_1030507000604050] ＶＳ　帕希歐的訓練家
+[quest_title_1030507000604020] 氣味相投的對戰愛好者
+[quest_title_1030507000604060] ＶＳ　帕希歐的訓練家２
+[quest_title_1030507000604030] 最棒的舞台！
+[quest_title_1030507000604070] ＶＳ　帕希歐的訓練家３
+[quest_title_1030507000604040] 與強敵、夥伴還有勁敵
+[quest_title_1030507000604080] ＶＳ　帕希歐的訓練家４
+[quest_title_1030507000604090] １天僅限１次的高難度對戰！
+[quest_title_1030507000604100] 用挑戰對戰決勝負！
+[quest_title_1030507000604110] 用挑戰對戰決勝負！２
+[quest_title_1030507000603010] 妮莫的請求……？
+[quest_title_1030507000603020] ＶＳ　妮莫
+[quest_title_1030507000603030] ＶＳ　妮莫２
+[quest_title_1030507000603040] ＶＳ　妮莫３
+[quest_title_1030507000603050] ＶＳ　妮莫４
+[quest_title_1030507000603060] ＶＳ　妮莫５
+[quest_title_1030507000603070] ＶＳ　妮莫６
+[quest_title_1030507000603080] ＶＳ　妮莫７
+[quest_title_1030450700501010] 速戰型鍛鍊１
+[quest_title_1030450700502010] 速戰型鍛鍊２
+[quest_title_1030450700503010] 速戰型鍛鍊３
+[quest_title_1030450700504010] 速戰型鍛鍊４
+[quest_title_1030450700505010] 速戰型鍛鍊５
+[quest_title_1030450700506010] 速戰型鍛鍊６
+[quest_title_1030507000605000] 神秘的黑馬寶可夢
+[quest_title_1030507000605010] ＶＳ　索妮亞
+[quest_title_1030507000605020] ＶＳ　索妮亞２
+[quest_title_1030507000605030] ＶＳ　索妮亞３
+[quest_title_1030507000605040] ＶＳ　索妮亞４
+[quest_title_1030450700601010] 場地型鍛鍊１
+[quest_title_1030450700602010] 場地型鍛鍊２
+[quest_title_1030450700603010] 場地型鍛鍊３
+[quest_title_1030450700604010] 場地型鍛鍊４
+[quest_title_1030450700605010] 場地型鍛鍊５
+[quest_title_1030450700606010] 場地型鍛鍊６
+[quest_group_title_10247800000] 丹帝
+（對戰塔）
+[quest_group_title_10243810000] 小優
+（競技服）
+[quest_group_title_10175000000] 葛吉花
+[quest_group_title_10155000000] 朵拉塞娜
+[quest_group_title_10289000000] 妮莫
 
 ===========
 trainer_description_de.lsd
@@ -29545,6 +30305,10 @@ um ein starker Trainer zu werden.
 [10133000000] Dieser junge Mann will der Stärkste der Welt werden.
 Seine Vergangenheit hat ihn gelehrt, dass es nicht nur
 auf Stärke ankommt, sondern auch auf Freundlichkeit.
+[10155000000] Dieses Mitglied der Top Vier lebt in Kalos und hat sich den
+Lehren ihrer Familie gewidmet. Sie bevorzugt es, gegen
+starke Trainer zu kämpfen, damit ihre Pokémon daran
+wachsen können.
 [10159000000] Perenus ist ein Kammerdiener mit einer ausgezeichneten
 Auffassungsgabe. Seine wahre Stärke liegt darin, dass er
 für jede Situation eine Lösung parat hat.
@@ -30313,6 +31077,27 @@ weitergegeben wird.
 [10124000001] Maho ist ein Captain auf Akala in der Alola-Region. Sie
 hilft außerdem im Restaurant ihrer Familie aus. Ihre
 Gerichte schmecken eher speziell, haben aber einige Fans.
+[10247800000] Delion hat sowohl sein Outfit als auch seine Einstellung
+aufgefrischt, um das Kämpfen weiterhin in vollen Zügen
+genießen zu können. Er überlegt, wie er alle dazu
+inspirieren kann, gemeinsam nach mehr Stärke zu streben.
+[10243810000] Gloria trägt dieselbe Uniform, in welcher sie auch die
+Arena-Challenge von Galar bestritten hat. Sie weckt
+Erinnerungen an die erbitterten Kämpfe mit ihren Rivalen.
+[10289000000] Diese Schulsprecherin besucht die Akademie in Paldea.
+Dank ihrer Fähigkeiten und Liebe für Pokémon-Kämpfe hat
+sie den Champ-Rang inne.
+[10175000000] Diese Arenaleiterin aus Kalos ist eine Wahrsagerin und für
+ihre unverkennbar poetische Sprechweise bekannt. Wenn
+Leute ihre Hände durch einen ihrer Armreife stecken, ist
+sie in der Lage, in deren Zukunft zu blicken.
+[10242000001] Dieser Trainer aus Galar liebt die Natur. In
+Pokémon-Kämpfen beobachtet er die Attacken seines
+Gegners ganz genau und gibt seinem Pokémon-Partner
+haargenaue Anweisungen.
+[10003000001] Kalem ist ein disziplinierter Trainer, der stets danach
+strebt, stärker zu werden. Er versteckt die in ihm
+brennende Leidenschaft und gibt sich cool.
 
 ===========
 trainer_description_en.lsd
@@ -30614,6 +31399,9 @@ a Pokémon Trainer.
 [10133000000] Although known for aiming to be the strongest Trainer in
 the world, this boy no longer cares about strength alone.
 He’s also realized the importance of a kind heart.
+[10155000000] This member of the Elite Four lives in Kalos while
+following the teachings of her family. She likes battling
+strong Trainers so her Pokémon can grow.
 [10159000000] Darach is an adept Castle Valet with extraordinary insight.
 The secret to his strength is his ability to make decisions
 on the fly, which allows him to adapt to any situation.
@@ -31265,6 +32053,24 @@ the traditional dances passed down in the Alola region.
 [10124000001] Mallow is a captain on Akala Island in Alola and works
 at a restaurant where she hones her skills as a chef. Her
 cooking is unique but popular among some.
+[10247800000] Leon has renewed his outfit—and his mood—to
+truly enjoy battling. He’s been thinking of how to
+help everyone grow stronger together.
+[10243810000] Gloria is in the uniform she wore when she did
+Galar’s Gym Challenge. Memories of her intense
+battles with her rivals are coming back to her.
+[10289000000] This student council president goes to an academy in
+Paldea and loves battling. Her skills are certified
+Champion Rank.
+[10175000000] This Kalos Gym Leader is also a fortune teller with a
+uniquely poetic speech pattern. She sees one’s future by
+putting their hand through one of the rings on her arms.
+[10242000001] This Galar Trainer loves nature. In battle, he’s a strategist
+who carefully observes opponents and calls out
+pinpoint instructions.
+[10003000001] A stoic Trainer in pursuit of strength, he conceals
+his burning desire to grow stronger and plays it
+cool outwardly.
 
 ===========
 trainer_description_es.lsd
@@ -31604,6 +32410,9 @@ a fondo para convertirse en un Entrenador de primera.
 fuerte habido y por haber, aunque ya no solo piensa que
 la fuerza sea lo más importante, sino que también tiene
 en cuenta la amabilidad.
+[10155000000] Esta miembro del Alto Mando de Kalos vive siguiendo
+el legado de su familia. Le gusta combatir contra
+Entrenadores fuertes para fortalecer a sus Pokémon.
 [10159000000] Este excelente mayordomo es capaz de evaluar cualquier
 situación para reaccionar adecuadamente. Su agudeza y
 afilada percepción son sus mejores cualidades.
@@ -32383,6 +33192,27 @@ de Alola. Es la cara del restaurante regentado por su
 familia, donde trabaja puliendo sus habilidades culinarias
 que, a pesar de ser un tanto peculiares, se han granjeado
 la adoración de algunos.
+[10247800000] Lionel ha vuelto con un traje nuevo y una actitud distinta
+hacia los combates. Lleva un tiempo reflexionando sobre
+cómo ayudar a otros a hacerse más fuertes.
+[10243810000] Gloria lleva puesto su traje de Aspirante de cuando
+participó en el desafío de los gimnasios, y que le trae
+recuerdos de los intensos combates que libró contra
+sus rivales.
+[10289000000] Estudiante y delegada de una academia de Paldea.
+Le apasiona combatir y sus habilidades le han brindado
+el rango de Campeona.
+[10175000000] Esta grandilocuente Líder de Gimnasio de Kalos es
+también vidente y puede discernir el futuro de alguien
+al poner su mano dentro de uno de los anillos que porta
+en las muñecas.
+[10242000001] Entrenador de Galar al que le encanta la naturaleza.
+Durante los combates Pokémon, acostumbra a observar
+los movimientos del oponente y darle instrucciones
+precisas a su compi.
+[10003000001] Entrenador de personalidad firme al que lo mueve su
+afán por hacerse más fuerte, aunque intente ocultarlo
+tras una actitud serena.
 
 ===========
 trainer_description_fr.lsd
@@ -32665,6 +33495,10 @@ devenir un meilleur Dresseur Pokémon.
 [10133000000] Un jeune Dresseur qui rêve de devenir le plus fort du
 monde. Au fil de son aventure, il a appris que la
 gentillesse était au moins aussi importante que la force.
+[10155000000] Cette membre du Conseil 4 vit à Kalos tout en suivant
+les enseignements de sa famille. Elle aime affronter
+de puissants Dresseurs pour permettre à ses Pokémon
+de s'améliorer.
 [10159000000] Parsley est un valet d'exception doté d'une perspicacité
 hors pair. Le secret de sa force réside dans sa capacité
 à évaluer et à s'adapter à n'importe quelle situation.
@@ -33457,6 +34291,27 @@ Elle accueille les clients dans le restaurant de sa famille
 et y exerce son talent pour la cuisine. Ses idées
 culinaires ne font pas toujours l'unanimité, mais elles sont
 tout de même populaires auprès de certaines personnes.
+[10247800000] Tarak a adopté une nouvelle tenue ainsi qu'une nouvelle
+attitude envers les combats pour lesquels il se passionne.
+Il réfléchit constamment à ce qu'il peut faire pour que
+tout le monde puisse s'améliorer.
+[10243810000] Gloria porte son uniforme du Défi des Arènes de Galar.
+Ainsi vêtue, les souvenirs des combats intenses qu'elle
+a mené contre ses rivaux lui reviennent petit à petit.
+[10289000000] Cette passionnée de combats est déléguée des élèves
+au sein son académie, située dans la région de Paldea.
+Sa puissance en tant que Dresseuse est telle qu'elle
+lui a valu le rang Maître.
+[10175000000] Cette Championne d'Arène de Kalos est également
+une voyante au parler poétique. Elle peut voir l'avenir
+de quiconque glisse sa main dans l'un de ses bracelets.
+[10242000001] Ce Dresseur de Galar est un amoureux de la nature.
+En combat, il observe attentivement ses adversaires
+afin de donner des instructions d'une redoutable
+précision à son partenaire Pokémon.
+[10003000001] Ce Dresseur flegmatique dissimule son ardente volonté
+de s'améliorer et de devenir plus fort sous ses airs
+impassibles.
 
 ===========
 trainer_description_it.lsd
@@ -33759,6 +34614,9 @@ come Allenatore.
 al mondo. Lasciandosi alle spalle il proprio passato,
 ha imparato che, oltre alla forza, è importante avere
 anche un animo gentile.
+[10155000000] Membro dei Superquattro di Kalos, vive seguendo
+gli insegnamenti dei suoi avi. Le piace sfidare Allenatori
+di talento per far progredire i suoi Pokémon.
 [10159000000] Un maggiordomo esperto ed estremamente perspicace.
 La sua abilità di analisi gli permette di affrontare qualsiasi
 situazione con grande flessibilità, rivelandosi il vero
@@ -34509,6 +35367,26 @@ la danza tradizionale della sua regione. Il suo sogno
 attira i clienti del ristorante di famiglia con la sua abilità
 da cuoca. I suoi piatti hanno un gusto molto originale,
 che è comunque apprezzato da alcune persone.
+[10247800000] Dandel sfoggia un nuovo abito e un nuovo atteggiamento
+per godersi ancora di più le lotte Pokémon. Sta pensando
+con impegno a come diventare ancora più forte insieme
+agli altri.
+[10243810000] Gloria torna a indossare la divisa usata durante
+la Sfida delle Palestre e le riaffiorano alla mente
+tutte le combattute sfide intraprese con i suoi rivali.
+[10289000000] Rappresentante degli studenti dell'accademia di Paldea,
+il suo amore per le lotte e la sua abilità le hanno
+permesso di ottenere il Rango Campione.
+[10175000000] Capopalestra di Kalos, nonché veggente, si esprime
+in un linguaggio forbito ed è in grado di svelare il futuro
+di chi inserisce una mano in uno dei suoi bracciali.
+[10242000001] Allenatore di Galar amante della natura, nelle lotte
+si affida molto alla sua capacità di ragionamento e
+osserva scrupolosamente come si muovono gli avversari
+per dare ordini meticolosi al suo Pokémon.
+[10003000001] Allenatore stoico dai modi compassati, dietro i quali
+si nasconde un ardente desiderio di diventare sempre
+più forte.
 
 ===========
 trainer_description_ja.lsd
@@ -34810,6 +35688,9 @@ trainer_description_ja.lsd
 [10133000000] 世界で一番強い　トレーナーを　目指す　少年。
 過去を　乗りこえることで　強さだけではなく
 優しい心の　大切さを　知った。
+[10155000000] 一族の伝習を守り　カロスに　暮らす　四天王。
+ポケモンたちの　成長のため
+強いトレーナーとの　戦いを　好んでいる。
 [10159000000] 洞察力に　優れた　優秀な　執事。
 どんな　状況にも　臨機応変に　対応できる
 状況判断が　彼の　強さの　秘訣。
@@ -35458,6 +36339,24 @@ trainer_description_ja.lsd
 [10124000001] アローラ地方　アーカラ島の　キャプテンの　ひとり。
 食堂の　看板娘として　料理の腕を　ふるう。
 味は　とても　個性的だが　一部の　人に　人気だ。
+[10247800000] 純粋に　勝負を　楽しむため
+気分と　共に　衣装を　一新した　ダンデ。
+「みんなで強くなる」ために　なにかを　考えている。
+[10243810000] ガラル地方の　ジムチャレンジに　挑戦したときの
+ユニフォームに　着替えた　ユウリ。
+ライバルたちとの　熱い勝負の　記憶が　よみがえる。
+[10289000000] パルデア地方の　アカデミーに　通っている
+ポケモン勝負が　大好きな　生徒会長。
+その実力は　チャンピオンランクに　認定されるほど。
+[10175000000] 占い師を兼業している　カロス地方の　ジムリーダー。
+詩的な　表現を　交えた　口調は　独特な　雰囲気。
+腕の輪に　相談者の　手を入れて　占うらしい。
+[10242000001] 自然が　大好きな　ガラル地方の　トレーナー。
+ポケモン勝負では　相手の動きを　じっくりと　観察し
+バディに　的確な　指示を　だしていく　頭脳派。
+[10003000001] 強さを　求める　ストイックな　トレーナー。
+強くなりたいという　熱い想いを　隠し
+表に　ださないよう　クールに　ふるまう。
 
 ===========
 trainer_description_ko.lsd
@@ -35759,6 +36658,9 @@ trainer_description_ko.lsd
 [10133000000] 세계에서 가장 강한 트레이너를 목표하는 소년.
 과거를 이겨내면서 강함이 전부가 아니라는 점과
 상냥한 마음의 소중함을 깨달았다.
+[10155000000] 일족의 전통을 지키며 사는 칼로스지방의 사천왕.
+포켓몬들을 성장시키기 위해
+강한 트레이너와 대결하기를 바라고 있다.
 [10159000000] 통찰력이 뛰어나고 우수한 집사.
 어떤 상황에서도 임기응변할 수 있는
 상황 판단이 그가 강한 비결이다.
@@ -36406,6 +37308,24 @@ WPM 운영위원회의 대표도 맡고 있다.
 [10124000001] 알로라지방 아칼라섬의 캡틴 중 한 사람.
 식당의 얼굴로서 요리 실력을 발휘한다.
 맛은 상당히 개성적이지만 일부 손님에게 인기가 있다.
+[10247800000] 순수하게 승부를 즐기기 위해
+기분 전환을 하면서 옷도 새롭게 차려입은 단델.
+"모두가 강해지기" 위해 무언가를 생각하고 있다.
+[10243810000] 가라르지방의 체육관 챌린지에 도전했을 당시의
+유니폼으로 갈아입은 우리.
+라이벌들과의 뜨거운 승부의 기억이 되살아난다.
+[10289000000] 팔데아지방의 아카데미에 다니고 있으며
+포켓몬 승부를 아주 좋아하는 학생회장.
+그 실력은 챔피언 랭크로 인정받을 정도이다.
+[10175000000] 점술가를 겸업하고 있는 칼로스지방의 체육관 관장.
+시적인 표현이 더해진 말투는 독특한 분위기를 자아낸다.
+팔찌에 상담하러 온 사람의 손을 넣어 점을 친다고 한다.
+[10242000001] 자연을 좋아하는 가라르지방의 트레이너.
+포켓몬 승부에서는 상대의 움직임을 차분하게 관찰하고
+버디에게 정확히 지시하는 두뇌파.
+[10003000001] 강함을 추구하는 엄격한 트레이너.
+강해지고 싶다는 뜨거운 마음을 숨기고
+겉으로 드러나지 않게 쿨한 척을 하고 있다.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -36706,6 +37626,9 @@ trainer_description_zh-TW.lsd
 [10133000000] 以成為世界第一強訓練家為目標的少年。
 透過克服自己的過去而明白了
 除了實力之外，一顆溫柔的心也很重要。
+[10155000000] 生活在卡洛斯，守護著一族傳統的四天王。
+為了寶可夢們的成長，
+她喜歡和強大的訓練家對戰。
 [10159000000] 擁有優越觀察力的優秀管家。
 不論遇到什麼狀況都能臨機應變地處理。
 針對狀況做出判斷是他強大的秘訣。
@@ -37354,6 +38277,24 @@ trainer_description_zh-TW.lsd
 [10124000001] 阿羅拉地區阿卡拉島隊長中的一人。
 身為飯館招牌店員，經常展現自己的廚藝。
 她做的料理味道特別，但很受一部分的顧客喜愛。
+[10247800000] 為了單純享受對戰的樂趣，
+心情和服裝都煥然一新的丹帝。
+他總是在思考怎麼做才能「大家一起變強」。
+[10243810000] 換上了在伽勒爾地區
+道館挑戰時的競技服的小優。
+這也喚醒了她和勁敵們火熱對戰的回憶。
+[10289000000] 就學於帕底亞地區的學院，
+最愛寶可夢對戰的學生會長。
+她的實力甚至被認定為冠軍級。
+[10175000000] 身兼占卜師的卡洛斯地區道館館主。
+充滿詩意的口吻讓她有一股獨特的氣質。
+據說會把諮詢者的手放進手環裡來占卜。
+[10242000001] 非常喜歡大自然的伽勒爾地區訓練家。
+他的頭腦聰明伶俐，在寶可夢對戰時，
+會先仔細觀察對手的動向再給拍檔明確的指示。
+[10003000001] 追求強大，嚴以律己的訓練家。
+心中隱藏著渴望變強的火熱鬥志，
+表面上卻裝出沉著冷靜的樣子。
 
 ===========
 trainer_name_de.lsd
@@ -37519,6 +38460,7 @@ trainer_name_de.lsd
 [ch0162] Lucius
 [ch0170] Artie
 [ch0171] Hartwig
+[ch0175] Astrid
 [ch0176] Lucian
 [ch0177] Pachira
 [ch0178] Anabel
@@ -37600,6 +38542,7 @@ trainer_name_de.lsd
 [ch0561] Skull Rüpel
 [ch0284] Diam
 [ch0285] Perla
+[ch0289] Nemila
 [ch0262] Rose
 [ch0263] Olivia
 [ch0280] Yell Rüpel
@@ -37769,6 +38712,7 @@ trainer_name_en.lsd
 [ch0162] Lucas
 [ch0170] Burgh
 [ch0171] Chuck
+[ch0175] Olympia
 [ch0176] Lucian
 [ch0177] Malva
 [ch0178] Anabel
@@ -37850,6 +38794,7 @@ trainer_name_en.lsd
 [ch0561] Team Skull Grunt
 [ch0284] Adaman
 [ch0285] Irida
+[ch0289] Nemona
 [ch0262] Rose
 [ch0263] Oleana
 [ch0280] Team Yell Grunt
@@ -38019,6 +38964,7 @@ trainer_name_es.lsd
 [ch0162] León
 [ch0170] Camus
 [ch0171] Aníbal
+[ch0175] Ástrid
 [ch0176] Delos
 [ch0177] Malva
 [ch0178] Destra
@@ -38100,6 +39046,7 @@ trainer_name_es.lsd
 [ch0561] Recluta del Team Skull
 [ch0284] Adamas
 [ch0285] Nákara
+[ch0289] Mencía
 [ch0262] Rose
 [ch0263] Olivia
 [ch0280] Recluta del Team Yell
@@ -38269,6 +39216,7 @@ trainer_name_fr.lsd
 [ch0162] Louka
 [ch0170] Artie
 [ch0171] Chuck
+[ch0175] Astera
 [ch0176] Lucio
 [ch0177] Malva
 [ch0178] Cathy
@@ -38350,6 +39298,7 @@ trainer_name_fr.lsd
 [ch0561] Sbire Team Skull
 [ch0284] Adamantin
 [ch0285] Nacchara
+[ch0289] Menzi
 [ch0262] Shehroz
 [ch0263] Liv
 [ch0280] Sbire Team Yell
@@ -38519,6 +39468,7 @@ trainer_name_it.lsd
 [ch0162] Lucas
 [ch0170] Artemisio
 [ch0171] Furio
+[ch0175] Astra
 [ch0176] Luciano
 [ch0177] Malva
 [ch0178] Alberta
@@ -38600,6 +39550,7 @@ trainer_name_it.lsd
 [ch0561] Recluta del Team Skull
 [ch0284] Damon
 [ch0285] Perula
+[ch0289] Nemi
 [ch0262] Rose
 [ch0263] Olive
 [ch0280] Recluta del Team Yell
@@ -38769,6 +39720,7 @@ trainer_name_ja.lsd
 [ch0162] コウキ
 [ch0170] アーティ
 [ch0171] シジマ
+[ch0175] ゴジカ
 [ch0176] ゴヨウ
 [ch0177] パキラ
 [ch0178] リラ
@@ -38850,6 +39802,7 @@ trainer_name_ja.lsd
 [ch0561] スカルだんの　したっぱ
 [ch0284] セキ
 [ch0285] カイ
+[ch0289] ネモ
 [ch0262] ローズ
 [ch0263] オリーヴ
 [ch0280] エールだんの　したっぱ
@@ -39019,6 +39972,7 @@ trainer_name_ko.lsd
 [ch0162] 광휘
 [ch0170] 아티
 [ch0171] 사도
+[ch0175] 고지카
 [ch0176] 오엽
 [ch0177] 파키라
 [ch0178] 리라
@@ -39100,6 +40054,7 @@ trainer_name_ko.lsd
 [ch0561] 스컬단의 조무래기
 [ch0284] 찬석
 [ch0285] 주혜
+[ch0289] 네모
 [ch0262] 로즈
 [ch0263] 올리브
 [ch0280] 옐단의 조무래기
@@ -39269,6 +40224,7 @@ trainer_name_zh-TW.lsd
 [ch0162] 明輝
 [ch0170] 亞堤
 [ch0171] 阿四
+[ch0175] 葛吉花
 [ch0176] 悟松
 [ch0177] 帕琦拉
 [ch0178] 莉拉
@@ -39350,6 +40306,7 @@ trainer_name_zh-TW.lsd
 [ch0561] 骷髏隊手下
 [ch0284] 剛石
 [ch0285] 珠貝
+[ch0289] 妮莫
 [ch0262] 洛茲
 [ch0263] 奧利薇
 [ch0280] 吶喊隊手下
@@ -39534,6 +40491,10 @@ trainer_verbose_name_de.lsd
 [10007100000] MaMo-Lola
 [10160100000] MaMo-Tracy
 [10133100000] MaMo-Silber
+[10247800000] Delion 
+(Variante)
+[10243810000] Gloria 
+(Variante 2)
 [10031400000] Ben 
 (Saison 2023)
 [10030400000] Svenja 
@@ -39728,6 +40689,10 @@ Lysandre
 Acerola
 [10160100000] Sygna Suit Lana
 [10133100000] Sygna Suit Silver
+[10247800000] Leon 
+(Alt.)
+[10243810000] Gloria 
+(Alt. 2)
 [10031400000] Tate 
 (Summer 2023)
 [10030400000] Liza 
@@ -39893,6 +40858,9 @@ con Kimono)
 [10007100000] Zarala (Traje S)
 [10160100000] Nereida (Traje S)
 [10133100000] Plata (Traje S)
+[10247800000] Lionel 
+(Torre Batalla)
+[10243810000] Gloria (Aspirante)
 [10031400000] Vito 
 (Temporada 23)
 [10030400000] Leti 
@@ -40074,6 +41042,8 @@ trainer_verbose_name_fr.lsd
 [10007100000] Margie (Ultime)
 [10160100000] Néphie (Ultime)
 [10133100000] Silver (Ultime)
+[10247800000] Tarak (Alternatif)
+[10243810000] Gloria (Challenger)
 [10031400000] Lévy
 (Saison 2023)
 [10030400000] Tatia
@@ -40259,6 +41229,10 @@ trainer_verbose_name_it.lsd
 [10007100000] Malpi Costumax
 [10160100000] Suiren Costumax
 [10133100000] Argento Costumax
+[10247800000] Dandel 
+(alternativo)
+[10243810000] Gloria 
+(alternativo 2)
 [10031400000] Tell 
 (feste 2023)
 [10030400000] Pat 
@@ -40444,6 +41418,10 @@ trainer_verbose_name_ja.lsd
 [10007100000] マジコスアセロラ
 [10160100000] マジコススイレン
 [10133100000] マジコスシルバー
+[10247800000] ダンデ
+（アナザー）
+[10243810000] ユウリ
+（アナザー２）
 [10031400000] フウ
 （２３シーズン）
 [10030400000] ラン
@@ -40629,6 +41607,10 @@ trainer_verbose_name_ko.lsd
 [10007100000] 궁극코스 아세로라
 [10160100000] 궁극코스 수련
 [10133100000] 궁극코스 실버
+[10247800000] 단델
+(어나더)
+[10243810000] 우리
+(어나더2)
 [10031400000] 풍
 (23시즌)
 [10030400000] 란
@@ -40814,6 +41796,10 @@ trainer_verbose_name_zh-TW.lsd
 [10007100000] 美極套裝阿塞蘿拉
 [10160100000] 美極套裝水蓮
 [10133100000] 美極套裝小銀
+[10247800000] 丹帝
+（對戰塔）
+[10243810000] 小優
+（競技服）
 [10031400000] 小楓
 （２０２３夏季）
 [10030400000] 小南
@@ -41134,7 +42120,22 @@ im Pokémon-Center.
 zurück.
 [common_widget/trainer_detail_071] Für dieses Gefährtengespann gibt es
 kein EX-Farboutfit.
+[common_widget/trainer_detail_072] Initiator
+[common_widget/trainer_detail_073] Feldwandler
 [common_widget/trainer_detail_074] Typ [Name:Type ]
+[common_widget/trainer_detail_075] Verstärkungen
+einsehen
+[common_widget/trainer_detail_076] Verstärkungen einsehen
+[common_widget/trainer_detail_077] Wähle aus den folgenden Optionen,
+um die Statuswerte der Gefährten
+in verstärktem Zustand einzusehen.
+[common_widget/trainer_detail_078] Mit erhöhtem Potenzial
+[common_widget/trainer_detail_081] Ausgangszustand
+[common_widget/trainer_detail_082] Gefährtengespanne werden über die Gefährtensuche in
+ihrem Ausgangszustand erhalten.
+[common_widget/trainer_detail_083] Die angezeigten Werte beziehen sich auf das verstärkte
+Gefährtengespann. Es kann über die Gefährtensuche oder
+durch Item-Tausch nicht in diesem Zustand erhalten werden.
 [common_widget/dialog_special_item_001] [Name:Item ]
 erhalten!
 [common_widget/dialog_special_item_002] Noch [Digit:1digit ] Orden!
@@ -41242,6 +42243,9 @@ wurde zu einem
 [common_widget/filter_073] Trainer
 [common_widget/filter_074] Andere
 [common_widget/filter_075] Ladebildschirm-Einstellungen
+[common_widget/filter_076] Initiator
+[common_widget/filter_077] Feldwandler
+[common_widget/filter_086] Paldea
 [common_widget/sort_001] ★-Zahl
 [common_widget/sort_002] Gefährtenattacke
 [common_widget/sort_003] KP
@@ -41826,7 +42830,18 @@ Pokémon Center often.
 [common_widget/trainer_detail_070] Note: You will be returned to the Expedition screen after switching.
 [common_widget/trainer_detail_071] This sync pair does not have an
 EX style.
+[common_widget/trainer_detail_072] Sprint
+[common_widget/trainer_detail_073] Field
 [common_widget/trainer_detail_074] [Name:Type ] Type
+[common_widget/trainer_detail_075] Check
+upgrades
+[common_widget/trainer_detail_076] Check upgrades
+[common_widget/trainer_detail_077] You can choose from the categories below to check what the sync pair’s stats would be if upgraded.
+[common_widget/trainer_detail_078] Potential increased
+[common_widget/trainer_detail_081] Reset to base state
+[common_widget/trainer_detail_082] Note: Sync pairs are obtained from the sync pair scout in their base state.
+[common_widget/trainer_detail_083] Note: Upgrade status has been changed.
+(This sync pair can’t be obtained from the sync pair scout or item exchange in this state.)
 [common_widget/dialog_special_item_001] [Name:Item ]
 [common_widget/dialog_special_item_002] Only [Digit:1digit ] more [EN:Qty S="badge" P="badges" ] to go!
 [common_widget/dialog_special_item_003] All badges acquired! Time to compete in the PML!
@@ -41932,6 +42947,9 @@ into [Name:PokemonName ]!
 [common_widget/filter_073] Trainer
 [common_widget/filter_074] Other
 [common_widget/filter_075] Loading Screen Settings
+[common_widget/filter_076] Sprint
+[common_widget/filter_077] Field
+[common_widget/filter_086] Paldea
 [common_widget/sort_001] Number of ★s
 [common_widget/sort_002] Sync Move
 [common_widget/sort_003] HP
@@ -42496,7 +43514,22 @@ por el Centro Pokémon.
 [common_widget/trainer_detail_070] Nota: Después, regresarás a la pantalla de exploración.
 [common_widget/trainer_detail_071] Esta pareja de compis no tiene
 Traje EX.
+[common_widget/trainer_detail_072] Velocidad
+[common_widget/trainer_detail_073] Entorno
 [common_widget/trainer_detail_074] Tipo [Name:Type ]
+[common_widget/trainer_detail_075] Con
+mejoras
+[common_widget/trainer_detail_076] Con mejoras
+[common_widget/trainer_detail_077] Puedes seleccionar las siguientes
+categorías para ver las características
+que tendrá esta pareja tras mejorarla.
+[common_widget/trainer_detail_078] Con potencial aumentado
+[common_widget/trainer_detail_081] Restablecer al estado inicial
+[common_widget/trainer_detail_082] Aviso: Las parejas de compis se reclutan en su estado
+inicial.
+[common_widget/trainer_detail_083] Aviso: Se muestra con mejoras. No obtendrás a la
+pareja de compis en este estado ni al reclutarla
+ni al conseguirla mediante un canje.
 [common_widget/dialog_special_item_001] Has conseguido:
 [Name:Item ]
 [common_widget/dialog_special_item_002] Medallas restantes: [Digit:1digit ]
@@ -42608,6 +43641,9 @@ evolución?
 [common_widget/filter_073] Entrenador
 [common_widget/filter_074] Otros
 [common_widget/filter_075] Ajustes de pantallas de carga
+[common_widget/filter_076] Velocidad
+[common_widget/filter_077] Entorno
+[common_widget/filter_086] Paldea
 [common_widget/sort_001] Número de ★
 [common_widget/sort_002] Movimiento compi
 [common_widget/sort_003] PS
@@ -43188,7 +44224,19 @@ au Centre Pokémon.
 [common_widget/trainer_detail_069] Renforcement
 [common_widget/trainer_detail_070] Vous retournerez à l'écran d'exploration après ceci.
 [common_widget/trainer_detail_071] Ce Duo n'a pas de Couleur EX.
+[common_widget/trainer_detail_072] Accélérateur
+[common_widget/trainer_detail_073] Régisseur
 [common_widget/trainer_detail_074] Type [Name:Type ]
+[common_widget/trainer_detail_075] Aperçu des
+renforcements
+[common_widget/trainer_detail_076] Aperçu des renforcements
+[common_widget/trainer_detail_077] Vous pouvez changer les options suivantes pour avoir un aperçu des stats renforcées d'un Duo.
+[common_widget/trainer_detail_078] Potentiel augmenté
+[common_widget/trainer_detail_081] Réinitialisation
+[common_widget/trainer_detail_082] Remarque : les Duos obtenus depuis un Appel Duo sont dans leur état initial.
+[common_widget/trainer_detail_083] Aperçu mis à jour.
+Ce Duo ne peut pas être obtenu dans cet état
+via un Appel Duo ou le menu Échange d'objets.
 [common_widget/dialog_special_item_001] Vous avez obtenu
 1 [Name:Item ] !
 [common_widget/dialog_special_item_002] Encore [Digit:1digit ] Badge[FR:Qty P="s" ] à obtenir !
@@ -43298,6 +44346,9 @@ apprise
 [common_widget/filter_073] Dresseur
 [common_widget/filter_074] Autre
 [common_widget/filter_075] Paramètres de l'écran de chargement
+[common_widget/filter_076] Accélérateur
+[common_widget/filter_077] Régisseur
+[common_widget/filter_086] Paldea
 [common_widget/sort_001] Nombre d'★
 [common_widget/sort_002] Capacité Duo
 [common_widget/sort_003] PV
@@ -43880,7 +44931,19 @@ nel Centro Pokémon.
 [common_widget/trainer_detail_069] Rinforzo
 [common_widget/trainer_detail_070] Dopo il cambio d'abito farai ritorno alla schermata delle spedizioni.
 [common_widget/trainer_detail_071] Questa Unità non ha un Costume EX.
+[common_widget/trainer_detail_072] Sprinter
+[common_widget/trainer_detail_073] Campomastro
 [common_widget/trainer_detail_074] Tipo [Name:Type ]
+[common_widget/trainer_detail_075] Statistiche
+se rinforzata
+[common_widget/trainer_detail_076] Statistiche Unità rinforzata
+[common_widget/trainer_detail_077] Puoi scegliere tra le seguenti opzioni per controllare quali statistiche avrebbe l'Unità una volta rinforzata.
+[common_widget/trainer_detail_078] Numero di ★ aumentato
+[common_widget/trainer_detail_081] Ripristina i valori di partenza
+[common_widget/trainer_detail_082] Le Unità sono ottenute dall'Unicerca con i loro valori
+di partenza.
+[common_widget/trainer_detail_083] I valori mostrati riguardano l'Unità rinforzata.
+Non è possibile ottenerla in questo stato dall'Unicerca o dallo scambio strumenti.
 [common_widget/dialog_special_item_001] Hai ottenuto: [Name:Item ]!
 [common_widget/dialog_special_item_002] Medaglie mancanti: [Digit:1digit ]!
 [common_widget/dialog_special_item_003] Ora hai tutte le medaglie! Puoi affrontare il WPM!
@@ -43986,6 +45049,9 @@ dell'evoluzione?
 [common_widget/filter_073] Allenatori
 [common_widget/filter_074] Altro
 [common_widget/filter_075] Schermata di caricamento
+[common_widget/filter_076] Sprinter
+[common_widget/filter_077] Campomastro
+[common_widget/filter_086] Paldea
 [common_widget/sort_001] Numero di ★
 [common_widget/sort_002] Unimossa
 [common_widget/sort_003] PS
@@ -44558,7 +45624,21 @@ MAX
 [common_widget/trainer_detail_069] 強化
 [common_widget/trainer_detail_070] ※実行後探索画面に戻ります
 [common_widget/trainer_detail_071] このバディーズにはEXカラーはありません
+[common_widget/trainer_detail_072] スピード
+[common_widget/trainer_detail_073] フィールド
 [common_widget/trainer_detail_074] [Name:Type ]タイプ
+[common_widget/trainer_detail_075] 強化状態を
+確認する
+[common_widget/trainer_detail_076] 強化状態を確認
+[common_widget/trainer_detail_077] 以下の項目を選択することで
+強化状態のステータスを確認できます
+[common_widget/trainer_detail_078] ★アップ済
+[common_widget/trainer_detail_081] 初期状態にリセット
+[common_widget/trainer_detail_082] ※バディーズサーチからは
+初期状態で提供されます
+[common_widget/trainer_detail_083] ※強化状態を変更しています
+※バディーズサーチやどうぐ交換等から
+この状態で提供されることはありません
 [common_widget/dialog_special_item_001] [Name:Item ]を
 獲得しました！
 [common_widget/dialog_special_item_002] のこるバッジは　あと[Digit:1digit ]個！
@@ -44664,6 +45744,9 @@ Lv.MAX
 [common_widget/filter_073] トレーナー
 [common_widget/filter_074] その他
 [common_widget/filter_075] ロード画面設定
+[common_widget/filter_076] スピード
+[common_widget/filter_077] フィールド
+[common_widget/filter_086] パルデア
 [common_widget/sort_001] ★の数
 [common_widget/sort_002] バディーズわざ
 [common_widget/sort_003] HP
@@ -45247,7 +46330,21 @@ Lv.1 상태
 [common_widget/trainer_detail_069] 강화
 [common_widget/trainer_detail_070] ※실행 후 탐색 화면으로 돌아갑니다
 [common_widget/trainer_detail_071] 이 버디즈에게는 EX컬러가 없습니다
+[common_widget/trainer_detail_072] 스피드
+[common_widget/trainer_detail_073] 필드
 [common_widget/trainer_detail_074] [Name:Type ]타입
+[common_widget/trainer_detail_075] 강화 상태를
+확인한다
+[common_widget/trainer_detail_076] 강화 상태를 확인
+[common_widget/trainer_detail_077] 아래 항목을 선택해서
+강화 상태의 능력을 확인할 수 있습니다
+[common_widget/trainer_detail_078] ★상승 완료
+[common_widget/trainer_detail_081] 초기 상태로 초기화
+[common_widget/trainer_detail_082] ※버디즈서치에서는
+초기 상태로 제공됩니다
+[common_widget/trainer_detail_083] ※강화 상태를 변경하고 있습니다
+※버디즈서치나 도구 교환 등에서
+이 상태로 제공되지 않습니다
 [common_widget/dialog_special_item_001] [Name:Item ][Kor:Particle char="wo" ]
 획득했습니다!
 [common_widget/dialog_special_item_002] 남은 배지는 앞으로 [Digit:1digit ]개!
@@ -45353,6 +46450,9 @@ Lv.MAX
 [common_widget/filter_073] 트레이너
 [common_widget/filter_074] 기타
 [common_widget/filter_075] 로딩 화면 설정
+[common_widget/filter_076] 스피드
+[common_widget/filter_077] 필드
+[common_widget/filter_086] 팔데아
 [common_widget/sort_001] ★의 수
 [common_widget/sort_002] 버디즈기술
 [common_widget/sort_003] HP
@@ -45910,7 +47010,21 @@ MAX
 [common_widget/trainer_detail_069] 強化
 [common_widget/trainer_detail_070] ※執行後將回到探索畫面
 [common_widget/trainer_detail_071] 這對拍組沒有EX服裝
+[common_widget/trainer_detail_072] 速戰型
+[common_widget/trainer_detail_073] 場地型
 [common_widget/trainer_detail_074] [Name:Type ]屬性
+[common_widget/trainer_detail_075] 確認
+強化狀態
+[common_widget/trainer_detail_076] 確認強化狀態
+[common_widget/trainer_detail_077] 選擇下列項目
+可確認強化狀態的能力
+[common_widget/trainer_detail_078] 已提升★
+[common_widget/trainer_detail_081] 重置為初始狀態
+[common_widget/trainer_detail_082] ※拍組搜尋的拍組
+會以初始狀態來提供
+[common_widget/trainer_detail_083] ※已變更為強化後的狀態
+※拍組搜尋和交換道具等處
+不會以此狀態來提供
 [common_widget/dialog_special_item_001] 獲得了
 [Name:Item ]！
 [common_widget/dialog_special_item_002] 還剩下[Digit:1digit ]個徽章！
@@ -46014,6 +47128,9 @@ Lv.MAX
 [common_widget/filter_073] 訓練家
 [common_widget/filter_074] 其他
 [common_widget/filter_075] 載入畫面設定
+[common_widget/filter_076] 速戰型
+[common_widget/filter_077] 場地型
+[common_widget/filter_086] 帕底亞
 [common_widget/sort_001] ★數
 [common_widget/sort_002] 拍組招式
 [common_widget/sort_003] HP
