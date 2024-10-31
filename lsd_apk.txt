@@ -6020,6 +6020,66 @@ Top Vier
 (Teil 1)
 [quest_title_1040000900001021] Ein besonderer Tag mit Troy
 (Teil 2)
+[quest_group_detail_100108] Beschützer der Insel
+[quest_title_1040000070001011] Ein besonderer Tag mit Lola
+(Teil 1)
+[quest_title_1040000070001021] Ein besonderer Tag mit Lola
+(Teil 2)
+[quest_title_1030220098100000] Ein Tag mit MaMo-Tali
+[quest_title_1030220034100000] Ein Tag mit MaMo-Matsurika
+[quest_title_1030220007100000] Ein Tag mit MaMo-Lola
+[quest_title_1030220160100000] Ein Tag mit MaMo-Tracy
+[quest_title_1030110000560100] Vorboten der Unruhe
+[quest_title_1030110000560600] Vs. Æther Foundation 1
+[quest_title_1030110000560200] Pforten zu anderen Welten
+[quest_title_1030110000560700] Vs. Æther Foundation 2
+[quest_title_1030110000560300] Schutzpatron der Insel
+[quest_title_1030110000560800] Vs. Æther Foundation 3
+[quest_title_1030110000560400] Ein malerisches Duo
+[quest_title_1030110000560900] Vs. Æther Foundation 4
+[quest_title_1030110000560500] Licht ins Dunkel bringen
+[quest_title_1030504000601000] Vs. Æther Foundation 1
+[quest_title_1030504000601010] Vs. Æther Foundation 2
+[quest_title_1030504000601020] Vs. Æther Foundation 3
+[quest_title_1030504000601030] Täglicher schwerer Kampf
+[quest_title_1030504000601040] Herausforderungskampf 1
+[quest_title_1030504000601050] Herausforderungskampf 2
+[quest_title_1030504000603000] Drivals Vorschlag
+[quest_title_1030504000603010] Vs. Sparringspartner 1
+[quest_title_1030504000603020] Vs. Sparringspartner 2
+[quest_title_1030504000604000] Kräftemessen
+[quest_title_1030504000604020] Vs. Siegfried und Agathe 1
+[quest_title_1030504000604030] Vs. Siegfried und Agathe 2
+[quest_title_1030504000604040] Vs. Siegfried und Agathe 3
+[quest_title_1030504000604050] Vs. Siegfried und Agathe 4
+[quest_title_1030504000604060] Täglicher schwerer Kampf
+[quest_title_1030504000604010] Die Elite des Indigo-Plateaus
+[quest_title_1030504000605000] Kampf gegen die Uhr
+[quest_title_1030110000561000] Schutzpatrone vereint
+[quest_title_1030110000561500] Vs. Æther Foundation 5
+[quest_title_1030110000561100] Zeit für den Gegenangriff!
+[quest_title_1030110000561600] Vs. Æther Foundation 6
+[quest_title_1030110000561200] Fabians Vorhaben
+[quest_title_1030110000561700] Vs. Æther Foundation 7
+[quest_title_1030110000561300] Ein unerwarteter Verbündeter
+[quest_title_1030110000561800] Vs. Æther Foundation 8
+[quest_title_1030110000561400] Eine gemeinsame Zukunft
+[quest_title_1030504000602000] Vs. Æther Foundation 1
+[quest_title_1030504000602010] Vs. Æther Foundation 2
+[quest_title_1030504000602020] Vs. Æther Foundation 3
+[quest_title_1030504000602030] Täglicher schwerer Kampf
+[quest_title_1030504000602040] Herausforderungskampf 1
+[quest_title_1030504000602050] Herausforderungskampf 2
+[quest_title_1030440708001010] Vs. Dragan
+[quest_title_1030440708002010] Vs. Dragan 2
+[quest_title_1030440708003010] Vs. Dragan 3
+[quest_title_1030440708004010] Vs. Dragan 4
+[quest_title_1030440708005010] Täglicher Bonus-Kampf
+[quest_group_title_10098100000] MaMo-Tali
+[quest_group_title_10034100000] MaMo-Matsurika
+[quest_group_title_10007100000] MaMo-Lola
+[quest_group_title_10160100000] MaMo-Tracy
+[quest_group_title_100108] Alola
 
 ===========
 story_quest_name_en.lsd
@@ -9012,6 +9072,64 @@ Is Another’s Poison: Part 4
 [quest_title_1030503000604010] Kanto Elite Four’s Promise
 [quest_title_1040000900001011] A Special Day with Steven: Part 1
 [quest_title_1040000900001021] A Special Day with Steven: Part 2
+[quest_group_detail_100108] Protecting the Island
+[quest_title_1040000070001011] A Special Day with Acerola: Part 1
+[quest_title_1040000070001021] A Special Day with Acerola: Part 2
+[quest_title_1030220098100000] A Day with Sygna Suit Hau
+[quest_title_1030220034100000] A Day with Sygna Suit Mina
+[quest_title_1030220007100000] A Day with Sygna Suit Acerola
+[quest_title_1030220160100000] A Day with Sygna Suit Lana
+[quest_title_1030110000560100] Signs of Disturbance
+[quest_title_1030110000560600] Challenge the Aether Foundation: Part 1
+[quest_title_1030110000560200] Opened Gate to Other Worlds
+[quest_title_1030110000560700] Challenge the Aether Foundation: Part 2
+[quest_title_1030110000560300] Island Guardian Deity
+[quest_title_1030110000560800] Challenge the Aether Foundation: Part 3
+[quest_title_1030110000560400] A Picturesque Pair
+[quest_title_1030110000560900] Challenge the Aether Foundation: Part 4
+[quest_title_1030110000560500] Illuminating the Darkness
+[quest_title_1030504000601000] Challenge the Aether Foundation: Part 1
+[quest_title_1030504000601010] Challenge the Aether Foundation: Part 2
+[quest_title_1030504000601020] Challenge the Aether Foundation: Part 3
+[quest_title_1030504000601030] Daily Extreme Battle 1
+[quest_title_1030504000601040] Battle Challenge! Round 1
+[quest_title_1030504000601050] Battle Challenge! Round 2
+[quest_title_1030504000603000] Sawyer’s Proposal
+[quest_title_1030504000603010] Challenge the Body Builders: Part 1
+[quest_title_1030504000603020] Challenge the Body Builders: Part 2
+[quest_title_1030504000604000] Measuring Strength
+[quest_title_1030504000604020] Challenge Lance and Agatha: Part 1
+[quest_title_1030504000604030] Challenge Lance and Agatha: Part 2
+[quest_title_1030504000604040] Challenge Lance and Agatha: Part 3
+[quest_title_1030504000604050] Challenge Lance and Agatha: Part 4
+[quest_title_1030504000604060] Daily Extreme Battle 1
+[quest_title_1030504000604010] Indigo Plateau’s Fierce Fighters
+[quest_title_1030504000605000] Speed Challenge
+[quest_title_1030110000561000] Guardian Deities Assemble
+[quest_title_1030110000561500] Challenge the Aether Foundation: Part 5
+[quest_title_1030110000561100] Begin the Counterattack!
+[quest_title_1030110000561600] Challenge the Aether Foundation: Part 6
+[quest_title_1030110000561200] Faba’s Plan
+[quest_title_1030110000561700] Challenge the Aether Foundation: Part 7
+[quest_title_1030110000561300] An Unexpected Ally
+[quest_title_1030110000561800] Challenge the Aether Foundation: Part 8
+[quest_title_1030110000561400] A Future Together
+[quest_title_1030504000602000] Challenge the Aether Foundation: Part 1
+[quest_title_1030504000602010] Challenge the Aether Foundation: Part 2
+[quest_title_1030504000602020] Challenge the Aether Foundation: Part 3
+[quest_title_1030504000602030] Daily Extreme Battle 1
+[quest_title_1030504000602040] Battle Challenge! Round 1
+[quest_title_1030504000602050] Battle Challenge! Round 2
+[quest_title_1030440708001010] Challenge Drake: Part 1
+[quest_title_1030440708002010] Challenge Drake: Part 2
+[quest_title_1030440708003010] Challenge Drake: Part 3
+[quest_title_1030440708004010] Challenge Drake: Part 4
+[quest_title_1030440708005010] Daily Bonus Battle 1
+[quest_group_title_10098100000] Sygna Suit Hau
+[quest_group_title_10034100000] Sygna Suit Mina
+[quest_group_title_10007100000] Sygna Suit Acerola
+[quest_group_title_10160100000] Sygna Suit Lana
+[quest_group_title_100108] Alola
 
 ===========
 story_quest_name_es.lsd
@@ -12278,6 +12396,64 @@ Mando (4)
 de Kanto
 [quest_title_1040000900001011] Un día especial con Máximo
 [quest_title_1040000900001021] Un día especial con Máximo (2)
+[quest_group_detail_100108] La salvaguardia de la isla
+[quest_title_1040000070001011] Un día especial con Zarala
+[quest_title_1040000070001021] Un día especial con Zarala (2)
+[quest_title_1030220098100000] Un día con Tilo (Traje S)
+[quest_title_1030220034100000] Un día con Rika (Traje S)
+[quest_title_1030220007100000] Un día con Zarala (Traje S)
+[quest_title_1030220160100000] Un día con Nereida (Traje S)
+[quest_title_1030110000560100] Indicios de maquinación
+[quest_title_1030110000560600] VS. Fundación Æther
+[quest_title_1030110000560200] Puertas desde otro mundo
+[quest_title_1030110000560700] VS. Fundación Æther (2)
+[quest_title_1030110000560300] Espíritus guardianes de la isla
+[quest_title_1030110000560800] VS. Fundación Æther (3)
+[quest_title_1030110000560400] Una pareja de cuadro
+[quest_title_1030110000560900] VS. Fundación Æther (4)
+[quest_title_1030110000560500] Malicia al descubierto
+[quest_title_1030504000601000] VS. Fundación Æther
+[quest_title_1030504000601010] VS. Fundación Æther (2)
+[quest_title_1030504000601020] VS. Fundación Æther (3)
+[quest_title_1030504000601030] ¡Un combate difícil al día!
+[quest_title_1030504000601040] ¡Un combate desafiante!
+[quest_title_1030504000601050] ¡Un combate desafiante! (2)
+[quest_title_1030504000603000] La propuesta de Néstor
+[quest_title_1030504000603010] VS. Musculitos
+[quest_title_1030504000603020] VS. Musculitos (2)
+[quest_title_1030504000604000] Una muestra de fuerza
+[quest_title_1030504000604020] VS. Lance y Agatha
+[quest_title_1030504000604030] VS. Lance y Agatha (2)
+[quest_title_1030504000604040] VS. Lance y Agatha (3)
+[quest_title_1030504000604050] VS. Lance y Agatha (4)
+[quest_title_1030504000604060] ¡Un combate difícil al día!
+[quest_title_1030504000604010] Los maestros de la Meseta Añil
+[quest_title_1030504000605000] Combate supersónico
+[quest_title_1030110000561000] Espíritus guardianes al rescate
+[quest_title_1030110000561500] VS. Fundación Æther (5)
+[quest_title_1030110000561100] ¡Hora de contraatacar!
+[quest_title_1030110000561600] VS. Fundación Æther (6)
+[quest_title_1030110000561200] El plan de Fabio
+[quest_title_1030110000561700] VS. Fundación Æther (7)
+[quest_title_1030110000561300] Aliados inesperados
+[quest_title_1030110000561800] VS. Fundación Æther (8)
+[quest_title_1030110000561400] Un futuro en armonía
+[quest_title_1030504000602000] VS. Fundación Æther
+[quest_title_1030504000602010] VS. Fundación Æther (2)
+[quest_title_1030504000602020] VS. Fundación Æther (3)
+[quest_title_1030504000602030] ¡Un combate difícil al día!
+[quest_title_1030504000602040] ¡Un combate desafiante!
+[quest_title_1030504000602050] ¡Un combate desafiante! (2)
+[quest_title_1030440708001010] VS. Dracón
+[quest_title_1030440708002010] VS. Dracón (2)
+[quest_title_1030440708003010] VS. Dracón (3)
+[quest_title_1030440708004010] VS. Dracón (4)
+[quest_title_1030440708005010] ¡Un combate extra al día!
+[quest_group_title_10098100000] Tilo (Traje S)
+[quest_group_title_10034100000] Rika (Traje S)
+[quest_group_title_10007100000] Zarala (Traje S)
+[quest_group_title_10160100000] Nereida (Traje S)
+[quest_group_title_100108] Trama de Alola
 
 ===========
 story_quest_name_fr.lsd
@@ -15852,6 +16028,76 @@ Conseil 4 de Kanto
 avec Pierre Rochard
 [quest_title_1040000900001021] Une journée spéciale
 avec Pierre Rochard II
+[quest_group_detail_100108] À la protection de l'île
+[quest_title_1040000070001011] Une journée spéciale
+avec Margie
+[quest_title_1040000070001021] Une journée spéciale
+avec Margie II
+[quest_title_1030220098100000] Une journée avec Tili
+(Look Ultime)
+[quest_title_1030220034100000] Une journée avec Oléa
+(Look Ultime)
+[quest_title_1030220007100000] Une journée avec Margie
+(Look Ultime)
+[quest_title_1030220160100000] Une journée avec Néphie
+(Look Ultime)
+[quest_title_1030110000560100] Bouleversements
+[quest_title_1030110000560600] Combat : Fondation Æther
+[quest_title_1030110000560200] Portails vers d'autres mondes
+[quest_title_1030110000560700] Combat : Fondation Æther II
+[quest_title_1030110000560300] Les gardiens de l'île
+[quest_title_1030110000560800] Combat : Fondation Æther III
+[quest_title_1030110000560400] Un tandem à immortaliser
+[quest_title_1030110000560900] Combat : Fondation Æther IV
+[quest_title_1030110000560500] La vérité éclate
+au grand jour
+[quest_title_1030504000601000] Combat : Fondation Æther
+[quest_title_1030504000601010] Combat : Fondation Æther II
+[quest_title_1030504000601020] Combat : Fondation Æther III
+[quest_title_1030504000601030] Combat difficile limité
+à une fois par jour !
+[quest_title_1030504000601040] Combat difficile
+[quest_title_1030504000601050] Combat difficile II
+[quest_title_1030504000603000] La proposition d'Elvis
+[quest_title_1030504000603010] Combat : Corps athlétiques
+[quest_title_1030504000603020] Combat : Corps athlétiques II
+[quest_title_1030504000604000] Une démonstration de force
+[quest_title_1030504000604020] Combat : Peter et Agatha
+[quest_title_1030504000604030] Combat : Peter et Agatha II
+[quest_title_1030504000604040] Combat : Peter et Agatha III
+[quest_title_1030504000604050] Combat : Peter et Agatha IV
+[quest_title_1030504000604060] Combat difficile limité
+à une fois par jour !
+[quest_title_1030504000604010] L'élite du Plateau Indigo
+[quest_title_1030504000605000] Défi à grande vitesse
+[quest_title_1030110000561000] Réunion de gardiens
+[quest_title_1030110000561500] Combat : Fondation Æther V
+[quest_title_1030110000561100] Début de la contre-attaque
+[quest_title_1030110000561600] Combat : Fondation Æther VI
+[quest_title_1030110000561200] Les intentions de Saubohne
+[quest_title_1030110000561700] Combat : Fondation Æther VII
+[quest_title_1030110000561300] Un allié inattendu
+[quest_title_1030110000561800] Combat :
+Fondation Æther VIII
+[quest_title_1030110000561400] Un futur ensemble
+[quest_title_1030504000602000] Combat : Fondation Æther
+[quest_title_1030504000602010] Combat : Fondation Æther II
+[quest_title_1030504000602020] Combat : Fondation Æther III
+[quest_title_1030504000602030] Combat difficile limité
+à une fois par jour !
+[quest_title_1030504000602040] Combat difficile
+[quest_title_1030504000602050] Combat difficile II
+[quest_title_1030440708001010] Combat : Aragon
+[quest_title_1030440708002010] Combat : Aragon II
+[quest_title_1030440708003010] Combat : Aragon III
+[quest_title_1030440708004010] Combat : Aragon IV
+[quest_title_1030440708005010] Combat bonus limité
+à une fois par jour !
+[quest_group_title_10098100000] Tili (Look Ultime)
+[quest_group_title_10034100000] Oléa (Look Ultime)
+[quest_group_title_10007100000] Margie (Look Ultime)
+[quest_group_title_10160100000] Néphie (Look Ultime)
+[quest_group_title_100108] Alola
 
 ===========
 story_quest_name_it.lsd
@@ -18782,6 +19028,64 @@ story_quest_name_it.lsd
 [quest_title_1030503000604010] Rendez-vous con i Superquattro di Kanto
 [quest_title_1040000900001011] Un giorno speciale con Rocco (1ª parte)
 [quest_title_1040000900001021] Un giorno speciale con Rocco (2ª parte)
+[quest_group_detail_100108] I protettori dell'isola
+[quest_title_1040000070001011] Un giorno speciale con Malpi (1ª parte)
+[quest_title_1040000070001021] Un giorno speciale con Malpi (2ª parte)
+[quest_title_1030220098100000] Un giorno con Hau Costumax
+[quest_title_1030220034100000] Un giorno con Rika Costumax
+[quest_title_1030220007100000] Un giorno con Malpi Costumax
+[quest_title_1030220160100000] Un giorno con Suiren Costumax
+[quest_title_1030110000560100] Qualcosa nell'aria
+[quest_title_1030110000560600] VS Fondazione Æther
+[quest_title_1030110000560200] Varchi su altre dimensioni
+[quest_title_1030110000560700] VS Fondazione Æther 2
+[quest_title_1030110000560300] I numi protettori dell'isola
+[quest_title_1030110000560800] VS Fondazione Æther 3
+[quest_title_1030110000560400] Un duo per un bel quadretto
+[quest_title_1030110000560900] VS Fondazione Æther 4
+[quest_title_1030110000560500] Verità svelata
+[quest_title_1030504000601000] VS Fondazione Æther
+[quest_title_1030504000601010] VS Fondazione Æther 2
+[quest_title_1030504000601020] VS Fondazione Æther 3
+[quest_title_1030504000601030] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030504000601040] Sfida ad alta difficoltà
+[quest_title_1030504000601050] Sfida ad alta difficoltà 2
+[quest_title_1030504000603000] La proposta di Ravi
+[quest_title_1030504000603010] VS Allenatori In corpore sano
+[quest_title_1030504000603020] VS Allenatori In corpore sano 2
+[quest_title_1030504000604000] Il giusto atteggiamento
+[quest_title_1030504000604020] VS Lance e Agatha
+[quest_title_1030504000604030] VS Lance e Agatha 2
+[quest_title_1030504000604040] VS Lance e Agatha 3
+[quest_title_1030504000604050] VS Lance e Agatha 4
+[quest_title_1030504000604060] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030504000604010] I quattro dell'Altopiano Blu
+[quest_title_1030504000605000] Sfida per il record
+[quest_title_1030110000561000] Due Pokémon protettori riuniti
+[quest_title_1030110000561500] VS Fondazione Æther 5
+[quest_title_1030110000561100] Via al contrattacco!
+[quest_title_1030110000561600] VS Fondazione Æther 6
+[quest_title_1030110000561200] Il piano di Vicio
+[quest_title_1030110000561700] VS Fondazione Æther 7
+[quest_title_1030110000561300] Alleati inaspettati
+[quest_title_1030110000561800] VS Fondazione Æther 8
+[quest_title_1030110000561400] Un futuro in armonia
+[quest_title_1030504000602000] VS Fondazione Æther
+[quest_title_1030504000602010] VS Fondazione Æther 2
+[quest_title_1030504000602020] VS Fondazione Æther 3
+[quest_title_1030504000602030] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030504000602040] Sfida ad alta difficoltà
+[quest_title_1030504000602050] Sfida ad alta difficoltà 2
+[quest_title_1030440708001010] VS Drake
+[quest_title_1030440708002010] VS Drake 2
+[quest_title_1030440708003010] VS Drake 3
+[quest_title_1030440708004010] VS Drake 4
+[quest_title_1030440708005010] Lotta bonus (una al giorno)!
+[quest_group_title_10098100000] Hau Costumax
+[quest_group_title_10034100000] Rika Costumax
+[quest_group_title_10007100000] Malpi Costumax
+[quest_group_title_10160100000] Suiren Costumax
+[quest_group_title_100108] Capitolo di Alola
 
 ===========
 story_quest_name_ja.lsd
@@ -21784,6 +22088,64 @@ story_quest_name_ja.lsd
 [quest_title_1030503000604010] カントー四天王の約束
 [quest_title_1040000900001011] ダイゴとの特別な一日　前編
 [quest_title_1040000900001021] ダイゴとの特別な一日　後編
+[quest_group_detail_100108] 島を守る輝く意思	
+[quest_title_1040000070001011] アセロラとの特別な一日　前編
+[quest_title_1040000070001021] アセロラとの特別な一日　後編
+[quest_title_1030220098100000] とある日のマジコスハウ
+[quest_title_1030220034100000] とある日のマジコスマツリカ
+[quest_title_1030220007100000] とある日のマジコスアセロラ
+[quest_title_1030220160100000] とある日のマジコススイレン
+[quest_title_1030110000560100] 異変の前触れ
+[quest_title_1030110000560600] ＶＳ　エーテル財団
+[quest_title_1030110000560200] 開かれた異界の門
+[quest_title_1030110000560700] ＶＳ　エーテル財団２
+[quest_title_1030110000560300] 「島」の守り神
+[quest_title_1030110000560800] ＶＳ　エーテル財団３
+[quest_title_1030110000560400] 絵になるコンビ
+[quest_title_1030110000560900] ＶＳ　エーテル財団４
+[quest_title_1030110000560500] 明かされる闇
+[quest_title_1030504000601000] ＶＳ　エーテル財団
+[quest_title_1030504000601010] ＶＳ　エーテル財団２
+[quest_title_1030504000601020] ＶＳ　エーテル財団３
+[quest_title_1030504000601030] １日１回限定・高難度バトル！
+[quest_title_1030504000601040] チャレンジバトルで勝負！
+[quest_title_1030504000601050] チャレンジバトルで勝負！２
+[quest_title_1030504000603000] ドリバルの提案
+[quest_title_1030504000603010] ＶＳ　鍛えた身体
+[quest_title_1030504000603020] ＶＳ　鍛えた身体２
+[quest_title_1030504000604000] 指標としての役目
+[quest_title_1030504000604020] ＶＳ　ワタルとキクコ
+[quest_title_1030504000604030] ＶＳ　ワタルとキクコ２
+[quest_title_1030504000604040] ＶＳ　ワタルとキクコ３
+[quest_title_1030504000604050] ＶＳ　ワタルとキクコ４
+[quest_title_1030504000604060] １日１回限定・高難度バトル！
+[quest_title_1030504000604010] セキエイの猛者たち
+[quest_title_1030504000605000] 最速への挑戦
+[quest_title_1030110000561000] 集う守り神たち
+[quest_title_1030110000561500] ＶＳ　エーテル財団５
+[quest_title_1030110000561100] 反撃開始！
+[quest_title_1030110000561600] ＶＳ　エーテル財団６
+[quest_title_1030110000561200] ザオボーの企み
+[quest_title_1030110000561700] ＶＳ　エーテル財団７
+[quest_title_1030110000561300] 意外な助っ人
+[quest_title_1030110000561800] ＶＳ　エーテル財団８
+[quest_title_1030110000561400] 共に生きる未来へ
+[quest_title_1030504000602000] ＶＳ　エーテル財団
+[quest_title_1030504000602010] ＶＳ　エーテル財団２
+[quest_title_1030504000602020] ＶＳ　エーテル財団３
+[quest_title_1030504000602030] １日１回限定・高難度バトル！
+[quest_title_1030504000602040] チャレンジバトルで勝負！
+[quest_title_1030504000602050] チャレンジバトルで勝負！２
+[quest_title_1030440708001010] ＶＳ　ゲンジ
+[quest_title_1030440708002010] ＶＳ　ゲンジ２
+[quest_title_1030440708003010] ＶＳ　ゲンジ３
+[quest_title_1030440708004010] ＶＳ　ゲンジ４
+[quest_title_1030440708005010] １日１回限定・ボーナスバトル！
+[quest_group_title_10098100000] マジコスハウ
+[quest_group_title_10034100000] マジコスマツリカ
+[quest_group_title_10007100000] マジコスアセロラ
+[quest_group_title_10160100000] マジコススイレン
+[quest_group_title_100108] アローラ編
 
 ===========
 story_quest_name_ko.lsd
@@ -24785,6 +25147,64 @@ story_quest_name_ko.lsd
 [quest_title_1030503000604010] 관동지방 사천왕의 약속
 [quest_title_1040000900001011] 성호와의 특별한 하루 전편
 [quest_title_1040000900001021] 성호와의 특별한 하루 후편
+[quest_group_detail_100108] 섬을 지키는 빛의 의지
+[quest_title_1040000070001011] 아세로라와의 특별한 하루 전편
+[quest_title_1040000070001021] 아세로라와의 특별한 하루 후편
+[quest_title_1030220098100000] 궁극코스 하우의 어느 날
+[quest_title_1030220034100000] 궁극코스 말리화의 어느 날
+[quest_title_1030220007100000] 궁극코스 아세로라의 어느 날
+[quest_title_1030220160100000] 궁극코스 수련의 어느 날
+[quest_title_1030110000560100] 이변의 전조
+[quest_title_1030110000560600] VS 에테르재단
+[quest_title_1030110000560200] 열려 버린 이계의 문
+[quest_title_1030110000560700] VS 에테르재단2
+[quest_title_1030110000560300] "섬"의 수호신
+[quest_title_1030110000560800] VS 에테르재단3
+[quest_title_1030110000560400] 그림이 되는 콤비
+[quest_title_1030110000560900] VS 에테르재단4
+[quest_title_1030110000560500] 드러나는 어둠
+[quest_title_1030504000601000] VS 에테르재단
+[quest_title_1030504000601010] VS 에테르재단2
+[quest_title_1030504000601020] VS 에테르재단3
+[quest_title_1030504000601030] 1일 1회 한정 고난도 배틀!
+[quest_title_1030504000601040] 챌린지배틀로 승부!
+[quest_title_1030504000601050] 챌린지배틀로 승부!2
+[quest_title_1030504000603000] 드리버의 제안
+[quest_title_1030504000603010] VS 단련한 신체
+[quest_title_1030504000603020] VS 단련한 신체2
+[quest_title_1030504000604000] 지표로서의 역할
+[quest_title_1030504000604020] VS 목호, 국화
+[quest_title_1030504000604030] VS 목호, 국화2
+[quest_title_1030504000604040] VS 목호, 국화3
+[quest_title_1030504000604050] VS 목호, 국화4
+[quest_title_1030504000604060] 1일 1회 한정 고난도 배틀!
+[quest_title_1030504000604010] 석영고원의 강자들
+[quest_title_1030504000605000] 최속으로의 도전
+[quest_title_1030110000561000] 모여드는 수호신들
+[quest_title_1030110000561500] VS 에테르재단5
+[quest_title_1030110000561100] 반격 개시!
+[quest_title_1030110000561600] VS 에테르재단6
+[quest_title_1030110000561200] 자우보의 꿍꿍이
+[quest_title_1030110000561700] VS 에테르재단7
+[quest_title_1030110000561300] 예상치 못한 조력자
+[quest_title_1030110000561800] VS 에테르재단8
+[quest_title_1030110000561400] 함께 살아가는 미래로
+[quest_title_1030504000602000] VS 에테르재단
+[quest_title_1030504000602010] VS 에테르재단2
+[quest_title_1030504000602020] VS 에테르재단3
+[quest_title_1030504000602030] 1일 1회 한정 고난도 배틀!
+[quest_title_1030504000602040] 챌린지배틀로 승부!
+[quest_title_1030504000602050] 챌린지배틀로 승부!2
+[quest_title_1030440708001010] VS 권수
+[quest_title_1030440708002010] VS 권수2
+[quest_title_1030440708003010] VS 권수3
+[quest_title_1030440708004010] VS 권수4
+[quest_title_1030440708005010] 1일 1회 한정 보너스 배틀!
+[quest_group_title_10098100000] 궁극코스 하우
+[quest_group_title_10034100000] 궁극코스 말리화
+[quest_group_title_10007100000] 궁극코스 아세로라
+[quest_group_title_10160100000] 궁극코스 수련
+[quest_group_title_100108] 알로라지방 편
 
 ===========
 story_quest_name_zh-TW.lsd
@@ -27786,6 +28206,64 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030503000604010] 關都四天王的約定
 [quest_title_1040000900001011] 與大吾的特別日子　前篇
 [quest_title_1040000900001021] 與大吾的特別日子　後篇
+[quest_group_detail_100108] 守護島嶼的耀眼意志
+[quest_title_1040000070001011] 與阿塞蘿拉的特別日子　前篇
+[quest_title_1040000070001021] 與阿塞蘿拉的特別日子　後篇
+[quest_title_1030220098100000] 某日的美極套裝哈烏
+[quest_title_1030220034100000] 某日的美極套裝茉莉
+[quest_title_1030220007100000] 某日的美極套裝阿塞蘿拉
+[quest_title_1030220160100000] 某日的美極套裝水蓮
+[quest_title_1030110000560100] 變異的前兆
+[quest_title_1030110000560600] ＶＳ　以太基金會
+[quest_title_1030110000560200] 被打開的異世界之門
+[quest_title_1030110000560700] ＶＳ　以太基金會２
+[quest_title_1030110000560300] 「島嶼」守護神
+[quest_title_1030110000560800] ＶＳ　以太基金會３
+[quest_title_1030110000560400] 如畫般的組合
+[quest_title_1030110000560900] ＶＳ　以太基金會４
+[quest_title_1030110000560500] 明朗化的黑暗
+[quest_title_1030504000601000] ＶＳ　以太基金會
+[quest_title_1030504000601010] ＶＳ　以太基金會２
+[quest_title_1030504000601020] ＶＳ　以太基金會３
+[quest_title_1030504000601030] １天僅限１次的高難度對戰！
+[quest_title_1030504000601040] 用挑戰對戰決勝負！
+[quest_title_1030504000601050] 用挑戰對戰決勝負！２
+[quest_title_1030504000603000] 螺伯的提案
+[quest_title_1030504000603010] ＶＳ　鍛鍊精壯的身體
+[quest_title_1030504000603020] ＶＳ　鍛鍊精壯的身體２
+[quest_title_1030504000604000] 身為指標的職責
+[quest_title_1030504000604020] ＶＳ　阿渡與菊子
+[quest_title_1030504000604030] ＶＳ　阿渡與菊子２
+[quest_title_1030504000604040] ＶＳ　阿渡與菊子３
+[quest_title_1030504000604050] ＶＳ　阿渡與菊子４
+[quest_title_1030504000604060] １天僅限１次的高難度對戰！
+[quest_title_1030504000604010] 石英高原的強者們
+[quest_title_1030504000605000] 挑戰最快速度
+[quest_title_1030110000561000] 齊聚一堂的守護神們
+[quest_title_1030110000561500] ＶＳ　以太基金會５
+[quest_title_1030110000561100] 開始反擊！
+[quest_title_1030110000561600] ＶＳ　以太基金會６
+[quest_title_1030110000561200] 扎奧博的企圖
+[quest_title_1030110000561700] ＶＳ　以太基金會７
+[quest_title_1030110000561300] 出人意表的幫手
+[quest_title_1030110000561800] ＶＳ　以太基金會８
+[quest_title_1030110000561400] 迎向共存的未來
+[quest_title_1030504000602000] ＶＳ　以太基金會
+[quest_title_1030504000602010] ＶＳ　以太基金會２
+[quest_title_1030504000602020] ＶＳ　以太基金會３
+[quest_title_1030504000602030] １天僅限１次的高難度對戰！
+[quest_title_1030504000602040] 用挑戰對戰決勝負！
+[quest_title_1030504000602050] 用挑戰對戰決勝負！２
+[quest_title_1030440708001010] ＶＳ　源治
+[quest_title_1030440708002010] ＶＳ　源治２
+[quest_title_1030440708003010] ＶＳ　源治３
+[quest_title_1030440708004010] ＶＳ　源治４
+[quest_title_1030440708005010] １天僅限１次的獎勵對戰！
+[quest_group_title_10098100000] 美極套裝哈烏
+[quest_group_title_10034100000] 美極套裝茉莉
+[quest_group_title_10007100000] 美極套裝阿塞蘿拉
+[quest_group_title_10160100000] 美極套裝水蓮
+[quest_group_title_100108] 阿羅拉篇
 
 ===========
 trainer_description_de.lsd
@@ -28787,6 +29265,27 @@ Kampfgeschrei an.
 [10090000001] Ein Trainer auf Wanderschaft mit einem Faible für seltene
 Steine. Er ist der Sprössling der Devon Corporation und
 Champ der Pokémon-Liga von Hoenn.
+[10098100000] Tali trägt eine Machtmontur und bringt gemeinsam mit
+seinem kampflustigen Kapu-Riki frischen Wind in das
+Geschehen auf Passio.
+[10034100000] Matsurika trägt eine Machtmontur. Gemeinsam mit
+Kapu-Kime, welches Wasser kontrollieren kann, fängt sie
+die Farben von Passios Meeren mit ihrem Pinsel ein.
+[10007100000] Lola trägt eine Machtmontur und patrouilliert gemeinsam
+mit ihrem leicht unberechenbaren Kapu-Toro Passios
+Wälder.
+[10160100000] Tracy trägt eine Machtmontur und ist bereit, gemeinsam
+mit dem arglosen Kapu-Fala ihre Angel auf Passio
+auszuwerfen.
+[10007000001] Ein Mitglied der Top Vier in Alola und Expertin im Umgang
+mit Geister-Pokémon. Es heißt, sie sei Abkömmling einer
+uralten Herrscherdynastie.
+[10061000001] Auch in hohem Alter treibt dieses kampfbegeisterte
+Top-Vier-Mitglied Gegner in die Enge. Mit Professor
+Eich verbindet sie eine gemeinsame Vergangenheit.
+[10111000001] Der Champ des Indigo-Plateaus legt Wert auf Vertrauen
+und Liebe zu Pokémon und mag faire Kämpfe. Er kümmert
+sich um andere und wird von vielen verehrt.
 
 ===========
 trainer_description_en.lsd
@@ -28963,7 +29462,7 @@ He appears lazy, but he is truly skilled in Pokémon battles
 and also deeply compassionate.
 [10057000000] A member of the Elite Four who believes that people and
 Pokémon can become stronger through rigorous—even
-extreme—training, he shouts “Hoo Hah!” to get fired up.
+extreme—training, he shouts “Hoo hah!” to get fired up.
 [10058000000] A genius pro golfer with a stoic personality who competes
 all over the world, she is also a diligent member of the
 Elite Four who never neglects Pokémon battles.
@@ -29683,6 +30182,24 @@ extreme—training, he shouts “Hoo hah!” to get fired up.
 [10090000001] Known as the wandering stone collector due to his love
 of rare stones, he is actually the heir to the Devon
 Corporation and Champion of the Hoenn Pokémon League.
+[10098100000] Hau is wearing a sygna suit. He’s bringing a new breeze
+to Pasio together with the combative Tapu Koko.
+[10034100000] Mina is wearing a sygna suit. She’s painting the
+colors of Pasio’s sea together with Tapu Fini,
+which is known to control water.
+[10007100000] Acerola is wearing a sygna suit. She’s patrolling Pasio’s
+forests together with the slightly capricious Tapu Bulu.
+[10160100000] Lana is wearing a sygna suit. She’s ready to reel in
+everyone on Pasio together with the carefree Tapu Lele.
+[10007000001] Rumored to be descended from an ancient Alolan dynasty,
+this Ghost-type Pokémon user serves as one of the
+Alola region’s Elite Four.
+[10061000001] A strong-willed veteran with a penchant for battling, this
+member of the Elite Four tries to wear opponents down.
+She seems to have some history with Professor Oak.
+[10111000001] The Indigo League Champion prefers his battles
+fair and square, and many find his caring demeanor
+very endearing.
 
 ===========
 trainer_description_es.lsd
@@ -30737,6 +31254,28 @@ entusiasmo.
 de la Liga Pokémon de Hoenn. Muestra tal devoción
 por las piedras raras que lo apodan el Coleccionista
 de Piedras Errante.
+[10098100000] Tilo luce su Traje Summum y trae vientos de cambio
+a Passio con la ayuda de Tapu Koko, amante de los
+combates.
+[10034100000] Rika está ataviada con un Traje Summum perfecto para
+pintar los colores del mar de Passio. La acompaña su
+Tapu Fini, que puede controlar el agua.
+[10007100000] Zarala vuelve con un Traje Summum y patrulla los
+bosques de Passio junto al caprichoso Tapu Bulu.
+[10160100000] Nereida lleva un Traje Summum y, junto al desenfadado
+Tapu Lele, está preparada para pescar la atención de
+toda Passio.
+[10007000001] Miembro del Alto Mando de Alola y experta en
+Pokémon de tipo Fantasma. Se dice que desciende
+de una noble familia de la región.
+[10061000001] Veterana integrante del Alto Mando de personalidad
+fuerte. Es una gran apasionada de los combates, en
+los que acorrala a sus rivales. Parece tener cierto
+pasado con el Profesor Oak.
+[10111000001] El Campeón de la Meseta Añil. Valora la confianza y el
+amor por los Pokémon por encima de todas las cosas y
+aborrece a los que juegan sucio en combate. Se preocupa
+por la gente y causa admiración allá por donde va.
 
 ===========
 trainer_description_fr.lsd
@@ -31744,6 +32283,24 @@ son énergie à l'entraînement intensif de son corps
 et de ses Pokémon.
 [10090000001] Collectionneur de pierres rares et président de
 la Devon SARL, c'est aussi le Maître de Hoenn.
+[10098100000] Tili porte un Look Ultime. Il souffle un vent nouveau
+sur Passio en compagnie du combatif Tokorico.
+[10034100000] Oléa porte un Look Ultime. Elle peint les couleurs
+de la mer de Passio accompagnée de Tokopisco,
+le maître de l'eau.
+[10007100000] Margie porte un Look Ultime. Elle fait sa ronde dans
+les forêts de Passio avec le capricieux Tokotoro.
+[10160100000] Néphie porte un Look Ultime. Elle est prête à appâter
+tout le monde en compagnie de l'insouciant Tokopiyon.
+[10007000001] Une spécialiste du type Spectre, membre
+du Conseil 4 d'Alola et héritière de l'ancienne
+famille royale de la région.
+[10061000001] Membre du Conseil 4 expérimentée et aux techniques
+redoutables, elle semble avoir eu un différend avec
+le Professeur Chen par le passé.
+[10111000001] Le Maître du Plateau Indigo. Il est accompagné de
+Pokémon qui lui vouent une confiance et un amour
+absolu. Il aime les combats et aider les gens en difficulté.
 
 ===========
 trainer_description_it.lsd
@@ -32730,6 +33287,26 @@ Spesso grida prima di attaccare.
 [10090000001] Noto come "il collezionista girovago", è figlio del capo
 della Devon S.p.A. e Campione della Lega Pokémon
 di Hoenn. Ama le gemme rare.
+[10098100000] Hau indossa un Costumax e porta un vento nuovo
+a Pasio insieme al combattivo Tapu Koko.
+[10034100000] Rika indossa un Costumax e cattura i colori del mare
+di Pasio sulla sua tela insieme a Tapu Fini, che ha
+il potere di controllare i flutti.
+[10007100000] Malpi indossa un Costumax e veglia sulle foreste di Pasio
+insieme a Tapu Bulu, che può a volte avere un carattere
+un po' difficile.
+[10160100000] Suiren indossa un Costumax ed è pronta a far pesca
+grande a Pasio insieme a Tapu Lele, che ha un'indole
+innocente.
+[10007000001] Superquattro di Alola e specialista di Pokémon di tipo
+Spettro. Si dice che discenda dall'antica dinastia reale
+di Alola.
+[10061000001] Superquattro di grande esperienza, dal carattere duro
+e dallo stile di lotta incalzante.
+Pare avere dei trascorsi con il Professor Oak.
+[10111000001] Campione dell'Altopiano Blu. Dà molta importanza
+alla fiducia e all'affetto per i Pokémon e predilige lotte
+all'insegna della correttezza. È premuroso e molto amato.
 
 ===========
 trainer_description_ja.lsd
@@ -33622,6 +34199,27 @@ trainer_description_ja.lsd
 [10090000001] 珍しい石が　大好きな　人呼んで　さすらいの石集め。
 その正体は　デボンコーポレーションの　御曹司であり
 ホウエン地方　ポケモンリーグ　チャンピオン。
+[10098100000] マジコスを　身にまとった　ハウ。
+戦い好きな　性格の　カプ・コケコと　共に
+パシオに　新たな風を　吹かせる。
+[10034100000] マジコスを　身にまとった　マツリカ。
+水を　操るという　カプ・レヒレと　共に
+パシオの　海の色を　描く。
+[10007100000] マジコスを　身にまとった　アセロラ。
+ちょっと気難しい　カプ・ブルルと　共に
+パシオの　森を　パトロール。
+[10160100000] マジコスを　身にまとった　スイレン。
+無邪気な　性格の　カプ・テテフと　共に
+パシオの　みんなを　いっぽんづり。
+[10007000001] アローラ地方で　ポケモンリーグ四天王を　つとめる
+ゴーストポケモン使い。　実は　アローラに伝わる
+古代王朝の　末えいだという　ウワサがある。
+[10061000001] 気が強く　戦いに　こだわりを持つ　大ベテラン。
+ゆっくりと　追い詰める　戦法が　得意な　四天王だ。
+オーキド博士と　過去に　因縁が　あるらしい。
+[10111000001] セキエイ高原の　チャンピオン。ポケモンとの　信頼や
+愛情を　大切にしていて　正々堂々の　勝負を　好む。
+面倒見が　よく　たくさんの　人から　慕われている。
 
 ===========
 trainer_description_ko.lsd
@@ -34513,6 +35111,27 @@ WPM 운영위원회의 대표도 맡고 있다.
 [10090000001] 희귀한 돌을 좋아하는 일명 방랑하는 돌수집가.
 그 정체는 데봉 코포레이션의 자제이자
 호연지방 포켓몬리그의 챔피언이다.
+[10098100000] 궁극코스를 입은 하우.
+호전적인 성격의 카푸꼬꼬꼭과 함께
+파시오에 새로운 바람을 일으킨다.
+[10034100000] 궁극코스를 입은 말리화.
+물을 조종한다는 카푸느지느와 함께
+파시오 바다의 색채를 그린다.
+[10007100000] 궁극코스를 입은 아세로라.
+조금 까다로운 성격의 카푸브루루와 함께
+파시오의 숲을 순찰한다.
+[10160100000] 궁극코스를 입은 수련.
+천진난만한 성격의 카푸나비나와 함께
+파시오의 모두를 줄줄이 낚는다.
+[10007000001] 알로라지방에서 포켓몬리그 사천왕을 맡고 있는
+고스트포켓몬 전문가. 사실은 알로라에 있던
+고대 왕조의 자손이라는 소문이 있다.
+[10061000001] 기가 세고 싸움에 나름의 고집을 가진 베테랑 중 베테랑.
+서서히 궁지에 몰아넣는 전법이 특기인 사천왕이다.
+오박사와 과거에 인연이 있었다는 듯하다.
+[10111000001] 석영고원의 챔피언. 포켓몬과의 신뢰와 애정을
+소중하게 생각하며 정정당당한 승부를 선호한다.
+남을 잘 돌보기 때문에 많은 사람에게 존경받고 있다.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -35404,6 +36023,27 @@ trainer_description_zh-TW.lsd
 [10090000001] 喜歡稀有的石頭，人稱「漂泊藏石家」。
 他的真實身分是得文公司的小開，
 同時也是豐緣地區寶可夢聯盟的冠軍。
+[10098100000] 身穿美極套裝的哈烏。
+他和性情好戰的卡璞・鳴鳴
+將一起帶給帕希歐新的風氣。
+[10034100000] 身穿美極套裝的茉莉。
+她和據說能操縱水的卡璞・鰭鰭
+將一起畫下帕希歐大海的顏色。
+[10007100000] 身穿美極套裝的阿塞蘿拉。
+她和不太好伺候的卡璞・哞哞
+會一起巡邏帕希歐的森林。
+[10160100000] 身穿美極套裝的水蓮。
+她和個性天真無邪的卡璞・蝶蝶
+將一起讓帕希歐的所有人一次上鉤。
+[10007000001] 在阿羅拉地區的寶可夢聯盟擔任四天王，
+擅長使用幽靈屬性寶可夢。有傳聞說
+她是阿羅拉古代王朝的後裔。
+[10061000001] 個性強勢，對戰術很講究的資深訓練家。
+擅長把對手慢慢逼入絕境的四天王。
+聽說她和大木博士有過一段因緣際會。
+[10111000001] 石英高原的冠軍。重視和寶可夢之間的
+信賴與情誼，喜歡光明正大的挑戰。
+善於照顧人的個性，使他受到很多人的愛戴。
 
 ===========
 trainer_name_de.lsd
@@ -35575,6 +36215,7 @@ trainer_name_de.lsd
 [ch0180] Tierno
 [ch0181] Trovato
 [ch0183] Marlon
+[ch0184] Fabian
 [ch0190] Ryuki
 [ch0191] Achromas
 [ch0192] Marc
@@ -35640,6 +36281,12 @@ trainer_name_de.lsd
 [ch0611] Flare Rüpel
 [ch0644] Flare Rüpel
 [ch0610] Kimono-Trägerin
+[ch0516] Æther Foundation
+[ch0647] Æther Foundation
+[ch0517] Æther Foundation
+[ch0648] Æther Foundation
+[ch0560] Skull Rüpel
+[ch0561] Skull Rüpel
 
 ===========
 trainer_name_en.lsd
@@ -35811,6 +36458,7 @@ trainer_name_en.lsd
 [ch0180] Tierno
 [ch0181] Trevor
 [ch0183] Molayne
+[ch0184] Faba
 [ch0190] Ryuki
 [ch0191] Colress
 [ch0192] Maxie
@@ -35876,6 +36524,12 @@ trainer_name_en.lsd
 [ch0611] Team Flare Grunt
 [ch0644] Team Flare Grunt
 [ch0610] Furisode Girl
+[ch0516] Aether Foundation
+[ch0647] Aether Foundation
+[ch0517] Aether Foundation
+[ch0648] Aether Foundation
+[ch0560] Team Skull Grunt
+[ch0561] Team Skull Grunt
 
 ===========
 trainer_name_es.lsd
@@ -36047,6 +36701,7 @@ trainer_name_es.lsd
 [ch0180] Beni
 [ch0181] Trovato
 [ch0183] Lario
+[ch0184] Fabio
 [ch0190] Olano
 [ch0191] Acromo
 [ch0192] Magno
@@ -36112,6 +36767,12 @@ trainer_name_es.lsd
 [ch0611] Recluta del Team Flare
 [ch0644] Recluta del Team Flare
 [ch0610] Jovencita con Kimono
+[ch0516] Fundación Æther
+[ch0647] Fundación Æther
+[ch0517] Fundación Æther
+[ch0648] Fundación Æther
+[ch0560] Recluta del Team Skull
+[ch0561] Recluta del Team Skull
 
 ===========
 trainer_name_fr.lsd
@@ -36283,6 +36944,7 @@ trainer_name_fr.lsd
 [ch0180] Tierno
 [ch0181] Trovato
 [ch0183] Molène
+[ch0184] Saubohne
 [ch0190] Solane
 [ch0191] Nikolaï
 [ch0192] Max
@@ -36348,6 +37010,12 @@ trainer_name_fr.lsd
 [ch0611] Sbire Team Flare
 [ch0644] Sbire Team Flare
 [ch0610] Fille en Kimono
+[ch0516] Fondation Æther
+[ch0647] Fondation Æther
+[ch0517] Fondation Æther
+[ch0648] Fondation Æther
+[ch0560] Sbire Team Skull
+[ch0561] Sbire Team Skull
 
 ===========
 trainer_name_it.lsd
@@ -36519,6 +37187,7 @@ trainer_name_it.lsd
 [ch0180] Tierno
 [ch0181] Trovato
 [ch0183] Tapso
+[ch0184] Vicio
 [ch0190] Morel
 [ch0191] Acromio
 [ch0192] Max
@@ -36584,6 +37253,12 @@ trainer_name_it.lsd
 [ch0611] Recluta del Team Flare
 [ch0644] Recluta del Team Flare
 [ch0610] Ragazza in kimono
+[ch0516] Fondazione Æther
+[ch0647] Fondazione Æther
+[ch0517] Fondazione Æther
+[ch0648] Fondazione Æther
+[ch0560] Recluta del Team Skull
+[ch0561] Recluta del Team Skull
 
 ===========
 trainer_name_ja.lsd
@@ -36755,6 +37430,7 @@ trainer_name_ja.lsd
 [ch0180] ティエルノ
 [ch0181] トロバ
 [ch0183] マーレイン
+[ch0184] ザオボー
 [ch0190] リュウキ
 [ch0191] アクロマ
 [ch0192] マツブサ
@@ -36820,6 +37496,12 @@ trainer_name_ja.lsd
 [ch0611] フレアだんの　したっぱ
 [ch0644] フレアだんの　したっぱ
 [ch0610] ふりそで
+[ch0516] エーテルざいだん
+[ch0647] エーテルざいだん
+[ch0517] エーテルざいだん
+[ch0648] エーテルざいだん
+[ch0560] スカルだんの　したっぱ
+[ch0561] スカルだんの　したっぱ
 
 ===========
 trainer_name_ko.lsd
@@ -36991,6 +37673,7 @@ trainer_name_ko.lsd
 [ch0180] 티에르노
 [ch0181] 트로바
 [ch0183] 멀레인
+[ch0184] 자우보
 [ch0190] 용규
 [ch0191] 아크로마
 [ch0192] 마적
@@ -37056,6 +37739,12 @@ trainer_name_ko.lsd
 [ch0611] 플레어단의 조무래기
 [ch0644] 플레어단의 조무래기
 [ch0610] 기모노드레스
+[ch0516] 에테르재단
+[ch0647] 에테르재단
+[ch0517] 에테르재단
+[ch0648] 에테르재단
+[ch0560] 스컬단의 조무래기
+[ch0561] 스컬단의 조무래기
 
 ===========
 trainer_name_zh-TW.lsd
@@ -37227,6 +37916,7 @@ trainer_name_zh-TW.lsd
 [ch0180] 提耶魯諾
 [ch0181] 多羅巴
 [ch0183] 馬睿因
+[ch0184] 扎奧博
 [ch0190] 龍葵
 [ch0191] 阿克羅瑪
 [ch0192] 赤焰松
@@ -37292,6 +37982,12 @@ trainer_name_zh-TW.lsd
 [ch0611] 閃焰隊手下
 [ch0644] 閃焰隊手下
 [ch0610] 長袖和服少女
+[ch0516] 以太基金會
+[ch0647] 以太基金會
+[ch0517] 以太基金會
+[ch0648] 以太基金會
+[ch0560] 骷髏隊手下
+[ch0561] 骷髏隊手下
 
 ===========
 trainer_verbose_name_de.lsd
@@ -37467,6 +38163,10 @@ trainer_verbose_name_de.lsd
 (Kostüm)
 [10002410000] Lyra 
 (Kostüm)
+[10098100000] MaMo-Tali
+[10034100000] MaMo-Matsurika
+[10007100000] MaMo-Lola
+[10160100000] MaMo-Tracy
 
 ===========
 trainer_verbose_name_en.lsd
@@ -37651,6 +38351,11 @@ Lysandre
 (Special Costume)
 [10002410000] Lyra 
 (Special Costume)
+[10098100000] Sygna Suit Hau
+[10034100000] Sygna Suit Mina
+[10007100000] Sygna Suit 
+Acerola
+[10160100000] Sygna Suit Lana
 
 ===========
 trainer_verbose_name_es.lsd
@@ -37807,6 +38512,10 @@ con Kimono)
 [10139400000] Xana (Especial)
 [10129400000] Tristana (Especial)
 [10002410000] Lira (Especial)
+[10098100000] Tilo (Traje S)
+[10034100000] Rika (Traje S)
+[10007100000] Zarala (Traje S)
+[10160100000] Nereida (Traje S)
 
 ===========
 trainer_verbose_name_fr.lsd
@@ -37979,6 +38688,10 @@ trainer_verbose_name_fr.lsd
 (Spécial)
 [10002410000] Célesta 
 (Spécial)
+[10098100000] Tili (Ultime)
+[10034100000] Oléa (Ultime)
+[10007100000] Margie (Ultime)
+[10160100000] Néphie (Ultime)
 
 ===========
 trainer_verbose_name_it.lsd
@@ -38155,6 +38868,10 @@ trainer_verbose_name_it.lsd
 (speciale)
 [10002410000] Cetra 
 (speciale)
+[10098100000] Hau Costumax
+[10034100000] Rika Costumax
+[10007100000] Malpi Costumax
+[10160100000] Suiren Costumax
 
 ===========
 trainer_verbose_name_ja.lsd
@@ -38331,6 +39048,10 @@ trainer_verbose_name_ja.lsd
 （スペシャル）
 [10002410000] コトネ
 （スペシャル）
+[10098100000] マジコスハウ
+[10034100000] マジコスマツリカ
+[10007100000] マジコスアセロラ
+[10160100000] マジコススイレン
 
 ===========
 trainer_verbose_name_ko.lsd
@@ -38507,6 +39228,10 @@ trainer_verbose_name_ko.lsd
 (스페셜)
 [10002410000] 금선
 (스페셜)
+[10098100000] 궁극코스 하우
+[10034100000] 궁극코스 말리화
+[10007100000] 궁극코스 아세로라
+[10160100000] 궁극코스 수련
 
 ===========
 trainer_verbose_name_zh-TW.lsd
@@ -38683,6 +39408,10 @@ trainer_verbose_name_zh-TW.lsd
 （怪盜）
 [10002410000] 琴音
 （隊員）
+[10098100000] 美極套裝哈烏
+[10034100000] 美極套裝茉莉
+[10007100000] 美極套裝阿塞蘿拉
+[10160100000] 美極套裝水蓮
 
 ===========
 common_widget_de.lsd
@@ -41836,8 +42565,8 @@ dell'evoluzione?
 [common_widget/filter_063] In posa
 [common_widget/filter_064] Episodio
 [common_widget/filter_065] Stato
-[common_widget/filter_066] Ottenute
-[common_widget/filter_067] Non ottenute
+[common_widget/filter_066] In possesso
+[common_widget/filter_067] Non in possesso
 [common_widget/filter_068] Preferite
 [common_widget/filter_069] Icona a cuore (preferiti)
 [common_widget/filter_070] Impostato
@@ -47321,6 +48050,9 @@ abgeholte Abschlussboni nicht erneut erhalten.
 abgeholte Gesamtpunkteboni nicht erneut erhalten.
 [home/champion_battle_102] Glückwunsch!
 Du bist in die Ruhmeshalle eingezogen!
+[home/champion_battle_103] Optionen
+[home/champion_battle_104] Je stärker du deine Gegner machst, desto
+mehr Punkte und Boni kannst du erhalten.
 [home/champion_battle_105] An bereits abgeschlossenen Kämpfen
 kannst du erst durch Zurücksetzen
 erneut teilnehmen.
@@ -48305,6 +49037,9 @@ not be carried over to the next event.
 [home/champion_battle_101] Completion rewards that you’ve already received cannot be received again even if you perform a reset.
 [home/champion_battle_102] Congratulations!
 You’ve entered the Hall of Fame!
+[home/champion_battle_103] Options
+[home/champion_battle_104] The stronger you make your opponent, the more
+points you earn, and you can get extra rewards.
 [home/champion_battle_105] Battles in the Champion Stadium can only be completed once per reset.
 [home/champion_battle_106] One or more sync pairs on your team have already completed another battle. Please edit your team.
 [home/battle_villa_001] Hall Skip
@@ -49341,6 +50076,9 @@ que hayas obtenido aunque restablezcas tu progreso.
 por ingresar en
 el Hall de la Fama
 de Passio!
+[home/champion_battle_103] Ajustes de fuerza
+[home/champion_battle_104] Cuanto más fortalezcas a tus rivales,
+más puntos y premios podrás obtener.
 [home/champion_battle_105] Una vez has completado un combate,
 debes restablecerlo para volver a
 disputarlo.
@@ -50454,6 +51192,9 @@ même en réinitialisant votre progression.
 [home/champion_battle_102] Félicitations !
 Vous avez fait votre
 entrée au Panthéon !
+[home/champion_battle_103] Options de combat
+[home/champion_battle_104] Plus les ennemis sont puissants, plus vous
+obtiendrez de points et de récompenses.
 [home/champion_battle_105] Une fois remportés, vous ne pourrez
 plus faire de combats jusqu'à ce que
 vous réinitialisiez votre progression.
@@ -51547,6 +52288,9 @@ nuovo le ricompense già ottenute per i punti.
 [home/champion_battle_102] Congratulazioni!
 Hai fatto il tuo ingresso
 nella Sala d'Onore di Pasio!
+[home/champion_battle_103] Seleziona opzioni
+[home/champion_battle_104] Rendendo gli avversari più forti, puoi
+ricevere più punti e più ricompense.
 [home/champion_battle_105] Se completi una lotta, puoi affrontarla
 nuovamente soltanto effettuando
 un ripristino.
@@ -52616,6 +53360,9 @@ GRADE一覧に戻ります
 再獲得できません
 [home/champion_battle_102] パシオ殿堂入り
 おめでとう！
+[home/champion_battle_103] オプション選択
+[home/champion_battle_104] 相手を強くするほどポイントが貯まり
+追加で報酬がもらえます
 [home/champion_battle_105] 一度クリアしたバトルは
 リセットするまで
 再挑戦できません
@@ -53657,6 +54404,9 @@ WPM배지를 모두 모으면
 다시 획득할 수 없습니다
 [home/champion_battle_102] 파시오 전당등록을
 축하합니다!
+[home/champion_battle_103] 옵션 선택
+[home/champion_battle_104] 상대를 강하게 할수록 포인트가 모이며
+추가로 보상을 받을 수 있습니다
 [home/champion_battle_105] 1번 클리어한 배틀은
 초기화할 때까지
 재도전할 수 없습니다
@@ -54662,6 +55412,9 @@ EX每日鑽石組合包
 已獲得的總計點數報酬
 [home/champion_battle_102] 恭喜您
 登入帕希歐名人堂！
+[home/champion_battle_103] 選擇選項
+[home/champion_battle_104] 讓對手越強就能累積越多點數
+並獲得額外報酬
 [home/champion_battle_105] 在進行重設之前
 無法挑戰已過關的對戰
 [home/champion_battle_106] 有拍組已被編制在其他對戰中
@@ -55431,6 +56184,8 @@ Schlüssel
 [shop/scout_166] Erhalte garantiert [Name:TrainerNameAndType ]!
 [shop/scout_167] Stufe 5: [Digit:6digits ] % Chance auf Erhalt der genannten Gefährten.
 Stufe 10: Du kannst ein Garantie-G-Sucheticket erhalten!
+[shop/scout_169] 1 Gefährtengespann garantiert!
+[shop/scout_171] Festival-Gefährten
 [shop/scout_174] Saison-Gefährten sind Gefährten, die während dieser saisonalen Gefährtensuche für begrenzte Zeit erscheinen.
 Es besteht die Möglichkeit, dass sie in Zukunft auch außerhalb dieser saisonalen Gefährtensuche erscheinen werden.
 [shop/scout_175] Festival-Gefährten sind Gefährten, die während dieses PokéFestivals für begrenzte Zeit erscheinen.
@@ -55442,6 +56197,7 @@ Es besteht die Möglichkeit, dass sie in Zukunft auch außerhalb dieses Kostüme
 [shop/scout_178] Rabatt (max. [Digit:3digits ] Mal)
 [shop/scout_179] Hinweis: Steht bei der Erscheinungsrate hinter dem Pokémon-Namen ein *, heißt das, dass sich das Pokémon durch eine Entwicklungs-Episode entwickeln kann. Du kannst dir nach der Durchführung der Gefährtensuche × 10 ein Gefährtengespann aussuchen.
 [shop/scout_180] Die Erscheinungsraten für ★ werden nach der dritten Dezimalstelle aufgerundet, es kann also sein, dass sie addiert nicht 100 % ergeben. Die tatsächliche Erscheinungsrate wird nicht auf- oder abgerundet. Die Erscheinungsrate gilt für jede durchgeführte Gefährtensuche. Selbst wenn du eine Gefährtensuche mehrmals hintereinander durchführst, heißt das also nicht notwendigerweise, dass du ein bestimmtes Gefährtengespann erhalten wirst. Es ist möglich, dass du durch die Gefährtensuche die gleichen Gefährten erhältst. Selbst wenn du Gefährten schon hast und sich bei ihnen das Pokémon schon entwickelt hat, wird das Pokémon vor der Entwicklung angezeigt, wenn du sie durch Gefährtensuchen erhältst. Steht bei der Erscheinungsrate hinter dem Pokémon-Namen ein *, heißt das, dass sich das Pokémon durch eine Entwicklungs-Episode entwickeln kann.
+[shop/scout_181] In der letzten Gefährtensuche (die 10. bei 10 Gefährtensuchen und die 11. bei 11 Gefährtensuchen) wird aus ausgewählten Gefährten mit 5 ★ gezogen. Die Erscheinungsrate für die Ziehung aus Gefährten mit 5 ★ findest du bei der Erscheinungsratenanzeige unter „1 5★-Gefährtengespann garantiert!“.
 [shop/scout_182] Wenn du die Gefährtensuche [Digit:3digits ] Mal durchführst, kannst
 du ein Garantie-G-Sucheticket erhalten.
 [shop/scout_183] In der letzten Gefährtensuche (die 10. bei 10 Gefährtensuchen und die 11. bei 11 Gefährtensuchen) wird nur aus Gefährten mit 5 ★ gezogen. Die Erscheinungsrate für die Ziehung aus Gefährten mit 5 ★ findest du bei der Erscheinungsratenanzeige unter „Garantiert 5 ★!“.
@@ -56101,6 +56857,8 @@ When you see a * displayed after a Pokémon name in the offering rate, that mean
 [shop/scout_166] [Name:TrainerNameAndType ] guaranteed!
 [shop/scout_167] At Tier 5, you can get a ticket with a [Digit:6digits ]% chance to scout
 the featured sync pair. At Tier 10, you can get a guaranteed scout ticket!
+[shop/scout_169] 5★-Guaranteed Pool
+[shop/scout_171] Fair-Exclusive Sync Pairs
 [shop/scout_174] Seasonal sync pairs are sync pairs that will appear for a limited time during this seasonal scout. There is a possibility that they will appear outside of this seasonal scout in the future.
 [shop/scout_175] Fair-exclusive sync pairs are sync pairs that will appear for a limited time during this Poké Fair scout. There is a possibility that they will appear outside of this Poké Fair scout in the future.
 [shop/scout_176] Master Fair sync pairs are sync pairs that will appear for a limited time during this Master Fair. There is a possibility that they will appear outside of this Master Fair in the future.
@@ -56118,6 +56876,7 @@ When you are scouting, you will see sync pairs with unevolved Pokémon even if y
 
 When you see a * displayed after a Pokémon name in the offering rate, that means the sync pair’s Pokémon can evolve through an Evolution sync pair story.
 
+[shop/scout_181] The final sync pair scouted (the tenth sync pair for ×10 scouts and the eleventh sync pair for ×11 scouts) is selected from a pool of featured 5★ sync pairs. You can see the offering rate for these draws by tapping the 5★-Guaranteed Pool button on the offering rate screen.
 [shop/scout_182] If you use the scout [Digit:3digits ] [EN:Qty S="time" P="times" ], you can get a guaranteed scout ticket!
 [shop/scout_183] The final sync pair scouted (the tenth sync pair for ×10 scouts and the eleventh sync pair for ×11 scouts) is selected from a pool of featured 5★ sync pairs. You can see the offering rate for these draws by tapping the 5★-Guaranteed Pool button on the offering rate screen.
 [shop/scout_185] Choose an additional sync pair from
@@ -56712,6 +57471,8 @@ Los Pokémon de las parejas de compis marcadas con un asterisco (*) en la pantal
 [shop/scout_166] ¡[Name:TrainerNameAndType ] con total garantía!
 [shop/scout_167] Fase 5: Billete con [Digit:6digits ]% de probabilidad de reclutar a los compis destacados.
 Fase 10: Billete para reclutarlos con total garantía.
+[shop/scout_169] 5★ garantizadas
+[shop/scout_171] Festicompis
 [shop/scout_174] Los compis de temporada son parejas de compis que aparecen durante un tiempo limitado en este reclutamiento de temporada, aunque es posible que vuelvan a aparecer en un futuro fuera de un reclutamiento de temporada.
 [shop/scout_175] Los festicompis son parejas de compis que aparecen durante un tiempo limitado en este Pokéfestival, aunque es posible que vuelvan a aparecer en un futuro fuera de un Pokéfestival.
 [shop/scout_176] Los festicompis maestros son parejas de compis que aparecen durante un tiempo limitado en este Pokéfestival maestro, aunque es posible que vuelvan a aparecer en un futuro fuera de un Pokéfestival maestro.
@@ -56724,6 +57485,7 @@ Podrás obtener una pareja de compis a tu elección tras realizar el reclutamien
 Las tasas de aparición de cada pareja de compis se aplican cada vez que se efectúa un reclutamiento, de modo que realizarlo de forma consecutiva no garantiza la obtención de dicha pareja de compis.
 Es posible obtener una pareja de compis repetida en un reclutamiento. Aunque el Pokémon de la pareja de compis ya obtenida haya evolucionado, en la pantalla de reclutamiento aparecerá siempre la primera fase evolutiva.
 Los Pokémon de las parejas de compis marcadas con un asterisco (*) en la pantalla de las tasas de aparición podrán evolucionar tras completar el episodio de evolución correspondiente.
+[shop/scout_181] La última pareja de compis de un reclutamiento (esto es, la 10.ª pareja en un reclutamiento ×10; o la 11.ª pareja en un reclutamiento ×11) se selecciona al azar de un conjunto de parejas de compis de 5★ destacadas. Toca el botón "5★ garantizadas" para comprobar las tasas de aparición de dichas parejas de compis.
 [shop/scout_182] Tras [Digit:3digits ] reclutamiento[ES:Qty P="s" ], puedes obtener un billete con el
 que reclutar con total garantía a los compis destacados.
 [shop/scout_183] La última pareja de compis de un reclutamiento (esto es, la 10.ª pareja en un reclutamiento ×10; o la 11.ª pareja en un reclutamiento ×11) se selecciona al azar de un conjunto de parejas de compis de 5★ destacadas. Toca el botón "5★ garantizadas" para comprobar las tasas de aparición de dichas parejas de compis.
@@ -57345,6 +58107,8 @@ Lorsqu'un astérisque (*) est affiché après le nom d'un Pokémon sur l'écran 
 [shop/scout_166] 100 % de chances d'obtenir [Name:TrainerNameAndType ] !
 [shop/scout_167] Au palier 5, vous pourrez recevoir un bon vous octroyant [Digit:6digits ] % de chances d'obtenir
 ce Duo. Et au palier 10, vous pourrez obtenir un bon vous garantissant ce Duo !
+[shop/scout_169] Duos 5★ garantis
+[shop/scout_171] Duos festival
 [shop/scout_174] Les Duos saisonniers sont des Duos qui apparaissent pendant la durée limitée de l'Appel Duo saisonnier. À l'avenir, les Duos saisonniers pourront aussi apparaître en dehors de cet Appel Duo saisonnier.
 [shop/scout_175] Les Duos festival sont des Duos qui apparaissent pendant la durée limitée de l'Appel Duo festival. À l'avenir, les Duos festival pourront aussi apparaître en dehors de cet Appel Duo festival.
 [shop/scout_176] Les Master Duos festival sont des Duos qui apparaissent pendant la durée limitée du Master festival. À l'avenir, les Master Duos festival pourront aussi apparaître en dehors de ce Master festival.
@@ -57361,6 +58125,7 @@ Il est possible qu'un même Duo apparaisse plusieurs fois.
 Si vous appelez un Duo que vous avez déjà et dont vous avez fait évoluer le Pokémon, le Pokémon avant évolution apparaîtra dans le Duo affiché dans les résultats.
 
 Lorsqu'un astérisque (*) est affiché après le nom d'un Pokémon sur l'écran des pourcentages, le Duo peut faire évoluer le Pokémon à travers un épisode d'évolution.
+[shop/scout_181] Le dernier Appel Duo (le dixième si vous avez passé 10 Appels Duo d'affilée, le onzième si vous avez passé 11 Appels Duo d'affilée) vous permettra d'obtenir un Duo 5★ à l'affiche. Pour connaître les chances d'obtention en vigueur d'un Appel Duo garantissant un Duo 5★ à l'affiche, touchez le bouton « Duos 5★ garantis » depuis l'écran des Chances d'obtention.
 [shop/scout_182] Si vous passez cet Appel [Digit:3digits ] fois, vous pourrez obtenir
 un bon vous garantissant ce Duo !
 [shop/scout_183] Le dernier Appel Duo (le dixième si vous avez passé 10 Appels Duo d'affilée, le onzième si vous avez passé 11 Appels Duo d'affilée) vous permettra d'obtenir un Duo 5★ à l'affiche. Pour connaître les pourcentages utilisés lors de l'Appel Duo garantissant un Duo 5★ à l'affiche, touchez le bouton « 5★ garanti ! » sur l'écran de pourcentages.
@@ -58057,6 +58822,8 @@ I Pokémon con un asterisco dopo il nome, visualizzato nel tasso di comparsa del
 [shop/scout_166] Ottenimento di [Name:TrainerNameAndType ] garantito!
 [shop/scout_167] Al gradino 5 riceverai un ticket con il [Digit:6digits ]% di probabilità di ottenere
 l'Unità in evidenza. Il ticket del gradino 10 ne garantisce l'ottenimento!
+[shop/scout_169] Unità con 5★ garantita
+[shop/scout_171] Unità Masterparty
 [shop/scout_174] Le Unità festive sono Unità che compariranno durante questa ricerca Unità festiva.
 È possibile che compaiano anche in ricerche Unità successive, non necessariamente festive.
 [shop/scout_175] Le Unità Masterparty sono Unità che compariranno durante questo Masterparty.
@@ -58074,6 +58841,8 @@ A ogni ricerca Unità si applica lo stesso tasso di comparsa, pertanto ripetere 
 È possibile che la stessa Unità compaia più volte nella ricerca.
 Anche se il Pokémon di un'Unità già ottenuta si è evoluto, le Unità identiche nella ricerca Unità saranno visualizzate con un Pokémon non ancora evoluto.
 I Pokémon con un asterisco dopo il nome, visualizzato nel tasso di comparsa dell'Unità, possono evolversi tramite episodio evolutivo.
+[shop/scout_181] Nell'ultima estrazione (la decima per un'Unicerca ×10, l'undicesima per un'Unicerca ×11), la selezione avverrà solo tra le Unità con 5★ in evidenza.
+Per consultare il tasso di comparsa delle estrazioni che selezionano solo queste Unità, tocca il pulsante "Unità con 5★ garantita" nella schermata del tasso di comparsa.
 [shop/scout_182] Effettuando [Digit:3digits ] ricerc[IT:Qty S="a" P="he" ] Unità, potrai ottenere un ticket
 che garantisce l'ottenimento dell'Unità in evidenza!
 [shop/scout_183] Nell'ultima estrazione (la decima per un'Unicerca ×10, l'undicesima per un'Unicerca ×11), la selezione avverrà solo tra Unità con 5★.
@@ -58771,6 +59540,8 @@ STEPによってはプレゼントが設定されている場合があります�
 [shop/scout_166] [Name:TrainerNameAndType ]が確定！
 [shop/scout_167] STEP5ではピックアップバディーズが[Digit:6digits ]％で出現するチケットがもらえ
 STEP10では確定で出現するチケットがもらえる！
+[shop/scout_169] １組確定
+[shop/scout_171] フェス限定バディーズ
 [shop/scout_174] ※シーズン限定バディーズとはこのシーズン限定バディーズサーチの期間中に出現するバディーズです。
 ※シーズン限定バディーズは今後シーズン限定バディーズサーチ以外でも出現する可能性があります。
 [shop/scout_175] ※フェス限定バディーズとはこのポケマスフェスの期間中に出現するバディーズです。
@@ -58789,6 +59560,7 @@ STEP10では確定で出現するチケットがもらえる！
 ※バディーズサーチからは同じバディーズが出現する場合がございます。
 ※ポケモン進化後の同一バディーズを既に所持している場合でも、バディーズサーチでは進化前のバディーズが表示されます。
 ※提供割合にてポケモン名の後ろに(*)が表示されているバディーズは、進化エピソードを通してポケモンを進化させることができます。
+[shop/scout_181] ※最後の抽選（10連の場合は10回目の抽選、11連の場合は11回目の抽選）ではピックアップ対象となっている★5のバディーズのみで抽選を行います。ピックアップ対象となっている★5のみの抽選個別出現割合は提供割合画面の「1組確定」ボタンをタップして確認できます。
 [shop/scout_182] [Digit:3digits ]回実行するとピックアップバディーズが確定で
 出現するチケットがもらえる！
 [shop/scout_183] ※最後の抽選（10連の場合は10回目の抽選、11連の場合は11回目の抽選）では★5のバディーズのみで抽選を行います。★5のみの抽選個別出現割合は提供割合画面の「★5確定」ボタンをタップして確認できます。
@@ -59506,6 +60278,8 @@ STEP에 따라서는 선물이 포함된 경우가 있습니다.
 [shop/scout_166] [Name:TrainerNameAndType ] 확정!
 [shop/scout_167] STEP5에서는 픽업 버디즈가 [Digit:6digits ]%로 출현하는 티켓을,
 STEP10에서는 확정적으로 출현하는 티켓을 받을 수 있다!
+[shop/scout_169] 버디즈 하나 확정
+[shop/scout_171] 페스티벌 한정 버디즈
 [shop/scout_174] ※시즌 한정 버디즈는 본 시즌 한정 버디즈서치 기간 중에 출현하는 버디즈를 말합니다.
 ※시즌 한정 버디즈는 이후 시즌 한정 버디즈서치 이외에서도 출현할 가능성이 있습니다.
 [shop/scout_175] ※페스티벌 한정 버디즈는 본 PM페스티벌 기간 중에 출현하는 버디즈를 말합니다.
@@ -59528,6 +60302,7 @@ STEP10에서는 확정적으로 출현하는 티켓을 받을 수 있다!
 ※포켓몬 진화 후의 같은 버디즈를 이미 보유하고 있는 경우에도 버디즈서치에서는 진화 전 버디즈가 표시됩니다.
 ※제공 확률에서 포켓몬 이름의 뒤에 (*)이 표시되어 있는 버디즈는
 진화 에피소드를 통하여 포켓몬을 진화시킬 수 있습니다.
+[shop/scout_181] ※마지막 추첨(10연속의 경우에는 10번째 추첨, 11연속의 경우에는 11번째 추첨)에서는 픽업 대상인 ★5의 버디즈로만 추첨을 진행합니다. 픽업 대상인 ★5만으로 진행되는 추첨 개별 출현 확률은 제공 비율 화면의 "버디즈 하나 확정" 버튼을 눌러서 확인할 수 있습니다.
 [shop/scout_182] [Digit:3digits ]회 실행하면 픽업 버디즈가 확정적으로
 출현하는 티켓을 받을 수 있다!
 [shop/scout_183] ※마지막 추첨(10연속의 경우에는 10번째 추첨, 11연속의 경우에는 11번째 추첨)에서는 ★5의 버디즈로만 추첨을 진행합니다. ★5만으로 진행되는 추첨 개별 출현 확률은 제공 비율 화면의 "★5 확정" 버튼을 눌러서 확인할 수 있습니다.
@@ -60167,6 +60942,8 @@ shop_zh-TW.lsd
 [shop/scout_166] 必得[Name:TrainerNameAndType ]！
 [shop/scout_167] 在STEP5中可獲得精選拍組會以[Digit:6digits ]％的機率出現的票券
 在STEP10中可獲得拍組必定出現的票券！
+[shop/scout_169] 必得１對
+[shop/scout_171] 盛典限定拍組
 [shop/scout_174] ※季節限定拍組是會在季節限定拍組搜尋期間出現的拍組
 ※季節限定拍組今後也有可能在非季節限定拍組搜尋以外出現
 [shop/scout_175] ※盛典限定拍組是會在群星盛典期間出現的拍組
@@ -60185,6 +60962,7 @@ shop_zh-TW.lsd
 ※拍組搜尋的結果有可能會出現相同的拍組
 ※即使玩家持有的是寶可夢進化後的拍組，在拍組搜尋時仍只會顯示寶可夢進化前的該拍組
 ※在提供比例畫面中，若拍組的寶可夢名字後面標有(*)，則表示該寶可夢可透過進化劇情進化
+[shop/scout_181] ※最後一次的搜尋（連續10次時指第10次的搜尋，連續11次時指第11次的搜尋）會僅對精選對象的★5拍組進行。各對精選對象的★5拍組的提供比例可由提供比例的畫面點選「必得１對」確認
 [shop/scout_182] 進行[Digit:3digits ]次拍組搜尋後
 可獲得精選拍組必定出現的票券！
 [shop/scout_183] ※最後一次的搜尋（連續10次時指第10次的搜尋，連續11次時指第11次的搜尋）會僅對★5的拍組進行。各對★5拍組的提供比例可由提供比例的畫面點選「必得★5」確認
