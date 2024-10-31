@@ -623,6 +623,7 @@ error_dialog_title_de.lsd
 [asset_update] Aktualisierung
 [player_ban] Konto gesperrt
 [30110] <attr font='fallback'>승인의뢰실패</attr>
+[BR_30110] Aprovação Falhou
 
 ===========
 error_dialog_title_en.lsd
@@ -633,6 +634,7 @@ error_dialog_title_en.lsd
 [asset_update] Update
 [player_ban] Account Suspended
 [30110] <attr font='fallback'>승인의뢰실패</attr>
+[BR_30110] Aprovação Falhou
 
 ===========
 error_dialog_title_es.lsd
@@ -643,6 +645,7 @@ error_dialog_title_es.lsd
 [asset_update] Novedades
 [player_ban] Cuenta suspendida
 [30110] <attr font='fallback'>승인의뢰실패</attr>
+[BR_30110] Aprovação Falhou
 
 ===========
 error_dialog_title_fr.lsd
@@ -653,6 +656,7 @@ error_dialog_title_fr.lsd
 [asset_update] Nouveau
 [player_ban] Compte suspendu
 [30110] <attr font='fallback'>승인의뢰실패</attr>
+[BR_30110] Aprovação Falhou
 
 ===========
 error_dialog_title_it.lsd
@@ -663,6 +667,7 @@ error_dialog_title_it.lsd
 [asset_update] Aggiornamento
 [player_ban] Account sospeso
 [30110] <attr font='fallback'>승인의뢰실패</attr>
+[BR_30110] Aprovação Falhou
 
 ===========
 error_dialog_title_ja.lsd
@@ -673,6 +678,7 @@ error_dialog_title_ja.lsd
 [asset_update] 更新
 [player_ban] アカウント利用停止
 [30110] 承認依頼失敗
+[BR_30110] Aprovação Falhou
 
 ===========
 error_dialog_title_ko.lsd
@@ -683,6 +689,7 @@ error_dialog_title_ko.lsd
 [asset_update] 갱신
 [player_ban] 어카운트 이용 정지
 [30110] 승인의뢰실패
+[BR_30110] Aprovação Falhou
 
 ===========
 error_dialog_title_zh-TW.lsd
@@ -693,6 +700,7 @@ error_dialog_title_zh-TW.lsd
 [asset_update] 更新
 [player_ban] 帳號停止使用
 [30110] <attr font='fallback'>승인의뢰실패</attr>
+[BR_30110] Aprovação Falhou
 
 ===========
 story_quest_name_de.lsd
@@ -2532,6 +2540,79 @@ Geschenke
 Geschenke
 [quest_title_1030430800300010] Die kecke Meerjungfrau
 [quest_group_title_10110001000] Misty (Kanto)
+[quest_title_1030430500104010] Vs. Tali
+[quest_title_1030430500106010] Vs. Kukui
+[quest_title_1030430500108010] Vs. Hala
+[quest_title_1030430500111010] Vs. Mayla
+[quest_title_1030430500114010] Vs. Lola
+[quest_title_1030430500118010] Vs. Kahili
+[quest_title_1030430500122010] Vs. Marlon
+[quest_group_title_100100] Kanto
+[quest_group_title_10110100000] MaMo-Misty
+[quest_group_title_10008100000] MaMo-Erika
+[quest_group_title_10148400000] Jens (Saison 2021)
+[quest_group_title_10095400000] Kattlea (Saison 2021)
+[quest_group_title_10251000000] Nio
+[quest_group_title_10159000000] Perenus
+[quest_group_detail_100100] Alte Feinde kehren zurück
+[quest_title_1030110000400100] Wo ist Rot?
+[quest_title_1030110000400200] In die Falle getappt
+[quest_title_1030110000400300] Kilians Wunsch
+[quest_title_1030110000400400] Im Versteck von Team Rocket
+[quest_title_1030110000400500] Giovannis böser Plan
+[quest_title_1030110000410100] Die Entfesselung der wahren
+Kraft
+[quest_title_1030110000410200] Völlig außer Kontrolle!
+[quest_title_1030110000410700] Vs. Rüpel von Team Rocket 5
+[quest_title_1030110000410300] Eine Welt voller Schmerzen
+[quest_title_1030110000410800] Vs. Rüpel von Team Rocket 6
+[quest_title_1030110000410400] Eine starke Bindung
+[quest_title_1030110000410500] Wer zuletzt lacht...
+[quest_title_1030309000604000] Relaxos Riesenhunger
+[quest_title_1030309000604020] Mehr Pilze müssen her!
+[quest_title_1030309000604030] Lasst uns Pilze sammeln!
+[quest_title_1030309000604040] Lasst uns noch mehr Pilze
+sammeln!
+[quest_title_1030309000604050] Lasst uns noch viel mehr
+Pilze sammeln!
+[quest_title_1030309000604010] Noch immer nicht satt...
+[quest_title_1030309000603000] Eine schaurige Einladung
+[quest_title_1030309000603010] Der Schrecken beginnt
+[quest_title_1030309000603020] Von Geistern heimgesucht
+[quest_title_1030309000603030] Die Wächter der Dunkelheit
+[quest_title_1030309000603040] Die Maske des
+Schweigsamen
+[quest_title_1030309000701011] Vs. Selfe
+[quest_title_1030309010701021] Vs. Selfe 2
+[quest_title_1030309020701031] Vs. Selfe 3
+[quest_title_1030220110100000] Ein Tag mit MaMo-Misty
+[quest_title_1030220008100000] Ein Tag mit MaMo-Erika
+[quest_title_1030220251000000] Ein Tag mit Nio
+[quest_title_1030220159000000] Ein Tag mit Perenus
+[quest_title_1030110000410600] Vs. Rüpel von Team Rocket 4
+[quest_title_1030110000400600] Vs. Rüpel von Team Rocket
+[quest_title_1030110000400700] Vs. Rüpel von Team Rocket 2
+[quest_title_1030110000400800] Vs. Rüpel von Team Rocket 3
+[quest_title_1030110000400900] Vs. Giovanni
+[quest_title_1030110000410900] Vs. Giovanni 2
+[quest_title_1030309000601010] Vs. Rüpel von Team Rocket
+[quest_title_1030309000601020] Vs. Rüpel von Team Rocket 2
+[quest_title_1030309000601030] Vs. Rüpel von Team Rocket 3
+[quest_title_1030309000601040] Täglicher schwerer Kampf
+[quest_title_1030309000601050] Vs. Giovanni
+[quest_title_1030309000601060] Vs. Giovanni 2
+[quest_title_1030309000602010] Vs. Schurken aus Kanto
+[quest_title_1030309000602020] Vs. Schurken aus Kanto 2
+[quest_title_1030309000604060] Täglicher schwerer Kampf
+[quest_title_1030309000603050] Vs. Trainer aus Passio 1
+[quest_title_1030309000603060] Vs. Trainer aus Passio 2
+[quest_title_1030309000603070] Vs. Trainer aus Passio 3
+[quest_title_1030309000603080] Vs. Trainer aus Passio 4
+[quest_title_1030309000603090] Täglicher schwerer Kampf
+[quest_title_1030309000603100] Bonus-Kampf:
+Lasst uns Items sammeln!
+[quest_title_1030309000603110] Herausforderungskampf 1
+[quest_title_1030309000603120] Herausforderungskampf 2
 
 ===========
 story_quest_name_en.lsd
@@ -4279,6 +4360,76 @@ story_quest_name_en.lsd
 [quest_title_1030430800300010] The Tomboyish Mermaid
 [quest_group_title_10110001000] Misty
 (Swimsuit)
+[quest_title_1030430500104010] Hau
+[quest_title_1030430500106010] Kukui
+[quest_title_1030430500108010] Hala
+[quest_title_1030430500111010] Olivia
+[quest_title_1030430500114010] Acerola
+[quest_title_1030430500118010] Kahili
+[quest_title_1030430500122010] Molayne
+[quest_group_title_100100] Kanto
+[quest_group_title_10110100000] Sygna Suit Misty
+[quest_group_title_10008100000] Sygna Suit Erika
+[quest_group_title_10148400000] Morty
+(Fall 2021)
+[quest_group_title_10095400000] Caitlin
+(Fall 2021)
+[quest_group_title_10251000000] Allister
+[quest_group_title_10159000000] Darach
+[quest_group_detail_100100] Team Rocket Returns
+[quest_title_1030110000400100] Where’s Red?
+[quest_title_1030110000400200] A Tricky Trap
+[quest_title_1030110000400300] Seeking Strength
+[quest_title_1030110000400400] Rocket Hideout
+[quest_title_1030110000400500] Giovanni’s Gambit
+[quest_title_1030110000410100] The Power Within
+[quest_title_1030110000410200] Rage and Chaos
+[quest_title_1030110000410700] Challenge the Rocket Grunts: Part 5
+[quest_title_1030110000410300] The Boss’s Power
+[quest_title_1030110000410800] Challenge the Rocket Grunts: Part 6
+[quest_title_1030110000410400] Malice
+[quest_title_1030110000410500] The Last Laugh
+[quest_title_1030309000604000] Hunger Pangs
+[quest_title_1030309000604020] On the Hunt for Mushrooms
+[quest_title_1030309000604030] Mushroom Gathering
+[quest_title_1030309000604040] Mushroom Hunting
+[quest_title_1030309000604050] Ultimate Mushroom Collection
+[quest_title_1030309000604010] More Munchies
+[quest_title_1030309000603000] Welcome to a Night of Fright
+[quest_title_1030309000603010] The Long Night Begins
+[quest_title_1030309000603020] Grim Grinning Ghosts
+[quest_title_1030309000603030] The Warden in the Dark
+[quest_title_1030309000603040] A Mask and a Friend
+[quest_title_1030309000701011] Uxie’s Challenge: Part 1
+[quest_title_1030309010701021] Uxie’s Challenge: Part 2
+[quest_title_1030309020701031] Uxie’s Challenge: Part 3
+[quest_title_1030220110100000] A Day with Sygna Suit Misty
+[quest_title_1030220008100000] A Day with Sygna Suit Erika
+[quest_title_1030220251000000] A Day with Allister
+[quest_title_1030220159000000] A Day with Darach
+[quest_title_1030110000410600] Challenge the Rocket Grunts: Part 4
+[quest_title_1030110000400600] Challenge the Rocket Grunts: Part 1
+[quest_title_1030110000400700] Challenge the Rocket Grunts: Part 2
+[quest_title_1030110000400800] Challenge the Rocket Grunts: Part 3
+[quest_title_1030110000400900] Challenge Giovanni: Part 1
+[quest_title_1030110000410900] Challenge Giovanni: Part 2
+[quest_title_1030309000601010] Challenge the Rocket Grunts: Part 1
+[quest_title_1030309000601020] Challenge the Rocket Grunts: Part 2
+[quest_title_1030309000601030] Challenge the Rocket Grunts: Part 3
+[quest_title_1030309000601040] Daily Extreme Battle 1
+[quest_title_1030309000601050] Challenge Giovanni: Part 1
+[quest_title_1030309000601060] Challenge Giovanni: Part 2
+[quest_title_1030309000602010] Kanto Alliance: Part 1
+[quest_title_1030309000602020] Kanto Alliance: Part 2
+[quest_title_1030309000604060] Daily Extreme Battle 1
+[quest_title_1030309000603050] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030309000603060] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030309000603070] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030309000603080] Challenge Pasio’s Trainers: Part 4
+[quest_title_1030309000603090] Daily Extreme Battle 1
+[quest_title_1030309000603100] Bountiful Bonus Battle 1
+[quest_title_1030309000603110] Battle Challenge! Round 1
+[quest_title_1030309000603120] Battle Challenge! Round 2
 
 ===========
 story_quest_name_es.lsd
@@ -6144,6 +6295,82 @@ combates!
 [quest_title_1030430800401011] ¡Combate especial con regalos!
 [quest_title_1030430800300010] La Sirena Temperamental
 [quest_group_title_10110001000] Misty (Kanto)
+[quest_title_1030430500104010] VS. Tilo
+[quest_title_1030430500106010] VS. Kukui
+[quest_title_1030430500108010] VS. Kaudan
+[quest_title_1030430500111010] VS. Mayla
+[quest_title_1030430500114010] VS. Zarala
+[quest_title_1030430500118010] VS. Kahili
+[quest_title_1030430500122010] VS. Lario
+[quest_group_title_100100] Trama de Kanto
+[quest_group_title_10110100000] Misty (Traje S)
+[quest_group_title_10008100000] Erika (Traje S)
+[quest_group_title_10148400000] Morti
+(Temporada 21)
+[quest_group_title_10095400000] Catleya
+(Temporada 21)
+[quest_group_title_10251000000] Alistair
+[quest_group_title_10159000000] Kokuran
+[quest_group_detail_100100] El malvado Team Rocket
+[quest_title_1030110000400100] ¡Rojo ha desaparecido!
+[quest_title_1030110000400200] La trampa del Team Rocket
+[quest_title_1030110000400300] ¡Quiero hacerme más fuerte!
+[quest_title_1030110000400400] La guarida del Team Rocket
+[quest_title_1030110000400500] Las intenciones de Giovanni
+[quest_title_1030110000410100] Un poder sin límites
+[quest_title_1030110000410200] La energía psíquica siembra
+el caos
+[quest_title_1030110000410700] VS. Reclutas del Team Rocket (5)
+[quest_title_1030110000410300] El poder de Giovanni
+[quest_title_1030110000410800] VS. Reclutas del Team Rocket (6)
+[quest_title_1030110000410400] Corazones malvados que se
+entienden
+[quest_title_1030110000410500] Quien ríe el último...
+[quest_title_1030309000604000] Un hambre de 400 kg
+[quest_title_1030309000604020] ¡A buscar setas!
+[quest_title_1030309000604030] ¡A coger setas!
+[quest_title_1030309000604040] ¡A coger muchas setas!
+[quest_title_1030309000604050] ¡A coger mogollón de setas!
+[quest_title_1030309000604010] Todavía tiene hambre...
+[quest_title_1030309000603000] Una invitación al terror
+[quest_title_1030309000603010] Va a ser una noche larga...
+[quest_title_1030309000603020] El ataque de los fantasmas
+[quest_title_1030309000603030] El guardián de la última
+puerta
+[quest_title_1030309000603040] El misterio, desenmascarado
+[quest_title_1030309000701011] VS. Uxie
+[quest_title_1030309010701021] VS. Uxie (2)
+[quest_title_1030309020701031] VS. Uxie (3)
+[quest_title_1030220110100000] Un día con Misty (Traje S)
+[quest_title_1030220008100000] Un día con Erika (Traje S)
+[quest_title_1030220251000000] Un día con Alistair
+[quest_title_1030220159000000] Un día con Kokuran
+[quest_title_1030110000410600] VS. Reclutas del Team Rocket (4)
+[quest_title_1030110000400600] VS. Reclutas del Team Rocket
+[quest_title_1030110000400700] VS. Reclutas del Team Rocket (2)
+[quest_title_1030110000400800] VS. Reclutas del Team Rocket (3)
+[quest_title_1030110000400900] VS. Giovanni
+[quest_title_1030110000410900] VS. Giovanni (2)
+[quest_title_1030309000601010] VS. Reclutas del Team Rocket
+[quest_title_1030309000601020] VS. Reclutas del Team Rocket (2)
+[quest_title_1030309000601030] VS. Reclutas del Team Rocket (3)
+[quest_title_1030309000601040] ¡Un combate difícil al día!
+[quest_title_1030309000601050] VS. Giovanni
+[quest_title_1030309000601060] VS. Giovanni (2)
+[quest_title_1030309000602010] ¡Enfréntate al villano de
+Kanto!
+[quest_title_1030309000602020] ¡Enfréntate al villano de
+Kanto! (2)
+[quest_title_1030309000604060] ¡Un combate difícil al día!
+[quest_title_1030309000603050] VS. Entrenadores de Passio
+[quest_title_1030309000603060] VS. Entrenadores de Passio (2)
+[quest_title_1030309000603070] VS. Entrenadores de Passio (3)
+[quest_title_1030309000603080] VS. Entrenadores de Passio (4)
+[quest_title_1030309000603090] ¡Un combate difícil al día!
+[quest_title_1030309000603100] Un combate extra:
+¡Objetos por doquier!
+[quest_title_1030309000603110] ¡Un combate desafiante!
+[quest_title_1030309000603120] ¡Un combate desafiante! (2)
 
 ===========
 story_quest_name_fr.lsd
@@ -8120,6 +8347,98 @@ avec la lune
 [quest_title_1030430800401011] Combat cadeau spécial
 [quest_title_1030430800300010] La sirène en short
 [quest_group_title_10110001000] Ondine (Maillot)
+[quest_title_1030430500104010] Combat : Tili
+[quest_title_1030430500106010] Combat : Euphorbe
+[quest_title_1030430500108010] Combat : Pectorius
+[quest_title_1030430500111010] Combat : Alyxia
+[quest_title_1030430500114010] Combat : Margie
+[quest_title_1030430500118010] Combat : Kahili
+[quest_title_1030430500122010] Combat : Molène
+[quest_group_title_100100] Kanto
+[quest_group_title_10110100000] Ondine (Look Ultime)
+[quest_group_title_10008100000] Erika (Look Ultime)
+[quest_group_title_10148400000] Mortimer
+(Saison 2021)
+[quest_group_title_10095400000] Percila
+(Saison 2021)
+[quest_group_title_10251000000] Alistair
+[quest_group_title_10159000000] Parsley
+[quest_group_detail_100100] Le plan de la Team Rocket
+[quest_title_1030110000400100] La disparition de Red
+[quest_title_1030110000400200] Le piège de la Team Rocket
+[quest_title_1030110000400300] Être fort à tout prix
+[quest_title_1030110000400400] À l'assaut du repaire
+de la Team Rocket !
+[quest_title_1030110000400500] Le dessein de Giovanni
+[quest_title_1030110000410100] Le véritable pouvoir
+[quest_title_1030110000410200] Des pouvoirs psychiques
+hors de contrôle
+[quest_title_1030110000410700] Combat :
+Sbires Team Rocket V
+[quest_title_1030110000410300] La puissance de Giovanni
+[quest_title_1030110000410800] Combat :
+Sbires Team Rocket VI
+[quest_title_1030110000410400] Des cœurs liés par des
+convictions maléfiques
+[quest_title_1030110000410500] Qui aura le dernier mot ?
+[quest_title_1030309000604000] Un estomac sans fond
+[quest_title_1030309000604020] Allons aux champignons !
+[quest_title_1030309000604030] Ramassons
+des champignons !
+[quest_title_1030309000604040] Ramassons plein
+de champignons !
+[quest_title_1030309000604050] Ramassons encore plus
+de champignons !
+[quest_title_1030309000604010] Une faim sans fin
+[quest_title_1030309000603000] Une invitation à la terreur
+[quest_title_1030309000603010] Le début d'une longue nuit
+[quest_title_1030309000603020] L'attaque des fantômes
+[quest_title_1030309000603030] Le gardien de l'ombre
+[quest_title_1030309000603040] Liens masqués
+[quest_title_1030309000701011] Combat : Créhelf
+[quest_title_1030309010701021] Combat : Créhelf II
+[quest_title_1030309020701031] Combat : Créhelf III
+[quest_title_1030220110100000] Une journée avec Ondine
+(Look Ultime)
+[quest_title_1030220008100000] Une journée avec Erika
+(Look Ultime)
+[quest_title_1030220251000000] Une journée avec Alistair
+[quest_title_1030220159000000] Une journée avec Parsley
+[quest_title_1030110000410600] Combat :
+Sbires Team Rocket IV
+[quest_title_1030110000400600] Combat : Sbires Team Rocket
+[quest_title_1030110000400700] Combat :
+Sbires Team Rocket II
+[quest_title_1030110000400800] Combat :
+Sbires Team Rocket III
+[quest_title_1030110000400900] Combat : Giovanni
+[quest_title_1030110000410900] Combat : Giovanni II
+[quest_title_1030309000601010] Combat : Sbires Team Rocket
+[quest_title_1030309000601020] Combat :
+Sbires Team Rocket II
+[quest_title_1030309000601030] Combat :
+Sbires Team Rocket III
+[quest_title_1030309000601040] Combat difficile limité
+à une fois par jour !
+[quest_title_1030309000601050] Combat : Giovanni
+[quest_title_1030309000601060] Combat : Giovanni II
+[quest_title_1030309000602010] Les stars de Kanto
+[quest_title_1030309000602020] Les stars de Kanto II
+[quest_title_1030309000604060] Combat difficile limité
+à une fois par jour !
+[quest_title_1030309000603050] Combat : Dresseurs de Passio
+[quest_title_1030309000603060] Combat :
+Dresseurs de Passio II
+[quest_title_1030309000603070] Combat :
+Dresseurs de Passio III
+[quest_title_1030309000603080] Combat :
+Dresseurs de Passio IV
+[quest_title_1030309000603090] Combat difficile limité
+à une fois par jour !
+[quest_title_1030309000603100] Combat bonus :
+Objets en folie !
+[quest_title_1030309000603110] Combat difficile
+[quest_title_1030309000603120] Combat difficile II
 
 ===========
 story_quest_name_it.lsd
@@ -9819,7 +10138,7 @@ story_quest_name_it.lsd
 [quest_title_1030308000604050] Insieme agli amici di Hoenn
 [quest_title_1030308000604060] Insieme agli amici di Hoenn 2
 [quest_title_1030308000601010] Un avviso per tutte le Unità
-[quest_title_1030308000601030] VS Reclute del Team Rocket 1
+[quest_title_1030308000601030] VS Reclute del Team Rocket
 [quest_title_1030308000601040] VS Reclute del Team Rocket 2
 [quest_title_1030308000601050] VS Reclute del Team Rocket 3
 [quest_title_1030308000601070] VS Giovanni
@@ -9845,6 +10164,74 @@ story_quest_name_it.lsd
 [quest_title_1030430800401011] Lotta speciale con regalo!
 [quest_title_1030430800300010] La sirena maschiaccio
 [quest_group_title_10110001000] Misty (costume)
+[quest_title_1030430500104010] VS Hau
+[quest_title_1030430500106010] VS Kukui
+[quest_title_1030430500108010] VS Hala
+[quest_title_1030430500111010] VS Alyxia
+[quest_title_1030430500114010] VS Malpi
+[quest_title_1030430500118010] VS Kahili
+[quest_title_1030430500122010] VS Tapso
+[quest_group_title_100100] Kanto
+[quest_group_title_10110100000] Misty Costumax
+[quest_group_title_10008100000] Erika Costumax
+[quest_group_title_10148400000] Angelo (feste 2021)
+[quest_group_title_10095400000] Catlina (feste 2021)
+[quest_group_title_10251000000] Onion
+[quest_group_title_10159000000] Paride
+[quest_group_detail_100100] Le trame del Team Rocket
+[quest_title_1030110000400100] Che fine ha fatto Rosso?
+[quest_title_1030110000400200] La trappola del Team Rocket
+[quest_title_1030110000400300] Il desiderio di diventare più forte
+[quest_title_1030110000400400] Assalto al covo del Team Rocket
+[quest_title_1030110000400500] Le intenzioni di Giovanni
+[quest_title_1030110000410100] Il vero potere di Mewtwo
+[quest_title_1030110000410200] Energia psichica fuori controllo
+[quest_title_1030110000410700] VS Reclute del Team Rocket 5
+[quest_title_1030110000410300] La forza di Giovanni
+[quest_title_1030110000410800] VS Reclute del Team Rocket 6
+[quest_title_1030110000410400] Un legame all'insegna della malvagità
+[quest_title_1030110000410500] Chi riderà per ultimo...?
+[quest_title_1030309000604000] Quintali di fame
+[quest_title_1030309000604020] In cerca di funghi
+[quest_title_1030309000604030] Raccogliamo funghi!
+[quest_title_1030309000604040] Raccogliamo tanti funghi!
+[quest_title_1030309000604050] Raccogliamo ancora più funghi!
+[quest_title_1030309000604010] Un'altra pancia vuota
+[quest_title_1030309000603000] Un invito da paura
+[quest_title_1030309000603010] L'inizio di una lunga notte
+[quest_title_1030309000603020] L'attacco dei Pokémon di tipo Spettro
+[quest_title_1030309000603030] Un guardiano nelle tenebre
+[quest_title_1030309000603040] Legami e maschere
+[quest_title_1030309000701011] VS Uxie
+[quest_title_1030309010701021] VS Uxie 2
+[quest_title_1030309020701031] VS Uxie 3
+[quest_title_1030220110100000] Un giorno con Misty Costumax
+[quest_title_1030220008100000] Un giorno con Erika Costumax
+[quest_title_1030220251000000] Un giorno con Onion
+[quest_title_1030220159000000] Un giorno con Paride
+[quest_title_1030110000410600] VS Reclute del Team Rocket 4
+[quest_title_1030110000400600] VS Reclute del Team Rocket
+[quest_title_1030110000400700] VS Reclute del Team Rocket 2
+[quest_title_1030110000400800] VS Reclute del Team Rocket 3
+[quest_title_1030110000400900] VS Giovanni
+[quest_title_1030110000410900] VS Giovanni 2
+[quest_title_1030309000601010] VS Reclute del Team Rocket
+[quest_title_1030309000601020] VS Reclute del Team Rocket 2
+[quest_title_1030309000601030] VS Reclute del Team Rocket 3
+[quest_title_1030309000601040] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030309000601050] VS Giovanni
+[quest_title_1030309000601060] VS Giovanni 2
+[quest_title_1030309000602010] Insieme ai talenti di Kanto
+[quest_title_1030309000602020] Insieme ai talenti di Kanto 2
+[quest_title_1030309000604060] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030309000603050] VS Allenatori di Pasio
+[quest_title_1030309000603060] VS Allenatori di Pasio 2
+[quest_title_1030309000603070] VS Allenatori di Pasio 3
+[quest_title_1030309000603080] VS Allenatori di Pasio 4
+[quest_title_1030309000603090] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030309000603100] Lotta bonus: tanti strumenti!
+[quest_title_1030309000603110] Sfida ad alta difficoltà
+[quest_title_1030309000603120] Sfida ad alta difficoltà 2
 
 ===========
 story_quest_name_ja.lsd
@@ -11593,6 +11980,76 @@ story_quest_name_ja.lsd
 [quest_title_1030430800300010] ウワサのおてんば人魚
 [quest_group_title_10110001000] カスミ
 （アナザー）
+[quest_title_1030430500104010] ＶＳ　ハウ
+[quest_title_1030430500106010] ＶＳ　ククイ
+[quest_title_1030430500108010] ＶＳ　ハラ
+[quest_title_1030430500111010] ＶＳ　ライチ
+[quest_title_1030430500114010] ＶＳ　アセロラ
+[quest_title_1030430500118010] ＶＳ　カヒリ
+[quest_title_1030430500122010] ＶＳ　マーレイン
+[quest_group_title_100100] カントー編
+[quest_group_title_10110100000] マジコスカスミ
+[quest_group_title_10008100000] マジコスエリカ
+[quest_group_title_10148400000] マツバ
+（２１シーズン）
+[quest_group_title_10095400000] カトレア
+（２１シーズン）
+[quest_group_title_10251000000] オニオン
+[quest_group_title_10159000000] コクラン
+[quest_group_detail_100100] 謀略のロケット団
+[quest_title_1030110000400100] 消えたレッド
+[quest_title_1030110000400200] ロケット団のワナ
+[quest_title_1030110000400300] 強くなりたい気持ち
+[quest_title_1030110000400400] 突入！　ロケット団アジト！
+[quest_title_1030110000400500] サカキの思惑
+[quest_title_1030110000410100] 引きだされた真の力
+[quest_title_1030110000410200] 暴走するサイコパワー
+[quest_title_1030110000410700] ＶＳ　ロケット団のしたっぱ５
+[quest_title_1030110000410300] サカキの強さ
+[quest_title_1030110000410800] ＶＳ　ロケット団のしたっぱ６
+[quest_title_1030110000410400] 通じあう悪の心
+[quest_title_1030110000410500] 最後に笑うのは……
+[quest_title_1030309000604000] ４００キロのハラペコ
+[quest_title_1030309000604020] キノコを探そう
+[quest_title_1030309000604030] キノコを集めよう
+[quest_title_1030309000604040] キノコをいっぱい集めよう
+[quest_title_1030309000604050] キノコをもっといっぱい集めよう
+[quest_title_1030309000604010] まだまだハラペコ……
+[quest_title_1030309000603000] 恐怖への招待状
+[quest_title_1030309000603010] 長い夜の始まり
+[quest_title_1030309000603020] 襲い来るゴーストたち
+[quest_title_1030309000603030] 闇に立つ守護者
+[quest_title_1030309000603040] 大事な仮面　大事なバディ
+[quest_title_1030309000701011] ＶＳ　ユクシー
+[quest_title_1030309010701021] ＶＳ　ユクシー２
+[quest_title_1030309020701031] ＶＳ　ユクシー３
+[quest_title_1030220110100000] とある日のマジコスカスミ
+[quest_title_1030220008100000] とある日のマジコスエリカ
+[quest_title_1030220251000000] とある日のオニオン
+[quest_title_1030220159000000] とある日のコクラン
+[quest_title_1030110000410600] ＶＳ　ロケット団のしたっぱ４
+[quest_title_1030110000400600] ＶＳ　ロケット団のしたっぱ
+[quest_title_1030110000400700] ＶＳ　ロケット団のしたっぱ２
+[quest_title_1030110000400800] ＶＳ　ロケット団のしたっぱ３
+[quest_title_1030110000400900] ＶＳ　サカキ
+[quest_title_1030110000410900] ＶＳ　サカキ２
+[quest_title_1030309000601010] ＶＳ　ロケット団のしたっぱ
+[quest_title_1030309000601020] ＶＳ　ロケット団のしたっぱ２
+[quest_title_1030309000601030] ＶＳ　ロケット団のしたっぱ３
+[quest_title_1030309000601040] １日１回限定・高難度バトル！
+[quest_title_1030309000601050] ＶＳ　サカキ
+[quest_title_1030309000601060] ＶＳ　サカキ２
+[quest_title_1030309000602010] カントーの実力者で挑戦！
+[quest_title_1030309000602020] カントーの実力者で挑戦！２
+[quest_title_1030309000604060] １日１回限定・高難度バトル！
+[quest_title_1030309000603050] ＶＳ　パシオのトレーナー
+[quest_title_1030309000603060] ＶＳ　パシオのトレーナー２
+[quest_title_1030309000603070] ＶＳ　パシオのトレーナー３
+[quest_title_1030309000603080] ＶＳ　パシオのトレーナー４
+[quest_title_1030309000603090] １日１回限定・高難度バトル！
+[quest_title_1030309000603100] どうぐ大量・ボーナスバトル！
+[quest_title_1030309000603110] チャレンジバトルで勝負！
+[quest_title_1030309000603120] チャレンジバトルで勝負！２
 
 ===========
 story_quest_name_ko.lsd
@@ -13340,6 +13797,76 @@ story_quest_name_ko.lsd
 [quest_title_1030430800300010] 소문의 말괄량이 인어
 [quest_group_title_10110001000] 이슬
 (어나더)
+[quest_title_1030430500104010] VS 하우
+[quest_title_1030430500106010] VS 쿠쿠이
+[quest_title_1030430500108010] VS 할라
+[quest_title_1030430500111010] VS 라이치
+[quest_title_1030430500114010] VS 아세로라
+[quest_title_1030430500118010] VS 카일리
+[quest_title_1030430500122010] VS 멀레인
+[quest_group_title_100100] 관동지방 편
+[quest_group_title_10110100000] 궁극코스 이슬
+[quest_group_title_10008100000] 궁극코스 민화
+[quest_group_title_10148400000] 유빈
+(21시즌)
+[quest_group_title_10095400000] 카틀레야
+(21시즌)
+[quest_group_title_10251000000] 어니언
+[quest_group_title_10159000000] 코크런
+[quest_group_detail_100100] 로켓단의 모략
+[quest_title_1030110000400100] 사라진 레드
+[quest_title_1030110000400200] 로켓단의 함정
+[quest_title_1030110000400300] 강해지고 싶은 마음
+[quest_title_1030110000400400] 돌입! 로켓단 아지트!
+[quest_title_1030110000400500] 비주기의 속셈
+[quest_title_1030110000410100] 끌어내진 진정한 힘
+[quest_title_1030110000410200] 폭주하는 사이코 파워
+[quest_title_1030110000410700] VS 로켓단의 조무래기5
+[quest_title_1030110000410300] 비주기의 강함
+[quest_title_1030110000410800] VS 로켓단의 조무래기6
+[quest_title_1030110000410400] 이어지는 악의 마음
+[quest_title_1030110000410500] 마지막에 웃는 것은...
+[quest_title_1030309000604000] 400kg급 꼬르륵
+[quest_title_1030309000604020] 버섯을 찾아보자
+[quest_title_1030309000604030] 버섯을 모으자
+[quest_title_1030309000604040] 버섯을 많이 모으자
+[quest_title_1030309000604050] 버섯을 더 많이 모으자
+[quest_title_1030309000604010] 여전히 꼬르륵...
+[quest_title_1030309000603000] 공포의 초대장
+[quest_title_1030309000603010] 길고 긴 밤의 시작
+[quest_title_1030309000603020] 습격해오는 고스트포켓몬들
+[quest_title_1030309000603030] 어둠 속에 선 수호자
+[quest_title_1030309000603040] 소중한 가면과 소중한 버디
+[quest_title_1030309000701011] VS 유크시
+[quest_title_1030309010701021] VS 유크시2
+[quest_title_1030309020701031] VS 유크시3
+[quest_title_1030220110100000] 궁극코스 이슬의 어느 날
+[quest_title_1030220008100000] 궁극코스 민화의 어느 날
+[quest_title_1030220251000000] 어니언의 어느 날
+[quest_title_1030220159000000] 코크런의 어느 날
+[quest_title_1030110000410600] VS 로켓단의 조무래기4
+[quest_title_1030110000400600] VS 로켓단의 조무래기
+[quest_title_1030110000400700] VS 로켓단의 조무래기2
+[quest_title_1030110000400800] VS 로켓단의 조무래기3
+[quest_title_1030110000400900] VS 비주기
+[quest_title_1030110000410900] VS 비주기2
+[quest_title_1030309000601010] VS 로켓단의 조무래기
+[quest_title_1030309000601020] VS 로켓단의 조무래기2
+[quest_title_1030309000601030] VS 로켓단의 조무래기3
+[quest_title_1030309000601040] 1일 1회 한정 고난도 배틀!
+[quest_title_1030309000601050] VS 비주기
+[quest_title_1030309000601060] VS 비주기2
+[quest_title_1030309000602010] 관동지방의 실력자로 도전하자!
+[quest_title_1030309000602020] 관동지방의 실력자로 도전하자!2
+[quest_title_1030309000604060] 1일 1회 한정 고난도 배틀!
+[quest_title_1030309000603050] VS 파시오의 트레이너
+[quest_title_1030309000603060] VS 파시오의 트레이너2
+[quest_title_1030309000603070] VS 파시오의 트레이너3
+[quest_title_1030309000603080] VS 파시오의 트레이너4
+[quest_title_1030309000603090] 1일 1회 한정 고난도 배틀!
+[quest_title_1030309000603100] 도구 대량 보너스 배틀!
+[quest_title_1030309000603110] 챌린지배틀로 승부!
+[quest_title_1030309000603120] 챌린지배틀로 승부!2
 
 ===========
 story_quest_name_zh-TW.lsd
@@ -15087,6 +15614,76 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030430800300010] 傳聞中的俏皮人魚
 [quest_group_title_10110001000] 小霞
 （泳裝）
+[quest_title_1030430500104010] ＶＳ　哈烏
+[quest_title_1030430500106010] ＶＳ　庫庫伊
+[quest_title_1030430500108010] ＶＳ　哈拉
+[quest_title_1030430500111010] ＶＳ　麗姿
+[quest_title_1030430500114010] ＶＳ　阿塞蘿拉
+[quest_title_1030430500118010] ＶＳ　卡希麗
+[quest_title_1030430500122010] ＶＳ　馬睿因
+[quest_group_title_100100] 關都篇
+[quest_group_title_10110100000] 美極套裝小霞
+[quest_group_title_10008100000] 美極套裝莉佳
+[quest_group_title_10148400000] 松葉
+（２０２１秋季）
+[quest_group_title_10095400000] 嘉德麗雅
+（２０２１秋季）
+[quest_group_title_10251000000] 歐尼奧
+[quest_group_title_10159000000] 石蘭
+[quest_group_detail_100100] 策劃詭計的火箭隊
+[quest_title_1030110000400100] 消失的赤紅
+[quest_title_1030110000400200] 火箭隊的陷阱
+[quest_title_1030110000400300] 想要變強的心情
+[quest_title_1030110000400400] 闖入火箭隊據點！
+[quest_title_1030110000400500] 阪木的意圖
+[quest_title_1030110000410100] 被激發出的真正力量
+[quest_title_1030110000410200] 失控的精神力量
+[quest_title_1030110000410700] ＶＳ　火箭隊手下５
+[quest_title_1030110000410300] 阪木的強大
+[quest_title_1030110000410800] ＶＳ　火箭隊手下６
+[quest_title_1030110000410400] 惡意相通
+[quest_title_1030110000410500] 最後露出笑容的人是……
+[quest_title_1030309000604000] ４００公斤的餓肚子
+[quest_title_1030309000604020] 尋找蘑菇吧
+[quest_title_1030309000604030] 收集蘑菇吧
+[quest_title_1030309000604040] 收集許多的蘑菇吧
+[quest_title_1030309000604050] 收集更多的蘑菇吧
+[quest_title_1030309000604010] 肚子還是很餓……
+[quest_title_1030309000603000] 通往恐懼的邀請函
+[quest_title_1030309000603010] 漫漫長夜的開端
+[quest_title_1030309000603020] 幽靈寶可夢們來襲
+[quest_title_1030309000603030] 佇立黑暗的守護者
+[quest_title_1030309000603040] 重要的面具與重要的拍檔
+[quest_title_1030309000701011] ＶＳ　由克希
+[quest_title_1030309010701021] ＶＳ　由克希２
+[quest_title_1030309020701031] ＶＳ　由克希３
+[quest_title_1030220110100000] 某日的美極套裝小霞
+[quest_title_1030220008100000] 某日的美極套裝莉佳
+[quest_title_1030220251000000] 某日的歐尼奧
+[quest_title_1030220159000000] 某日的石蘭
+[quest_title_1030110000410600] ＶＳ　火箭隊手下４
+[quest_title_1030110000400600] ＶＳ　火箭隊手下
+[quest_title_1030110000400700] ＶＳ　火箭隊手下２
+[quest_title_1030110000400800] ＶＳ　火箭隊手下３
+[quest_title_1030110000400900] ＶＳ　阪木
+[quest_title_1030110000410900] ＶＳ　阪木２
+[quest_title_1030309000601010] ＶＳ　火箭隊手下
+[quest_title_1030309000601020] ＶＳ　火箭隊手下２
+[quest_title_1030309000601030] ＶＳ　火箭隊手下３
+[quest_title_1030309000601040] １天僅限１次的高難度對戰！
+[quest_title_1030309000601050] ＶＳ　阪木
+[quest_title_1030309000601060] ＶＳ　阪木２
+[quest_title_1030309000602010] 用關都的強者來挑戰！
+[quest_title_1030309000602020] 用關都的強者來挑戰！２
+[quest_title_1030309000604060] １天僅限１次的高難度對戰！
+[quest_title_1030309000603050] ＶＳ　帕希歐的訓練家
+[quest_title_1030309000603060] ＶＳ　帕希歐的訓練家２
+[quest_title_1030309000603070] ＶＳ　帕希歐的訓練家３
+[quest_title_1030309000603080] ＶＳ　帕希歐的訓練家４
+[quest_title_1030309000603090] １天僅限１次的高難度對戰！
+[quest_title_1030309000603100] 獲得大量道具的獎勵對戰！
+[quest_title_1030309000603110] 用挑戰對戰決勝負！
+[quest_title_1030309000603120] 用挑戰對戰決勝負！２
 
 ===========
 trainer_description_de.lsd
@@ -15388,6 +15985,9 @@ um ein starker Trainer zu werden.
 [10133000000] Dieser junge Mann will der Stärkste der Welt werden.
 Seine Vergangenheit hat ihn gelehrt, dass es nicht nur
 auf Stärke ankommt, sondern auch auf Freundlichkeit.
+[10159000000] Perenus ist ein Kammerdiener mit einer ausgezeichneten
+Auffassungsgabe. Seine wahre Stärke liegt darin, dass er
+für jede Situation eine Lösung parat hat.
 [10116000000] Dieser Trainer ist immer guter Dinge und kümmert sich
 gerne um andere. Ihre Reisen durch die Sinnoh-Region
 haben sie gestählt. Sie ist aber ein bisschen schusselig.
@@ -15671,6 +16271,24 @@ Aufbruch zu seiner ersten Reise durch die Kanto-Region
 getragen hat, auf seine Anfänge. Er steht zu seinen
 früheren Fehlern und verfolgt weiter das Ziel, der stärkste
 Trainer der Welt zu werden.
+[10251000000] Dieser Trainer hat sich auf Geister-Pokémon spezialisiert.
+Sein wahres Gesicht versteckt er stets hinter einer Maske,
+von denen er 100 identische Exemplare auf Vorrat hat.
+Angeblich treibt er sich gerne alleine auf Friedhöfen und
+in Ruinen herum.
+[10110100000] Misty trägt eine fantastische Machtmontur. Wenn sie mit
+Aquana im Wasser ist, gleicht sie einer märchenhaften
+Meerjungfrau.
+[10008100000] Erikas Machtmontur spiegelt ihren grünen Daumen und 
+ihre Liebe zur Natur wider. An warmen und sonnigen
+Tagen erwischt man sie und Folipurba manchmal bei
+einem gemeinsamen Nickerchen.
+[10148400000] Sein Outfit lässt Jens mysteriös und geheimnisvoll wirken.
+Zusammen mit seinem etwas gruseligen Banette lockt er
+Menschen in die Welt der Geister-Pokémon.
+[10095400000] Kattlea trägt ein Outfit, das perfekt auf Zobiris abgestimmt
+ist. Gerüchten zufolge werden jene, die ihren Schlaf
+stören, zu einem mysteriösen Ball eingeladen.
 
 ===========
 trainer_description_en.lsd
@@ -15972,6 +16590,9 @@ a Pokémon Trainer.
 [10133000000] Although known for aiming to be the strongest Trainer in
 the world, this boy no longer cares about strength alone.
 He’s also realized the importance of a kind heart.
+[10159000000] Darach is an adept Castle Valet with extraordinary insight.
+The secret to his strength is his ability to make decisions
+on the fly, which allows him to adapt to any situation.
 [10116000000] This friendly and upbeat Trainer packs quite a punch,
 thanks to her travels in Sinnoh. Despite her skill as a
 Trainer, she can be a little scatterbrained at times.
@@ -16213,6 +16834,21 @@ thinks about the friends he’s made on his journeys.
 [10021800000] Blue is going back to the basics in the outfit he wore
 when he traveled the Kanto region. He’s learned from his
 past mistakes and is still aiming to be number one.
+[10251000000] This Ghost-type Gym Leader keeps his face hidden behind
+a mask and has one hundred copies of it. He likes to be
+alone in places like ancient ruins and graveyards.
+[10110100000] Misty is back in a stunning sygna suit. She swims so
+elegantly with Vaporeon, they look just like a pair of
+mermaids from a fairy tale.
+[10008100000] Erika’s sygna suit blends in harmoniously with nature. On
+sunny days, she can often be seen enjoying an afternoon
+nap with Leafeon.
+[10148400000] Morty is ready to enjoy the Midnight Parade with his
+spooky partner, Banette. Together, they welcome Trainers
+and usher them into the world of Ghost-type Pokémon.
+[10095400000] Caitlin is wearing an outfit that matches her partner,
+Sableye. Rumor has it that those who disturb her slumber
+are invited to an enchantingly elegant ball.
 
 ===========
 trainer_description_es.lsd
@@ -16552,6 +17188,9 @@ a fondo para convertirse en un Entrenador de primera.
 fuerte habido y por haber, aunque ya no solo piensa que
 la fuerza sea lo más importante, sino que también tiene
 en cuenta la amabilidad.
+[10159000000] Este excelente mayordomo es capaz de evaluar cualquier
+situación para reaccionar adecuadamente. Su agudeza y
+afilada percepción son sus mejores cualidades.
 [10116000000] Esta alegre Entrenadora, que ha conseguido hacerse fuerte
 tras entrenarse durante sus viajes por la región de Sinnoh,
 sigue mostrando de vez en cuando su torpeza.
@@ -16852,6 +17491,22 @@ recuerda a los amigos que hizo en aquella aventura.
 cuando viajaba por Kanto. Ha asumido que era muy
 inmaduro por entonces, pero sigue decidido a convertirse
 en el Entrenador más fuerte habido y por haber.
+[10251000000] Entrenador especializado en el tipo Fantasma. Nunca
+muestra su rostro en público, y por eso tiene cien
+máscaras con el mismo diseño. Se dice que le gusta
+merodear a solas por ruinas y cementerios.
+[10110100000] Misty deslumbra con un espectacular Traje Summum.
+Recuerda a una auténtica sirena de cuento de hadas,
+lista para sumergirse en el océano junto a Vaporeon.
+[10008100000] Erika luce un estiloso Traje Summum en tonos verdes.
+En los días soleados, se la puede ver echando una siesta
+junto a Leafeon.
+[10148400000] Morti está encantado con su traje de fiesta. Él y el
+inquietante Banette dan la bienvenida a quienes se
+internan en el mundo de los Pokémon de tipo Fantasma.
+[10095400000] Catleya se alegra de haber encontrado un traje a juego
+con Sableye. Quien interrumpa su plácido sueño recibirá
+una invitación a un misterioso baile.
 
 ===========
 trainer_description_fr.lsd
@@ -17134,6 +17789,9 @@ devenir un meilleur Dresseur Pokémon.
 [10133000000] Un jeune Dresseur qui rêve de devenir le plus fort du
 monde. Au fil de son aventure, il a appris que la
 gentillesse était au moins aussi importante que la force.
+[10159000000] Parsley est un valet d'exception doté d'une perspicacité
+hors pair. Le secret de sa force réside dans sa capacité
+à évaluer et à s'adapter à n'importe quelle situation.
 [10116000000] Une Dresseuse très positive quoiqu'un peu distraite, qui
 adore aider son prochain. Ses aventures à Sinnoh lui ont
 permis de développer une grande puissance.
@@ -17428,6 +18086,25 @@ lors de ses aventures passées.
 sa tenue de Kanto. Il fait face à ses erreurs d'antan
 tout en maintenant son objectif de devenir
 le plus fort de tous les Dresseurs.
+[10251000000] Un Champion d'Arène de type Spectre qui se cache
+derrière un masque. Il en possède cent exemplaires.
+Il aime flâner seul dans des endroits tels que les ruines
+ou les cimetières.
+[10110100000] Ondine est de retour avec un magnifique Look Ultime.
+Nageant aux côtés d'Aquali, elle est aussi belle
+qu'une sirène de conte de fées.
+[10008100000] Erika revient avec un Look Ultime dont les couleurs
+sont en accord parfait avec la nature.
+Lors des jours ensoleillés, on l'aperçoit souvent
+en train de faire la sieste aux côtés de Phyllali.
+[10148400000] Mortimer est prêt à profiter de la Parade Nocturne dans
+son costume préparé spécialement pour l'occasion.
+Aux côtés de son inquiétant partenaire, Branette,
+il invite les Dresseurs à découvrir le monde
+des Pokémon Spectre.
+[10095400000] Percila porte une belle tenue assortie à son Ténéfix.
+Ceux qui osent troubler son sommeil sont conviés
+à un bal aussi mystérieux qu'élégant.
 
 ===========
 trainer_description_it.lsd
@@ -17730,6 +18407,10 @@ come Allenatore.
 al mondo. Lasciandosi alle spalle il proprio passato,
 ha imparato che, oltre alla forza, è importante avere
 anche un animo gentile.
+[10159000000] Un maggiordomo esperto ed estremamente perspicace.
+La sua abilità di analisi gli permette di affrontare qualsiasi
+situazione con grande flessibilità, rivelandosi il vero
+segreto della sua forza.
 [10116000000] Un'Allenatrice positiva e sempre disponibile con gli altri,
 ha acquisito le sue capacità allenandosi mentre viaggiava
 a Sinnoh. In realtà è un po' sbadata.
@@ -18017,6 +18698,22 @@ spesso agli amici che si è fatto lungo il cammino.
 indossato durante le avventure a Kanto. Ha imparato
 dai suoi errori passati e mira sempre a diventare
 il numero uno.
+[10251000000] Allenatore specializzato nel tipo Spettro, indossa sempre
+una delle sue 100 maschere, tutte uguali, e non mostra
+mai il suo volto in pubblico. Pare che ami aggirarsi
+da solo nei cimiteri e nelle rovine.
+[10110100000] Misty indossa un magnifico Costumax che la rende bella
+come le sirene delle fiabe, quando nuota con eleganza
+insieme a Vaporeon.
+[10008100000] Erika indossa un Costumax verdeggiante. Nei giorni
+soleggiati, la si può spesso avvistare in giro a schiacciare
+un pisolino insieme a Leafeon.
+[10148400000] Angelo indossa un costume per la sfilata notturna. Insieme
+a Banette, un compagno vagamente inquietante, cerca
+di far appassionare le persone ai Pokémon di tipo Spettro.
+[10095400000] Catlina indossa un abito che si abbina alla perfezione
+con Sableye. Coloro che osano disturbare il suo riposo
+vengono invitati a un ballo misterioso e molto elegante.
 
 ===========
 trainer_description_ja.lsd
@@ -18318,6 +19015,9 @@ trainer_description_ja.lsd
 [10133000000] 世界で一番強い　トレーナーを　目指す　少年。
 過去を　乗りこえることで　強さだけではなく
 優しい心の　大切さを　知った。
+[10159000000] 洞察力に　優れた　優秀な　執事。
+どんな　状況にも　臨機応変に　対応できる
+状況判断が　彼の　強さの　秘訣。
 [10116000000] 前向きで　お世話好きな　性格の　トレーナー。
 シンオウ地方を　旅して　鍛えた　実力の　持ち主。
 じつは　ちょっと　おっちょこちょい。
@@ -18558,6 +19258,21 @@ trainer_description_ja.lsd
 [10021800000] カントー地方を　旅していたときの　衣装を
 身にまとい　初心に　立ち返った　グリーン。
 かつての　未熟さを　受け入れ　最強を　目指す。
+[10251000000] 人前では　絶対に　素顔を　みせない　ゴースト使い。
+同じデザインの　仮面を　１００個は　用意している。
+遺跡や　墓場に　ひとりでいるのが　好きらしい。
+[10110100000] 華やかな　マジコスを　身にまとった　カスミ。
+シャワーズと　共に　優雅に　水中を　泳ぐ　姿は
+まるで　おとぎ話の　人魚のように　美しいという。
+[10008100000] 緑に　溶けこむ　マジコスを　身にまとった　エリカ。
+気持ちよく　晴れた日には　リーフィアと　一緒に
+お昼寝している　姿が　たびたび　目撃されている。
+[10148400000] ナイトパレードの　仮装を　楽しむ　マツバ。
+ちょっぴり　怖い　ジュペッタと　共に
+ゴーストポケモンの　世界へ　人々を　いざなう。
+[10095400000] ヤミラミと　お似合いの　仮装を　楽しむ　カトレア。
+その眠りを　さまたげて　しまった　者は
+妖しく　エレガントな　舞踏会へ　誘われるという。
 
 ===========
 trainer_description_ko.lsd
@@ -18859,6 +19574,9 @@ trainer_description_ko.lsd
 [10133000000] 세계에서 가장 강한 트레이너를 목표하는 소년.
 과거를 이겨내면서 강함이 전부가 아니라는 점과
 상냥한 마음의 소중함을 깨달았다.
+[10159000000] 통찰력이 뛰어나고 우수한 집사.
+어떤 상황에서도 임기응변할 수 있는
+상황 판단이 그가 강한 비결이다.
 [10116000000] 적극적이고 다른 사람을 잘 봐주는 성격의 트레이너.
 신오지방을 여행하며 단련한 실력의 소유자.
 실은 조금 덤벙댄다.
@@ -19099,6 +19817,21 @@ WPM 운영위원회의 대표도 맡고 있다.
 [10021800000] 관동지방을 여행하던 시절의 의상을 입고
 초심으로 돌아간 그린.
 과거의 미숙함을 받아들이고 최강을 목표한다.
+[10251000000] 남들 앞에서는 절대로 가면을 벗지 않는 고스트 전문가.
+같은 디자인의 가면을 100개나 준비해 두었다.
+유적이나 묘지에 혼자 있는 걸 좋아하는 듯하다.
+[10110100000] 화려한 궁극코스를 입은 이슬.
+샤미드와 함께 우아하게 수중을 헤엄치는 모습은
+마치 동화 속에 나오는 인어처럼 아름답다고 한다.
+[10008100000] 초록색에 녹아드는 듯한 궁극코스를 입은 민화.
+기분 좋게 맑은 날에는 가끔씩 리피아와 함께
+낮잠을 자는 모습을 볼 수 있다고 한다.
+[10148400000] 나이트 퍼레이드 분장을 즐기고 있는 유빈.
+조금 무서운 다크펫과 함께
+고스트포켓몬의 세계로 사람들을 부르고 있다.
+[10095400000] 깜까미와 어울리는 분장을 즐기고 있는 카틀레야.
+그녀의 잠을 방해해버린 자는
+수상하고 엘레강트한 무도회에 끌려간다고 한다.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -19399,6 +20132,9 @@ trainer_description_zh-TW.lsd
 [10133000000] 以成為世界第一強訓練家為目標的少年。
 透過克服自己的過去而明白了
 除了實力之外，一顆溫柔的心也很重要。
+[10159000000] 擁有優越觀察力的優秀管家。
+不論遇到什麼狀況都能臨機應變地處理。
+針對狀況做出判斷是他強大的秘訣。
 [10116000000] 是個積極樂觀、喜歡照顧人的訓練家。
 曾在神奧地區旅行，鍛鍊出了現在的實力。
 其實個性有點迷糊冒失。
@@ -19639,6 +20375,21 @@ trainer_description_zh-TW.lsd
 [10021800000] 穿上在關都地區冒險時的服裝，
 回歸初心的青綠。他接納過去
 不成熟的自己，以最強為目標。
+[10251000000] 絕不在人前露出真面目的幽靈寶可夢行家。
+平時都會準備好１００個同樣款式的面具。
+他好像喜歡一個人待在遺跡或墓地。
+[10110100000] 身穿華麗美極套裝的小霞。
+聽說她和水伊布在水中一起優雅游動的身影，
+就如同童話中的人魚般美麗。
+[10008100000] 身穿綠色美極套裝，融入綠意之中的莉佳。
+在晴朗舒適的日子裡，經常有人
+看到她和葉伊布一起睡午覺的樣子。
+[10148400000] 享受夜間遊行變裝樂趣的松葉。
+他和有點可怕的詛咒娃娃一起，
+將人們帶向幽靈寶可夢的世界。
+[10095400000] 裝扮成和勾魂眼搭配的樣子，
+並樂在其中的嘉德麗雅。妨礙她睡覺的人，
+據說會受邀參加詭怪優雅的舞會。
 
 ===========
 trainer_name_de.lsd
@@ -19807,8 +20558,11 @@ trainer_name_de.lsd
 [ch0247] Delion
 [ch0249] Kate
 [ch0250] Saida
+[ch0251] Nio
 [ch0256] Nezz
 [ch0257] Roy
+[ch0640] Rüpel von Team Rocket
+[ch0641] Rüpel von Team Rocket
 
 ===========
 trainer_name_en.lsd
@@ -19977,8 +20731,11 @@ trainer_name_en.lsd
 [ch0247] Leon
 [ch0249] Nessa
 [ch0250] Bea
+[ch0251] Allister
 [ch0256] Piers
 [ch0257] Raihan
+[ch0640] Team Rocket Grunt
+[ch0641] Team Rocket Grunt
 
 ===========
 trainer_name_es.lsd
@@ -20147,8 +20904,11 @@ trainer_name_es.lsd
 [ch0247] Lionel
 [ch0249] Cathy
 [ch0250] Judith
+[ch0251] Alistair
 [ch0256] Nerio
 [ch0257] Roy
+[ch0640] Recluta del Team Rocket
+[ch0641] Recluta del Team Rocket
 
 ===========
 trainer_name_fr.lsd
@@ -20317,8 +21077,11 @@ trainer_name_fr.lsd
 [ch0247] Tarak
 [ch0249] Donna
 [ch0250] Faïza
+[ch0251] Alistair
 [ch0256] Peterson
 [ch0257] Roy
+[ch0640] Sbire Team Rocket
+[ch0641] Sbire Team Rocket
 
 ===========
 trainer_name_it.lsd
@@ -20487,8 +21250,11 @@ trainer_name_it.lsd
 [ch0247] Dandel
 [ch0249] Azzurra
 [ch0250] Fabia
+[ch0251] Onion
 [ch0256] Ginepro
 [ch0257] Laburno
+[ch0640] Recluta del Team Rocket
+[ch0641] Recluta del Team Rocket
 
 ===========
 trainer_name_ja.lsd
@@ -20657,8 +21423,11 @@ trainer_name_ja.lsd
 [ch0247] ダンデ
 [ch0249] ルリナ
 [ch0250] サイトウ
+[ch0251] オニオン
 [ch0256] ネズ
 [ch0257] キバナ
+[ch0640] ロケットだんの　したっぱ
+[ch0641] ロケットだんの　したっぱ
 
 ===========
 trainer_name_ko.lsd
@@ -20827,8 +21596,11 @@ trainer_name_ko.lsd
 [ch0247] 단델
 [ch0249] 야청
 [ch0250] 채두
+[ch0251] 어니언
 [ch0256] 두송
 [ch0257] 금랑
+[ch0640] 로켓단의 조무래기
+[ch0641] 로켓단의 조무래기
 
 ===========
 trainer_name_zh-TW.lsd
@@ -20997,8 +21769,508 @@ trainer_name_zh-TW.lsd
 [ch0247] 丹帝
 [ch0249] 露璃娜
 [ch0250] 彩豆
+[ch0251] 歐尼奧
 [ch0256] 聶梓
 [ch0257] 奇巴納
+[ch0640] 火箭隊手下
+[ch0641] 火箭隊手下
+
+===========
+trainer_verbose_name_de.lsd
+===========
+[10015010000] MaMo-Rocko
+[10101100000] Rosy
+(Saison 2019)
+[10096100000] Narcisse
+(Saison 2019)
+[10106100000] MaMo-Kamilla
+[10000000000] MaMo-Rot
+[10048100000] MaMo-Astor
+[10074000000] Liam
+[10091010000] MaMo-Cynthia
+[10090400000] Troy
+(Saison 2020)
+[10002400000] Lyra
+(Saison 2020)
+[10021010000] MaMo-Blau
+[10017100000] MaMo-Leaf
+[10007400000] Lola
+(Saison 2020)
+[10020400000] Warren
+(Saison 2020)
+[10016400000] Géraldine
+(Saison 2020)
+[10008400000] Erika
+(Saison 2020)
+[10118400000] Lilly
+(Saison 2021)
+[10111400000] Siegfried
+(Saison 2021)
+[10130400000] Serena
+(Saison 2021)
+[10116400000] Lucia
+(Saison 2021)
+[10092800000] Lilia (Champ)
+[10126400000] Maike
+(Saison 2021)
+[10170400000] Artie
+(Saison 2021)
+[10243400000] Gloria
+(Saison 2021)
+[10245400000] Mary
+(Saison 2021)
+[10247100000] MaMo-Delion
+[10089400000] N
+(Jubiläum)
+[10118500000] Lilly
+(Jubiläum)
+[10090500000] Troy
+(Jubiläum)
+[10110010000] Misty
+(Kanto)
+[10021800000] Blau
+(Kanto)
+[10110100000] MaMo-Misty
+[10008100000] MaMo-Erika
+[10148400000] Jens
+(Saison 2021)
+[10095400000] Kattlea
+(Saison 2021)
+
+===========
+trainer_verbose_name_en.lsd
+===========
+[10015010000] Sygna Suit Brock
+[10101100000] Rosa
+(Holiday 2019)
+[10096100000] Siebold
+(Holiday 2019)
+[10106100000] Sygna Suit Elesa
+[10000000000] Sygna Suit Red
+[10048100000] Sygna Suit
+Grimsley
+[10074000000] Parker
+[10091010000] Sygna Suit
+Cynthia
+[10090400000] Steven
+(Summer 2020)
+[10002400000] Lyra
+(Summer 2020)
+[10021010000] Sygna Suit Blue
+[10017100000] Sygna Suit Leaf
+[10007400000] Acerola
+(Fall 2020)
+[10020400000] Hilbert
+(Fall 2020)
+[10016400000] Skyla
+(Holiday 2020)
+[10008400000] Erika
+(Holiday 2020)
+[10118400000] Lillie
+(New Year’s 2021)
+[10111400000] Lance
+(New Year’s 2021)
+[10130400000] Serena
+(Palentine’s 2021)
+[10116400000] Dawn
+(Palentine’s 2021)
+[10092800000] Iris
+(Champion)
+[10126400000] May
+(Spring 2021)
+[10170400000] Burgh
+(Spring 2021)
+[10243400000] Gloria
+(Summer 2021)
+[10245400000] Marnie
+(Summer 2021)
+[10247100000] Sygna Suit Leon
+[10089400000] N
+(Anniversary 2021)
+[10118500000] Lillie
+(Anniversary 2021)
+[10090500000] Steven
+(Anniversary 2021)
+[10110010000] Misty
+(Swimsuit)
+[10021800000] Blue
+(Classic)
+[10110100000] Sygna Suit Misty
+[10008100000] Sygna Suit Erika
+[10148400000] Morty
+(Fall 2021)
+[10095400000] Caitlin
+(Fall 2021)
+
+===========
+trainer_verbose_name_es.lsd
+===========
+[10015010000] Brock (Traje S)
+[10101100000] Nanci
+(Temporada 19)
+[10096100000] Narciso
+(Temporada 19)
+[10106100000] Camila (Traje S)
+[10000000000] Rojo (Traje S)
+[10048100000] Aza (Traje S)
+[10074000000] Lope
+[10091010000] Cintia (Traje S)
+[10090400000] Máximo
+(Temporada 20)
+[10002400000] Lira
+(Temporada 20)
+[10021010000] Azul (Traje S)
+[10017100000] Hoja (Traje S)
+[10007400000] Zarala
+(Temporada 20)
+[10020400000] Lucho
+(Temporada 20)
+[10016400000] Gerania
+(Temporada 20)
+[10008400000] Erika
+(Temporada 20)
+[10118400000] Lylia
+(Temporada 21)
+[10111400000] Lance
+(Temporada 21)
+[10130400000] Serena
+(Temporada 21)
+[10116400000] Maya
+(Temporada 21)
+[10092800000] Iris (Campeona)
+[10126400000] Aura
+(Temporada 21)
+[10170400000] Camus
+(Temporada 21)
+[10243400000] Gloria
+(Temporada 21)
+[10245400000] Roxy
+(Temporada 21)
+[10247100000] Lionel (Traje S)
+[10089400000] N (Aniversario)
+[10118500000] Lylia (Aniversario)
+[10090500000] Máximo
+(Aniversario)
+[10110010000] Misty (Kanto)
+[10021800000] Azul (Kanto)
+[10110100000] Misty (Traje S)
+[10008100000] Erika (Traje S)
+[10148400000] Morti
+(Temporada 21)
+[10095400000] Catleya
+(Temporada 21)
+
+===========
+trainer_verbose_name_fr.lsd
+===========
+[10015010000] Pierre (Ultime)
+[10101100000] Écho
+(Saison 2019)
+[10096100000] Narcisse
+(Saison 2019)
+[10106100000] Inezia (Ultime)
+[10000000000] Red (Ultime)
+[10048100000] Pieris (Ultime)
+[10074000000] Geoffroy
+[10091010000] Cynthia (Ultime)
+[10090400000] Rochard
+(Saison 2020)
+[10002400000] Célesta
+(Saison 2020)
+[10021010000] Blue (Look Ultime)
+[10017100000] Leaf (Look Ultime)
+[10007400000] Margie
+(Saison 2020)
+[10020400000] Ludwig
+(Saison 2020)
+[10016400000] Carolina
+(Saison 2020)
+[10008400000] Erika
+(Saison 2020)
+[10118400000] Lilie
+(Saison 2021)
+[10111400000] Peter
+(Saison 2021)
+[10130400000] Serena
+(Saison 2021)
+[10116400000] Aurore
+(Saison 2021)
+[10092800000] Iris (Maître)
+[10126400000] Flora
+(Saison 2021)
+[10170400000] Artie
+(Saison 2021)
+[10243400000] Gloria
+(Saison 2021)
+[10245400000] Rosemary
+(Saison 2021)
+[10247100000] Tarak (Ultime)
+[10089400000] N
+(Anniversaire 2021)
+[10118500000] Lilie
+(Anniversaire 2021)
+[10090500000] Pierre Rochard
+(Anniversaire 2021)
+[10110010000] Ondine (Maillot)
+[10021800000] Blue (Classique)
+[10110100000] Ondine (Ultime)
+[10008100000] Erika (Ultime)
+[10148400000] Mortimer
+(Saison 2021)
+[10095400000] Percila
+(Saison 2021)
+
+===========
+trainer_verbose_name_it.lsd
+===========
+[10015010000] Brock Costumax
+[10101100000] Rina
+(feste 2019)
+[10096100000] Narciso
+(feste 2019)
+[10106100000] Camelia Costumax
+[10000000000] Rosso Costumax
+[10048100000] Mirton Costumax
+[10074000000] Settimio
+[10091010000] Camilla Costumax
+[10090400000] Rocco
+(feste 2020)
+[10002400000] Cetra
+(feste 2020)
+[10021010000] Blu Costumax
+[10017100000] Leaf Costumax
+[10007400000] Malpi
+(feste 2020)
+[10020400000] Alcide
+(feste 2020)
+[10016400000] Anemone
+(feste 2020)
+[10008400000] Erika
+(feste 2020)
+[10118400000] Lylia
+(feste 2021)
+[10111400000] Lance
+(feste 2021)
+[10130400000] Serena
+(feste 2021)
+[10116400000] Lucinda
+(feste 2021)
+[10092800000] Iris
+(Campionessa)
+[10126400000] Vera
+(feste 2021)
+[10170400000] Artemisio
+(feste 2021)
+[10243400000] Gloria
+(feste 2021)
+[10245400000] Mary
+(feste 2021)
+[10247100000] Dandel Costumax
+[10089400000] N
+(anniversario 2021)
+[10118500000] Lylia
+(anniversario 2021)
+[10090500000] Rocco
+(anniversario 2021)
+[10110010000] Misty
+(costume)
+[10021800000] Blu
+(classico)
+[10110100000] Misty Costumax
+[10008100000] Erika Costumax
+[10148400000] Angelo
+(feste 2021)
+[10095400000] Catlina
+(feste 2021)
+
+===========
+trainer_verbose_name_ja.lsd
+===========
+[10015010000] マジコスタケシ
+[10101100000] メイ
+（１９シーズン）
+[10096100000] ズミ
+（１９シーズン）
+[10106100000] マジコスカミツレ
+[10000000000] マジコスレッド
+[10048100000] マジコスギーマ
+[10074000000] ナナオ
+[10091010000] マジコスシロナ
+[10090400000] ダイゴ
+（２０シーズン）
+[10002400000] コトネ
+（２０シーズン）
+[10021010000] マジコスグリーン
+[10017100000] マジコスリーフ
+[10007400000] アセロラ
+（２０シーズン）
+[10020400000] トウヤ
+（２０シーズン）
+[10016400000] フウロ
+（２０シーズン）
+[10008400000] エリカ
+（２０シーズン）
+[10118400000] リーリエ
+（２１シーズン）
+[10111400000] ワタル
+（２１シーズン）
+[10130400000] セレナ
+（２１シーズン）
+[10116400000] ヒカリ
+（２１シーズン）
+[10092800000] アイリス
+（アナザー）
+[10126400000] ハルカ
+（２１シーズン）
+[10170400000] アーティ
+（２１シーズン）
+[10243400000] ユウリ
+（２１シーズン）
+[10245400000] マリィ
+（２１シーズン）
+[10247100000] マジコスダンデ
+[10089400000] N
+（２１アニバーサリー）
+[10118500000] リーリエ
+（２１アニバーサリー）
+[10090500000] ダイゴ
+（２１アニバーサリー）
+[10110010000] カスミ
+（アナザー）
+[10021800000] グリーン
+（アナザー）
+[10110100000] マジコスカスミ
+[10008100000] マジコスエリカ
+[10148400000] マツバ
+（２１シーズン）
+[10095400000] カトレア
+（２１シーズン）
+
+===========
+trainer_verbose_name_ko.lsd
+===========
+[10015010000] 궁극코스 웅
+[10101100000] 명희
+(19시즌)
+[10096100000] 즈미
+(19시즌)
+[10106100000] 궁극코스 카밀레
+[10000000000] 궁극코스 레드
+[10048100000] 궁극코스 블래리
+[10074000000] 칠운
+[10091010000] 궁극코스 난천
+[10090400000] 성호
+(20시즌)
+[10002400000] 금선
+(20시즌)
+[10021010000] 궁극코스 그린
+[10017100000] 궁극코스 리프
+[10007400000] 아세로라
+(20시즌)
+[10020400000] 투지
+(20시즌)
+[10016400000] 풍란
+(20시즌)
+[10008400000] 민화
+(20시즌)
+[10118400000] 릴리에
+(21시즌)
+[10111400000] 목호
+(21시즌)
+[10130400000] 세레나
+(21시즌)
+[10116400000] 빛나
+(21시즌)
+[10092800000] 아이리스
+(어나더)
+[10126400000] 봄이
+(21시즌)
+[10170400000] 아티
+(21시즌)
+[10243400000] 우리
+(21시즌)
+[10245400000] 마리
+(21시즌)
+[10247100000] 궁극코스 단델
+[10089400000] N
+(21기념)
+[10118500000] 릴리에
+(21기념)
+[10090500000] 성호
+(21기념)
+[10110010000] 이슬
+(어나더)
+[10021800000] 그린
+(어나더)
+[10110100000] 궁극코스 이슬
+[10008100000] 궁극코스 민화
+[10148400000] 유빈
+(21시즌)
+[10095400000] 카틀레야
+(21시즌)
+
+===========
+trainer_verbose_name_zh-TW.lsd
+===========
+[10015010000] 美極套裝小剛
+[10101100000] 鳴依
+（２０１９冬季）
+[10096100000] 志米
+（２０１９冬季）
+[10106100000] 美極套裝小菊兒
+[10000000000] 美極套裝赤紅
+[10048100000] 美極套裝越橘
+[10074000000] 七雄
+[10091010000] 美極套裝竹蘭
+[10090400000] 大吾
+（２０２０夏季）
+[10002400000] 琴音
+（２０２０夏季）
+[10021010000] 美極套裝青綠
+[10017100000] 美極套裝葉子
+[10007400000] 阿塞蘿拉
+（２０２０秋季）
+[10020400000] 鬥也
+（２０２０秋季）
+[10016400000] 風露
+（２０２０冬季）
+[10008400000] 莉佳
+（２０２０冬季）
+[10118400000] 莉莉艾
+（２０２１新春）
+[10111400000] 阿渡
+（２０２１新春）
+[10130400000] 莎莉娜
+（２０２１春季）
+[10116400000] 小光
+（２０２１春季）
+[10092800000] 艾莉絲
+（冠軍）
+[10126400000] 小遙
+（２０２１春季）
+[10170400000] 亞堤
+（２０２１春季）
+[10243400000] 小優
+（２０２１夏季）
+[10245400000] 瑪俐
+（２０２１夏季）
+[10247100000] 美極套裝丹帝
+[10089400000] N
+（2021週年慶）
+[10118500000] 莉莉艾
+（2021週年慶）
+[10090500000] 大吾
+（2021週年慶）
+[10110010000] 小霞
+（泳裝）
+[10021800000] 青綠
+（關都）
+[10110100000] 美極套裝小霞
+[10008100000] 美極套裝莉佳
+[10148400000] 松葉
+（２０２１秋季）
+[10095400000] 嘉德麗雅
+（２０２１秋季）
 
 ===========
 common_widget_de.lsd
@@ -21184,6 +22456,8 @@ eingetauscht.
 [common_widget/dialog_075] Erhältst du Gefährten zum ersten Mal, schließen sie sich deinem Team an. Mit jedem weiteren Mal steigen die Stärke ihrer Gefährtenattacke und ihr Attacken-Level.
 [common_widget/dialog_076] Hinweis: Für dieses Gefährtengespann gibt es keine Gefährtenepisode.
 [common_widget/dialog_077] Auf diesem Bildschirm ist die Schaltfläche, die dich zur vorherigen Ansicht zurückkehren lässt, nicht verfügbar.
+[common_widget/dialog_078] Hinweis: Nach dem Gefährten-Upgrade kann das Gefährtengespann nicht mehr in seinen ursprünglichen Zustand zurückkehren.
+[common_widget/dialog_079] Hinweis: Das Potenzial und der Level des Gefährtengespanns werden übernommen.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -21269,6 +22543,8 @@ könnt jetzt ein Gefährtengespann bilden!
 [common_widget/cutin_trainer_018] Der Attacken-Level ist gestiegen!
 [common_widget/cutin_trainer_019] [Name:PokemonName ] ist jetzt
 dein Gefährte!
+[common_widget/cutin_trainer_020] Gefährten-Upgrade
+[common_widget/cutin_trainer_021] Details zum Gefährten-Upgrade
 [common_widget/balloon_menu_001] AUTO
 [common_widget/balloon_menu_002] Überspringen
 [common_widget/balloon_menu_003] Möchtest du diese Sequenz
@@ -21355,7 +22631,8 @@ erhalten!
 [common_widget/cutin_007] Gefährtenattacke
 [common_widget/cutin_008] × [Digit:4digits ]
 [common_widget/cutin_009] Attacken-Level erhöhen
-[common_widget/cutin_010] Die Stärke von [Name:Move ] wurde erhöht.
+[common_widget/cutin_010] Die Stärke von [Name:Move ]
+wurde erhöht.
 [common_widget/cutin_011] Auf dem Gefährtensteinbrett wurden Felder nach
 Erfüllung bestimmter Bedingungen freigeschaltet.
 [common_widget/cutin_012] [Name:TrainerName ] &
@@ -21676,6 +22953,8 @@ From the second time on, their sync
 moves and move level will level up.
 [common_widget/dialog_076] Note: This sync pair does not have a sync pair story.
 [common_widget/dialog_077] The back button cannot be used on this screen.
+[common_widget/dialog_078] After a power boost, the sync pair cannot be returned to its prior state.
+[common_widget/dialog_079] Any power-ups or level-ups already applied to this sync pair will be carried over.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -21758,6 +23037,8 @@ MAX!
 [common_widget/cutin_trainer_018] Moves have been leveled up!
 [common_widget/cutin_trainer_019] You formed a sync pair
 with [Name:PokemonName ]!
+[common_widget/cutin_trainer_020] Power boost!
+[common_widget/cutin_trainer_021] Details
 [common_widget/balloon_menu_001] AUTO
 [common_widget/balloon_menu_002] Skip
 [common_widget/balloon_menu_003] Skip this conversation?
@@ -22150,6 +23431,10 @@ movimientos y los movimientos compi
 de dicha pareja. 
 [common_widget/dialog_076] Nota: No hay ningún episodio compi dedicado a esta pareja.
 [common_widget/dialog_077] No puedes usar el botón de retroceso en esta pantalla.
+[common_widget/dialog_078] Aviso: Después de obtener esta mejora, la pareja de
+compis no podrá volver a su estado anterior.
+[common_widget/dialog_079] Aviso: Se conservarán los aumentos de nivel y potencia
+que ya tuviera la pareja de compis.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Nv.
 [common_widget/trainer_detail_004] MÁX.
@@ -22231,6 +23516,9 @@ de movimientos!
 de los movimientos.
 [common_widget/cutin_trainer_019] ¡Ahora puedes formar pareja con
 [Name:PokemonName ]!
+[common_widget/cutin_trainer_020] ¡Compis
+mejorados!
+[common_widget/cutin_trainer_021] Detalles de la mejora de compis
 [common_widget/balloon_menu_001] AUTO
 [common_widget/balloon_menu_002] Omitir
 [common_widget/balloon_menu_003] ¿Quieres omitir esta conversación?
@@ -22317,8 +23605,7 @@ un Traje EX!
 [common_widget/cutin_007] Movimiento compi
 [common_widget/cutin_008] × [Digit:4digits ]
 [common_widget/cutin_009] Detalles de la mejoras
-[common_widget/cutin_010] Se ha aumentado la potencia de
-[Name:Move ].
+[common_widget/cutin_010] Se ha aumentado la potencia de [Name:Move ].
 [common_widget/cutin_011] Se han desbloqueado casillas del Tablero de la
 Piedra Compi por cumplir ciertos requisitos.
 [common_widget/cutin_012] [Name:TrainerName ]
@@ -22619,6 +23906,8 @@ convertis en Pièces.
 Le niveau de ses capacités et de sa capacité Duo augmentera toutes les fois suivantes.
 [common_widget/dialog_076] Il n'y a pas d'épisode Duo associé à ce Duo.
 [common_widget/dialog_077] L'utilisation du bouton retour est impossible ici.
+[common_widget/dialog_078] Une fois le renforcement effectué, le Duo ne pourra pas revenir à l'état précédant son amélioration.
+[common_widget/dialog_079] L'entraînement du Duo sera maintenu.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] N.
 [common_widget/trainer_detail_004] MAX
@@ -22705,6 +23994,8 @@ capacités max !
 [common_widget/cutin_trainer_018] Niveau des capacités augmenté !
 [common_widget/cutin_trainer_019] Vous pouvez maintenant faire équipe
 avec [Name:PokemonName ] !
+[common_widget/cutin_trainer_020] Duo renforcé !
+[common_widget/cutin_trainer_021] Détails du renforcement
 [common_widget/balloon_menu_001] AUTO
 [common_widget/balloon_menu_002] Passer
 [common_widget/balloon_menu_003] Voulez-vous passer la conversation ?
@@ -23105,6 +24396,9 @@ aumenterà la potenza delle sue mosse
 e delle sue Unimosse.
 [common_widget/dialog_076] Questa Unità non ha un episodio Unità.
 [common_widget/dialog_077] Non puoi usare il pulsante Indietro in questa schermata.
+[common_widget/dialog_078] Una volta rinforzata, l'Unità non potrà più tornare
+al suo stato originale.
+[common_widget/dialog_079] Lo stato di allenamento dell'Unità verrà mantenuto.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] L.
 [common_widget/trainer_detail_004] MAX
@@ -23186,6 +24480,8 @@ al massimo!
 [common_widget/cutin_trainer_018] Il livello mosse è aumentato!
 [common_widget/cutin_trainer_019] Ora puoi formare un'Unità
 con [Name:PokemonName ]!
+[common_widget/cutin_trainer_020] Unità rinforzata!
+[common_widget/cutin_trainer_021] Dettagli rinforzo Unità
 [common_widget/balloon_menu_001] AUTO
 [common_widget/balloon_menu_002] Salta
 [common_widget/balloon_menu_003] Vuoi saltare il dialogo?
@@ -23270,8 +24566,8 @@ ottenuto!
 [common_widget/cutin_007] Unimossa
 [common_widget/cutin_008] ×[Digit:4digits ]
 [common_widget/cutin_009] Info aumento livello mosse
-[common_widget/cutin_010] La potenza della seguente mossa è aumentata:
-[Name:Move ].
+[common_widget/cutin_010] È aumentata la potenza di:
+[Name:Move ]
 [common_widget/cutin_011] Hai sbloccato alcune caselle della Teca Pietra
 Unità soddisfacendo determinati requisiti.
 [common_widget/cutin_012] [Name:TrainerName ] &
@@ -23574,6 +24870,8 @@ EXカラー衣装が　かくとくできます
 [common_widget/dialog_076] ※このバディーズには
 バディーズエピソードがありません
 [common_widget/dialog_077] この画面でバックキーは使用できません
+[common_widget/dialog_078] ※獲得すると　強化前の状態に　戻すことはできません
+[common_widget/dialog_079] ※バディーズの育成状況は　引き継がれます
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -23656,6 +24954,8 @@ Lv.MAX
 [common_widget/cutin_trainer_018] わざレベルが上昇しました！
 [common_widget/cutin_trainer_019] [Name:PokemonName ]と
 バディを組めるようになりました！
+[common_widget/cutin_trainer_020] バディーズ強化！
+[common_widget/cutin_trainer_021] バディーズ強化詳細
 [common_widget/balloon_menu_001] AUTO
 [common_widget/balloon_menu_002] スキップ
 [common_widget/balloon_menu_003] お話をスキップしますか？
@@ -23740,7 +25040,7 @@ Lv.MAX
 [common_widget/cutin_007] バディーズわざ
 [common_widget/cutin_008] [Digit:4digits ]倍
 [common_widget/cutin_009] わざレベルアップ詳細
-[common_widget/cutin_010] [Name:Move ]のわざの威力が上昇しました
+[common_widget/cutin_010] [Name:Move ]の威力が上昇しました
 [common_widget/cutin_011] 特定の解放条件を満たしたバディストーンボードのパネルがアンロックされました
 [common_widget/cutin_012] [Name:TrainerName ]＆[Name:PokemonName ]
 [common_widget/cutin_013] バディーズわざ
@@ -24054,6 +25354,8 @@ EX컬러 의상을 획득할 수 있습니다
 [common_widget/dialog_076] ※이 버디즈에게는
 버디즈 에피소드가 없습니다
 [common_widget/dialog_077] 이 화면에서 뒤로 가기 버튼은 사용할 수 없습니다
+[common_widget/dialog_078] ※획득하면 강화 전 상태로 돌아갈 수 없습니다
+[common_widget/dialog_079] ※버디즈의 육성 상황은 유지됩니다
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -24137,6 +25439,8 @@ Lv.MAX
 [common_widget/cutin_trainer_018] 기술 레벨이 상승했습니다!
 [common_widget/cutin_trainer_019] [Name:PokemonName ][Kor:Particle char="to" ]
 버디가 되었습니다!
+[common_widget/cutin_trainer_020] 버디즈 강화!
+[common_widget/cutin_trainer_021] 버디즈 강화 상세
 [common_widget/balloon_menu_001] AUTO
 [common_widget/balloon_menu_002] 건너뛰기
 [common_widget/balloon_menu_003] 대화를 건너뛰겠습니까?
@@ -24520,6 +25824,8 @@ common_widget_zh-TW.lsd
 [common_widget/dialog_076] ※這對拍組
 沒有拍組劇情
 [common_widget/dialog_077] 在這個畫面無法使用返回按鈕
+[common_widget/dialog_078] ※獲得後將無法回到強化前的狀態
+[common_widget/dialog_079] ※拍組的培育狀況會維持現狀
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -24598,6 +25904,8 @@ Lv.MAX
 [common_widget/cutin_trainer_017] 招式等級MAX！
 [common_widget/cutin_trainer_018] 招式等級提升了！
 [common_widget/cutin_trainer_019] 可以和[Name:PokemonName ]結為拍組了！
+[common_widget/cutin_trainer_020] 拍組強化！
+[common_widget/cutin_trainer_021] 拍組強化說明
 [common_widget/balloon_menu_001] AUTO
 [common_widget/balloon_menu_002] 跳過
 [common_widget/balloon_menu_003] 要跳過對話嗎？
@@ -24682,7 +25990,7 @@ EX服裝！
 [common_widget/cutin_007] 拍組招式
 [common_widget/cutin_008] [Digit:4digits ]倍
 [common_widget/cutin_009] 提升招式等級說明
-[common_widget/cutin_010] [Name:Move ]的招式威力提升了
+[common_widget/cutin_010] [Name:Move ]的威力提升了
 [common_widget/cutin_011] 達成特定開放條件的拍檔石盤格子已解鎖
 [common_widget/cutin_012] [Name:TrainerName ]＆[Name:PokemonName ]
 [common_widget/cutin_013] 拍組招式
@@ -25083,6 +26391,11 @@ Nintendo-Account verknüpft hast.
 
 게임을 다시 시작합니다.</attr>
 [error_dialog_contents/30110] <attr font='fallback'>승인 의뢰에 실패하였습니다.</attr>
+[error_dialog_contents/BR_30109] Há uma atualização do consentimento de seu representante legal.
+Para continuar jogando o jogo, você é obrigado a obter o consentimento de seu representante legal.
+Reinicie o jogo
+
+[error_dialog_contents/BR_30110] Pedido de Aprovação Falhou
 
 ===========
 error_dialog_contents_en.lsd
@@ -25298,6 +26611,11 @@ linked save data.
 
 게임을 다시 시작합니다.</attr>
 [error_dialog_contents/30110] <attr font='fallback'>승인 의뢰에 실패하였습니다.</attr>
+[error_dialog_contents/BR_30109] Há uma atualização do consentimento de seu representante legal.
+Para continuar jogando o jogo, você é obrigado a obter o consentimento de seu representante legal.
+Reinicie o jogo
+
+[error_dialog_contents/BR_30110] Pedido de Aprovação Falhou
 
 ===========
 error_dialog_contents_es.lsd
@@ -25535,6 +26853,11 @@ tenga datos de guardado.
 
 게임을 다시 시작합니다.</attr>
 [error_dialog_contents/30110] <attr font='fallback'>승인 의뢰에 실패하였습니다.</attr>
+[error_dialog_contents/BR_30109] Há uma atualização do consentimento de seu representante legal.
+Para continuar jogando o jogo, você é obrigado a obter o consentimento de seu representante legal.
+Reinicie o jogo
+
+[error_dialog_contents/BR_30110] Pedido de Aprovação Falhou
 
 ===========
 error_dialog_contents_fr.lsd
@@ -25770,6 +27093,11 @@ avec un compte Nintendo associé.
 
 게임을 다시 시작합니다.</attr>
 [error_dialog_contents/30110] <attr font='fallback'>승인 의뢰에 실패하였습니다.</attr>
+[error_dialog_contents/BR_30109] Há uma atualização do consentimento de seu representante legal.
+Para continuar jogando o jogo, você é obrigado a obter o consentimento de seu representante legal.
+Reinicie o jogo
+
+[error_dialog_contents/BR_30110] Pedido de Aprovação Falhou
 
 ===========
 error_dialog_contents_it.lsd
@@ -26012,6 +27340,11 @@ con un account Nintendo già collegato.
 
 게임을 다시 시작합니다.</attr>
 [error_dialog_contents/30110] <attr font='fallback'>승인 의뢰에 실패하였습니다.</attr>
+[error_dialog_contents/BR_30109] Há uma atualização do consentimento de seu representante legal.
+Para continuar jogando o jogo, você é obrigado a obter o consentimento de seu representante legal.
+Reinicie o jogo
+
+[error_dialog_contents/BR_30110] Pedido de Aprovação Falhou
 
 ===========
 error_dialog_contents_ja.lsd
@@ -26287,6 +27620,11 @@ Apple IDで再度引き継ぎを行ってください
 
 ゲームを再起動します
 [error_dialog_contents/30110] 承認依頼に失敗しました
+[error_dialog_contents/BR_30109] Há uma atualização do consentimento de seu representante legal.
+Para continuar jogando o jogo, você é obrigado a obter o consentimento de seu representante legal.
+Reinicie o jogo
+
+[error_dialog_contents/BR_30110] Pedido de Aprovação Falhou
 
 ===========
 error_dialog_contents_ko.lsd
@@ -26532,6 +27870,11 @@ Apple ID로 다시 이어받기를 진행하여 주십시오
 
 게임을 다시 시작합니다.
 [error_dialog_contents/30110] 승인 의뢰에 실패하였습니다.
+[error_dialog_contents/BR_30109] Há uma atualização do consentimento de seu representante legal.
+Para continuar jogando o jogo, você é obrigado a obter o consentimento de seu representante legal.
+Reinicie o jogo
+
+[error_dialog_contents/BR_30110] Pedido de Aprovação Falhou
 
 ===========
 error_dialog_contents_zh-TW.lsd
@@ -26745,6 +28088,11 @@ Nintendo Account使用條款
 
 게임을 다시 시작합니다.</attr>
 [error_dialog_contents/30110] <attr font='fallback'>승인 의뢰에 실패하였습니다.</attr>
+[error_dialog_contents/BR_30109] Há uma atualização do consentimento de seu representante legal.
+Para continuar jogando o jogo, você é obrigado a obter o consentimento de seu representante legal.
+Reinicie o jogo
+
+[error_dialog_contents/BR_30110] Pedido de Aprovação Falhou
 
 ===========
 home_de.lsd
@@ -26770,7 +28118,17 @@ home_de.lsd
 [home/quest_list_title_010] Kampfvilla
 (Multi)
 [home/quest_list_title_011] Champkampf
+[home/quest_list_series_001] WPM-Handlungsbogen
 [home/quest_list_series_002] Schurkenteam
+[home/quest_list_series_003] In dieser Geschichte verbündest du dich mit anderen Gefährten
+und strebst nach dem Sieg in den World Pokémon Masters.
+[home/quest_list_series_004] Diese Geschichte handelt von den Intrigen eines Schurkenteams,
+das nach dem Ende der WPM auf Passio eingetroffen ist.
+[home/quest_list_series_005] Empfohlener Level: [Digit:3digits ]
+[home/quest_list_series_006] Wird am folgenden Datum freigeschaltet:
+[Name:DateTime ]
+[home/quest_list_series_007] Wird nach Abschluss von „Herzen im Einklang“
+in Kapitel 1 der Hauptgeschichte freigeschaltet.
 [home/quest_list_013] Erf.
 [home/quest_list_017] Gemeinsam spielen
 [home/quest_list_018] Mit zufälligen
@@ -26956,6 +28314,9 @@ fortfahren?
 Belohnung erhalten!
 [home/quest_list_161] Pkt.
 [home/quest_list_162] Schurken-Event
+[home/quest_list_163] Update zum Schurken-Event
+[home/quest_list_164] Schurken-Event
+[home/quest_list_165] Hauptgeschichte
 [home/quest_detail_003] Empfohlener Typ
 [home/quest_detail_005] Details
 [home/quest_detail_009] Teamauswahl
@@ -27530,7 +28891,17 @@ home_en.lsd
 [home/quest_list_title_010] Battle Villa
 (Co-op)
 [home/quest_list_title_011] Champion Stadium
+[home/quest_list_series_001] PML Arc
 [home/quest_list_series_002] Villain Arc
+[home/quest_list_series_003] Team up with other sync pairs and take on
+the Pokémon Masters League!
+[home/quest_list_series_004] What plots are these villainous organizations hatching on Pasio
+now that the PML is over?
+[home/quest_list_series_005] Rec. Lv. [Digit:3digits ]
+[home/quest_list_series_006] Release date/time: [Name:DateTime ]
+[home/quest_list_series_007] To unlock, complete
+Main Story Chapter 1:
+The More the Merrier.
 [home/quest_list_013] XP
 [home/quest_list_017] Battle with other players!
 [home/quest_list_018] Quick
@@ -27706,6 +29077,9 @@ Are you sure you want to continue?
 Points Earned!
 [home/quest_list_161] pts
 [home/quest_list_162] Villain Event
+[home/quest_list_163] Villain Arc Update
+[home/quest_list_164] Villain Event
+[home/quest_list_165] Main Story
 [home/quest_detail_003] Recommended Types
 [home/quest_detail_005] Area Details
 [home/quest_detail_009] Preset Teams
@@ -28232,7 +29606,18 @@ home_es.lsd
 [home/quest_list_title_010] Residencia Batalla
 (multi)
 [home/quest_list_title_011] Combates de Campeones
+[home/quest_list_series_001] Trama del WPM
 [home/quest_list_series_002] Trama equipo villano
+[home/quest_list_series_003] En esta historia, unirás fuerzas con diversos compis con el
+objetivo de hacerte con el título del World Pokémon Masters.
+[home/quest_list_series_004] En esta historia, se cuentan las fechorías de un malvado equipo
+de villanos que amenaza Passio tras la clausura del WPM.
+[home/quest_list_series_005] Nv. rec.: [Digit:3digits ]
+[home/quest_list_series_006] Disponible a partir del
+[Name:DateTime ].
+[home/quest_list_series_007] Completa la ubicación "Corazones al
+unísono" del capítulo 1 de la historia
+principal.
 [home/quest_list_013] Exp.
 [home/quest_list_017] Multijugador
 [home/quest_list_018] Partida rápida
@@ -28410,6 +29795,9 @@ aprender.
 ¡Premio conseguido!
 [home/quest_list_161] ptos.
 [home/quest_list_162] Evento villano
+[home/quest_list_163] ¡Trama equipo villano!
+[home/quest_list_164] Evento villano
+[home/quest_list_165] Historia principal
 [home/quest_detail_003] Tipos recomendados
 [home/quest_detail_005] Detalles
 [home/quest_detail_009] Elegir equipo
@@ -28951,7 +30339,17 @@ principal (coop)
 [home/quest_list_title_010] Villa de
 Combat (coop)
 [home/quest_list_title_011] Combat de Maître
+[home/quest_list_series_001] Le WPM
 [home/quest_list_series_002] L'organisation maléfique
+[home/quest_list_series_003] Dans ce scénario, vous faites équipe avec divers Duos
+et visez la victoire au World Pokémon Masters.
+[home/quest_list_series_004] Ce scénario raconte les opérations secrètes d'une organisation
+maléfique venue à Passio après la fin du WPM.
+[home/quest_list_series_005] Niveau conseillé : [Digit:3digits ]
+[home/quest_list_series_006] Disponible à partir du [Name:DateTime ].
+[home/quest_list_series_007] Débloqué après avoir terminé
+« L'écho des cœurs »
+dans le chapitre 1.
 [home/quest_list_013] Exp.
 [home/quest_list_017] Jeu en coop
 [home/quest_list_018] Connexion
@@ -29137,6 +30535,9 @@ en arrière.
 Récompense obtenue !
 [home/quest_list_161] pts
 [home/quest_list_162] Évènement de l'organisation maléfique
+[home/quest_list_163] Mise à jour : L'organisation maléfique
+[home/quest_list_164] Évènement de l'organisation maléfique
+[home/quest_list_165] Scénario principal
 [home/quest_detail_003] Types conseillés
 [home/quest_detail_005] Infos
 [home/quest_detail_009] Équipes
@@ -29727,7 +31128,18 @@ multigiocatore
 [home/quest_list_title_010] Residenza Lotta
 multigiocatore
 [home/quest_list_title_011] Lotte dei Campioni
+[home/quest_list_series_001] Il WPM
 [home/quest_list_series_002] I gruppi malvagi
+[home/quest_list_series_003] Nel corso di questa storia potrai fare squadra con diverse Unità
+e puntare alla vittoria del World Pokémon Masters.
+[home/quest_list_series_004] Questa storia narra dei loschi piani di varie organizzazioni
+malvagie arrivate a Pasio dopo la fine del WPM.
+[home/quest_list_series_005] Livello consigliato: [Digit:3digits ]
+[home/quest_list_series_006] Si sblocca a partire dalla data e ora
+indicata di seguito:
+[Name:DateTime ]
+[home/quest_list_series_007] Si sblocca completando "Sintonia
+rinsaldata" del capitolo 1 della storia.
 [home/quest_list_013] ESP.
 [home/quest_list_017] Gioca in compagnia
 [home/quest_list_018] Giocatori a caso
@@ -29906,6 +31318,9 @@ Vuoi davvero partire?
 Nuova ricompensa!
 [home/quest_list_161] punti
 [home/quest_list_162] Evento gruppo malvagio
+[home/quest_list_163] I gruppi malvagi: aggiornamento
+[home/quest_list_164] Evento gruppo malvagio
+[home/quest_list_165] Storia
 [home/quest_detail_003] Tipi consigliati
 [home/quest_detail_005] Info area
 [home/quest_detail_009] Scegli squadra
@@ -30479,7 +31894,18 @@ home_ja.lsd
 [home/quest_list_title_010] バトルヴィラ
 （マルチ）
 [home/quest_list_title_011] チャンピオンバトル
+[home/quest_list_series_001] WPM編
 [home/quest_list_series_002] 悪の組織編
+[home/quest_list_series_003] 様々なバディーズと　仲間になり　ワールドポケモンマスターズで
+優勝を　目指すストーリーです
+[home/quest_list_series_004] WPM閉会後　パシオに　降り立った悪の組織の
+暗躍を描いたストーリーです
+[home/quest_list_series_005] 推奨レベル[Digit:3digits ]~
+[home/quest_list_series_006] 以下の日時になると解放されます
+[Name:DateTime ]
+[home/quest_list_series_007] メインストーリー第１章
+「共鳴する心」
+クリアで解放されます
 [home/quest_list_013] EXP
 [home/quest_list_017] みんなで遊ぶ
 [home/quest_list_018] おまかせ
@@ -30658,6 +32084,9 @@ Lv.[Digit:2digits ]で解放
 報酬獲得！
 [home/quest_list_161] pt
 [home/quest_list_162] 悪の組織イベント
+[home/quest_list_163] 悪の組織編更新
+[home/quest_list_164] 悪の組織イベント
+[home/quest_list_165] メインストーリー
 [home/quest_detail_003] おすすめのタイプ
 [home/quest_detail_005] エリア詳細
 [home/quest_detail_009] チーム選択
@@ -30781,7 +32210,7 @@ Lv.[Digit:2digits ]で解放
 対象ポイントの獲得数にボーナスがつきます
 [home/quest_detail_119] クリア報酬ポイント
 [home/quest_detail_120] 一撃ダメージボーナス
-[home/quest_detail_121] 被ダメージセーブボーナス	
+[home/quest_detail_121] 被ダメージセーブボーナス        
 [home/quest_detail_122] 残存ボーナス
 [home/quest_detail_123] タイムボーナス
 [home/quest_detail_124] バディーズ編成ボーナス
@@ -31222,7 +32651,18 @@ home_ko.lsd
 [home/quest_list_title_010] 배틀빌라
 (멀티)
 [home/quest_list_title_011] 챔피언배틀
+[home/quest_list_series_001] WPM 편
 [home/quest_list_series_002] 악의 조직 편
+[home/quest_list_series_003] 다양한 버디즈와 동료가 되고 월드 포켓몬 마스터즈에서
+우승을 목표로 하는 스토리입니다
+[home/quest_list_series_004] WPM 폐회 후 파시오에 찾아온 악의 조직의
+암약을 그린 스토리입니다
+[home/quest_list_series_005] 권장 레벨 [Digit:3digits ]~
+[home/quest_list_series_006] 아래 일시가 되면 해방됩니다
+[Name:DateTime ]
+[home/quest_list_series_007] 메인 스토리 제1장
+"공명하는 마음"을
+클리어하면 해방됩니다
 [home/quest_list_013] EXP
 [home/quest_list_017] 함께 즐긴다
 [home/quest_list_018] 자동
@@ -31401,6 +32841,9 @@ Lv.[Digit:2digits ]에서 해방
 보상 획득!
 [home/quest_list_161] 포인트
 [home/quest_list_162] 악의 조직 이벤트
+[home/quest_list_163] 악의 조직 편 갱신
+[home/quest_list_164] 악의 조직 이벤트
+[home/quest_list_165] 메인 스토리
 [home/quest_detail_003] 추천타입
 [home/quest_detail_005] 에리어 상세
 [home/quest_detail_009] 팀 선택
@@ -31940,7 +33383,17 @@ home_zh-TW.lsd
 [home/quest_list_title_010] 對戰莊園
 （多隊模式）
 [home/quest_list_title_011] 冠軍對戰
+[home/quest_list_series_001] WPM篇
 [home/quest_list_series_002] 邪惡組織篇
+[home/quest_list_series_003] 這是一段與許多不同的拍組成為夥伴，
+在世界寶可夢大師賽中以優勝為目標的故事。
+[home/quest_list_series_004] 這是描寫來到帕希歐的邪惡組織
+在WPM落幕之後暗中活動的故事。
+[home/quest_list_series_005] 建議等級[Digit:3digits ]~
+[home/quest_list_series_006] 將於下列時間開放：
+[Name:DateTime ]
+[home/quest_list_series_007] 成功過關主線劇情第１章
+「心心相鳴」即可開放
 [home/quest_list_013] EXP
 [home/quest_list_017] 多隊模式
 [home/quest_list_018] 隨機配對
@@ -32115,6 +33568,9 @@ home_zh-TW.lsd
 獲得報酬！
 [home/quest_list_161] pt
 [home/quest_list_162] 邪惡組織活動
+[home/quest_list_163] 邪惡組織篇更新
+[home/quest_list_164] 邪惡組織活動
+[home/quest_list_165] 主線劇情
 [home/quest_detail_003] 推薦屬性
 [home/quest_detail_005] 區域詳情
 [home/quest_detail_009] 選擇隊伍
@@ -32772,6 +34228,10 @@ eingetauscht werden.
 [shop/shop_itemexchange_043] Kampfpkt.
 [shop/shop_itemexchange_044] Kampfpunkte
 [shop/shop_itemexchange_045] Hinweis: Dieser Tausch kann jeweils nur ein Mal durchgeführt werden.
+[shop/shop_itemexchange_046] Tauschbar, wenn du dir
+[Name:TrainerName ] & [Name:PokemonName ]
+in dein Team geholt hast.
+[shop/shop_itemexchange_047] Gefährten-Upgrade
 [shop/scout_001] Gefährtensuche
 [shop/scout_002] G-Suche-
 Punkte
@@ -33355,6 +34815,8 @@ for this exchange?
 [shop/shop_itemexchange_043] BP
 [shop/shop_itemexchange_044] Battle Points
 [shop/shop_itemexchange_045] Only one of this exchange can be performed at a time.
+[shop/shop_itemexchange_046] To exchange, team up with [Name:TrainerName ] & [Name:PokemonName ].
+[shop/shop_itemexchange_047] Power Boost
 [shop/scout_001] Sync Pair Scout
 [shop/scout_002] Scout
 Points
@@ -33808,6 +35270,9 @@ de este objeto.
 [shop/shop_itemexchange_043] Ptos. combate
 [shop/shop_itemexchange_044] Puntos de combate
 [shop/shop_itemexchange_045] Nota: Solo puedes hacer un canje cada vez.
+[shop/shop_itemexchange_046] Disponible tras obtener a
+[Name:TrainerName ] y [Name:PokemonName ].
+[shop/shop_itemexchange_047] Mejora de compis
 [shop/scout_001] Reclutamiento
 [shop/scout_002] Puntos
 reclut.
@@ -34217,6 +35682,9 @@ est terminée.
 [shop/shop_itemexchange_044] Points de combat
 [shop/shop_itemexchange_045] Vous ne pouvez effectuer qu'un échange
 de ce type à la fois.
+[shop/shop_itemexchange_046] Disponible en faisant équipe avec :
+[Name:TrainerName ] & [Name:PokemonName ]
+[shop/shop_itemexchange_047] Renforcement Duo
 [shop/scout_001] Appel Duo
 [shop/scout_002] Pts d'Appel
 Duo
@@ -34638,6 +36106,8 @@ scambiato.
 [shop/shop_itemexchange_043] PL
 [shop/shop_itemexchange_044] Punti Lotta
 [shop/shop_itemexchange_045] È possibile effettuare un solo scambio alla volta.
+[shop/shop_itemexchange_046] Fai squadra con [Name:TrainerName ] & [Name:PokemonName ]
+[shop/shop_itemexchange_047] Rinforzo Unità
 [shop/scout_001] Ricerca Unità
 [shop/scout_002] Punti
 Unicerca
@@ -35130,6 +36600,9 @@ ONにしてください
 [shop/shop_itemexchange_043] バトルpt
 [shop/shop_itemexchange_044] バトルポイント
 [shop/shop_itemexchange_045] ※この交換は１つずつしか行えません
+[shop/shop_itemexchange_046] [Name:TrainerName ]&[Name:PokemonName ]を
+仲間にすると交換可能
+[shop/shop_itemexchange_047] バディーズ強化
 [shop/scout_001] バディーズサーチ
 [shop/scout_002] Ｂサーチ
 ポイント
@@ -35613,6 +37086,9 @@ ON으로 바꿔주십시오
 [shop/shop_itemexchange_043] 배틀pt
 [shop/shop_itemexchange_044] 배틀포인트
 [shop/shop_itemexchange_045] ※이 교환은 1개씩만 진행할 수 있습니다
+[shop/shop_itemexchange_046] [Name:TrainerName ]&[Name:PokemonName ][Kor:Particle char="wo" ]
+동료로 만들면 교환 가능
+[shop/shop_itemexchange_047] 버디즈 강화
 [shop/scout_001] 버디즈서치
 [shop/scout_002] B서치
 포인트
@@ -36108,6 +37584,9 @@ shop_zh-TW.lsd
 [shop/shop_itemexchange_043] 對戰點數
 [shop/shop_itemexchange_044] 對戰點數
 [shop/shop_itemexchange_045] ※此交換每次只能執行一項
+[shop/shop_itemexchange_046] 與[Name:TrainerName ]&[Name:PokemonName ]
+成為夥伴即可交換
+[shop/shop_itemexchange_047] 拍組強化
 [shop/scout_001] 拍組搜尋
 [shop/scout_002] 拍組搜尋
 點數
@@ -37038,6 +38517,77 @@ Pokémon Masters를
 철회하면 해당 유저는
 [Name:TitleName ][Kor:Particle char="wo" ]
 플레이 할 수 없게 됩니다.
+[title/approval_BR_001] Sobre a emissão de Token
+[title/approval_BR_002] Os usuários menores de 13 anos devem obter o consentimento do seu pai, sua mãe ou outro representante legal para jogar.
+Se você quiser permitir que seu filho ou outro usuário alvo jogue, leia a Política de Privacidade e complete os seguintes passos para aprovar usuários menores de idade:
+ 
+(i) Pressione o botão "Emitir um Token" e dê o token exibido para o usuário alvo.
+(ii) Aprove a solicitação enviada pelo usuário alvo na Lista de Aprovações Pendentes/IDs Aprovadas.
+[title/approval_BR_003] Política de Privacidade
+[title/approval_BR_004] Continuar sem emitir um token
+[title/approval_BR_005] Emitir um token
+[title/approval_BR_006] Emitir/Aprovar um token
+[title/approval_BR_007] Lista de Aprovações Pendentes/IDs Aprovadas
+[title/approval_BR_008] Voltar
+[title/approval_BR_009] Emitir um token
+[title/approval_BR_010] Token
+[title/approval_BR_011] Por favor, dê o token ao seu filho ou outro usuário alvo.
+[title/approval_BR_013] Data de vencimento
+[Name:DateTime ]
+[title/approval_BR_014] Fechar
+[title/approval_BR_015] Digitação do Token
+[title/approval_BR_017] Pedir Autorização
+[title/approval_BR_018] Verificar Status da Aprovação
+[title/approval_BR_019] Pedido Aprovado com Sucesso
+[title/approval_BR_020] Pedido Aprovado com Sucesso
+[title/approval_BR_023] Data da Solicitação de Aprovação
+[Name:DateTime ]
+ 
+A aprovação está sendo solicitada atualmente.
+ 
+Para atualizar o status, pressione novamente o botão Verificar Status da Aprovação.
+ 
+Você poderá jogar após obter a aprovação do seu pai, sua mãe ou outro representante legal.
+ 
+Para que seu pai, sua mãe ou outro representante legal aprove sua solicitação, ele/ela precisa pressionar o botão "Lista de Aprovações Pendentes/IDs Aprovadas" na tela "Emitir/Aprovar um Token", ir para a tela "Autorização Pendente", pressionar o botão "Confirmar" ao lado da ID que você enviou e pressionar "Aprovar" na tela de confirmação.
+[title/approval_BR_024] Atualmente não há pedidos de aprovação.
+As solicitações de aprovação podem ser feitas na tela Digitação do Token.
+Se você já solicitou a aprovação, pressione o botão "Verificar Status de Aprovação" novamente para atualizar a tela.
+[title/approval_BR_025] Data da Solicitação de Aprovação
+[Name:DateTime ]
+ 
+Pedido de aprovação rejeitado.
+ 
+Se você desejar continuar jogando, peça novamente ao seu pai, sua mãe ou outro representante legal para emitir um novo token e solicite a aprovação na tela Digitação do Token.
+[title/approval_BR_026] Data da Solicitação de Aprovação
+[Name:DateTime ]
+ 
+Aprovação concedida.
+Agora você pode prosseguir a jogar Pokémon Masters EX.
+[title/approval_BR_027] Aprovação Solicitada
+Por favor, verifique o status de aprovação.
+[title/approval_BR_028] Aprovação Pendente/ID Aprovada
+[title/approval_BR_029] Aprovação Pendente
+[title/approval_BR_030] Aprovado
+[title/approval_BR_031] Confirmar
+[title/approval_BR_032] Coleta e Uso de Informações Pessoais
+[title/approval_BR_033] Você precisa dar seu consentimento para a Coleta e Uso de Informações Pessoais para aprovar.
+[title/approval_BR_034] Eu li, entendi e concordei com a Coleta e Uso de Informações Pessoais.
+[title/approval_BR_035] Rejeitar
+[title/approval_BR_036] Aprovar
+[title/approval_BR_037] ID Aprovada com Sucesso
+[title/approval_BR_038] Aprovação de ID rejeitada
+[title/approval_BR_039] Eu certifico que sou o/a representante legal do usuário sujeito à aprovação.
+[title/approval_BR_040] Revogar Aprovação
+[title/approval_BR_042] Aprovação revogada para este usuário
+[title/approval_BR_044] OK
+[title/approval_BR_045] Se você for um usuário menor de 13 anos, é necessário obter o consentimento do seu pai, sua mãe ou outro representante legal para jogar.
+Peça ao seu pai, sua mãe ou outro representante legal para baixar o aplicativo Pokémon Masters EX e emitir um token.
+Digite o token emitido no diálogo de entrada e pressione o botão "Pedido de Aprovação".
+Se a aprovação for bem sucedida, você poderá jogar o jogo.
+[title/approval_BR_046] Você tem certeza de que deseja revogar o seu "consentimento para a Coleta e Uso de Informações Pessoais" deste usuário?
+ 
+Se seu consentimento for revogado, este usuário não poderá mais jogar Pokémon Masters EX.
 
 ===========
 title_en.lsd
@@ -37543,6 +39093,77 @@ Pokémon Masters를
 철회하면 해당 유저는
 [Name:TitleName ][Kor:Particle char="wo" ]
 플레이 할 수 없게 됩니다.
+[title/approval_BR_001] Sobre a emissão de Token
+[title/approval_BR_002] Os usuários menores de 13 anos devem obter o consentimento do seu pai, sua mãe ou outro representante legal para jogar.
+Se você quiser permitir que seu filho ou outro usuário alvo jogue, leia a Política de Privacidade e complete os seguintes passos para aprovar usuários menores de idade:
+ 
+(i) Pressione o botão "Emitir um Token" e dê o token exibido para o usuário alvo.
+(ii) Aprove a solicitação enviada pelo usuário alvo na Lista de Aprovações Pendentes/IDs Aprovadas.
+[title/approval_BR_003] Política de Privacidade
+[title/approval_BR_004] Continuar sem emitir um token
+[title/approval_BR_005] Emitir um token
+[title/approval_BR_006] Emitir/Aprovar um token
+[title/approval_BR_007] Lista de Aprovações Pendentes/IDs Aprovadas
+[title/approval_BR_008] Voltar
+[title/approval_BR_009] Emitir um token
+[title/approval_BR_010] Token
+[title/approval_BR_011] Por favor, dê o token ao seu filho ou outro usuário alvo.
+[title/approval_BR_013] Data de vencimento
+[Name:DateTime ]
+[title/approval_BR_014] Fechar
+[title/approval_BR_015] Digitação do Token
+[title/approval_BR_017] Pedir Autorização
+[title/approval_BR_018] Verificar Status da Aprovação
+[title/approval_BR_019] Pedido Aprovado com Sucesso
+[title/approval_BR_020] Pedido Aprovado com Sucesso
+[title/approval_BR_023] Data da Solicitação de Aprovação
+[Name:DateTime ]
+ 
+A aprovação está sendo solicitada atualmente.
+ 
+Para atualizar o status, pressione novamente o botão Verificar Status da Aprovação.
+ 
+Você poderá jogar após obter a aprovação do seu pai, sua mãe ou outro representante legal.
+ 
+Para que seu pai, sua mãe ou outro representante legal aprove sua solicitação, ele/ela precisa pressionar o botão "Lista de Aprovações Pendentes/IDs Aprovadas" na tela "Emitir/Aprovar um Token", ir para a tela "Autorização Pendente", pressionar o botão "Confirmar" ao lado da ID que você enviou e pressionar "Aprovar" na tela de confirmação.
+[title/approval_BR_024] Atualmente não há pedidos de aprovação.
+As solicitações de aprovação podem ser feitas na tela Digitação do Token.
+Se você já solicitou a aprovação, pressione o botão "Verificar Status de Aprovação" novamente para atualizar a tela.
+[title/approval_BR_025] Data da Solicitação de Aprovação
+[Name:DateTime ]
+ 
+Pedido de aprovação rejeitado.
+ 
+Se você desejar continuar jogando, peça novamente ao seu pai, sua mãe ou outro representante legal para emitir um novo token e solicite a aprovação na tela Digitação do Token.
+[title/approval_BR_026] Data da Solicitação de Aprovação
+[Name:DateTime ]
+ 
+Aprovação concedida.
+Agora você pode prosseguir a jogar Pokémon Masters EX.
+[title/approval_BR_027] Aprovação Solicitada
+Por favor, verifique o status de aprovação.
+[title/approval_BR_028] Aprovação Pendente/ID Aprovada
+[title/approval_BR_029] Aprovação Pendente
+[title/approval_BR_030] Aprovado
+[title/approval_BR_031] Confirmar
+[title/approval_BR_032] Coleta e Uso de Informações Pessoais
+[title/approval_BR_033] Você precisa dar seu consentimento para a Coleta e Uso de Informações Pessoais para aprovar.
+[title/approval_BR_034] Eu li, entendi e concordei com a Coleta e Uso de Informações Pessoais.
+[title/approval_BR_035] Rejeitar
+[title/approval_BR_036] Aprovar
+[title/approval_BR_037] ID Aprovada com Sucesso
+[title/approval_BR_038] Aprovação de ID rejeitada
+[title/approval_BR_039] Eu certifico que sou o/a representante legal do usuário sujeito à aprovação.
+[title/approval_BR_040] Revogar Aprovação
+[title/approval_BR_042] Aprovação revogada para este usuário
+[title/approval_BR_044] OK
+[title/approval_BR_045] Se você for um usuário menor de 13 anos, é necessário obter o consentimento do seu pai, sua mãe ou outro representante legal para jogar.
+Peça ao seu pai, sua mãe ou outro representante legal para baixar o aplicativo Pokémon Masters EX e emitir um token.
+Digite o token emitido no diálogo de entrada e pressione o botão "Pedido de Aprovação".
+Se a aprovação for bem sucedida, você poderá jogar o jogo.
+[title/approval_BR_046] Você tem certeza de que deseja revogar o seu "consentimento para a Coleta e Uso de Informações Pessoais" deste usuário?
+ 
+Se seu consentimento for revogado, este usuário não poderá mais jogar Pokémon Masters EX.
 
 ===========
 title_es.lsd
@@ -38063,6 +39684,77 @@ Pokémon Masters를
 철회하면 해당 유저는
 [Name:TitleName ][Kor:Particle char="wo" ]
 플레이 할 수 없게 됩니다.
+[title/approval_BR_001] Sobre a emissão de Token
+[title/approval_BR_002] Os usuários menores de 13 anos devem obter o consentimento do seu pai, sua mãe ou outro representante legal para jogar.
+Se você quiser permitir que seu filho ou outro usuário alvo jogue, leia a Política de Privacidade e complete os seguintes passos para aprovar usuários menores de idade:
+ 
+(i) Pressione o botão "Emitir um Token" e dê o token exibido para o usuário alvo.
+(ii) Aprove a solicitação enviada pelo usuário alvo na Lista de Aprovações Pendentes/IDs Aprovadas.
+[title/approval_BR_003] Política de Privacidade
+[title/approval_BR_004] Continuar sem emitir um token
+[title/approval_BR_005] Emitir um token
+[title/approval_BR_006] Emitir/Aprovar um token
+[title/approval_BR_007] Lista de Aprovações Pendentes/IDs Aprovadas
+[title/approval_BR_008] Voltar
+[title/approval_BR_009] Emitir um token
+[title/approval_BR_010] Token
+[title/approval_BR_011] Por favor, dê o token ao seu filho ou outro usuário alvo.
+[title/approval_BR_013] Data de vencimento
+[Name:DateTime ]
+[title/approval_BR_014] Fechar
+[title/approval_BR_015] Digitação do Token
+[title/approval_BR_017] Pedir Autorização
+[title/approval_BR_018] Verificar Status da Aprovação
+[title/approval_BR_019] Pedido Aprovado com Sucesso
+[title/approval_BR_020] Pedido Aprovado com Sucesso
+[title/approval_BR_023] Data da Solicitação de Aprovação
+[Name:DateTime ]
+ 
+A aprovação está sendo solicitada atualmente.
+ 
+Para atualizar o status, pressione novamente o botão Verificar Status da Aprovação.
+ 
+Você poderá jogar após obter a aprovação do seu pai, sua mãe ou outro representante legal.
+ 
+Para que seu pai, sua mãe ou outro representante legal aprove sua solicitação, ele/ela precisa pressionar o botão "Lista de Aprovações Pendentes/IDs Aprovadas" na tela "Emitir/Aprovar um Token", ir para a tela "Autorização Pendente", pressionar o botão "Confirmar" ao lado da ID que você enviou e pressionar "Aprovar" na tela de confirmação.
+[title/approval_BR_024] Atualmente não há pedidos de aprovação.
+As solicitações de aprovação podem ser feitas na tela Digitação do Token.
+Se você já solicitou a aprovação, pressione o botão "Verificar Status de Aprovação" novamente para atualizar a tela.
+[title/approval_BR_025] Data da Solicitação de Aprovação
+[Name:DateTime ]
+ 
+Pedido de aprovação rejeitado.
+ 
+Se você desejar continuar jogando, peça novamente ao seu pai, sua mãe ou outro representante legal para emitir um novo token e solicite a aprovação na tela Digitação do Token.
+[title/approval_BR_026] Data da Solicitação de Aprovação
+[Name:DateTime ]
+ 
+Aprovação concedida.
+Agora você pode prosseguir a jogar Pokémon Masters EX.
+[title/approval_BR_027] Aprovação Solicitada
+Por favor, verifique o status de aprovação.
+[title/approval_BR_028] Aprovação Pendente/ID Aprovada
+[title/approval_BR_029] Aprovação Pendente
+[title/approval_BR_030] Aprovado
+[title/approval_BR_031] Confirmar
+[title/approval_BR_032] Coleta e Uso de Informações Pessoais
+[title/approval_BR_033] Você precisa dar seu consentimento para a Coleta e Uso de Informações Pessoais para aprovar.
+[title/approval_BR_034] Eu li, entendi e concordei com a Coleta e Uso de Informações Pessoais.
+[title/approval_BR_035] Rejeitar
+[title/approval_BR_036] Aprovar
+[title/approval_BR_037] ID Aprovada com Sucesso
+[title/approval_BR_038] Aprovação de ID rejeitada
+[title/approval_BR_039] Eu certifico que sou o/a representante legal do usuário sujeito à aprovação.
+[title/approval_BR_040] Revogar Aprovação
+[title/approval_BR_042] Aprovação revogada para este usuário
+[title/approval_BR_044] OK
+[title/approval_BR_045] Se você for um usuário menor de 13 anos, é necessário obter o consentimento do seu pai, sua mãe ou outro representante legal para jogar.
+Peça ao seu pai, sua mãe ou outro representante legal para baixar o aplicativo Pokémon Masters EX e emitir um token.
+Digite o token emitido no diálogo de entrada e pressione o botão "Pedido de Aprovação".
+Se a aprovação for bem sucedida, você poderá jogar o jogo.
+[title/approval_BR_046] Você tem certeza de que deseja revogar o seu "consentimento para a Coleta e Uso de Informações Pessoais" deste usuário?
+ 
+Se seu consentimento for revogado, este usuário não poderá mais jogar Pokémon Masters EX.
 
 ===========
 title_fr.lsd
@@ -38599,6 +40291,77 @@ Pokémon Masters를
 철회하면 해당 유저는
 [Name:TitleName ][Kor:Particle char="wo" ]
 플레이 할 수 없게 됩니다.
+[title/approval_BR_001] Sobre a emissão de Token
+[title/approval_BR_002] Os usuários menores de 13 anos devem obter o consentimento do seu pai, sua mãe ou outro representante legal para jogar.
+Se você quiser permitir que seu filho ou outro usuário alvo jogue, leia a Política de Privacidade e complete os seguintes passos para aprovar usuários menores de idade:
+ 
+(i) Pressione o botão "Emitir um Token" e dê o token exibido para o usuário alvo.
+(ii) Aprove a solicitação enviada pelo usuário alvo na Lista de Aprovações Pendentes/IDs Aprovadas.
+[title/approval_BR_003] Política de Privacidade
+[title/approval_BR_004] Continuar sem emitir um token
+[title/approval_BR_005] Emitir um token
+[title/approval_BR_006] Emitir/Aprovar um token
+[title/approval_BR_007] Lista de Aprovações Pendentes/IDs Aprovadas
+[title/approval_BR_008] Voltar
+[title/approval_BR_009] Emitir um token
+[title/approval_BR_010] Token
+[title/approval_BR_011] Por favor, dê o token ao seu filho ou outro usuário alvo.
+[title/approval_BR_013] Data de vencimento
+[Name:DateTime ]
+[title/approval_BR_014] Fechar
+[title/approval_BR_015] Digitação do Token
+[title/approval_BR_017] Pedir Autorização
+[title/approval_BR_018] Verificar Status da Aprovação
+[title/approval_BR_019] Pedido Aprovado com Sucesso
+[title/approval_BR_020] Pedido Aprovado com Sucesso
+[title/approval_BR_023] Data da Solicitação de Aprovação
+[Name:DateTime ]
+ 
+A aprovação está sendo solicitada atualmente.
+ 
+Para atualizar o status, pressione novamente o botão Verificar Status da Aprovação.
+ 
+Você poderá jogar após obter a aprovação do seu pai, sua mãe ou outro representante legal.
+ 
+Para que seu pai, sua mãe ou outro representante legal aprove sua solicitação, ele/ela precisa pressionar o botão "Lista de Aprovações Pendentes/IDs Aprovadas" na tela "Emitir/Aprovar um Token", ir para a tela "Autorização Pendente", pressionar o botão "Confirmar" ao lado da ID que você enviou e pressionar "Aprovar" na tela de confirmação.
+[title/approval_BR_024] Atualmente não há pedidos de aprovação.
+As solicitações de aprovação podem ser feitas na tela Digitação do Token.
+Se você já solicitou a aprovação, pressione o botão "Verificar Status de Aprovação" novamente para atualizar a tela.
+[title/approval_BR_025] Data da Solicitação de Aprovação
+[Name:DateTime ]
+ 
+Pedido de aprovação rejeitado.
+ 
+Se você desejar continuar jogando, peça novamente ao seu pai, sua mãe ou outro representante legal para emitir um novo token e solicite a aprovação na tela Digitação do Token.
+[title/approval_BR_026] Data da Solicitação de Aprovação
+[Name:DateTime ]
+ 
+Aprovação concedida.
+Agora você pode prosseguir a jogar Pokémon Masters EX.
+[title/approval_BR_027] Aprovação Solicitada
+Por favor, verifique o status de aprovação.
+[title/approval_BR_028] Aprovação Pendente/ID Aprovada
+[title/approval_BR_029] Aprovação Pendente
+[title/approval_BR_030] Aprovado
+[title/approval_BR_031] Confirmar
+[title/approval_BR_032] Coleta e Uso de Informações Pessoais
+[title/approval_BR_033] Você precisa dar seu consentimento para a Coleta e Uso de Informações Pessoais para aprovar.
+[title/approval_BR_034] Eu li, entendi e concordei com a Coleta e Uso de Informações Pessoais.
+[title/approval_BR_035] Rejeitar
+[title/approval_BR_036] Aprovar
+[title/approval_BR_037] ID Aprovada com Sucesso
+[title/approval_BR_038] Aprovação de ID rejeitada
+[title/approval_BR_039] Eu certifico que sou o/a representante legal do usuário sujeito à aprovação.
+[title/approval_BR_040] Revogar Aprovação
+[title/approval_BR_042] Aprovação revogada para este usuário
+[title/approval_BR_044] OK
+[title/approval_BR_045] Se você for um usuário menor de 13 anos, é necessário obter o consentimento do seu pai, sua mãe ou outro representante legal para jogar.
+Peça ao seu pai, sua mãe ou outro representante legal para baixar o aplicativo Pokémon Masters EX e emitir um token.
+Digite o token emitido no diálogo de entrada e pressione o botão "Pedido de Aprovação".
+Se a aprovação for bem sucedida, você poderá jogar o jogo.
+[title/approval_BR_046] Você tem certeza de que deseja revogar o seu "consentimento para a Coleta e Uso de Informações Pessoais" deste usuário?
+ 
+Se seu consentimento for revogado, este usuário não poderá mais jogar Pokémon Masters EX.
 
 ===========
 title_it.lsd
@@ -39119,6 +40882,77 @@ Pokémon Masters를
 철회하면 해당 유저는
 [Name:TitleName ][Kor:Particle char="wo" ]
 플레이 할 수 없게 됩니다.
+[title/approval_BR_001] Sobre a emissão de Token
+[title/approval_BR_002] Os usuários menores de 13 anos devem obter o consentimento do seu pai, sua mãe ou outro representante legal para jogar.
+Se você quiser permitir que seu filho ou outro usuário alvo jogue, leia a Política de Privacidade e complete os seguintes passos para aprovar usuários menores de idade:
+ 
+(i) Pressione o botão "Emitir um Token" e dê o token exibido para o usuário alvo.
+(ii) Aprove a solicitação enviada pelo usuário alvo na Lista de Aprovações Pendentes/IDs Aprovadas.
+[title/approval_BR_003] Política de Privacidade
+[title/approval_BR_004] Continuar sem emitir um token
+[title/approval_BR_005] Emitir um token
+[title/approval_BR_006] Emitir/Aprovar um token
+[title/approval_BR_007] Lista de Aprovações Pendentes/IDs Aprovadas
+[title/approval_BR_008] Voltar
+[title/approval_BR_009] Emitir um token
+[title/approval_BR_010] Token
+[title/approval_BR_011] Por favor, dê o token ao seu filho ou outro usuário alvo.
+[title/approval_BR_013] Data de vencimento
+[Name:DateTime ]
+[title/approval_BR_014] Fechar
+[title/approval_BR_015] Digitação do Token
+[title/approval_BR_017] Pedir Autorização
+[title/approval_BR_018] Verificar Status da Aprovação
+[title/approval_BR_019] Pedido Aprovado com Sucesso
+[title/approval_BR_020] Pedido Aprovado com Sucesso
+[title/approval_BR_023] Data da Solicitação de Aprovação
+[Name:DateTime ]
+ 
+A aprovação está sendo solicitada atualmente.
+ 
+Para atualizar o status, pressione novamente o botão Verificar Status da Aprovação.
+ 
+Você poderá jogar após obter a aprovação do seu pai, sua mãe ou outro representante legal.
+ 
+Para que seu pai, sua mãe ou outro representante legal aprove sua solicitação, ele/ela precisa pressionar o botão "Lista de Aprovações Pendentes/IDs Aprovadas" na tela "Emitir/Aprovar um Token", ir para a tela "Autorização Pendente", pressionar o botão "Confirmar" ao lado da ID que você enviou e pressionar "Aprovar" na tela de confirmação.
+[title/approval_BR_024] Atualmente não há pedidos de aprovação.
+As solicitações de aprovação podem ser feitas na tela Digitação do Token.
+Se você já solicitou a aprovação, pressione o botão "Verificar Status de Aprovação" novamente para atualizar a tela.
+[title/approval_BR_025] Data da Solicitação de Aprovação
+[Name:DateTime ]
+ 
+Pedido de aprovação rejeitado.
+ 
+Se você desejar continuar jogando, peça novamente ao seu pai, sua mãe ou outro representante legal para emitir um novo token e solicite a aprovação na tela Digitação do Token.
+[title/approval_BR_026] Data da Solicitação de Aprovação
+[Name:DateTime ]
+ 
+Aprovação concedida.
+Agora você pode prosseguir a jogar Pokémon Masters EX.
+[title/approval_BR_027] Aprovação Solicitada
+Por favor, verifique o status de aprovação.
+[title/approval_BR_028] Aprovação Pendente/ID Aprovada
+[title/approval_BR_029] Aprovação Pendente
+[title/approval_BR_030] Aprovado
+[title/approval_BR_031] Confirmar
+[title/approval_BR_032] Coleta e Uso de Informações Pessoais
+[title/approval_BR_033] Você precisa dar seu consentimento para a Coleta e Uso de Informações Pessoais para aprovar.
+[title/approval_BR_034] Eu li, entendi e concordei com a Coleta e Uso de Informações Pessoais.
+[title/approval_BR_035] Rejeitar
+[title/approval_BR_036] Aprovar
+[title/approval_BR_037] ID Aprovada com Sucesso
+[title/approval_BR_038] Aprovação de ID rejeitada
+[title/approval_BR_039] Eu certifico que sou o/a representante legal do usuário sujeito à aprovação.
+[title/approval_BR_040] Revogar Aprovação
+[title/approval_BR_042] Aprovação revogada para este usuário
+[title/approval_BR_044] OK
+[title/approval_BR_045] Se você for um usuário menor de 13 anos, é necessário obter o consentimento do seu pai, sua mãe ou outro representante legal para jogar.
+Peça ao seu pai, sua mãe ou outro representante legal para baixar o aplicativo Pokémon Masters EX e emitir um token.
+Digite o token emitido no diálogo de entrada e pressione o botão "Pedido de Aprovação".
+Se a aprovação for bem sucedida, você poderá jogar o jogo.
+[title/approval_BR_046] Você tem certeza de que deseja revogar o seu "consentimento para a Coleta e Uso de Informações Pessoais" deste usuário?
+ 
+Se seu consentimento for revogado, este usuário não poderá mais jogar Pokémon Masters EX.
 
 ===========
 title_ja.lsd
@@ -39680,6 +41514,77 @@ OSの処理によってダウンロードが止まることがあります
 撤回するとこのユーザーは
 [Name:TitleName ]を
 プレイできなくなります
+[title/approval_BR_001] Sobre a emissão de Token
+[title/approval_BR_002] Os usuários menores de 13 anos devem obter o consentimento do seu pai, sua mãe ou outro representante legal para jogar.
+Se você quiser permitir que seu filho ou outro usuário alvo jogue, leia a Política de Privacidade e complete os seguintes passos para aprovar usuários menores de idade:
+ 
+(i) Pressione o botão "Emitir um Token" e dê o token exibido para o usuário alvo.
+(ii) Aprove a solicitação enviada pelo usuário alvo na Lista de Aprovações Pendentes/IDs Aprovadas.
+[title/approval_BR_003] Política de Privacidade
+[title/approval_BR_004] Continuar sem emitir um token
+[title/approval_BR_005] Emitir um token
+[title/approval_BR_006] Emitir/Aprovar um token
+[title/approval_BR_007] Lista de Aprovações Pendentes/IDs Aprovadas
+[title/approval_BR_008] Voltar
+[title/approval_BR_009] Emitir um token
+[title/approval_BR_010] Token
+[title/approval_BR_011] Por favor, dê o token ao seu filho ou outro usuário alvo.
+[title/approval_BR_013] Data de vencimento
+[Name:DateTime ]
+[title/approval_BR_014] Fechar
+[title/approval_BR_015] Digitação do Token
+[title/approval_BR_017] Pedir Autorização
+[title/approval_BR_018] Verificar Status da Aprovação
+[title/approval_BR_019] Pedido Aprovado com Sucesso
+[title/approval_BR_020] Pedido Aprovado com Sucesso
+[title/approval_BR_023] Data da Solicitação de Aprovação
+[Name:DateTime ]
+ 
+A aprovação está sendo solicitada atualmente.
+ 
+Para atualizar o status, pressione novamente o botão Verificar Status da Aprovação.
+ 
+Você poderá jogar após obter a aprovação do seu pai, sua mãe ou outro representante legal.
+ 
+Para que seu pai, sua mãe ou outro representante legal aprove sua solicitação, ele/ela precisa pressionar o botão "Lista de Aprovações Pendentes/IDs Aprovadas" na tela "Emitir/Aprovar um Token", ir para a tela "Autorização Pendente", pressionar o botão "Confirmar" ao lado da ID que você enviou e pressionar "Aprovar" na tela de confirmação.
+[title/approval_BR_024] Atualmente não há pedidos de aprovação.
+As solicitações de aprovação podem ser feitas na tela Digitação do Token.
+Se você já solicitou a aprovação, pressione o botão "Verificar Status de Aprovação" novamente para atualizar a tela.
+[title/approval_BR_025] Data da Solicitação de Aprovação
+[Name:DateTime ]
+ 
+Pedido de aprovação rejeitado.
+ 
+Se você desejar continuar jogando, peça novamente ao seu pai, sua mãe ou outro representante legal para emitir um novo token e solicite a aprovação na tela Digitação do Token.
+[title/approval_BR_026] Data da Solicitação de Aprovação
+[Name:DateTime ]
+ 
+Aprovação concedida.
+Agora você pode prosseguir a jogar Pokémon Masters EX.
+[title/approval_BR_027] Aprovação Solicitada
+Por favor, verifique o status de aprovação.
+[title/approval_BR_028] Aprovação Pendente/ID Aprovada
+[title/approval_BR_029] Aprovação Pendente
+[title/approval_BR_030] Aprovado
+[title/approval_BR_031] Confirmar
+[title/approval_BR_032] Coleta e Uso de Informações Pessoais
+[title/approval_BR_033] Você precisa dar seu consentimento para a Coleta e Uso de Informações Pessoais para aprovar.
+[title/approval_BR_034] Eu li, entendi e concordei com a Coleta e Uso de Informações Pessoais.
+[title/approval_BR_035] Rejeitar
+[title/approval_BR_036] Aprovar
+[title/approval_BR_037] ID Aprovada com Sucesso
+[title/approval_BR_038] Aprovação de ID rejeitada
+[title/approval_BR_039] Eu certifico que sou o/a representante legal do usuário sujeito à aprovação.
+[title/approval_BR_040] Revogar Aprovação
+[title/approval_BR_042] Aprovação revogada para este usuário
+[title/approval_BR_044] OK
+[title/approval_BR_045] Se você for um usuário menor de 13 anos, é necessário obter o consentimento do seu pai, sua mãe ou outro representante legal para jogar.
+Peça ao seu pai, sua mãe ou outro representante legal para baixar o aplicativo Pokémon Masters EX e emitir um token.
+Digite o token emitido no diálogo de entrada e pressione o botão "Pedido de Aprovação".
+Se a aprovação for bem sucedida, você poderá jogar o jogo.
+[title/approval_BR_046] Você tem certeza de que deseja revogar o seu "consentimento para a Coleta e Uso de Informações Pessoais" deste usuário?
+ 
+Se seu consentimento for revogado, este usuário não poderá mais jogar Pokémon Masters EX.
 
 ===========
 title_ko.lsd
@@ -40204,6 +42109,77 @@ Pokémon Masters를
 철회하면 해당 유저는
 [Name:TitleName ][Kor:Particle char="wo" ]
 플레이 할 수 없게 됩니다.
+[title/approval_BR_001] Sobre a emissão de Token
+[title/approval_BR_002] Os usuários menores de 13 anos devem obter o consentimento do seu pai, sua mãe ou outro representante legal para jogar.
+Se você quiser permitir que seu filho ou outro usuário alvo jogue, leia a Política de Privacidade e complete os seguintes passos para aprovar usuários menores de idade:
+ 
+(i) Pressione o botão "Emitir um Token" e dê o token exibido para o usuário alvo.
+(ii) Aprove a solicitação enviada pelo usuário alvo na Lista de Aprovações Pendentes/IDs Aprovadas.
+[title/approval_BR_003] Política de Privacidade
+[title/approval_BR_004] Continuar sem emitir um token
+[title/approval_BR_005] Emitir um token
+[title/approval_BR_006] Emitir/Aprovar um token
+[title/approval_BR_007] Lista de Aprovações Pendentes/IDs Aprovadas
+[title/approval_BR_008] Voltar
+[title/approval_BR_009] Emitir um token
+[title/approval_BR_010] Token
+[title/approval_BR_011] Por favor, dê o token ao seu filho ou outro usuário alvo.
+[title/approval_BR_013] Data de vencimento
+[Name:DateTime ]
+[title/approval_BR_014] Fechar
+[title/approval_BR_015] Digitação do Token
+[title/approval_BR_017] Pedir Autorização
+[title/approval_BR_018] Verificar Status da Aprovação
+[title/approval_BR_019] Pedido Aprovado com Sucesso
+[title/approval_BR_020] Pedido Aprovado com Sucesso
+[title/approval_BR_023] Data da Solicitação de Aprovação
+[Name:DateTime ]
+ 
+A aprovação está sendo solicitada atualmente.
+ 
+Para atualizar o status, pressione novamente o botão Verificar Status da Aprovação.
+ 
+Você poderá jogar após obter a aprovação do seu pai, sua mãe ou outro representante legal.
+ 
+Para que seu pai, sua mãe ou outro representante legal aprove sua solicitação, ele/ela precisa pressionar o botão "Lista de Aprovações Pendentes/IDs Aprovadas" na tela "Emitir/Aprovar um Token", ir para a tela "Autorização Pendente", pressionar o botão "Confirmar" ao lado da ID que você enviou e pressionar "Aprovar" na tela de confirmação.
+[title/approval_BR_024] Atualmente não há pedidos de aprovação.
+As solicitações de aprovação podem ser feitas na tela Digitação do Token.
+Se você já solicitou a aprovação, pressione o botão "Verificar Status de Aprovação" novamente para atualizar a tela.
+[title/approval_BR_025] Data da Solicitação de Aprovação
+[Name:DateTime ]
+ 
+Pedido de aprovação rejeitado.
+ 
+Se você desejar continuar jogando, peça novamente ao seu pai, sua mãe ou outro representante legal para emitir um novo token e solicite a aprovação na tela Digitação do Token.
+[title/approval_BR_026] Data da Solicitação de Aprovação
+[Name:DateTime ]
+ 
+Aprovação concedida.
+Agora você pode prosseguir a jogar Pokémon Masters EX.
+[title/approval_BR_027] Aprovação Solicitada
+Por favor, verifique o status de aprovação.
+[title/approval_BR_028] Aprovação Pendente/ID Aprovada
+[title/approval_BR_029] Aprovação Pendente
+[title/approval_BR_030] Aprovado
+[title/approval_BR_031] Confirmar
+[title/approval_BR_032] Coleta e Uso de Informações Pessoais
+[title/approval_BR_033] Você precisa dar seu consentimento para a Coleta e Uso de Informações Pessoais para aprovar.
+[title/approval_BR_034] Eu li, entendi e concordei com a Coleta e Uso de Informações Pessoais.
+[title/approval_BR_035] Rejeitar
+[title/approval_BR_036] Aprovar
+[title/approval_BR_037] ID Aprovada com Sucesso
+[title/approval_BR_038] Aprovação de ID rejeitada
+[title/approval_BR_039] Eu certifico que sou o/a representante legal do usuário sujeito à aprovação.
+[title/approval_BR_040] Revogar Aprovação
+[title/approval_BR_042] Aprovação revogada para este usuário
+[title/approval_BR_044] OK
+[title/approval_BR_045] Se você for um usuário menor de 13 anos, é necessário obter o consentimento do seu pai, sua mãe ou outro representante legal para jogar.
+Peça ao seu pai, sua mãe ou outro representante legal para baixar o aplicativo Pokémon Masters EX e emitir um token.
+Digite o token emitido no diálogo de entrada e pressione o botão "Pedido de Aprovação".
+Se a aprovação for bem sucedida, você poderá jogar o jogo.
+[title/approval_BR_046] Você tem certeza de que deseja revogar o seu "consentimento para a Coleta e Uso de Informações Pessoais" deste usuário?
+ 
+Se seu consentimento for revogado, este usuário não poderá mais jogar Pokémon Masters EX.
 
 ===========
 title_zh-TW.lsd
@@ -40696,4 +42672,75 @@ Pokémon Masters를
 철회하면 해당 유저는
 [Name:TitleName ][Kor:Particle char="wo" ]
 플레이 할 수 없게 됩니다.
+[title/approval_BR_001] Sobre a emissão de Token
+[title/approval_BR_002] Os usuários menores de 13 anos devem obter o consentimento do seu pai, sua mãe ou outro representante legal para jogar.
+Se você quiser permitir que seu filho ou outro usuário alvo jogue, leia a Política de Privacidade e complete os seguintes passos para aprovar usuários menores de idade:
+ 
+(i) Pressione o botão "Emitir um Token" e dê o token exibido para o usuário alvo.
+(ii) Aprove a solicitação enviada pelo usuário alvo na Lista de Aprovações Pendentes/IDs Aprovadas.
+[title/approval_BR_003] Política de Privacidade
+[title/approval_BR_004] Continuar sem emitir um token
+[title/approval_BR_005] Emitir um token
+[title/approval_BR_006] Emitir/Aprovar um token
+[title/approval_BR_007] Lista de Aprovações Pendentes/IDs Aprovadas
+[title/approval_BR_008] Voltar
+[title/approval_BR_009] Emitir um token
+[title/approval_BR_010] Token
+[title/approval_BR_011] Por favor, dê o token ao seu filho ou outro usuário alvo.
+[title/approval_BR_013] Data de vencimento
+[Name:DateTime ]
+[title/approval_BR_014] Fechar
+[title/approval_BR_015] Digitação do Token
+[title/approval_BR_017] Pedir Autorização
+[title/approval_BR_018] Verificar Status da Aprovação
+[title/approval_BR_019] Pedido Aprovado com Sucesso
+[title/approval_BR_020] Pedido Aprovado com Sucesso
+[title/approval_BR_023] Data da Solicitação de Aprovação
+[Name:DateTime ]
+ 
+A aprovação está sendo solicitada atualmente.
+ 
+Para atualizar o status, pressione novamente o botão Verificar Status da Aprovação.
+ 
+Você poderá jogar após obter a aprovação do seu pai, sua mãe ou outro representante legal.
+ 
+Para que seu pai, sua mãe ou outro representante legal aprove sua solicitação, ele/ela precisa pressionar o botão "Lista de Aprovações Pendentes/IDs Aprovadas" na tela "Emitir/Aprovar um Token", ir para a tela "Autorização Pendente", pressionar o botão "Confirmar" ao lado da ID que você enviou e pressionar "Aprovar" na tela de confirmação.
+[title/approval_BR_024] Atualmente não há pedidos de aprovação.
+As solicitações de aprovação podem ser feitas na tela Digitação do Token.
+Se você já solicitou a aprovação, pressione o botão "Verificar Status de Aprovação" novamente para atualizar a tela.
+[title/approval_BR_025] Data da Solicitação de Aprovação
+[Name:DateTime ]
+ 
+Pedido de aprovação rejeitado.
+ 
+Se você desejar continuar jogando, peça novamente ao seu pai, sua mãe ou outro representante legal para emitir um novo token e solicite a aprovação na tela Digitação do Token.
+[title/approval_BR_026] Data da Solicitação de Aprovação
+[Name:DateTime ]
+ 
+Aprovação concedida.
+Agora você pode prosseguir a jogar Pokémon Masters EX.
+[title/approval_BR_027] Aprovação Solicitada
+Por favor, verifique o status de aprovação.
+[title/approval_BR_028] Aprovação Pendente/ID Aprovada
+[title/approval_BR_029] Aprovação Pendente
+[title/approval_BR_030] Aprovado
+[title/approval_BR_031] Confirmar
+[title/approval_BR_032] Coleta e Uso de Informações Pessoais
+[title/approval_BR_033] Você precisa dar seu consentimento para a Coleta e Uso de Informações Pessoais para aprovar.
+[title/approval_BR_034] Eu li, entendi e concordei com a Coleta e Uso de Informações Pessoais.
+[title/approval_BR_035] Rejeitar
+[title/approval_BR_036] Aprovar
+[title/approval_BR_037] ID Aprovada com Sucesso
+[title/approval_BR_038] Aprovação de ID rejeitada
+[title/approval_BR_039] Eu certifico que sou o/a representante legal do usuário sujeito à aprovação.
+[title/approval_BR_040] Revogar Aprovação
+[title/approval_BR_042] Aprovação revogada para este usuário
+[title/approval_BR_044] OK
+[title/approval_BR_045] Se você for um usuário menor de 13 anos, é necessário obter o consentimento do seu pai, sua mãe ou outro representante legal para jogar.
+Peça ao seu pai, sua mãe ou outro representante legal para baixar o aplicativo Pokémon Masters EX e emitir um token.
+Digite o token emitido no diálogo de entrada e pressione o botão "Pedido de Aprovação".
+Se a aprovação for bem sucedida, você poderá jogar o jogo.
+[title/approval_BR_046] Você tem certeza de que deseja revogar o seu "consentimento para a Coleta e Uso de Informações Pessoais" deste usuário?
+ 
+Se seu consentimento for revogado, este usuário não poderá mais jogar Pokémon Masters EX.
 
