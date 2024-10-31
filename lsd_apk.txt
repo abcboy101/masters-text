@@ -6714,6 +6714,67 @@ im Buche deines Lebens!
 [quest_group_title_10039400000] Viola (Saison 2023)
 [quest_group_title_10136400000] Platan (Saison 2023)
 [quest_group_title_10101900000] Rosy (Neo-Champ)
+[quest_title_1040001150001011] Ein besonderer Tag mit
+Volkner (Teil 1)
+[quest_title_1040001150001021] Ein besonderer Tag mit
+Volkner (Teil 2)
+[quest_title_1030110000600400] Stimme der Vergangenheit
+[quest_title_1030512000601000] Der Schlüssel zum Erfolg?
+[quest_title_1030512000601010] Ein kinderlieber Drache
+[quest_title_1030512000601050] Vs. Lilly 1
+[quest_title_1030512000601020] Künstler aus einer anderen
+Welt
+[quest_title_1030512000601060] Vs. Lilly 2
+[quest_title_1030512000601030] Keine Chance gegen Feen
+[quest_title_1030512000601070] Vs. Lilly 3
+[quest_title_1030512000601040] Weg mit den Wolken!
+[quest_title_1030512000601080] Vs. Lilly 4
+[quest_title_1030512000601090] Täglicher schwerer Kampf
+[quest_title_1030512000601100] Herausforderungskampf 1
+[quest_title_1030512000601110] Herausforderungskampf 2
+[quest_title_1030220658000000] Ein Tag mit Karena
+[quest_title_1030451000101010] Vs. Amaro
+[quest_title_1030451000102010] Vs. Erika
+[quest_title_1030451000103010] Vs. Maho
+[quest_title_1030451000104010] Vs. Silvana
+[quest_title_1030451000105010] Vs. Benny
+[quest_title_1030451102001010] Vs. Entschlossener Perenus
+[quest_title_1030512000602000] Passio #1: Lyer ist hier!
+[quest_title_1030512000602040] Kampf #1: Spezialgast
+[quest_title_1030512000602010] Passio #2: So viele Promis?!
+[quest_title_1030512000602050] Kampf #2: Spezialgast
+[quest_title_1030512000602020] Passio #3: Lasst uns ein Spiel
+spielen!
+[quest_title_1030512000602060] Kampf #3: Spezialgast
+[quest_title_1030512000602030] Passio #4: Habt ihr auch gut
+aufgepasst?
+[quest_title_1030512000602070] Kampf #4: Spezialgast
+[quest_title_1030512000602080] Täglicher schwerer Kampf
+[quest_title_1030512000602090] Herausforderungskampf 1
+[quest_title_1030512000602100] Herausforderungskampf 2
+[quest_title_1030220296000000] Ein Tag mit Enigmara
+[quest_title_1030512000603010] Kämpfe, wie ihr sie noch nie
+zuvor gesehen habt!
+[quest_title_1030512000603020] Tägliche Kämpfe, wie ihr sie
+noch nie zuvor gesehen habt!
+[quest_title_1030512000604000] Eine Begegnung mit Grusha
+[quest_title_1030512000604040] Vs. Trainer aus Passio 1
+[quest_title_1030512000604010] Eine lodernde Flamme
+[quest_title_1030512000604050] Vs. Trainer aus Passio 2
+[quest_title_1030512000604020] Jung und voller
+Selbstüberschätzung
+[quest_title_1030512000604060] Vs. Trainer aus Passio 3
+[quest_title_1030512000604030] Der Kurs des Lebens
+[quest_title_1030512000604070] Vs. Trainer aus Passio 4
+[quest_title_1030512000604080] Täglicher schwerer Kampf
+[quest_title_1030512000604090] Herausforderungskampf 1
+[quest_title_1030512000604100] Herausforderungskampf 2
+[quest_title_1030220294000000] Ein Tag mit Grusha
+[quest_group_title_10658000000] Karena (Kimono-Trägerin)
+[quest_group_title_10028400000] Sandra (Saison 2024)
+[quest_group_title_10127400000] Wassili (Saison 2024)
+[quest_group_title_10296000000] Enigmara
+[quest_group_title_10294000000] Grusha
 
 ===========
 story_quest_name_en.lsd
@@ -10294,6 +10355,59 @@ Nine Possibilities: Part 2
 [quest_group_title_10136400000] Professor Sycamore
 (Holiday 2023)
 [quest_group_title_10101900000] Rosa (Champion)
+[quest_title_1040001150001011] A Special Day with Volkner: Part 1
+[quest_title_1040001150001021] A Special Day with Volkner: Part 2
+[quest_title_1030110000600400] A Voice Calling Out to Rei
+[quest_title_1030512000601000] The Key to Success?
+[quest_title_1030512000601010] A Dragon That’s Fond of Kids
+[quest_title_1030512000601050] Challenge Lillie: Part 1
+[quest_title_1030512000601020] Artist from Another World
+[quest_title_1030512000601060] Challenge Lillie: Part 2
+[quest_title_1030512000601030] Opponents That Fairies Are Good Against
+[quest_title_1030512000601070] Challenge Lillie: Part 3
+[quest_title_1030512000601040] Beat the Rain Clouds!
+[quest_title_1030512000601080] Challenge Lillie: Part 4
+[quest_title_1030512000601090] Daily Extreme Battle 1
+[quest_title_1030512000601100] Battle Challenge! Round 1
+[quest_title_1030512000601110] Battle Challenge! Round 2
+[quest_title_1030220658000000] A Day with Katherine
+[quest_title_1030451000101010] Challenge Ramos
+[quest_title_1030451000102010] Challenge Erika
+[quest_title_1030451000103010] Challenge Mallow
+[quest_title_1030451000104010] Challenge Gardenia
+[quest_title_1030451000105010] Challenge Cilan
+[quest_title_1030451102001010] Challenge a Super Serious Darach
+[quest_title_1030512000602000] Pasio #1: Lear’s Here!
+[quest_title_1030512000602040] Battle #1: Premium Guest
+[quest_title_1030512000602010] Pasio #2: It’s Full of Famous People?!
+[quest_title_1030512000602050] Battle #2: Premium Guest
+[quest_title_1030512000602020] Pasio #3: Let’s Play a Game!
+[quest_title_1030512000602060] Battle #3: Premium Guest
+[quest_title_1030512000602030] Pasio #4: Didja Notice?
+[quest_title_1030512000602070] Battle #4: Premium Guest
+[quest_title_1030512000602080] Daily Extreme Battle 1
+[quest_title_1030512000602090] Battle Challenge! Round 1
+[quest_title_1030512000602100] Battle Challenge! Round 2
+[quest_title_1030220296000000] A Day with Iono
+[quest_title_1030512000603010] Battles Like You’ve NEVER Seen Before!
+[quest_title_1030512000603020] Daily Battles Like You’ve NEVER Seen Before!
+[quest_title_1030512000604000] Meeting Grusha
+[quest_title_1030512000604040] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030512000604010] Smoldering Flame
+[quest_title_1030512000604050] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030512000604020] Young and Overconfident
+[quest_title_1030512000604060] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030512000604030] The Course of Life
+[quest_title_1030512000604070] Challenge Pasio’s Trainers: Part 4
+[quest_title_1030512000604080] Daily Extreme Battle 1
+[quest_title_1030512000604090] Battle Challenge! Round 1
+[quest_title_1030512000604100] Battle Challenge! Round 2
+[quest_title_1030220294000000] A Day with Grusha
+[quest_group_title_10658000000] Katherine (Furisode Girl)
+[quest_group_title_10028400000] Clair (New Year’s 2024)
+[quest_group_title_10127400000] Wallace (New Year’s 2024)
+[quest_group_title_10296000000] Iono
+[quest_group_title_10294000000] Grusha
 
 ===========
 story_quest_name_es.lsd
@@ -14188,6 +14302,72 @@ de Galar!
 [quest_group_title_10039400000] Violeta (Temporada 23)
 [quest_group_title_10136400000] Ciprés (Temporada 23)
 [quest_group_title_10101900000] Nanci (Neocampeona)
+[quest_title_1040001150001011] Un día especial con Lectro
+[quest_title_1040001150001021] Un día especial con Lectro (2)
+[quest_title_1030110000600400] La voz que llama a Luka
+[quest_title_1030512000601000] ¿La clave del éxito?
+[quest_title_1030512000601010] Al Pokémon dragón le
+encantan los niños
+[quest_title_1030512000601050] VS. Lylia
+[quest_title_1030512000601020] Un artista ultramundano
+[quest_title_1030512000601060] VS. Lylia (2)
+[quest_title_1030512000601030] ¿Quiénes son débiles ante
+el tipo Hada?
+[quest_title_1030512000601070] VS. Lylia (3)
+[quest_title_1030512000601040] ¡Nos desharemos de las
+nubes!
+[quest_title_1030512000601080] VS. Lylia (4)
+[quest_title_1030512000601090] ¡Un combate difícil al día!
+[quest_title_1030512000601100] ¡Un combate desafiante!
+[quest_title_1030512000601110] ¡Un combate desafiante! (2)
+[quest_title_1030220658000000] Un día con Chloë
+[quest_title_1030451000101010] VS. Amaro
+[quest_title_1030451000102010] VS. Erika
+[quest_title_1030451000103010] VS. Lulú
+[quest_title_1030451000104010] VS. Gardenia
+[quest_title_1030451000105010] VS. Millo
+[quest_title_1030451102001010] VS. Kokuran con todo
+[quest_title_1030512000602000] Directo 1: ¡En Passio con Alik!
+[quest_title_1030512000602040] Combatición: VS. invitados
+especiales
+[quest_title_1030512000602010] Directo n.º 2: ¡Salseo y
+famosetes en Passio!
+[quest_title_1030512000602050] Combatición: VS. invitados
+especiales (2)
+[quest_title_1030512000602020] Directo n.º 3: ¡Se vienen
+cositas!
+[quest_title_1030512000602060] Combatición: VS. invitados
+especiales (3)
+[quest_title_1030512000602030] Directo n.º 4: ¡Tremendo
+sorpresón!
+[quest_title_1030512000602070] Combatición: VS. invitados
+especiales (4)
+[quest_title_1030512000602080] ¡Un combate difícil al día!
+[quest_title_1030512000602090] ¡Un combate desafiante!
+[quest_title_1030512000602100] ¡Un combate desafiante! (2)
+[quest_title_1030220296000000] Un día con e-Nigma
+[quest_title_1030512000603010] ¡Hagamos la combatición!
+[quest_title_1030512000603020] ¡Hagamos la combatición
+diaria!
+[quest_title_1030512000604000] ¿Quién es Grusha?
+[quest_title_1030512000604040] VS. Entrenadores de Passio
+[quest_title_1030512000604010] Donde hubo fuego, cenizas
+quedan
+[quest_title_1030512000604050] VS. Entrenadores de Passio (2)
+[quest_title_1030512000604020] Joven y con demasiada
+confianza en uno mismo
+[quest_title_1030512000604060] VS. Entrenadores de Passio (3)
+[quest_title_1030512000604030] El descenso de la vida
+[quest_title_1030512000604070] VS. Entrenadores de Passio (4)
+[quest_title_1030512000604080] ¡Un combate difícil al día!
+[quest_title_1030512000604090] ¡Un combate desafiante!
+[quest_title_1030512000604100] ¡Un combate desafiante! (2)
+[quest_title_1030220294000000] Un día con Grusha
+[quest_group_title_10658000000] Chloë (Jovencita con Kimono)
+[quest_group_title_10028400000] Débora (Temporada 24)
+[quest_group_title_10127400000] Plubio (Temporada 24)
+[quest_group_title_10296000000] e-Nigma
+[quest_group_title_10294000000] Grusha
 
 ===========
 story_quest_name_fr.lsd
@@ -18532,6 +18712,76 @@ Dresseurs de Passio IV
 [quest_group_title_10039400000] Violette (Saison 2023)
 [quest_group_title_10136400000] Platane (Saison 2023)
 [quest_group_title_10101900000] Écho (Néo-Maître)
+[quest_title_1040001150001011] Une journée spéciale
+avec Tanguy
+[quest_title_1040001150001021] Une journée spéciale
+avec Tanguy II
+[quest_title_1030110000600400] Une voix en appelle
+à Aurel
+[quest_title_1030512000601000] La clé de la réussite
+[quest_title_1030512000601010] Le dragon protecteur
+des enfants
+[quest_title_1030512000601050] Combat : Lilie
+[quest_title_1030512000601020] L'artiste d'un autre monde
+[quest_title_1030512000601060] Combat : Lilie II
+[quest_title_1030512000601030] Contre quels adversaires les
+Fées sont-elles efficaces ?
+[quest_title_1030512000601070] Combat : Lilie III
+[quest_title_1030512000601040] On va chasser les nuages !
+[quest_title_1030512000601080] Combat : Lilie IV
+[quest_title_1030512000601090] Combat difficile limité
+à une fois par jour !
+[quest_title_1030512000601100] Combat difficile
+[quest_title_1030512000601110] Combat difficile II
+[quest_title_1030220658000000] Une journée avec Joséphine
+[quest_title_1030451000101010] Combat : Amaro
+[quest_title_1030451000102010] Combat : Erika
+[quest_title_1030451000103010] Combat : Barbara
+[quest_title_1030451000104010] Combat : Flo
+[quest_title_1030451000105010] Combat : Rachid
+[quest_title_1030451102001010] Combat : Parsley sans merci
+[quest_title_1030512000602000] Passio, 1ère partie :
+Alexis est dans la place !
+[quest_title_1030512000602040] Combat : invité spécial !
+[quest_title_1030512000602010] Passio, 2e partie :
+Tellement de stars !
+[quest_title_1030512000602050] Combat : invité spécial ! II
+[quest_title_1030512000602020] Passio, 3e partie :
+Il est temps de jouer !
+[quest_title_1030512000602060] Combat : invité spécial ! III
+[quest_title_1030512000602030] Passio, 4e partie :
+L'avez-vous remarqué ?
+[quest_title_1030512000602070] Combat : invité spécial ! IV
+[quest_title_1030512000602080] Combat difficile limité
+à une fois par jour !
+[quest_title_1030512000602090] Combat difficile
+[quest_title_1030512000602100] Combat difficile II
+[quest_title_1030220296000000] Une journée avec Mashynn
+[quest_title_1030512000603010] Combats où on se donne
+à FOND !
+[quest_title_1030512000603020] Combats quotidiens où on
+se donne à FOND !
+[quest_title_1030512000604000] Rencontre avec Grusha
+[quest_title_1030512000604040] Combat : Dresseurs de Passio
+[quest_title_1030512000604010] Une flamme brûlante
+[quest_title_1030512000604050] Combat :
+Dresseurs de Passio II
+[quest_title_1030512000604020] Jeune et trop confiant
+[quest_title_1030512000604060] Combat :
+Dresseurs de Passio III
+[quest_title_1030512000604030] Le cours de la vie
+[quest_title_1030512000604070] Combat :
+Dresseurs de Passio IV
+[quest_title_1030512000604080] Combat difficile limité
+à une fois par jour !
+[quest_title_1030512000604090] Combat difficile
+[quest_title_1030512000604100] Combat difficile II
+[quest_title_1030220294000000] Une journée avec Grusha
+[quest_group_title_10658000000] Joséphine (Fille en Kimono)
+[quest_group_title_10028400000] Sandra (Saison 2024)
+[quest_group_title_10127400000] Marc (Saison 2024)
+[quest_group_title_10296000000] Mashynn
+[quest_group_title_10294000000] Grusha
 
 ===========
 story_quest_name_it.lsd
@@ -22050,6 +22300,61 @@ diventare Nuovi Campioni
 [quest_group_title_10039400000] Violetta (feste 2023)
 [quest_group_title_10136400000] Platan (feste 2023)
 [quest_group_title_10101900000] Rina (Campionessa)
+[quest_title_1040001150001011] Un giorno speciale con Corrado (1ª parte)
+[quest_title_1040001150001021] Un giorno speciale con Corrado (2ª parte)
+[quest_title_1030110000600400] La voce che chiama Luca
+[quest_title_1030512000601000] La chiave per il successo?
+[quest_title_1030512000601010] Il drago che adora i bambini
+[quest_title_1030512000601050] VS Lylia
+[quest_title_1030512000601020] Un artista dell'altro mondo
+[quest_title_1030512000601060] VS Lylia 2
+[quest_title_1030512000601030] Chi ha paura dei Pokémon
+di tipo Folletto?
+[quest_title_1030512000601070] VS Lylia 3
+[quest_title_1030512000601040] Sconfiggeremo le nubi!
+[quest_title_1030512000601080] VS Lylia 4
+[quest_title_1030512000601090] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030512000601100] Sfida ad alta difficoltà
+[quest_title_1030512000601110] Sfida ad alta difficoltà 2 
+[quest_title_1030220658000000] Un giorno con Kelly
+[quest_title_1030451000101010] VS Amur
+[quest_title_1030451000102010] VS Erika
+[quest_title_1030451000103010] VS Ibis
+[quest_title_1030451000104010] VS Gardenia
+[quest_title_1030451000105010] VS Spighetto
+[quest_title_1030451102001010] VS Paride (risoluto)
+[quest_title_1030512000602000] Pasio #1: Ed ecco a voi... Kelian!
+[quest_title_1030512000602040] Lotta #1: VS Ospiti d'eccezione
+[quest_title_1030512000602010] Pasio #2: Persone famose...
+Persone famose ovunque!
+[quest_title_1030512000602050] Lotta #2: VS Ospiti d'eccezione
+[quest_title_1030512000602020] Pasio #3: Sgranate gli occhi!
+[quest_title_1030512000602060] Lotta #3: VS Ospiti d'eccezione
+[quest_title_1030512000602030] Pasio #4: Ve ne siete accorti?
+[quest_title_1030512000602070] Lotta #4: VS Ospiti d'eccezione
+[quest_title_1030512000602080] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030512000602090] Sfida ad alta difficoltà
+[quest_title_1030512000602100] Sfida ad alta difficoltà 2
+[quest_title_1030220296000000] Un giorno con Kissara
+[quest_title_1030512000603010] Lotte top!
+[quest_title_1030512000603020] Lotta top (una al giorno)!
+[quest_title_1030512000604000] Incontro con Grusha
+[quest_title_1030512000604040] VS Allenatori di Pasio
+[quest_title_1030512000604010] Passione ardente
+[quest_title_1030512000604050] VS Allenatori di Pasio 2
+[quest_title_1030512000604020] Giovane e spavaldo
+[quest_title_1030512000604060] VS Allenatori di Pasio 3
+[quest_title_1030512000604030] La vita è una pista innevata
+[quest_title_1030512000604070] VS Allenatori di Pasio 4
+[quest_title_1030512000604080] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030512000604090] Sfida ad alta difficoltà
+[quest_title_1030512000604100] Sfida ad alta difficoltà 2
+[quest_title_1030220294000000] Un giorno con Grusha
+[quest_group_title_10658000000] Kelly (Ragazza in kimono)
+[quest_group_title_10028400000] Sandra (feste 2024)
+[quest_group_title_10127400000] Adriano (feste 2024)
+[quest_group_title_10296000000] Kissara
+[quest_group_title_10294000000] Grusha
 
 ===========
 story_quest_name_ja.lsd
@@ -25649,6 +25954,62 @@ story_quest_name_ja.lsd
 （２３シーズン）
 [quest_group_title_10101900000] メイ
 （チャンピオン）
+[quest_title_1040001150001011] デンジとの特別な一日　前編
+[quest_title_1040001150001021] デンジとの特別な一日　後編
+[quest_title_1030110000600400] テルを呼ぶ声
+[quest_title_1030512000601000] 成功に導く鍵……？
+[quest_title_1030512000601010] 子ども好きなドラゴンポケモン
+[quest_title_1030512000601050] ＶＳ　リーリエ
+[quest_title_1030512000601020] 異世界から来たアーティスト
+[quest_title_1030512000601060] ＶＳ　リーリエ２
+[quest_title_1030512000601030] フェアリーが得意とする相手
+[quest_title_1030512000601070] ＶＳ　リーリエ３
+[quest_title_1030512000601040] 雨雲をやっつけろ！
+[quest_title_1030512000601080] ＶＳ　リーリエ４
+[quest_title_1030512000601090] １日１回限定・高難度バトル！
+[quest_title_1030512000601100] チャレンジバトルで勝負！
+[quest_title_1030512000601110] チャレンジバトルで勝負！２
+[quest_title_1030220658000000] とある日のカレン
+[quest_title_1030451000101010] ＶＳ　フクジ
+[quest_title_1030451000102010] ＶＳ　エリカ
+[quest_title_1030451000103010] ＶＳ　マオ
+[quest_title_1030451000104010] ＶＳ　ナタネ
+[quest_title_1030451000105010] ＶＳ　デント
+[quest_title_1030451102001010] ＶＳ　超本気のコクラン
+[quest_title_1030512000602000] 【パシオ＃１】ライヤー氏登場！
+[quest_title_1030512000602040] 【バトり＃１】プレミアなゲスト
+[quest_title_1030512000602010] 【パシオ＃２】有名人だらけ！？
+[quest_title_1030512000602050] 【バトり＃２】プレミアなゲスト
+[quest_title_1030512000602020] 【パシオ＃３】遊んでいくぞよ！
+[quest_title_1030512000602060] 【バトり＃３】プレミアなゲスト
+[quest_title_1030512000602030] 【パシオ＃４】気づいてた……？
+[quest_title_1030512000602070] 【バトり＃４】プレミアなゲスト
+[quest_title_1030512000602080] １日１回限定・高難度バトル！
+[quest_title_1030512000602090] チャレンジバトルで勝負！
+[quest_title_1030512000602100] チャレンジバトルで勝負！２
+[quest_title_1030220296000000] とある日のナンジャモ
+[quest_title_1030512000603010] 本気だしてみた！
+[quest_title_1030512000603020] １日１回限定・本気だしてみた！
+[quest_title_1030512000604000] グルーシャの出会い
+[quest_title_1030512000604040] ＶＳ　パシオのトレーナー
+[quest_title_1030512000604010] くすぶる炎
+[quest_title_1030512000604050] ＶＳ　パシオのトレーナー２
+[quest_title_1030512000604020] 若さゆえの過信
+[quest_title_1030512000604060] ＶＳ　パシオのトレーナー３
+[quest_title_1030512000604030] 人生のシュプール
+[quest_title_1030512000604070] ＶＳ　パシオのトレーナー４
+[quest_title_1030512000604080] １日１回限定・高難度バトル！
+[quest_title_1030512000604090] チャレンジバトルで勝負！
+[quest_title_1030512000604100] チャレンジバトルで勝負！２
+[quest_title_1030220294000000] とある日のグルーシャ
+[quest_group_title_10658000000] カレン
+（ふりそで）
+[quest_group_title_10028400000] イブキ
+（２４シーズン）
+[quest_group_title_10127400000] ミクリ
+（２４シーズン）
+[quest_group_title_10296000000] ナンジャモ
+[quest_group_title_10294000000] グルーシャ
 
 ===========
 story_quest_name_ko.lsd
@@ -29247,6 +29608,62 @@ story_quest_name_ko.lsd
 (23시즌)
 [quest_group_title_10101900000] 명희
 (챔피언)
+[quest_title_1040001150001011] 전진과의 특별한 하루 전편
+[quest_title_1040001150001021] 전진과의 특별한 하루 후편
+[quest_title_1030110000600400] 영빈을 부르는 목소리
+[quest_title_1030512000601000] 성공으로 이끄는 열쇠...?
+[quest_title_1030512000601010] 아이를 좋아하는 드래곤포켓몬
+[quest_title_1030512000601050] VS 릴리에
+[quest_title_1030512000601020] 다른 세계에서 온 아티스트
+[quest_title_1030512000601060] VS 릴리에2
+[quest_title_1030512000601030] 페어리타입이 자신 있어 하는 상대
+[quest_title_1030512000601070] VS 릴리에3
+[quest_title_1030512000601040] 비구름을 해치워라!
+[quest_title_1030512000601080] VS 릴리에4
+[quest_title_1030512000601090] 1일 1회 한정 고난도 배틀!
+[quest_title_1030512000601100] 챌린지배틀로 승부!
+[quest_title_1030512000601110] 챌린지배틀로 승부!2
+[quest_title_1030220658000000] 카렌의 어느 날
+[quest_title_1030451000101010] VS 후쿠지
+[quest_title_1030451000102010] VS 민화
+[quest_title_1030451000103010] VS 마오
+[quest_title_1030451000104010] VS 유채
+[quest_title_1030451000105010] VS 덴트
+[quest_title_1030451102001010] VS 진심으로 전력을 다하는 코크런
+[quest_title_1030512000602000] 【파시오 #1】라이어씨 등장!
+[quest_title_1030512000602040] 【배틀 #1】프리미엄 게스트
+[quest_title_1030512000602010] 【파시오 #2】온통 유명인!?
+[quest_title_1030512000602050] 【배틀 #2】프리미엄 게스트
+[quest_title_1030512000602020] 【파시오 #3】놀고 가자~!
+[quest_title_1030512000602060] 【배틀 #3】프리미엄 게스트
+[quest_title_1030512000602030] 【파시오 #4】눈치채고 있었어...?
+[quest_title_1030512000602070] 【배틀 #4】프리미엄 게스트
+[quest_title_1030512000602080] 1일 1회 한정 고난도 배틀!
+[quest_title_1030512000602090] 챌린지배틀로 승부!
+[quest_title_1030512000602100] 챌린지배틀로 승부!2
+[quest_title_1030220296000000] 모야모의 어느 날
+[quest_title_1030512000603010] 전력을 다한 모습!?
+[quest_title_1030512000603020] 1일 1회 한정 전력을 다한 모습!?
+[quest_title_1030512000604000] 그루샤의 만남
+[quest_title_1030512000604040] VS 파시오의 트레이너
+[quest_title_1030512000604010] 응어리진 불꽃
+[quest_title_1030512000604050] VS 파시오의 트레이너2
+[quest_title_1030512000604020] 젊음이 만들어 낸 과신
+[quest_title_1030512000604060] VS 파시오의 트레이너3
+[quest_title_1030512000604030] 인생의 슈푸르
+[quest_title_1030512000604070] VS 파시오의 트레이너4
+[quest_title_1030512000604080] 1일 1회 한정 고난도 배틀!
+[quest_title_1030512000604090] 챌린지배틀로 승부!
+[quest_title_1030512000604100] 챌린지배틀로 승부!2
+[quest_title_1030220294000000] 그루샤의 어느 날
+[quest_group_title_10658000000] 카렌
+(기모노드레스)
+[quest_group_title_10028400000] 이향
+(24시즌)
+[quest_group_title_10127400000] 윤진
+(24시즌)
+[quest_group_title_10296000000] 모야모
+[quest_group_title_10294000000] 그루샤
 
 ===========
 story_quest_name_zh-TW.lsd
@@ -32845,6 +33262,62 @@ story_quest_name_zh-TW.lsd
 （２０２３冬季）
 [quest_group_title_10101900000] 鳴依
 （冠軍）
+[quest_title_1040001150001011] 與電次的特別日子　前篇
+[quest_title_1040001150001021] 與電次的特別日子　後篇
+[quest_title_1030110000600400] 呼喚明耀的聲音
+[quest_title_1030512000601000] 引領走向成功的關鍵……？
+[quest_title_1030512000601010] 喜歡小孩子的龍寶可夢
+[quest_title_1030512000601050] ＶＳ　莉莉艾
+[quest_title_1030512000601020] 來自異世界的藝術家
+[quest_title_1030512000601060] ＶＳ　莉莉艾２
+[quest_title_1030512000601030] 妖精寶可夢擅長應付的對手
+[quest_title_1030512000601070] ＶＳ　莉莉艾３
+[quest_title_1030512000601040] 擊退雨雲！
+[quest_title_1030512000601080] ＶＳ　莉莉艾４
+[quest_title_1030512000601090] １天僅限１次的高難度對戰！
+[quest_title_1030512000601100] 用挑戰對戰決勝負！
+[quest_title_1030512000601110] 用挑戰對戰決勝負！２
+[quest_title_1030220658000000] 某日的華蓮
+[quest_title_1030451000101010] ＶＳ　福爺
+[quest_title_1030451000102010] ＶＳ　莉佳
+[quest_title_1030451000103010] ＶＳ　瑪奧
+[quest_title_1030451000104010] ＶＳ　菜種
+[quest_title_1030451000105010] ＶＳ　天桐
+[quest_title_1030451102001010] ＶＳ　火力全開的石蘭
+[quest_title_1030512000602000] 【帕希歐＃１】鎯琊登場！
+[quest_title_1030512000602040] 【對戰＃１】一等一的來賓
+[quest_title_1030512000602010] 【帕希歐＃２】到處是名人！？
+[quest_title_1030512000602050] 【對戰＃２】一等一的來賓
+[quest_title_1030512000602020] 【帕希歐＃３】要痛快地玩囉！
+[quest_title_1030512000602060] 【對戰＃３】一等一的來賓
+[quest_title_1030512000602030] 【帕希歐＃４】你注意到了嗎……？
+[quest_title_1030512000602070] 【對戰＃４】一等一的來賓
+[quest_title_1030512000602080] １天僅限１次的高難度對戰！
+[quest_title_1030512000602090] 用挑戰對戰決勝負！
+[quest_title_1030512000602100] 用挑戰對戰決勝負！２
+[quest_title_1030220296000000] 某日的奇樹
+[quest_title_1030512000603010] 拿出真本事了！
+[quest_title_1030512000603020] １天僅限１次：拿出真本事了！
+[quest_title_1030512000604000] 古魯夏的邂逅
+[quest_title_1030512000604040] ＶＳ　帕希歐的訓練家
+[quest_title_1030512000604010] 尚未熄滅的火焰
+[quest_title_1030512000604050] ＶＳ　帕希歐的訓練家２
+[quest_title_1030512000604020] 年輕帶來的過度自信
+[quest_title_1030512000604060] ＶＳ　帕希歐的訓練家３
+[quest_title_1030512000604030] 人生的滑痕
+[quest_title_1030512000604070] ＶＳ　帕希歐的訓練家４
+[quest_title_1030512000604080] １天僅限１次的高難度對戰！
+[quest_title_1030512000604090] 用挑戰對戰決勝負！
+[quest_title_1030512000604100] 用挑戰對戰決勝負！２
+[quest_title_1030220294000000] 某日的古魯夏
+[quest_group_title_10658000000] 華蓮
+（長袖和服少女）
+[quest_group_title_10028400000] 小椿
+（２０２４新春）
+[quest_group_title_10127400000] 米可利
+（２０２４新春）
+[quest_group_title_10296000000] 奇樹
+[quest_group_title_10294000000] 古魯夏
 
 ===========
 trainer_description_de.lsd
@@ -34085,6 +34558,27 @@ steht ihr auch bei Fotoshootings zur Seite.
 [10113000001] Diese Arenaleiterin mit einem Herz für Pokémon ist eher
 zurückhaltend, aber wenn sie von Stahl-Pokémon spricht,
 kommt sie richtig in Fahrt!
+[10028400000] Sandra trägt ein traditionelles Gewand aus ihrer Heimat.
+Gemeinsam mit ihrem Sen-Long stellt sie sich der
+Herausforderung zum Neujahr. Ihr größter Wunsch ist es,
+das beste Drachen-Gefährtengespann zu bilden.
+[10127400000] Wassili arbeitet an einer Vorführung, um das neue Jahr
+willkommen zu heißen. Gemeinsam mit Kopplosio,
+welches aus einer anderen Welt stammt, wird er feurige
+Illusionen am Nachthimmel kreieren.
+[10294000000] Dieser Leiter der Montanata-Arena in Paldea bewahrt
+stets einen kühlen Kopf, doch wenn sich der Kampf
+zuspitzt, kommt seine leidenschaftliche Seite zum
+Vorschein. Er war einst ein Profi-Snowboarder.
+[10296000000] Diese Arenaleiterin aus Fermanca City ist als Streamerin
+für ihre Show „EnigmaTV“ bekannt. Ihre unverwechselbare
+Begrüßung ist knackig und leicht einprägsam.
+[10658000000] Eine Trainerin in einem weißen Kimono, die in der
+Romantia-Arena in Kalos von Valerie lernt. Sie ist sehr
+stolz darauf, eine Feen-Trainerin zu sein.
+[10115000001] Volkner ist als der stärkste Arenaleiter der Sinnoh-Region
+bekannt. Er ist kampfbegeistert und renoviert regelmäßig
+seine Arena, während er auf starke Gegner wartet.
 
 ===========
 trainer_description_en.lsd
@@ -35185,6 +35679,27 @@ is both her partner Pokémon and assistant.
 [10113000001] This Gym Leader is known to have a heart that cares for
 Pokémon. While she appears calm and gentle, she can get
 quite fired up when talking about Steel-type Pokémon.
+[10028400000] Clair is here in traditional clothing from her hometown.
+She’s taking on a New Year’s challenge with Drampa,
+who’s fond of kids. Her wish, of course, is to be the best
+Dragon-type sync pair.
+[10127400000] Wallace is challenging himself to prepare a performance
+to celebrate the new year. Together with Blacephalon,
+who came from another world, he performs fiery illusions
+in the night sky.
+[10294000000] This Glaseado Gym Leader from Paldea keeps a cool
+head, but when his matches start to heat up, that’s when
+his passionate side comes out. He used to be a pro
+snowboarder.
+[10296000000] This Levincia City Gym Leader from Paldea is also a 
+popular streamer and famous for hosting the Iono Zone.
+Her catchy greeting is unmistakable.
+[10658000000] This Trainer in a white furisode is studying under Valerie
+at Laverre Gym in Kalos. She’s proud of the fact that she
+is a Fairy-type user.
+[10115000001] Said to be the top Gym Leader in Sinnoh, Volkner is a
+passionate Trainer always looking for thrilling battles. He
+renovates his Gym while waiting for worthy challengers.
 
 ===========
 trainer_description_es.lsd
@@ -36471,6 +36986,31 @@ con esmero para estar a la altura como modelo.
 [10113000001] Líder de Gimnasio que muestra siempre gran aprecio por
 los Pokémon. Aunque aparente ser tranquila, la simple
 mención de "tipo Acero" enciende un fuego en su interior.
+[10028400000] Débora se ha engalanado con el atuendo tradicional de
+su ciudad de nacimiento. Su propósito de Año Nuevo es,
+por supuesto, convertirse en la mejor pareja de compis de
+tipo Dragón junto con Drampa, a quien le encantan los
+niños.
+[10127400000] Plubio tiene preparado un espectáculo para entrar en el
+nuevo año. Gracias a la ayuda de su nuevo compi
+ultramundano, Blacephalon, crea ilusiones flamígeras en
+el cielo nocturno.
+[10294000000] Llegado desde Paldea, el Líder de Gimnasio de Sierra
+Napada es frío como el hielo, pero los combates dejan
+entrever la llama de su pasión. Solía dedicarse al
+snowboard de manera profesional.
+[10296000000] Esta Líder de Gimnasio de Ciudad Leudal, en Paldea, es
+también una famosa streamer conocida por su programa
+Khé-NigmaTV. Su saludo es tan pegadizo como
+inconfundible.
+[10658000000] Entrenadora ataviada con un kimono blanco que se
+instruye bajo el ala de Valeria en el Gimnasio de Ciudad
+Romantis, en Kalos. Está muy orgullosa de ser una
+Entrenadora de tipo Hada.
+[10115000001] Conocido como el mejor líder de Sinnoh, este Entrenador
+se pasa la vida renovando su gimnasio con el objetivo de
+atraer a contendientes que estén a su altura. Posee una
+pasión ferviente y se deleita combatiendo.
 
 ===========
 trainer_description_fr.lsd
@@ -37709,6 +38249,34 @@ devant l'objectif. Son partenaire Prismillon l'assiste
 [10113000001] Cette Championne d'Arène fait preuve d'une infinie
 gentillesse envers les Pokémon. Ses airs calmes et doux
 cachent une véritable passionnée de Pokémon Acier.
+[10028400000] Sandra a revêtu les habits traditionnels de sa région.
+Aux côtés de son Draïeul, très populaire auprès des
+enfants, elle se lance un nouveau défi pour le Nouvel An.
+Elle ne désire qu'une chose : que son Duo devienne
+le meilleur Duo de type Dragon !
+[10127400000] Marc s'est imposé un défi de taille : celui de préparer
+une performance mémorable pour célébrer le Nouvel An.
+Aux côtés de son Pierroteknik venu d'un autre monde,
+il utilise l'art des illusions pyrotechniques pour illuminer
+le ciel nocturne.
+[10294000000] Venu tout droit de Paldea, le Champion d'Arène du Mont
+Nappé garde habituellement la tête froide, mais quand
+ses combats commencent à s'enflammer, il sait aussi
+montrer son côté passionné.
+C'est également un ancien snowboardeur professionnel.
+[10296000000] Cette Championne d'Arène de Levalendura venue de
+Paldea est une streameuse populaire pour son émission
+« Les Machins de Mashynn ». Sa façon joviale de saluer
+son public est reconnaissable entre toutes.
+[10658000000] Cette Dresseuse en kimono blanc est l'une des apprenties
+de Valériane, à l'Arène de Romant-sous-Bois située
+dans la région de Kalos.
+Elle est fière d'utiliser le type Fée.
+[10115000001] Connu comme étant le meilleur Champion d'Arène
+de Sinnoh, ce jeune homme au tempérament fougueux
+est constamment à la recherche de combats qui
+le feront frissonner. Il s'occupe en rénovant son Arène
+dans l'attente de Dresseurs ou Dresseuses dignes de lui.
 
 ===========
 trainer_description_it.lsd
@@ -38916,6 +39484,28 @@ foto. Il suo compagno Vivillon le fa da assistente.
 [10113000001] Capopalestra dal cuore colmo di affetto per i Pokémon.
 Ha un carattere riservato, ma si entusiasma facilmente
 quando si parla dei Pokémon di tipo Acciaio.
+[10028400000] Sandra indossa un vestito tradizionale della sua regione
+d'origine e ha come proposito per l'anno nuovo quello
+di diventare la migliore Unità di tipo Drago assieme
+a Drampa, che adora i bambini.
+[10127400000] Adriano sta preparando un'esibizione per l'anno nuovo.
+Assieme a Blacephalon, originario di un altro mondo,
+realizza illusioni e giochi pirotecnici nel cielo notturno.
+[10294000000] Il Capopalestra della Sierra Napada è un ex-snowboarder
+apparentemente freddo e pacato che nasconde in realtà
+un'indole ardente che emerge in particolare durante
+le lotte più infuocate.
+[10296000000] La Capopalestra di Leudapoli, nonché celebre streamer
+di Maki6 TV. Il suo saluto è tanto orecchiabile quanto
+memorabile.
+[10658000000] Questa Allenatrice dal kimono bianco è un'apprendista
+di Valérie, la Capopalestra di Romantopoli a Kalos.
+Va molto fiera di essere specializzata nel tipo Folletto.
+[10115000001] Considerato il Capopalestra più forte di Sinnoh,
+è un uomo capace di grande entusiasmo che ricerca
+il divertimento nelle lotte di Pokémon. Mentre aspetta
+che si presentino degli sfidanti in gamba, si dedica
+a ristrutturare la sua Palestra.
 
 ===========
 trainer_description_ja.lsd
@@ -40009,6 +40599,24 @@ trainer_description_ja.lsd
 [10113000001] ポケモンを　慈しむ　心を持つ　ジムリーダー。
 控え目な　性格だが　はがねタイプの
 話になると　テンションが　あがる。
+[10028400000] 故郷の　伝統的な衣装を　着こなした　イブキ。
+子ども好きな　ジジーロンと　新年の願掛けに　挑む。
+願うは　もちろん　最強の　ドラゴンバディーズ。
+[10127400000] 新年を祝う　パフォーマンスに　挑戦する　ミクリ。
+異世界から　やって来た　ズガドーンと　共に
+夜空に浮かぶ　炎のイリュージョンを　披露する。
+[10294000000] パルデア地方　ナッペ山ジムの　ジムリーダー。
+クールだが　試合が白熱すると　熱い一面もみえる。
+元プロのスノーボーダー　という経歴を持つ。
+[10296000000] パルデア地方　ハッコウシティの　ジムリーダー。
+ドンナモンジャＴＶの　動画配信者としても　人気で
+配信者らしい　キャッチーな　あいさつが　印象的。
+[10658000000] カロス地方の　クノエシティジムで　マーシュに
+師事している　白いふりそでを着た　トレーナー。
+フェアリー使いであることに　誇りを持っている。
+[10115000001] シンオウ地方　一番と　いわれる　ジムリーダー。
+ポケモン勝負の　楽しさを　追い求める　熱い男。
+手ごわい　挑戦者を　待ちながら　ジムを　改造する。
 
 ===========
 trainer_description_ko.lsd
@@ -41101,6 +41709,24 @@ WPM 운영위원회의 대표도 맡고 있다.
 [10113000001] 포켓몬을 아끼는 마음을 지닌 체육관 관장.
 얌전한 성격이지만 강철타입의
 이야기를 할 때면 조금 흥분한다.
+[10028400000] 고향의 전통적인 의상을 차려입은 이향.
+아이들을 좋아하는 할비롱과 새해 소원을 빈다.
+소원은 당연히 최강의 드래곤 버디즈가 되는 것.
+[10127400000] 새해를 축하하는 퍼포먼스에 도전하는 윤진.
+다른 세계에서 찾아온 두파팡과 함께
+밤하늘에 떠오르는 불꽃의 일루전을 선보인다.
+[10294000000] 팔데아지방 나페산체육관의 체육관 관장.
+쿨한 성격이지만 시합이 격렬해지면 뜨거운 일면도 보여 준다.
+전직 프로 스노보더라는 경력을 갖고 있다.
+[10296000000] 팔데아지방 누룩스시티의 체육관 관장.
+모야모야TV의 스트리머로서도 인기가 있으며
+스트리머다운 톡톡 튀는 인사가 인상적이다.
+[10658000000] 칼로스지방의 후늬시티 체육관에서
+마슈에게 가르침을 받고 있는 하얀 기모노드레스를 입은 트레이너.
+자신이 페어리타입 전문가라는 것에 자부심을 갖고 있다.
+[10115000001] 신오지방 최고의 체육관 관장이라고 일컬어지고 있다.
+포켓몬 승부의 즐거움을 추구하는 뜨거운 남자.
+강한 도전자를 기다리며 체육관을 개조한다.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -42193,6 +42819,24 @@ trainer_description_zh-TW.lsd
 [10113000001] 對寶可夢有著一顆體貼之心的道館館主。
 個性低調，但是一提到鋼屬性寶可夢
 就會變得既活潑又健談。
+[10028400000] 身穿故鄉傳統服飾的小椿。與喜歡小孩的
+老翁龍一起挑戰祈願新年願望能實現的活動。
+她許的願當然是成為最強的龍屬性拍組。
+[10127400000] 挑戰新年慶祝表演的米可利。
+與來自異世界的砰頭小丑一起
+展現出浮現在夜空中的火之幻影。
+[10294000000] 帕底亞地區霜抹山道館的道館館主。
+看起來冷酷，但在比賽白熱化時也能看到
+他火熱的一面。以前曾是職業單板滑雪選手。
+[10296000000] 帕底亞地區釀光市的道館館主。
+作為奇樹奇述直播的直播主也很受歡迎。
+富有直播主風格且充滿記憶點的招呼語令人印象深刻。
+[10658000000] 在卡洛斯地區的香薰市道館拜瑪綉為師，
+身穿白色長袖和服的訓練家。
+以身為妖精屬性訓練家為傲。
+[10115000001] 被譽為神奧地區第一的道館館主。
+是個追尋寶可夢對戰樂趣，充滿熱情的男人。
+他總是一邊改造道館，一邊等待著值得一戰的挑戰者到來。
 
 ===========
 trainer_name_de.lsd
@@ -42455,6 +43099,10 @@ trainer_name_de.lsd
 [ch0654] Poké-Kind
 [ch0293] Cosima
 [ch0656] Evi
+[ch0294] Grusha
+[ch0296] Enigmara
+[ch0659] Kimono-Trägerin
+[ch0658] Karena
 
 ===========
 trainer_name_en.lsd
@@ -42717,6 +43365,10 @@ trainer_name_en.lsd
 [ch0654] Poké Kid
 [ch0293] Penny
 [ch0656] Eve
+[ch0294] Grusha
+[ch0296] Iono
+[ch0659] Furisode Girl
+[ch0658] Katherine
 
 ===========
 trainer_name_es.lsd
@@ -42979,6 +43631,10 @@ trainer_name_es.lsd
 [ch0654] Pokéchica
 [ch0293] Noa
 [ch0656] Eva
+[ch0294] Grusha
+[ch0296] e-Nigma
+[ch0659] Jovencita con Kimono
+[ch0658] Chloë
 
 ===========
 trainer_name_fr.lsd
@@ -43241,6 +43897,10 @@ trainer_name_fr.lsd
 [ch0654] Poké Enfant
 [ch0293] Pania
 [ch0656] Éva
+[ch0294] Grusha
+[ch0296] Mashynn
+[ch0659] Fille en Kimono
+[ch0658] Joséphine
 
 ===========
 trainer_name_it.lsd
@@ -43503,6 +44163,10 @@ trainer_name_it.lsd
 [ch0654] Poké Bimba
 [ch0293] Penny
 [ch0656] Ivetta
+[ch0294] Grusha
+[ch0296] Kissara
+[ch0659] Ragazza in kimono
+[ch0658] Kelly
 
 ===========
 trainer_name_ja.lsd
@@ -43765,6 +44429,10 @@ trainer_name_ja.lsd
 [ch0654] ポケモンごっこ
 [ch0293] ボタン
 [ch0656] イブ
+[ch0294] グルーシャ
+[ch0296] ナンジャモ
+[ch0659] ふりそで
+[ch0658] カレン
 
 ===========
 trainer_name_ko.lsd
@@ -44027,6 +44695,10 @@ trainer_name_ko.lsd
 [ch0654] 포켓몬놀이
 [ch0293] 모란
 [ch0656] 이븐
+[ch0294] 그루샤
+[ch0296] 모야모
+[ch0659] 기모노드레스
+[ch0658] 카렌
 
 ===========
 trainer_name_zh-TW.lsd
@@ -44289,6 +44961,10 @@ trainer_name_zh-TW.lsd
 [ch0654] 寶可夢小朋友
 [ch0293] 牡丹
 [ch0656] 伊芙
+[ch0294] 古魯夏
+[ch0296] 奇樹
+[ch0659] 長袖和服少女
+[ch0658] 華蓮
 
 ===========
 trainer_verbose_name_de.lsd
@@ -44499,6 +45175,12 @@ trainer_verbose_name_de.lsd
 [10256100000] MaMo-Nezz
 [10656000000] Evi 
 (Poké-Kind)
+[10028400000] Sandra 
+(Saison 2024)
+[10127400000] Wassili 
+(Saison 2024)
+[10658000000] Karena 
+(Kimono-Trägerin)
 
 ===========
 trainer_verbose_name_en.lsd
@@ -44719,6 +45401,12 @@ Acerola
 [10256100000] Sygna Suit Piers
 [10656000000] Eve 
 (Poké Kid)
+[10028400000] Clair 
+(New Year's 2024)
+[10127400000] Wallace 
+(New Year's 2024)
+[10658000000] Katherine 
+(Furisode Girl)
 
 ===========
 trainer_verbose_name_es.lsd
@@ -44908,6 +45596,12 @@ con Kimono)
 [10011100000] Hiedra (Traje S)
 [10256100000] Nerio (Traje S)
 [10656000000] Eva (Pokéchica)
+[10028400000] Débora 
+(Temporada 24)
+[10127400000] Plubio 
+(Temporada 24)
+[10658000000] Chloë (Jovencita 
+con Kimono)
 
 ===========
 trainer_verbose_name_fr.lsd
@@ -45113,6 +45807,12 @@ trainer_verbose_name_fr.lsd
 [10256100000] Peterson (Ultime)
 [10656000000] Éva 
 (Poké Enfant)
+[10028400000] Sandra 
+(Saison 2024)
+[10127400000] Marc 
+(Saison 2024)
+[10658000000] Joséphine 
+(Fille en Kimono)
 
 ===========
 trainer_verbose_name_it.lsd
@@ -45324,6 +46024,12 @@ trainer_verbose_name_it.lsd
 [10256100000] Ginepro Costumax
 [10656000000] Ivetta 
 (Poké Bimba)
+[10028400000] Sandra 
+(feste 2024)
+[10127400000] Adriano 
+(feste 2024)
+[10658000000] Kelly 
+(Ragazza in kimono)
 
 ===========
 trainer_verbose_name_ja.lsd
@@ -45535,6 +46241,12 @@ trainer_verbose_name_ja.lsd
 [10256100000] マジコスネズ
 [10656000000] イブ
 （ポケモンごっこ）
+[10028400000] イブキ
+（２４シーズン）
+[10127400000] ミクリ
+（２４シーズン）
+[10658000000] カレン
+（ふりそで）
 
 ===========
 trainer_verbose_name_ko.lsd
@@ -45746,6 +46458,12 @@ trainer_verbose_name_ko.lsd
 [10256100000] 궁극코스 두송
 [10656000000] 이븐
 (포켓몬놀이)
+[10028400000] 이향
+(24시즌)
+[10127400000] 윤진
+(24시즌)
+[10658000000] 카렌
+(기모노드레스)
 
 ===========
 trainer_verbose_name_zh-TW.lsd
@@ -45957,6 +46675,12 @@ trainer_verbose_name_zh-TW.lsd
 [10256100000] 美極套裝聶梓
 [10656000000] 伊芙
 （寶可夢小朋友）
+[10028400000] 小椿
+（２０２４新春）
+[10127400000] 米可利
+（２０２４新春）
+[10658000000] 華蓮
+（長袖和服少女）
 
 ===========
 common_widget_de.lsd
@@ -46224,6 +46948,8 @@ nicht freigeschaltet wurden.
 [common_widget/dialog_125] Item-Tausch (Event)
 [common_widget/dialog_126] Item-Tausch (Monatlich)
 [common_widget/dialog_127] Item-Tausch (KP)
+[common_widget/dialog_128] Im Moment kannst du dieses Item nicht
+oder nur auf besondere Weise erhalten.
 [common_widget/dialog_129] „Fordere starke Trainer heraus!“ ist
 jetzt verfügbar.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
@@ -47000,6 +47726,8 @@ additional effects that haven’t been unlocked before.
 [common_widget/dialog_125] Item Exchange—Event
 [common_widget/dialog_126] Item Exchange—Monthly
 [common_widget/dialog_127] Item Exchange—BP
+[common_widget/dialog_128] This is currently unobtainable or obtained
+in a special way.
 [common_widget/dialog_129] Challenge the Strong has been unlocked.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
@@ -47746,6 +48474,9 @@ no hayas desbloqueado anteriormente.
 [common_widget/dialog_125] Canjear objetos (De evento)
 [common_widget/dialog_126] Canjear objetos (Mensuales)
 [common_widget/dialog_127] Canjear objetos (Ptos. combate)
+[common_widget/dialog_128] No disponible ahora mismo,
+o disponible solo en circunstancias
+especiales.
 [common_widget/dialog_129] ¡Ahora puedes hacer frente a los
 desafíos imposibles!
 [common_widget/trainer_detail_001] [Name:TrainerName ]
@@ -48520,6 +49251,8 @@ additionnels
 [common_widget/dialog_125] Échange d'objets (évènement)
 [common_widget/dialog_126] Échange d'objets (mensuel)
 [common_widget/dialog_127] Échange d'objets (PCo)
+[common_widget/dialog_128] Actuellement indisponible ou disponible
+uniquement sous certaines conditions.
 [common_widget/dialog_129] Le défi contre les plus
 grands est débloqué.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
@@ -49295,6 +50028,8 @@ non ancora sbloccati.
 [common_widget/dialog_125] Scambio strumenti evento
 [common_widget/dialog_126] Scambio strumenti mensile
 [common_widget/dialog_127] Scambio strumenti PL
+[common_widget/dialog_128] Momentaneamente non ottenibile o
+ottenibile solo in circostanze speciali.
 [common_widget/dialog_129] Hai sbloccato "Sfida l'asso".
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] L.
@@ -50051,6 +50786,8 @@ EXカラー衣装が　かくとくできます
 [common_widget/dialog_125] どうぐ交換　イベント
 [common_widget/dialog_126] どうぐ交換　マンスリー
 [common_widget/dialog_127] どうぐ交換　バトルpt
+[common_widget/dialog_128] 現在獲得不可か
+特別な方法で獲得可能です
 [common_widget/dialog_129] 「強者への挑戦」
 が解放されました
 [common_widget/trainer_detail_001] [Name:TrainerName ]
@@ -50819,6 +51556,8 @@ EX컬러 의상을 획득할 수 있습니다
 [common_widget/dialog_125] 도구 교환 이벤트
 [common_widget/dialog_126] 도구 교환 월간
 [common_widget/dialog_127] 도구 교환 배틀pt
+[common_widget/dialog_128] 현재 획득할 수 없거나
+특별한 방법으로 획득할 수 있습니다
 [common_widget/dialog_129] "강자에게 도전"이
 해방되었습니다
 [common_widget/trainer_detail_001] [Name:TrainerName ]
@@ -51565,6 +52304,8 @@ common_widget_zh-TW.lsd
 [common_widget/dialog_125] 交換道具：活動
 [common_widget/dialog_126] 交換道具：每月
 [common_widget/dialog_127] 交換道具：對戰點數
+[common_widget/dialog_128] 現在無法獲得
+或需透過特殊方式獲得
 [common_widget/dialog_129] 「向高手挑戰」
 已開放
 [common_widget/trainer_detail_001] [Name:TrainerName ]
@@ -66666,7 +67407,7 @@ Bon 5★ au choix
 [shop/scout_161] Vous pouvez choisir un Duo parmi trois disponibles !
 [shop/scout_162] Clé
 Mélodie
-[shop/scout_163] Duo Look Spécial
+[shop/scout_163] Duos Look Spécial
 [shop/scout_164] Remarque : les pourcentages de chance par nombre d'★ affichés étant arrondis après la troisième décimale, il peut arriver que leur somme totale ne soit pas égale à 100 %. Les pourcentages réels ne sont ni arrondis au supérieur, ni à l'inférieur.
 
 Les pourcentages s'appliquent à chaque Appel Duo indépendamment. Même si vous passez un certain nombre d'Appels Duo, il est possible qu'un certain Duo n'apparaisse pas du tout.
@@ -66745,7 +67486,7 @@ Synchro
 [shop/scout_201] Méga-Évolution
 [shop/scout_202] Duo Dynamax
 [shop/scout_203] Master Duo
-[shop/scout_204] Duo commun
+[shop/scout_204] Duos communs
 [shop/scout_205] Les Duos communs sont des Duos qui apparaissent pendant la durée limitée de l'Appel Duo commun. À l'avenir, les Duos communs pourront aussi apparaître en dehors de cet Appel Duo commun.
 [shop/scout_206] Parmi les Duos actuellement à l'affiche,
 voici ceux qui n'ont pas d'épisode Duo.
