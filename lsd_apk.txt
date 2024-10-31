@@ -502,7 +502,7 @@ country_ko.lsd
 [DK] 덴마크
 [DE] 독일
 [TM] 투르크메니스탄
-[TR] 터키
+[TR] 튀르키예
 [NG] 나이지리아
 [NZ] 뉴질랜드
 [NO] 노르웨이
@@ -6555,6 +6555,89 @@ Abenteurer
 [quest_group_title_610062] Fähigkeiten-Federgebiet
 [quest_title_1030450900601010] Fähigkeiten-Feder-
 Intensivkurs
+[quest_title_1040001190001011] Ein besonderer Tag mit
+Gladio (Teil 1)
+[quest_title_1040001190001021] Ein besonderer Tag mit
+Gladio (Teil 2)
+[quest_title_1030110000600100] Cynthias Einladung
+[quest_title_1030110000600200] Lumius’ sonderbarer Fund
+[quest_title_1030510000601010] Der „Spezial-Konzert-Kampf“
+beginnt!
+[quest_title_1030510000601020] Unterschiedliche Musikstile
+[quest_title_1030510000601060] Vs. Trainer aus Passio 1
+[quest_title_1030510000601030] Micas Inspirationsquelle
+[quest_title_1030510000601070] Vs. Trainer aus Passio 2
+[quest_title_1030510000601040] Der wehmütige Nezz
+[quest_title_1030510000601080] Vs. Trainer aus Passio 3
+[quest_title_1030510000601050] Sänger so wie wir
+[quest_title_1030510000601090] Vs. Trainer aus Passio 4
+[quest_title_1030510000601100] Täglicher schwerer Kampf
+[quest_title_1030510000601110] Herausforderungskampf 1
+[quest_title_1030510000601120] Herausforderungskampf 2
+[quest_title_1030220011100000] Ein Tag mit MaMo-Mica
+[quest_title_1030220256100000] Ein Tag mit MaMo-Nezz
+[quest_title_1030220190000000] Ein Tag mit Ryuki
+[quest_title_1030451000201010] Vs. Kiawe
+[quest_title_1030451000202010] Vs. Pyro
+[quest_title_1030451000203010] Vs. Ignaz
+[quest_title_1030451000204010] Vs. Maik
+[quest_title_1030451000205010] Vs. Flavia
+[quest_title_1030510000602010] Ein Treffen voller Evoli
+[quest_title_1030510000602020] Schrei doch nicht so!
+[quest_title_1030510000602060] Vs. Team Break 1
+[quest_title_1030510000602030] Erster Schritt zur Freundschaft
+[quest_title_1030510000602070] Vs. Team Break 2
+[quest_title_1030510000602040] Der gestohlene Schatz
+[quest_title_1030510000602080] Vs. Team Break 3
+[quest_title_1030510000602050] Sei selbstbewusst!
+[quest_title_1030510000602090] Vs. Team Break 4
+[quest_title_1030510000602100] Täglicher schwerer Kampf
+[quest_title_1030510000602110] Herausforderungskampf 1
+[quest_title_1030510000602120] Herausforderungskampf 2
+[quest_title_1030220293000000] Ein Tag mit Cosima
+[quest_title_1030451002001010] Vs. Entschlossene Anabel
+[quest_title_1030440708901010] Vs. Frosina 1
+[quest_title_1030440708902010] Vs. Frosina 2
+[quest_title_1030440708903010] Vs. Frosina 3
+[quest_title_1030440708904010] Vs. Frosina 4
+[quest_title_1030440708905010] Täglicher Bonus-Kampf
+[quest_title_1030510000603010] Ein interessantes Gerücht
+[quest_title_1030510000603050] Vs. Trainer aus Passio 1
+[quest_title_1030510000603020] Freunde von Evoli
+[quest_title_1030510000603060] Vs. Trainer aus Passio 2
+[quest_title_1030510000603030] Ein geheimes Fan-Treffen?
+[quest_title_1030510000603070] Vs. Trainer aus Passio 3
+[quest_title_1030510000603040] Fragen wir Professor Eich!
+[quest_title_1030510000603080] Vs. Trainer aus Passio 4
+[quest_title_1030510000603090] Täglicher schwerer Kampf
+[quest_title_1030510000603100] Herausforderungskampf 1
+[quest_title_1030510000603110] Herausforderungskampf 2
+[quest_title_1030220656000000] Ein Tag mit Evi
+[quest_title_1030220269000000] Ein Tag mit Elaine
+[quest_title_1030510000604010] Die vielen Seiten von Evoli
+[quest_title_1030510000604020] Sonne und Mond
+[quest_title_1030510000604030] Kampf mit Evoli! 1
+[quest_title_1030510000604040] Kampf mit Evoli! 2
+[quest_title_1030510000604050] Kampf mit Evoli! 3
+[quest_title_1030510000604060] Kampf mit Evoli! 4
+[quest_title_1030510000604070] Täglicher schwerer Kampf
+[quest_title_1030510000604080] Herausforderung: Neun
+Möglichkeiten
+[quest_title_1030510000604090] Extremkampf: Neun
+Möglichkeiten 1
+[quest_title_1030510000604100] Extremkampf: Neun
+Möglichkeiten 2
+[quest_title_1030510000605010] Vs. Evoli 1
+[quest_title_1030510000605020] Vs. Evoli 2
+[quest_title_1030510000605030] Vs. Evoli 3
+[quest_title_1030510000605040] Vs. Evoli 4
+[quest_group_title_100300] Steine der Mysterien
+[quest_group_title_10011100000] MaMo-Mica
+[quest_group_title_10256100000] MaMo-Nezz
+[quest_group_title_10190000000] Ryuki
+[quest_group_title_10293000000] Cosima
+[quest_group_title_10656000000] Evi (Poké-Kind)
+[quest_group_title_10269000000] Elaine
 
 ===========
 story_quest_name_en.lsd
@@ -9989,6 +10072,85 @@ Is Another’s Poison: Part 4
 [quest_group_title_10169000000] Lenora
 [quest_group_title_610062] Skill Feather Area
 [quest_title_1030450900601010] Skill Feather Drill
+[quest_title_1040001190001011] A Special Day with Gladion: Part 1
+[quest_title_1040001190001021] A Special Day with Gladion: Part 2
+[quest_title_1030110000600100] Cynthia’s Invitation
+[quest_title_1030110000600200] What Rei Found
+[quest_title_1030510000601010] The Special Concert Battle Begins!
+[quest_title_1030510000601020] Different Types of Musicality
+[quest_title_1030510000601060] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030510000601030] What Roxie Wants to Express
+[quest_title_1030510000601070] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030510000601040] Piers the Melancholy
+[quest_title_1030510000601080] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030510000601050] What Singers Can Do
+[quest_title_1030510000601090] Challenge Pasio’s Trainers: Part 4
+[quest_title_1030510000601100] Daily Extreme Battle 1
+[quest_title_1030510000601110] Battle Challenge! Round 1
+[quest_title_1030510000601120] Battle Challenge! Round 2
+[quest_title_1030220011100000] A Day with Sygna Suit Roxie
+[quest_title_1030220256100000] A Day with Sygna Suit Piers
+[quest_title_1030220190000000] A Day with Ryuki
+[quest_title_1030451000201010] Challenge Kiawe
+[quest_title_1030451000202010] Challenge Blaine
+[quest_title_1030451000203010] Challenge Flint
+[quest_title_1030451000204010] Challenge Chili
+[quest_title_1030451000205010] Challenge Flannery
+[quest_title_1030510000602010] A Gathering Full of Eevee
+[quest_title_1030510000602020] You’re Too Loud!
+[quest_title_1030510000602060] Challenge Team Break: Part 1
+[quest_title_1030510000602030] First Step in Making Friends
+[quest_title_1030510000602070] Challenge Team Break: Part 2
+[quest_title_1030510000602040] The Stolen Treasure 
+[quest_title_1030510000602080] Challenge Team Break: Part 3
+[quest_title_1030510000602050] Have Confidence!
+[quest_title_1030510000602090] Challenge Team Break: Part 4
+[quest_title_1030510000602100] Daily Extreme Battle 1
+[quest_title_1030510000602110] Battle Challenge! Round 1
+[quest_title_1030510000602120] Battle Challenge! Round 2
+[quest_title_1030220293000000] A Day with Penny
+[quest_title_1030451002001010] Challenge a Super Serious Anabel
+[quest_title_1030440708901010] Challenge Glacia: Part 1
+[quest_title_1030440708902010] Challenge Glacia: Part 2
+[quest_title_1030440708903010] Challenge Glacia: Part 3
+[quest_title_1030440708904010] Challenge Glacia: Part 4
+[quest_title_1030440708905010] Daily Bonus Battle 1
+[quest_title_1030510000603010] A Mysterious Rumor on Pasio
+[quest_title_1030510000603050] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030510000603020] Everyone Who Likes Eevee
+[quest_title_1030510000603060] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030510000603030] Secret Eevee Fans?
+[quest_title_1030510000603070] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030510000603040] Let’s Ask Professor Oak!
+[quest_title_1030510000603080] Challenge Pasio’s Trainers: Part 4
+[quest_title_1030510000603090] Daily Extreme Battle 1
+[quest_title_1030510000603100] Battle Challenge! Round 1
+[quest_title_1030510000603110] Battle Challenge! Round 2
+[quest_title_1030220656000000] A Day with Eve
+[quest_title_1030220269000000] A Day with Elaine
+[quest_title_1030510000604010] Eevee’s Evolution Memories
+[quest_title_1030510000604020] The Sun and Moon
+[quest_title_1030510000604030] Vee-ctorious with You! Part 1
+[quest_title_1030510000604040] Vee-ctorious with You! Part 2
+[quest_title_1030510000604050] Vee-ctorious with You! Part 3
+[quest_title_1030510000604060] Vee-ctorious with You! Part 4
+[quest_title_1030510000604070] Daily Extreme Battle 1
+[quest_title_1030510000604080] A Challenge with Nine Possibilities!
+[quest_title_1030510000604090] Extreme Battle!
+Nine Possibilities: Part 1
+[quest_title_1030510000604100] Extreme Battle!
+Nine Possibilities: Part 2
+[quest_title_1030510000605010] Eevee’s Challenge: Part 1
+[quest_title_1030510000605020] Eevee’s Challenge: Part 2
+[quest_title_1030510000605030] Eevee’s Challenge: Part 3
+[quest_title_1030510000605040] Eevee’s Challenge: Part 4
+[quest_group_title_100300] Mysterious Stones Chapter
+[quest_group_title_10011100000] Sygna Suit Roxie
+[quest_group_title_10256100000] Sygna Suit Piers
+[quest_group_title_10190000000] Ryuki
+[quest_group_title_10293000000] Penny
+[quest_group_title_10656000000] Eve (Poké Kid)
+[quest_group_title_10269000000] Elaine
 
 ===========
 story_quest_name_es.lsd
@@ -13713,6 +13875,94 @@ Teselia
 [quest_group_title_610062] Área de Plumas Habilidad
 [quest_title_1030450900601010] Entrenamiento de
 Plumas Habilidad
+[quest_title_1040001190001011] Un día especial con Gladio
+[quest_title_1040001190001021] Un día especial con Gladio (2)
+[quest_title_1030110000600100] La invitación de Cintia
+[quest_title_1030110000600200] Lo que encontró Luka
+[quest_title_1030510000601010] ¡Empieza el combate musical
+especial!
+[quest_title_1030510000601020] Diferentes musicalidades
+[quest_title_1030510000601060] VS. Entrenadores de Passio
+[quest_title_1030510000601030] Lo que Hiedra quiere
+expresar
+[quest_title_1030510000601070] VS. Entrenadores de Passio (2)
+[quest_title_1030510000601040] Nerio, el Melancólico
+[quest_title_1030510000601080] VS. Entrenadores de Passio (3)
+[quest_title_1030510000601050] El despliegue de los
+cantantes
+[quest_title_1030510000601090] VS. Entrenadores de Passio (4)
+[quest_title_1030510000601100] ¡Un combate difícil al día!
+[quest_title_1030510000601110] ¡Un combate desafiante!
+[quest_title_1030510000601120] ¡Un combate desafiante! (2)
+[quest_title_1030220011100000] Un día con Hiedra (Traje S)
+[quest_title_1030220256100000] Un día con Nerio (Traje S)
+[quest_title_1030220190000000] Un día con Olano
+[quest_title_1030451000201010] VS. Kiawe
+[quest_title_1030451000202010] VS. Blaine
+[quest_title_1030451000203010] VS. Fausto
+[quest_title_1030451000204010] VS. Zeo
+[quest_title_1030451000205010] VS. Candela
+[quest_title_1030510000602010] Encuentro de fans de Eevee
+[quest_title_1030510000602020] ¡No hace falta gritar!
+[quest_title_1030510000602060] VS. Team Break
+[quest_title_1030510000602030] El primer paso para hacer
+amigos
+[quest_title_1030510000602070] VS. Team Break (2)
+[quest_title_1030510000602040] El tesoro robado
+[quest_title_1030510000602080] VS. Team Break (3)
+[quest_title_1030510000602050] ¡Ten confianza en ti misma!
+[quest_title_1030510000602090] VS. Team Break (4)
+[quest_title_1030510000602100] ¡Un combate difícil al día!
+[quest_title_1030510000602110] ¡Un combate desafiante!
+[quest_title_1030510000602120] ¡Un combate desafiante! (2)
+[quest_title_1030220293000000] Un día con Noa
+[quest_title_1030451002001010] VS. Destra con todo
+[quest_title_1030440708901010] VS. Nívea
+[quest_title_1030440708902010] VS. Nívea (2)
+[quest_title_1030440708903010] VS. Nívea (3)
+[quest_title_1030440708904010] VS. Nívea (4)
+[quest_title_1030440708905010] ¡Un combate extra al día!
+[quest_title_1030510000603010] Rumores de un Eevee
+parlante
+[quest_title_1030510000603050] VS. Entrenadores de Passio
+[quest_title_1030510000603020] Gente especializada en Eevee
+[quest_title_1030510000603060] VS. Entrenadores de Passio (2)
+[quest_title_1030510000603030] Fanáticos de Eevee en
+secreto
+[quest_title_1030510000603070] VS. Entrenadores de Passio (3)
+[quest_title_1030510000603040] ¡Vayamos a preguntarle al
+Profesor Oak!
+[quest_title_1030510000603080] VS. Entrenadores de Passio (4)
+[quest_title_1030510000603090] ¡Un combate difícil al día!
+[quest_title_1030510000603100] ¡Un combate desafiante!
+[quest_title_1030510000603110] ¡Un combate desafiante! (2)
+[quest_title_1030220656000000] Un día con Eva
+[quest_title_1030220269000000] Un día con Elaine
+[quest_title_1030510000604010] Recordando las evoluciones
+de Eevee
+[quest_title_1030510000604020] El sol y la luna
+[quest_title_1030510000604030] ¡Hacia la Eevee-ctoria!
+[quest_title_1030510000604040] ¡Hacia la Eevee-ctoria! (2)
+[quest_title_1030510000604050] ¡Hacia la Eevee-ctoria! (3)
+[quest_title_1030510000604060] ¡Hacia la Eevee-ctoria! (4)
+[quest_title_1030510000604070] ¡Un combate difícil al día!
+[quest_title_1030510000604080] ¡Enfréntate a las nueve
+posibilidades!
+[quest_title_1030510000604090] ¡Un combate difícil: las nueve
+posibilidades!
+[quest_title_1030510000604100] ¡Un combate difícil: las nueve
+posibilidades! (2)
+[quest_title_1030510000605010] VS. Eevee
+[quest_title_1030510000605020] VS. Eevee (2)
+[quest_title_1030510000605030] VS. Eevee (3)
+[quest_title_1030510000605040] VS. Eevee (4)
+[quest_group_title_100300] Trama Piedras Misteriosas
+[quest_group_title_10011100000] Hiedra (Traje S)
+[quest_group_title_10256100000] Nerio (Traje S)
+[quest_group_title_10190000000] Olano
+[quest_group_title_10293000000] Noa
+[quest_group_title_10656000000] Eva (Pokéchica)
+[quest_group_title_10269000000] Elaine
 
 ===========
 story_quest_name_fr.lsd
@@ -17870,6 +18120,108 @@ Dresseurs de Passio IV
 [quest_group_title_10169000000] Aloé
 [quest_group_title_610062] Zone Plume Talent
 [quest_title_1030450900601010] Exercice Plume Talent
+[quest_title_1040001190001011] Une journée spéciale
+avec Gladio
+[quest_title_1040001190001021] Une journée spéciale
+avec Gladio II
+[quest_title_1030110000600100] L'invitation de Cynthia
+[quest_title_1030110000600200] La trouvaille d'Aurel
+[quest_title_1030510000601010] Que le combat musical
+commence !
+[quest_title_1030510000601020] Chacun son style de musique
+[quest_title_1030510000601060] Combat : Dresseurs de Passio
+[quest_title_1030510000601030] Le message que Strykna
+veut faire passer
+[quest_title_1030510000601070] Combat :
+Dresseurs de Passio II
+[quest_title_1030510000601040] Peterson le mélancolique
+[quest_title_1030510000601080] Combat :
+Dresseurs de Passio III
+[quest_title_1030510000601050] Ce que les musiciens
+ont à offrir
+[quest_title_1030510000601090] Combat :
+Dresseurs de Passio IV
+[quest_title_1030510000601100] Combat difficile limité
+à une fois par jour !
+[quest_title_1030510000601110] Combat difficile
+[quest_title_1030510000601120] Combat difficile II
+[quest_title_1030220011100000] Une journée avec Strykna
+(Look Ultime)
+[quest_title_1030220256100000] Une journée avec Peterson
+(Look Ultime)
+[quest_title_1030220190000000] Une journée avec Solane
+[quest_title_1030451000201010] Combat : Kiawe
+[quest_title_1030451000202010] Combat : Auguste
+[quest_title_1030451000203010] Combat : Adrien
+[quest_title_1030451000204010] Combat : Armando
+[quest_title_1030451000205010] Combat : Adriane
+[quest_title_1030510000602010] Un rassemblement d'Évoli
+[quest_title_1030510000602020] Tu parles trop fort !
+[quest_title_1030510000602060] Combat : Team Break
+[quest_title_1030510000602030] Faire le premier pas
+en amitié
+[quest_title_1030510000602070] Combat : Team Break II
+[quest_title_1030510000602040] Le trésor dérobé
+[quest_title_1030510000602080] Combat : Team Break III
+[quest_title_1030510000602050] Aie confiance en toi !
+[quest_title_1030510000602090] Combat : Team Break IV
+[quest_title_1030510000602100] Combat difficile limité
+à une fois par jour !
+[quest_title_1030510000602110] Combat difficile
+[quest_title_1030510000602120] Combat difficile II
+[quest_title_1030220293000000] Une journée avec Pania
+[quest_title_1030451002001010] Combat : Cathy sans merci
+[quest_title_1030440708901010] Combat : Glacia
+[quest_title_1030440708902010] Combat : Glacia II
+[quest_title_1030440708903010] Combat : Glacia III
+[quest_title_1030440708904010] Combat : Glacia IV
+[quest_title_1030440708905010] Combat bonus limité
+à une fois par jour !
+[quest_title_1030510000603010] Une mystérieuse rumeur
+à Passio
+[quest_title_1030510000603050] Combat : Dresseurs de Passio
+[quest_title_1030510000603020] Tous les fans d'Évoli
+[quest_title_1030510000603060] Combat :
+Dresseurs de Passio II
+[quest_title_1030510000603030] Des fans d'Évoli se réunissent
+en secret ?
+[quest_title_1030510000603070] Combat :
+Dresseurs de Passio III
+[quest_title_1030510000603040] Allons demander
+au Professeur Chen !
+[quest_title_1030510000603080] Combat :
+Dresseurs de Passio IV
+[quest_title_1030510000603090] Combat difficile limité
+à une fois par jour !
+[quest_title_1030510000603100] Combat difficile
+[quest_title_1030510000603110] Combat difficile II
+[quest_title_1030220656000000] Une journée avec Éva
+[quest_title_1030220269000000] Une journée avec Elaine
+[quest_title_1030510000604010] Souvenirs des évolutions
+d'Évoli
+[quest_title_1030510000604020] Le soleil et la lune
+[quest_title_1030510000604030] Combat avec Évoli
+[quest_title_1030510000604040] Combat avec Évoli II
+[quest_title_1030510000604050] Combat avec Évoli III
+[quest_title_1030510000604060] Combat avec Évoli IV
+[quest_title_1030510000604070] Combat difficile limité
+à une fois par jour !
+[quest_title_1030510000604080] Un défi, neuf possibilités !
+[quest_title_1030510000604090] Combat difficile :
+Neuf possibilités
+[quest_title_1030510000604100] Combat difficile :
+Neuf possibilités II
+[quest_title_1030510000605010] Combat : Évoli
+[quest_title_1030510000605020] Combat : Évoli II
+[quest_title_1030510000605030] Combat : Évoli III
+[quest_title_1030510000605040] Combat : Évoli IV
+[quest_group_title_100300] Roches Mystérieuses
+[quest_group_title_10011100000] Strykna (Look Ultime)
+[quest_group_title_10256100000] Peterson (Look Ultime)
+[quest_group_title_10190000000] Solane
+[quest_group_title_10293000000] Pania
+[quest_group_title_10656000000] Éva (Poké Enfant)
+[quest_group_title_10269000000] Elaine
 
 ===========
 story_quest_name_it.lsd
@@ -21242,6 +21594,83 @@ story_quest_name_it.lsd
 [quest_group_title_10169000000] Aloé
 [quest_group_title_610062] Aree piume abilità
 [quest_title_1030450900601010] Allenamento piume abilità
+[quest_title_1040001190001011] Un giorno speciale con Iridio (1ª parte)
+[quest_title_1040001190001021] Un giorno speciale con Iridio (2ª parte)
+[quest_title_1030110000600100] L'invito di Camilla
+[quest_title_1030110000600200] La scoperta di Luca
+[quest_title_1030510000601010] Via alla "Lotta Musicale"!
+[quest_title_1030510000601020] A ciascuno il suo sound
+[quest_title_1030510000601060] VS Allenatori di Pasio
+[quest_title_1030510000601030] Il messaggio di Velia
+[quest_title_1030510000601070] VS Allenatori di Pasio 2
+[quest_title_1030510000601040] Ginepro il mesto
+[quest_title_1030510000601080] VS Allenatori di Pasio 3
+[quest_title_1030510000601050] L'influenza dei cantanti
+[quest_title_1030510000601090] VS Allenatori di Pasio 4
+[quest_title_1030510000601100] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030510000601110] Sfida ad alta difficoltà
+[quest_title_1030510000601120] Sfida ad alta difficoltà 2
+[quest_title_1030220011100000] Un giorno con Velia Costumax
+[quest_title_1030220256100000] Un giorno con Ginepro Costumax
+[quest_title_1030220190000000] Un giorno con Morel
+[quest_title_1030451000201010] VS Kawe
+[quest_title_1030451000202010] VS Blaine
+[quest_title_1030451000203010] VS Vulcano
+[quest_title_1030451000204010] VS Chicco
+[quest_title_1030451000205010] VS Fiammetta
+[quest_title_1030510000602010] Il raduno degli Eevee
+[quest_title_1030510000602020] Parli troppo forte!
+[quest_title_1030510000602060] VS Team Break
+[quest_title_1030510000602030] Il primo passo per l'amicizia
+[quest_title_1030510000602070] VS Team Break 2
+[quest_title_1030510000602040] Il tesoro sottratto
+[quest_title_1030510000602080] VS Team Break 3
+[quest_title_1030510000602050] Sii più sicura di te!
+[quest_title_1030510000602090] VS Team Break 4
+[quest_title_1030510000602100] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030510000602110] Sfida ad alta difficoltà
+[quest_title_1030510000602120] Sfida ad alta difficoltà 2
+[quest_title_1030220293000000] Un giorno con Penny
+[quest_title_1030451002001010] VS Alberta (risoluta)
+[quest_title_1030440708901010] VS Frida
+[quest_title_1030440708902010] VS Frida 2
+[quest_title_1030440708903010] VS Frida 3
+[quest_title_1030440708904010] VS Frida 4
+[quest_title_1030440708905010] Lotta bonus (una al giorno)!
+[quest_title_1030510000603010] Voci misteriose a Pasio
+[quest_title_1030510000603050] VS Allenatori di Pasio
+[quest_title_1030510000603020] Gli appassionati di Eevee
+[quest_title_1030510000603060] VS Allenatori di Pasio 2
+[quest_title_1030510000603030] Un raduno segreto
+[quest_title_1030510000603070] VS Allenatori di Pasio 3
+[quest_title_1030510000603040] Un quesito per il Professor Oak
+[quest_title_1030510000603080] VS Allenatori di Pasio 4
+[quest_title_1030510000603090] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030510000603100] Sfida ad alta difficoltà
+[quest_title_1030510000603110] Sfida ad alta difficoltà 2
+[quest_title_1030220656000000] Un giorno con Ivetta
+[quest_title_1030220269000000] Un giorno con Elaine
+[quest_title_1030510000604010] Ricordi delle evoluzioni di Eevee
+[quest_title_1030510000604020] Sole e luna
+[quest_title_1030510000604030] Scontri festivi!
+[quest_title_1030510000604040] Scontri festivi! 2
+[quest_title_1030510000604050] Scontri festivi! 3
+[quest_title_1030510000604060] Scontri festivi! 4
+[quest_title_1030510000604070] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030510000604080] Sfida con nove possibilità!
+[quest_title_1030510000604090] Lotta ad alta difficoltà - Nove possibilità
+[quest_title_1030510000604100] Lotta ad alta difficoltà - Nove possibilità 2
+[quest_title_1030510000605010] Lotta con Eevee
+[quest_title_1030510000605020] Lotta con Eevee 2
+[quest_title_1030510000605030] Lotta con Eevee 3
+[quest_title_1030510000605040] Lotta con Eevee 4
+[quest_group_title_100300] Le Pietre misteriose
+[quest_group_title_10011100000] Velia Costumax
+[quest_group_title_10256100000] Ginepro Costumax
+[quest_group_title_10190000000] Morel
+[quest_group_title_10293000000] Penny
+[quest_group_title_10656000000] Ivetta (Poké Bimba)
+[quest_group_title_10269000000] Elaine
 
 ===========
 story_quest_name_ja.lsd
@@ -24693,6 +25122,84 @@ story_quest_name_ja.lsd
 [quest_group_title_10169000000] アロエ
 [quest_group_title_610062] スキルフェザーエリア
 [quest_title_1030450900601010] スキルフェザーの鍛錬
+[quest_title_1040001190001011] グラジオとの特別な一日　前編
+[quest_title_1040001190001021] グラジオとの特別な一日　後編
+[quest_title_1030110000600100] シロナの誘い
+[quest_title_1030110000600200] テルがみつけたもの
+[quest_title_1030510000601010] スペシャルライブマッチ開催！
+[quest_title_1030510000601020] それぞれの音楽性
+[quest_title_1030510000601060] ＶＳ　パシオのトレーナー
+[quest_title_1030510000601030] ホミカが表現したいもの
+[quest_title_1030510000601070] ＶＳ　パシオのトレーナー２
+[quest_title_1030510000601040] 「哀愁のネズ」
+[quest_title_1030510000601080] ＶＳ　パシオのトレーナー３
+[quest_title_1030510000601050] シンガーにできること
+[quest_title_1030510000601090] ＶＳ　パシオのトレーナー４
+[quest_title_1030510000601100] １日１回限定・高難度バトル！
+[quest_title_1030510000601110] チャレンジバトルで勝負！
+[quest_title_1030510000601120] チャレンジバトルで勝負！２
+[quest_title_1030220011100000] とある日のマジコスホミカ
+[quest_title_1030220256100000] とある日のマジコスネズ
+[quest_title_1030220190000000] とある日のリュウキ
+[quest_title_1030451000201010] ＶＳ　カキ
+[quest_title_1030451000202010] ＶＳ　カツラ
+[quest_title_1030451000203010] ＶＳ　オーバ
+[quest_title_1030451000204010] ＶＳ　ポッド
+[quest_title_1030451000205010] ＶＳ　アスナ
+[quest_title_1030510000602010] イーブイ交流会
+[quest_title_1030510000602020] 声が大きい！！
+[quest_title_1030510000602060] ＶＳ　ブレイク団
+[quest_title_1030510000602030] ともだちへの最初の一歩
+[quest_title_1030510000602070] ＶＳ　ブレイク団２
+[quest_title_1030510000602040] 奪われた宝物
+[quest_title_1030510000602080] ＶＳ　ブレイク団３
+[quest_title_1030510000602050] 自信を持って！
+[quest_title_1030510000602090] ＶＳ　ブレイク団４
+[quest_title_1030510000602100] １日１回限定・高難度バトル！
+[quest_title_1030510000602110] チャレンジバトルで勝負！
+[quest_title_1030510000602120] チャレンジバトルで勝負！２
+[quest_title_1030220293000000] とある日のボタン
+[quest_title_1030451002001010] ＶＳ　超本気のリラ
+[quest_title_1030440708901010] ＶＳ　プリム
+[quest_title_1030440708902010] ＶＳ　プリム２
+[quest_title_1030440708903010] ＶＳ　プリム３
+[quest_title_1030440708904010] ＶＳ　プリム４
+[quest_title_1030440708905010] １日１回限定・ボーナスバトル！
+[quest_title_1030510000603010] パシオの不思議なウワサ
+[quest_title_1030510000603050] ＶＳ　パシオのトレーナー
+[quest_title_1030510000603020] イーブイ好きのみんな
+[quest_title_1030510000603060] ＶＳ　パシオのトレーナー２
+[quest_title_1030510000603030] 隠れイーブイファン？
+[quest_title_1030510000603070] ＶＳ　パシオのトレーナー３
+[quest_title_1030510000603040] オーキド博士にきいてみよう！
+[quest_title_1030510000603080] ＶＳ　パシオのトレーナー４
+[quest_title_1030510000603090] １日１回限定・高難度バトル！
+[quest_title_1030510000603100] チャレンジバトルで勝負！
+[quest_title_1030510000603110] チャレンジバトルで勝負！２
+[quest_title_1030220656000000] とある日のイブ
+[quest_title_1030220269000000] とある日のアユミ
+[quest_title_1030510000604010] イーブイと進化の思い出
+[quest_title_1030510000604020] お日さまとお月さま
+[quest_title_1030510000604030] きみと戦いたイーブイ！
+[quest_title_1030510000604040] きみと戦いたイーブイ！２
+[quest_title_1030510000604050] きみと戦いたイーブイ！３
+[quest_title_1030510000604060] きみと戦いたイーブイ！４
+[quest_title_1030510000604070] １日１回限定・高難度バトル！
+[quest_title_1030510000604080] 挑戦！　９つの可能性！
+[quest_title_1030510000604090] 高難度バトル！９つの可能性！
+[quest_title_1030510000604100] 高難度バトル！９つの可能性！２
+[quest_title_1030510000605010] ぶいえす　ぶいぶい
+[quest_title_1030510000605020] ぶいえす　ぶいぶい２
+[quest_title_1030510000605030] ぶいえす　ぶいぶい３
+[quest_title_1030510000605040] ぶいえす　ぶいぶい４
+[quest_group_title_100300] 謎の石編
+[quest_group_title_10011100000] マジコスホミカ
+[quest_group_title_10256100000] マジコスネズ
+[quest_group_title_10190000000] リュウキ
+[quest_group_title_10293000000] ボタン
+[quest_group_title_10656000000] イブ
+（ポケモンごっこ）
+[quest_group_title_10269000000] アユミ
 
 ===========
 story_quest_name_ko.lsd
@@ -28143,6 +28650,84 @@ story_quest_name_ko.lsd
 [quest_group_title_10169000000] 알로에
 [quest_group_title_610062] 스킬 페더 에리어
 [quest_title_1030450900601010] 스킬 페더의 단련
+[quest_title_1040001190001011] 글라디오와의 특별한 하루 전편
+[quest_title_1040001190001021] 글라디오와의 특별한 하루 후편
+[quest_title_1030110000600100] 난천의 초대
+[quest_title_1030110000600200] 영빈이 발견한 것
+[quest_title_1030510000601010] 스페셜 라이브 매치 개최!
+[quest_title_1030510000601020] 각자의 음악성
+[quest_title_1030510000601060] VS 파시오의 트레이너
+[quest_title_1030510000601030] 보미카가 표현하고 싶은 것
+[quest_title_1030510000601070] VS 파시오의 트레이너2
+[quest_title_1030510000601040] "애수의 두송"
+[quest_title_1030510000601080] VS 파시오의 트레이너3
+[quest_title_1030510000601050] 가수가 할 수 있는 것
+[quest_title_1030510000601090] VS 파시오의 트레이너4
+[quest_title_1030510000601100] 1일 1회 한정 고난도 배틀!
+[quest_title_1030510000601110] 챌린지배틀로 승부!
+[quest_title_1030510000601120] 챌린지배틀로 승부!2
+[quest_title_1030220011100000] 궁극코스 보미카의 어느 날
+[quest_title_1030220256100000] 궁극코스 두송의 어느 날
+[quest_title_1030220190000000] 용규의 어느 날
+[quest_title_1030451000201010] VS 키아웨
+[quest_title_1030451000202010] VS 강연
+[quest_title_1030451000203010] VS 대엽
+[quest_title_1030451000204010] VS 팟
+[quest_title_1030451000205010] VS 민지
+[quest_title_1030510000602010] 이브이 교류회
+[quest_title_1030510000602020] 목소리가 커!!
+[quest_title_1030510000602060] VS 브레이크단
+[quest_title_1030510000602030] 친구가 되기 위한 첫걸음
+[quest_title_1030510000602070] VS 브레이크단2
+[quest_title_1030510000602040] 빼앗긴 보물
+[quest_title_1030510000602080] VS 브레이크단3
+[quest_title_1030510000602050] 자신감을 가져!
+[quest_title_1030510000602090] VS 브레이크단4
+[quest_title_1030510000602100] 1일 1회 한정 고난도 배틀!
+[quest_title_1030510000602110] 챌린지배틀로 승부!
+[quest_title_1030510000602120] 챌린지배틀로 승부!2
+[quest_title_1030220293000000] 모란의 어느 날
+[quest_title_1030451002001010] VS 진심으로 전력을 다하는 리라
+[quest_title_1030440708901010] VS 미혜
+[quest_title_1030440708902010] VS 미혜2
+[quest_title_1030440708903010] VS 미혜3
+[quest_title_1030440708904010] VS 미혜4
+[quest_title_1030440708905010] 1일 1회 한정 보너스 배틀!
+[quest_title_1030510000603010] 파시오의 신비한 소문
+[quest_title_1030510000603050] VS 파시오의 트레이너
+[quest_title_1030510000603020] 이브이를 좋아하는 사람들
+[quest_title_1030510000603060] VS 파시오의 트레이너2
+[quest_title_1030510000603030] 숨은 이브이 팬?
+[quest_title_1030510000603070] VS 파시오의 트레이너3
+[quest_title_1030510000603040] 오박사님께 여쭤보자!
+[quest_title_1030510000603080] VS 파시오의 트레이너4
+[quest_title_1030510000603090] 1일 1회 한정 고난도 배틀!
+[quest_title_1030510000603100] 챌린지배틀로 승부!
+[quest_title_1030510000603110] 챌린지배틀로 승부!2
+[quest_title_1030220656000000] 이븐의 어느 날
+[quest_title_1030220269000000] 보연의 어느 날
+[quest_title_1030510000604010] 이브이와 진화의 추억
+[quest_title_1030510000604020] 해님과 달님
+[quest_title_1030510000604030] 너랑 싸우고 싶다브이!
+[quest_title_1030510000604040] 너랑 싸우고 싶다브이!2
+[quest_title_1030510000604050] 너랑 싸우고 싶다브이!3
+[quest_title_1030510000604060] 너랑 싸우고 싶다브이!4
+[quest_title_1030510000604070] 1일 1회 한정 고난도 배틀!
+[quest_title_1030510000604080] 도전! 9가지 가능성!
+[quest_title_1030510000604090] 고난도 배틀! 9가지 가능성!
+[quest_title_1030510000604100] 고난도 배틀! 9가지 가능성!2
+[quest_title_1030510000605010] 브이에스 브이브이
+[quest_title_1030510000605020] 브이에스 브이브이2
+[quest_title_1030510000605030] 브이에스 브이브이3
+[quest_title_1030510000605040] 브이에스 브이브이4
+[quest_group_title_100300] 수수께끼의 돌 편
+[quest_group_title_10011100000] 궁극코스 보미카
+[quest_group_title_10256100000] 궁극코스 두송
+[quest_group_title_10190000000] 용규
+[quest_group_title_10293000000] 모란
+[quest_group_title_10656000000] 이븐
+(포켓몬놀이)
+[quest_group_title_10269000000] 보연
 
 ===========
 story_quest_name_zh-TW.lsd
@@ -31593,6 +32178,84 @@ story_quest_name_zh-TW.lsd
 [quest_group_title_10169000000] 蘆薈
 [quest_group_title_610062] 技能羽毛區域
 [quest_title_1030450900601010] 技能羽毛鍛鍊
+[quest_title_1040001190001011] 與格拉吉歐的特別日子　前篇
+[quest_title_1040001190001021] 與格拉吉歐的特別日子　後篇
+[quest_title_1030110000600100] 竹蘭的邀請
+[quest_title_1030110000600200] 明耀發現的東西
+[quest_title_1030510000601010] 特別演唱會對抗賽開跑！
+[quest_title_1030510000601020] 各自的音樂風格
+[quest_title_1030510000601060] ＶＳ　帕希歐的訓練家
+[quest_title_1030510000601030] 霍米加想展現的東西
+[quest_title_1030510000601070] ＶＳ　帕希歐的訓練家２
+[quest_title_1030510000601040] 「多愁善感的聶梓」
+[quest_title_1030510000601080] ＶＳ　帕希歐的訓練家３
+[quest_title_1030510000601050] 歌手能做的事
+[quest_title_1030510000601090] ＶＳ　帕希歐的訓練家４
+[quest_title_1030510000601100] １天僅限１次的高難度對戰！
+[quest_title_1030510000601110] 用挑戰對戰決勝負！
+[quest_title_1030510000601120] 用挑戰對戰決勝負！２
+[quest_title_1030220011100000] 某日的美極套裝霍米加
+[quest_title_1030220256100000] 某日的美極套裝聶梓
+[quest_title_1030220190000000] 某日的龍葵
+[quest_title_1030451000201010] ＶＳ　卡奇
+[quest_title_1030451000202010] ＶＳ　夏伯
+[quest_title_1030451000203010] ＶＳ　大葉
+[quest_title_1030451000204010] ＶＳ　伯特
+[quest_title_1030451000205010] ＶＳ　亞莎
+[quest_title_1030510000602010] 伊布交流會
+[quest_title_1030510000602020] 聲音大！！
+[quest_title_1030510000602060] ＶＳ　破壞隊
+[quest_title_1030510000602030] 變成朋友的第一步
+[quest_title_1030510000602070] ＶＳ　破壞隊２
+[quest_title_1030510000602040] 被奪走的寶物
+[quest_title_1030510000602080] ＶＳ　破壞隊３
+[quest_title_1030510000602050] 有自信一點！
+[quest_title_1030510000602090] ＶＳ　破壞隊４
+[quest_title_1030510000602100] １天僅限１次的高難度對戰！
+[quest_title_1030510000602110] 用挑戰對戰決勝負！
+[quest_title_1030510000602120] 用挑戰對戰決勝負！２
+[quest_title_1030220293000000] 某日的牡丹
+[quest_title_1030451002001010] ＶＳ　火力全開的莉拉
+[quest_title_1030440708901010] ＶＳ　波妮
+[quest_title_1030440708902010] ＶＳ　波妮２
+[quest_title_1030440708903010] ＶＳ　波妮３
+[quest_title_1030440708904010] ＶＳ　波妮４
+[quest_title_1030440708905010] １天僅限１次的獎勵對戰！
+[quest_title_1030510000603010] 帕希歐的神奇傳聞
+[quest_title_1030510000603050] ＶＳ　帕希歐的訓練家
+[quest_title_1030510000603020] 伊布的粉絲們
+[quest_title_1030510000603060] ＶＳ　帕希歐的訓練家２
+[quest_title_1030510000603030] 隱藏伊布粉絲？
+[quest_title_1030510000603070] ＶＳ　帕希歐的訓練家３
+[quest_title_1030510000603040] 問問大木博士吧！
+[quest_title_1030510000603080] ＶＳ　帕希歐的訓練家４
+[quest_title_1030510000603090] １天僅限１次的高難度對戰！
+[quest_title_1030510000603100] 用挑戰對戰決勝負！
+[quest_title_1030510000603110] 用挑戰對戰決勝負！２
+[quest_title_1030220656000000] 某日的伊芙
+[quest_title_1030220269000000] 某日的步美
+[quest_title_1030510000604010] 伊布與進化的回憶
+[quest_title_1030510000604020] 太陽與月亮
+[quest_title_1030510000604030] 想與你對戰的伊布！
+[quest_title_1030510000604040] 想與你對戰的伊布！２
+[quest_title_1030510000604050] 想與你對戰的伊布！３
+[quest_title_1030510000604060] 想與你對戰的伊布！４
+[quest_title_1030510000604070] １天僅限１次的高難度對戰！
+[quest_title_1030510000604080] 挑戰！９種可能性！
+[quest_title_1030510000604090] 高難度對戰！９種可能性！
+[quest_title_1030510000604100] 高難度對戰！９種可能性！２
+[quest_title_1030510000605010] ＶＳ　布伊布伊
+[quest_title_1030510000605020] ＶＳ　布伊布伊２
+[quest_title_1030510000605030] ＶＳ　布伊布伊３
+[quest_title_1030510000605040] ＶＳ　布伊布伊４
+[quest_group_title_100300] 神秘石篇
+[quest_group_title_10011100000] 美極套裝霍米加
+[quest_group_title_10256100000] 美極套裝聶梓
+[quest_group_title_10190000000] 龍葵
+[quest_group_title_10293000000] 牡丹
+[quest_group_title_10656000000] 伊芙
+（寶可夢小朋友）
+[quest_group_title_10269000000] 步美
 
 ===========
 trainer_description_de.lsd
@@ -32783,6 +33446,39 @@ Kampffabrikleiter über immenses Pokémon-Wissen.
 [10140000002] Er ist der Anführer von Team Rainbow Rocket, einer
 Organisation, die mithilfe von Pokémon die Weltherrschaft
 an sich reißen will. Pokémon sind für ihn nur Werkzeuge.
+[10269000000] Diese Trainerin aus Kanto begann ihr Abenteuer in
+Alabastia. Sie bevorzugt Spaziergänge mit ihrem Partner
+Evoli, welches aus unbekannten Gründen dazu in der Lage
+ist, Geheime Techniken anzuwenden.
+[10293000000] Diese Trainerin mit einer Vorliebe für Evoli und Co.
+besucht die Akademie in Paldea. Sie ist schüchtern, aber
+kennt sich ausgezeichnet mit Computern aus.
+[10011100000] Mica trägt eine Machtmontur. Gemeinsam mit ihrem Riffex
+(Hoch-Form) sorgt sie auf der Bühne für Gift, Galle und
+Musik.
+[10256100000] Nezz trägt eine Machtmontur. Seitdem er sich mit seinem
+Partner-Pokémon Riffex (Tief-Form) zusammengetan hat,
+ist seine trübsinnige Aura noch stärker geworden.
+[10190000000] Dieser charakterstarke Trainer vom Typ Drache bereist als
+Star die Welt und ist für seine flammenden Schreie
+bekannt. Er hat bereits Alola besucht.
+[10656000000] Diese Trainerin aus Galar hat das Verhalten und die Rufe
+von Evoli intensiv studiert und kann sie dadurch fast
+perfekt nachahmen.
+[10122000001] Dieser Trainer liebt Pokémon und Abenteuer. Er setzt sein
+Training bei der Inselwanderschaft in der Alola-Region
+fort. Das Talent, das er dabei an den Tag legt, hat ihm
+selbst die Bewunderung von Professor Kukui eingebracht.
+[10123000001] Diese Trainerin ist sehr neugierig und aufgeschlossen.
+Durch ihre liebenswerte Art schließt sie sehr leicht
+Freundschaften. Sie hält sich nicht an Kleinigkeiten auf und
+vertraut ihrer Intuition.
+[10119000001] Dieser Trainer redet nicht viel, doch seine Freunde, Familie
+und Pokémon sind ihm äußerst wichtig. Einst war er
+besessen von dem Gedanken, immer stärker zu werden.
+[10000800001] Rot fühlt sich in dem Outfit, in dem er die Kanto-Region
+bereist hat, wie ein neuer Mensch. Er denkt oft an all die
+Freunde, die er auf seinen Abenteuern getroffen hat.
 
 ===========
 trainer_description_en.lsd
@@ -33838,6 +34534,36 @@ he also has deep knowledge of Pokémon.
 [10140000002] This leader of the expansive Team Rainbow Rocket
 enterprise, which aims to use Pokémon to rule the world,
 believes Pokémon are no more than tools.
+[10269000000] This Trainer set off on her journey from Kanto’s Pallet
+Town. She likes to go on leisurely walks with her partner
+Eevee, who is strangely able to use Secret Techniques.
+[10293000000] This Trainer who loves “Veevees” attends an academy in
+Paldea. She has a shy personality but is knowledgeable
+about machines.
+[10011100000] Roxie is wearing a sygna suit. Together with her Amped
+Form Toxtricity, she performs her exhilarating poison on
+the stage.
+[10256100000] Piers is wearing a sygna suit. His melancholy aura has
+deepened ever since Low Key Form Toxtricity became his
+partner Pokémon.
+[10190000000] This Dragon-type Trainer and singer travels the world and
+is popular for his passionate and spirited shouting. He has
+also visited Alola before.
+[10656000000] This Trainer from Galar is very good at pretending to be
+an Eevee, as she has thoroughly studied their cries
+and behavior.
+[10122000001] This Trainer loves Pokémon and adventure. He continues
+to train in the Alola island challenge, and his skills have
+even gained him recognition from Professor Kukui.
+[10123000001] This highly curious and easygoing Trainer is friendly with
+everyone and quite easy to get along with. She doesn’t
+worry about the little things and tends to act on instinct.
+[10119000001] Gladion doesn’t say much, but he cares deeply about his
+friends, family, and Pokémon. He used to be much more
+rebellious and fixated on becoming stronger.
+[10000800001] Red is feeling brand-new in this outfit that he wore back
+when he traveled the Kanto region. He often thinks about
+the friends he’s made on his journeys.
 
 ===========
 trainer_description_es.lsd
@@ -35074,6 +35800,40 @@ Fábrica Batalla, sabe mucho acerca de los Pokémon.
 [10140000002] Líder del Team Rainbow Rocket, una organización criminal
 que pretende valerse de los Pokémon para dominar el
 mundo. Ve a los Pokémon como meras herramientas.
+[10269000000] Entrenadora que emprendió su viaje desde Pueblo Paleta,
+en Kanto. Le gusta dar paseos sosegados junto con su
+"compa" Eevee, un Pokémon extraordinario que es capaz
+de utilizar las Técnicas Secretas.
+[10293000000] Entrenadora que adora a los "Vivis" y que estudia en una
+academia de Paldea. Es tímida, pero se le dan muy bien
+las máquinas.
+[10011100000] Con su Traje Summum y su Toxtricity en Forma Aguda,
+Hiedra demuestra ser una chica nociva tanto dentro como
+fuera de los escenarios.
+[10256100000] Nerio, el Melancólico y Melómano, luce un Traje Summum
+y su melancolía ha subido al once desde que tiene como
+compi a Toxtricity en Forma Grave.
+[10190000000] Entrenador de tipo Dragón y una apuesta segura en el
+panorama musical por sus canciones repletas de berridos
+apasionados. Viaja por el mundo y anteriormente estuvo
+de gira por Alola.
+[10656000000] Entrenadora oriunda de la región de Galar a la que se le
+da divinamente imitar a un Eevee, ya que se dedica en
+cuerpo y alma a estudiar su comportamiento y sus gritos.
+[10122000001] Este Entrenador adora los Pokémon y correr aventuras.
+Ha participado en el recorrido insular de Alola y sus
+hazañas le han valido la admiración del Profesor Kukui.
+[10123000001] Esta risueña Entrenadora siempre está deseando aprender
+cosas nuevas, y encima se lleva bien con todo el mundo.
+Se deja guiar por su intuición y no se lo piensa dos veces
+antes de pasar a la acción.
+[10119000001] Aunque no lo verbalice, lleva en el corazón a sus amigos,
+a sus familiares y a los Pokémon. Tuvo una época rebelde
+en la que lo único que le importaba era hacerse más
+fuerte.
+[10000800001] Rojo se siente como nuevo con la indumentaria que
+llevaba cuando viajaba por la región de Kanto. Le
+recuerda a los amigos que hizo en aquella aventura.
 
 ===========
 trainer_description_fr.lsd
@@ -36262,6 +37022,40 @@ pour les Pokémon et leurs Dresseurs.
 [10140000002] Le chef de la Team Rainbow Rocket, une organisation
 criminelle voulant utiliser les Pokémon pour conquérir
 le monde. Il considère les Pokémon comme des objets.
+[10269000000] Cette Dresseuse a débuté son aventure à Bourg Palette,
+dans la région de Kanto. Elle aime se promener avec
+son partenaire, Évoli, qui est, contre toute attente,
+capable d'utiliser des Techniques Secrètes.
+[10293000000] Cette Dresseuse fan d'Évoli et de ses évolutions étudie
+à l'académie de la région de Paldea. De personnalité
+plutôt réservée, elle est un génie de l'informatique.
+[10011100000] Strykna porte un Look Ultime. En compagnie
+de son Salarsen sous sa Forme Aigüe,
+elle balance son poison sur scène.
+[10256100000] Peterson porte un Look Ultime. Son allure mélancolique
+s'est amplifiée depuis qu'il forme un Duo avec son
+Salarsen Forme Grave.
+[10190000000] Ce chanteur et Dresseur de type Dragon parcourant
+le monde est célèbre grâce à ses cris fougueux et
+passionnés. Il a aussi visité Alola par le passé.
+[10656000000] Grâce à ses observations approfondies de leurs cris
+et de leur comportement, cette Dresseuse de Galar
+arrive très bien à imiter les Évoli.
+[10122000001] Un Dresseur qui aime les Pokémon et partir à l'aventure.
+Il poursuit son apprentissage en participant au Tour
+des Îles, à Alola. Même le Professeur Euphorbe reconnaît
+sa puissance.
+[10123000001] Une Dresseuse extrêmement curieuse et généreuse
+qui se fait des amis facilement partout où elle va.
+Elle ne se préoccupe pas des petits détails
+et agit en suivant son instinct.
+[10119000001] Peu loquace, ce Dresseur est pourtant très attaché à ses
+amis, sa famille et son Pokémon. Auparavant, il était
+aussi connu pour son obsession pour la puissance.
+[10000800001] Red se sent prêt à relever de nouveaux défis en renfilant
+sa tenue de Kanto. Il repense avec nostalgie
+aux nombreux amis qu'il s'est faits
+lors de ses aventures passées.
 
 ===========
 trainer_description_it.lsd
@@ -37421,6 +38215,39 @@ conosce molto a fondo i Pokémon.
 [10140000002] Capo del Team Rainbow Rocket, una vasta organizzazione
 che mira a conquistare il mondo servendosi di tutti
 i Pokémon. Considera i Pokémon come degli strumenti.
+[10269000000] Allenatrice di Kanto originaria di Biancavilla, dove
+ha avuto inizio il suo viaggio. Le piace passeggiare
+con il suo amico Eevee, che stranamente è in grado
+di utilizzare Tecniche Segrete.
+[10293000000] Allenatrice appassionata di "Vivì" che studia all'accademia
+di Paldea. Ha una personalità introversa, ma è un'esperta
+di macchinari.
+[10011100000] Velia indossa un Costumax e assieme al suo Toxtricity
+Forma Melodia porta sul palco veleno e musica.
+[10256100000] Ginepro indossa un Costumax, e la sua aura malinconica
+si è intensificata da quando Toxtricity Forma Basso
+è diventato il suo Pokémon compagno.
+[10190000000] Un Allenatore esperto di Pokémon di tipo Drago che
+è anche un cantante giramondo, famoso per la sua voce
+potente e appassionata. In passato ha visitato Alola.
+[10656000000] Un'Allenatrice di Galar che veste i panni di un Eevee
+con maestria, grazie alla sua attenta osservazione
+dei loro versi e del loro comportamento.
+[10122000001] Giovane Allenatore che ama i Pokémon e le avventure,
+il suo innato talento è stato riconosciuto perfino
+dal Professor Kukui, vista anche l'enorme capacità
+di crescita dimostrata nel giro delle isole di Alola.
+[10123000001] Un'Allenatrice curiosa e alla mano che va d'accordo
+con tutti grazie al suo carattere amichevole. È un tipetto
+impulsivo che vive sul momento senza troppe
+preoccupazioni.
+[10119000001] Un Allenatore di poche parole ma che sa essere molto
+premuroso con amici, familiari e Pokémon. È uno spirito
+ribelle e in passato ha vissuto anche un periodo in cui
+faceva affidamento unicamente sulla propria forza.
+[10000800001] Rosso fa un tuffo nel passato indossando nuovamente
+gli stessi abiti di quando viaggiava per Kanto. Ripensa
+spesso agli amici che si è fatto lungo il cammino.
 
 ===========
 trainer_description_ja.lsd
@@ -38469,6 +39296,36 @@ trainer_description_ja.lsd
 [10140000002] すべての　ポケモンを　利用して　世界を
 支配しようと　企む　大組織　レインボーロケット団の
 リーダー。　ポケモンは　道具と　考えている。
+[10269000000] カントー地方の　マサラタウンを　旅立った　少女。
+相棒は　ヒジュツが　使える　不思議な　イーブイで
+一緒に　のんびり　お散歩するのが　好き。
+[10293000000] パルデア地方の　アカデミーに　通っている
+「ブイブイ」が　大好きな　トレーナー。
+機械に　詳しいが　少し　人見知りな　性格。
+[10011100000] マジコスを　身にまとった　ホミカ。
+ハイなすがたの　ストリンダーと　共に
+痛快な　ポイズンライブを　披露する。
+[10256100000] マジコスを　身にまとった　ネズ。
+ローなすがたの　ストリンダーが　バディとなり
+哀愁ある　雰囲気に　さらに　深みが　増した。
+[10190000000] 世界を　旅する　ドラゴン使いの　シンガーで
+熱いソウルと　シャウトが　人気の　スター。
+アローラ地方を　訪れた　こともある。
+[10656000000] イーブイの　まねをする　ガラル地方の　トレーナー。
+イーブイの　仕草や　鳴き声を　よく観察しているため
+彼女の　なりきりの　クオリティは　高い。
+[10122000001] ポケモンや　冒険が　大好きな　トレーナー。
+アローラ地方の　島巡りで　成長を　続けている。
+ククイ博士も　一目置くほどの　実力の　持ち主。
+[10123000001] 好奇心旺盛で　おおらかな　性格の　トレーナー。
+誰にでも　フレンドリーで　すぐに　仲良くなれる。
+細かいことは　あまり　気にしないで　直感で　動く。
+[10119000001] 口数は少ないが　仲間や　家族　ポケモンを
+思いやる心を　持った　トレーナー。
+反逆の心を持ち　強さに　固執した時期も　あった。
+[10000800001] カントー地方を　旅していたときの　衣装を
+身にまとい　気持ちを　新たにした　レッド。
+かつて　冒険した　仲間たちに　思いをはせる。
 
 ===========
 trainer_description_ko.lsd
@@ -39516,6 +40373,36 @@ WPM 운영위원회의 대표도 맡고 있다.
 [10140000002] 모든 포켓몬을 이용해서 세계 정복을 꾸미는
 거대 조직 레인보우로켓단의 리더.
 포켓몬을 도구라고 생각하고 있다.
+[10269000000] 관동지방의 태초마을에서 여행을 떠난 소녀.
+파트너는 비술을 쓸 수 있는 신비한 이브이로
+함께 느긋하게 산책하는 것을 좋아한다.
+[10293000000] 팔데아지방의 아카데미에 다니고 있는
+"브이브이"를 아주 좋아하는 트레이너.
+기계에 대해 잘 알지만 약간 낯을 가리는 편이다.
+[10011100000] 궁극코스를 입은 보미카.
+하이한 모습인 스트린더와 함께
+통쾌한 포이즌라이브를 보여 준다.
+[10256100000] 궁극코스를 입은 두송.
+로우한 모습인 스트린더와 버디가 되어
+애수가 감도는 분위기가 한층 더 깊어졌다.
+[10190000000] 세계를 여행하는 드래곤 조련사이자 가수로
+뜨거운 소울과 샤우트로 인기 있는 스타.
+알로라지방을 방문한 적도 있다.
+[10656000000] 이브이를 흉내 내는 가라르지방의 트레이너.
+이브이의 동작과 울음소리를 잘 관찰하고 있어서
+그녀의 변장은 완성도가 높다.
+[10122000001] 포켓몬과 모험을 정말 좋아하는 트레이너.
+알로라지방의 섬 순례를 통해 계속 성장하고 있다.
+쿠쿠이박사도 한 수 무를 만한 실력의 소유자.
+[10123000001] 호기심 왕성하고 너그러운 성격의 트레이너.
+누구에게나 친근하여 금방 친해진다.
+사소한 부분은 그다지 신경 쓰지 않으며 직감에 따라 움직인다.
+[10119000001] 말수는 적지만
+동료와 가족, 포켓몬을 위하는 마음을 가진 트레이너.
+반항심을 가지고 힘에 집착하던 시기도 있었다.
+[10000800001] 관동지방을 여행하던 시절의 의상을 입고
+새로이 마음을 다잡은 레드.
+과거에 함께 모험한 동료들을 떠올린다.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -40563,6 +41450,36 @@ trainer_description_zh-TW.lsd
 [10140000002] 是企圖利用所有寶可夢來統治世界的
 巨大組織「彩虹火箭隊」的老大。
 他認為寶可夢是一種道具。
+[10269000000] 從關都地區的真新鎮開始冒險的少女。
+拍檔是會使用秘術的神奇伊布，
+和牠一起休閒地散步是她的興趣。
+[10293000000] 在帕底亞地區的學院上學，
+非常喜歡「布布」的訓練家。
+對機械很了解，但個性有點怕生。
+[10011100000] 身穿美極套裝的霍米加。
+和高調的樣子的顫弦蠑螈
+一起表演令人痛快的毒奏舞台。
+[10256100000] 身穿美極套裝的聶梓。
+和低調的樣子的顫弦蠑螈結為拍檔，
+使他多愁善感的氣質又更加濃厚了。
+[10190000000] 環遊世界的龍之使者，同時也是個明星歌手，
+以火熱的靈魂和大吼博得了人氣。
+曾經造訪過阿羅拉地區。
+[10656000000] 模仿伊布的伽勒爾地區訓練家。
+對伊布的動作和叫聲觀察入微，
+所以能扮演地維妙維肖。
+[10122000001] 非常喜歡寶可夢和冒險的訓練家。
+阿羅拉地區的諸島巡禮讓他不斷成長，
+連庫庫伊博士都對他的實力甘拜下風。
+[10123000001] 好奇心旺盛，個性不拘小節的訓練家。
+對任何人都很友善，馬上就能變成好朋友。
+對小事不太在意，總是憑直覺行動。
+[10119000001] 他沉默寡言但有著一顆體貼的心，
+是個處處為夥伴、家人及寶可夢著想的訓練家。
+他也曾有一段充滿叛逆之心並執著於實力的時期。
+[10000800001] 穿上在關都地區冒險時的服裝，
+心情煥然一新的赤紅。
+他懷念起過去曾一同冒險的夥伴們。
 
 ===========
 trainer_name_de.lsd
@@ -40821,6 +41738,10 @@ trainer_name_de.lsd
 [ch0281] Yell Rüpel
 [ch0290] Lumius
 [ch0291] Lumia
+[ch0269] Elaine
+[ch0654] Poké-Kind
+[ch0293] Cosima
+[ch0656] Evi
 
 ===========
 trainer_name_en.lsd
@@ -41079,6 +42000,10 @@ trainer_name_en.lsd
 [ch0281] Team Yell Grunt
 [ch0290] Rei
 [ch0291] Akari
+[ch0269] Elaine
+[ch0654] Poké Kid
+[ch0293] Penny
+[ch0656] Eve
 
 ===========
 trainer_name_es.lsd
@@ -41337,6 +42262,10 @@ trainer_name_es.lsd
 [ch0281] Recluta del Team Yell
 [ch0290] Luka
 [ch0291] Kira
+[ch0269] Elaine
+[ch0654] Pokéchica
+[ch0293] Noa
+[ch0656] Eva
 
 ===========
 trainer_name_fr.lsd
@@ -41595,6 +42524,10 @@ trainer_name_fr.lsd
 [ch0281] Sbire Team Yell
 [ch0290] Aurel
 [ch0291] Lucia
+[ch0269] Elaine
+[ch0654] Poké Enfant
+[ch0293] Pania
+[ch0656] Éva
 
 ===========
 trainer_name_it.lsd
@@ -41853,6 +42786,10 @@ trainer_name_it.lsd
 [ch0281] Recluta del Team Yell
 [ch0290] Luca
 [ch0291] Luce
+[ch0269] Elaine
+[ch0654] Poké Bimba
+[ch0293] Penny
+[ch0656] Ivetta
 
 ===========
 trainer_name_ja.lsd
@@ -42111,6 +43048,10 @@ trainer_name_ja.lsd
 [ch0281] エールだんの　したっぱ
 [ch0290] テル
 [ch0291] ショウ
+[ch0269] アユミ
+[ch0654] ポケモンごっこ
+[ch0293] ボタン
+[ch0656] イブ
 
 ===========
 trainer_name_ko.lsd
@@ -42369,6 +43310,10 @@ trainer_name_ko.lsd
 [ch0281] 옐단의 조무래기
 [ch0290] 영빈
 [ch0291] 윤슬
+[ch0269] 보연
+[ch0654] 포켓몬놀이
+[ch0293] 모란
+[ch0656] 이븐
 
 ===========
 trainer_name_zh-TW.lsd
@@ -42627,6 +43572,10 @@ trainer_name_zh-TW.lsd
 [ch0281] 吶喊隊手下
 [ch0290] 明耀
 [ch0291] 小照
+[ch0269] 步美
+[ch0654] 寶可夢小朋友
+[ch0293] 牡丹
+[ch0656] 伊芙
 
 ===========
 trainer_verbose_name_de.lsd
@@ -42825,6 +43774,10 @@ trainer_verbose_name_de.lsd
 (Neo-Champ)
 [10017900000] Leaf 
 (Neo-Champ)
+[10011100000] MaMo-Mica
+[10256100000] MaMo-Nezz
+[10656000000] Evi 
+(Poké-Kind)
 
 ===========
 trainer_verbose_name_en.lsd
@@ -43033,6 +43986,10 @@ Acerola
 (Champion)
 [10017900000] Leaf 
 (Champion)
+[10011100000] Sygna Suit Roxie
+[10256100000] Sygna Suit Piers
+[10656000000] Eve 
+(Poké Kid)
 
 ===========
 trainer_verbose_name_es.lsd
@@ -43211,6 +44168,9 @@ con Kimono)
 (Neocampeón)
 [10017900000] Hoja 
 (Neocampeona)
+[10011100000] Hiedra (Traje S)
+[10256100000] Nerio (Traje S)
+[10656000000] Eva (Pokéchica)
 
 ===========
 trainer_verbose_name_fr.lsd
@@ -43404,6 +44364,10 @@ trainer_verbose_name_fr.lsd
 (Néo-Maître)
 [10017900000] Leaf 
 (Néo-Maître)
+[10011100000] Strykna (Ultime)
+[10256100000] Peterson (Ultime)
+[10656000000] Éva 
+(Poké Enfant)
 
 ===========
 trainer_verbose_name_it.lsd
@@ -43603,6 +44567,10 @@ trainer_verbose_name_it.lsd
 (Campione)
 [10017900000] Leaf 
 (Campionessa)
+[10011100000] Velia Costumax
+[10256100000] Ginepro Costumax
+[10656000000] Ivetta 
+(Poké Bimba)
 
 ===========
 trainer_verbose_name_ja.lsd
@@ -43802,6 +44770,10 @@ trainer_verbose_name_ja.lsd
 （チャンピオン）
 [10017900000] リーフ
 （チャンピオン）
+[10011100000] マジコスホミカ
+[10256100000] マジコスネズ
+[10656000000] イブ
+（ポケモンごっこ）
 
 ===========
 trainer_verbose_name_ko.lsd
@@ -44001,6 +44973,10 @@ trainer_verbose_name_ko.lsd
 (챔피언)
 [10017900000] 리프
 (챔피언)
+[10011100000] 궁극코스 보미카
+[10256100000] 궁극코스 두송
+[10656000000] 이븐
+(포켓몬놀이)
 
 ===========
 trainer_verbose_name_zh-TW.lsd
@@ -44200,6 +45176,10 @@ trainer_verbose_name_zh-TW.lsd
 （冠軍）
 [10017900000] 葉子
 （冠軍）
+[10011100000] 美極套裝霍米加
+[10256100000] 美極套裝聶梓
+[10656000000] 伊芙
+（寶可夢小朋友）
 
 ===========
 common_widget_de.lsd
@@ -44467,6 +45447,8 @@ nicht freigeschaltet wurden.
 [common_widget/dialog_125] Item-Tausch (Event)
 [common_widget/dialog_126] Item-Tausch (Monatlich)
 [common_widget/dialog_127] Item-Tausch (KP)
+[common_widget/dialog_129] „Fordere starke Trainer heraus!“ ist
+jetzt verfügbar.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -44631,7 +45613,7 @@ wurde zu einem
 [common_widget/filter_033] 3
 [common_widget/filter_034] Gefährten
 [common_widget/filter_035] Teamfähigkeiten
-[common_widget/filter_036] Erlernte Att.
+[common_widget/filter_036] Erlernte Aktionen
 [common_widget/filter_037] Region
 [common_widget/filter_038] Gruppe
 [common_widget/filter_039] Mode
@@ -44689,6 +45671,7 @@ wurde zu einem
 [common_widget/filter_092] Statusveränderungen
 [common_widget/filter_093] Seiten-Effekte
 [common_widget/filter_094] Sonstiges
+[common_widget/filter_099] Spezialaktionen
 [common_widget/filter_100] Attribute
 [common_widget/filter_101] Stimmt mit Gefährten in deinem Team überein.
 [common_widget/filter_102] Fähigkeiten freischalten
@@ -44833,6 +45816,16 @@ hast.
 [common_widget/release_020] Wird freigeschaltet, indem du das erste Ei ausbrütest, das du von Professor Daisy erhalten hast.
 [common_widget/release_021] Wird freigeschaltet nach Abschluss von
 „[Name:QuestTitle ]“
+[common_widget/release_023] Wird nach dem Erhalt von Steinen der
+Mysterien freigeschaltet.
+
+Steine der Mysterien können unter
+anderem in täglichen Regionskämpfen
+erhalten werden.
+[common_widget/release_024] Wird freigeschaltet, wenn du
+den Champkampf einer beliebigen
+Region auf dem Schwierigkeitsgrad
+Schwer Lv. 1 abschließt.
 [common_widget/egg_hatched_cutin_001] Oh?
 [common_widget/egg_hatched_cutin_002] Ein [Name:PokemonName ] ist aus
 dem Ei geschlüpft!
@@ -45230,6 +46223,7 @@ additional effects that haven’t been unlocked before.
 [common_widget/dialog_125] Item Exchange—Event
 [common_widget/dialog_126] Item Exchange—Monthly
 [common_widget/dialog_127] Item Exchange—BP
+[common_widget/dialog_129] Challenge the Strong has been unlocked.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -45384,7 +46378,7 @@ into [Name:PokemonName ]!
 [common_widget/filter_033] 3 Skills
 [common_widget/filter_034] Sync Pairs
 [common_widget/filter_035] Theme Skills
-[common_widget/filter_036] Known Moves
+[common_widget/filter_036] Known Actions
 [common_widget/filter_037] Region
 [common_widget/filter_038] Trainer Group
 [common_widget/filter_039] Fashion
@@ -45442,6 +46436,7 @@ into [Name:PokemonName ]!
 [common_widget/filter_092] Status Change
 [common_widget/filter_093] Field Effect
 [common_widget/filter_094] Other
+[common_widget/filter_099] Special Actions
 [common_widget/filter_100] Themes
 [common_widget/filter_101] Matches with sync pair(s) currently on your team.
 [common_widget/filter_102] Unlock Skills
@@ -45562,6 +46557,10 @@ the button at the top of the screen.
 [common_widget/release_020] To unlock, hatch the Egg you first
 received from Professor Bellis.
 [common_widget/release_021] To unlock, complete [Name:QuestTitle ]
+[common_widget/release_023] To unlock, obtain mysterious stones.
+
+Mysterious stones can be obtained from the Daily Region Rotation, etc.
+[common_widget/release_024] To unlock, complete the Champion Stadium for any region on Hard Lv. 1.
 [common_widget/egg_hatched_cutin_001] Oh?
 [common_widget/egg_hatched_cutin_002] [Name:PokemonName ] hatched
 from the Egg!
@@ -45970,6 +46969,8 @@ no hayas desbloqueado anteriormente.
 [common_widget/dialog_125] Canjear objetos (De evento)
 [common_widget/dialog_126] Canjear objetos (Mensuales)
 [common_widget/dialog_127] Canjear objetos (Ptos. combate)
+[common_widget/dialog_129] ¡Ahora puedes hacer frente a los
+desafíos imposibles!
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Nv.
 [common_widget/trainer_detail_004] MÁX.
@@ -46132,7 +47133,7 @@ evolución?
 [common_widget/filter_033] 3
 [common_widget/filter_034] Compis
 [common_widget/filter_035] Hab. de equipo
-[common_widget/filter_036] Mov. conocidos
+[common_widget/filter_036] Acc. conocidas
 [common_widget/filter_037] Región
 [common_widget/filter_038] Categoría
 [common_widget/filter_039] Estilo
@@ -46190,6 +47191,7 @@ evolución?
 [common_widget/filter_092] Cambios de estado
 [common_widget/filter_093] Efectos de campo
 [common_widget/filter_094] Otros
+[common_widget/filter_099] Acciones especiales
 [common_widget/filter_100] Distintivo
 [common_widget/filter_101] Mismo que compis en el equipo actual
 [common_widget/filter_102] Desbloqueo de habilidades
@@ -46314,6 +47316,14 @@ te entregue.
 Huevo que te entregó la Profesora
 Margarita.
 [common_widget/release_021] Disponible tras completar "[Name:QuestTitle ]".
+[common_widget/release_023] Disponible tras conseguir Piedras
+Misteriosas.
+
+Estas se pueden obtener en los
+combates diarios por regiones y
+de otras maneras.
+[common_widget/release_024] Completa los Combates de Campeones
+de cualquier región en Difícil (nivel 1).
 [common_widget/egg_hatched_cutin_001] Anda...
 [common_widget/egg_hatched_cutin_002] El Huevo ha eclosionado y ha salido un
 [Name:PokemonName ].
@@ -46733,6 +47743,8 @@ additionnels
 [common_widget/dialog_125] Échange d'objets (évènement)
 [common_widget/dialog_126] Échange d'objets (mensuel)
 [common_widget/dialog_127] Échange d'objets (PCo)
+[common_widget/dialog_129] Le défi contre les plus
+grands est débloqué.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] N.
 [common_widget/trainer_detail_004] MAX
@@ -46892,8 +47904,7 @@ a évolué en
 [common_widget/filter_033] 3
 [common_widget/filter_034] Duo
 [common_widget/filter_035] Talent d'équipe
-[common_widget/filter_036] Capacité
-apprise
+[common_widget/filter_036] Actions apprises
 [common_widget/filter_037] Région
 [common_widget/filter_038] Catégorie de Dresseur
 [common_widget/filter_039] Tenue
@@ -46952,6 +47963,7 @@ additionnels
 [common_widget/filter_092] Changement de statut
 [common_widget/filter_093] Effet sur le terrain
 [common_widget/filter_094] Autre
+[common_widget/filter_099] Actions spéciales
 [common_widget/filter_100] Mots-clés
 [common_widget/filter_101] En commun avec au moins un Duo dans votre équipe
 [common_widget/filter_102] Déblocage de talents
@@ -47090,6 +48102,15 @@ en haut de l'écran.
 [common_widget/release_020] Débloqué après avoir fait éclore l'Œuf
 que la Professeure Bellis vous a confié.
 [common_widget/release_021] Disponible après avoir fini : « [Name:QuestTitle ] »
+[common_widget/release_023] Débloqué après avoir échangé
+des Roches Mystérieuses.
+
+Les Roches Mystérieuses peuvent
+être entre autres obtenues depuis
+le combat régional quotidien.
+[common_widget/release_024] Débloqué après avoir terminé
+le Combat de Maître de n'importe
+quelle région au niveau Difficile N. 1.
 [common_widget/egg_hatched_cutin_001] Oh ?!
 [common_widget/egg_hatched_cutin_002] Un [Name:PokemonName ] est
 sorti de l'Œuf !
@@ -47497,6 +48518,7 @@ non ancora sbloccati.
 [common_widget/dialog_125] Scambio strumenti evento
 [common_widget/dialog_126] Scambio strumenti mensile
 [common_widget/dialog_127] Scambio strumenti PL
+[common_widget/dialog_129] Hai sbloccato "Sfida l'asso".
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] L.
 [common_widget/trainer_detail_004] MAX
@@ -47650,7 +48672,7 @@ dell'evoluzione?
 [common_widget/filter_033] 3
 [common_widget/filter_034] Unità
 [common_widget/filter_035] Squadrabilità
-[common_widget/filter_036] Mosse imparate
+[common_widget/filter_036] Azioni imparate
 [common_widget/filter_037] Regione
 [common_widget/filter_038] Categoria
 [common_widget/filter_039] Stile
@@ -47708,6 +48730,7 @@ dell'evoluzione?
 [common_widget/filter_092] Variazione di stato
 [common_widget/filter_093] Effetto sul campo
 [common_widget/filter_094] Altro
+[common_widget/filter_099] Azioni speciali
 [common_widget/filter_100] Gruppi
 [common_widget/filter_101] Coincide con le Unità in squadra
 [common_widget/filter_102] Sblocco abilità
@@ -47841,6 +48864,14 @@ a questa modalità toccando il pulsante
 dalla Professoressa Bellisperia per
 sbloccare questa funzione.
 [common_widget/release_021] Completa prima "[Name:QuestTitle ]".
+[common_widget/release_023] Si sblocca ottenendo Pietre misteriose.
+
+Le Pietre misteriose possono essere
+ottenute nelle lotte regionali
+giornaliere e in altri modi.
+[common_widget/release_024] Si sblocca completando la Lotta
+dei Campioni di qualsiasi regione
+in difficoltà "Difficile L. 1".
 [common_widget/egg_hatched_cutin_001] Oh!
 [common_widget/egg_hatched_cutin_002] Dall'Uovo è nato [Name:PokemonName ]!
 [common_widget/egg_detail_001] Inserisci un nome.
@@ -48243,6 +49274,8 @@ EXカラー衣装が　かくとくできます
 [common_widget/dialog_125] どうぐ交換　イベント
 [common_widget/dialog_126] どうぐ交換　マンスリー
 [common_widget/dialog_127] どうぐ交換　バトルpt
+[common_widget/dialog_129] 「強者への挑戦」
+が解放されました
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -48397,7 +49430,7 @@ Lv.MAX
 [common_widget/filter_033] 3個
 [common_widget/filter_034] バディーズ
 [common_widget/filter_035] チームスキル
-[common_widget/filter_036] 覚えているわざ
+[common_widget/filter_036] 覚えている行動
 [common_widget/filter_037] 地方
 [common_widget/filter_038] 分類
 [common_widget/filter_039] ファッション
@@ -48455,6 +49488,7 @@ Lv.MAX
 [common_widget/filter_092] 状態変化
 [common_widget/filter_093] 場の効果
 [common_widget/filter_094] その他
+[common_widget/filter_099] 特別な行動
 [common_widget/filter_100] タグ
 [common_widget/filter_101] 編成中バディーズと一致
 [common_widget/filter_102] スキル解放
@@ -48600,6 +49634,14 @@ HARDクリアで解放
 解放されます
 [common_widget/release_021] 「[Name:QuestTitle ]」
 クリアで解放
+[common_widget/release_023] 「謎の石」獲得で解放されます
+
+「謎の石」は
+「毎日挑戦　地方バトル！」などで
+獲得可能です
+[common_widget/release_024] いずれかの地方の
+チャンピオンバトル「HARD Lv.1」を
+クリアすると解放されます
 [common_widget/egg_hatched_cutin_001] おや？
 [common_widget/egg_hatched_cutin_002] タマゴが　かえって
 [Name:PokemonName ]が　うまれた！
@@ -49000,6 +50042,8 @@ EX컬러 의상을 획득할 수 있습니다
 [common_widget/dialog_125] 도구 교환 이벤트
 [common_widget/dialog_126] 도구 교환 월간
 [common_widget/dialog_127] 도구 교환 배틀pt
+[common_widget/dialog_129] "강자에게 도전"이
+해방되었습니다
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -49155,7 +50199,7 @@ Lv.MAX
 [common_widget/filter_033] 3개
 [common_widget/filter_034] 버디즈
 [common_widget/filter_035] 팀스킬
-[common_widget/filter_036] 기억하고 있는 기술
+[common_widget/filter_036] 기억하고 있는 행동
 [common_widget/filter_037] 지방
 [common_widget/filter_038] 분류
 [common_widget/filter_039] 패션
@@ -49213,6 +50257,7 @@ Lv.MAX
 [common_widget/filter_092] 상태 변화
 [common_widget/filter_093] 필드 효과
 [common_widget/filter_094] 기타
+[common_widget/filter_099] 특별한 행동
 [common_widget/filter_100] 태그
 [common_widget/filter_101] 편성 중인 버디즈와 일치
 [common_widget/filter_102] 스킬 해방
@@ -49355,6 +50400,14 @@ Lv.MAX
 알을 부화시키면 해방됩니다
 [common_widget/release_021] "[Name:QuestTitle ]"[Kor:Particle char="wo" ]
 클리어하여 해방
+[common_widget/release_023] "수수께끼의 돌"을 획득하면 해방됩니다
+
+"수수께끼의 돌"은
+"매일 도전 지방 배틀!" 등에서
+획득할 수 있습니다
+[common_widget/release_024] 어느 한 지방의
+챔피언배틀 "HARD Lv.1"을
+클리어하면 해방됩니다
 [common_widget/egg_hatched_cutin_001] 어라?
 [common_widget/egg_hatched_cutin_002] 알이 부화해서
 [Name:PokemonName ][Kor:Particle char="ga" ] 태어났다!
@@ -49735,6 +50788,8 @@ common_widget_zh-TW.lsd
 [common_widget/dialog_125] 交換道具：活動
 [common_widget/dialog_126] 交換道具：每月
 [common_widget/dialog_127] 交換道具：對戰點數
+[common_widget/dialog_129] 「向高手挑戰」
+已開放
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -49885,7 +50940,7 @@ Lv.MAX
 [common_widget/filter_033] 3個
 [common_widget/filter_034] 拍組
 [common_widget/filter_035] 隊伍技能
-[common_widget/filter_036] 已學會的招式
+[common_widget/filter_036] 已學會的行動
 [common_widget/filter_037] 地區
 [common_widget/filter_038] 分類
 [common_widget/filter_039] 服裝
@@ -49943,6 +50998,7 @@ Lv.MAX
 [common_widget/filter_092] 狀態變化
 [common_widget/filter_093] 場地效果
 [common_widget/filter_094] 其他
+[common_widget/filter_099] 特別的行動
 [common_widget/filter_100] 標籤
 [common_widget/filter_101] 和編制中的拍組一致
 [common_widget/filter_102] 開放技能
@@ -50070,6 +51126,12 @@ EX服裝！
 給的蛋之後將會開放
 [common_widget/release_021] 開放條件：
 成功過關「[Name:QuestTitle ]」
+[common_widget/release_023] 獲得「神秘石」即可開放
+
+「神秘石」可在
+「每日挑戰：地區對戰！」等處獲得
+[common_widget/release_024] 成功過關任一地區的
+冠軍對戰「HARD Lv.1」即可開放
 [common_widget/egg_hatched_cutin_001] ……咦？
 [common_widget/egg_hatched_cutin_002] 蛋孵化成[Name:PokemonName ]了！
 [common_widget/egg_detail_001] 請輸入暱稱
@@ -52456,6 +53518,8 @@ home_de.lsd
 [home/quest_list_title_010] Kampfvilla
 (Multi)
 [home/quest_list_title_011] Champkampf
+[home/quest_list_title_012] Nebengebiet
+[home/quest_list_title_013] Fordere starke Trainer heraus!
 [home/quest_list_series_001] WPM-Handlungsbogen
 [home/quest_list_series_002] Schurkenteam
 [home/quest_list_series_003] In dieser Geschichte verbündest du dich mit anderen Gefährten
@@ -52470,6 +53534,7 @@ in Kapitel 1 der Hauptgeschichte freigeschaltet.
 [home/quest_list_series_008] In dieser Geschichte kannst du dir Gefährtengespanne mit
 Legendären Pokémon in dein Team holen.
 [home/quest_list_series_009] Legenden-Abenteuer
+[home/quest_list_series_010] Steine der Mysterien
 [home/quest_list_013] Erf.
 [home/quest_list_017] Gemeinsam spielen
 [home/quest_list_018] Mit zufälligen
@@ -52673,6 +53738,15 @@ des Schurkenteams [Digit:2digits ] Mal auf dem
 Schwierigkeitsgrad Normal abgeschlossen hast.
 [home/quest_list_175] Kampfpunkte-Bonus
 [home/quest_list_176] Event läuft!
+[home/quest_list_177] Wird freigeschaltet, wenn du eine
+bestimmte Anzahl des notwendigen
+Items erhalten hast.
+[home/quest_list_178] Diese Anzahl beinhaltet die bisher erhaltenen Items.
+[home/quest_list_180] Nebengebiet
+[home/quest_list_181] Gefährtenepisoden
+[home/quest_list_182] Fordere starke Trainer
+heraus!
+[home/quest_list_183] Ultimativ
 [home/quest_detail_003] Schwäche
 [home/quest_detail_005] Details
 [home/quest_detail_009] Teamauswahl
@@ -53638,6 +54712,8 @@ home_en.lsd
 [home/quest_list_title_010] Battle Villa
 (Co-op)
 [home/quest_list_title_011] Champion Stadium
+[home/quest_list_title_012] Side Area
+[home/quest_list_title_013] Challenge the Strong
 [home/quest_list_series_001] PML Arc
 [home/quest_list_series_002] Villain Arc
 [home/quest_list_series_003] Team up with other sync pairs and take on
@@ -53652,6 +54728,7 @@ The More the Merrier.
 [home/quest_list_series_008] A collection of stories in which you can team up with sync pairs
 that have Legendary Pokémon.
 [home/quest_list_series_009] Legendary Adventures
+[home/quest_list_series_010] Mysterious Stones Chapter
 [home/quest_list_013] XP
 [home/quest_list_017] Battle with other players!
 [home/quest_list_018] Quick
@@ -53845,6 +54922,12 @@ To unlock, collect more:
 the villain arc on Normal.
 [home/quest_list_175] BP Boost
 [home/quest_list_176] Event Under Way!
+[home/quest_list_177] Unlocks when a specific item is gathered in an amount that exceeds the designated number.
+[home/quest_list_178] This number includes the items obtained so far.
+[home/quest_list_180] Side Area
+[home/quest_list_181] Sync Pair Stories
+[home/quest_list_182] Challenge the Strong
+[home/quest_list_183] Ultimate
 [home/quest_detail_003] Weakness
 [home/quest_detail_005] Area Details
 [home/quest_detail_009] Preset Teams
@@ -54754,6 +55837,8 @@ home_es.lsd
 [home/quest_list_title_010] Residencia Batalla
 (multi)
 [home/quest_list_title_011] Combates de Campeones
+[home/quest_list_title_012] Otras áreas
+[home/quest_list_title_013] Desafíos imposibles
 [home/quest_list_series_001] Trama del WPM
 [home/quest_list_series_002] Trama equipo villano
 [home/quest_list_series_003] En esta historia, unirás fuerzas con diversos compis con el
@@ -54769,6 +55854,7 @@ principal.
 [home/quest_list_series_008] En esta historia, puedes formar equipo con parejas de compis
 compuestas por Pokémon legendarios.
 [home/quest_list_series_009] Trama Pokémon legendarios
+[home/quest_list_series_010] Trama Piedras Misteriosas
 [home/quest_list_013] Exp.
 [home/quest_list_017] Multijugador
 [home/quest_list_018] Partida rápida
@@ -54966,6 +56052,13 @@ capítulo[ES:Qty P="s" ] de la trama equipo villano en
 dificultad normal.
 [home/quest_list_175] Puntos de combate ↑
 [home/quest_list_176] ¡Evento en curso!
+[home/quest_list_177] Disponible tras reunir la cantidad
+especificada del objeto indicado.
+[home/quest_list_178] Nota: Se cuenta la cantidad que hayas obtenido en total.
+[home/quest_list_180] Otras áreas
+[home/quest_list_181] Episodios compi
+[home/quest_list_182] Desafíos imposibles
+[home/quest_list_183] Imposible
 [home/quest_detail_003] Debilidad
 [home/quest_detail_005] Detalles
 [home/quest_detail_009] Elegir equipo
@@ -55959,6 +57052,8 @@ principal (coop)
 [home/quest_list_title_010] Villa de
 Combat (coop)
 [home/quest_list_title_011] Combat de Maître
+[home/quest_list_title_012] Zone annexe
+[home/quest_list_title_013] Défi contre les plus grands
 [home/quest_list_series_001] Le WPM
 [home/quest_list_series_002] L'organisation maléfique
 [home/quest_list_series_003] Dans ce scénario, vous faites équipe avec divers Duos
@@ -55973,6 +57068,7 @@ dans le chapitre 1.
 [home/quest_list_series_008] Dans ce scénario, vous pouvez faire équipe avec des Duos
 qui comprennent un Pokémon légendaire.
 [home/quest_list_series_009] Les Pokémon légendaires
+[home/quest_list_series_010] Roches Mystérieuses
 [home/quest_list_013] Exp.
 [home/quest_list_017] Jeu en coop
 [home/quest_list_018] Connexion
@@ -56177,6 +57273,15 @@ chapitre[FR:Qty P="s" ] de « L'organisation maléfique »
 au niveau Normal.
 [home/quest_list_175] Boost Points de Combat
 [home/quest_list_176] Évènement en cours !
+[home/quest_list_177] Se débloque après avoir obtenu
+un objet spécifique plus d'un certain
+nombre de fois.
+[home/quest_list_178] Ce nombre inclut les objets déjà obtenus.
+[home/quest_list_180] Zone annexe
+[home/quest_list_181] Épisodes Duo
+[home/quest_list_182] Défi contre
+les plus grands
+[home/quest_list_183] Ultime
 [home/quest_detail_003] Faiblesse
 [home/quest_detail_005] Infos
 [home/quest_detail_009] Équipes
@@ -57248,6 +58353,8 @@ multigiocatore
 [home/quest_list_title_010] Residenza Lotta
 multigiocatore
 [home/quest_list_title_011] Lotte dei Campioni
+[home/quest_list_title_012] Aree aggiuntive
+[home/quest_list_title_013] Sfida l'asso
 [home/quest_list_series_001] Il WPM
 [home/quest_list_series_002] I gruppi malvagi
 [home/quest_list_series_003] Nel corso di questa storia potrai fare squadra con diverse Unità
@@ -57263,6 +58370,7 @@ rinsaldata" del capitolo 1 della storia.
 [home/quest_list_series_008] Questa parte della storia ti permette di fare squadra con Unità
 che comprendono dei Pokémon leggendari.
 [home/quest_list_series_009] I Pokémon leggendari
+[home/quest_list_series_010] Le Pietre misteriose
 [home/quest_list_013] ESP.
 [home/quest_list_017] Gioca in compagnia
 [home/quest_list_018] Giocatori a caso
@@ -57460,6 +58568,13 @@ Ti serve: [Name:Item ].
 di "I gruppi malvagi" in modalità normale.
 [home/quest_list_175] Bonus Punti Lotta
 [home/quest_list_176] Evento in corso!
+[home/quest_list_177] Si sblocca ottenendo la quantità
+specificata dello strumento indicato.
+[home/quest_list_178] Include la quantità di strumenti ottenuti finora.
+[home/quest_list_180] Aree aggiuntive
+[home/quest_list_181] Episodi Unità
+[home/quest_list_182] Sfida l'asso
+[home/quest_list_183] Supremo
 [home/quest_detail_003] Punti deboli
 [home/quest_detail_005] Info area
 [home/quest_detail_009] Scegli squadra
@@ -58491,6 +59606,8 @@ home_ja.lsd
 [home/quest_list_title_010] バトルヴィラ
 （マルチ）
 [home/quest_list_title_011] チャンピオンバトル
+[home/quest_list_title_012] サイドエリア
+[home/quest_list_title_013] 強者への挑戦
 [home/quest_list_series_001] WPM編
 [home/quest_list_series_002] 悪の組織編
 [home/quest_list_series_003] 様々なバディーズと　仲間になり　ワールドポケモンマスターズで
@@ -58506,6 +59623,7 @@ home_ja.lsd
 [home/quest_list_series_008] 伝説ポケモンバディーズを
 仲間にすることができる　ストーリーです
 [home/quest_list_series_009] 伝説ポケモン編
+[home/quest_list_series_010] 謎の石編
 [home/quest_list_013] EXP
 [home/quest_list_017] みんなで遊ぶ
 [home/quest_list_018] おまかせ
@@ -58701,6 +59819,13 @@ Lv.[Digit:2digits ]で解放
 [Digit:2digits ]種　全クリアすることで解放
 [home/quest_list_175] バトルポイントアップ
 [home/quest_list_176] イベント開催中
+[home/quest_list_177] 特定のどうぐの累計獲得数が
+指定数を超えると解放されます
+[home/quest_list_178] いままで獲得した数が対象です
+[home/quest_list_180] サイドエリア
+[home/quest_list_181] バディーズエピソード
+[home/quest_list_182] 強者への挑戦
+[home/quest_list_183] ULTIMATE
 [home/quest_detail_003] じゃくてんタイプ
 [home/quest_detail_005] エリア詳細
 [home/quest_detail_009] チーム選択
@@ -59346,7 +60471,7 @@ GRADE一覧に戻ります
 より高いポイントを目指して
 バトルに再挑戦しましょう
 
-よろしいでしょうか
+よろしいですか？
 [home/champion_battle_055] ※一度クリアしたバトルを再びクリアしても
 その週はもうクリア報酬は再獲得できません
 一度到達した累計ポイントを再び達成しても
@@ -59709,6 +60834,8 @@ home_ko.lsd
 [home/quest_list_title_010] 배틀빌라
 (멀티)
 [home/quest_list_title_011] 챔피언배틀
+[home/quest_list_title_012] 사이드 에리어
+[home/quest_list_title_013] 강자에게 도전
 [home/quest_list_series_001] WPM 편
 [home/quest_list_series_002] 악의 조직 편
 [home/quest_list_series_003] 다양한 버디즈와 동료가 되고 월드 포켓몬 마스터즈에서
@@ -59724,6 +60851,7 @@ home_ko.lsd
 [home/quest_list_series_008] 전설 포켓몬 버디즈를
 동료로 만들 수 있는 스토리입니다
 [home/quest_list_series_009] 전설 포켓몬 편
+[home/quest_list_series_010] 수수께끼의 돌 편
 [home/quest_list_013] EXP
 [home/quest_list_017] 함께 즐긴다
 [home/quest_list_018] 자동
@@ -59919,6 +61047,13 @@ Lv.[Digit:2digits ]에서 해방
 [Digit:2digits ] 종류 모두 클리어하면 해방
 [home/quest_list_175] 배틀포인트 업
 [home/quest_list_176] 이벤트 개최 중
+[home/quest_list_177] 특정 도구의 합계 획득 수가
+지정된 수를 넘으면 해방됩니다
+[home/quest_list_178] 지금까지 획득한 수가 대상입니다
+[home/quest_list_180] 사이드 에리어
+[home/quest_list_181] 버디즈 에피소드
+[home/quest_list_182] 강자에게 도전
+[home/quest_list_183] ULTIMATE
 [home/quest_detail_003] 약점타입
 [home/quest_detail_005] 에리어 상세
 [home/quest_detail_009] 팀 선택
@@ -60898,6 +62033,8 @@ home_zh-TW.lsd
 [home/quest_list_title_010] 對戰莊園
 （多隊模式）
 [home/quest_list_title_011] 冠軍對戰
+[home/quest_list_title_012] 旁支區域
+[home/quest_list_title_013] 向高手挑戰
 [home/quest_list_series_001] WPM篇
 [home/quest_list_series_002] 邪惡組織篇
 [home/quest_list_series_003] 這是一段與許多不同的拍組成為夥伴，
@@ -60912,6 +62049,7 @@ home_zh-TW.lsd
 [home/quest_list_series_008] 能和傳說的寶可夢的拍組
 成為夥伴的故事
 [home/quest_list_series_009] 傳說的寶可夢篇
+[home/quest_list_series_010] 神秘石篇
 [home/quest_list_013] EXP
 [home/quest_list_017] 多隊模式
 [home/quest_list_018] 隨機配對
@@ -61103,6 +62241,13 @@ home_zh-TW.lsd
 任[Digit:2digits ]篇的所有NORMAL後即可開放
 [home/quest_list_175] 對戰點數提升
 [home/quest_list_176] 活動現正舉辦中
+[home/quest_list_177] 特定道具的累計獲得數
+超過指定數量即可開放
+[home/quest_list_178] 對象為至今為止獲得的數量
+[home/quest_list_180] 旁支區域
+[home/quest_list_181] 拍組劇情
+[home/quest_list_182] 向高手挑戰
+[home/quest_list_183] ULTIMATE
 [home/quest_detail_003] 弱點屬性
 [home/quest_detail_005] 區域詳情
 [home/quest_detail_009] 選擇隊伍
@@ -62192,7 +63337,9 @@ einem Kauf lesen.
 [shop/shop_medal_069] Wird wöchentlich zurückgesetzt
 [shop/shop_medal_070] Wird täglich zurückgesetzt
 [shop/shop_medal_071] Manche Waren sind nur für limitierte Zeit erhältlich.
-[shop/shop_medal_073] Items (abgesehen von Juwelen), die das maximale Speicherlimit überschreiten, werden gelöscht.
+[shop/shop_medal_073] Die beim Einkauf erhaltenen Geschenke werden direkt in
+deinen Beutel übertragen. Ist dein Beutel voll, werden sie
+stattdessen in deine Geschenkbox übertragen.
 [shop/shop_medal_074] Kapitel-Set
 [shop/shop_medal_075] Du kannst bis zu 13 000 gekaufte Juwelen erhalten!
 [shop/shop_medal_076] Schaltet Spezial-Boni in der 
@@ -62267,6 +63414,9 @@ an deine Geschenkbox geschickt:
 [shop/shop_medal_106] Kampfpunkte-Bonusticket
 (Boni in Regionskämpfen × [Digit:2digits Idx="1" ] für [Digit:2digits ] [DE:Qty S="Tag" P="Tage" ])
 [shop/shop_medal_107] Derzeit ist es nicht möglich, Produkte zu kaufen. Bitte überprüfe die Einstellungen deiner Bildschirmzeit oder andere Einstellungen.
+[shop/shop_medal_108] Die beim Einkauf erhaltenen Geschenke werden direkt in
+deinen Beutel übertragen. Ist dein Beutel voll, werden
+sie stattdessen in deine Geschenkbox übertragen.
 [shop/shop_itemexchange_001] Item-Tausch
 [shop/shop_itemexchange_003] Tauschen
 [shop/shop_itemexchange_004] Tauschen
@@ -62799,6 +63949,19 @@ gespann
 kannst du ein Fokus-Gefährtengespann wählen!
 [shop/scout_216] Stufe [Digit:3digits ]: Du kannst aus den in dieser G-Suche
 verfügbaren 5★-Gefährtengespannen eines wählen!
+[shop/scout_218] Übertragene Punkte!
+[shop/scout_219] Deine Gefährtensuche-Punkte werden auf die nächste
+Gemischte Gefährtensuche übertragen, sobald diese
+Gefährtensuche vorbei ist.
+Du kannst nur Gefährten auswählen, die im Rahmen
+dieser Gefährtensuche angeboten werden.
+[shop/scout_220] Du kannst in der Gemischten Gefährtensuche neben Mix-Gefährten auch andere exklusive Gefährten erhalten.
+Mix-Gefährten sind Gefährten, die während der Gemischten Gefährtensuche erscheinen.
+Es besteht die Möglichkeit, dass Mix-Gefährten in Zukunft auch außerhalb der Gemischten Gefährtensuche erscheinen werden.
+[shop/scout_221] [Digit:2digits ]-mal pro Tag
+[shop/scout_222] Mix-Gefährten
+[shop/scout_223] Stufe [Digit:3digits ]: Du kannst ein spezielles Gefährtensucheticket
+erhalten!
 [shop/deck_item_sale_001] Ausrüstungstausch
 [shop/deck_item_sale_002] Ausrüstung
 [shop/deck_item_sale_003] Filter
@@ -63007,8 +64170,10 @@ been claimed:
 [shop/shop_medal_069] Resets weekly
 [shop/shop_medal_070] Resets daily
 [shop/shop_medal_071] Some event-related products are only available for a limited time.
-[shop/shop_medal_073] Items other than gems that exceed the maximum storage
-limit will be deleted.
+[shop/shop_medal_073] Presents received at the time of purchase will be sent
+directly to your Bag.
+If your Bag is full at the time of purchase, the presents
+will be sent to your Present Box.
 [shop/shop_medal_074] Story Bundle
 [shop/shop_medal_075] You can get up to 13,000 paid gems!
 [shop/shop_medal_076] Unlocks special completion rewards
@@ -63078,6 +64243,10 @@ will be ×[Digit:2digits Idx="1" ] for [Digit:2digits ] [EN:Qty S="day" P="days"
 (Rewards from region rotation
 battles will be ×[Digit:2digits Idx="1" ] for [Digit:2digits ] [EN:Qty S="day" P="days" ].)
 [shop/shop_medal_107] You can’t purchase any products at the moment. Please check your Screen Time settings or other settings.
+[shop/shop_medal_108] Presents received at the time of purchase will be sent
+directly to your Bag.
+If your Bag is full at the time of purchase, the presents
+will be sent to your Present Box.
 [shop/shop_itemexchange_001] Exchange Items
 [shop/shop_itemexchange_003] Exchanged
 [shop/shop_itemexchange_004] Exchange
@@ -63488,6 +64657,15 @@ sync pair
 [shop/scout_215] After using the sync pair scout,
 you can also choose a featured sync pair!
 [shop/scout_216] At Tier [Digit:3digits ], you can choose a 5★ sync pair from this sync pair scout!
+[shop/scout_218] Carried-over points!
+[shop/scout_219] When this sync pair scout ends, the scout points will be carried over to the next mix scout.
+You can only choose from sync pairs that are being offered through this sync pair scout.
+[shop/scout_220] You may get exclusive sync pairs other than mix sync pairs from the mix scout.
+Mix sync pairs are sync pairs that appear during the mix-exclusive scout.
+Mix sync pairs may appear outside of mix-exclusive scouts in the future.
+[shop/scout_221] [Digit:2digits ] time(s) per day
+[shop/scout_222] Mix Sync Pairs
+[shop/scout_223] At Tier [Digit:3digits ], you can get a special sync pair scout ticket!
 [shop/deck_item_sale_001] Exchange Gear
 [shop/deck_item_sale_002] Gear
 [shop/deck_item_sale_003] Filter
@@ -63694,8 +64872,9 @@ disponibles.
 [shop/shop_medal_069] Estos lotes de joyas se restablecen cada semana.
 [shop/shop_medal_070] Estos lotes de joyas se restablecen a diario.
 [shop/shop_medal_071] ¡Estos lotes de joyas limitados cambian según los eventos activos!
-[shop/shop_medal_073] Aviso: Los objetos por encima del límite (excepto las joyas)
-se eliminarán.
+[shop/shop_medal_073] Aviso: Los regalos que obtengas de esta compra se
+enviarán directamente a la Bolsa. Si está llena en el
+momento de la compra, se enviarán a la caja de regalos.
 [shop/shop_medal_074] Lote historia principal
 [shop/shop_medal_075] ¡Puedes obtener hasta 13 000 joyas de pago!
 [shop/shop_medal_076] Lote especial que permite obtener ciertos
@@ -63755,6 +64934,9 @@ regiones ×[Digit:2digits Idx="1" ] durante [Digit:2digits ] día[ES:Qty P="s" ]
 [shop/shop_medal_107] No puedes comprar ningún producto
 ahora mismo. Revisa tus ajustes de
 Tiempo de uso u otros ajustes.
+[shop/shop_medal_108] Aviso: Los regalos que obtengas de esta compra se
+enviarán directamente a la Bolsa. Si está llena en el
+momento de la compra, se enviarán a la caja de regalos.
 [shop/shop_itemexchange_001] Canjear objetos
 [shop/shop_itemexchange_003] Canjear
 [shop/shop_itemexchange_004] Canjear
@@ -64118,6 +65300,16 @@ destacada!
 [shop/scout_215] ¡Tras realizar el reclutamiento, puedes recibir
 una pareja de compis destacada a tu elección!
 [shop/scout_216] Fase [Digit:3digits ]: Pareja de compis de 5★ a tu elección.
+[shop/scout_218] Ptos. transferibles
+[shop/scout_219] Nota: Cuando termine el período de este evento
+de reclutamiento, tus puntos de reclutamiento se
+transferirán al siguiente reclutamiento popurrí.
+Solo podrás elegir a parejas de compis que entren
+dentro de este reclutamiento específico.
+[shop/scout_220] En el reclutamiento popurrí, es posible obtener compis exclusivos que no sean compis de popurrí. Los compis de popurrí son parejas de compis que aparecen durante un tiempo limitado en este reclutamiento popurrí, aunque es posible que vuelvan a aparecer en un futuro fuera de un reclutamiento popurrí.
+[shop/scout_221] Límite: [Digit:2digits ]/día
+[shop/scout_222] Compis de popurrí
+[shop/scout_223] Fase [Digit:3digits ]: Billete especial para reclutar compis.
 [shop/deck_item_sale_001] Canjear accesorios
 [shop/deck_item_sale_002] Accesorios
 [shop/deck_item_sale_003] Filtrar
@@ -64321,8 +65513,9 @@ les Diamants suivants :
 [shop/shop_medal_069] Se réinitialise chaque semaine.
 [shop/shop_medal_070] Se réinitialise chaque jour.
 [shop/shop_medal_071] Les produits liés aux évènements ont une disponibilité limitée.
-[shop/shop_medal_073] À l'exception des Diamants, tout objet dont la quantité
-dépasse la limite de stockage sera supprimé.
+[shop/shop_medal_073] Les cadeaux obtenus à l'achat seront envoyés
+directement dans votre sac. Si votre sac est plein,
+ils seront envoyés dans le menu « Cadeaux ».
 [shop/shop_medal_074] Pack Scénario Principal
 [shop/shop_medal_075] Vous pouvez obtenir jusqu'à 13 000 Diamants payants !
 [shop/shop_medal_076] Permet de débloquer les récompenses (complétion) du scénario principal !
@@ -64399,6 +65592,9 @@ Duo-Sphères pendant [Digit:2digits ] [FR:Qty Ref="1" S="jour" P="jours" ])
 (récompenses × [Digit:2digits Idx="1" ] dans les combats
 régionaux pendant [Digit:2digits ] [FR:Qty Ref="1" S="jour" P="jours" ])
 [shop/shop_medal_107] Vous ne pouvez actuellement pas effectuer d'achats. Veuillez vous reporter aux fonctionnalités telles que le Temps d'écran, dans les Réglages.
+[shop/shop_medal_108] Les cadeaux obtenus à l'achat seront envoyés
+directement dans votre sac. Si votre sac est plein,
+ils seront envoyés dans le menu « Cadeaux ».
 [shop/shop_itemexchange_001] Échange d'objets
 [shop/shop_itemexchange_003] Échange
 [shop/shop_itemexchange_004] Échanger
@@ -64787,6 +65983,19 @@ un Duo
 après avoir passé cet Appel Duo !
 [shop/scout_216] Au palier [Digit:3digits ], vous pourrez choisir un Duo 5★
 parmi cet Appel Duo !
+[shop/scout_218] Points
+transférés
+[shop/scout_219] À la fin de l'Appel Duo extra en cours, les points
+d'Appel Duo seront transférés vers le prochain
+Appel Duo extra. Vous ne pourrez choisir que
+parmi les Duos de ce nouvel Appel Duo extra.
+[shop/scout_220] Il est possible que vous obteniez des Duos exclusifs autres que des Duos extras de l'Appel Duo extra.
+Les Duos extras sont des Duos apparaissant durant l'Appel Duo extra.
+À l'avenir, les Duos extras pourront aussi apparaître en dehors d'Appels Duo extras.
+[shop/scout_221] [Digit:2digits ] fois par jour
+[shop/scout_222] Duos extras
+[shop/scout_223] Au palier [Digit:3digits ], vous pourrez recevoir
+un Bon Appel Duo spécial !
 [shop/deck_item_sale_001] Échanger équipement
 [shop/deck_item_sale_002] Équipement
 [shop/deck_item_sale_003] Filtrer
@@ -64997,8 +66206,10 @@ disponibili per l'acquisto.
 [shop/shop_medal_069] Ripristinati ogni settimana.
 [shop/shop_medal_070] Ripristinati ogni giorno.
 [shop/shop_medal_071] Alcune offerte per eventi sono disponibili per un periodo limitato.
-[shop/shop_medal_073] Gli strumenti (salvo le gemme) che superano il limite
-massimo verranno eliminati.
+[shop/shop_medal_073] I regali ricevibili al momento dell'acquisto saranno inviati
+direttamente alla Borsa.
+Se al momento dell'acquisto la Borsa è piena, saranno
+inviati ai Regali.
 [shop/shop_medal_074] Pacchetto storia
 [shop/shop_medal_075] Puoi ottenere fino a 13.000 gemme a pagamento!
 [shop/shop_medal_076] Permette di sbloccare le ricompense
@@ -65066,6 +66277,10 @@ nelle aree Uniciondoli per
 ×[Digit:2digits Idx="1" ] nelle lotte regionali per
 [Digit:2digits ] [IT:Qty S="giorno" P="giorni" ].)
 [shop/shop_medal_107] Al momento non è possibile acquistare alcun prodotto. Si prega di controllare le impostazioni in "Tempo di utilizzo" o le altre impostazioni.
+[shop/shop_medal_108] I regali ricevibili al momento dell'acquisto saranno inviati
+direttamente alla Borsa.
+Se al momento dell'acquisto la Borsa è piena, saranno
+inviati ai Regali.
 [shop/shop_itemexchange_001] Scambio strumenti
 [shop/shop_itemexchange_003] Scambiati
 [shop/shop_itemexchange_004] Scambia
@@ -65521,6 +66736,21 @@ in evidenza
 puoi scegliere un'Unità in evidenza!
 [shop/scout_216] Al gradino [Digit:3digits ] potrai scegliere un'Unità 5★ tra quelle
 disponibili in questa ricerca Unità!
+[shop/scout_218] Punti trasferiti!
+[shop/scout_219] Al termine di questa ricerca Unità, i Punti Unicerca
+verranno trasferiti alla successiva ricerca Unità mix.
+Puoi scegliere solo tra le Unità disponibili per questa
+ricerca Unità.
+[shop/scout_220] Nelle ricerche Unità mix, è possibile ottenere anche Unità
+esclusive che non sono Unità mix.
+Le Unità mix sono Unità che compariranno durante questa
+ricerca Unità mix.
+È possibile che compaiano anche al di fuori di ricerche Unità
+mix in futuro.
+[shop/scout_221] [Digit:2digits ] al giorno
+[shop/scout_222] Unità mix
+[shop/scout_223] Al gradino [Digit:3digits ], riceverai un ticket speciale
+per una ricerca Unità!
 [shop/deck_item_sale_001] Scambio accessori
 [shop/deck_item_sale_002] Accessori
 [shop/deck_item_sale_003] Filtra
@@ -65732,7 +66962,9 @@ ONにしてください
 [shop/shop_medal_069] 週ごとに回数が更新されます
 [shop/shop_medal_070] 日ごとに回数が更新されます
 [shop/shop_medal_071] イベント等に合わせて販売される期間限定の商品も要チェック！
-[shop/shop_medal_073] ※ダイヤ以外の所持上限を超えたどうぐは破棄されます
+[shop/shop_medal_073] ※購入時に受け取ったプレゼントは直接バッグに送られます
+※受け取り時にバッグがいっぱいの場合は
+プレゼントボックスに送られます
 [shop/shop_medal_074] ストーリーパック
 [shop/shop_medal_075] 有償ダイヤが合計13000個獲得可能！
 [shop/shop_medal_076] スペシャルクリア報酬（メインストーリー）の
@@ -65812,6 +67044,9 @@ SP報酬が解放されるおとくなパック！
 （地方バトルでの獲得量が[Digit:2digits ]日間[Digit:2digits Idx="1" ]倍）
 [shop/shop_medal_107] 現在商品を購入できない状態になっています
 スクリーンタイム等の設定をご確認ください
+[shop/shop_medal_108] ※購入時に受け取ったプレゼントは直接バッグに送られます
+※受け取り時にバッグがいっぱいの場合は
+プレゼントボックスに送られます
 [shop/shop_itemexchange_001] どうぐ交換
 [shop/shop_itemexchange_003] 交換
 [shop/shop_itemexchange_004] 交換
@@ -66254,6 +67489,18 @@ EXカラーがありません
 [shop/scout_215] バディーズサーチ実行後
 ピックアップバディーズをさらに1組選んで獲得！
 [shop/scout_216] STEP[Digit:3digits ]はこのバディーズサーチ内の★5バディーズから選べる！
+[shop/scout_218] pt引き継ぎ!
+[shop/scout_219] ※このバディーズサーチの開催期間終了後
+バディーズサーチポイントは次回開催される
+ミックスバディーズサーチに引き継がれます
+※選べるバディーズはこのバディーズサーチで
+提供されるバディーズのみです
+[shop/scout_220] ※ミックスバディーズサーチからは、ミックス限定バディーズ以外の限定バディーズが出現する場合があります。
+※ミックス限定バディーズとはこのミックス限定バディーズサーチの期間中に出現するバディーズです。
+※ミックス限定バディーズは今後ミックス限定バディーズサーチ以外でも出現する可能性があります。
+[shop/scout_221] 1日[Digit:2digits ]回限定
+[shop/scout_222] ミックス限定バディーズ
+[shop/scout_223] STEP[Digit:3digits ]では特別なバディーズサーチチケットがもらえる！
 [shop/deck_item_sale_001] 装備売却
 [shop/deck_item_sale_002] 装備
 [shop/deck_item_sale_003] フィルター
@@ -66461,7 +67708,9 @@ ON으로 바꿔주십시오
 [shop/shop_medal_069] 매주 횟수가 갱신됩니다
 [shop/shop_medal_070] 매일 횟수가 갱신됩니다
 [shop/shop_medal_071] 이벤트 등에 맞춰 판매되는 기간 한정 상품도 체크해보자!
-[shop/shop_medal_073] ※다이아 이외에 보유 상한을 넘은 도구는 파기됩니다
+[shop/shop_medal_073] ※구입 시에 받는 선물은 직접 가방으로 전송됩니다
+※받을 때 가방이 가득 찬 경우에는
+프레젠트박스에서 받을 수 있습니다
 [shop/shop_medal_074] 스토리 팩
 [shop/shop_medal_075] 유료 다이아를 합계 13,000개 획득 가능!
 [shop/shop_medal_076] 스페셜 클리어 보상 메인 스토리의
@@ -66536,6 +67785,9 @@ SP 보상이 해방되는 유용한 팩!
 (지방 배틀에서 획득량이 [Digit:2digits ]일간 [Digit:2digits Idx="1" ]배)
 [shop/shop_medal_107] 현재 상품을 구입할 수 없는 상태입니다
 스크린 타임 등의 설정을 확인해 주십시오
+[shop/shop_medal_108] ※구입 시에 받는 선물은 직접 가방으로 전송됩니다
+※받을 때 가방이 가득 찬 경우에는
+프레젠트박스에서 받을 수 있습니다
 [shop/shop_itemexchange_001] 도구 교환
 [shop/shop_itemexchange_003] 교환
 [shop/shop_itemexchange_004] 교환
@@ -67012,6 +68264,18 @@ EX컬러가 없습니다
 [shop/scout_215] 버디즈서치 실행 후
 픽업 버디즈를 추가로 하나 선택해서 획득!
 [shop/scout_216] STEP[Digit:3digits ]에서는 이 버디즈서치 내의 ★5 버디즈에서 선택 가능!
+[shop/scout_218] pt 이어받기!
+[shop/scout_219] ※이 버디즈서치의 개최 기간이 종료된 후
+버디즈서치 포인트는 다음에 개최되는
+믹스 버디즈서치로 이어집니다
+※선택할 수 있는 버디즈는 해당 버디즈서치에서
+제공하는 버디즈로 한정됩니다
+[shop/scout_220] ※믹스 버디즈서치에서는 믹스 한정 버디즈 이외의 한정 버디즈가 출현하는 경우가 있습니다.
+※믹스 한정 버디즈는 본 믹스 한정 버디즈서치 기간 중에 출현하는 버디즈를 말합니다.
+※믹스 한정 버디즈는 이후 믹스 한정 버디즈서치 이외에서도 출현할 가능성이 있습니다.
+[shop/scout_221] 1일 [Digit:2digits ]회 한정
+[shop/scout_222] 믹스 한정 버디즈
+[shop/scout_223] STEP[Digit:3digits ]에서는 특별한 버디즈서치 티켓을 받을 수 있다!
 [shop/deck_item_sale_001] 장비 판매
 [shop/deck_item_sale_002] 장비
 [shop/deck_item_sale_003] 필터
@@ -67207,7 +68471,8 @@ shop_zh-TW.lsd
 [shop/shop_medal_069] 次數會每週更新
 [shop/shop_medal_070] 次數會每天更新
 [shop/shop_medal_071] 不要忘了確認配合活動等販賣的期間限定商品！
-[shop/shop_medal_073] ※除鑽石以外，其他超過持有上限的道具將會作廢
+[shop/shop_medal_073] ※購買時領取的禮物將會直接送到包包
+※領取時包包已滿的話，禮物會被送到禮物箱中
 [shop/shop_medal_074] 劇情包
 [shop/shop_medal_075] 可獲得總計13000個付費鑽石！
 [shop/shop_medal_076] 可開放特別過關報酬（主線劇情）裡的
@@ -67285,6 +68550,8 @@ shop_zh-TW.lsd
 [Digit:2digits ]天內會變為[Digit:2digits Idx="1" ]倍）
 [shop/shop_medal_107] 目前無法購買商品
 請確認螢幕使用時間等設定
+[shop/shop_medal_108] ※購買時領取的禮物將會直接送到包包
+※領取時包包已滿的話，禮物會被送到禮物箱中
 [shop/shop_itemexchange_001] 交換道具
 [shop/shop_itemexchange_003] 交換
 [shop/shop_itemexchange_004] 交換
@@ -67685,6 +68952,18 @@ shop_zh-TW.lsd
 [shop/scout_215] 進行拍組搜尋後
 可另外自選１對精選拍組來獲得！
 [shop/scout_216] STEP[Digit:3digits ]可從本次拍組搜尋出現的★5拍組中自選拍組！
+[shop/scout_218] 轉移點數！
+[shop/scout_219] ※在此拍組搜尋的舉辦期間結束後
+拍組搜尋點數會轉移至
+下次舉辦的繽紛拍組搜尋
+※能夠選擇的拍組僅限於
+此拍組搜尋提供的拍組
+[shop/scout_220] ※繽紛拍組搜尋中有可能會出現繽紛限定拍組以外的限定拍組
+※繽紛限定拍組是會在繽紛限定拍組搜尋期間出現的拍組
+※繽紛限定拍組今後也有可能在非繽紛限定拍組搜尋以外出現
+[shop/scout_221] １天僅限[Digit:2digits ]次
+[shop/scout_222] 繽紛限定拍組
+[shop/scout_223] 在STEP[Digit:3digits ]中可獲得特別的拍組搜尋券！
 [shop/deck_item_sale_001] 出售裝備
 [shop/deck_item_sale_002] 裝備
 [shop/deck_item_sale_003] 篩選
