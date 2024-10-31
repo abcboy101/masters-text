@@ -5876,6 +5876,96 @@ Freundschaft
 [quest_title_1030220196100000] Ein Tag mit MaMo-Flordelis
 [quest_title_1030220178000000] Ein Tag mit Anabel
 [quest_title_1030220220000000] Ein Tag mit Matière
+[quest_group_title_10245900000] Mary (Neo-Champ)
+[quest_group_title_10244900000] Hop (Neo-Champ)
+[quest_group_title_10246900000] Betys (Neo-Champ)
+[quest_group_title_10282000000] Ballduin
+[quest_title_1030502000601010] Der unbesiegbare Champ
+[quest_title_1030502000601020] Herausforderer, tretet an!
+[quest_title_1030502000601060] Vs. Ass-Trainer 1
+[quest_title_1030502000601030] Ein ungleiches Trio
+[quest_title_1030502000601070] Vs. Ass-Trainer 2
+[quest_title_1030502000601040] Der zweite Neo-Champkampf
+[quest_title_1030502000601080] Vs. Ass-Trainer 3
+[quest_title_1030502000601050] Wie man einen Champ
+besiegt
+[quest_title_1030502000601090] Vs. Ass-Trainer 4
+[quest_title_1030502000601100] Täglicher schwerer Kampf
+[quest_title_1030502000601110] Herausforderungskampf 1
+[quest_title_1030502000601120] Herausforderungskampf 2
+[quest_title_1030502000602010] Stelle dich Nio! 1
+[quest_title_1030502000602020] Stelle dich Nio! 2
+[quest_title_1030502000602030] Stelle dich Nezz! 1
+[quest_title_1030502000602040] Stelle dich Nezz! 2
+[quest_title_1030502000602050] Stelle dich Saida! 1
+[quest_title_1030502000602060] Stelle dich Saida! 2
+[quest_title_1030502000603010] Der allerbeste Kampf!
+[quest_title_1030502000603020] Stelle dich Neo-Champ
+Mary! 1
+[quest_title_1030502000603030] Stelle dich Neo-Champ
+Mary! 2
+[quest_title_1030502000603040] Stelle dich Neo-Champ
+Hop! 1
+[quest_title_1030502000603050] Stelle dich Neo-Champ
+Hop! 2
+[quest_title_1030502000603060] Stelle dich Neo-Champ
+Betys! 1
+[quest_title_1030502000603070] Stelle dich Neo-Champ
+Betys! 2
+[quest_title_1030411000701011] Vs. Terrakium 1
+[quest_title_1030411010701021] Vs. Terrakium 2
+[quest_title_1030411020701031] Vs. Terrakium 3
+[quest_title_1030502000604010] Roys Ziel
+[quest_title_1030502000604030] Vs. Roy 1
+[quest_title_1030502000604040] Vs. Roy 2
+[quest_title_1030502000604050] Vs. Roy 3
+[quest_title_1030502000604060] Vs. Roy 4
+[quest_title_1030502000604070] Täglicher schwerer Kampf
+[quest_title_1030502000604020] Schnappschuss einer
+lebenden Legende
+[quest_title_1030502000604080] Bewunderung vs. Rivalität
+[quest_title_1030502000605010] Ball-dige Ankunft
+[quest_title_1030502000605020] Es geht rund auf Passio
+[quest_title_1030502000605070] Vs. Elio 1
+[quest_title_1030502000605030] Der Ball kommt ins Rollen
+[quest_title_1030502000605080] Vs. Elio 2
+[quest_title_1030502000605040] Ballduin ist geschnappt!
+[quest_title_1030502000605090] Vs. Elio 3
+[quest_title_1030502000605050] Das offizielle Maskottchen
+[quest_title_1030502000605100] Vs. Elio 4
+[quest_title_1030502000605110] Täglicher schwerer Kampf
+[quest_title_1030502000605120] Herausforderungskampf 1
+[quest_title_1030502000605130] Herausforderungskampf 2
+[quest_title_1030502000605060] Mein Geheimversteck
+[quest_title_1030450200101010] Vs. Ballduin 1
+[quest_title_1030450200102010] Vs. Ballduin 2
+[quest_title_1030450200103010] Vs. Ballduin 3
+[quest_title_1030450200104010] Vs. Ballduin 4
+[quest_title_1030450200201010] Des einen Gift,
+des anderen Gold 1
+[quest_title_1030450200202010] Des einen Gift,
+des anderen Gold 2
+[quest_title_1030450200203010] Des einen Gift,
+des anderen Gold 3
+[quest_title_1030450200204010] Des einen Gift,
+des anderen Gold 4
+[quest_title_1030450200205010] Täglicher Bonus-Kampf
+[quest_title_1030450200601010] Training mit Ballduin
+[quest_title_1030220245900000] Ein Tag mit Mary
+[quest_title_1030220244900000] Ein Tag mit Hop
+[quest_title_1030220246900000] Ein Tag mit Betys
+[quest_title_1030220282000000] Ein Tag mit Ballduin
+[quest_title_1040002430001011] Ein besonderer Tag mit
+Gloria (Teil 1)
+[quest_title_1040002430001021] Ein besonderer Tag mit
+Gloria (Teil 2)
+[quest_title_1030502000606010] Chrys und Marlon
+[quest_title_1030502000611010] Vs. Magma Rüpel 1
+[quest_title_1030502000611020] Vs. Magma Rüpel 2
+[quest_title_1030502000611030] Vs. Magma Rüpel 3
+[quest_title_1030502000613010] Vs. Aqua Rüpel 1
+[quest_title_1030502000613020] Vs. Aqua Rüpel 2
+[quest_title_1030502000613030] Vs. Aqua Rüpel 3
 
 ===========
 story_quest_name_en.lsd
@@ -8734,6 +8824,92 @@ Part 2
 [quest_title_1030220196100000] A Day with Sygna Suit Lysandre
 [quest_title_1030220178000000] A Day with Anabel
 [quest_title_1030220220000000] A Day with Emma
+[quest_group_title_10245900000] Marnie (Champion)
+[quest_group_title_10244900000] Hop (Champion)
+[quest_group_title_10246900000] Bede (Champion)
+[quest_group_title_10282000000] Ball Guy
+[quest_title_1030502000601010] The Unbeatable Champion
+[quest_title_1030502000601020] Challengers Assemble
+[quest_title_1030502000601060] Challenge the Ace Trainers: Part 1
+[quest_title_1030502000601030] Motley Trio, Champion Trio
+[quest_title_1030502000601070] Challenge the Ace Trainers: Part 2
+[quest_title_1030502000601040] The Second Neo Champion Stadium
+[quest_title_1030502000601080] Challenge the Ace Trainers: Part 3
+[quest_title_1030502000601050] How to Beat a Champion
+[quest_title_1030502000601090] Challenge the Ace Trainers: Part 4
+[quest_title_1030502000601100] Daily Extreme Battle 1
+[quest_title_1030502000601110] Battle Challenge! Round 1
+[quest_title_1030502000601120] Battle Challenge! Round 2
+[quest_title_1030502000602010] Take On Allister! Part 1
+[quest_title_1030502000602020] Take On Allister! Part 2
+[quest_title_1030502000602030] Take On Piers! Part 1
+[quest_title_1030502000602040] Take On Piers! Part 2
+[quest_title_1030502000602050] Take On Bea! Part 1
+[quest_title_1030502000602060] Take On Bea! Part 2
+[quest_title_1030502000603010] The Best Battle!
+[quest_title_1030502000603020] Challenge Champion Marnie:
+Part 1
+[quest_title_1030502000603030] Challenge Champion Marnie:
+Part 2
+[quest_title_1030502000603040] Challenge Champion Hop:
+Part 1
+[quest_title_1030502000603050] Challenge Champion Hop:
+Part 2
+[quest_title_1030502000603060] Challenge Champion Bede:
+Part 1
+[quest_title_1030502000603070] Challenge Champion Bede:
+Part 2
+[quest_title_1030411000701011] Terrakion’s Challenge: Part 1
+[quest_title_1030411010701021] Terrakion’s Challenge: Part 2
+[quest_title_1030411020701031] Terrakion’s Challenge: Part 3
+[quest_title_1030502000604010] Raihan’s Goal?
+[quest_title_1030502000604030] Challenge Raihan: Part 1
+[quest_title_1030502000604040] Challenge Raihan: Part 2
+[quest_title_1030502000604050] Challenge Raihan: Part 3
+[quest_title_1030502000604060] Challenge Raihan: Part 4
+[quest_title_1030502000604070] Daily Extreme Battle 1
+[quest_title_1030502000604020] Best Shot with the Living Legend
+[quest_title_1030502000604080] Admiration vs. Competition
+[quest_title_1030502000605010] A Welcoming Ball!
+[quest_title_1030502000605020] Unfavora-ball Conditions
+[quest_title_1030502000605070] Challenge Elio: Part 1
+[quest_title_1030502000605030] Ball Guy Goes Ball-istic
+[quest_title_1030502000605080] Challenge Elio: Part 2
+[quest_title_1030502000605040] Ball Guy, Caught!
+[quest_title_1030502000605090] Challenge Elio: Part 3
+[quest_title_1030502000605050] Official Mascot Aspirations
+[quest_title_1030502000605100] Challenge Elio: Part 4
+[quest_title_1030502000605110] Daily Extreme Battle 1
+[quest_title_1030502000605120] Battle Challenge! Round 1
+[quest_title_1030502000605130] Battle Challenge! Round 2
+[quest_title_1030502000605060] My Secret Hideout!
+[quest_title_1030450200101010] Battle Ball Guy! Part 1
+[quest_title_1030450200102010] Battle Ball Guy! Part 2
+[quest_title_1030450200103010] Battle Ball Guy! Part 3
+[quest_title_1030450200104010] Battle Ball Guy! Part 4
+[quest_title_1030450200201010] One Trainer’s Gear
+Is Another’s Poison: Part 1
+[quest_title_1030450200202010] One Trainer’s Gear
+Is Another’s Poison: Part 2
+[quest_title_1030450200203010] One Trainer’s Gear
+Is Another’s Poison: Part 3
+[quest_title_1030450200204010] One Trainer’s Gear
+Is Another’s Poison: Part 4
+[quest_title_1030450200205010] Daily Bonus Battle 1
+[quest_title_1030450200601010] Training with Ball Guy
+[quest_title_1030220245900000] A Day with Marnie
+[quest_title_1030220244900000] A Day with Hop
+[quest_title_1030220246900000] A Day with Bede
+[quest_title_1030220282000000] A Day with Ball Guy
+[quest_title_1040002430001011] A Special Day with Gloria: Part 1
+[quest_title_1040002430001021] A Special Day with Gloria: Part 2
+[quest_title_1030502000606010] Sophocles and Molayne
+[quest_title_1030502000611010] Challenge the Magma Grunts: Part 1
+[quest_title_1030502000611020] Challenge the Magma Grunts: Part 2
+[quest_title_1030502000611030] Challenge the Magma Grunts: Part 3
+[quest_title_1030502000613010] Challenge the Aqua Grunts: Part 1
+[quest_title_1030502000613020] Challenge the Aqua Grunts: Part 2
+[quest_title_1030502000613030] Challenge the Aqua Grunts: Part 3
 
 ===========
 story_quest_name_es.lsd
@@ -11853,6 +12029,97 @@ Día de la Amistad
 [quest_title_1030220196100000] Un día con Lysson (Traje S)
 [quest_title_1030220178000000] Un día con Destra
 [quest_title_1030220220000000] Un día con Matière
+[quest_group_title_10245900000] Roxy (Neocampeona)
+[quest_group_title_10244900000] Paul (Neocampeón)
+[quest_group_title_10246900000] Berto (Neocampeón)
+[quest_group_title_10282000000] Bolifacio
+[quest_title_1030502000601010] El Campeón imbatible
+[quest_title_1030502000601020] Llegan los pretendientes
+[quest_title_1030502000601060] VS. Entrenadores Guays
+[quest_title_1030502000601030] Trío dispar, trío Campeón
+[quest_title_1030502000601070] VS. Entrenadores Guays (2)
+[quest_title_1030502000601040] Segundo torneo de los
+Combates de Neocampeones
+[quest_title_1030502000601080] VS. Entrenadores Guays (3)
+[quest_title_1030502000601050] Como derrotar a un Campeón
+[quest_title_1030502000601090] VS. Entrenadores Guays (4)
+[quest_title_1030502000601100] ¡Un combate difícil al día!
+[quest_title_1030502000601110] ¡Un combate desafiante!
+[quest_title_1030502000601120] ¡Un combate desafiante! (2)
+[quest_title_1030502000602010] ¡Enfréntate a Alistair!
+[quest_title_1030502000602020] ¡Enfréntate a Alistair! (2)
+[quest_title_1030502000602030] ¡Enfréntate a Nerio!
+[quest_title_1030502000602040] ¡Enfréntate a Nerio! (2)
+[quest_title_1030502000602050] ¡Enfréntate a Judith!
+[quest_title_1030502000602060] ¡Enfréntate a Judith! (2)
+[quest_title_1030502000603010] ¡El combate que hará furor
+en todo el mundo!
+[quest_title_1030502000603020] ¡Enfréntate a la Neocampeona
+Roxy!
+[quest_title_1030502000603030] ¡Enfréntate a la Neocampeona
+Roxy! (2)
+[quest_title_1030502000603040] ¡Enfréntate al Neocampeón
+Paul!
+[quest_title_1030502000603050] ¡Enfréntate al Neocampeón
+Paul! (2)
+[quest_title_1030502000603060] ¡Enfréntate al Neocampeón
+Berto!
+[quest_title_1030502000603070] ¡Enfréntate al Neocampeón
+Berto! (2)
+[quest_title_1030411000701011] VS. Terrakion
+[quest_title_1030411010701021] VS. Terrakion (2)
+[quest_title_1030411020701031] VS. Terrakion (3)
+[quest_title_1030502000604010] El objetivo de Roy
+[quest_title_1030502000604030] VS. Roy
+[quest_title_1030502000604040] VS. Roy (2)
+[quest_title_1030502000604050] VS. Roy (3)
+[quest_title_1030502000604060] VS. Roy (4)
+[quest_title_1030502000604070] ¡Un combate difícil al día!
+[quest_title_1030502000604020] Un selfi de leyenda
+[quest_title_1030502000604080] Admiración o rivalidad
+[quest_title_1030502000605010] Rodando hasta Passio
+[quest_title_1030502000605020] No damos pie con bola
+[quest_title_1030502000605070] VS. Elio
+[quest_title_1030502000605030] ¿Se le ha ido la pelota?
+[quest_title_1030502000605080] VS. Elio (2)
+[quest_title_1030502000605040] ¡Bolifacio, estás rodeado!
+[quest_title_1030502000605090] VS. Elio (3)
+[quest_title_1030502000605050] Quería ser mascota oficial...
+[quest_title_1030502000605100] VS. Elio (4)
+[quest_title_1030502000605110] ¡Un combate difícil al día!
+[quest_title_1030502000605120] ¡Un combate desafiante!
+[quest_title_1030502000605130] ¡Un combate desafiante! (2)
+[quest_title_1030502000605060] ¡Mi cubil esferil!
+[quest_title_1030450200101010] VS. Bolifacio
+[quest_title_1030450200102010] VS. Bolifacio (2)
+[quest_title_1030450200103010] VS. Bolifacio (3)
+[quest_title_1030450200104010] VS. Bolifacio (4)
+[quest_title_1030450200201010] Dame Veneno, que me
+quiero accesorizar
+[quest_title_1030450200202010] Dame Veneno, que me
+quiero accesorizar (2)
+[quest_title_1030450200203010] Dame Veneno, que me
+quiero accesorizar (3)
+[quest_title_1030450200204010] Dame Veneno, que me
+quiero accesorizar (4)
+[quest_title_1030450200205010] ¡Un combate extra al día!
+[quest_title_1030450200601010] Entrenamiento con Bolifacio
+[quest_title_1030220245900000] Un día con Roxy
+[quest_title_1030220244900000] Un día con Paul
+[quest_title_1030220246900000] Un día con Berto
+[quest_title_1030220282000000] Un día con Bolifacio
+[quest_title_1040002430001011] Un día especial con Gloria
+[quest_title_1040002430001021] Un día especial con Gloria (2)
+[quest_title_1030502000606010] Chris y Lario
+[quest_title_1030502000611010] VS. Reclutas del Equipo
+Magma
+[quest_title_1030502000611020] VS. Reclutas del Equipo
+Magma (2)
+[quest_title_1030502000611030] VS. Reclutas del Equipo
+Magma (3)
+[quest_title_1030502000613010] VS. Reclutas del Equipo Aqua
+[quest_title_1030502000613020] VS. Reclutas del Equipo Aqua (2)
+[quest_title_1030502000613030] VS. Reclutas del Equipo Aqua (3)
 
 ===========
 story_quest_name_fr.lsd
@@ -15054,7 +15321,7 @@ avec Inezia II
 [quest_title_1030110000520100] Une raison de devenir
 plus fort
 [quest_title_1030411000601000] Un adversaire de taille
-[quest_title_1030411000601010] Le Néo-Combat de Maître
+[quest_title_1030411000601010] Le Combat de Néo-Maître
 [quest_title_1030411000601060] Combat : Jasmine
 [quest_title_1030411000601020] Esprit combatif enfoui
 [quest_title_1030411000601070] Combat : Jasmine II
@@ -15263,6 +15530,107 @@ Sbires Team Flare III
 (Look Ultime)
 [quest_title_1030220178000000] Une journée avec Cathy
 [quest_title_1030220220000000] Une journée avec Millie
+[quest_group_title_10245900000] Rosemary (Néo-Maître)
+[quest_group_title_10244900000] Nabil (Néo-Maître)
+[quest_group_title_10246900000] Travis (Néo-Maître)
+[quest_group_title_10282000000] Ball Masqué
+[quest_title_1030502000601010] L'imbattable Maître
+[quest_title_1030502000601020] Le rassemblement
+des challengers
+[quest_title_1030502000601060] Combat : Topdresseurs
+[quest_title_1030502000601030] Trio différent, trio gagnant
+[quest_title_1030502000601070] Combat : Topdresseurs II
+[quest_title_1030502000601040] Le 2e Combat de Néo-Maître
+[quest_title_1030502000601080] Combat : Topdresseurs III
+[quest_title_1030502000601050] Comment vaincre des Maîtres
+[quest_title_1030502000601090] Combat : Topdresseurs IV
+[quest_title_1030502000601100] Combat difficile limité
+à une fois par jour !
+[quest_title_1030502000601110] Combat difficile
+[quest_title_1030502000601120] Combat difficile II
+[quest_title_1030502000602010] Combat corsé : Alistair
+[quest_title_1030502000602020] Combat corsé : Alistair II
+[quest_title_1030502000602030] Combat corsé : Peterson
+[quest_title_1030502000602040] Combat corsé : Peterson II
+[quest_title_1030502000602050] Combat corsé : Faïza
+[quest_title_1030502000602060] Combat corsé : Faïza II
+[quest_title_1030502000603010] Un combat épique !
+[quest_title_1030502000603020] Défi corsé :
+Rosemary (Néo-Maître)
+[quest_title_1030502000603030] Défi corsé :
+Rosemary (Néo-Maître) II
+[quest_title_1030502000603040] Défi corsé :
+Nabil (Néo-Maître)
+[quest_title_1030502000603050] Défi corsé :
+Nabil (Néo-Maître) II
+[quest_title_1030502000603060] Défi corsé :
+Travis (Néo-Maître)
+[quest_title_1030502000603070] Défi corsé :
+Travis (Néo-Maître) II
+[quest_title_1030411000701011] Combat : Terrakium
+[quest_title_1030411010701021] Combat : Terrakium II
+[quest_title_1030411020701031] Combat : Terrakium III
+[quest_title_1030502000604010] Le but de Roy
+[quest_title_1030502000604030] Combat : Roy
+[quest_title_1030502000604040] Combat : Roy II
+[quest_title_1030502000604050] Combat : Roy III
+[quest_title_1030502000604060] Combat : Roy IV
+[quest_title_1030502000604070] Combat difficile limité
+à une fois par jour !
+[quest_title_1030502000604020] Une photo avec la légende vivante
+[quest_title_1030502000604080] Admiration et compétition
+[quest_title_1030502000605010] Bienvenue, Ball Masqué !
+[quest_title_1030502000605020] Pas de Ball à Passio... ?
+[quest_title_1030502000605070] Combat : Elio
+[quest_title_1030502000605030] Le Ball Masqué perd la boule
+[quest_title_1030502000605080] Combat : Elio II
+[quest_title_1030502000605040] Le Ball Masqué attrapé !
+[quest_title_1030502000605090] Combat : Elio III
+[quest_title_1030502000605050] Rêves de mascotte officielle
+[quest_title_1030502000605100] Combat : Elio IV
+[quest_title_1030502000605110] Combat difficile limité
+à une fois par jour !
+[quest_title_1030502000605120] Combat difficile
+[quest_title_1030502000605130] Combat difficile II
+[quest_title_1030502000605060] Mon repaire secret !
+[quest_title_1030450200101010] Combat contre
+le Ball Masqué !
+[quest_title_1030450200102010] Combat contre
+le Ball Masqué ! II
+[quest_title_1030450200103010] Combat contre
+le Ball Masqué ! III
+[quest_title_1030450200104010] Combat contre
+le Ball Masqué ! IV
+[quest_title_1030450200201010] L'équipement d'un Dresseur
+est le poison d'un autre
+[quest_title_1030450200202010] L'équipement d'un Dresseur
+est le poison d'un autre II
+[quest_title_1030450200203010] L'équipement d'un Dresseur
+est le poison d'un autre III
+[quest_title_1030450200204010] L'équipement d'un Dresseur
+est le poison d'un autre IV
+[quest_title_1030450200205010] Combat bonus limité
+à une fois par jour !
+[quest_title_1030450200601010] Entraînement avec le Ball Masqué
+[quest_title_1030220245900000] Une journée avec Rosemary
+[quest_title_1030220244900000] Une journée avec Nabil
+[quest_title_1030220246900000] Une journée avec Travis
+[quest_title_1030220282000000] Une journée avec le Ball Masqué
+[quest_title_1040002430001011] Une journée spéciale
+avec Gloria
+[quest_title_1040002430001021] Une journée spéciale
+avec Gloria II
+[quest_title_1030502000606010] Chrys et Molène
+[quest_title_1030502000611010] Combat : Sbires Team Magma
+[quest_title_1030502000611020] Combat :
+Sbires Team Magma II
+[quest_title_1030502000611030] Combat :
+Sbires Team Magma III
+[quest_title_1030502000613010] Combat : Sbires Team Aqua
+[quest_title_1030502000613020] Combat :
+Sbires Team Aqua II
+[quest_title_1030502000613030] Combat :
+Sbires Team Aqua III
 
 ===========
 story_quest_name_it.lsd
@@ -18069,6 +18437,82 @@ story_quest_name_it.lsd
 [quest_title_1030220196100000] Un giorno con Elisio Costumax
 [quest_title_1030220178000000] Un giorno con Alberta
 [quest_title_1030220220000000] Un giorno con Matière
+[quest_group_title_10245900000] Mary (Campionessa)
+[quest_group_title_10244900000] Hop (Campione)
+[quest_group_title_10246900000] Beet (Campione)
+[quest_group_title_10282000000] Ballino
+[quest_title_1030502000601010] Invincibile Campione e giudice
+[quest_title_1030502000601020] Si formano le squadre
+[quest_title_1030502000601060] VS Fantallenatori
+[quest_title_1030502000601030] Un trio eterogeneo e un trio di Campioni
+[quest_title_1030502000601070] VS Fantallenatori 2
+[quest_title_1030502000601040] La seconda Lotta dei Nuovi Campioni
+[quest_title_1030502000601080] VS Fantallenatori 3
+[quest_title_1030502000601050] Come battere i Campioni
+[quest_title_1030502000601090] VS Fantallenatori 4
+[quest_title_1030502000601100] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030502000601110] Sfida ad alta difficoltà
+[quest_title_1030502000601120] Sfida ad alta difficoltà 2
+[quest_title_1030502000602010] Sfida un avversario potente: Onion
+[quest_title_1030502000602020] Sfida un avversario potente: Onion 2
+[quest_title_1030502000602030] Sfida un avversario potente: Ginepro
+[quest_title_1030502000602040] Sfida un avversario potente: Ginepro 2
+[quest_title_1030502000602050] Sfida un avversario potente: Fabia
+[quest_title_1030502000602060] Sfida un avversario potente: Fabia 2
+[quest_title_1030502000603010] Uno scontro epico!
+[quest_title_1030502000603020] Sfida la Campionessa: Mary
+[quest_title_1030502000603030] Sfida la Campionessa: Mary 2
+[quest_title_1030502000603040] Sfida il Campione: Hop
+[quest_title_1030502000603050] Sfida il Campione: Hop 2
+[quest_title_1030502000603060] Sfida il Campione: Beet
+[quest_title_1030502000603070] Sfida il Campione: Beet 2
+[quest_title_1030411000701011] VS Terrakion
+[quest_title_1030411010701021] VS Terrakion 2
+[quest_title_1030411020701031] VS Terrakion 3
+[quest_title_1030502000604010] L'obiettivo di Laburno
+[quest_title_1030502000604030] VS Laburno
+[quest_title_1030502000604040] VS Laburno 2
+[quest_title_1030502000604050] VS Laburno 3
+[quest_title_1030502000604060] VS Laburno 4
+[quest_title_1030502000604070] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030502000604020] Una foto con la leggenda vivente
+[quest_title_1030502000604080] Ammirazione e competizione
+[quest_title_1030502000605010] L'arrivo di un'affezionatissima mascotte
+[quest_title_1030502000605020] "Ball" utili a Pasio
+[quest_title_1030502000605070] VS Elio
+[quest_title_1030502000605030] Ballate! Ballate con Ballino!
+[quest_title_1030502000605080] VS Elio 2
+[quest_title_1030502000605040] L'ultima rotolata di Ballino...?
+[quest_title_1030502000605090] VS Elio 3
+[quest_title_1030502000605050] Diventerò una mascotte ufficiale!
+[quest_title_1030502000605100] VS Elio 4
+[quest_title_1030502000605110] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030502000605120] Sfida ad alta difficoltà
+[quest_title_1030502000605130] Sfida ad alta difficoltà 2
+[quest_title_1030502000605060] Benvenuti nel mio covo segreto!
+[quest_title_1030450200101010] Rotolotta con Ballino!
+[quest_title_1030450200102010] Rotolotta con Ballino! 2
+[quest_title_1030450200103010] Rotolotta con Ballino! 3
+[quest_title_1030450200104010] Rotolotta con Ballino! 4
+[quest_title_1030450200201010] Chi trova un accessorio Veleno trova un tesoro!
+[quest_title_1030450200202010] Chi trova un accessorio Veleno trova un tesoro! 2
+[quest_title_1030450200203010] Chi trova un accessorio Veleno trova un tesoro! 3
+[quest_title_1030450200204010] Chi trova un accessorio Veleno trova un tesoro! 4
+[quest_title_1030450200205010] Lotta bonus (una al giorno)!
+[quest_title_1030450200601010] Allenamento con Ballino
+[quest_title_1030220245900000] Un giorno con Mary (Campionessa)
+[quest_title_1030220244900000] Un giorno con Hop (Campione)
+[quest_title_1030220246900000] Un giorno con Beet (Campione)
+[quest_title_1030220282000000] Un giorno con Ballino
+[quest_title_1040002430001011] Un giorno speciale con Gloria (1ª parte)
+[quest_title_1040002430001021] Un giorno speciale con Gloria (2ª parte)
+[quest_title_1030502000606010] Chrys e Tapso
+[quest_title_1030502000611010] VS Reclute del Team Magma
+[quest_title_1030502000611020] VS Reclute del Team Magma 2
+[quest_title_1030502000611030] VS Reclute del Team Magma 3
+[quest_title_1030502000613010] VS Reclute del Team Idro
+[quest_title_1030502000613020] VS Reclute del Team Idro 2
+[quest_title_1030502000613030] VS Reclute del Team Idro 3
 
 ===========
 story_quest_name_ja.lsd
@@ -20940,6 +21384,85 @@ story_quest_name_ja.lsd
 [quest_title_1030220196100000] とある日のマジコスフラダリ
 [quest_title_1030220178000000] とある日のリラ
 [quest_title_1030220220000000] とある日のマチエール
+[quest_group_title_10245900000] マリィ
+（チャンピオン）
+[quest_group_title_10244900000] ホップ
+（チャンピオン）
+[quest_group_title_10246900000] ビート
+（チャンピオン）
+[quest_group_title_10282000000] ボールガイ
+[quest_title_1030502000601010] 無敵の王者が求める者
+[quest_title_1030502000601020] 集結する挑戦者たち
+[quest_title_1030502000601060] ＶＳ　エリートトレーナー
+[quest_title_1030502000601030] でこぼこトリオと王者たちの想い
+[quest_title_1030502000601070] ＶＳ　エリートトレーナー２
+[quest_title_1030502000601040] 第２回ネオ・チャンピオンバトル
+[quest_title_1030502000601080] ＶＳ　エリートトレーナー３
+[quest_title_1030502000601050] 王者たちを倒す一手
+[quest_title_1030502000601090] ＶＳ　エリートトレーナー４
+[quest_title_1030502000601100] １日１回限定・高難度バトル！
+[quest_title_1030502000601110] チャレンジバトルで勝負！
+[quest_title_1030502000601120] チャレンジバトルで勝負！２
+[quest_title_1030502000602010] 強敵に挑戦！　ＶＳ　オニオン
+[quest_title_1030502000602020] 強敵に挑戦！　ＶＳ　オニオン２
+[quest_title_1030502000602030] 強敵に挑戦！　ＶＳ　ネズ
+[quest_title_1030502000602040] 強敵に挑戦！　ＶＳ　ネズ２
+[quest_title_1030502000602050] 強敵に挑戦！　ＶＳ　サイトウ
+[quest_title_1030502000602060] 強敵に挑戦！　ＶＳ　サイトウ２
+[quest_title_1030502000603010] 極上の勝負を！
+[quest_title_1030502000603020] 挑戦！　チャンピオン　マリィ
+[quest_title_1030502000603030] 挑戦！　チャンピオン　マリィ２
+[quest_title_1030502000603040] 挑戦！　チャンピオン　ホップ
+[quest_title_1030502000603050] 挑戦！　チャンピオン　ホップ２
+[quest_title_1030502000603060] 挑戦！　チャンピオン　ビート
+[quest_title_1030502000603070] 挑戦！　チャンピオン　ビート２
+[quest_title_1030411000701011] ＶＳ　テラキオン
+[quest_title_1030411010701021] ＶＳ　テラキオン２
+[quest_title_1030411020701031] ＶＳ　テラキオン３
+[quest_title_1030502000604010] キバナの狙い……？
+[quest_title_1030502000604030] ＶＳ　キバナ
+[quest_title_1030502000604040] ＶＳ　キバナ２
+[quest_title_1030502000604050] ＶＳ　キバナ３
+[quest_title_1030502000604060] ＶＳ　キバナ４
+[quest_title_1030502000604070] １日１回限定・高難度バトル！
+[quest_title_1030502000604020] 生ける伝説とベストショット
+[quest_title_1030502000604080] 憧れと勝負は別問題！
+[quest_title_1030502000605010] やって来たボル！
+[quest_title_1030502000605020] パシオでも役立つ「ボール」
+[quest_title_1030502000605070] ＶＳ　ヨウ
+[quest_title_1030502000605030] ボールガイの反乱
+[quest_title_1030502000605080] ＶＳ　ヨウ２
+[quest_title_1030502000605040] ボールガイ　確保……！？
+[quest_title_1030502000605090] ＶＳ　ヨウ３
+[quest_title_1030502000605050] いつか公認マスコットに
+[quest_title_1030502000605100] ＶＳ　ヨウ４
+[quest_title_1030502000605110] １日１回限定・高難度バトル！
+[quest_title_1030502000605120] チャレンジバトルで勝負！
+[quest_title_1030502000605130] チャレンジバトルで勝負！２
+[quest_title_1030502000605060] ようこそ秘密のアジトへ……！
+[quest_title_1030450200101010] ボールガイと勝負だボル～！
+[quest_title_1030450200102010] ボールガイと勝負だボル～！２
+[quest_title_1030450200103010] ボールガイと勝負だボル～！３
+[quest_title_1030450200104010] ボールガイと勝負だボル～！４
+[quest_title_1030450200201010] どくを食らわば皿までボル！
+[quest_title_1030450200202010] どくを食らわば皿までボル！２
+[quest_title_1030450200203010] どくを食らわば皿までボル！３
+[quest_title_1030450200204010] どくを食らわば皿までボル！４
+[quest_title_1030450200205010] １日１回限定・ボーナスバトル！
+[quest_title_1030450200601010] ボールガイと鍛錬
+[quest_title_1030220245900000] とある日のマリィ
+[quest_title_1030220244900000] とある日のホップ
+[quest_title_1030220246900000] とある日のビート
+[quest_title_1030220282000000] とある日のボールガイ
+[quest_title_1040002430001011] ユウリとの特別な一日　前編
+[quest_title_1040002430001021] ユウリとの特別な一日　後編
+[quest_title_1030502000606010] マーマネとマーレインの困りごと
+[quest_title_1030502000611010] ＶＳ　マグマ団のしたっぱ
+[quest_title_1030502000611020] ＶＳ　マグマ団のしたっぱ２
+[quest_title_1030502000611030] ＶＳ　マグマ団のしたっぱ３
+[quest_title_1030502000613010] ＶＳ　アクア団のしたっぱ
+[quest_title_1030502000613020] ＶＳ　アクア団のしたっぱ２
+[quest_title_1030502000613030] ＶＳ　アクア団のしたっぱ３
 
 ===========
 story_quest_name_ko.lsd
@@ -23810,6 +24333,85 @@ story_quest_name_ko.lsd
 [quest_title_1030220196100000] 궁극코스 플라드리의 어느 날
 [quest_title_1030220178000000] 리라의 어느 날
 [quest_title_1030220220000000] 마티에르의 어느 날
+[quest_group_title_10245900000] 마리
+(챔피언)
+[quest_group_title_10244900000] 호브
+(챔피언)
+[quest_group_title_10246900000] 비트
+(챔피언)
+[quest_group_title_10282000000] 볼가이
+[quest_title_1030502000601010] 무적의 챔피언이 원하는 자
+[quest_title_1030502000601020] 집결하는 도전자들
+[quest_title_1030502000601060] VS 엘리트 트레이너
+[quest_title_1030502000601030] 티격태격 트리오와 챔피언 팀의 마음
+[quest_title_1030502000601070] VS 엘리트 트레이너2
+[quest_title_1030502000601040] 제2회 네오 챔피언배틀
+[quest_title_1030502000601080] VS 엘리트 트레이너3
+[quest_title_1030502000601050] 챔피언을 쓰러뜨리는 한 수
+[quest_title_1030502000601090] VS 엘리트 트레이너4
+[quest_title_1030502000601100] 1일 1회 한정 고난도 배틀!
+[quest_title_1030502000601110] 챌린지배틀로 승부!
+[quest_title_1030502000601120] 챌린지배틀로 승부!2
+[quest_title_1030502000602010] 강적에게 도전! VS 어니언
+[quest_title_1030502000602020] 강적에게 도전! VS 어니언2
+[quest_title_1030502000602030] 강적에게 도전! VS 두송
+[quest_title_1030502000602040] 강적에게 도전! VS 두송2
+[quest_title_1030502000602050] 강적에게 도전! VS 채두
+[quest_title_1030502000602060] 강적에게 도전! VS 채두2
+[quest_title_1030502000603010] 최고의 승부를!
+[quest_title_1030502000603020] 도전! 챔피언 마리
+[quest_title_1030502000603030] 도전! 챔피언 마리2
+[quest_title_1030502000603040] 도전! 챔피언 호브
+[quest_title_1030502000603050] 도전! 챔피언 호브2
+[quest_title_1030502000603060] 도전! 챔피언 비트
+[quest_title_1030502000603070] 도전! 챔피언 비트2
+[quest_title_1030411000701011] VS 테라키온
+[quest_title_1030411010701021] VS 테라키온2
+[quest_title_1030411020701031] VS 테라키온3
+[quest_title_1030502000604010] 금랑의 목적은...?
+[quest_title_1030502000604030] VS 금랑
+[quest_title_1030502000604040] VS 금랑2
+[quest_title_1030502000604050] VS 금랑3
+[quest_title_1030502000604060] VS 금랑4
+[quest_title_1030502000604070] 1일 1회 한정 고난도 배틀!
+[quest_title_1030502000604020] 살아있는 전설과 베스트 숏
+[quest_title_1030502000604080] 동경의 대상이어도 승부는 승부!
+[quest_title_1030502000605010] 내가 왔어볼!
+[quest_title_1030502000605020] 파시오에서도 도움이 되는 "볼"
+[quest_title_1030502000605070] VS 영태
+[quest_title_1030502000605030] 볼가이의 반란
+[quest_title_1030502000605080] VS 영태2
+[quest_title_1030502000605040] 볼가이 체포되다...?!
+[quest_title_1030502000605090] VS 영태3
+[quest_title_1030502000605050] 언젠가 되리라, 공식 마스코트!
+[quest_title_1030502000605100] VS 영태4
+[quest_title_1030502000605110] 1일 1회 한정 고난도 배틀!
+[quest_title_1030502000605120] 챌린지배틀로 승부!
+[quest_title_1030502000605130] 챌린지배틀로 승부!2
+[quest_title_1030502000605060] 비밀 아지트에 어서 오세요...!
+[quest_title_1030450200101010] 볼가이랑 승부다볼~!
+[quest_title_1030450200102010] 볼가이랑 승부다볼~!2
+[quest_title_1030450200103010] 볼가이랑 승부다볼~!3
+[quest_title_1030450200104010] 볼가이랑 승부다볼~!4
+[quest_title_1030450200201010] 독을 마셨다면 접시까지볼!
+[quest_title_1030450200202010] 독을 마셨다면 접시까지볼!2
+[quest_title_1030450200203010] 독을 마셨다면 접시까지볼!3
+[quest_title_1030450200204010] 독을 마셨다면 접시까지볼!4
+[quest_title_1030450200205010] 1일 1회 한정 보너스 배틀!
+[quest_title_1030450200601010] 볼가이와 단련
+[quest_title_1030220245900000] 마리의 어느 날
+[quest_title_1030220244900000] 호브의 어느 날
+[quest_title_1030220246900000] 비트의 어느 날
+[quest_title_1030220282000000] 볼가이의 어느 날
+[quest_title_1040002430001011] 우리와의 특별한 하루 전편
+[quest_title_1040002430001021] 우리와의 특별한 하루 후편
+[quest_title_1030502000606010] 마마네와 멀레인의 고민
+[quest_title_1030502000611010] VS 마그마단의 조무래기
+[quest_title_1030502000611020] VS 마그마단의 조무래기2
+[quest_title_1030502000611030] VS 마그마단의 조무래기3
+[quest_title_1030502000613010] VS 아쿠아단의 조무래기
+[quest_title_1030502000613020] VS 아쿠아단의 조무래기2
+[quest_title_1030502000613030] VS 아쿠아단의 조무래기3
 
 ===========
 story_quest_name_zh-TW.lsd
@@ -26680,6 +27282,85 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030220196100000] 某日的美極套裝弗拉達利
 [quest_title_1030220178000000] 某日的莉拉
 [quest_title_1030220220000000] 某日的瑪琪艾兒
+[quest_group_title_10245900000] 瑪俐
+（冠軍）
+[quest_group_title_10244900000] 赫普
+（冠軍）
+[quest_group_title_10246900000] 彼特
+（冠軍）
+[quest_group_title_10282000000] 阿球
+[quest_title_1030502000601010] 合乎無敵王者標準之人
+[quest_title_1030502000601020] 齊聚一堂的挑戰者們
+[quest_title_1030502000601060] ＶＳ　精英訓練家
+[quest_title_1030502000601030] 不協調的三人組與王者們的心意
+[quest_title_1030502000601070] ＶＳ　精英訓練家２
+[quest_title_1030502000601040] 第２屆新・冠軍對戰
+[quest_title_1030502000601080] ＶＳ　精英訓練家３
+[quest_title_1030502000601050] 打倒王者們的一招
+[quest_title_1030502000601090] ＶＳ　精英訓練家４
+[quest_title_1030502000601100] １天僅限１次的高難度對戰！
+[quest_title_1030502000601110] 用挑戰對戰決勝負！
+[quest_title_1030502000601120] 用挑戰對戰決勝負！２
+[quest_title_1030502000602010] 挑戰強敵！　ＶＳ　歐尼奧
+[quest_title_1030502000602020] 挑戰強敵！　ＶＳ　歐尼奧２
+[quest_title_1030502000602030] 挑戰強敵！　ＶＳ　聶梓
+[quest_title_1030502000602040] 挑戰強敵！　ＶＳ　聶梓２
+[quest_title_1030502000602050] 挑戰強敵！　ＶＳ　彩豆
+[quest_title_1030502000602060] 挑戰強敵！　ＶＳ　彩豆２
+[quest_title_1030502000603010] 來場頂級的對戰！
+[quest_title_1030502000603020] 挑戰！　冠軍瑪俐
+[quest_title_1030502000603030] 挑戰！　冠軍瑪俐２
+[quest_title_1030502000603040] 挑戰！　冠軍赫普
+[quest_title_1030502000603050] 挑戰！　冠軍赫普２
+[quest_title_1030502000603060] 挑戰！　冠軍彼特
+[quest_title_1030502000603070] 挑戰！　冠軍彼特２
+[quest_title_1030411000701011] ＶＳ　代拉基翁
+[quest_title_1030411010701021] ＶＳ　代拉基翁２
+[quest_title_1030411020701031] ＶＳ　代拉基翁３
+[quest_title_1030502000604010] 奇巴納的目的……？
+[quest_title_1030502000604030] ＶＳ　奇巴納
+[quest_title_1030502000604040] ＶＳ　奇巴納２
+[quest_title_1030502000604050] ＶＳ　奇巴納３
+[quest_title_1030502000604060] ＶＳ　奇巴納４
+[quest_title_1030502000604070] １天僅限１次的高難度對戰！
+[quest_title_1030502000604020] 與活生生的傳奇的精彩瞬間
+[quest_title_1030502000604080] 崇拜與對戰是兩回事！
+[quest_title_1030502000605010] 我來了，啊球！
+[quest_title_1030502000605020] 在帕希歐也能派上用場的「球」
+[quest_title_1030502000605070] ＶＳ　小陽
+[quest_title_1030502000605030] 阿球的叛亂
+[quest_title_1030502000605080] ＶＳ　小陽２
+[quest_title_1030502000605040] 逮捕阿球……！？
+[quest_title_1030502000605090] ＶＳ　小陽３
+[quest_title_1030502000605050] 總有一天會成為官方吉祥物
+[quest_title_1030502000605100] ＶＳ　小陽４
+[quest_title_1030502000605110] １天僅限１次的高難度對戰！
+[quest_title_1030502000605120] 用挑戰對戰決勝負！
+[quest_title_1030502000605130] 用挑戰對戰決勝負！２
+[quest_title_1030502000605060] 歡迎來到秘密基地……！
+[quest_title_1030450200101010] 和阿球對戰啊球～！
+[quest_title_1030450200102010] 和阿球對戰啊球～！２
+[quest_title_1030450200103010] 和阿球對戰啊球～！３
+[quest_title_1030450200104010] 和阿球對戰啊球～！４
+[quest_title_1030450200201010] 要毒就要毒個徹底啊球！
+[quest_title_1030450200202010] 要毒就要毒個徹底啊球！２
+[quest_title_1030450200203010] 要毒就要毒個徹底啊球！３
+[quest_title_1030450200204010] 要毒就要毒個徹底啊球！４
+[quest_title_1030450200205010] １天僅限１次的獎勵對戰！
+[quest_title_1030450200601010] 與阿球一起鍛鍊
+[quest_title_1030220245900000] 某日的瑪俐
+[quest_title_1030220244900000] 某日的赫普
+[quest_title_1030220246900000] 某日的彼特
+[quest_title_1030220282000000] 某日的阿球
+[quest_title_1040002430001011] 與小優的特別日子　前篇
+[quest_title_1040002430001021] 與小優的特別日子　後篇
+[quest_title_1030502000606010] 需要幫忙的馬瑪內與馬睿因
+[quest_title_1030502000611010] ＶＳ　熔岩隊手下
+[quest_title_1030502000611020] ＶＳ　熔岩隊手下２
+[quest_title_1030502000611030] ＶＳ　熔岩隊手下３
+[quest_title_1030502000613010] ＶＳ　海洋隊手下
+[quest_title_1030502000613020] ＶＳ　海洋隊手下２
+[quest_title_1030502000613030] ＶＳ　海洋隊手下３
 
 ===========
 trainer_description_de.lsd
@@ -27640,6 +28321,22 @@ sondern ihr Freund.
 [10148000002] Dieser Arenaleiter kämpft mit Pokémon vom Typ Geist und
 kann durch sein geheimes Training in der Arena von Teak
 City sehen, was normalen Menschen verborgen bleibt.
+[10245900000] Mary trägt ein Outfit, das ihrem neu gewonnenen Titel
+als Passios Neo-Champ würdig ist. Ihren brennenden
+Kampfgeist teilt sie mit ihrem Galar-Lavados.
+[10244900000] Hop trägt ein Outfit, das seinem neu gewonnenen Titel
+als Passios Neo-Champ würdig ist. Zusammen mit seinem
+Galar-Zapdos ist er auf der Überholspur in die Zukunft.
+[10246900000] Betys trägt ein Outfit, das seinem neu gewonnenen Titel
+als Passios Neo-Champ würdig ist. Zusammen mit seinem
+Galar-Arktos spielt er mit jenen, die ihn herausfordern.
+[10282000000] Diese Person unbekannten Alters und Geschlechts träumt
+als Pokéball-Enthusiast davon, das offizielle Maskottchen
+der Pokémon-Liga der Galar-Region zu werden.
+[10243000001] Gloria ist abenteuerlustig und lässt sich auf jede
+Herausforderung ein. Sie ist ein wenig frech und liebt
+es, draußen in der Natur zu sein. Für Curry begeistert sie
+sich genauso sehr wie für Pokémon-Kämpfe.
 
 ===========
 trainer_description_en.lsd
@@ -28500,6 +29197,21 @@ partner Pokémon.
 [10148000002] This Ghost-type Gym Leader has secretly trained at the
 Ecruteak City Gym his entire life. As a result, he can now
 see what others cannot.
+[10245900000] Marnie is dressed in an outfit honoring her earned title:
+Neo Champion of Pasio. Her fighting spirit burns alongside
+that of her Galarian Moltres.
+[10244900000] Hop is dressed in an outfit honoring his earned title:
+Neo Champion of Pasio. He’s sprinting toward the future
+together with his Galarian Zapdos.
+[10246900000] Bede is dressed in an outfit honoring his earned title:
+Neo Champion of Pasio. Together with his Galarian
+Articuno, he toys with those who challenge him.
+[10282000000] This Poké Ball enthusiast dreams of becoming the Galar
+Pokémon League’s official mascot. All are mystified when
+it comes to their true identity, age, or even gender.
+[10243000001] Gloria is full of courage and up for any challenge. She is
+slightly mischievous and enjoys playing outdoors, and she
+loves curry just as much as she does Pokémon battles.
 
 ===========
 trainer_description_es.lsd
@@ -29511,6 +30223,23 @@ Peluchín no es su compi Pokémon, sino su mejor amigo.
 [10148000002] Este líder especializado en tipo Fantasma ha entrenado
 muchas veces en secreto en el Gimnasio de Iris, por lo
 que ahora es capaz de ver lo que otros no pueden.
+[10245900000] Roxy vuelve vestida con un traje que hace honor a su
+recién adquirido título de Neocampeona de Passio. Su
+espíritu de lucha arde con la misma intensidad que el de
+su Moltres de Galar.
+[10244900000] Paul se viste con un traje digno de su recién adquirido
+título de Neocampeón de Passio. Corre hacia el futuro a
+la velocidad del rayo junto a su Zapdos de Galar.
+[10246900000] Berto se viste con un traje digno de su recién adquirido
+título de Neocampeón de Passio. Junto a su Articuno de
+Galar, le gusta jugar con la gente que osa desafiarle.
+[10282000000] Este entusiasta de las Poké Balls sueña con convertirse en
+la mascota oficial de la Liga Pokémon de Galar. Si bien se
+hace llamar Bolifacio, nadie sabe quién es realmente.
+[10243000001] Una chica valiente y, en ocasiones, un poco traviesa que
+se enfrenta a cualquier desafío que la vida le eche.
+Adora de igual forma disfrutar de la naturaleza, los
+combates Pokémon y el curri.
 
 ===========
 trainer_description_fr.lsd
@@ -30475,6 +31204,26 @@ est avant tout son ami, et non son partenaire Pokemon.
 temps à l'Arène de Rosalia à suivre son entraînement
 secret ! Il est ainsi capable de voir ce que les autres
 ne voient pas.
+[10245900000] Rosemary est vêtue d'une tenue spéciale en l'honneur
+de son titre bien mérité de Néo-Maître de Passio.
+Son esprit combatif brûle plus fort que jamais
+aux côtés de son Sulfura de Galar.
+[10244900000] Nabil est vêtu d'une tenue spéciale en l'honneur
+de son titre bien mérité de Néo-Maître de Passio.
+Il fonce vers l'avenir avec une passion débordante,
+son Électhor de Galar à ses côtés.
+[10246900000] Travis est vêtu d'une tenue en l'honneur
+de son titre bien mérité de Néo-Maître de Passio.
+Accompagné de son Artikodin de Galar, il se joue
+de ceux qui osent le défier.
+[10282000000] Ce fan de Poké Balls rêve de devenir la mascotte
+officielle de la Ligue Pokémon de Galar.
+Quant à l'identité de la personne qui se cache sous
+ce masque ou son âge... Mystère et Ball de gomme !
+[10243000001] Gloria est une Dresseuse pleine de courage qui relève
+sans hésitation tous les défis qui se présentent à elle.
+Un peu espiègle, elle adore passer du temps à l'extérieur,
+et aime autant les combats Pokémon que le curry.
 
 ===========
 trainer_description_it.lsd
@@ -31421,6 +32170,23 @@ Moko non è il suo compagno, bensì un caro amico.
 Grazie ai lunghi allenamenti segreti nella Palestra
 di Amarantopoli, riesce ora a vedere ciò che gli altri
 non vedono.
+[10245900000] Mary indossa un abito che celebra il suo meritato titolo:
+Nuova Campionessa di Pasio. Il suo spirito combattivo
+arde quanto quello del suo Moltres di Galar.
+[10244900000] Hop indossa un abito che celebra il suo meritato titolo:
+Nuovo Campione di Pasio. Saetta verso il futuro assieme
+al suo Zapdos di Galar.
+[10246900000] Beet indossa un abito che celebra il suo meritato titolo:
+Nuovo Campione di Pasio. Lui e il suo Articuno di Galar
+si prendono gioco di chi osa sfidarli.
+[10282000000] Questo misterioso appassionato di Poké Ball sogna
+di diventare la mascotte ufficiale della Lega Pokémon
+di Galar. Chi è? Quanti anni ha? È un uomo o
+una donna? Mistero.
+[10243000001] Una ragazza coraggiosa e sempre pronta ad accettare
+nuove sfide, ma a volte un po' dispettosa. Le piace stare
+in mezzo alla natura e ama il curry quasi quanto le lotte
+di Pokémon.
 
 ===========
 trainer_description_ja.lsd
@@ -32277,6 +33043,21 @@ trainer_description_ja.lsd
 [10148000002] ゴーストタイプの　ジムリーダー。
 エンジュジムで　秘密の　修行を　積み重ね
 人には　みえないものが　みえるようになった。
+[10245900000] パシオの　ネオ・チャンピオンとして　認められ
+名誉ある衣装に　身を包んだ　マリィ。
+ガラルのファイヤーと　共に　闘志を　燃やす。
+[10244900000] パシオの　ネオ・チャンピオンとして　認められ
+名誉ある衣装に　身を包んだ　ホップ。
+ガラルのサンダーと　共に　明日へと　駆ける。
+[10246900000] パシオの　ネオ・チャンピオンとして　認められ
+名誉ある衣装に　身を包んだ　ビート。
+ガラルのフリーザーと　共に　挑戦者を　翻弄する。
+[10282000000] ガラル地方で　活動している　謎のボールマニア。
+ポケモンリーグ公認マスコットになることが　夢だが
+性別は　もちろん　年齢も　謎に　包まれている。
+[10243000001] 度胸満点　どんなことにも　チャレンジする　女の子。
+ちょっぴり　わんぱくで　自然の中で遊ぶのが　好き。
+ポケモン勝負と　同じくらい　カレーが　大好き。
 
 ===========
 trainer_description_ko.lsd
@@ -33132,6 +33913,21 @@ WPM 운영위원회의 대표도 맡고 있다.
 [10148000002] 고스트타입의 체육관 관장.
 인주체육관에서 비밀스러운 수행을 거듭하여
 사람들에겐 보이지 않는 것을 볼 수 있게 되었다.
+[10245900000] 파시오의 네오 챔피언으로 인정받아
+명예로운 의상을 입은 마리.
+가라르지방의 파이어와 함께 투지를 불태운다.
+[10244900000] 파시오의 네오 챔피언으로 인정받아
+명예로운 의상을 입은 호브.
+가라르지방의 썬더와 함께 내일을 향해 달린다.
+[10246900000] 파시오의 네오 챔피언으로 인정받아
+명예로운 의상을 입은 비트.
+가라르지방의 프리져와 함께 도전자를 교란한다.
+[10282000000] 가라르지방에서 활동하고 있는 수수께끼의 볼마니아.
+포켓몬리그 공식 마스코트가 되는 게 꿈이지만
+성별은 물론 연령도 수수께끼에 쌓여있다.
+[10243000001] 배짱이 가득해 어떤 일이든 도전하는 트레이너.
+조금 장난기가 많으며 자연 속에서 노는 걸 좋아한다.
+포켓몬 승부만큼 카레를 좋아한다.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -33987,6 +34783,21 @@ trainer_description_zh-TW.lsd
 [10148000002] 幽靈屬性的道館館主。
 在緣朱道館中不斷持續秘密修行，
 令他能看見一般人看不見的東西。
+[10245900000] 瑪俐被認定成帕希歐新・冠軍
+並穿上了代表榮譽的服裝，
+與伽勒爾的火焰鳥一起燃燒鬥志。
+[10244900000] 赫普被認定成帕希歐新・冠軍
+並穿上了代表榮譽的服裝，
+與伽勒爾的閃電鳥一起奔向未來。
+[10246900000] 彼特被認定成帕希歐新・冠軍
+並穿上了代表榮譽的服裝，
+與伽勒爾的急凍鳥一起玩弄挑戰者。
+[10282000000] 在伽勒爾地區活動的神秘精靈球迷。
+夢想是成為寶可夢聯盟的官方吉祥物，
+但他的性別和年齡卻是謎團重重。
+[10243000001] 充滿膽識，凡事都勇於挑戰的女孩。
+她的個性有一點淘氣，喜歡在大自然中玩耍。
+對於咖哩與寶可夢對戰的熱愛程度不相上下。
 
 ===========
 trainer_name_de.lsd
@@ -34219,6 +35030,7 @@ trainer_name_de.lsd
 [ch0267] Finstrio
 [ch0608] Plasma Rüpel
 [ch0609] Plasma Rüpel
+[ch0282] Ballduin
 [ch0611] Flare Rüpel
 [ch0644] Flare Rüpel
 [ch0610] Kimono-Trägerin
@@ -34454,6 +35266,7 @@ trainer_name_en.lsd
 [ch0267] The Shadow Triad
 [ch0608] Team Plasma Grunt
 [ch0609] Team Plasma Grunt
+[ch0282] Ball Guy
 [ch0611] Team Flare Grunt
 [ch0644] Team Flare Grunt
 [ch0610] Furisode Girl
@@ -34689,6 +35502,7 @@ trainer_name_es.lsd
 [ch0267] Trío Sombrío
 [ch0608] Recluta del Equipo Plasma
 [ch0609] Recluta del Equipo Plasma
+[ch0282] Bolifacio
 [ch0611] Recluta del Team Flare
 [ch0644] Recluta del Team Flare
 [ch0610] Jovencita con Kimono
@@ -34924,6 +35738,7 @@ trainer_name_fr.lsd
 [ch0267] Le Trio des Ombres
 [ch0608] Sbire Team Plasma
 [ch0609] Sbire Team Plasma
+[ch0282] Ball Masqué
 [ch0611] Sbire Team Flare
 [ch0644] Sbire Team Flare
 [ch0610] Fille en Kimono
@@ -35159,6 +35974,7 @@ trainer_name_it.lsd
 [ch0267] Trio Oscuro
 [ch0608] Recluta del Team Plasma
 [ch0609] Recluta del Team Plasma
+[ch0282] Ballino
 [ch0611] Recluta del Team Flare
 [ch0644] Recluta del Team Flare
 [ch0610] Ragazza in kimono
@@ -35394,6 +36210,7 @@ trainer_name_ja.lsd
 [ch0267] ダークトリニティ
 [ch0608] プラズマだんの　したっぱ
 [ch0609] プラズマだんの　したっぱ
+[ch0282] ボールガイ
 [ch0611] フレアだんの　したっぱ
 [ch0644] フレアだんの　したっぱ
 [ch0610] ふりそで
@@ -35629,6 +36446,7 @@ trainer_name_ko.lsd
 [ch0267] 다크트리니티
 [ch0608] 플라스마단의 조무래기
 [ch0609] 플라스마단의 조무래기
+[ch0282] 볼가이
 [ch0611] 플레어단의 조무래기
 [ch0644] 플레어단의 조무래기
 [ch0610] 기모노드레스
@@ -35864,6 +36682,7 @@ trainer_name_zh-TW.lsd
 [ch0267] 黑暗鐵三角
 [ch0608] 等離子隊手下
 [ch0609] 等離子隊手下
+[ch0282] 阿球
 [ch0611] 閃焰隊手下
 [ch0644] 閃焰隊手下
 [ch0610] 長袖和服少女
@@ -36028,6 +36847,12 @@ trainer_verbose_name_de.lsd
 (Saison 2023)
 [10124400000] Maho 
 (Saison 2023)
+[10245900000] Mary 
+(Neo-Champ)
+[10244900000] Hop 
+(Neo-Champ)
+[10246900000] Betys 
+(Neo-Champ)
 
 ===========
 trainer_verbose_name_en.lsd
@@ -36198,6 +37023,12 @@ Lysandre
 (Palentine's 2023)
 [10124400000] Mallow 
 (Palentine's 2023)
+[10245900000] Marnie 
+(Champion)
+[10244900000] Hop 
+(Champion)
+[10246900000] Bede 
+(Champion)
 
 ===========
 trainer_verbose_name_es.lsd
@@ -36344,6 +37175,12 @@ con Kimono)
 (Temporada 23)
 [10124400000] Lulú 
 (Temporada 23)
+[10245900000] Roxy 
+(Neocampeona)
+[10244900000] Paul 
+(Neocampeón)
+[10246900000] Berto 
+(Neocampeón)
 
 ===========
 trainer_verbose_name_fr.lsd
@@ -36502,6 +37339,12 @@ trainer_verbose_name_fr.lsd
 (Saison 2023)
 [10124400000] Barbara 
 (Saison 2023)
+[10245900000] Rosemary 
+(Néo-Maître)
+[10244900000] Nabil 
+(Néo-Maître)
+[10246900000] Travis 
+(Néo-Maître)
 
 ===========
 trainer_verbose_name_it.lsd
@@ -36664,6 +37507,12 @@ trainer_verbose_name_it.lsd
 (feste 2023)
 [10124400000] Ibis 
 (feste 2023)
+[10245900000] Mary 
+(Campionessa) 
+[10244900000] Hop 
+(Campione)
+[10246900000] Beet 
+(Campione)
 
 ===========
 trainer_verbose_name_ja.lsd
@@ -36826,6 +37675,12 @@ trainer_verbose_name_ja.lsd
 （２３シーズン）
 [10124400000] マオ
 （２３シーズン）
+[10245900000] マリィ
+（チャンピオン）
+[10244900000] ホップ
+（チャンピオン）
+[10246900000] ビート
+（チャンピオン）
 
 ===========
 trainer_verbose_name_ko.lsd
@@ -36988,6 +37843,12 @@ trainer_verbose_name_ko.lsd
 (23시즌)
 [10124400000] 마오
 (23시즌)
+[10245900000] 마리
+(챔피언)
+[10244900000] 호브
+(챔피언)
+[10246900000] 비트
+(챔피언)
 
 ===========
 trainer_verbose_name_zh-TW.lsd
@@ -37150,6 +38011,12 @@ trainer_verbose_name_zh-TW.lsd
 （２０２３春季）
 [10124400000] 瑪奧
 （２０２３春季）
+[10245900000] 瑪俐
+（冠軍）
+[10244900000] 赫普
+（冠軍）
+[10246900000] 彼特
+（冠軍）
 
 ===========
 common_widget_de.lsd
@@ -37388,6 +38255,8 @@ indem du das folgende Item einsetzt:
 ins Pokémon-Center zurück.
 [common_widget/dialog_110] [Name:HeroCustomizeCategory ]: [Name:HeroCustomizeParts ]
 [common_widget/dialog_111] Du erhältst [Name:HeroCustomizeCategory ]: [Name:HeroCustomizeParts ]
+[common_widget/dialog_112] Du hast keine Items.
+[common_widget/dialog_113] Du hast keine entsprechenden Items.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -37562,6 +38431,13 @@ wurde zu einem
 [common_widget/filter_066] Erhalten
 [common_widget/filter_067] Nicht erhalten
 [common_widget/filter_068] Favorit
+[common_widget/filter_069] Herzsymbol (Favoriten)
+[common_widget/filter_070] Ausgewählt
+[common_widget/filter_071] Nicht ausgewählt
+[common_widget/filter_072] Genre
+[common_widget/filter_073] Trainer
+[common_widget/filter_074] Andere
+[common_widget/filter_075] Ladebildschirm-Einstellungen
 [common_widget/sort_001] ★-Zahl
 [common_widget/sort_002] Gefährtenattacke
 [common_widget/sort_003] KP
@@ -38072,6 +38948,8 @@ Returning to the Pokémon Center.
 [common_widget/dialog_110] [Name:HeroCustomizeCategory ]: [Name:HeroCustomizeParts ]
 [common_widget/dialog_111] Obtains the following:
  [Name:HeroCustomizeCategory ]: [Name:HeroCustomizeParts ]
+[common_widget/dialog_112] You don’t have any items.
+[common_widget/dialog_113] You don’t have any applicable items.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -38240,6 +39118,13 @@ into [Name:PokemonName ]!
 [common_widget/filter_066] Acquired
 [common_widget/filter_067] Not acquired
 [common_widget/filter_068] Favorite
+[common_widget/filter_069] Heart Icon (Favorite)
+[common_widget/filter_070] Set
+[common_widget/filter_071] Not Set
+[common_widget/filter_072] Genre
+[common_widget/filter_073] Trainer
+[common_widget/filter_074] Other
+[common_widget/filter_075] Loading Screen Settings
 [common_widget/sort_001] Number of ★s
 [common_widget/sort_002] Sync Move
 [common_widget/sort_003] HP
@@ -38732,6 +39617,8 @@ Regresando al Centro Pokémon.
 [common_widget/dialog_110] [Name:HeroCustomizeCategory ]: [Name:HeroCustomizeParts ]
 [common_widget/dialog_111] Obtienes lo siguiente:
 [Name:HeroCustomizeCategory ]: [Name:HeroCustomizeParts ]
+[common_widget/dialog_112] No tienes objetos.
+[common_widget/dialog_113] No se han encontrado objetos.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Nv.
 [common_widget/trainer_detail_004] MÁX.
@@ -38904,6 +39791,13 @@ evolución?
 [common_widget/filter_066] Obtenidos
 [common_widget/filter_067] No obtenidos
 [common_widget/filter_068] Favoritos
+[common_widget/filter_069] Icono de corazón (Favoritos)
+[common_widget/filter_070] Marcado
+[common_widget/filter_071] No marcado
+[common_widget/filter_072] Categoría
+[common_widget/filter_073] Entrenador
+[common_widget/filter_074] Otros
+[common_widget/filter_075] Ajustes de pantallas de carga
 [common_widget/sort_001] Número de ★
 [common_widget/sort_002] Movimiento compi
 [common_widget/sort_003] PS
@@ -39408,6 +40302,9 @@ Retour au Centre Pokémon.
 [common_widget/dialog_110] [Name:HeroCustomizeCategory ] : [Name:HeroCustomizeParts ]
 [common_widget/dialog_111] Vous obtenez
 [Name:HeroCustomizeCategory ] : [Name:HeroCustomizeParts ] !
+[common_widget/dialog_112] Aucun objet à afficher
+[common_widget/dialog_113] Aucun objet correspondant
+à ces filtres à afficher
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] N.
 [common_widget/trainer_detail_004] MAX
@@ -39582,6 +40479,13 @@ apprise
 [common_widget/filter_066] Obtenues
 [common_widget/filter_067] Non obtenues
 [common_widget/filter_068] Favorites
+[common_widget/filter_069] Icône de cœur (Duos favoris)
+[common_widget/filter_070] Désignés
+[common_widget/filter_071] Pas désignés
+[common_widget/filter_072] Genre
+[common_widget/filter_073] Dresseur
+[common_widget/filter_074] Autre
+[common_widget/filter_075] Paramètres de l'écran de chargement
 [common_widget/sort_001] Nombre d'★
 [common_widget/sort_002] Capacité Duo
 [common_widget/sort_003] PV
@@ -40092,6 +40996,8 @@ ottenibile solo in circostanze speciali.
 Ritorno al Centro Pokémon.
 [common_widget/dialog_110] [Name:HeroCustomizeParts ] ([Name:HeroCustomizeCategory ])
 [common_widget/dialog_111] Ottieni: [Name:HeroCustomizeParts ] ([Name:HeroCustomizeCategory ])
+[common_widget/dialog_112] Non hai strumenti.
+[common_widget/dialog_113] Nessuno strumento trovato.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] L.
 [common_widget/trainer_detail_004] MAX
@@ -40259,6 +41165,13 @@ dell'evoluzione?
 [common_widget/filter_066] Ottenute
 [common_widget/filter_067] Non ottenute
 [common_widget/filter_068] Preferite
+[common_widget/filter_069] Icona a cuore (preferiti)
+[common_widget/filter_070] Impostato
+[common_widget/filter_071] Non impostato
+[common_widget/filter_072] Tipologia
+[common_widget/filter_073] Allenatori
+[common_widget/filter_074] Altro
+[common_widget/filter_075] Schermata di caricamento
 [common_widget/sort_001] Numero di ★
 [common_widget/sort_002] Unimossa
 [common_widget/sort_003] PS
@@ -40760,6 +41673,8 @@ EXカラー衣装が　かくとくできます
 ポケモンセンターに戻ります
 [common_widget/dialog_110] [Name:HeroCustomizeCategory ]：[Name:HeroCustomizeParts ] 
 [common_widget/dialog_111] [Name:HeroCustomizeCategory ]：[Name:HeroCustomizeParts ] を獲得します
+[common_widget/dialog_112] どうぐを持っていません
+[common_widget/dialog_113] 該当するどうぐはありません
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -40926,6 +41841,13 @@ Lv.MAX
 [common_widget/filter_066] 獲得
 [common_widget/filter_067] 未獲得
 [common_widget/filter_068] お気に入り
+[common_widget/filter_069] ハートマーク（お気に入り）
+[common_widget/filter_070] 設定済
+[common_widget/filter_071] 未設定
+[common_widget/filter_072] ジャンル
+[common_widget/filter_073] トレーナー
+[common_widget/filter_074] その他
+[common_widget/filter_075] ロード画面設定
 [common_widget/sort_001] ★の数
 [common_widget/sort_002] バディーズわざ
 [common_widget/sort_003] HP
@@ -41437,6 +42359,8 @@ EX컬러 의상을 획득할 수 있습니다
 포켓몬센터로 돌아갑니다
 [common_widget/dialog_110] [Name:HeroCustomizeCategory ] : [Name:HeroCustomizeParts ]
 [common_widget/dialog_111] [Name:HeroCustomizeCategory ] : [Name:HeroCustomizeParts ][Kor:Particle char="wo" ] 획득합니다
+[common_widget/dialog_112] 도구를 가지고 있지 않습니다
+[common_widget/dialog_113] 해당하는 도구가 없습니다
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -41604,6 +42528,13 @@ Lv.MAX
 [common_widget/filter_066] 획득
 [common_widget/filter_067] 미획득
 [common_widget/filter_068] 즐겨찾기
+[common_widget/filter_069] 하트 마크(즐겨찾기)
+[common_widget/filter_070] 설정됨
+[common_widget/filter_071] 미설정
+[common_widget/filter_072] 장르
+[common_widget/filter_073] 트레이너
+[common_widget/filter_074] 기타
+[common_widget/filter_075] 로딩 화면 설정
 [common_widget/sort_001] ★의 수
 [common_widget/sort_002] 버디즈기술
 [common_widget/sort_003] HP
@@ -42092,6 +43023,8 @@ common_widget_zh-TW.lsd
 即將回到寶可夢中心
 [common_widget/dialog_110] [Name:HeroCustomizeCategory ]：[Name:HeroCustomizeParts ]
 [common_widget/dialog_111] 獲得[Name:HeroCustomizeCategory ]：[Name:HeroCustomizeParts ] 
+[common_widget/dialog_112] 未持有道具
+[common_widget/dialog_113] 沒有符合條件的道具
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -42254,6 +43187,13 @@ Lv.MAX
 [common_widget/filter_066] 獲得
 [common_widget/filter_067] 未獲得
 [common_widget/filter_068] 我的最愛
+[common_widget/filter_069] 心型記號（我的最愛）
+[common_widget/filter_070] 已設定
+[common_widget/filter_071] 未設定
+[common_widget/filter_072] 類型
+[common_widget/filter_073] 訓練家
+[common_widget/filter_074] 其他
+[common_widget/filter_075] 載入畫面設定
 [common_widget/sort_001] ★數
 [common_widget/sort_002] 拍組招式
 [common_widget/sort_003] HP
@@ -45293,6 +46233,9 @@ jetzt verfügbar!
 Diese neuen Produkte können im Laden
 unter „Spezial-Sets kaufen“ gekauft
 werden.
+[home/home_066] Event-Information
+[home/home_067] Tipps
+[home/home_068] Courtneys Leitfaden
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missionen
 [home/global_menu_008] Freunde
@@ -46286,6 +47229,9 @@ a Champion Bundle!
 [home/home_064] New Special Bundles!
 [home/home_065] The Daily Gem Bundle EX, which provides you gems at a discount for logging in daily, and the battle point boost pass, which increases how much BP you can obtain from region rotation battles, are now available!
 These new products can be purchased in the Purchase Bundles section of the shop.
+[home/home_066] Event Info
+[home/home_067] Tips
+[home/home_068] Guide
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missions
 [home/global_menu_008] Friends
@@ -47265,6 +48211,9 @@ por regiones!
 
 Puedes adquirirlos en la sección
 "Comprar lotes" de la tienda.
+[home/home_066] Información de los eventos
+[home/home_067] Guía para novatos
+[home/home_068] Guía de Tris
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Misiones
 [home/global_menu_008] Amigos
@@ -48290,6 +49239,10 @@ régionaux, sont à présent disponibles !
 Ces nouveaux produits peuvent être
 achetés dans la boutique, depuis
 la section « Achat de lots ».
+[home/home_066] Infos des évènements
+[home/home_067] Astuces
+[home/home_068] Guide Pokémon
+Masters de Thalie
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missions
 [home/global_menu_008] Amis
@@ -49365,6 +50318,9 @@ più gemme!
 [home/home_065] Sono ora disponibili il Pacchetto gemme giornaliere EX, con il quale puoi ricevere gemme effettuando l'accesso, e il Pass bonus Punti Lotta, che aumenta i Punti Lotta ottenibili nelle lotte regionali!
 
 Puoi acquistare questi nuovi prodotti nella sezione "Acquisto pacchetti" del negozio.
+[home/home_066] Info eventi
+[home/home_067] Consigli per il gioco
+[home/home_068] Guida al gioco di Tish
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missioni
 [home/global_menu_008] Amici
@@ -50409,6 +51365,9 @@ EXデイリーダイヤパックや
 
 新しい商品はショップの
 「おとくなパック購入」から購入できます
+[home/home_066] イベント情報
+[home/home_067] ゲームのヒント
+[home/home_068] ポケマスガイド
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] ミッション
 [home/global_menu_008] ともだち
@@ -51442,6 +52401,9 @@ EX일일 다이아 팩과
 
 새로운 상품은 숍의
 "스페셜 팩 구입"에서 구입할 수 있습니다
+[home/home_066] 이벤트 정보
+[home/home_067] 게임 힌트
+[home/home_068] PM 가이드
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] 미션
 [home/global_menu_008] 친구
@@ -52439,6 +53401,9 @@ EX每日鑽石組合包
 
 新商品可以從商店的
 「購買超值組合包」中購買
+[home/home_066] 活動資訊
+[home/home_067] 遊戲提示
+[home/home_068] 遊戲指南
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] 任務
 [home/global_menu_008] 朋友
