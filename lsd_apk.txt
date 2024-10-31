@@ -1194,6 +1194,7 @@ story_quest_name_de.lsd
 [quest_group_title_10097000000] Charlie
 [quest_group_title_10098000000] Tali
 [quest_group_title_10099000000] Barry
+[quest_group_title_10100000000] Tony
 [quest_group_title_10101000000] Rosy
 [quest_group_title_10110000000] Misty
 [quest_group_detail_100000] Eine Einladung zu den WPM
@@ -1943,6 +1944,39 @@ Funken fliegen! 5
 [quest_group_title_10020400000] Warren (Saison 2020)
 [quest_group_detail_100033] Die Zukunft ist jetzt!
 [quest_group_detail_100034] Der Einzelkämpfer
+[quest_group_title_10102000000] Bell
+[quest_group_title_100035] Kapitel 27
+[quest_group_title_10215000000] Xenia
+[quest_title_1030210215000000] Ein Tag mit Xenia
+[quest_title_1030210000701001] Vs. Kapu-Toro
+[quest_title_1030210010701001] Vs. Kapu-Toro 2
+[quest_title_1030210020701001] Vs. Kapu-Toro 3
+[quest_title_1030210100000001] Ein Tag mit Tony
+[quest_title_1030210102000000] Ein Tag mit Bell
+[quest_title_1030210000601000] Xenias Bitte
+[quest_title_1030210000601010] Ein neuer Kampfstar?
+[quest_title_1030210000601020] Worauf es bei
+Pokémon-Kämpfen ankommt
+[quest_title_1030210000601030] Passios
+Wettbewerbssternchen
+[quest_title_1030210000601040] Das Drachen-Mädchen
+[quest_title_1030210000601050] Beeindrucke das Publikum!
+[quest_title_1030210000601060] Jetzt geht’s ruuuuuuund!
+[quest_title_1030210000601070] Eine fabelhafte Familie
+[quest_title_1030210000601080] Die Schönste auf ganz Passio
+[quest_title_1030210000601090] Vernarrt in Flug-Pokémon
+[quest_title_1030210000601100] Ein Star scheut keine Mühen!
+[quest_title_1030210000601110] Zwei Bühnen, ein Kampfgeist
+[quest_title_1030210000601120] Zeig mir deine Pose!
+[quest_title_1030210000601130] Die Talentsuche geht weiter!
+[quest_title_1030421000202010] Eilkampf
+[quest_title_1030421000203011] Eilkampf 2
+[quest_title_1030421000204012] Eilkampf 3
+[quest_title_1030421000206010] Kampf gegen die Uhr
+[quest_title_1030102000180210] Gegen den Champ 1
+[quest_title_1030102000180250] Vs. Team MaMo-Cynthia
+[quest_title_1030102000180300] Gegen den Champ 2
+[quest_group_detail_100036] Gegen den Champ
 
 ===========
 story_quest_name_en.lsd
@@ -2443,6 +2477,7 @@ story_quest_name_en.lsd
 [quest_group_title_10097000000] Marley
 [quest_group_title_10098000000] Hau
 [quest_group_title_10099000000] Barry
+[quest_group_title_10100000000] Nate
 [quest_group_title_10101000000] Rosa
 [quest_group_title_10110000000] Misty
 [quest_group_detail_100000] Welcome to the PML!
@@ -3166,6 +3201,37 @@ story_quest_name_en.lsd
 (Fall 2020)
 [quest_group_detail_100033] The Future Is Now!
 [quest_group_detail_100034] Royally Alone
+[quest_group_title_10102000000] Bianca
+[quest_group_title_100035] Chapter 27
+[quest_group_title_10215000000] Lisia
+[quest_title_1030210215000000] A Day with Lisia
+[quest_title_1030210000701001] Tapu Bulu’s Challenge: Part 1
+[quest_title_1030210010701001] Tapu Bulu’s Challenge: Part 2
+[quest_title_1030210020701001] Tapu Bulu’s Challenge: Part 3
+[quest_title_1030210100000001] A Day with Nate
+[quest_title_1030210102000000] A Day with Bianca
+[quest_title_1030210000601000] Lisia’s Request
+[quest_title_1030210000601010] Lisia vs. the Battle Girl
+[quest_title_1030210000601020] The Key to Pokémon Battling
+[quest_title_1030210000601030] Pasio’s Contest Idol
+[quest_title_1030210000601040] The Hearts of Dragons...
+[quest_title_1030210000601050] All About Appeal!
+[quest_title_1030210000601060] Dazzling, Dizzying Panic?!
+[quest_title_1030210000601070] Gorgeous Genes
+[quest_title_1030210000601080] Best Influencers
+[quest_title_1030210000601090] Birds of a Feather
+[quest_title_1030210000601100] Get Tough or Go Home!
+[quest_title_1030210000601110] Two Stages, One Ambition
+[quest_title_1030210000601120] Expert Posing
+[quest_title_1030210000601130] Miraculous Contest Scouting!
+[quest_title_1030421000202010] Time Trial: Round 1
+[quest_title_1030421000203011] Time Trial: Round 2
+[quest_title_1030421000204012] Time Trial: Round 3
+[quest_title_1030421000206010] Speed Challenge
+[quest_title_1030102000180210] The Quarterfinals: Part 1
+[quest_title_1030102000180250] Challenge Sygna Suit Cynthia & Co.
+[quest_title_1030102000180300] The Quarterfinals: Part 2
+[quest_group_detail_100036] The Quarterfinals
 
 ===========
 story_quest_name_es.lsd
@@ -3666,6 +3732,7 @@ story_quest_name_es.lsd
 [quest_group_title_10097000000] Sémola
 [quest_group_title_10098000000] Tilo
 [quest_group_title_10099000000] Israel
+[quest_group_title_10100000000] Rizzo
 [quest_group_title_10101000000] Nanci
 [quest_group_title_10110000000] Misty
 [quest_group_detail_100000] Invitación al WPM
@@ -4405,6 +4472,45 @@ electrizante!
 (Temporada 20)
 [quest_group_detail_100033] ¡El camino hacia el futuro!
 [quest_group_detail_100034] Todos contra uno
+[quest_group_title_10102000000] Bel
+[quest_group_title_100035] Capítulo 27
+[quest_group_title_10215000000] Ariana
+[quest_title_1030210215000000] Un día con Ariana
+[quest_title_1030210000701001] VS. Tapu Bulu
+[quest_title_1030210010701001] VS. Tapu Bulu (2)
+[quest_title_1030210020701001] VS. Tapu Bulu (3)
+[quest_title_1030210100000001] Un día con Rizzo
+[quest_title_1030210102000000] Un día con Bel
+[quest_title_1030210000601000] Ariana te pide un favor
+[quest_title_1030210000601010] La propuesta de la
+apasionada de los combates
+[quest_title_1030210000601020] Algo muy importante a la
+hora de combatir
+[quest_title_1030210000601030] La estrella de los concursos
+de Passio
+[quest_title_1030210000601040] ¿La joven que susurra a los
+dragones?
+[quest_title_1030210000601050] ¡Hay que ganarse a los fans!
+[quest_title_1030210000601060] ¿Quién es vuestro ídolo?
+[quest_title_1030210000601070] Una familia maravillosa
+[quest_title_1030210000601080] ¿La más guapa de Passio?
+[quest_title_1030210000601090] Un amor incondicional por
+los Pokémon de tipo Volador
+[quest_title_1030210000601100] ¡Entrenamiento para alcanzar
+la perfección!
+[quest_title_1030210000601110] Distintas circunstancias,
+mismas ambiciones
+[quest_title_1030210000601120] Un gesto para conquistarlos
+a todos
+[quest_title_1030210000601130] Nace una nueva estrella
+[quest_title_1030421000202010] Combate Contrarreloj
+[quest_title_1030421000203011] Combate Contrarreloj (2)
+[quest_title_1030421000204012] Combate Contrarreloj (3)
+[quest_title_1030421000206010] Combate supersónico
+[quest_title_1030102000180210] Campeona y aspirantes
+[quest_title_1030102000180250] VS. Cintia (Traje S) y su equipo
+[quest_title_1030102000180300] Campeona y aspirantes (2)
+[quest_group_detail_100036] Campeona y aspirantes
 
 ===========
 story_quest_name_fr.lsd
@@ -4906,6 +5012,7 @@ Ultime)
 [quest_group_title_10097000000] Viviane
 [quest_group_title_10098000000] Tili
 [quest_group_title_10099000000] René
+[quest_group_title_10100000000] Mélis
 [quest_group_title_10101000000] Écho
 [quest_group_title_10110000000] Ondine
 [quest_group_detail_100000] Une invitation au WPM
@@ -5718,6 +5825,42 @@ Molène
 (Saison 2020)
 [quest_group_detail_100033] La science ouvrira la voie !
 [quest_group_detail_100034] Seul contre tous
+[quest_group_title_10102000000] Bianca
+[quest_group_title_100035] Chapitre 27
+[quest_group_title_10215000000] Atalante
+[quest_title_1030210215000000] Une journée avec Atalante
+[quest_title_1030210000701001] Combat : Tokotoro
+[quest_title_1030210010701001] Combat : Tokotoro II
+[quest_title_1030210020701001] Combat : Tokotoro III
+[quest_title_1030210100000001] Une journée avec Mélis
+[quest_title_1030210102000000] Une journée avec Bianca
+[quest_title_1030210000601000] Le souhait d'Atalante
+[quest_title_1030210000601010] L'invitation de la combattante
+[quest_title_1030210000601020] L'important dans les combats
+[quest_title_1030210000601030] La vedette de Passio
+[quest_title_1030210000601040] La fille qui danse avec les
+dragons... ?
+[quest_title_1030210000601050] Combat de Démonstrations !
+[quest_title_1030210000601060] Tournent, tournent
+et tournent ! ♪
+[quest_title_1030210000601070] L'élégance dans les gènes
+[quest_title_1030210000601080] Combat de fans
+[quest_title_1030210000601090] Les amatrices de
+Pokémon Vol
+[quest_title_1030210000601100] Intransigeance personnelle
+[quest_title_1030210000601110] Une même passion malgré
+les différences
+[quest_title_1030210000601120] L'experte des poses
+[quest_title_1030210000601130] La nouvelle annonce magique
+[quest_title_1030421000202010] Combat contre la montre
+[quest_title_1030421000203011] Combat contre la montre 2
+[quest_title_1030421000204012] Combat contre la montre 3
+[quest_title_1030421000206010] Défi à grande vitesse
+[quest_title_1030102000180210] Se mesurer au Maître I
+[quest_title_1030102000180250] Combat : l'équipe de Cynthia
+(Look Ultime)
+[quest_title_1030102000180300] Se mesurer au Maître II
+[quest_group_detail_100036] Se mesurer au Maître
 
 ===========
 story_quest_name_it.lsd
@@ -6218,6 +6361,7 @@ story_quest_name_it.lsd
 [quest_group_title_10097000000] Risetta
 [quest_group_title_10098000000] Hau
 [quest_group_title_10099000000] Barry
+[quest_group_title_10100000000] Sanzo
 [quest_group_title_10101000000] Rina
 [quest_group_title_10110000000] Misty
 [quest_group_detail_100000] Un invito per il WPM!
@@ -6935,6 +7079,37 @@ story_quest_name_it.lsd
 [quest_group_title_10020400000] Alcide (feste 2020)
 [quest_group_detail_100033] Il trionfo della scienza
 [quest_group_detail_100034] Una lotta solitaria
+[quest_group_title_10102000000] Belle
+[quest_group_title_100035] Capitolo 27
+[quest_group_title_10215000000] Orthilla
+[quest_title_1030210215000000] Un giorno con Orthilla
+[quest_title_1030210000701001] VS Tapu Bulu
+[quest_title_1030210010701001] VS Tapu Bulu 2
+[quest_title_1030210020701001] VS Tapu Bulu 3
+[quest_title_1030210100000001] Un giorno con Sanzo
+[quest_title_1030210102000000] Un giorno con Belle
+[quest_title_1030210000601000] Un favore per Orthilla
+[quest_title_1030210000601010] La proposta di una ragazza combattiva
+[quest_title_1030210000601020] Una cosa importante nelle lotte
+[quest_title_1030210000601030] La celebrità delle gare di Pasio
+[quest_title_1030210000601040] Una ragazza dal cuore di drago...?
+[quest_title_1030210000601050] Proviamo a esibirci!
+[quest_title_1030210000601060] Gara di giravolte
+[quest_title_1030210000601070] Una famiglia meravigliosa
+[quest_title_1030210000601080] Chi è la migliore?
+[quest_title_1030210000601090] Le appassionate dei Pokémon di tipo Volante
+[quest_title_1030210000601100] Farò di tutto per migliorare!
+[quest_title_1030210000601110] Cambia il palcoscenico, ma non lo spirito
+[quest_title_1030210000601120] Lascia che ti aiuti con la posa!
+[quest_title_1030210000601130] Una nuova stella...?
+[quest_title_1030421000202010] Cronolotta
+[quest_title_1030421000203011] Cronolotta 2
+[quest_title_1030421000204012] Cronolotta 3
+[quest_title_1030421000206010] Sfida per il record
+[quest_title_1030102000180210] Camilla e gli sfidanti (parte 1)
+[quest_title_1030102000180250] VS Camilla Costumax & co.
+[quest_title_1030102000180300] Camilla e gli sfidanti (parte 2)
+[quest_group_detail_100036] Camilla e gli sfidanti
 
 ===========
 story_quest_name_ja.lsd
@@ -7435,6 +7610,7 @@ story_quest_name_ja.lsd
 [quest_group_title_10097000000] マイ
 [quest_group_title_10098000000] ハウ
 [quest_group_title_10099000000] ジュン
+[quest_group_title_10100000000] キョウヘイ
 [quest_group_title_10101000000] メイ
 [quest_group_title_10110000000] カスミ
 [quest_group_detail_100000] ＷＰＭへの招待！
@@ -8159,6 +8335,37 @@ story_quest_name_ja.lsd
 （２０シーズン）
 [quest_group_detail_100033] 未来を切りひらくサイエンス！
 [quest_group_detail_100034] たった独りの戦い
+[quest_group_title_10102000000] ベル
+[quest_group_title_100035] 第２７章
+[quest_group_title_10215000000] ルチア
+[quest_title_1030210215000000] とある日のルチア
+[quest_title_1030210000701001] ＶＳ　カプ・ブルル
+[quest_title_1030210010701001] ＶＳ　カプ・ブルル２
+[quest_title_1030210020701001] ＶＳ　カプ・ブルル３
+[quest_title_1030210100000001] とある日のキョウヘイ
+[quest_title_1030210102000000] とある日のベル
+[quest_title_1030210000601000] ルチアのお願い
+[quest_title_1030210000601010] バトルガールのお誘い
+[quest_title_1030210000601020] ポケモン勝負で大事なコト
+[quest_title_1030210000601030] パシオのコンテストアイドル
+[quest_title_1030210000601040] 竜の心を知る娘……？
+[quest_title_1030210000601050] アピールに挑戦！
+[quest_title_1030210000601060] キラくるパニック！？
+[quest_title_1030210000601070] マーベラスな家族たち
+[quest_title_1030210000601080] どっちがお好き？
+[quest_title_1030210000601090] ひこうポケモンを愛する者たち
+[quest_title_1030210000601100] 自分磨きに妥協なし！
+[quest_title_1030210000601110] 舞台は違えど心は同じ
+[quest_title_1030210000601120] ポーズはお任せ！
+[quest_title_1030210000601130] 次のミラクル☆スカウトは……？
+[quest_title_1030421000202010] タイムアタックバトル
+[quest_title_1030421000203011] タイムアタックバトル２
+[quest_title_1030421000204012] タイムアタックバトル３
+[quest_title_1030421000206010] 最速への挑戦
+[quest_title_1030102000180210] チャンピオンと挑戦者　前編
+[quest_title_1030102000180250] ＶＳ　チーム・マジコスシロナ
+[quest_title_1030102000180300] チャンピオンと挑戦者　後編
+[quest_group_detail_100036] チャンピオンと挑戦者
 
 ===========
 story_quest_name_ko.lsd
@@ -8659,6 +8866,7 @@ story_quest_name_ko.lsd
 [quest_group_title_10097000000] 미정
 [quest_group_title_10098000000] 하우
 [quest_group_title_10099000000] 용식
+[quest_group_title_10100000000] 공명
 [quest_group_title_10101000000] 명희
 [quest_group_title_10110000000] 이슬
 [quest_group_detail_100000] WPM으로의 초대!
@@ -9382,6 +9590,37 @@ story_quest_name_ko.lsd
 (20시즌)
 [quest_group_detail_100033] 미래를 개척하는 과학!
 [quest_group_detail_100034] 홀로 치르는 전투
+[quest_group_title_10102000000] 벨
+[quest_group_title_100035] 제27장
+[quest_group_title_10215000000] 루티아
+[quest_title_1030210215000000] 루티아의 어느 날
+[quest_title_1030210000701001] VS 카푸브루루
+[quest_title_1030210010701001] VS 카푸브루루2
+[quest_title_1030210020701001] VS 카푸브루루3
+[quest_title_1030210100000001] 공명의 어느 날
+[quest_title_1030210102000000] 벨의 어느 날
+[quest_title_1030210000601000] 루티아의 부탁
+[quest_title_1030210000601010] 배틀걸의 권유
+[quest_title_1030210000601020] 포켓몬 승부에서 중요한 것
+[quest_title_1030210000601030] 파시오의 콘테스트 아이돌
+[quest_title_1030210000601040] 용의 마음을 아는 소녀...?
+[quest_title_1030210000601050] 어필에 도전하자!
+[quest_title_1030210000601060] 반짝 빙글 패닉!?
+[quest_title_1030210000601070] 믿을 수 없을 정도로 멋진 가족
+[quest_title_1030210000601080] 어느 쪽이 좋아?
+[quest_title_1030210000601090] 비행포켓몬을 사랑하는 자들
+[quest_title_1030210000601100] 트레이닝에 타협은 없어!
+[quest_title_1030210000601110] 다른 무대 그리고 같은 마음
+[quest_title_1030210000601120] 포즈라면 맡겨줘!
+[quest_title_1030210000601130] 다음 미라클☆스카우트는...?
+[quest_title_1030421000202010] 타임어택배틀
+[quest_title_1030421000203011] 타임어택배틀2
+[quest_title_1030421000204012] 타임어택배틀3
+[quest_title_1030421000206010] 최속으로의 도전
+[quest_title_1030102000180210] 챔피언과 도전자 전편
+[quest_title_1030102000180250] VS 팀 궁극코스 난천
+[quest_title_1030102000180300] 챔피언과 도전자 후편
+[quest_group_detail_100036] 챔피언과 도전자
 
 ===========
 story_quest_name_zh-TW.lsd
@@ -9882,6 +10121,7 @@ story_quest_name_zh-TW.lsd
 [quest_group_title_10097000000] 米依
 [quest_group_title_10098000000] 哈烏
 [quest_group_title_10099000000] 阿馴
+[quest_group_title_10100000000] 共平
 [quest_group_title_10101000000] 鳴依
 [quest_group_title_10110000000] 小霞
 [quest_group_detail_100000] 歡迎參加ＷＰＭ！
@@ -10605,6 +10845,37 @@ story_quest_name_zh-TW.lsd
 （２０２０秋季）
 [quest_group_detail_100033] 開拓未來的科學！
 [quest_group_detail_100034] 獨自一人的戰鬥
+[quest_group_title_10102000000] 白露
+[quest_group_title_100035] 第２７章
+[quest_group_title_10215000000] 琉琪亞
+[quest_title_1030210215000000] 某日的琉琪亞
+[quest_title_1030210000701001] ＶＳ　卡璞・哞哞
+[quest_title_1030210010701001] ＶＳ　卡璞・哞哞２
+[quest_title_1030210020701001] ＶＳ　卡璞・哞哞３
+[quest_title_1030210100000001] 某日的共平
+[quest_title_1030210102000000] 某日的白露
+[quest_title_1030210000601000] 琉琪亞的請求
+[quest_title_1030210000601010] 對戰少女的邀請
+[quest_title_1030210000601020] 寶可夢對戰中重要的事
+[quest_title_1030210000601030] 帕希歐的華麗大賽偶像
+[quest_title_1030210000601040] 了解龍之心的女孩……？
+[quest_title_1030210000601050] 挑戰展現魅力！
+[quest_title_1030210000601060] 閃亮亮轉圈圈大恐慌！？
+[quest_title_1030210000601070] 令人驚嘆的家人們
+[quest_title_1030210000601080] 喜歡哪一個？
+[quest_title_1030210000601090] 飛行屬性寶可夢愛好家
+[quest_title_1030210000601100] 提升自我絕不妥協！
+[quest_title_1030210000601110] 不同的舞台相同的心
+[quest_title_1030210000601120] 最佳姿勢就交給你！
+[quest_title_1030210000601130] 下一個夢幻奇蹟☆發掘是……？
+[quest_title_1030421000202010] 計時戰
+[quest_title_1030421000203011] 計時戰２
+[quest_title_1030421000204012] 計時戰３
+[quest_title_1030421000206010] 挑戰最快速度
+[quest_title_1030102000180210] 冠軍與挑戰者　前篇
+[quest_title_1030102000180250] ＶＳ　美極套裝竹蘭隊
+[quest_title_1030102000180300] 冠軍與挑戰者　後篇
+[quest_group_detail_100036] 冠軍與挑戰者
 
 ===========
 trainer_description_de.lsd
@@ -10973,6 +11244,18 @@ heraus, um Süßigkeiten zu erhaschen.
 [10020400000] Warren hat sich als Magnayen verkleidet und sammelt in
 der festlich dekorierten Stadt Süßigkeiten. Er kämpft sogar
 gegen Geister-Pokémon, um seine Freunde zu schützen.
+[10100000000] Tony ist ein talentierter Trainer aus Einall. Er versteht sich
+gut mit anderen und passt sich selbst bei spontanen
+Teamkämpfen seinem Partner perfekt an. Er will das
+Geheimnis hinter der Stärke von Trainern, die er
+bewundert, begreifen.
+[10102000000] Sie hat als Trainer die Einall-Region bereist und arbeitet
+zurzeit als Professor Esches Assistentin, um mehr über ihre
+geliebten Pokémon zu lernen.
+[10215000000] Xenia bildet mit ihrem Altaria Xeblu eine Einheit. Sie ist
+das beliebteste Wettbewerbssternchen von Hoenn. Ihre
+natürliche Begabung gepaart mit ihrem unermüdlichen
+Fleiß fasziniert ihre Fans.
 
 ===========
 trainer_description_en.lsd
@@ -11338,6 +11621,15 @@ challenge sync pairs to battles and win candy.
 [10020400000] Hilbert is back and ready to get some candy in his
 Mightyena costume. He is determined to stand up against
 even spooky Ghost types in order to protect his allies.
+[10100000000] Nate is a skilled Trainer from Unova who is always ready
+for Multi Battles thanks to his friendly attitude. He closely
+studies his role models to learn what makes them strong.
+[10102000000] Bianca is a Trainer who once traveled across the Unova
+region. She loves Pokémon and currently works as an
+assistant to Professor Juniper to learn more about them.
+[10215000000] Lisia is Hoenn’s number one contest idol along with her
+Altaria, Ali. She has a natural knack for contests and is
+also a hard worker—something her fans adore her for.
 
 ===========
 trainer_description_es.lsd
@@ -11758,6 +12050,20 @@ conseguir chuches.
 calles de la ciudad en busca de chuches. Con tal de
 proteger a sus amigos, es capaz de hacer frente a su
 peor miedo: los Pokémon de tipo Fantasma.
+[10100000000] Este talentoso Entrenador se recorrió la región de Teselia
+de aventuras. Su personalidad abierta le permite
+compenetrarse con cualquiera en combate, aunque sea
+de improviso. Estudia de cerca a los Entrenadores a los
+que admira para averiguar qué los hace tan fuertes.
+[10102000000] Entrenadora que viajó por toda la región de Teselia.
+Actualmente trabaja ayudando a la Profesora Encina con
+sus investigaciones para conocer mejor a los Pokémon a
+los que tanto adora.
+[10215000000] Es la estrella de los concursos más famosa de Hoenn.
+Forma un dúo inseparable junto a su Altaria, Ariblú, que
+siempre la acompaña en sus actuaciones. Su mayor
+encanto radica en que, a pesar de su talento innato, se
+esfuerza como quien más por conseguir sus objetivos.
 
 ===========
 trainer_description_fr.lsd
@@ -12112,6 +12418,18 @@ dans la ville décorée pour l'occasion !
 aux bonbons au travers la ville décorée pour l'occasion.
 Si c'est pour protéger ses amis, il n'hésite pas à faire face
 aux Pokémon Spectre dont il a pourtant peur !
+[10100000000] Ce Dresseur talentueux a parcouru la région d'Unys à la
+recherche d'aventure. Il sait s'adapter à n'importe quel
+partenaire à la perfection, et étudie l'origine de la force
+des Dresseurs pour qui il éprouve du respect.
+[10102000000] Cette Dresseuse a parcouru la région d'Unys.
+Elle travaille actuellement comme assistante de
+la Professeure Keteleeria afin d'apprendre à
+mieux connaître ses Pokémon adorés.
+[10215000000] Atalante et « Alty », son Altaria chéri, sont les
+coqueluches de la région de Hoenn et les vedettes
+de ses concours Pokémon. Ce sont ses talents et son
+intransigeance envers elle-même qui font son charme.
 
 ===========
 trainer_description_it.lsd
@@ -12493,6 +12811,19 @@ per le strade della città, appositamente decorate
 per la festa. È disposto ad affrontare la sua paura
 dei Pokémon di tipo Spettro pur di proteggere
 i suoi compagni.
+[10100000000] Allenatore capace che ha vissuto tante avventure
+a Unima, ha un carattere amichevole ed è il compagno
+perfetto anche per una lotta in coppia improvvisata.
+È alla ricerca dell'origine della forza degli Allenatori
+che ammira di più.
+[10102000000] Allenatrice che ha viaggiato in lungo e in largo a Unima,
+attualmente lavora come assistente della Professoressa
+Aralia per conoscere meglio i suoi adorati Pokémon.
+[10215000000] È la più famosa celebrità delle gare di Hoenn, sempre
+pronta a dare spettacolo insieme ad Alty, il suo Altaria.
+Parte del suo fascino deriva dal fatto che non si affida
+solo al suo immenso talento, ma si impegna sempre
+al massimo.
 
 ===========
 trainer_description_ja.lsd
@@ -12857,6 +13188,15 @@ trainer_description_ja.lsd
 [10020400000] グラエナに　なりきる　仮装した　トウヤ。
 彩られた　街で　お菓子を　集める。　仲間を守るため
 苦手な　ゴーストタイプにも　立ち向かう。
+[10100000000] イッシュ地方を　冒険した　実力のある　トレーナー。
+人懐っこい性格で　即席のタッグでも　息がピッタリ。
+尊敬するトレーナーたちの　強さの理由を　勉強中。
+[10102000000] イッシュ地方を　旅した　トレーナー。
+現在は　大好きな　ポケモンを　知るため
+アララギ博士の　助手として　働いている。
+[10215000000] チルタリスの「チルル」と　ユニットで　活躍する
+ホウエン地方の　Ｎｏ．１　コンテストアイドル。
+天才肌ながら　努力を惜しまない姿が　彼女の魅力だ。
 
 ===========
 trainer_description_ko.lsd
@@ -13221,6 +13561,15 @@ trainer_description_ko.lsd
 [10020400000] 그라에나 분장을 한 투지.
 여러 장식으로 꾸며진 거리에서 과자를 모은다.
 고스트타입을 무서워하지만 동료를 지키기 위해 맞선다.
+[10100000000] 하나지방을 모험한 실력 있는 트레이너.
+붙임성이 좋아 즉석에서 팀을 맺더라도 호흡을 척척 잘 맞춘다.
+존경하는 트레이너들이 강한 이유를 공부하고 있다.
+[10102000000] 하나지방을 여행했던 트레이너.
+현재는 좋아하는 포켓몬을 알아가기 위해
+주박사의 조수로 일하고 있다.
+[10215000000] "파비티"라는 이름의 파비코리와 유닛으로 활약하는
+호연지방 No.1 콘테스트 아이돌.
+천재적인 자질이 있지만 노력을 아끼지 않는 면이 그녀의 매력이다.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -13584,6 +13933,15 @@ trainer_description_zh-TW.lsd
 [10020400000] 變裝成大狼犬的鬥也。
 在裝飾繽紛的街上收集點心，並為了守護夥伴
 勇敢面對他害怕的幽靈屬性寶可夢。
+[10100000000] 他是在合眾地區展開冒險旅程的高手訓練家。
+好相處的個性讓他臨時與人組隊也能配合得默契十足。
+目前正在研究他所尊敬的訓練家們為何如此強大。
+[10102000000] 她是在合眾地區四處旅行的訓練家。
+現在為了了解她最喜歡的寶可夢，
+在紅豆杉博士身邊擔任助手。
+[10215000000] 她與七夕青鳥「小青青」的組合，
+是活躍於豐緣地區的Ｎｏ．１華麗大賽偶像。
+即使很有天分，依然努力不懈正是她的魅力。
 
 ===========
 trainer_name_de.lsd
@@ -13685,7 +14043,9 @@ trainer_name_de.lsd
 [ch0097] Charlie
 [ch0098] Tali
 [ch0099] Barry
+[ch0100] Tony
 [ch0101] Rosy
+[ch0102] Bell
 [ch0103] Trixi
 [ch0104] Sasha
 [ch0106] Kamilla
@@ -13825,7 +14185,9 @@ trainer_name_en.lsd
 [ch0097] Marley
 [ch0098] Hau
 [ch0099] Barry
+[ch0100] Nate
 [ch0101] Rosa
+[ch0102] Bianca
 [ch0103] Tricia
 [ch0104] Trinnia
 [ch0106] Elesa
@@ -13965,7 +14327,9 @@ trainer_name_es.lsd
 [ch0097] Sémola
 [ch0098] Tilo
 [ch0099] Israel
+[ch0100] Rizzo
 [ch0101] Nanci
+[ch0102] Bel
 [ch0103] Tricia
 [ch0104] Trini
 [ch0106] Camila
@@ -14105,7 +14469,9 @@ trainer_name_fr.lsd
 [ch0097] Viviane
 [ch0098] Tili
 [ch0099] René
+[ch0100] Mélis
 [ch0101] Écho
+[ch0102] Bianca
 [ch0103] Aglaé
 [ch0104] Euphrosyne
 [ch0106] Inezia
@@ -14245,7 +14611,9 @@ trainer_name_it.lsd
 [ch0097] Risetta
 [ch0098] Hau
 [ch0099] Barry
+[ch0100] Sanzo
 [ch0101] Rina
+[ch0102] Belle
 [ch0103] Tricia
 [ch0104] Tilia
 [ch0106] Camelia
@@ -14385,7 +14753,9 @@ trainer_name_ja.lsd
 [ch0097] マイ
 [ch0098] ハウ
 [ch0099] ジュン
+[ch0100] キョウヘイ
 [ch0101] メイ
+[ch0102] ベル
 [ch0103] トリカ
 [ch0104] サクサ
 [ch0106] カミツレ
@@ -14525,7 +14895,9 @@ trainer_name_ko.lsd
 [ch0097] 미정
 [ch0098] 하우
 [ch0099] 용식
+[ch0100] 공명
 [ch0101] 명희
+[ch0102] 벨
 [ch0103] 트리커
 [ch0104] 사크사
 [ch0106] 카밀레
@@ -14665,7 +15037,9 @@ trainer_name_zh-TW.lsd
 [ch0097] 米依
 [ch0098] 哈烏
 [ch0099] 阿馴
+[ch0100] 共平
 [ch0101] 鳴依
+[ch0102] 白露
 [ch0103] 藍菫
 [ch0104] 綠菫
 [ch0106] 小菊兒
@@ -14751,6 +15125,7 @@ common_widget_de.lsd
 [common_widget/button_011] Missionen
 [common_widget/button_012] AN
 [common_widget/button_013] AUS
+[common_widget/button_014] Noch mal
 [common_widget/loading_001] Ladevorgang...
 [common_widget/loading_002] Los!
 [common_widget/loading_003] Verbindet...
@@ -14878,8 +15253,13 @@ zu diesen Gefährten öffnest.
 [common_widget/dialog_068] Wenn du das Potenzial eines
 Gefährtengespanns auf 6★ EX
 erhöhst, erhältst du sein EX-Farboutfit.
+[common_widget/dialog_070] Das Datum hat sich geändert. Dein
+Team wurde vollständig geheilt.
+[common_widget/dialog_071] Kampfvilla-Mission
 [common_widget/dialog_072] Hinweis: Diese Items werden nicht automatisch
 eingetauscht.
+[common_widget/dialog_073] Teamausw.-Limit wird nach vollst. Heilung zurückgesetzt.
+[common_widget/dialog_074] Kampfunfähigkeit wird nach vollst. Heilung zurückgesetzt.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -15207,6 +15587,7 @@ common_widget_en.lsd
 [common_widget/button_011] Missions
 [common_widget/button_012] ON
 [common_widget/button_013] OFF
+[common_widget/button_014] Learn Again
 [common_widget/loading_001] Loading...
 [common_widget/loading_002] GO!
 [common_widget/loading_003] Loading...
@@ -15319,7 +15700,12 @@ look now? You can also switch looks
 later on the sync pair’s details screen.
 [common_widget/dialog_068] Raising a sync pair to 6★ EX unlocks
 their EX style.
+[common_widget/dialog_070] You have received your full recovery
+for the day.
+[common_widget/dialog_071] Battle Villa Missions
 [common_widget/dialog_072] Note: This will not be automatically exchanged for coins.
+[common_widget/dialog_073] Note: Using a full recovery resets team restrictions.
+[common_widget/dialog_074] Note: Using a full recovery recovers fainted Pokémon.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -15615,6 +16001,7 @@ common_widget_es.lsd
 [common_widget/button_011] Misiones
 [common_widget/button_012] SÍ
 [common_widget/button_013] NO
+[common_widget/button_014] Aprender otra
 [common_widget/loading_001] Cargando...
 [common_widget/loading_002] ¡Vamos!
 [common_widget/loading_003] Conectando...
@@ -15737,7 +16124,12 @@ de esta pareja de compis.
 [common_widget/dialog_068] Cuando una pareja alcance un
 potencial de 6★ EX, conseguirás
 su Traje EX especial.
+[common_widget/dialog_070] Has recibido la recuperación completa
+de hoy.
+[common_widget/dialog_071] Misiones Res. Batalla
 [common_widget/dialog_072] Nota: Este objeto no se canjeará automáticamente.
+[common_widget/dialog_073] Nota: Las limitaciones de formación se restablecerán al realizar la recuperación completa.
+[common_widget/dialog_074] Nota: Los compis debilitados se recuperarán al realizar la recuperación completa.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Nv.
 [common_widget/trainer_detail_004] MÁX.
@@ -16041,6 +16433,7 @@ common_widget_fr.lsd
 [common_widget/button_011] Missions
 [common_widget/button_012] Oui
 [common_widget/button_013] Non
+[common_widget/button_014] Recommencer
 [common_widget/loading_001] Chargement...
 [common_widget/loading_002] Allez !
 [common_widget/loading_003] Connexion...
@@ -16150,16 +16543,21 @@ et des capacités de [Name:TrainerName ]
 & [Name:PokemonName ].
 [common_widget/dialog_065] Si les capacités du Duo sont déjà au N. 5, cet objet
 devient un Duo-Ticket du même nombre de ★.
-[common_widget/dialog_067] Vous avez obtenu une Tenue Couleur EX.
+[common_widget/dialog_067] Vous avez obtenu
+une Tenue Couleur EX.
 Voulez-vous que votre Duo la porte ?
-
 Vous pouvez changer la tenue depuis
 l'écran de description du Duo.
 [common_widget/dialog_068] Quand le potentiel d'un Duo passe
 à 6★ EX, vous obtenez une Tenue
 Couleur EX.
+[common_widget/dialog_070] Une nouvelle journée commence !
+Vous recevez une restauration totale.
+[common_widget/dialog_071] Villa de Combat
 [common_widget/dialog_072] Remarque : les objets ne seront automatiquement
 convertis en Pièces.
+[common_widget/dialog_073] La restauration totale réinitialise les limites d'équipe.
+[common_widget/dialog_074] La restauration totale soigne vos Duos mis K.O.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] N.
 [common_widget/trainer_detail_004] MAX
@@ -16475,6 +16873,7 @@ common_widget_it.lsd
 [common_widget/button_011] Missioni
 [common_widget/button_012] On
 [common_widget/button_013] Off
+[common_widget/button_014] Un'altra volta
 [common_widget/loading_001] Caricamento
 [common_widget/loading_002] VIA!
 [common_widget/loading_003] Connessione...
@@ -16586,7 +16985,12 @@ Vuoi far cambiare subito l'Unità?
 [common_widget/dialog_068] Puoi ottenere un Costume EX
 aumentando il numero di ★ di un'Unità
 fino a 6★ EX.
+[common_widget/dialog_070] La data è cambiata e hai ricevuto
+un ripristino totale.
+[common_widget/dialog_071] Missioni Residenza Lotta
 [common_widget/dialog_072] Non verrà scambiato automaticamente.
+[common_widget/dialog_073] Puoi ripristinare il limite di Unità con un ripristino totale.
+[common_widget/dialog_074] Puoi rimettere in sesto le Unità con un ripristino totale.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] L.
 [common_widget/trainer_detail_004] MAX
@@ -16887,6 +17291,7 @@ common_widget_ja.lsd
 [common_widget/button_011] ミッションへ
 [common_widget/button_012] ON
 [common_widget/button_013] OFF
+[common_widget/button_014] もういちど
 [common_widget/loading_001] Loading...
 [common_widget/loading_002] 出発
 [common_widget/loading_003] 通信中……
@@ -16995,7 +17400,12 @@ EXカラー衣装に　変更しますか？
 変更することもできます
 [common_widget/dialog_068] バディーズを★6EXにすることで
 EXカラー衣装が　かくとくできます
+[common_widget/dialog_070] 日付が変わりました
+全回復が付与されました
+[common_widget/dialog_071] バトルヴィラ用ミッション
 [common_widget/dialog_072] ※自動売却されません
+[common_widget/dialog_073] ※編成上限は全回復を実行するとリセットされます
+[common_widget/dialog_074] ※ひんし状態は全回復を実行するとリセットされます
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -17308,6 +17718,7 @@ common_widget_ko.lsd
 [common_widget/button_011] 미션으로
 [common_widget/button_012] ON
 [common_widget/button_013] OFF
+[common_widget/button_014] 한번 더
 [common_widget/loading_001] Loading...
 [common_widget/loading_002] 출발
 [common_widget/loading_003] 통신 중...
@@ -17414,7 +17825,12 @@ EX컬러 의상으로 변경하겠습니까?
 변경할 수도 있습니다
 [common_widget/dialog_068] 버디즈를 ★6EX로 만들면
 EX컬러 의상을 획득할 수 있습니다
+[common_widget/dialog_070] 날짜가 변경되었습니다
+모두 회복이 추가되었습니다
+[common_widget/dialog_071] 배틀빌라용 미션
 [common_widget/dialog_072] ※자동판매되지 않습니다
+[common_widget/dialog_073] ※편성 상한은 모두 회복하면 초기화됩니다
+[common_widget/dialog_074] ※기절 상태는 모두 회복하면 초기화됩니다
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -17725,6 +18141,7 @@ common_widget_zh-TW.lsd
 [common_widget/button_011] 前往任務
 [common_widget/button_012] ON
 [common_widget/button_013] OFF
+[common_widget/button_014] 再來一次
 [common_widget/loading_001] Loading...
 [common_widget/loading_002] 出發
 [common_widget/loading_003] 正在連線……
@@ -17819,7 +18236,12 @@ common_widget_zh-TW.lsd
 拍組詳細資訊中更改
 [common_widget/dialog_068] 讓拍組成長為★6EX
 可獲得EX服裝
+[common_widget/dialog_070] 日期已切換
+已賦予完全回復
+[common_widget/dialog_071] 對戰莊園專用任務
 [common_widget/dialog_072] ※不會被自動出售
+[common_widget/dialog_073] ※編制上限在執行完全回復後即會重設
+[common_widget/dialog_074] ※瀕死狀態在執行完全回復後即會重設
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -20125,12 +20547,23 @@ nicht drei Teams ausgewählt hast.
 [home/quest_list_100] 1-Jahres-Jubiläum
 [home/quest_list_101] Aktion läuft!
 [home/quest_list_102] Aktion läuft!
-[home/quest_list_103] P.
+[home/quest_list_103]  
 [home/quest_list_104] Verdiene dir in Kämpfen
 Bewegungspunkte!
 
 [home/quest_list_105] Episodenkarte
 [home/quest_list_106] Nicht verfügbar
+[home/quest_list_110] Gesamtpunkte
+[home/quest_list_112] Eventbelohnung
+[home/quest_list_113] Bestzeit
+[home/quest_list_114] Vorgegebene Zeit
+[home/quest_list_115] Bestreite den Schaukampf so oft du möchtest! (Ohne zusätzliche Punkte)
+[home/quest_list_117] Schließe Eilkämpfe so schnell wie möglich ab!
+Sammle dabei Punkte, um Items zu erhalten!
+[home/quest_list_118] Schließe Missionen ab, um Embleme zu erhalten!
+[home/quest_list_119] Eilkampfevent
+[home/quest_list_149] Hauptpreis [Digit:2digits ]
+[home/quest_list_150] Heute übrige Versuche: [Digit:3digits ] (werden tägl. nachgefüllt)
 [home/quest_detail_003] Empfohlener Typ
 [home/quest_detail_005] Details
 [home/quest_detail_009] Teamauswahl
@@ -20234,6 +20667,27 @@ weiteren Eier ablegen.
 oder Gefährten, um zusätzliche Items zu erhalten.
 Beinhaltet das Gefährtengespann bereits den
 Typen, gilt nur der höhere Bonus.
+[home/quest_detail_101] Punkte
+[home/quest_detail_102] Stärke-Boni gelten nicht für KP.
+Punkte-Boni werden für jedes Gefährtengespann
+berechnet.
+[home/quest_detail_103] Mindestzeit für den Abschluss
+[home/quest_detail_104] Rangpunkte erhalten 
+[home/quest_detail_105] Eilkampf
+(Details)
+[home/quest_detail_107] [Digit:8digits ] Pkt. erreicht!
+Belohnung erhalten!
+[home/quest_detail_108] Rangpunkte
+[home/quest_detail_109] Bonuspunkte
+[home/quest_detail_110] Erhaltene Punkte
+[home/quest_detail_111] Nächst. Belohnung
+[home/quest_detail_112] Belohnungsliste
+[home/quest_detail_113] Abschlussrang
+[home/quest_detail_114] Eventbelohnungen erhältst du, wenn du nach Ende des
+Kampfes die notwendige Gesamtpunktzahl erreicht hast.
+[home/quest_detail_115] Eventbelohnungsliste
+[home/quest_detail_116] [Digit:2digits Idx="1" ]:[Digit:2digits Idx="2" ] oder länger
+[home/quest_detail_140] Unter [Digit:2digits Idx="1" ]:[Digit:2digits Idx="2" ]
 [home/home_001] Laden
 [home/home_002] Abenteuer
 [home/home_003] Team
@@ -20261,6 +20715,7 @@ um mehr zu erfahren.
 [home/home_028] Zur G-Suche
 [home/home_029] Mitteilung nicht mehr zeigen.
 [home/home_030] Gefährten
+[home/home_031] Kampfvilla
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missionen
 [home/global_menu_008] Freunde
@@ -20321,6 +20776,25 @@ Gefährten zu heilen?
 einsetzen, um die Einsatzpunkte der
 Attacken aller Gefährten aufzufüllen?
 [home/quest_list_recovery_007] AEP aufgefüllt!
+[home/quest_list_recovery_008] Heilung
+[home/quest_list_recovery_009] Vollst. Heilung
+[home/quest_list_recovery_010] Vollständige Heilung füllt die KP und
+AEP aller Gefährten im Team auf und
+setzt das Teamauswahl-Limit zurück.
+Möchtest du eine vollständige Heilung
+durchführen?
+[home/quest_list_recovery_011] Hinweis: Du erhältst täglich um
+[Name:DateTime ] eine
+vollständige Heilung.
+[home/quest_list_recovery_012] Vollständige Heilung!
+[home/quest_list_recovery_013] Die KP und AEP aller Gefährten im
+Team wurden aufgefüllt und das
+Teamauswahl-Limit wurde
+zurückgesetzt.
+
+Du kehrst zum Ebenen-
+Auswahlbildschirm zurück.
+[home/quest_list_recovery_014] Übrige Nutzungen
 [home/episode_event_001] Episodenkarte
 [home/episode_event_002] Mit bestimmten Gefährten im Team
 steigen die Bewegungspunkte!
@@ -20398,6 +20872,7 @@ aufbrechen.
 kampfunfähigen Gefährten vollständig geheilt.
 [home/legend_battle_030] Belohnung fürs Erledigen
 aller Missionen
+[home/legend_battle_031] Kampftipps
 [home/sp_battle_001] Die Zahl der zu Event-Kollektivkämpfen
 aufgebrochenen Gefährten sowie der
 gegnerische Zustand (KP etc.) werden
@@ -20630,6 +21105,17 @@ than one team. Please edit your teams.
 event map by battling!
 [home/quest_list_105] Event Map
 [home/quest_list_106] Currently Unavailable
+[home/quest_list_110] Total Points
+[home/quest_list_112] Event Rewards
+[home/quest_list_113] Best Time
+[home/quest_list_114] Time to Beat
+[home/quest_list_115] Attempt practice matches as many times as you like! (No points awarded)
+[home/quest_list_117] Complete battles quickly to earn points and
+collect all the featured rewards!
+[home/quest_list_118] Complete missions to earn medals!
+[home/quest_list_119] Time Trial Event
+[home/quest_list_149] Featured Reward [Digit:2digits ]
+[home/quest_list_150] [Digit:3digits ] more attempts available today (added daily)
 [home/quest_detail_003] Recommended Types
 [home/quest_detail_005] Area Details
 [home/quest_detail_009] Preset Teams
@@ -20733,6 +21219,26 @@ because your Egg Box is full.
 completing certain battles with the featured sync pairs
 or types on your team. If multiple bonuses apply to
 the same sync pair, the larger bonus will take effect.
+[home/quest_detail_101] Points
+[home/quest_detail_102] Strength bonuses do not apply to HP.
+Point bonuses are calculated for each sync pair.
+[home/quest_detail_103] Time to Beat
+[home/quest_detail_104] Points Awarded
+[home/quest_detail_105] Time Trial
+Details
+[home/quest_detail_107] [Digit:8digits ] Total
+Points Earned!
+[home/quest_detail_108] Points
+[home/quest_detail_109] ＋Bonus Points
+[home/quest_detail_110] Points Earned
+[home/quest_detail_111] Points to next reward:
+[home/quest_detail_112] See Rewards
+[home/quest_detail_113] Completion Grades
+[home/quest_detail_114] Event rewards are awarded after battles once you’ve
+reached the required amount of total points listed here.
+[home/quest_detail_115] Event Rewards
+[home/quest_detail_116] [Digit:2digits Idx="1" ]:[Digit:2digits Idx="2" ] or longer
+[home/quest_detail_140] Under [Digit:2digits Idx="1" ]:[Digit:2digits Idx="2" ]
 [home/home_001] Shop
 [home/home_002] Explore
 [home/home_003] Team
@@ -20758,6 +21264,7 @@ Check out the shop for more details.
 [home/home_028] Scout
 [home/home_029] Don’t show this again.
 [home/home_030] Sync Pairs
+[home/home_031] Battle Villa
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missions
 [home/global_menu_008] Friends
@@ -20817,6 +21324,18 @@ each sync pair’s HP?
 Use treats to fully recover
 each sync pair’s Move Points?
 [home/quest_list_recovery_007] MP recovered!
+[home/quest_list_recovery_008] Recover
+[home/quest_list_recovery_009] Full Recovery
+[home/quest_list_recovery_010] A full recovery will fully recover HP and MP for all sync pairs and reset team restrictions.
+Do you wish to use a full recovery?
+[home/quest_list_recovery_011] A new full recovery is provided daily at [Name:DateTime ].
+[home/quest_list_recovery_012] Full Recovery!
+[home/quest_list_recovery_013] HP and MP have been fully recovered
+for all sync pairs, and team restrictions
+have been reset.
+
+Returning to hall selection screen.
+[home/quest_list_recovery_014] Remaining Uses
 [home/episode_event_001] Event Map
 [home/episode_event_002] Earn bonus travel tokens if you have
 these sync pairs in your lineup!
@@ -20896,6 +21415,7 @@ your team are able to battle.
 challenge is reset.
 [home/legend_battle_030] Mission Completion
 Rewards
+[home/legend_battle_031] Battle Tips
 [home/sp_battle_001] The number of sync pairs engaged in
 Full-Force Battles as well as your
 opponents’ HP and battle status
@@ -21121,11 +21641,22 @@ a través de la Caja Búsqueda.
 [home/quest_list_100] Evento de aniversario
 [home/quest_list_101] ¡Promoción en curso!
 [home/quest_list_102] ¡Promoción en curso!
-[home/quest_list_103] Puntos
+[home/quest_list_103]  
 [home/quest_list_104] ¡Combate para conseguir
 puntos de desplazamiento!
 [home/quest_list_105] Mapa de evento
 [home/quest_list_106] No disponible
+[home/quest_list_110] Puntos totales
+[home/quest_list_112] Premios de evento
+[home/quest_list_113] Mejor tiempo
+[home/quest_list_114] Límite de tiempo
+[home/quest_list_115] Libra tantos combates de exhibición como quieras (no recibirás puntos).
+[home/quest_list_117] ¡Completa combates contrarreloj! Acumula
+puntos y consigue todos los premios especiales.
+[home/quest_list_118] ¡Completa misiones para conseguir emblemas!
+[home/quest_list_119] Evento Contrarreloj
+[home/quest_list_149] Premio especial [Digit:2digits ]
+[home/quest_list_150] Te queda[ES:Qty P="n" ] [Digit:3digits ] intento[ES:Qty S="" P="s" ] más (se consiguen a diario).
 [home/quest_detail_003] Tipos recomendados
 [home/quest_detail_005] Detalles
 [home/quest_detail_009] Elegir equipo
@@ -21229,6 +21760,27 @@ así que no puedes aceptar más Huevos.
 bonus para conseguir más objetos con bonus. Si una
 pareja cuenta con más de un bonus, solo se aplicará
 el bonus más alto.
+[home/quest_detail_101] Puntos
+[home/quest_detail_102] Notas: La bonificación de fuerza no afecta a los PS.
+La bonificación de puntos se calcula para cada
+pareja de compis.
+[home/quest_detail_103] Tiempo necesario
+[home/quest_detail_104] Puntos de rango que obtendrás
+[home/quest_detail_105] Detalles
+contrarreloj
+[home/quest_detail_107] ¡[Digit:8digits ] puntos!
+¡Premio conseguido!
+[home/quest_detail_108] Puntos de rango
+[home/quest_detail_109] Puntos de bonificación
+[home/quest_detail_110] Puntos obtenidos
+[home/quest_detail_111] Para el siguiente premio:
+[home/quest_detail_112] Lista de premios
+[home/quest_detail_113] Rangos
+[home/quest_detail_114] Nota: Conseguirás los premios de evento tras alcanzar la
+cantidad necesaria de puntos al término de un combate.
+[home/quest_detail_115] Lista de premios de evento
+[home/quest_detail_116] [Digit:2digits Idx="1" ]:[Digit:2digits Idx="2" ] o más
+[home/quest_detail_140] Menos de [Digit:2digits Idx="1" ]:[Digit:2digits Idx="2" ]
 [home/home_001] Tienda
 [home/home_002] Aventura
 [home/home_003] Equipo
@@ -21253,8 +21805,9 @@ va a finalizar dentro de poco.
 [home/home_026] Reclutamiento limitado
 [home/home_027] Reclutamiento
 [home/home_028] Ir a Reclutamiento
-[home/home_029] No se volverá a mostrar.
+[home/home_029] No volver a mostrar.
 [home/home_030] Compis
+[home/home_031] Residencia Batalla
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Misiones
 [home/global_menu_008] Amigos
@@ -21313,6 +21866,23 @@ Se va a reiniciar el juego.
 PM de todos tus compis?
 [Name:Item ] ×[Digit:1digit ]
 [home/quest_list_recovery_007] ¡PM recuperados!
+[home/quest_list_recovery_008] Recuperación
+[home/quest_list_recovery_009] Recup. completa
+[home/quest_list_recovery_010] Al usar la recuperación completa,
+se restablecerán los PS y los PM de
+todos tus compis, así como las
+limitaciones de cambio de formación.
+¿Quieres continuar?
+[home/quest_list_recovery_011] Nota: Recibirás una recuperación completa todos los días a las [Name:DateTime ].
+[home/quest_list_recovery_012] ¡Se ha restablecido
+todo!
+[home/quest_list_recovery_013] Se han restablecido los PS y PM de tus
+compis, así como las limitaciones de
+cambio de formación.
+
+Ahora regresarás al menú de la
+Residencia Batalla.
+[home/quest_list_recovery_014] Usos restantes
 [home/episode_event_001] Mapa de evento
 [home/episode_event_002] ¡Obtén más puntos de desplazamiento
 al usar alguno de estos compis!
@@ -21368,7 +21938,7 @@ progreso.
 [home/legend_battle_016] Requisitos de obtención
 [home/legend_battle_017] Emblemas
 [home/legend_battle_018] Premios por daño
-[home/legend_battle_019] Reduce al [Digit:3digits Idx="1" ] % la [Digit:2digits ].ª barra de PS
+[home/legend_battle_019] Reduce al [Digit:3digits Idx="1" ]% la [Digit:2digits ].ª barra de PS
 [home/legend_battle_020] Premios normales
 [home/legend_battle_021] Puedes obtener premios en función del daño que inflijas
 al jefe.
@@ -21386,6 +21956,7 @@ equipo actual está fuera de combate.
 parejas de compis debilitadas se recuperen.
 [home/legend_battle_030] Premios por completar
 todas las misiones
+[home/legend_battle_031] Consejos para vencer
 [home/sp_battle_001] Se restablecerá todo el progreso del
 combate colectivo, los PS restantes de
 los rivales y los compis usados.
@@ -21612,6 +22183,17 @@ complètes avant de pouvoir continuer.
 Mouvement en combat !
 [home/quest_list_105] Carte
 [home/quest_list_106] Indisponible
+[home/quest_list_110] Points totaux
+[home/quest_list_112] Récompenses
+[home/quest_list_113] Meilleur temps
+[home/quest_list_114] Temps à battre
+[home/quest_list_115] Faites des combats amicaux à volonté ! (Aucun point ne sera accordé.)
+[home/quest_list_117] Gagnez des combats le plus vite possible pour
+accumuler des points et obtenir les Grands Prix !
+[home/quest_list_118] Finissez les missions pour obtenir un emblème !
+[home/quest_list_119] Évènement contre la montre
+[home/quest_list_149] Grand prix [Digit:2digits ]
+[home/quest_list_150] Encore [Digit:3digits ] exploration[FR:Qty P="s" ] (rechargées quotidiennement)
 [home/quest_detail_003] Types conseillés
 [home/quest_detail_005] Infos
 [home/quest_detail_009] Équipes
@@ -21716,6 +22298,26 @@ d'Œuf supplémentaire.
 remportant des combats avec les Duos ou les types en
 vedette. Les effets bonus sur les Duos et les types ne
 sont pas cumulables et seul le plus élevé est appliqué.
+[home/quest_detail_101] Points
+[home/quest_detail_102] Le bonus de Force ne s'applique pas aux PV.
+Le bonus de points est calculé pour chaque Duo.
+[home/quest_detail_103] Temps à battre
+[home/quest_detail_104] Points de rang obtenus
+[home/quest_detail_105] Contre la montre
+(détails)
+[home/quest_detail_107] [Digit:8digits ] point[FR:Qty P="s" ] !
+Récompense obtenue !
+[home/quest_detail_108] Points de rang
+[home/quest_detail_109] Points bonus
+[home/quest_detail_110] Points obtenus
+[home/quest_detail_111] Récompense dans :
+[home/quest_detail_112] Récompenses
+[home/quest_detail_113] Rangs
+[home/quest_detail_114] Pour obtenir ces récompenses, vous devez remporter des
+combats pour obtenir le nombre de points totaux requis.
+[home/quest_detail_115] Liste des récompenses
+[home/quest_detail_116] [Digit:2digits Idx="1" ]:[Digit:2digits Idx="2" ] ou plus
+[home/quest_detail_140] Moins de [Digit:2digits Idx="1" ]:[Digit:2digits Idx="2" ]
 [home/home_001] Boutique
 [home/home_002] Aventure
 [home/home_003] Équipe
@@ -21744,6 +22346,7 @@ en savoir plus !
 [home/home_028] Appel Duo
 [home/home_029] Ne plus afficher ce message.
 [home/home_030] Duos
+[home/home_031] Villa de Combat
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missions
 [home/global_menu_008] Amis
@@ -21803,6 +22406,24 @@ Duos en utilisant l'objet suivant ?
 utilisant l'objet suivant ?
 [Name:Item ] × [Digit:1digit ]
 [home/quest_list_recovery_007] PPC récupérés !
+[home/quest_list_recovery_008] Restauration
+[home/quest_list_recovery_009] Restauration totale
+[home/quest_list_recovery_010] Les PV de tous vos Duos ainsi que
+leurs PPC seront restaurés, et les
+limites d'équipes seront réinitialisées.
+Voulez-vous vraiment utiliser une
+restauration totale ?
+[home/quest_list_recovery_011] Vous recevez une restauration totale chaque jour à
+[Name:DateTime ].
+[home/quest_list_recovery_012] Restauration
+totale !
+[home/quest_list_recovery_013] Les PV de tous vos Duos ainsi que
+leurs PPC ont été restaurés, et les
+restrictions d'équipe ont été
+réinitialisées.
+Vous allez retourner à l'écran de
+sélection des échelons.
+[home/quest_list_recovery_014] Essais restants
 [home/episode_event_001] Carte
 [home/episode_event_002] Gagnez des Points de Mouvement en
 ajoutant certains Duos à votre équipe !
@@ -21881,6 +22502,7 @@ réinitialisées.
 Vous ne pouvez pas partir à l'aventure.
 [home/legend_battle_028] Réinitialiser soignera les Duos qui ont été mis K.O.
 [home/legend_battle_030] Récompenses de mission
+[home/legend_battle_031] Conseils
 [home/sp_battle_001] Les PV des ennemis seront restaurés
 et le nombre de Duos utilisés pendant
 le Combat Collectif retombera à 0.
@@ -22109,15 +22731,27 @@ tre le squadre per affrontare la sfida.
 [home/quest_list_095] Aumento Uniciondoli
 [home/quest_list_096] L. [Digit:3digits ]
 [home/quest_list_097] Completamenti residui: [Digit:2digits ]
-[home/quest_list_098] Eventi leggendari
+[home/quest_list_098] Evento leggendario
 [home/quest_list_100] Evento per l'anniversario
 [home/quest_list_101] Campagna in corso
 [home/quest_list_102] Campagna in corso
-[home/quest_list_103] PM
+[home/quest_list_103]  
 [home/quest_list_104] Lotta, ricevi PM e avanza
 nelle Mappe episodi!
 [home/quest_list_105] Mappa episodi
 [home/quest_list_106] Non disponibile
+[home/quest_list_110] Punti totali
+[home/quest_list_112] Ricompense
+[home/quest_list_113] Record
+[home/quest_list_114] Completa entro:
+[home/quest_list_115] Non ci sono punti in palio, ma puoi affrontare la sfida quante volte vuoi!
+[home/quest_list_117] Punta al tempo migliore nella Cronolotta! Ottieni
+tutti i premi principali coi punti accumulati!
+[home/quest_list_118] Completa le missioni per ottenere
+degli emblemi!
+[home/quest_list_119] Evento Cronolotta
+[home/quest_list_149] Premio principale [Digit:2digits ]
+[home/quest_list_150] [Digit:3digits ] tentativ[IT:Qty S="o" P="i" ] rimast[IT:Qty S="o" P="i" ] oggi (ne ricevi ogni giorno).
 [home/quest_detail_003] Tipi consigliati
 [home/quest_detail_005] Info area
 [home/quest_detail_009] Scegli squadra
@@ -22220,6 +22854,25 @@ Uova è pieno.
 in certe lotte, otterrai gli strumenti indicati in maggiore
 quantità. Se una delle Unità indicate è anche di uno
 dei tipi indicati, verrà applicato solo il bonus più alto.
+[home/quest_detail_101] Punti
+[home/quest_detail_102] I bonus potenza non si applicano ai PS.
+I bonus punti vengono calcolati per ciascuna Unità.
+[home/quest_detail_103] Tempo necessario
+[home/quest_detail_104] Punti rango ottenibili
+[home/quest_detail_105] Info Cronolotta
+[home/quest_detail_107] [Digit:8digits ] punti!
+Nuova ricompensa!
+[home/quest_detail_108] Punti categoria
+[home/quest_detail_109] Punti bonus
+[home/quest_detail_110] Punti ottenuti
+[home/quest_detail_111] Ricompensa tra:
+[home/quest_detail_112] Lista ricompense
+[home/quest_detail_113] Categorie completamento
+[home/quest_detail_114] Le ricompense possono essere ottenute raggiungendo
+i punti totali indicati al termine di una lotta.
+[home/quest_detail_115] Lista ricompense evento
+[home/quest_detail_116] [Digit:2digits Idx="1" ]:[Digit:2digits Idx="2" ] o più
+[home/quest_detail_140] Meno di [Digit:2digits Idx="1" ]:[Digit:2digits Idx="2" ]
 [home/home_001] Negozio
 [home/home_002] Avventura
 [home/home_003] Squadra
@@ -22249,6 +22902,7 @@ per approfittarne!
 [home/home_028] Unicerca
 [home/home_029] Non mostrare più.
 [home/home_030] Unità
+[home/home_031] Residenza Lotta
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missioni
 [home/global_menu_008] Amici
@@ -22309,6 +22963,20 @@ per tutte le Unità? Consumerai:
 [Name:Item ] ×[Digit:1digit ]
 [home/quest_list_recovery_007] Utilizzi mosse
 ripristinati!
+[home/quest_list_recovery_008] Rimetti in sesto
+[home/quest_list_recovery_009] Ripristino totale
+[home/quest_list_recovery_010] Vuoi ripristinare i PS di tutte le Unità,
+gli utilizzi delle mosse e il limite
+massimo di Unità in squadra?
+[home/quest_list_recovery_011] Ricevi un ripristino totale ogni giorno alle ore
+[Name:DateTime ]
+[home/quest_list_recovery_012] Ripristino totale
+effettuato!
+[home/quest_list_recovery_013] I PS di tutte le Unità, gli utilizzi delle
+mosse e il limite massimo di Unità
+in squadra sono stati ripristinati.
+Ritorno alla lista delle sale.
+[home/quest_list_recovery_014] Ripristini totali residui
 [home/episode_event_001] Mappa episodi
 [home/episode_event_002] Mettendo in squadra Unità specifiche,
 otterrai più Punti Movimento!
@@ -22386,6 +23054,7 @@ in squadra sono esauste.
 [home/legend_battle_028] Puoi effettuare un ripristino per rimettere in sesto
 le Unità.
 [home/legend_battle_030] Ricompensa missioni
+[home/legend_battle_031] Consigli per vincere
 [home/sp_battle_001] Il ripristino azzererà il numero di Unità
 alleate partite per la Lotta Collettiva
 e rimetterà del tutto in sesto i nemici.
@@ -22618,6 +23287,18 @@ Lv.[Digit:2digits ]で解放
 エピソードマップを進めよう！
 [home/quest_list_105] エピソードマップへ
 [home/quest_list_106] 開催期間外
+[home/quest_list_110] 累計ポイント
+[home/quest_list_112] イベント報酬へ
+[home/quest_list_113] ベストタイム
+[home/quest_list_114] 指定タイム
+[home/quest_list_115] エキシビションマッチは何度も挑戦可能！（ポイント獲得対象外）
+[home/quest_list_117] タイムアタックで最速クリアをめざそう！
+ポイントを集めて　全ての目玉報酬を獲得しよう！
+[home/quest_list_118] ミッションをクリアして
+エンブレム獲得をめざそう！
+[home/quest_list_119] タイムアタックイベント
+[home/quest_list_149] 目玉報酬[Digit:2digits ]
+[home/quest_list_150] 今日の挑戦回数あと[Digit:3digits ]回（毎日補充されます）
 [home/quest_detail_003] おすすめのタイプ
 [home/quest_detail_005] エリア詳細
 [home/quest_detail_009] チーム選択
@@ -22716,6 +23397,26 @@ Lv.[Digit:2digits ]で解放
 対象どうぐの獲得数にボーナスがつきます
 ※対象バディーズが対象タイプにも含まれる場合
 効果値は加算されずにより高い値が適用されます
+[home/quest_detail_101] ポイント
+[home/quest_detail_102] ※「つよさ」ボーナスはHP以外に適用されます
+※「ポイント」ボーナスはバディーズ毎に計算されます
+[home/quest_detail_103] 達成基準タイム
+[home/quest_detail_104] 獲得RANKポイント
+[home/quest_detail_105] タイムアタック
+詳細
+[home/quest_detail_107] [Digit:8digits ]pt達成！
+報酬獲得！
+[home/quest_detail_108] RANKポイント
+[home/quest_detail_109] ＋ボーナスポイント
+[home/quest_detail_110] 獲得ポイント
+[home/quest_detail_111] 次の報酬まで
+[home/quest_detail_112] 報酬一覧
+[home/quest_detail_113] クリアRANK
+[home/quest_detail_114] ※イベント報酬はバトル終了後に累計ポイントが
+必要ポイントに到達した時点で獲得できます
+[home/quest_detail_115] イベント報酬一覧
+[home/quest_detail_116] [Digit:2digits Idx="1" ]:[Digit:2digits Idx="2" ]以上
+[home/quest_detail_140] [Digit:2digits Idx="1" ]:[Digit:2digits Idx="2" ]未満
 [home/home_001] ショップ
 [home/home_002] ぼうけん
 [home/home_003] チーム
@@ -22743,6 +23444,7 @@ Lv.[Digit:2digits ]で解放
 [home/home_028] Bサーチへ
 [home/home_029] このお知らせは今後表示しない
 [home/home_030] バディーズ
+[home/home_031] バトルヴィラ
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] ミッション
 [home/global_menu_008] ともだち
@@ -22804,6 +23506,19 @@ Lv.[Digit:2digits ]で解放
 使用しますか？
 [home/quest_list_recovery_007] わざの回数
 回復完了！
+[home/quest_list_recovery_008] 回復
+[home/quest_list_recovery_009] 全回復
+[home/quest_list_recovery_010] 全回復を実行して
+全バディーズのHP　わざの回数を
+全回復し　編成上限をリセットします
+
+よろしいですか？
+[home/quest_list_recovery_011] ※全回復は毎日[Name:DateTime ]に付与されます
+[home/quest_list_recovery_012] 全回復！
+[home/quest_list_recovery_013] 全バディーズのHP　わざの回数が
+全回復し　編成上限がリセットされました
+GRADE一覧に戻ります
+[home/quest_list_recovery_014] のこり回数
 [home/episode_event_001] エピソードマップ
 [home/episode_event_002] 特定のバディーズを編成すると
 移動ポイントUP！
@@ -22879,6 +23594,7 @@ Lv.[Digit:2digits ]で解放
 [home/legend_battle_028] ※ひんし状態はリセットすると回復します
 [home/legend_battle_030] 全ミッション
 達成報酬
+[home/legend_battle_031] バトルに勝つために
 [home/sp_battle_001] リセットを実行すると同イベントの挑戦中
 ソウリョクバトルの味方の出発数や
 敵のＨＰなどの状態がリセットされます
@@ -23107,6 +23823,18 @@ Lv.[Digit:2digits ]에서 해방
 에피소드 맵을 진행하자
 [home/quest_list_105] 에피소드 맵으로
 [home/quest_list_106] 개최 기간이 아닙니다
+[home/quest_list_110] 합계포인트
+[home/quest_list_112] 이벤트 보상으로
+[home/quest_list_113] 베스트 타임
+[home/quest_list_114] 지정 시간
+[home/quest_list_115] 엑시비션 매치에는 몇 번이고 도전할 수 있습니다! (포인트 획득 대상 외)
+[home/quest_list_117] 타임어택으로 최단 시간 클리어를 노려보자!
+포인트를 모아서 모든 주요 보상을 획득하자!
+[home/quest_list_118] 미션을 클리어하고
+엠블럼을 획득해보자!
+[home/quest_list_119] 타임어택 이벤트
+[home/quest_list_149] 주요 보상 [Digit:2digits ]
+[home/quest_list_150] 오늘의 도전 횟수는 앞으로 [Digit:3digits ]회(매일 충전됩니다)
 [home/quest_detail_003] 추천타입
 [home/quest_detail_005] 에리어 상세
 [home/quest_detail_009] 팀 선택
@@ -23203,6 +23931,26 @@ Lv.[Digit:2digits ]에서 해방
 대상 도구를 획득할 때 보너스가 추가됩니다
 ※대상 버디즈가 대상 타입에도 포함되는 경우
 보너스는 중복되지 않으며 더 높은 쪽의 수치가 적용됩니다
+[home/quest_detail_101] 포인트
+[home/quest_detail_102] ※"능력치" 보너스는 HP 이외에 적용됩니다
+※"포인트" 보너스는 버디즈마다 계산됩니다
+[home/quest_detail_103] 달성 기준 시간
+[home/quest_detail_104] 획득 랭크포인트
+[home/quest_detail_105] 타임어택
+상세
+[home/quest_detail_107] [Digit:8digits ]포인트 달성!
+보상 획득!
+[home/quest_detail_108] 랭크포인트
+[home/quest_detail_109] 보너스포인트
+[home/quest_detail_110] 획득포인트
+[home/quest_detail_111] 다음 보상까지
+[home/quest_detail_112] 보상 일람
+[home/quest_detail_113] 클리어 랭크
+[home/quest_detail_114] ※이벤트 보상은 배틀 종료 후에 합계포인트가
+필요포인트에 도달해 있다면 획득할 수 있습니다
+[home/quest_detail_115] 이벤트 보상 일람
+[home/quest_detail_116] [Digit:2digits Idx="1" ] : [Digit:2digits Idx="2" ] 이상
+[home/quest_detail_140] [Digit:2digits Idx="1" ] : [Digit:2digits Idx="2" ] 미만
 [home/home_001] 숍
 [home/home_002] 모험
 [home/home_003] 팀
@@ -23229,6 +23977,7 @@ Lv.[Digit:2digits ]에서 해방
 [home/home_028] B서치로
 [home/home_029] 이 알림을 이후 표시하지 않는다
 [home/home_030] 버디즈
+[home/home_031] 배틀빌라
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] 미션
 [home/global_menu_008] 친구
@@ -23290,6 +24039,19 @@ Lv.[Digit:2digits ]에서 해방
 모두 회복할 수 있습니다
 사용하겠습니까?
 [home/quest_list_recovery_007] 기술횟수 회복 완료!
+[home/quest_list_recovery_008] 회복
+[home/quest_list_recovery_009] 모두 회복
+[home/quest_list_recovery_010] 모두 회복으로
+모든 버디즈의 HP, 기술횟수를 모두 회복하고
+편성 상한을 초기화합니다
+괜찮겠습니까?
+[home/quest_list_recovery_011] ※모두 회복은 매일 [Name:DateTime ]에 추가됩니다
+[home/quest_list_recovery_012] 모두 회복!
+[home/quest_list_recovery_013] 모든 버디즈의 HP, 기술횟수가
+모두 회복되었습니다
+편성 상한이 초기화되었습니다
+GRADE 목록으로 돌아갑니다
+[home/quest_list_recovery_014] 남은 횟수
 [home/episode_event_001] 에피소드 맵
 [home/episode_event_002] 특정 버디즈를 편성하면
 이동포인트 UP!
@@ -23368,6 +24130,7 @@ Lv.[Digit:2digits ]에서 해방
 [home/legend_battle_028] ※기절 상태는 초기화하면 회복됩니다
 [home/legend_battle_030] 모든 미션
 달성 보상
+[home/legend_battle_031] 배틀에 이기기 위해서는
 [home/sp_battle_001] 초기화하면 같은 이벤트에서 도전 중인
 총력배틀에서 출발 가능한 같은 편의 버디즈 수나
 상대의 HP 등의 상태가 초기화됩니다
@@ -23580,6 +24343,18 @@ home_zh-TW.lsd
 並進行劇情地圖！
 [home/quest_list_105] 前往劇情地圖
 [home/quest_list_106] 非舉辦期間
+[home/quest_list_110] 總計點數
+[home/quest_list_112] 前往活動報酬
+[home/quest_list_113] 最佳時間
+[home/quest_list_114] 指定時間
+[home/quest_list_115] 模擬戰可無限次數挑戰！（無法獲得點數）
+[home/quest_list_117] 在計時戰中挑戰用最快速度過關！
+收集點數來獲得所有的特級報酬吧！
+[home/quest_list_118] 完成任務
+獲得勳章吧！
+[home/quest_list_119] 計時戰活動
+[home/quest_list_149] 特級報酬[Digit:2digits ]
+[home/quest_list_150] 今天的挑戰次數還剩[Digit:3digits ]次（每天都會補充）
 [home/quest_detail_003] 推薦屬性
 [home/quest_detail_005] 區域詳情
 [home/quest_detail_009] 選擇隊伍
@@ -23672,6 +24447,26 @@ home_zh-TW.lsd
 所獲得之指定道具的數量將會附加額外獎勵
 ※當指定拍組中包含指定屬性時
 將適用數值較高的效果而不會重複累計
+[home/quest_detail_101] 點數
+[home/quest_detail_102] ※「戰力」獎勵適用於HP以外的能力值
+※「點數」獎勵會將各拍組分開計算
+[home/quest_detail_103] 標準達成時間
+[home/quest_detail_104] 獲得RANK點數
+[home/quest_detail_105] 計時戰
+說明
+[home/quest_detail_107] [Digit:8digits ]pt達成！
+獲得報酬！
+[home/quest_detail_108] RANK點數
+[home/quest_detail_109] ＋獎勵點數
+[home/quest_detail_110] 獲得點數
+[home/quest_detail_111] 離下一個報酬
+[home/quest_detail_112] 報酬一覽
+[home/quest_detail_113] 過關RANK
+[home/quest_detail_114] ※在對戰結束後，總計點數累積
+達所需點數時，即可獲得活動報酬
+[home/quest_detail_115] 活動報酬一覽
+[home/quest_detail_116] [Digit:2digits Idx="1" ]:[Digit:2digits Idx="2" ]以上
+[home/quest_detail_140] 低於[Digit:2digits Idx="1" ]:[Digit:2digits Idx="2" ]
 [home/home_001] 商店
 [home/home_002] 冒險
 [home/home_003] 隊伍
@@ -23698,6 +24493,7 @@ home_zh-TW.lsd
 [home/home_028] 前往拍組搜尋
 [home/home_029] 今後不再顯示此通知
 [home/home_030] 拍檔組合
+[home/home_031] 對戰莊園
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] 任務
 [home/global_menu_008] 朋友
@@ -23751,6 +24547,17 @@ home_zh-TW.lsd
 完全回復我方全體拍組的招式次數
 要使用嗎？
 [home/quest_list_recovery_007] 招式次數回復了！
+[home/quest_list_recovery_008] 回復
+[home/quest_list_recovery_009] 完全回復
+[home/quest_list_recovery_010] 要進行完全回復
+讓全體拍組的HP、招式次數
+全部回復並重設編制上限嗎？
+[home/quest_list_recovery_011] ※每日[Name:DateTime ]會賦予完全回復
+[home/quest_list_recovery_012] 完全回復！
+[home/quest_list_recovery_013] 全體拍組的HP、招式次數已完全回復
+編制上限已重設
+即將回到GRADE一覽
+[home/quest_list_recovery_014] 剩餘次數
 [home/episode_event_001] 劇情地圖
 [home/episode_event_002] 用特定的拍組編制隊伍
 就能獲得更多移動點數喔！
@@ -23821,6 +24628,7 @@ home_zh-TW.lsd
 無法出發
 [home/legend_battle_028] ※瀕死狀態會在重設後回復
 [home/legend_battle_030] 達成全部任務時的報酬
+[home/legend_battle_031] 為了贏得對戰
 [home/sp_battle_001] 一旦進行重設，本活動內挑戰中
 大對戰的我方出發數與敵人的
 ＨＰ狀態將會重設
@@ -24022,6 +24830,13 @@ ins Pokémon-Center zurück.
 [shop/shop_medal_039] Gefährtendrops-Bonus↑
 (Zeitraum: 20 Tage)
 [shop/shop_medal_040] Gesamt
+[shop/shop_medal_041] Bitte die folgenden Informationen vor
+einem Kauf lesen.
+[shop/shop_medal_042] Infos zu Produkten
+[shop/shop_medal_043] Infos zu Produkten und der Angebotszeitraum können jederzeit ohne Vorankündigung geändert werden. Der Nutzungszeitraum von [Name:Item ] läuft am [Name:DateTime ] ab. Die beim Einkauf erhaltenen Geschenke werden direkt in deinen Beutel übertragen. Ist dein Beutel voll, werden sie stattdessen in deine Geschenkbox übertragen. Die Geschenke können nur für einen begrenzten Zeitraum abgeholt werden.
+[shop/shop_medal_044] Geschenk
+[shop/shop_medal_045] [Name:Item ] (1 Mal)
+24-Stunden-Abhollimit
 [shop/shop_itemexchange_001] Item-Tausch
 [shop/shop_itemexchange_003] Tauschen
 [shop/shop_itemexchange_004] Tauschen
@@ -24483,6 +25298,21 @@ Returning to Pokémon Center.
 [shop/shop_medal_039] Sync Orb Reward Boost
 (20 days)
 [shop/shop_medal_040] Total
+[shop/shop_medal_041] Please carefully read the information
+below before purchasing.
+[shop/shop_medal_042] Product Details
+[shop/shop_medal_043] Product details and the period in which it is available
+for purchase are subject to change without notice.
+The following items expire on [Name:DateTime ]:
+[Name:Item ].
+These presents will be sent directly to your Bag.
+If your Bag is full at the time of purchase, these
+presents will be sent to your Present Box.
+These presents can only be claimed from your
+Present Box for a limited time.
+[shop/shop_medal_044] Present
+[shop/shop_medal_045] [Name:Item ] (1 use)
+Note: Must claim within 24 hours
 [shop/shop_itemexchange_001] Exchange Items
 [shop/shop_itemexchange_003] Exchanged
 [shop/shop_itemexchange_004] Exchange
@@ -24683,7 +25513,7 @@ to scout 11 sync pairs?
 [shop/scout_107] Do you want to use [Digit:4digits ] paid gems
 to scout 11 sync pairs?
 [shop/scout_108] Bonus Present!
-[shop/scout_109] First time only
+[shop/scout_109] 1st time only
 [shop/scout_110] Present
 Details
 [shop/scout_111] Receive a present with featured sync pairs!
@@ -24835,6 +25665,22 @@ regresarás al Centro Pokémon.
 [shop/shop_medal_039] Multiplicador de Orbes Compi
 (válido durante 20 días)
 [shop/shop_medal_040] Total
+[shop/shop_medal_041] Comprueba bien los detalles que se
+muestran a continuación antes de
+realizar la compra.
+[shop/shop_medal_042] Detalles del producto
+[shop/shop_medal_043] Es posible que los detalles y la disponibilidad del
+producto cambien sin previo aviso.
+El siguiente producto caduca el [Name:DateTime ]:
+[Name:Item ].
+Los regalos que obtengas de esta compra se enviarán
+directamente a la Bolsa. Si está llena en el momento
+de la compra, se enviarán a la caja de regalos. Ten
+en cuenta que los objetos de la caja de regalos que
+no hayas aceptado desaparecerán pasado un tiempo.
+[shop/shop_medal_044] Regalo
+[shop/shop_medal_045] [Name:Item ] (un uso)
+Tienes 24 horas para recibirlo.
 [shop/shop_itemexchange_001] Canjear objetos
 [shop/shop_itemexchange_003] Canjear
 [shop/shop_itemexchange_004] Canjear
@@ -25161,6 +26007,21 @@ Retour au Centre Pokémon.
 [shop/shop_medal_039] Duo-Sphères Reçues ↑
 (20 jours)
 [shop/shop_medal_040] Total
+[shop/shop_medal_041] Veuillez prendre connaissance
+des informations suivantes avant
+de finaliser votre achat.
+[shop/shop_medal_042] Informations sur le produit
+[shop/shop_medal_043] La période de disponibilité du produit ainsi que son
+contenu sont susceptibles de changer sans préavis.
+L'objet suivant expire le [Name:DateTime ] :
+• [Name:Item ]
+Les cadeaux obtenus à l'achat seront envoyés
+directement dans votre sac. Si votre sac est plein,
+ils seront envoyés dans le menu « Cadeaux » et
+seront récupérables pendant une période limitée.
+[shop/shop_medal_044] Cadeau
+[shop/shop_medal_045] [Name:Item ] (1 fois)
+À récupérer dans les 24 h.
 [shop/shop_itemexchange_001] Échange d'objets
 [shop/shop_itemexchange_003] Échange
 [shop/shop_itemexchange_004] Échanger
@@ -25481,6 +26342,22 @@ Ritorno al Centro Pokémon.
 [shop/shop_medal_039] Più Uniciondoli
 (20 giorni)
 [shop/shop_medal_040] Totale
+[shop/shop_medal_041] Leggi attentamente le informazioni
+sul prodotto prima di procedere
+all'acquisto.
+[shop/shop_medal_042] Informazioni sul prodotto
+[shop/shop_medal_043] Le informazioni sul prodotto e il periodo
+di disponibilità sono soggetti a modifiche
+senza preavviso.
+Scadenza [Name:Item ]:
+[Name:DateTime ].
+I regali ricevibili al momento dell'acquisto saranno
+inviati direttamente alla Borsa, oppure ai Regali,
+se la Borsa è piena. In quest'ultimo caso, i regali
+devono essere ritirati entro la scadenza prefissata.
+[shop/shop_medal_044] Regalo
+[shop/shop_medal_045] [Name:Item ] (1 accesso)
+Da ritirare entro 24 ore.
 [shop/shop_itemexchange_001] Scambio strumenti
 [shop/shop_itemexchange_003] Scambiati
 [shop/shop_itemexchange_004] Scambia
@@ -25875,6 +26752,19 @@ ONにしてください
 [shop/shop_medal_039] バディドロップ報酬アップ
 （20日間）
 [shop/shop_medal_040] 合計
+[shop/shop_medal_041] 下記の内容をよくご確認いただいた上で
+ご購入ください
+[shop/shop_medal_042] 商品内容
+[shop/shop_medal_043] ※商品内容や販売期間は予告なく変更になる場合があります
+※[Name:Item ]の使用期限は
+　[Name:DateTime ]です
+※購入時に受け取ったプレゼントは直接バッグに送られます
+※受け取り時にバッグがいっぱいの場合は
+　プレゼントボックスに送られます
+※プレゼントボックスからの受け取りには期限があります
+[shop/shop_medal_044] プレゼント
+[shop/shop_medal_045] [Name:Item ]（1回分）
+※受取期限24時間
 [shop/shop_itemexchange_001] どうぐ交換
 [shop/shop_itemexchange_003] 交換
 [shop/shop_itemexchange_004] 交換
@@ -26260,6 +27150,20 @@ ON으로 바꿔주십시오
 [shop/shop_medal_039] 버디드롭 보상 업
 (20일간)
 [shop/shop_medal_040] 합계
+[shop/shop_medal_041] 아래의 내용을 잘 확인하신 후에
+구입하시기 바랍니다
+[shop/shop_medal_042] 상품 내용
+[shop/shop_medal_043] ※상품 내용이나 판매 기간은 예고 없이 변경될 가능성이 있습니다
+※[Name:Item ]의 사용기한은
+   [Name:DateTime ]입니다
+※구입 시에 받는 선물은 직접 가방으로 전송됩니다
+※받을 때 가방이 가득 찬 경우에는
+   프레젠트박스에서 받을 수 있습니다
+※프레젠트박스에서 받는 경우에는
+   수령 기한이 설정되어 있습니다
+[shop/shop_medal_044] 선물
+[shop/shop_medal_045] [Name:Item ](1회 분량)
+※수령 기한 24시간
 [shop/shop_itemexchange_001] 도구 교환
 [shop/shop_itemexchange_003] 교환
 [shop/shop_itemexchange_004] 교환
@@ -26656,6 +27560,16 @@ shop_zh-TW.lsd
 [shop/shop_medal_039] 拍檔滴晶報酬增加
 （20天）
 [shop/shop_medal_040] 總計
+[shop/shop_medal_041] 請仔細確認下述內容後再進行購買
+[shop/shop_medal_042] 商品內容
+[shop/shop_medal_043] ※商品內容及販賣期間有可能不經預告而變更
+※[Name:Item ]的使用期限為[Name:DateTime ]
+※購買時領取的禮物將會直接送到包包
+※領取時包包已滿的話，禮物會被送到禮物箱中
+※禮物箱有領取期限
+[shop/shop_medal_044] 禮物
+[shop/shop_medal_045] [Name:Item ]（1次份）
+※領取期限24小時
 [shop/shop_itemexchange_001] 交換道具
 [shop/shop_itemexchange_003] 交換
 [shop/shop_itemexchange_004] 交換
