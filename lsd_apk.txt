@@ -2787,10 +2787,59 @@ Welt
 [quest_title_1030312001010060] Vs. G-Cis 6
 [quest_title_1030312001020050] Vs. Platan 3
 [quest_title_1030312001040050] Vs. Gloria 5
+[quest_group_title_10245410000] Mary (Saison 2022)
+[quest_group_title_10250400000] Saida (Saison 2022)
+[quest_group_title_10194100000] MaMo-Zyrus
+[quest_group_title_10116100000] MaMo-Lucia
+[quest_title_1030110000440100] Ein alles verschlingender
+Alptraum
+[quest_title_1030110000440600] Vs. Galaktik Rüpel 4
+[quest_title_1030110000440200] Ein gemeinsames Ziel
+[quest_title_1030110000440700] Vs. Galaktik Rüpel 5
+[quest_title_1030110000440300] Erinnerungen...
+[quest_title_1030110000440800] Vs. Galaktik Rüpel 6
+[quest_title_1030110000440400] Zeit, aufzuwachen
+[quest_title_1030110000440900] Vs. Zyrus 2
+[quest_title_1030110000440500] Das Streben nach einem
+vollkommenen Geist
+[quest_title_1030440100201010] Kampf um Musik-Münzen
+[quest_title_1030401000603000] Der Geruch von Süßem
+[quest_title_1030401000603030] Her mit der Schokolade!
+[quest_title_1030401000603070] Vs. Team Break 1
+[quest_title_1030401000603040] Das gestohlene Herz
+[quest_title_1030401000603080] Vs. Team Break 2
+[quest_title_1030401000603050] Gefühle werden offenbart
+[quest_title_1030401000603090] Vs. Team Break 3
+[quest_title_1030401000603060] Ein süßes Geschenk
+[quest_title_1030401000603100] Vs. Team Break 4
+[quest_title_1030401000603110] Täglicher schwerer Kampf
+[quest_title_1030401000603120] Herausforderungskampf 1
+[quest_title_1030401000603130] Herausforderungskampf 2
+[quest_title_1030401000603020] Jubeln mit Mary
+[quest_title_1030401000603010] Saidas süßes Geheimnis
+[quest_title_1030440100401010] Vs. Trainer aus Passio 1
+[quest_title_1030440100402010] Vs. Trainer aus Passio 2
+[quest_title_1030440100403010] Vs. Trainer aus Passio 3
+[quest_title_1030440100404010] Vs. Trainer aus Passio 4
+[quest_title_1030401000601010] Vs. Galaktik Rüpel
+[quest_title_1030401000601020] Vs. Galaktik Rüpel 2
+[quest_title_1030401000601030] Vs. Galaktik Rüpel 3
+[quest_title_1030401000601040] Täglicher schwerer Kampf
+[quest_title_1030401000601050] Herausforderungskampf 1
+[quest_title_1030401000601060] Herausforderungskampf 2
+[quest_title_1030401000602010] Sinnoh-Kameraden
+[quest_title_1030401000602020] Sinnoh-Kameraden 2
+[quest_title_1030440100300010] Ein heißblütiges Gespann
+[quest_title_1030440100301010] Vs. Trainer aus Passio 1
+[quest_title_1030440100302010] Vs. Trainer aus Passio 2
+[quest_title_1030440100303010] Vs. Trainer aus Passio 3
+[quest_title_1030440100304010] Vs. Trainer aus Passio 4
 [quest_group_title_100207] Wackerer Schild der Ewigkeit
 [quest_group_title_100204] Vater oder Feind
 [quest_group_title_100203] Neue Welt, neue Gefühle
 [quest_group_title_100205] Geben und Nehmen
+[quest_title_1030220194100000] Ein Tag mit MaMo-Zyrus
+[quest_title_1030220116100000] Ein Tag mit MaMo-Lucia
 
 ===========
 story_quest_name_en.lsd
@@ -4783,10 +4832,59 @@ story_quest_name_en.lsd
 [quest_title_1030312001010060] Challenge Ghetsis: Part 6
 [quest_title_1030312001020050] Challenge Professor Sycamore: Part 3
 [quest_title_1030312001040050] Challenge Gloria: Part 5
+[quest_group_title_10245410000] Marnie
+(Palentine’s 2022)
+[quest_group_title_10250400000] Bea
+(Palentine’s 2022)
+[quest_group_title_10194100000] Sygna Suit Cyrus
+[quest_group_title_10116100000] Sygna Suit Dawn
+[quest_title_1030110000440100] The Nightmare Spreads
+[quest_title_1030110000440600] Challenge the Galactic Grunts: Part 4
+[quest_title_1030110000440200] Galactic Alliance
+[quest_title_1030110000440700] Challenge the Galactic Grunts: Part 5
+[quest_title_1030110000440300] Intertwined Pasts
+[quest_title_1030110000440800] Challenge the Galactic Grunts: Part 6
+[quest_title_1030110000440400] The Time of Awakening
+[quest_title_1030110000440900] Challenge Cyrus: Part 2
+[quest_title_1030110000440500] A Mission to Complete
+[quest_title_1030440100201010] Music Coin Challenge!
+[quest_title_1030401000603000] Our First Palentine’s
+[quest_title_1030401000603030] We Are Team Heartbreak!
+[quest_title_1030401000603070] Challenge Team Break: Part 1
+[quest_title_1030401000603040] A Beautiful Soul
+[quest_title_1030401000603080] Challenge Team Break: Part 2
+[quest_title_1030401000603050] Show of Gratitude
+[quest_title_1030401000603090] Challenge Team Break: Part 3
+[quest_title_1030401000603060] Sweet Heart Present
+[quest_title_1030401000603100] Challenge Team Break: Part 4
+[quest_title_1030401000603110] Daily Extreme Battle 1
+[quest_title_1030401000603120] Battle Challenge! Round 1
+[quest_title_1030401000603130] Battle Challenge! Round 2
+[quest_title_1030401000603020] Marnie’s Cheer
+[quest_title_1030401000603010] Bea’s Secret
+[quest_title_1030440100401010] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030440100402010] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030440100403010] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030440100404010] Challenge Pasio’s Trainers: Part 4
+[quest_title_1030401000601010] Challenge the Galactic Grunts: Part 1
+[quest_title_1030401000601020] Challenge the Galactic Grunts: Part 2
+[quest_title_1030401000601030] Challenge the Galactic Grunts: Part 3
+[quest_title_1030401000601040] Daily Extreme Battle 1
+[quest_title_1030401000601050] Battle Challenge! Round 1
+[quest_title_1030401000601060] Battle Challenge! Round 2
+[quest_title_1030401000602010] Sinnoh Buddies Unite: Part 1
+[quest_title_1030401000602020] Sinnoh Buddies Unite: Part 2
+[quest_title_1030440100300010] Blue’s Blazing Buddy
+[quest_title_1030440100301010] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030440100302010] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030440100303010] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030440100304010] Challenge Pasio’s Trainers: Part 4
 [quest_group_title_100207] Howling Shield of Eternity
 [quest_group_title_100204] Father or Foe
 [quest_group_title_100203] New World Dilemma
 [quest_group_title_100205] Give and Take
+[quest_title_1030220194100000] A Day with Sygna Suit Cyrus
+[quest_title_1030220116100000] A Day with Sygna Suit Dawn
 
 ===========
 story_quest_name_es.lsd
@@ -6927,11 +7025,71 @@ Galaxia (3)
 [quest_title_1030312001010060] VS. Ghechis (6)
 [quest_title_1030312001020050] VS. Profesor Ciprés (3)
 [quest_title_1030312001040050] VS. Gloria (5)
+[quest_group_title_10245410000] Roxy
+(Temporada 22)
+[quest_group_title_10250400000] Judith
+(Temporada 22)
+[quest_group_title_10194100000] Helio (Traje S)
+[quest_group_title_10116100000] Maya (Traje S)
+[quest_title_1030110000440100] La pesadilla que lo engulle
+todo
+[quest_title_1030110000440600] VS. Reclutas del Equipo
+Galaxia (4)
+[quest_title_1030110000440200] Alianza con el Equipo Galaxia
+[quest_title_1030110000440700] VS. Reclutas del Equipo
+Galaxia (5)
+[quest_title_1030110000440300] Viejas rencillas
+[quest_title_1030110000440800] VS. Reclutas del Equipo
+Galaxia (6)
+[quest_title_1030110000440400] ¡Hora de despertarse!
+[quest_title_1030110000440900] VS. Helio (2)
+[quest_title_1030110000440500] En busca de un mundo
+perfecto
+[quest_title_1030440100201010] ¡Combate por Monedas
+Musicales!
+[quest_title_1030401000603000] Mi primer Día de la Amistad
+[quest_title_1030401000603030] ¡Llega el Team Heart-Break!
+[quest_title_1030401000603070] VS. Team Break
+[quest_title_1030401000603040] Sentimientos ardientes
+[quest_title_1030401000603080] VS. Team Break (2)
+[quest_title_1030401000603050] Cómo expresar mi gratitud
+[quest_title_1030401000603090] VS. Team Break (3)
+[quest_title_1030401000603060] Un regalo de todo corazón
+[quest_title_1030401000603100] VS. Team Break (4)
+[quest_title_1030401000603110] ¡Un combate difícil al día!
+[quest_title_1030401000603120] ¡Un combate desafiante!
+[quest_title_1030401000603130] ¡Un combate desafiante! (2)
+[quest_title_1030401000603020] Roxy, tu mayor animadora
+[quest_title_1030401000603010] El secreto de Judith
+[quest_title_1030440100401010] VS. Entrenadores de Passio
+[quest_title_1030440100402010] VS. Entrenadores de Passio (2)
+[quest_title_1030440100403010] VS. Entrenadores de Passio (3)
+[quest_title_1030440100404010] VS. Entrenadores de Passio (4)
+[quest_title_1030401000601010] VS. Reclutas del Equipo
+Galaxia
+[quest_title_1030401000601020] VS. Reclutas del Equipo
+Galaxia (2)
+[quest_title_1030401000601030] VS. Reclutas del Equipo
+Galaxia (3)
+[quest_title_1030401000601040] ¡Un combate difícil al día!
+[quest_title_1030401000601050] ¡Un combate desafiante!
+[quest_title_1030401000601060] ¡Un combate desafiante! (2)
+[quest_title_1030401000602010] Desafío con compis de
+Sinnoh
+[quest_title_1030401000602020] Desafío con compis de
+Sinnoh (2)
+[quest_title_1030440100300010] El compi más fogoso de Azul
+[quest_title_1030440100301010] VS. Entrenadores de Passio
+[quest_title_1030440100302010] VS. Entrenadores de Passio (2)
+[quest_title_1030440100303010] VS. Entrenadores de Passio (3)
+[quest_title_1030440100304010] VS. Entrenadores de Passio (4)
 [quest_group_title_100207] Escudo frente a la eternidad
 [quest_group_title_100204] Un padre con dos caras
 [quest_group_title_100203] Almas unidas en un nuevo
 mundo
 [quest_group_title_100205] Los que dan y los que quitan
+[quest_title_1030220194100000] Un día con Helio (Traje S)
+[quest_title_1030220116100000] Un día con Maya (Traje S)
 
 ===========
 story_quest_name_fr.lsd
@@ -9208,10 +9366,83 @@ Sbires Team Galaxie III
 [quest_title_1030312001020050] Combat :
 Professeur Platane III
 [quest_title_1030312001040050] Combat : Gloria V
+[quest_group_title_10245410000] Rosemary
+(Saison 2022)
+[quest_group_title_10250400000] Faïza
+(Saison 2022)
+[quest_group_title_10194100000] Hélio (Look Ultime)
+[quest_group_title_10116100000] Aurore (Look Ultime)
+[quest_title_1030110000440100] Un cauchemar qui dévore
+tout
+[quest_title_1030110000440600] Combat :
+Sbires Team Galaxie IV
+[quest_title_1030110000440200] Coopération stratégique
+avec la Team Galaxie
+[quest_title_1030110000440700] Combat :
+Sbires Team Galaxie V
+[quest_title_1030110000440300] Passés entrecroisés
+[quest_title_1030110000440800] Combat :
+Sbires Team Galaxie VI
+[quest_title_1030110000440400] L'heure du réveil
+[quest_title_1030110000440900] Combat : Hélio II
+[quest_title_1030110000440500] À la recherche d'un cœur
+parfait
+[quest_title_1030440100201010] Combat du Défi
+Pièces Musique !
+[quest_title_1030401000603000] Sa première Fête de l'amitié
+[quest_title_1030401000603030] La Team Heart-Break
+entre en scène !
+[quest_title_1030401000603070] Combat : Team Break
+[quest_title_1030401000603040] Une gratitude ardente
+[quest_title_1030401000603080] Combat : Team Break II
+[quest_title_1030401000603050] Je veux exprimer
+ma reconnaissance !
+[quest_title_1030401000603090] Combat : Team Break III
+[quest_title_1030401000603060] Un cadeau qui vient
+du cœur
+[quest_title_1030401000603100] Combat : Team Break IV
+[quest_title_1030401000603110] Combat difficile limité
+à une fois par jour !
+[quest_title_1030401000603120] Combat difficile
+[quest_title_1030401000603130] Combat difficile II
+[quest_title_1030401000603020] Les encouragements
+de Rosemary
+[quest_title_1030401000603010] Le secret de Faïza
+[quest_title_1030440100401010] Combat : Dresseurs de Passio
+[quest_title_1030440100402010] Combat :
+Dresseurs de Passio II
+[quest_title_1030440100403010] Combat :
+Dresseurs de Passio III
+[quest_title_1030440100404010] Combat :
+Dresseurs de Passio IV
+[quest_title_1030401000601010] Combat :
+Sbires Team Galaxie
+[quest_title_1030401000601020] Combat :
+Sbires Team Galaxie II
+[quest_title_1030401000601030] Combat :
+Sbires Team Galaxie III
+[quest_title_1030401000601040] Combat difficile limité
+à une fois par jour !
+[quest_title_1030401000601050] Combat difficile
+[quest_title_1030401000601060] Combat difficile II
+[quest_title_1030401000602010] Compagnons de Sinnoh
+[quest_title_1030401000602020] Compagnons de Sinnoh II
+[quest_title_1030440100300010] Le Pokémon ardent de Blue !
+[quest_title_1030440100301010] Combat : Dresseurs de Passio
+[quest_title_1030440100302010] Combat :
+Dresseurs de Passio II
+[quest_title_1030440100303010] Combat :
+Dresseurs de Passio III
+[quest_title_1030440100304010] Combat :
+Dresseurs de Passio IV
 [quest_group_title_100207] Bouclier rouge de l'éternité
 [quest_group_title_100204] Père ou adversaire
 [quest_group_title_100203] Émotions du nouveau monde
 [quest_group_title_100205] Ils donnent, ils prennent
+[quest_title_1030220194100000] Une journée avec Hélio
+(Look Ultime)
+[quest_title_1030220116100000] Une journée avec Aurore
+(Look Ultime)
 
 ===========
 story_quest_name_it.lsd
@@ -11169,10 +11400,57 @@ story_quest_name_it.lsd
 [quest_title_1030312001010060] VS Ghecis 6
 [quest_title_1030312001020050] VS Platan 3
 [quest_title_1030312001040050] VS Gloria 5
+[quest_group_title_10245410000] Mary (feste 2022)
+[quest_group_title_10250400000] Fabia (feste 2022)
+[quest_group_title_10194100000] Cyrus Costumax
+[quest_group_title_10116100000] Lucinda Costumax
+[quest_title_1030110000440100] L'incubo che divora tutto
+[quest_title_1030110000440600] VS Reclute del Team Galassia 4
+[quest_title_1030110000440200] Un'alleanza improbabile
+[quest_title_1030110000440700] VS Reclute del Team Galassia 5
+[quest_title_1030110000440300] Passati intrecciati
+[quest_title_1030110000440800] VS Reclute del Team Galassia 6
+[quest_title_1030110000440400] Risveglio
+[quest_title_1030110000440900] VS Cyrus 2
+[quest_title_1030110000440500] Alla ricerca di uno spirito completo
+[quest_title_1030440100201010] Lotta per le Chiavi musicali
+[quest_title_1030401000603000] Il nostro primo Giorno dell'affetto
+[quest_title_1030401000603030] Arriva il Team Heartbreak!
+[quest_title_1030401000603070] VS Team Break
+[quest_title_1030401000603040] Un ardente sentimento di gratitudine
+[quest_title_1030401000603080] VS Team Break 2
+[quest_title_1030401000603050] Dimostrerò la mia riconoscenza
+[quest_title_1030401000603090] VS Team Break 3
+[quest_title_1030401000603060] Un regalo dal cuore
+[quest_title_1030401000603100] VS Team Break 4
+[quest_title_1030401000603110] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030401000603120] Sfida ad alta difficoltà
+[quest_title_1030401000603130] Sfida ad alta difficoltà 2
+[quest_title_1030401000603020] Il tifo sfegatato di Mary
+[quest_title_1030401000603010] Il segreto di Fabia
+[quest_title_1030440100401010] VS Allenatori di Pasio
+[quest_title_1030440100402010] VS Allenatori di Pasio 2
+[quest_title_1030440100403010] VS Allenatori di Pasio 3
+[quest_title_1030440100404010] VS Allenatori di Pasio 4
+[quest_title_1030401000601010] VS Reclute del Team Galassia
+[quest_title_1030401000601020] VS Reclute del Team Galassia 2
+[quest_title_1030401000601030] VS Reclute del Team Galassia 3
+[quest_title_1030401000601040] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030401000601050] Sfida ad alta difficoltà
+[quest_title_1030401000601060] Sfida ad alta difficoltà 2
+[quest_title_1030401000602010] Insieme agli amici di Sinnoh
+[quest_title_1030401000602020] Insieme agli amici di Sinnoh 2
+[quest_title_1030440100300010] Un compagno dallo spirito ardente per Blu
+[quest_title_1030440100301010] VS Allenatori di Pasio
+[quest_title_1030440100302010] VS Allenatori di Pasio 2
+[quest_title_1030440100303010] VS Allenatori di Pasio 3
+[quest_title_1030440100304010] VS Allenatori di Pasio 4
 [quest_group_title_100207] Lo scudo che ulula all'eternità
 [quest_group_title_100204] Padre... o nemico?
 [quest_group_title_100203] Spiriti in un nuovo mondo
 [quest_group_title_100205] Chi dà e chi prende
+[quest_title_1030220194100000] Un giorno con Cyrus Costumax
+[quest_title_1030220116100000] Un giorno con Lucinda Costumax
 
 ===========
 story_quest_name_ja.lsd
@@ -13166,10 +13444,59 @@ story_quest_name_ja.lsd
 [quest_title_1030312001010060] ＶＳ　ゲーチス６
 [quest_title_1030312001020050] ＶＳ　プラターヌ３
 [quest_title_1030312001040050] ＶＳ　ユウリ５
+[quest_group_title_10245410000] マリィ
+（２２シーズン）
+[quest_group_title_10250400000] サイトウ
+（２２シーズン）
+[quest_group_title_10194100000] マジコスアカギ
+[quest_group_title_10116100000] マジコスヒカリ
+[quest_title_1030110000440100] すべてを飲みこむ悪夢
+[quest_title_1030110000440600] ＶＳ　ギンガ団のしたっぱ４
+[quest_title_1030110000440200] ギンガ共闘作戦！
+[quest_title_1030110000440700] ＶＳ　ギンガ団のしたっぱ５
+[quest_title_1030110000440300] 交錯する過去
+[quest_title_1030110000440800] ＶＳ　ギンガ団のしたっぱ６
+[quest_title_1030110000440400] 目覚める時間
+[quest_title_1030110000440900] ＶＳ　アカギ２
+[quest_title_1030110000440500] 完全なる心を求めて
+[quest_title_1030440100201010] ミュージックコイン獲得バトル！
+[quest_title_1030401000603000] はじめてのサンクスデイ
+[quest_title_1030401000603030] ラブ・ブレイク団　参上！
+[quest_title_1030401000603070] ＶＳ　ブレイク団
+[quest_title_1030401000603040] 燃えあがる想い
+[quest_title_1030401000603080] ＶＳ　ブレイク団２
+[quest_title_1030401000603050] ありがとうを伝えたい
+[quest_title_1030401000603090] ＶＳ　ブレイク団３
+[quest_title_1030401000603060] スウィートハートなプレゼント
+[quest_title_1030401000603100] ＶＳ　ブレイク団４
+[quest_title_1030401000603110] １日１回限定・高難度バトル！
+[quest_title_1030401000603120] チャレンジバトルで勝負！
+[quest_title_1030401000603130] チャレンジバトルで勝負！２
+[quest_title_1030401000603020] 応援隊長マリィ
+[quest_title_1030401000603010] サイトウとの秘密
+[quest_title_1030440100401010] ＶＳ　パシオのトレーナー
+[quest_title_1030440100402010] ＶＳ　パシオのトレーナー２
+[quest_title_1030440100403010] ＶＳ　パシオのトレーナー３
+[quest_title_1030440100404010] ＶＳ　パシオのトレーナー４
+[quest_title_1030401000601010] ＶＳ　ギンガ団のしたっぱ
+[quest_title_1030401000601020] ＶＳ　ギンガ団のしたっぱ２
+[quest_title_1030401000601030] ＶＳ　ギンガ団のしたっぱ３
+[quest_title_1030401000601040] １日１回限定・高難度バトル！
+[quest_title_1030401000601050] チャレンジバトルで勝負！
+[quest_title_1030401000601060] チャレンジバトルで勝負！２
+[quest_title_1030401000602010] シンオウの仲間と挑戦
+[quest_title_1030401000602020] シンオウの仲間と挑戦２
+[quest_title_1030440100300010] グリーンの燃えるバディ！
+[quest_title_1030440100301010] ＶＳ　パシオのトレーナー
+[quest_title_1030440100302010] ＶＳ　パシオのトレーナー２
+[quest_title_1030440100303010] ＶＳ　パシオのトレーナー３
+[quest_title_1030440100304010] ＶＳ　パシオのトレーナー４
 [quest_group_title_100207] 流星にほえる赤き盾
 [quest_group_title_100204] 黒白の親子が求めた解
 [quest_group_title_100203] 新世界で交錯する心
 [quest_group_title_100205] 与えるものと奪うもの
+[quest_title_1030220194100000] とある日のマジコスアカギ
+[quest_title_1030220116100000] とある日のマジコスヒカリ
 
 ===========
 story_quest_name_ko.lsd
@@ -15162,10 +15489,59 @@ story_quest_name_ko.lsd
 [quest_title_1030312001010060] VS 게치스6
 [quest_title_1030312001020050] VS 플라타느3
 [quest_title_1030312001040050] VS 우리5
+[quest_group_title_10245410000] 마리
+(22시즌)
+[quest_group_title_10250400000] 채두
+(22시즌)
+[quest_group_title_10194100000] 궁극코스 태홍
+[quest_group_title_10116100000] 궁극코스 빛나
+[quest_title_1030110000440100] 모든 것을 집어삼키는 악몽
+[quest_title_1030110000440600] VS 갤럭시단의 조무래기4
+[quest_title_1030110000440200] 갤럭시 협동 작전!
+[quest_title_1030110000440700] VS 갤럭시단의 조무래기5
+[quest_title_1030110000440300] 교착하는 과거
+[quest_title_1030110000440800] VS 갤럭시단의 조무래기6
+[quest_title_1030110000440400] 깨어날 시간
+[quest_title_1030110000440900] VS 태홍2
+[quest_title_1030110000440500] 완전한 마음을 추구하며
+[quest_title_1030440100201010] 뮤직코인 획득 배틀!
+[quest_title_1030401000603000] 첫 번째 스위트데이
+[quest_title_1030401000603030] 러브 브레이크단 등장!
+[quest_title_1030401000603070] VS 브레이크단
+[quest_title_1030401000603040] 불타는 마음
+[quest_title_1030401000603080] VS 브레이크단2
+[quest_title_1030401000603050] 감사한 마음을 전하고 싶어
+[quest_title_1030401000603090] VS 브레이크단3
+[quest_title_1030401000603060] 달콤한 마음의 선물
+[quest_title_1030401000603100] VS 브레이크단4
+[quest_title_1030401000603110] 1일 1회 한정 고난도 배틀!
+[quest_title_1030401000603120] 챌린지배틀로 승부!
+[quest_title_1030401000603130] 챌린지배틀로 승부!2
+[quest_title_1030401000603020] 응원단장 마리
+[quest_title_1030401000603010] 채두와의 비밀
+[quest_title_1030440100401010] VS 파시오의 트레이너
+[quest_title_1030440100402010] VS 파시오의 트레이너2
+[quest_title_1030440100403010] VS 파시오의 트레이너3
+[quest_title_1030440100404010] VS 파시오의 트레이너4
+[quest_title_1030401000601010] VS 갤럭시단의 조무래기
+[quest_title_1030401000601020] VS 갤럭시단의 조무래기2
+[quest_title_1030401000601030] VS 갤럭시단의 조무래기3
+[quest_title_1030401000601040] 1일 1회 한정 고난도 배틀!
+[quest_title_1030401000601050] 챌린지배틀로 승부!
+[quest_title_1030401000601060] 챌린지배틀로 승부!2
+[quest_title_1030401000602010] 신오지방의 동료와 도전하자
+[quest_title_1030401000602020] 신오지방의 동료와 도전하자2
+[quest_title_1030440100300010] 그린의 불타는 버디!
+[quest_title_1030440100301010] VS 파시오의 트레이너
+[quest_title_1030440100302010] VS 파시오의 트레이너2
+[quest_title_1030440100303010] VS 파시오의 트레이너3
+[quest_title_1030440100304010] VS 파시오의 트레이너4
 [quest_group_title_100207] 유성에 울부짖는 붉은 방패
 [quest_group_title_100204] 흑백의 가족이 추구한 답
 [quest_group_title_100203] 신세계에서 교착하는 마음
 [quest_group_title_100205] 주는 자와 뺏는 자
+[quest_title_1030220194100000] 궁극코스 태홍의 어느 날
+[quest_title_1030220116100000] 궁극코스 빛나의 어느 날
 
 ===========
 story_quest_name_zh-TW.lsd
@@ -17158,10 +17534,59 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030312001010060] ＶＳ　魁奇思６
 [quest_title_1030312001020050] ＶＳ　布拉塔諾３
 [quest_title_1030312001040050] ＶＳ　小優５
+[quest_group_title_10245410000] 瑪俐
+（２０２２春季）
+[quest_group_title_10250400000] 彩豆
+（２０２２春季）
+[quest_group_title_10194100000] 美極套裝赤日
+[quest_group_title_10116100000] 美極套裝小光
+[quest_title_1030110000440100] 吞噬一切的惡夢
+[quest_title_1030110000440600] ＶＳ　銀河隊手下４
+[quest_title_1030110000440200] 與銀河隊並肩作戰！
+[quest_title_1030110000440700] ＶＳ　銀河隊手下５
+[quest_title_1030110000440300] 交錯的過去
+[quest_title_1030110000440800] ＶＳ　銀河隊手下６
+[quest_title_1030110000440400] 夢醒時分
+[quest_title_1030110000440900] ＶＳ　赤日２
+[quest_title_1030110000440500] 尋求完美的心
+[quest_title_1030440100201010] 獲得音樂幣的對戰！
+[quest_title_1030401000603000] 第一次參與感謝日
+[quest_title_1030401000603030] 愛破壞隊登場！
+[quest_title_1030401000603070] ＶＳ　破壞隊
+[quest_title_1030401000603040] 熊熊燃燒的心意
+[quest_title_1030401000603080] ＶＳ　破壞隊２
+[quest_title_1030401000603050] 想要傳達感謝
+[quest_title_1030401000603090] ＶＳ　破壞隊３
+[quest_title_1030401000603060] 甜心禮物
+[quest_title_1030401000603100] ＶＳ　破壞隊４
+[quest_title_1030401000603110] １天僅限１次的高難度對戰！
+[quest_title_1030401000603120] 用挑戰對戰決勝負！
+[quest_title_1030401000603130] 用挑戰對戰決勝負！２
+[quest_title_1030401000603020] 啦啦隊隊長瑪俐
+[quest_title_1030401000603010] 與彩豆之間的秘密
+[quest_title_1030440100401010] ＶＳ　帕希歐的訓練家
+[quest_title_1030440100402010] ＶＳ　帕希歐的訓練家２
+[quest_title_1030440100403010] ＶＳ　帕希歐的訓練家３
+[quest_title_1030440100404010] ＶＳ　帕希歐的訓練家４
+[quest_title_1030401000601010] ＶＳ　銀河隊手下
+[quest_title_1030401000601020] ＶＳ　銀河隊手下２
+[quest_title_1030401000601030] ＶＳ　銀河隊手下３
+[quest_title_1030401000601040] １天僅限１次的高難度對戰！
+[quest_title_1030401000601050] 用挑戰對戰決勝負！
+[quest_title_1030401000601060] 用挑戰對戰決勝負！２
+[quest_title_1030401000602010] 與神奧的夥伴一起挑戰
+[quest_title_1030401000602020] 與神奧的夥伴一起挑戰２
+[quest_title_1030440100300010] 青綠的炙熱拍檔！
+[quest_title_1030440100301010] ＶＳ　帕希歐的訓練家
+[quest_title_1030440100302010] ＶＳ　帕希歐的訓練家２
+[quest_title_1030440100303010] ＶＳ　帕希歐的訓練家３
+[quest_title_1030440100304010] ＶＳ　帕希歐的訓練家４
 [quest_group_title_100207] 朝流星咆嘯的藏紅之盾
 [quest_group_title_100204] 黑白父子尋求的答案
 [quest_group_title_100203] 在新世界交錯的心
 [quest_group_title_100205] 給予者與掠奪者
+[quest_title_1030220194100000] 某日的美極套裝赤日
+[quest_title_1030220116100000] 某日的美極套裝小光
 
 ===========
 trainer_description_de.lsd
@@ -17823,6 +18248,25 @@ stählt sie für kommende Herausforderungen.
 das neue Jahr willkommen zu heißen. Zusammen mit
 Elevoltek ist er ständig auf der Suche nach dem nächsten
 elektrisierenden Kampf gegen einen starken Gegner.
+[10245410000] Mary hat für das Fest der Freundschaft Süßigkeiten
+hergestellt. Zusammen mit Flunkifer möchte sie allen ihre
+Gefühle der Dankbarkeit zeigen. Die beiden mögen
+niedlich aussehen, doch im Kampf zeigen sie keine Gnade.
+[10250400000] Saida liebt das Fest der Freundschaft und hat eine
+geheime Schwäche für Süßigkeiten. Um der Versuchung
+zu widerstehen, meditiert sie zusammen mit Gelatwino
+während ihres Trainings in der eisigen Kälte.
+[10116100000] Lucias Machtmontur erinnert sie an einen Helden aus
+einer Geschichte aus ihrer Kindheit. Gemeinsam mit ihrem
+Partner Cresselia beseitigt sie die Alpträume, die Passio
+verschlingen.
+[10194100000] Zyrus strebt nach der Verwirklichung seiner idealen Welt.
+Durch seine Machtmontur ist nicht nur seine Bindung zu
+Darkrai stärker geworden, sondern auch die Alpträume,
+die es verursacht.
+[10021900000] Der Enkel des berühmten Professor Eich ist einer der
+stärksten Trainer in ganz Kanto. Rot ist für ihn zugleich
+ewiger Rivale und enger Freund.
 
 ===========
 trainer_description_en.lsd
@@ -18426,6 +18870,21 @@ of the future, by listening to the chime of Chingling’s bell.
 [10115400000] Volkner is wearing a special outfit to celebrate the new
 year. With his partner Electivire, he’s hoping to find
 strong opponents to have electrifying battles with.
+[10245410000] Marnie’s challenging herself to shape her feelings of
+gratitude into Palentine’s Day sweets with Mawile. These
+two may look cute, but don’t let your guard down!
+[10250400000] Bea is enjoying Palentine’s Day. As she trains with 
+Vanilluxe in frigid weather, she also trains her mind to
+resist the sweet temptation of desserts.
+[10116100000] Dawn is partners with Cresselia and wearing a sygna suit
+reminiscent of a fairy tale prince. With a brilliant smile on
+her face, she chases off nightmares on Pasio.
+[10194100000] Cyrus dons a sygna suit to forge a deeper connection with
+Darkrai, thus strengthening its nightmarish powers. He still
+aims to create a complete world that embodies his ideals.
+[10021900000] This highly skilled, powerhouse Trainer prominent in Kanto
+is the grandson of the famous Professor Oak. Red is both
+his lifelong rival and his best friend.
 
 ===========
 trainer_description_es.lsd
@@ -18768,9 +19227,10 @@ en cuenta la amabilidad.
 [10159000000] Este excelente mayordomo es capaz de evaluar cualquier
 situación para reaccionar adecuadamente. Su agudeza y
 afilada percepción son sus mejores cualidades.
-[10116000000] Esta alegre Entrenadora, que ha conseguido hacerse fuerte
-tras entrenarse durante sus viajes por la región de Sinnoh,
-sigue mostrando de vez en cuando su torpeza.
+[10116000000] Esta alegre Entrenadora, que ha conseguido hacerse
+fuerte tras entrenarse durante sus viajes por la región
+de Sinnoh, sigue mostrando de vez en cuando su
+torpeza.
 [10170000000] El Líder de Gimnasio de Ciudad Porcelana es un artista
 que crea obras de arte basadas en Pokémon de tipo
 Bicho, a los que adora. Su forma de pensar es particular
@@ -18796,8 +19256,8 @@ compañeros de fechorías son James y Meowth.
 [10194000000] Jefe del malvado Equipo Galaxia. Considera imperfectos
 los sentimientos de las personas y se ha propuesto crear
 un nuevo mundo. De carácter calmado, siempre aplica la
-lógica a cualquier situación; cuenta con la plena confianza
-de sus subordinados.
+lógica a cualquier situación; cuenta con la plena
+confianza de sus subordinados.
 [10091010000] Cintia descubre un poder latente en su interior al ponerse
 el Traje Summum. Ha prometido llegar a lo más alto de
 los combates Pokémon junto a Kommo-o, con quien
@@ -19133,6 +19593,24 @@ enfrentarse a todo lo que le depare el porvenir.
 año. Él y su poderoso compi, Electivire, van siempre en
 busca de oponentes que den la talla para librar combates
 electrizantes.
+[10245410000] Roxy está haciendo sus pinitos en el mundo de la
+repostería por el Día de la Amistad. Junto a Mawile,
+expresa su gratitud con los dulces que elabora. Eso sí, no
+hay que bajar la guardia, por muy adorables que
+parezcan.
+[10250400000] Judith está disfrutando del Día de la Amistad en compañía
+de Vanilluxe, con el que medita para superar la tentación
+de comer dulces.
+[10116100000] Maya se ha puesto un Traje Summum que le da la
+apariencia de un príncipe de cuento. Junto a su compi
+Cresselia y una gran sonrisa, su objetivo es liberar Passio
+de la pesadilla que lo envuelve.
+[10194100000] Helio, que se ha vuelto aún más poderoso al estrechar
+lazos con Darkrai, no piensa parar hasta crear su mundo
+ideal.
+[10021900000] Nieto del renombrado Profesor Oak y uno de los
+Entrenadores más diestros de Kanto. Gran amigo,
+a la par que eterno rival, de Rojo.
 
 ===========
 trainer_description_fr.lsd
@@ -19783,6 +20261,26 @@ le vide dans son esprit grâce au tintement de Korillon.
 [10115400000] Tanguy a revêtu une tenue spéciale pour le Nouvel An.
 Toujours à la recherche d'adversaires coriaces, il continue
 à relever des défis électrisants aux côtés d'Élekable.
+[10245410000] Rosemary s'est essayée à la confection de pâtisseries
+pour la Fête de l'amitié. Elle exprime sa gratitude
+en les offrant à ceux qu'elle aime, aux côtés
+de Mysdibule. Bien qu'ils soient tous deux adorables,
+il ne faut jamais baisser sa garde en leur présence.
+[10250400000] Faïza est prête à célébrer la Fête de l'amitié.
+Afin de s'entraîner à résister à la tentation de manger
+des friandises, elle médite aux côtés de Sorbouboul
+dans un froid glacial.
+[10116100000] Aurore a revêtu un Look Ultime semblable à la tenue
+d'un prince de conte de fées, et est accompagnée de
+Cresselia, son partenaire Pokémon. Son sourire radieux
+chasse les cauchemars qui planent sur Passio.
+[10194100000] Hélio renforce la puissance des cauchemars
+de Darkrai en portant une tenue qui intensifie
+son lien avec ce dernier. Il fait tout son possible
+pour atteindre son idéal d'un monde parfait.
+[10021900000] Un des plus puissants Dresseurs de Kanto, petit-fils
+du célèbre Professeur Chen et meilleur ami et éternel
+rival de Red.
 
 ===========
 trainer_description_it.lsd
@@ -20442,6 +20940,24 @@ di Chingling.
 [10115400000] Corrado indossa un abito speciale in onore dell'anno
 nuovo. Sempre in cerca di avversari capaci, continua
 a vivere sfide elettrizzanti insieme a Electivire.
+[10245410000] Mary prepara dei dolcetti per il Giorno dell'affetto, per poi
+distribuirli insieme a Mawile ed esprimere così tutta
+la sua gratitudine. I due hanno un aspetto tenero,
+ma abbassare la guardia contro di loro sarebbe un grave
+errore.
+[10250400000] Fabia è pronta a celebrare il Giorno dell'affetto
+e si allena meditando al freddo e al gelo assieme
+a Vanilluxe per resistere alla tentazione di mangiare dolci.
+[10116100000] Lucinda forma un'Unità con Cresselia e indossa
+un Costumax che ricorda gli abiti dei principi delle fiabe.
+Armata di un sorriso raggiante, scaccia via gli incubi
+che colpiscono gli abitanti di Pasio.
+[10194100000] Cyrus indossa un vestito che rafforza il suo legame
+con Darkrai, permettendogli di provocare incubi ancora
+più terrificanti. Sogna di creare un mondo completo.
+[10021900000] Nipote del celebre Professor Oak, nonché uno dei più forti
+Allenatori di Kanto. Rosso è per lui un amico e un rivale
+storico.
 
 ===========
 trainer_description_ja.lsd
@@ -21043,6 +21559,21 @@ trainer_description_ja.lsd
 [10115400000] 新年を迎え　特別な衣装を　着た　デンジ。
 強者との　新しい　出会いを　求めて
 エレキブルと　共に　しびれる　勝負を　続ける。
+[10245410000] サンクスデイで　お菓子作りに　挑戦した　マリィ。
+クチートと一緒に　感謝の想いを　形にして届ける。
+かわいい姿の　ふたりだが　油断は　禁物だ。
+[10250400000] サンクスデイを　楽しんでいる　サイトウ。
+修行中は　甘い誘惑に　打ち勝つため　極寒の中で
+バイバニラを　みつめながら　精神統一している。
+[10116100000] クレセリアと　バディになり　昔話に　登場する
+王子様のような　マジコスを　身につけた　ヒカリ。
+明るい　笑顔で　パシオを包む　悪夢を　払う。
+[10194100000] ダークライと　深く　つながるための　衣装を　着て
+悪夢の力を　強化した　アカギ。
+理想の　完全な世界を　実現しようと　活動する。
+[10021900000] 有名な　オーキド博士の孫で　カントー地方では
+指折りの　実力を持つ　強豪ポケモントレーナー。
+レッドという　終生のライバルにして　親友がいる。
 
 ===========
 trainer_description_ko.lsd
@@ -21644,6 +22175,21 @@ WPM 운영위원회의 대표도 맡고 있다.
 [10115400000] 신년을 맞아 특별한 의상을 입은 전진.
 강한 자와의 새로운 만남을 추구하며
 에레키블과 함께 짜릿한 승부를 계속한다.
+[10245410000] 스위트데이에 과자 만들기에 도전한 마리.
+입치트와 함께 감사의 마음을 형태로 만들어 전한다.
+둘의 모습은 귀엽지만 방심은 금물이다.
+[10250400000] 스위트데이를 즐겁게 보내고 있는 채두.
+수행 중에는 달콤한 유혹을 이겨내기 위해 배바닐라를
+바라보는 극한 속에서 정신 통일을 하고 있다.
+[10116100000] 크레세리아와 버디가 되어 옛날이야기에 나오는
+왕자님처럼 궁극코스를 입은 빛나.
+밝은 미소로 파시오를 에워싼 악몽을 몰아낸다.
+[10194100000] 다크라이와 깊은 유대를 위해 준비한 의상을 입고
+악몽의 힘을 강화한 태홍.
+이상으로 여기는 완전한 세계를 실현시키려고 활동한다.
+[10021900000] 유명한 오박사의 손자이자 관동지방에서는
+손에 꼽힐만한 실력의 강호인 포켓몬 트레이너.
+레드라는 평생의 라이벌이자 친구가 있다.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -22244,6 +22790,21 @@ trainer_description_zh-TW.lsd
 [10115400000] 穿上特別服裝來迎接新年的電次。
 他渴望與新的強者相遇，
 不斷和電擊魔獸一起享受渾身酥麻的對戰。
+[10245410000] 在感謝日挑戰了做點心的瑪俐。
+她和大嘴娃一起將謝意化為實體來傳達。
+雖然他們外表可愛，但可不能掉以輕心。
+[10250400000] 享受感謝日的彩豆。
+為了戰勝甜食的誘惑，修行時會在酷寒中
+一邊凝視著雙倍多多冰，一邊集中精神。
+[10116100000] 與克雷色利亞結為拍組，穿上美極套裝後
+猶如故事中王子一般的小光。
+她會用開朗的笑容趕走壟罩帕希歐的惡夢。
+[10194100000] 穿上為了與達克萊伊緊密相連的服裝，
+強化了惡夢之力的赤日。
+為了實現他理想的完美世界而活動。
+[10021900000] 著名的大木博士的孫子，關都地區
+屈指可數的實力派訓練家。赤紅是他
+永遠的勁敵，也是他最要好的朋友。
 
 ===========
 trainer_name_de.lsd
@@ -23785,6 +24346,12 @@ trainer_verbose_name_de.lsd
 (Saison 2022)
 [10115400000] Volkner
 (Saison 2022)
+[10245410000] Mary
+(Saison 2022)
+[10250400000] Saida
+(Saison 2022)
+[10116100000] MaMo-Lucia
+[10194100000] MaMo-Zyrus
 
 ===========
 trainer_verbose_name_en.lsd
@@ -23868,12 +24435,18 @@ Cynthia
 Lusamine
 [10106800000] Elesa
 (Classic)
-[10091200000] Sygna Suit Cynthia
+[10091200000] Sygna Suit Cynthia 
 (Renegade)
-[10114400000] Sabrina
+[10114400000] Sabrina 
 (New Year’s 2022)
-[10115400000] Volkner
+[10115400000] Volkner 
 (New Year’s 2022)
+[10245410000] Marnie
+(Palentine’s 2022)
+[10250400000] Bea
+(Palentine’s 2022)
+[10116100000] Sygna Suit Dawn
+[10194100000] Sygna Suit Cyrus
 
 ===========
 trainer_verbose_name_es.lsd
@@ -23951,6 +24524,12 @@ arqueóloga)
 (Temporada 22)
 [10115400000] Lectro
 (Temporada 22)
+[10245410000] Roxy
+(Temporada 22)
+[10250400000] Judith
+(Temporada 22)
+[10116100000] Maya (Traje S)
+[10194100000] Helio (Traje S)
 
 ===========
 trainer_verbose_name_fr.lsd
@@ -24033,6 +24612,12 @@ trainer_verbose_name_fr.lsd
 (Saison 2022)
 [10115400000] Tanguy
 (Saison 2022)
+[10245410000] Rosemary
+(Saison 2022)
+[10250400000] Faïza
+(Saison 2022)
+[10116100000] Aurore (Ultime)
+[10194100000] Hélio (Ultime)
 
 ===========
 trainer_verbose_name_it.lsd
@@ -24119,6 +24704,12 @@ trainer_verbose_name_it.lsd
 (feste 2022)
 [10115400000] Corrado
 (feste 2022)
+[10245410000] Mary
+(feste 2022)
+[10250400000] Fabia
+(feste 2022)
+[10116100000] Lucinda Costumax
+[10194100000] Cyrus Costumax
 
 ===========
 trainer_verbose_name_ja.lsd
@@ -24205,6 +24796,12 @@ trainer_verbose_name_ja.lsd
 （２２シーズン）
 [10115400000] デンジ
 （２２シーズン）
+[10245410000] マリィ
+（２２シーズン）
+[10250400000] サイトウ
+（２２シーズン）
+[10116100000] マジコスヒカリ
+[10194100000] マジコスアカギ
 
 ===========
 trainer_verbose_name_ko.lsd
@@ -24291,6 +24888,12 @@ trainer_verbose_name_ko.lsd
 (22시즌)
 [10115400000] 전진
 (22시즌)
+[10245410000] 마리
+(22시즌)
+[10250400000] 채두
+(22시즌)
+[10116100000] 궁극코스 빛나
+[10194100000] 궁극코스 태홍
 
 ===========
 trainer_verbose_name_zh-TW.lsd
@@ -24377,6 +24980,12 @@ trainer_verbose_name_zh-TW.lsd
 （２０２２新春）
 [10115400000] 電次
 （２０２２新春）
+[10245410000] 瑪俐
+（２０２２春季）
+[10250400000] 彩豆
+（２０２２春季）
+[10116100000] 美極套裝小光
+[10194100000] 美極套裝赤日
 
 ===========
 common_widget_de.lsd
@@ -24568,10 +25177,12 @@ eingetauscht.
 [common_widget/dialog_077] Auf diesem Bildschirm ist die Schaltfläche, die dich zur vorherigen Ansicht zurückkehren lässt, nicht verfügbar.
 [common_widget/dialog_078] Hinweis: Nach dem Gefährten-Upgrade kann das Gefährtengespann nicht mehr in seinen ursprünglichen Zustand zurückkehren.
 [common_widget/dialog_079] Hinweis: Das Potenzial und der Level des Gefährtengespanns werden übernommen.
+[common_widget/dialog_080] Zuvor erhaltene Items wurden automatisch eingetauscht.
 [common_widget/dialog_081] Du kannst derzeit nicht beginnen, da
 sich Gefährten in deinem Team
 befinden, die bereits dem Team im
 Legenden-Turnier zugewiesen sind.
+[common_widget/dialog_082] Erstes Geschenk
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -24633,6 +25244,8 @@ dieser Gefährten wechseln?
 [common_widget/trainer_detail_060] Passivfähigkeit
 [common_widget/trainer_detail_061] Glücksfähigkeit
 [common_widget/trainer_detail_062] 
+[common_widget/trainer_detail_063] [Name:TrainerName ]
+& [Name:PokemonName ]
 [common_widget/dialog_special_item_001] [Name:Item ]
 erhalten!
 [common_widget/dialog_special_item_002] Noch [Digit:1digit ] Orden!
@@ -24717,6 +25330,15 @@ wurde zu einem
 [common_widget/filter_050] Spezialeffekt
 [common_widget/filter_051] Bonus-Effekt
 [common_widget/filter_052] Ursprüngliche Anzahl an ★
+[common_widget/filter_053] Kanto
+[common_widget/filter_054] Johto
+[common_widget/filter_055] Hoenn
+[common_widget/filter_056] Sinnoh
+[common_widget/filter_057] Einall
+[common_widget/filter_058] Kalos
+[common_widget/filter_059] Alola
+[common_widget/filter_060] Galar
+[common_widget/filter_061] Andere
 [common_widget/sort_001] ★-Zahl
 [common_widget/sort_002] Gefährtenattacke
 [common_widget/sort_003] KP
@@ -24899,6 +25521,33 @@ kannst.
 ein! Mit Kampfpunkte-G-Tickets kannst du
 im Laden exklusive Gefährten erhalten!
 [common_widget/battle_point_015] Erhalte exklusive Gefährten!
+[common_widget/juke_box_001] Musikbox
+[common_widget/juke_box_002] Lieder anhören
+[common_widget/juke_box_003] Du kannst dir freigeschaltene Lieder anhören.
+[common_widget/juke_box_004] Lieder freischalten
+[common_widget/juke_box_005] Du kannst Lieder mit Musik-Schlüsseln freischalten.
+[common_widget/juke_box_006] Auf dem Bildschirm zur Kampfvorbereitung kannst du die Musik für abgeschlossene Kämpfe zu freigeschaltenen Liedern ändern.
+[common_widget/juke_box_007] Lieder anhören
+[common_widget/juke_box_008] Hintergrundmusik ändern
+[common_widget/juke_box_009] Ausgewähltes Lied abspielen
+[common_widget/juke_box_010] Lied auswählen
+[common_widget/juke_box_011] Zufälliges Lied abspielen
+[common_widget/juke_box_012] Ein zufälliges Lied von der Liste deiner
+verfügbaren Musikstücke wird abgespielt.
+[common_widget/juke_box_013] Keine Änderung
+[common_widget/juke_box_014] Die folgenden Lieder wurden freigeschaltet:
+[common_widget/juke_box_015] Die folgenden Lieder wurden hinzugefügt:
+[common_widget/juke_box_016] Hinweis: Die hinzugefügten Lieder können angehört werden, wenn du bestimmte Bedingungen erfüllst.
+[common_widget/juke_box_017] Können erhalten werden, wenn [Name:TrainerName ] & [Name:PokemonName ] 6★EX erreichen.
+
+Wenn diese Bedingung erfüllt ist, kannst du dir die oben gelisteten Lieder in der Musikbox anhören.
+[common_widget/juke_box_019] Kann z. B. beim Freischalten von Liedern in der Musikbox erhalten werden. Nach Erhalt stehen die oben aufgelisteten Lieder zum Anhören zur Verfügung.
+[common_widget/juke_box_020] Kurz reinhören
+[common_widget/juke_box_021] Du kannst die Hintergrundmusik ändern, indem du die Gebietsinfo abschließt.
+[common_widget/juke_box_022] Alle Musik-Schlüssel wurden eingetauscht.
+[common_widget/juke_box_023] Hör in die voreingestellte Hintergrundmusik für Kämpfe rein.
+[common_widget/juke_box_024] 6★ EX
+[common_widget/juke_box_025] Item-Tausch
 
 ===========
 common_widget_en.lsd
@@ -25076,10 +25725,12 @@ moves and move level will level up.
 [common_widget/dialog_077] The back button cannot be used on this screen.
 [common_widget/dialog_078] After a power boost, the sync pair cannot be returned to its prior state.
 [common_widget/dialog_079] Any power-ups or level-ups already applied to this sync pair will be carried over.
+[common_widget/dialog_080] Previously obtained items have been automatically converted.
 [common_widget/dialog_081] One or more sync pairs on your team
 have already participated in a
 Legendary Gauntlet battle. Please edit
 your team.
+[common_widget/dialog_082] First-time Present
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -25138,6 +25789,8 @@ the switch.
 [common_widget/trainer_detail_060] Passive Skills
 [common_widget/trainer_detail_061] Lucky Skills
 [common_widget/trainer_detail_062] 
+[common_widget/trainer_detail_063] [Name:TrainerName ]
+& [Name:PokemonName ]
 [common_widget/dialog_special_item_001] [Name:Item ]
 [common_widget/dialog_special_item_002] Only [Digit:1digit ] more [EN:Qty S="badge" P="badges" ] to go!
 [common_widget/dialog_special_item_003] All badges acquired! Time to compete in the PML!
@@ -25220,6 +25873,15 @@ into [Name:PokemonName ]!
 [common_widget/filter_050] Special Effect
 [common_widget/filter_051] Special Bonuses
 [common_widget/filter_052] Initial Number of ★s
+[common_widget/filter_053] Kanto
+[common_widget/filter_054] Johto
+[common_widget/filter_055] Hoenn
+[common_widget/filter_056] Sinnoh
+[common_widget/filter_057] Unova
+[common_widget/filter_058] Kalos
+[common_widget/filter_059] Alola
+[common_widget/filter_060] Galar
+[common_widget/filter_061] Other
 [common_widget/sort_001] Number of ★s
 [common_widget/sort_002] Sync Move
 [common_widget/sort_003] HP
@@ -25378,6 +26040,31 @@ of your Present Box.
 [common_widget/battle_point_013] Reset
 [common_widget/battle_point_014] Collect battle points to get rewards! You can exchange BP Sync Pair Vouchers in the shop to team up with exclusive sync pairs!
 [common_widget/battle_point_015] Team up with exclusive sync pairs!
+[common_widget/juke_box_001] Jukebox
+[common_widget/juke_box_002] Music Player
+[common_widget/juke_box_003] Listen to songs you’ve unlocked
+[common_widget/juke_box_004] Unlock Songs
+[common_widget/juke_box_005] Get song keys and unlock songs
+[common_widget/juke_box_006] You can change the background music for battles you’ve already completed from the battle prep screen!
+[common_widget/juke_box_007] Music Player
+[common_widget/juke_box_008] Battle Background Music
+[common_widget/juke_box_009] Play Selected Song
+[common_widget/juke_box_010] Select Song
+[common_widget/juke_box_011] Random
+[common_widget/juke_box_012] Plays one song at random from all unlocked songs.
+[common_widget/juke_box_013] Default
+[common_widget/juke_box_014] The following songs have been unlocked.
+[common_widget/juke_box_015] The following songs have been added.
+[common_widget/juke_box_016] Note: You can listen to songs that have been added after fulfilling certain requirements.
+[common_widget/juke_box_017] Obtained by raising [Name:TrainerName ] & [Name:PokemonName ] to 6★ EX. Allows you to listen to the song above in the jukebox.
+[common_widget/juke_box_019] Obtained from the Unlock Songs menu of the jukebox. Allows you to listen to the song above in the jukebox.
+[common_widget/juke_box_020] Preview
+[common_widget/juke_box_021] Once you complete a battle, you can change its background music.
+[common_widget/juke_box_022] You’ve obtained all available song keys!
+[common_widget/juke_box_023] Plays the default background music
+for this battle.
+[common_widget/juke_box_024] 6★ EX
+[common_widget/juke_box_025] Exchange Items
 
 ===========
 common_widget_es.lsd
@@ -25568,9 +26255,11 @@ de dicha pareja.
 compis no podrá volver a su estado anterior.
 [common_widget/dialog_079] Aviso: Se conservarán los aumentos de nivel y potencia
 que ya tuviera la pareja de compis.
+[common_widget/dialog_080] Los objetos repetidos se han canjeado automáticamente.
 [common_widget/dialog_081] No puedes participar con compis que
 ya hayan participado en un combate
 de la Aventura Legendaria.
+[common_widget/dialog_082] Regalo por la primera vez
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Nv.
 [common_widget/trainer_detail_004] MÁX.
@@ -25625,6 +26314,8 @@ cambio de vestimenta.
 [common_widget/trainer_detail_060] Habilidades pasivas
 [common_widget/trainer_detail_061] Habilidades fortuitas
 [common_widget/trainer_detail_062] 
+[common_widget/trainer_detail_063] [Name:TrainerName ]
+y [Name:PokemonName ]
 [common_widget/dialog_special_item_001] Has conseguido:
 [Name:Item ]
 [common_widget/dialog_special_item_002] Medallas restantes: [Digit:1digit ]
@@ -25713,6 +26404,15 @@ evolución?
 [common_widget/filter_050] Efecto especial
 [common_widget/filter_051] Efecto adicional
 [common_widget/filter_052] Número de ★ original
+[common_widget/filter_053] Kanto
+[common_widget/filter_054] Johto
+[common_widget/filter_055] Hoenn
+[common_widget/filter_056] Sinnoh
+[common_widget/filter_057] Teselia
+[common_widget/filter_058] Kalos
+[common_widget/filter_059] Alola
+[common_widget/filter_060] Galar
+[common_widget/filter_061] Otras
 [common_widget/sort_001] Número de ★
 [common_widget/sort_002] Movimiento compi
 [common_widget/sort_003] PS
@@ -25872,6 +26572,41 @@ breve período de tiempo.
 [common_widget/battle_point_013] Restablecer
 [common_widget/battle_point_014] ¡Gana puntos de combate y obtén grandes recompensas! ¡Puedes canjear el Cupón Reclutacompis por compis exclusivos!
 [common_widget/battle_point_015] ¡Parejas de compis exclusivas!
+[common_widget/juke_box_001] Gramola
+[common_widget/juke_box_002] Reproducir música
+[common_widget/juke_box_003] Escucha las pistas que hayas desbloqueado.
+[common_widget/juke_box_004] Desbloquear pistas
+[common_widget/juke_box_005] Obtén llaves musicales de pistas nuevas.
+[common_widget/juke_box_006] ¡En las ubicaciones que ya hayas completado,
+puedes cambiar la música que sonará durante
+el combate antes de que este comience!
+[common_widget/juke_box_007] Reproducir música
+[common_widget/juke_box_008] Música de combate
+[common_widget/juke_box_009] Reproducir la pista siguiente:
+[common_widget/juke_box_010] Elegir pista
+[common_widget/juke_box_011] Reproducir música aleatoria
+[common_widget/juke_box_012] Se reproducirá una pista de música aleatoria
+de entre las disponibles.
+[common_widget/juke_box_013] No cambiar la música
+[common_widget/juke_box_014] Se han desbloqueado las pistas
+siguientes:
+[common_widget/juke_box_015] Se han añadido las pistas siguientes:
+[common_widget/juke_box_016] Nota: Para poder reproducirlas, debes cumplir los requisitos que se indiquen.
+[common_widget/juke_box_017] Se puede obtener tras subir a [Name:TrainerName ] y [Name:PokemonName ] a 6★ EX.
+Sirve para desbloquear la pista correspondiente
+en la gramola.
+[common_widget/juke_box_019] Se puede obtener en el menú de la gramola y
+en otras secciones.
+Sirve para desbloquear la pista correspondiente
+en la gramola.
+[common_widget/juke_box_020] Escuchar muestra
+[common_widget/juke_box_021] Completa esta ubicación para poder
+cambiar la música del combate.
+[common_widget/juke_box_022] Has canjeado todas las llaves musicales.
+[common_widget/juke_box_023] Se reproducirá la pista de música por defecto
+para este combate.
+[common_widget/juke_box_024] 6★ EX
+[common_widget/juke_box_025] Canje de objetos
 
 ===========
 common_widget_fr.lsd
@@ -26053,10 +26788,13 @@ Le niveau de ses capacités et de sa capacité Duo augmentera toutes les fois su
 [common_widget/dialog_077] L'utilisation du bouton retour est impossible ici.
 [common_widget/dialog_078] Une fois le renforcement effectué, le Duo ne pourra pas revenir à l'état précédant son amélioration.
 [common_widget/dialog_079] L'entraînement du Duo sera maintenu.
+[common_widget/dialog_080] Tout objet déjà obtenu a été
+automatiquement converti.
 [common_widget/dialog_081] Un ou plusieurs Duos de votre équipe
 ont déjà participé à un autre combat
 de l'Aventure Légendaire.
 Veuillez modifier votre équipe.
+[common_widget/dialog_082] Récompense de 1re fois
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] N.
 [common_widget/trainer_detail_004] MAX
@@ -26117,6 +26855,8 @@ le changement effectué.
 [common_widget/trainer_detail_060] Talents passifs
 [common_widget/trainer_detail_061] Talents surprise
 [common_widget/trainer_detail_062] 
+[common_widget/trainer_detail_063] [Name:TrainerName ]
+& [Name:PokemonName ]
 [common_widget/dialog_special_item_001] Vous avez obtenu
 1 [Name:Item ] !
 [common_widget/dialog_special_item_002] Encore [Digit:1digit ] Badge[FR:Qty P="s" ] à obtenir !
@@ -26203,6 +26943,15 @@ apprise
 [common_widget/filter_050] Effet spécial
 [common_widget/filter_051] Effet bonus
 [common_widget/filter_052] Nombre original d'★
+[common_widget/filter_053] Kanto
+[common_widget/filter_054] Johto
+[common_widget/filter_055] Hoenn
+[common_widget/filter_056] Sinnoh
+[common_widget/filter_057] Unys
+[common_widget/filter_058] Kalos
+[common_widget/filter_059] Alola
+[common_widget/filter_060] Galar
+[common_widget/filter_061] Autre
 [common_widget/sort_001] Nombre d'★
 [common_widget/sort_002] Capacité Duo
 [common_widget/sort_003] PV
@@ -26378,6 +27127,41 @@ dans le menu « Cadeaux ».
 Échangez vos Coupons PCo invite-Duo
 à la boutique contre des Duos exclusifs !
 [common_widget/battle_point_015] Faites équipe avec des Duos exclusifs !
+[common_widget/juke_box_001] Jukebox
+[common_widget/juke_box_002] Lecteur de musique
+[common_widget/juke_box_003] Écoutez les morceaux débloqués ici.
+[common_widget/juke_box_004] Débloquer des morceaux
+[common_widget/juke_box_005] Obtenez des Clés Mélodie pour débloquer des morceaux.
+[common_widget/juke_box_006] Vous pouvez changer de morceau pour les combats précédemment terminés depuis l'écran de préparation au combat !
+[common_widget/juke_box_007] Lecteur de musique
+[common_widget/juke_box_008] Morceau du combat
+[common_widget/juke_box_009] Écouter le morceau sélectionné
+[common_widget/juke_box_010] Sélection du morceau
+[common_widget/juke_box_011] Écouter aléatoirement
+[common_widget/juke_box_012] Écouter un morceau au hasard parmi ceux
+qui ont été débloqués.
+[common_widget/juke_box_013] Aucun changement
+[common_widget/juke_box_014] Les morceaux suivants
+ont été débloqués :
+[common_widget/juke_box_015] Les morceaux suivants ont été ajoutés :
+[common_widget/juke_box_016] Vous pouvez écouter des morceaux qui ont été ajoutés
+après avoir rempli certaines conditions.
+[common_widget/juke_box_017] Peut être obtenu en passant le potentiel
+de [Name:TrainerName ] & [Name:PokemonName ] à 6★ EX.
+Une fois obtenu, vous pourrez écouter
+le morceau ci-dessus dans le Jukebox.
+[common_widget/juke_box_019] Peut être obtenu depuis le menu
+« Débloquer des morceaux » du Jukebox.
+Une fois obtenu, vous pourrez écouter
+le morceau ci-dessus dans le Jukebox.
+[common_widget/juke_box_020] Écouter un extrait
+[common_widget/juke_box_021] Vous pouvez changer la musique
+d'un combat en le terminant.
+[common_widget/juke_box_022] Vous avez obtenu toutes les Clés
+Mélodie disponibles !
+[common_widget/juke_box_023] Écouter la musique par défaut de ce combat.
+[common_widget/juke_box_024] 6★ EX
+[common_widget/juke_box_025] Échange d'objets
 
 ===========
 common_widget_it.lsd
@@ -26556,9 +27340,12 @@ e delle sue Unimosse.
 [common_widget/dialog_078] Una volta rinforzata, l'Unità non potrà più tornare
 al suo stato originale.
 [common_widget/dialog_079] Lo stato di allenamento dell'Unità verrà mantenuto.
+[common_widget/dialog_080] Gli strumenti già ottenuti sono stati
+scambiati automaticamente.
 [common_widget/dialog_081] Non puoi partire perché hai in squadra
 una o più Unità già partite per la Sfida
 Leggendaria.
+[common_widget/dialog_082] Primo regalo
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] L.
 [common_widget/trainer_detail_004] MAX
@@ -26616,6 +27403,8 @@ attuale e al L. 1.
 [common_widget/trainer_detail_060] Abilità passive
 [common_widget/trainer_detail_061] Talenti
 [common_widget/trainer_detail_062] 
+[common_widget/trainer_detail_063] [Name:TrainerName ]
+& [Name:PokemonName ]
 [common_widget/dialog_special_item_001] Hai ottenuto: [Name:Item ]!
 [common_widget/dialog_special_item_002] Medaglie mancanti: [Digit:1digit ]!
 [common_widget/dialog_special_item_003] Ora hai tutte le medaglie! Puoi affrontare il WPM!
@@ -26698,6 +27487,15 @@ dell'evoluzione?
 [common_widget/filter_050] Effetti particolari
 [common_widget/filter_051] Effetti bonus
 [common_widget/filter_052] Numero di ★ iniziale
+[common_widget/filter_053] Kanto
+[common_widget/filter_054] Johto
+[common_widget/filter_055] Hoenn
+[common_widget/filter_056] Sinnoh
+[common_widget/filter_057] Unima
+[common_widget/filter_058] Kalos
+[common_widget/filter_059] Alola
+[common_widget/filter_060] Galar
+[common_widget/filter_061] Altre
 [common_widget/sort_001] Numero di ★
 [common_widget/sort_002] Unimossa
 [common_widget/sort_003] PS
@@ -26868,6 +27666,41 @@ accumulati sono stati ripristinati.
 ricompense! Puoi scambiare Coupon
 Unichiamata (PL) con Unità esclusive!
 [common_widget/battle_point_015] Fai squadra con Unità esclusive!
+[common_widget/juke_box_001] Jukebox
+[common_widget/juke_box_002] Ascolta musica
+[common_widget/juke_box_003] Ascolta i brani sbloccati.
+[common_widget/juke_box_004] Sblocca musica
+[common_widget/juke_box_005] Ottieni Chiavi musicali e sblocca i brani.
+[common_widget/juke_box_006] Puoi cambiare la musica delle lotte
+per le Guide area completate nella schermata
+visualizzata prima della partenza!
+[common_widget/juke_box_007] Ascolta musica
+[common_widget/juke_box_008] Cambia musica lotta
+[common_widget/juke_box_009] Riproduci il brano selezionato
+[common_widget/juke_box_010] Scegli il brano da riprodurre
+[common_widget/juke_box_011] Riproduci un brano casuale
+[common_widget/juke_box_012] Verrà riprodotto un brano a caso tra quelli
+sbloccati.
+[common_widget/juke_box_013] Non cambiare la musica
+[common_widget/juke_box_014] Hai sbloccato i seguenti brani:
+[common_widget/juke_box_015] Sono stati aggiunti i seguenti brani:
+[common_widget/juke_box_016] I brani aggiunti potranno essere ascoltati una volta
+soddisfatti determinati requisiti.
+[common_widget/juke_box_017] Ottenibile portando [Name:TrainerName ] & [Name:PokemonName ] a 6★ EX.
+Permette di ascoltare il brano indicato sopra
+nel Jukebox.
+[common_widget/juke_box_019] Ottenibile ad esempio dal menu "Sblocca
+musica" del Jukebox.
+Permette di ascoltare il brano indicato sopra
+nel Jukebox.
+[common_widget/juke_box_020] Anteprima
+[common_widget/juke_box_021] Puoi cambiare la musica della lotta
+una volta completata la Guida area.
+[common_widget/juke_box_022] Hai ottenuto tutte le Chiavi musicali disponibili!
+[common_widget/juke_box_023] Verrà riprodotto il brano predefinito
+per questa lotta.
+[common_widget/juke_box_024] 6★ EX
+[common_widget/juke_box_025] Scambio strumenti
 
 ===========
 common_widget_ja.lsd
@@ -27041,9 +27874,11 @@ EXカラー衣装が　かくとくできます
 [common_widget/dialog_077] この画面でバックキーは使用できません
 [common_widget/dialog_078] ※獲得すると　強化前の状態に　戻すことはできません
 [common_widget/dialog_079] ※バディーズの育成状況は　引き継がれます
+[common_widget/dialog_080] 獲得済みのどうぐを自動変換しました
 [common_widget/dialog_081] レジェンドアドベンチャーの
 バトルで既に出発済みのバディーズが
 編成されているため出発できません
+[common_widget/dialog_082] 初回プレゼント
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -27102,6 +27937,8 @@ MAX
 [common_widget/trainer_detail_060] パッシブスキル
 [common_widget/trainer_detail_061] ポテンシャル
 [common_widget/trainer_detail_062] CV：
+[common_widget/trainer_detail_063] [Name:TrainerName ]
+&[Name:PokemonName ]
 [common_widget/dialog_special_item_001] [Name:Item ]を
 獲得しました！
 [common_widget/dialog_special_item_002] のこるバッジは　あと[Digit:1digit ]個！
@@ -27184,6 +28021,15 @@ Lv.MAX
 [common_widget/filter_050] 特殊な効果
 [common_widget/filter_051] ボーナス効果
 [common_widget/filter_052] 元の★の数
+[common_widget/filter_053] カントー
+[common_widget/filter_054] ジョウト
+[common_widget/filter_055] ホウエン
+[common_widget/filter_056] シンオウ
+[common_widget/filter_057] イッシュ
+[common_widget/filter_058] カロス
+[common_widget/filter_059] アローラ
+[common_widget/filter_060] ガラル
+[common_widget/filter_061] その他
 [common_widget/sort_001] ★の数
 [common_widget/sort_002] バディーズわざ
 [common_widget/sort_003] HP
@@ -27366,6 +28212,41 @@ HARDクリアで解放
 ＢＰバディーズ呼出券は　どうぐ交換で
 限定バディーズを　呼び出すことができます
 [common_widget/battle_point_015] 限定バディーズを仲間に！
+[common_widget/juke_box_001] ジュークボックス
+[common_widget/juke_box_002] 楽曲鑑賞
+[common_widget/juke_box_003] 解放した楽曲を自由に鑑賞できます
+[common_widget/juke_box_004] 楽曲解放
+[common_widget/juke_box_005] 楽曲キーを獲得して楽曲を解放できます
+[common_widget/juke_box_006] クリア済みのエリア情報のバトルＢＧＭは
+出発前の画面から変更できますよ！
+[common_widget/juke_box_007] 楽曲鑑賞
+[common_widget/juke_box_008] バトルＢＧＭ変更
+[common_widget/juke_box_009] 指定した楽曲を再生
+[common_widget/juke_box_010] 楽曲を選択
+[common_widget/juke_box_011] ランダム再生
+[common_widget/juke_box_012] 鑑賞可能な楽曲から
+ランダムで1曲を再生します
+[common_widget/juke_box_013] 変更しない
+[common_widget/juke_box_014] 以下の楽曲が解放されました
+[common_widget/juke_box_015] 以下の楽曲が追加されました
+[common_widget/juke_box_016] ※追加された楽曲は特定の条件を達成することで
+鑑賞できます
+[common_widget/juke_box_017] [Name:TrainerName ]
+＆[Name:PokemonName ]を
+★6EXへ★アップすると獲得できます
+獲得すると上記の楽曲をジュークボックスから
+鑑賞できるようになります
+[common_widget/juke_box_019] ジュークボックスの楽曲解放などで獲得できます
+獲得すると上記の楽曲をジュークボックスから
+鑑賞できるようになります
+[common_widget/juke_box_020] 試聴する
+[common_widget/juke_box_021] エリア情報をクリアすると
+バトル中のＢＧＭを変更できます
+[common_widget/juke_box_022] 全ての楽曲キーを交換済みです
+[common_widget/juke_box_023] あらかじめバトルに
+設定されている楽曲を再生します
+[common_widget/juke_box_024] ★6EX
+[common_widget/juke_box_025] どうぐ交換
 
 ===========
 common_widget_ko.lsd
@@ -27537,9 +28418,11 @@ EX컬러 의상을 획득할 수 있습니다
 [common_widget/dialog_077] 이 화면에서 뒤로 가기 버튼은 사용할 수 없습니다
 [common_widget/dialog_078] ※획득하면 강화 전 상태로 돌아갈 수 없습니다
 [common_widget/dialog_079] ※버디즈의 육성 상황은 유지됩니다
+[common_widget/dialog_080] 이미 획득한 도구를 자동 교환했습니다
 [common_widget/dialog_081] 레전드 어드벤처 배틀에
 이미 출발한 버디즈가
 편성되어 있어 출발할 수 없습니다
+[common_widget/dialog_082] 첫 선물
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -27599,6 +28482,8 @@ Lv.1 상태
 [common_widget/trainer_detail_060] 패시브스킬
 [common_widget/trainer_detail_061] 포텐셜
 [common_widget/trainer_detail_062] 
+[common_widget/trainer_detail_063] [Name:TrainerName ]
+&[Name:PokemonName ]
 [common_widget/dialog_special_item_001] [Name:Item ][Kor:Particle char="wo" ]
 획득했습니다!
 [common_widget/dialog_special_item_002] 남은 배지는 앞으로 [Digit:1digit ]개!
@@ -27681,6 +28566,15 @@ Lv.MAX
 [common_widget/filter_050] 특수한 효과
 [common_widget/filter_051] 보너스 효과
 [common_widget/filter_052] 원래 ★의 수
+[common_widget/filter_053] 관동
+[common_widget/filter_054] 성도
+[common_widget/filter_055] 호연
+[common_widget/filter_056] 신오
+[common_widget/filter_057] 하나
+[common_widget/filter_058] 칼로스
+[common_widget/filter_059] 알로라
+[common_widget/filter_060] 가라르
+[common_widget/filter_061] 그 외
 [common_widget/sort_001] ★의 수
 [common_widget/sort_002] 버디즈기술
 [common_widget/sort_003] HP
@@ -27858,6 +28752,39 @@ Lv.MAX
 BP 버디즈 호출권은 도구 교환에서
 한정 버디즈를 불러낼 수 있습니다
 [common_widget/battle_point_015] 한정 버디즈를 동료로!
+[common_widget/juke_box_001] 주크박스
+[common_widget/juke_box_002] 악곡 감상
+[common_widget/juke_box_003] 해방한 음악을 자유롭게 감상할 수 있습니다
+[common_widget/juke_box_004] 악곡 해방
+[common_widget/juke_box_005] 악곡 키를 획득해서 악곡을 해방할 수 있습니다
+[common_widget/juke_box_006] 클리어한 스토리의 에리어 정보의 배틀 BGM은
+출발 전 화면에서 변경할 수 있습니다!
+[common_widget/juke_box_007] 악곡 감상
+[common_widget/juke_box_008] 배틀 BGM 변경
+[common_widget/juke_box_009] 지정한 악곡을 재생
+[common_widget/juke_box_010] 악곡 선택
+[common_widget/juke_box_011] 랜덤 재생
+[common_widget/juke_box_012] 감상 가능한 악곡에서
+랜덤으로 1곡을 재생합니다
+[common_widget/juke_box_013] 변경하지 않는다
+[common_widget/juke_box_014] 아래 악곡이 해방되었습니다
+[common_widget/juke_box_015] 아래 악곡이 추가되었습니다
+[common_widget/juke_box_016] ※추가된 악곡은 특정 조건을 달성하면 감상할 수 있습니다
+[common_widget/juke_box_017] [Name:TrainerName ]＆[Name:PokemonName ][Kor:Particle char="wo" ]
+★6EX로 ★상승시키면 획득할 수 있습니다
+획득하면 위 악곡을 주크박스에서
+감상할 수 있게 됩니다
+[common_widget/juke_box_019] 주크박스의 악곡 해방 등으로 획득할 수 있습니다
+획득하면 위 악곡을 주크박스에서
+감상할 수 있게 됩니다
+[common_widget/juke_box_020] 미리 듣기
+[common_widget/juke_box_021] 에리어 정보를 클리어하면
+배틀 중에 나오는 BGM을 변경할 수 있습니다
+[common_widget/juke_box_022] 이미 모든 악곡 키를 교환했습니다
+[common_widget/juke_box_023] 기존에 배틀에서
+설정되어 있던 악곡을 재생합니다
+[common_widget/juke_box_024] ★6EX
+[common_widget/juke_box_025] 도구 교환
 
 ===========
 common_widget_zh-TW.lsd
@@ -28018,9 +28945,11 @@ common_widget_zh-TW.lsd
 [common_widget/dialog_077] 在這個畫面無法使用返回按鈕
 [common_widget/dialog_078] ※獲得後將無法回到強化前的狀態
 [common_widget/dialog_079] ※拍組的培育狀況會維持現狀
+[common_widget/dialog_080] 已自動轉換已獲得的道具
 [common_widget/dialog_081] 有已出發的拍組被編制在
 傳說冒險的對戰中
 因此無法出發
+[common_widget/dialog_082] 首次使用禮
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -28077,6 +29006,8 @@ MAX
 [common_widget/trainer_detail_060] 被動技能
 [common_widget/trainer_detail_061] 潛能
 [common_widget/trainer_detail_062] 
+[common_widget/trainer_detail_063] [Name:TrainerName ]
+&[Name:PokemonName ]
 [common_widget/dialog_special_item_001] 獲得了
 [Name:Item ]！
 [common_widget/dialog_special_item_002] 還剩下[Digit:1digit ]個徽章！
@@ -28157,6 +29088,15 @@ Lv.MAX
 [common_widget/filter_050] 特殊效果
 [common_widget/filter_051] 獎勵效果
 [common_widget/filter_052] 原有★數
+[common_widget/filter_053] 關都
+[common_widget/filter_054] 城都
+[common_widget/filter_055] 豐緣
+[common_widget/filter_056] 神奧
+[common_widget/filter_057] 合眾
+[common_widget/filter_058] 卡洛斯
+[common_widget/filter_059] 阿羅拉
+[common_widget/filter_060] 伽勒爾
+[common_widget/filter_061] 其他
 [common_widget/sort_001] ★數
 [common_widget/sort_002] 拍組招式
 [common_widget/sort_003] HP
@@ -28316,6 +29256,39 @@ EX服裝！
 對戰點數拍組召喚券可在交換道具時
 召喚出限定拍組
 [common_widget/battle_point_015] 與限定拍組成為夥伴吧！
+[common_widget/juke_box_001] 點播機
+[common_widget/juke_box_002] 欣賞樂曲
+[common_widget/juke_box_003] 可自由欣賞已解鎖的樂曲
+[common_widget/juke_box_004] 解鎖樂曲
+[common_widget/juke_box_005] 獲得樂曲鑰匙即可解鎖樂曲
+[common_widget/juke_box_006] 已過關的區域資訊的對戰ＢＧＭ
+可以在出發前的畫面變更喔！
+[common_widget/juke_box_007] 欣賞樂曲
+[common_widget/juke_box_008] 變更對戰ＢＧＭ
+[common_widget/juke_box_009] 播放指定樂曲
+[common_widget/juke_box_010] 選擇樂曲
+[common_widget/juke_box_011] 隨機播放
+[common_widget/juke_box_012] 從可欣賞的樂曲中
+隨機播放1首
+[common_widget/juke_box_013] 不變更
+[common_widget/juke_box_014] 已解鎖下列樂曲
+[common_widget/juke_box_015] 已追加下列樂曲
+[common_widget/juke_box_016] ※達成特定條件後即可欣賞已追加的樂曲
+[common_widget/juke_box_017] 將[Name:TrainerName ]
+＆[Name:PokemonName ]的★
+提升至★6EX後即可獲得
+獲得後可在點播機
+欣賞上述樂曲
+[common_widget/juke_box_019] 可在點播機的解鎖樂曲等處獲得
+獲得後可在點播機
+欣賞上述樂曲
+[common_widget/juke_box_020] 試聽
+[common_widget/juke_box_021] 成功過關區域資訊後
+即可變更對戰中的ＢＧＭ
+[common_widget/juke_box_022] 樂曲鑰匙已全部交換完畢
+[common_widget/juke_box_023] 會播放預先設定好的對戰樂曲
+[common_widget/juke_box_024] ★6EX
+[common_widget/juke_box_025] 交換道具
 
 ===========
 error_dialog_contents_de.lsd
@@ -37328,6 +38301,9 @@ eingetauscht werden.
 [Name:TrainerName ] & [Name:PokemonName ]
 in dein Team geholt hast.
 [shop/shop_itemexchange_047] Gefährten-Upgrade
+[shop/shop_itemexchange_048] Lieder
+[shop/shop_itemexchange_049] Berühre das Symbol eines Liedes, um kurz reinzuhören.
+[shop/shop_itemexchange_050] Lieder
 [shop/scout_001] Gefährtensuche
 [shop/scout_002] G-Suche-
 Punkte
@@ -37715,6 +38691,8 @@ kostenlos Gefährten ins Team holen!
 [shop/scout_157] Setze spezielle Tickets ein, um
 Gefährten zu erhalten!
 [shop/scout_159] Die Erscheinungsraten für ★ werden nach der vierten Dezimalstelle aufgerundet, es kann also sein, dass sie addiert nicht 100 % ergeben. Die tatsächliche Erscheinungsrate wird nicht auf- oder abgerundet. Die Erscheinungsrate gilt für jede durchgeführte Gefährtensuche. Selbst wenn du eine Gefährtensuche mehrmals hintereinander durchführst, heißt das also nicht notwendigerweise, dass du ein bestimmtes Gefährtengespann erhalten wirst. Es ist möglich, dass du durch die Gefährtensuche die gleichen Gefährten erhältst. Selbst wenn du Gefährten schon hast und sich bei ihnen das Pokémon schon entwickelt hat, wird das Pokémon vor der Entwicklung angezeigt, wenn du sie durch Gefährtensuchen erhältst. Steht bei der Erscheinungsrate hinter dem Pokémon-Namen ein *, heißt das, dass sich das Pokémon durch eine Entwicklungs-Episode entwickeln kann.
+[shop/scout_162] Musik-
+Schlüssel
 [shop/deck_item_sale_001] Ausrüstungstausch
 [shop/deck_item_sale_002] Ausrüstung
 [shop/deck_item_sale_003] Filter
@@ -37950,6 +38928,9 @@ for this exchange?
 [shop/shop_itemexchange_045] Only one of this exchange can be performed at a time.
 [shop/shop_itemexchange_046] To exchange, team up with [Name:TrainerName ] & [Name:PokemonName ].
 [shop/shop_itemexchange_047] Power Boost
+[shop/shop_itemexchange_048] Music
+[shop/shop_itemexchange_049] Tap on the song key icon to preview songs.
+[shop/shop_itemexchange_050] Songs
 [shop/scout_001] Sync Pair Scout
 [shop/scout_002] Scout
 Points
@@ -38218,6 +39199,7 @@ The final sync pair scouted (the 10th sync pair for ×10 scouts and 11th sync pa
 Seasonal sync pairs are sync pairs that will appear for a limited time during this seasonal scout. There is a possibility that they will appear outside of this seasonal scout in the future.
 
 When you see a * displayed after a Pokémon name in the offering rate, that means the sync pair’s Pokémon can evolve through an Evolution sync pair story.
+[shop/scout_162] Song Key
 [shop/deck_item_sale_001] Exchange Gear
 [shop/deck_item_sale_002] Gear
 [shop/deck_item_sale_003] Filter
@@ -38453,6 +39435,9 @@ de este objeto.
 [shop/shop_itemexchange_046] Disponible tras obtener a
 [Name:TrainerName ] y [Name:PokemonName ].
 [shop/shop_itemexchange_047] Mejora de compis
+[shop/shop_itemexchange_048] Música
+[shop/shop_itemexchange_049] Puedes oír una muestra de la música si tocas el icono del objeto.
+[shop/shop_itemexchange_050] Música
 [shop/scout_001] Reclutamiento
 [shop/scout_002] Puntos
 reclut.
@@ -38675,6 +39660,8 @@ Es posible obtener una pareja de compis repetida en un reclutamiento. Aunque el 
 La última pareja de compis de un reclutamiento (esto es, la 10.ª pareja en un reclutamiento ×10; o la 11.ª pareja en un reclutamiento ×11) se selecciona al azar de un conjunto de parejas de compis de 5★. Toca el botón "5★ garantizadas" para comprobar las tasas de aparición de dichas parejas de compis.
 Los compis de temporada son parejas de compis que aparecen durante un tiempo limitado en este reclutamiento de temporada, aunque es posible que vuelvan a aparecer en un futuro fuera de un reclutamiento de temporada.
 Los Pokémon de las parejas de compis marcadas con un asterisco (*) en la pantalla de las tasas de aparición podrán evolucionar tras completar el episodio de evolución correspondiente.
+[shop/scout_162] Llave
+musical
 [shop/deck_item_sale_001] Canjear accesorios
 [shop/deck_item_sale_002] Accesorios
 [shop/deck_item_sale_003] Filtrar
@@ -38906,6 +39893,9 @@ de ce type à la fois.
 [shop/shop_itemexchange_046] Disponible en faisant équipe avec :
 [Name:TrainerName ] & [Name:PokemonName ]
 [shop/shop_itemexchange_047] Renforcement Duo
+[shop/shop_itemexchange_048] Musique
+[shop/shop_itemexchange_049] Vous pouvez écouter un morceau en touchant l'icône de l'objet.
+[shop/shop_itemexchange_050] Morceaux
 [shop/scout_001] Appel Duo
 [shop/scout_002] Pts d'Appel
 Duo
@@ -39127,6 +40117,8 @@ Bons 10 Appels Duo
 [shop/scout_157] Vous pouvez utiliser des Bons
 spéciaux pour obtenir des Duos !
 [shop/scout_159] Remarque : les pourcentages de chance par nombre d'★ affichés étant arrondis au troisième chiffre après la virgule, il peut arriver que la somme totale ne soit pas égale à 100 %. Les pourcentages réels ne sont ni arrondis au supérieur, ni à l'inférieur. Les pourcentages s'appliquent à chaque Appel Duo indépendamment. Même si vous passez un certain nombre d'Appels Duo, il est possible qu'un certain Duo n'apparaisse pas du tout. Il est possible qu'un même Duo apparaisse plusieurs fois. Si vous appelez un Duo que vous avez déjà et dont vous avez fait évoluer le Pokémon, le Pokémon avant évolution apparaîtra dans le Duo affiché dans les résultats. Le dernier Appel Duo (le dixième si vous avez passé 10 Appels Duo d'affilée, le onzième si vous avez passé 11 Appels Duo d'affilée) vous permettra d'obtenir un Duo 5★. Pour connaître les pourcentages utilisés lors de l'Appel Duo garantissant un Duo 5★, touchez le bouton « 5★ garanti ! » sur l'écran de pourcentages. Un Duo saisonnier est un Duo apparaissant pendant une durée limitée, à l'occasion d'un Appel Duo saisonnier. Il est possible qu'un Duo saisonnier apparaisse à nouveau, même après la fin de son Appel Duo saisonnier. Les Duos ayant une astérisque (*) après le nom de leur Pokémon à côté du pourcentage peuvent faire évoluer leur Pokémon si vous débloquez leur épisode d'évolution.
+[shop/scout_162] Clé
+Mélodie
 [shop/deck_item_sale_001] Échanger équipement
 [shop/deck_item_sale_002] Équipement
 [shop/deck_item_sale_003] Filtrer
@@ -39365,6 +40357,9 @@ scambiato.
 [shop/shop_itemexchange_045] È possibile effettuare un solo scambio alla volta.
 [shop/shop_itemexchange_046] Fai squadra con [Name:TrainerName ] & [Name:PokemonName ]
 [shop/shop_itemexchange_047] Rinforzo Unità
+[shop/shop_itemexchange_048] Musica
+[shop/shop_itemexchange_049] Puoi ascoltare un'anteprima toccando l'icona dello strumento.
+[shop/shop_itemexchange_050] Musica
 [shop/scout_001] Ricerca Unità
 [shop/scout_002] Punti
 Unicerca
@@ -39662,6 +40657,8 @@ Per consultare il tasso di comparsa delle estrazioni che selezionano solo Unità
 Le Unità festive sono Unità che compaiono durante questa ricerca Unità festiva.
 È possibile che le Unità festive compaiano anche in ricerche Unità successive, non necessariamente festive.
 I Pokémon con un asterisco dopo il nome, visualizzato nel tasso di comparsa dell'Unità, possono evolversi tramite episodio evolutivo.
+[shop/scout_162] Chiave
+musicale
 [shop/deck_item_sale_001] Scambio accessori
 [shop/deck_item_sale_002] Accessori
 [shop/deck_item_sale_003] Filtra
@@ -39902,6 +40899,9 @@ ONにしてください
 [shop/shop_itemexchange_046] [Name:TrainerName ]&[Name:PokemonName ]を
 仲間にすると交換可能
 [shop/shop_itemexchange_047] バディーズ強化
+[shop/shop_itemexchange_048] 楽曲
+[shop/shop_itemexchange_049] どうぐアイコンをタップすると楽曲を試聴できます
+[shop/shop_itemexchange_050] 楽曲
 [shop/scout_001] バディーズサーチ
 [shop/scout_002] Ｂサーチ
 ポイント
@@ -40194,6 +41194,8 @@ STEPによってはプレゼントが設定されている場合があります�
 ※シーズン限定バディーズとはこのシーズン限定バディーズサーチの期間中に出現するバディーズです。
 ※シーズン限定バディーズは今後シーズン限定バディーズサーチ以外でも出現する可能性があります。
 ※提供割合にてポケモン名の後ろに(*)が表示されているバディーズは、進化エピソードを通してポケモンを進化させることができます。
+[shop/scout_162] BGM
+解放条件
 [shop/deck_item_sale_001] 装備売却
 [shop/deck_item_sale_002] 装備
 [shop/deck_item_sale_003] フィルター
@@ -40430,6 +41432,9 @@ ON으로 바꿔주십시오
 [shop/shop_itemexchange_046] [Name:TrainerName ]&[Name:PokemonName ][Kor:Particle char="wo" ]
 동료로 만들면 교환 가능
 [shop/shop_itemexchange_047] 버디즈 강화
+[shop/shop_itemexchange_048] 악곡
+[shop/shop_itemexchange_049] 도구 아이콘을 터치하면 악곡을 미리 들어볼 수 있습니다
+[shop/shop_itemexchange_050] 악곡
 [shop/scout_001] 버디즈서치
 [shop/scout_002] B서치
 포인트
@@ -40748,6 +41753,8 @@ STEP에 따라서는 선물이 포함된 경우가 있습니다.
 ※시즌 한정 버디즈는 이후 시즌 한정 버디즈서치 이외에서도 출현할 가능성이 있습니다.
 ※제공 확률에서 포켓몬 이름의 뒤에 (*)이 표시되어 있는 버디즈는
 진화 에피소드를 통하여 포켓몬을 진화시킬 수 있습니다.
+[shop/scout_162] BGM
+해방 조건
 [shop/deck_item_sale_001] 장비 판매
 [shop/deck_item_sale_002] 장비
 [shop/deck_item_sale_003] 필터
@@ -40974,6 +41981,9 @@ shop_zh-TW.lsd
 [shop/shop_itemexchange_046] 與[Name:TrainerName ]&[Name:PokemonName ]
 成為夥伴即可交換
 [shop/shop_itemexchange_047] 拍組強化
+[shop/shop_itemexchange_048] 樂曲
+[shop/shop_itemexchange_049] 點選道具圖示即可試聽樂曲
+[shop/shop_itemexchange_050] 樂曲
 [shop/scout_001] 拍組搜尋
 [shop/scout_002] 拍組搜尋
 點數
@@ -41229,6 +42239,8 @@ shop_zh-TW.lsd
 ※季節限定拍組是會在本次季節限定拍組搜尋期間出現的拍組
 ※季節限定拍組今後也有可能在季節限定拍組搜尋以外出現
 ※在提供比例畫面中，若拍組的寶可夢名字後面標有(*)，則表示該寶可夢可透過進化劇情進化
+[shop/scout_162] BGM
+解鎖條件
 [shop/deck_item_sale_001] 出售裝備
 [shop/deck_item_sale_002] 裝備
 [shop/deck_item_sale_003] 篩選
