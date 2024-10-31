@@ -4013,6 +4013,7 @@ nicht vorbei!
 [quest_group_title_610057] Limitbruchgebiet
 [quest_group_title_610059] Gefährtendropsgebiet
 [quest_group_title_610058] Entwicklungsgebiet
+[quest_group_title_610063] Glücksfähigkeitsgebiet
 [quest_title_1030420700301012] Angreifer-Intensivkurs 1
 [quest_title_1030420700302012] Taktiker-Intensivkurs 1
 [quest_title_1030420700303012] Helfer-Intensivkurs 1
@@ -6853,6 +6854,72 @@ Erinnerung
 [quest_title_1030220655000000] Ein Tag mit Hans-Pika
 [quest_title_1030220156000000] Ein Tag mit Urs
 [quest_title_1030220119100000] Ein Tag mit MaMo-Gladio
+[quest_title_1040000160001011] Ein besonderer Tag mit
+Géraldine (Teil 1)
+[quest_title_1040000160001021] Ein besonderer Tag mit
+Géraldine (Teil 2)
+[quest_title_1030110000600600] Enthüllt Euer Band
+[quest_title_1030460200115010] Epischer täglicher
+Multiteamkampf!
+[quest_title_1030602000601000] Der Top-Champ mit dem
+Gespür für Schönheit
+[quest_title_1030602000601010] Ausgereiftes Talent
+[quest_title_1030602000601050] Vs. Siegfried 1
+[quest_title_1030602000601020] Besiege den Drachenmeister
+mit dem Umhang
+[quest_title_1030602000601060] Vs. Siegfried 2
+[quest_title_1030602000601030] Despotars Stärke
+[quest_title_1030602000601070] Vs. Siegfried 3
+[quest_title_1030602000601040] Ein endloser Traum
+[quest_title_1030602000601080] Vs. Siegfried 4
+[quest_title_1030602000601090] Täglicher schwerer Kampf
+[quest_title_1030602000601100] Herausforderungskampf 1
+[quest_title_1030602000601110] Herausforderungskampf 2
+[quest_title_1030220295000000] Ein Tag mit Sagaria
+[quest_title_1030220133900000] Ein Tag mit Silber
+[quest_title_1030602000602000] Stelle dich Cosima! 1
+[quest_title_1030602000602010] Stelle dich Cosima! 2
+[quest_title_1030602000602020] Stelle dich Klarin! 1
+[quest_title_1030602000602030] Stelle dich Klarin! 2
+[quest_title_1030602000605000] Endlich bist du hier...
+[quest_title_1030602000605010] Stelle dich Neo-Champ
+Silber! 
+[quest_title_1030460200501010] Vs. Sabrina
+[quest_title_1030460200502010] Vs. Lucian
+[quest_title_1030460200503010] Vs. Kattlea
+[quest_title_1030460200504010] Vs. Willi
+[quest_title_1030460200505010] Vs. Svenja
+[quest_title_1030451002301010] Vs. Entschlossener Viktor
+[quest_title_1030602000603000] Zeigt uns eure Moves!
+[quest_title_1030602000603010] Poké-Kommunikation
+[quest_title_1030602000603050] Vs. Trainer aus Passio 1
+[quest_title_1030602000603020] Lasst uns tanzen!
+[quest_title_1030602000603060] Vs. Trainer aus Passio 2
+[quest_title_1030602000603030] Körpersprache und viel Herz
+[quest_title_1030602000603070] Vs. Trainer aus Passio 3
+[quest_title_1030602000603040] Dein Platz hat dich gefunden
+[quest_title_1030602000603080] Vs. Trainer aus Passio 4
+[quest_title_1030602000603090] Täglicher schwerer Kampf
+[quest_title_1030602000603100] Herausforderungskampf 1
+[quest_title_1030602000603110] Herausforderungskampf 2
+[quest_title_1030220180000000] Ein Tag mit Tierno
+[quest_title_1030220202000000] Ein Tag mit Dahlia
+[quest_title_1030602000604000] Sagarias Verdacht
+[quest_title_1030602000604020] Vs. Trainer aus Passio 1
+[quest_title_1030602000604030] Vs. Trainer aus Passio 2
+[quest_title_1030602000604040] Vs. Trainer aus Passio 3
+[quest_title_1030602000604050] Vs. Trainer aus Passio 4
+[quest_title_1030602000604060] Täglicher schwerer Kampf
+[quest_title_1030602000604010] Journées wahres Gesicht
+[quest_group_title_10295000000] Sagaria
+[quest_group_title_10133900000] Silber (Neo-Champ)
+[quest_group_title_10284400000] Diam (Kostüm)
+[quest_group_title_10285400000] Perla (Kostüm)
+[quest_group_title_10180000000] Tierno
+[quest_group_title_10202000000] Dahlia
+[quest_title_1030460200400010] Kais bestes Käfer-Pokémon!
+[quest_title_1030460200601010] Glücksfähigkeit-
+Verstärkungsintensivkurs
 
 ===========
 story_quest_name_en.lsd
@@ -7923,6 +7990,7 @@ story_quest_name_en.lsd
 [quest_group_title_610057] Cap-Unlock Area
 [quest_group_title_610059] Sync Orb Area
 [quest_group_title_610058] Evolution Material Area
+[quest_group_title_610063] Lucky Skill Area
 [quest_title_1030420700301012] Strike Drill 1
 [quest_title_1030420700302012] Tech Drill 1
 [quest_title_1030420700303012] Support Drill 1
@@ -10559,6 +10627,65 @@ Nine Possibilities: Part 2
 [quest_title_1030220655000000] A Day with Petey
 [quest_title_1030220156000000] A Day with Riley
 [quest_title_1030220119100000] A Day with Sygna Suit Gladion
+[quest_title_1040000160001011] A Special Day with Skyla: Part 1
+[quest_title_1040000160001021] A Special Day with Skyla: Part 2
+[quest_title_1030110000600600] Show Me Thy Bond
+[quest_title_1030460200115010] Epic Daily Co-op Battle!
+[quest_title_1030602000601000] The Top Champion’s Insight
+[quest_title_1030602000601010] Honed Talent
+[quest_title_1030602000601050] Challenge Lance: Part 1
+[quest_title_1030602000601020] Defeat the Caped Dragon Master
+[quest_title_1030602000601060] Challenge Lance: Part 2
+[quest_title_1030602000601030] Tyranitar’s Power
+[quest_title_1030602000601070] Challenge Lance: Part 3
+[quest_title_1030602000601040] A Never-ending Dream
+[quest_title_1030602000601080] Challenge Lance: Part 4
+[quest_title_1030602000601090] Daily Extreme Battle 1
+[quest_title_1030602000601100] Battle Challenge! Round 1
+[quest_title_1030602000601110] Battle Challenge! Round 2
+[quest_title_1030220295000000] A Day with Geeta
+[quest_title_1030220133900000] A Day with Silver
+[quest_title_1030602000602000] Take On Penny! Part 1
+[quest_title_1030602000602010] Take On Penny! Part 2
+[quest_title_1030602000602020] Take On Ethan! Part 1
+[quest_title_1030602000602030] Take On Ethan! Part 2
+[quest_title_1030602000605000] You’re Finally Here, Huh...
+[quest_title_1030602000605010] Challenge Champion Silver
+[quest_title_1030460200501010] Challenge Sabrina
+[quest_title_1030460200502010] Challenge Lucian
+[quest_title_1030460200503010] Challenge Caitlin
+[quest_title_1030460200504010] Challenge Will
+[quest_title_1030460200505010] Challenge Liza
+[quest_title_1030451002301010] Challenge a Super Serious Palmer
+[quest_title_1030602000603000] A Gathering of Dance Lovers!
+[quest_title_1030602000603010] Ways to Communicate with Pokémon
+[quest_title_1030602000603050] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030602000603020] Let’s Dance Together!
+[quest_title_1030602000603060] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030602000603030] Express with Your Heart and Body
+[quest_title_1030602000603070] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030602000603040] Your Place Has Found You
+[quest_title_1030602000603080] Challenge Pasio’s Trainers: Part 4
+[quest_title_1030602000603090] Daily Extreme Battle 1
+[quest_title_1030602000603100] Battle Challenge! Round 1
+[quest_title_1030602000603110] Battle Challenge! Round 2
+[quest_title_1030220180000000] A Day with Tierno
+[quest_title_1030220202000000] A Day with Dahlia
+[quest_title_1030602000604000] Geeta’s Concerns
+[quest_title_1030602000604020] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030602000604030] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030602000604040] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030602000604050] Challenge Pasio’s Trainers: Part 4
+[quest_title_1030602000604060] Daily Extreme Battle 1
+[quest_title_1030602000604010] Dana’s True Face
+[quest_group_title_10295000000] Geeta
+[quest_group_title_10133900000] Silver (Champion)
+[quest_group_title_10284400000] Adaman (Special Costume)
+[quest_group_title_10285400000] Irida (Special Costume)
+[quest_group_title_10180000000] Tierno
+[quest_group_title_10202000000] Dahlia
+[quest_title_1030460200400010] Bugsy’s Prized Bug-Type Pokémon!
+[quest_title_1030460200601010] Lucky Skill Drill
 
 ===========
 story_quest_name_es.lsd
@@ -11633,6 +11760,7 @@ corazones
 [quest_group_title_610057] Área de nivel máximo
 [quest_group_title_610059] Área de Orbes Compi
 [quest_group_title_610058] Área de Gemas Evolutivas
+[quest_group_title_610063] Área de habilidades fortuitas
 [quest_title_1030420700301012] Entrenamiento de Ataque 1
 [quest_title_1030420700302012] Entrenamiento de Sabotaje 1
 [quest_title_1030420700303012] Entrenamiento de Apoyo 1
@@ -14597,6 +14725,72 @@ de Gladio
 [quest_title_1030220655000000] Un día con Chus
 [quest_title_1030220156000000] Un día con Quinoa
 [quest_title_1030220119100000] Un día con Gladio (Traje S)
+[quest_title_1040000160001011] Un día especial con Gerania
+[quest_title_1040000160001021] Un día especial con Gerania (2)
+[quest_title_1030110000600600] Mostradme vuestro vínculo
+[quest_title_1030460200115010] ¡Combate cooperativo diario!
+[quest_title_1030602000601000] La sagacidad de la
+Supercampeona
+[quest_title_1030602000601010] Talento refinado
+[quest_title_1030602000601050] VS. Lance
+[quest_title_1030602000601020] Duelo contra el maestro
+dragón
+[quest_title_1030602000601060] VS. Lance (2)
+[quest_title_1030602000601030] El poder de Tyranitar
+[quest_title_1030602000601070] VS. Lance (3)
+[quest_title_1030602000601040] Nuestra esperanza
+[quest_title_1030602000601080] VS. Lance (4)
+[quest_title_1030602000601090] ¡Un combate difícil al día!
+[quest_title_1030602000601100] ¡Un combate desafiante!
+[quest_title_1030602000601110] ¡Un combate desafiante! (2)
+[quest_title_1030220295000000] Un día con Ságita
+[quest_title_1030220133900000] Un día con Plata
+[quest_title_1030602000602000] ¡Enfréntate a Noa!
+[quest_title_1030602000602010] ¡Enfréntate a Noa! (2)
+[quest_title_1030602000602020] ¡Enfréntate a Eco!
+[quest_title_1030602000602030] ¡Enfréntate a Eco! (2)
+[quest_title_1030602000605000] Así que has llegado hasta
+aquí...
+[quest_title_1030602000605010] ¡Enfréntate al Neocampeón
+Plata!
+[quest_title_1030460200501010] VS. Sabrina
+[quest_title_1030460200502010] VS. Delos
+[quest_title_1030460200503010] VS. Catleya
+[quest_title_1030460200504010] VS. Mento
+[quest_title_1030460200505010] VS. Leti
+[quest_title_1030451002301010] VS. Jericor con todo
+[quest_title_1030602000603000] El mejor grupo de bailarines
+[quest_title_1030602000603010] Cómo estrechar lazos con los
+Pokémon
+[quest_title_1030602000603050] VS. Entrenadores de Passio
+[quest_title_1030602000603020] ¡Es hora de bailar!
+[quest_title_1030602000603060] VS. Entrenadores de Passio (2)
+[quest_title_1030602000603030] Transmite tus sentimientos
+[quest_title_1030602000603070] VS. Entrenadores de Passio (3)
+[quest_title_1030602000603040] Tu lugar está ahí para ti
+[quest_title_1030602000603080] VS. Entrenadores de Passio (4)
+[quest_title_1030602000603090] ¡Un combate difícil al día!
+[quest_title_1030602000603100] ¡Un combate desafiante!
+[quest_title_1030602000603110] ¡Un combate desafiante! (2)
+[quest_title_1030220180000000] Un día con Beni
+[quest_title_1030220202000000] Un día con Delila
+[quest_title_1030602000604000] La sospecha de Ságita
+[quest_title_1030602000604020] VS. Entrenadores de Passio
+[quest_title_1030602000604030] VS. Entrenadores de Passio (2)
+[quest_title_1030602000604040] VS. Entrenadores de Passio (3)
+[quest_title_1030602000604050] VS. Entrenadores de Passio (4)
+[quest_title_1030602000604060] ¡Un combate difícil al día!
+[quest_title_1030602000604010] Meridia revela su ser
+[quest_group_title_10295000000] Ságita
+[quest_group_title_10133900000] Plata (Neocampeón)
+[quest_group_title_10284400000] Adamas (Especial)
+[quest_group_title_10285400000] Nákara (Especial)
+[quest_group_title_10180000000] Beni
+[quest_group_title_10202000000] Delila
+[quest_title_1030460200400010] El fantástico Pokémon de tipo
+Bicho de Antón
+[quest_title_1030460200601010] Entrenamiento de
+habilidades fortuitas
 
 ===========
 story_quest_name_fr.lsd
@@ -15716,6 +15910,7 @@ l'affrontement ! II
 [quest_group_title_610057] Zone repousse-limite
 [quest_group_title_610059] Zone Duo-Sphères
 [quest_group_title_610058] Zone Minerai d'Évolution
+[quest_group_title_610063] Zone de talent surprise
 [quest_title_1030420700301012] Exercice Attaquant I
 [quest_title_1030420700302012] Exercice Tacticien I
 [quest_title_1030420700303012] Exercice Soutien I
@@ -19105,6 +19300,83 @@ Dresseurs de Passio IV
 [quest_title_1030220156000000] Une journée avec Armand
 [quest_title_1030220119100000] Une journée avec Gladio
 (Look Ultime)
+[quest_title_1040000160001011] Une journée spéciale
+avec Carolina
+[quest_title_1040000160001021] Une journée spéciale
+avec Carolina II
+[quest_title_1030110000600600] Montrez-moi votre lien
+[quest_title_1030460200115010] Combat en coop extrême
+quotidien !
+[quest_title_1030602000601000] Une Maîtresse en Chef
+perspicace
+[quest_title_1030602000601010] Talent affiné
+[quest_title_1030602000601050] Combat : Peter
+[quest_title_1030602000601020] Vaincre le Dracologue
+à la cape
+[quest_title_1030602000601060] Combat : Peter II
+[quest_title_1030602000601030] La puissance de Tyranocif
+[quest_title_1030602000601070] Combat : Peter III
+[quest_title_1030602000601040] Un rêve sans fin
+[quest_title_1030602000601080] Combat : Peter IV
+[quest_title_1030602000601090] Combat difficile limité
+à une fois par jour !
+[quest_title_1030602000601100] Combat difficile
+[quest_title_1030602000601110] Combat difficile II
+[quest_title_1030220295000000] Une journée avec Alisma
+[quest_title_1030220133900000] Une journée avec Silver
+[quest_title_1030602000602000] Combat corsé : Pania
+[quest_title_1030602000602010] Combat corsé : Pania II
+[quest_title_1030602000602020] Combat corsé : Luth
+[quest_title_1030602000602030] Combat corsé : Luth II
+[quest_title_1030602000605000] Te voilà enfin...
+[quest_title_1030602000605010] Défi corsé :
+Silver (Néo-Maître)
+[quest_title_1030460200501010] Combat : Morgane
+[quest_title_1030460200502010] Combat : Lucio
+[quest_title_1030460200503010] Combat : Percila
+[quest_title_1030460200504010] Combat : Clément
+[quest_title_1030460200505010] Combat : Tatia
+[quest_title_1030451002301010] Combat : Koner sans merci
+[quest_title_1030602000603000] Danseurs passionnés, venez !
+[quest_title_1030602000603010] Comment communiquer avec
+les Pokémon
+[quest_title_1030602000603050] Combat : Dresseurs de Passio
+[quest_title_1030602000603020] Dansons ensemble !
+[quest_title_1030602000603060] Combat :
+Dresseurs de Passio II
+[quest_title_1030602000603030] Expression du cœur
+et du corps
+[quest_title_1030602000603070] Combat :
+Dresseurs de Passio III
+[quest_title_1030602000603040] Ce lieu est venu t'accueillir
+[quest_title_1030602000603080] Combat :
+Dresseurs de Passio IV
+[quest_title_1030602000603090] Combat difficile limité
+à une fois par jour !
+[quest_title_1030602000603100] Combat difficile
+[quest_title_1030602000603110] Combat difficile II
+[quest_title_1030220180000000] Une journée avec Tierno
+[quest_title_1030220202000000] Une journée avec Dahlia
+[quest_title_1030602000604000] Les inquiétudes d'Alisma
+[quest_title_1030602000604020] Combat : Dresseurs de Passio
+[quest_title_1030602000604030] Combat :
+Dresseurs de Passio II
+[quest_title_1030602000604040] Combat :
+Dresseurs de Passio III
+[quest_title_1030602000604050] Combat :
+Dresseurs de Passio IV
+[quest_title_1030602000604060] Combat difficile limité
+à une fois par jour !
+[quest_title_1030602000604010] Le vrai visage de Méridia
+[quest_group_title_10295000000] Alisma
+[quest_group_title_10133900000] Silver (Néo-Maître)
+[quest_group_title_10284400000] Adamantin (Look Spécial)
+[quest_group_title_10285400000] Nacchara (Look Spécial)
+[quest_group_title_10180000000] Tierno
+[quest_group_title_10202000000] Dahlia
+[quest_title_1030460200400010] Les précieux Pokémon
+Insecte d'Hector !
+[quest_title_1030460200601010] Exercice talents surprise
 
 ===========
 story_quest_name_it.lsd
@@ -20171,6 +20443,7 @@ story_quest_name_it.lsd
 [quest_group_title_610057] Aree sblocco livello max
 [quest_group_title_610059] Aree Uniciondoli
 [quest_group_title_610058] Aree minerali evolutivi
+[quest_group_title_610063] Aree talenti
 [quest_title_1030420700301012] Allenamento Attaccanti 1
 [quest_title_1030420700302012] Allenamento Tecnici 1
 [quest_title_1030420700303012] Allenamento Aiutanti 1
@@ -22751,6 +23024,65 @@ Persone famose ovunque!
 [quest_title_1030220655000000] Un giorno con Pico
 [quest_title_1030220156000000] Un giorno con Marisio
 [quest_title_1030220119100000] Un giorno con Iridio Costumax
+[quest_title_1040000160001011] Un giorno speciale con Anemone (1ª parte)
+[quest_title_1040000160001021] Un giorno speciale con Anemone (2ª parte)
+[quest_title_1030110000600600] Palesate i vostri legami
+[quest_title_1030460200115010] Super Lotta Multipla (una al giorno)!
+[quest_title_1030602000601000] L'occhio esperto di Alisma
+[quest_title_1030602000601010] Talento coltivato con costanza
+[quest_title_1030602000601050] VS Lance
+[quest_title_1030602000601020] Sconfiggerò il Domadraghi!
+[quest_title_1030602000601060] VS Lance 2
+[quest_title_1030602000601030] La forza di Tyranitar
+[quest_title_1030602000601070] VS Lance 3
+[quest_title_1030602000601040] Un sogno senza fine
+[quest_title_1030602000601080] VS Lance 4
+[quest_title_1030602000601090] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030602000601100] Sfida ad alta difficoltà
+[quest_title_1030602000601110] Sfida ad alta difficoltà 2
+[quest_title_1030220295000000] Un giorno con Alisma
+[quest_title_1030220133900000] Un giorno con Argento (Campione)
+[quest_title_1030602000602000] Sfida un avversario potente: Penny
+[quest_title_1030602000602010] Sfida un avversario potente: Penny 2
+[quest_title_1030602000602020] Sfida un avversario potente: Armonio
+[quest_title_1030602000602030] Sfida un avversario potente: Armonio 2
+[quest_title_1030602000605000] Ti stavo aspettando...
+[quest_title_1030602000605010] Sfida il Campione: Argento
+[quest_title_1030460200501010] VS Sabrina
+[quest_title_1030460200502010] VS Luciano
+[quest_title_1030460200503010] VS Catlina
+[quest_title_1030460200504010] VS Pino
+[quest_title_1030460200505010] VS Pat
+[quest_title_1030451002301010] VS Palmer (risoluto)
+[quest_title_1030602000603000] Un raduno di appassionati del ballo
+[quest_title_1030602000603010] Il modo per entrare in sintonia con i Pokémon
+[quest_title_1030602000603050] VS Allenatori di Pasio
+[quest_title_1030602000603020] Tutti quanti voglion far la danse!
+[quest_title_1030602000603060] VS Allenatori di Pasio 2
+[quest_title_1030602000603030] Esprimersi senza parole
+[quest_title_1030602000603070] VS Allenatori di Pasio 3
+[quest_title_1030602000603040] Il luogo è giunto a te
+[quest_title_1030602000603080] VS Allenatori di Pasio 4
+[quest_title_1030602000603090] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030602000603100] Sfida ad alta difficoltà
+[quest_title_1030602000603110] Sfida ad alta difficoltà 2
+[quest_title_1030220180000000] Un giorno con Tierno
+[quest_title_1030220202000000] Un giorno con Dalia
+[quest_title_1030602000604000] Il cruccio di Alisma
+[quest_title_1030602000604020] VS Allenatori di Pasio
+[quest_title_1030602000604030] VS Allenatori di Pasio 2
+[quest_title_1030602000604040] VS Allenatori di Pasio 3
+[quest_title_1030602000604050] VS Allenatori di Pasio 4
+[quest_title_1030602000604060] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030602000604010] Il vero volto di Meridia
+[quest_group_title_10295000000] Alisma
+[quest_group_title_10133900000] Argento (Campione)
+[quest_group_title_10284400000] Damon (Speciale)
+[quest_group_title_10285400000] Perula (Speciale)
+[quest_group_title_10180000000] Tierno
+[quest_group_title_10202000000] Dalia
+[quest_title_1030460200400010] Gli adorati Pokémon Coleottero di Raffaello!
+[quest_title_1030460200601010] Allenamento talenti
 
 ===========
 story_quest_name_ja.lsd
@@ -23822,6 +24154,7 @@ story_quest_name_ja.lsd
 [quest_group_title_610057] ゲンカイ突破エリア
 [quest_group_title_610059] バディドロップエリア
 [quest_group_title_610058] 進化石エリア
+[quest_group_title_610063] ポテンシャルエリア
 [quest_title_1030420700301012] アタッカーの鍛錬１
 [quest_title_1030420700302012] テクニカルの鍛錬１
 [quest_title_1030420700303012] サポートの鍛錬１
@@ -26482,6 +26815,68 @@ story_quest_name_ja.lsd
 [quest_title_1030220655000000] とある日のチュウスケ
 [quest_title_1030220156000000] とある日のゲン
 [quest_title_1030220119100000] とある日のマジコスグラジオ
+[quest_title_1040000160001011] フウロとの特別な一日　前編
+[quest_title_1040000160001021] フウロとの特別な一日　後編
+[quest_title_1030110000600600] 「きずなを　みせよ」
+[quest_title_1030460200115010] 超デイリーマルチバトル！
+[quest_title_1030602000601000] トップチャンピオンの審美眼
+[quest_title_1030602000601010] 「研鑽する才能」
+[quest_title_1030602000601050] ＶＳ　ワタル
+[quest_title_1030602000601020] 狙いはマントのドラゴン使い
+[quest_title_1030602000601060] ＶＳ　ワタル２
+[quest_title_1030602000601030] バンギラスの力
+[quest_title_1030602000601070] ＶＳ　ワタル３
+[quest_title_1030602000601040] 果てのない「夢」
+[quest_title_1030602000601080] ＶＳ　ワタル４
+[quest_title_1030602000601090] １日１回限定・高難度バトル！
+[quest_title_1030602000601100] チャレンジバトルで勝負！
+[quest_title_1030602000601110] チャレンジバトルで勝負！２
+[quest_title_1030220295000000] とある日のオモダカ
+[quest_title_1030220133900000] とある日のシルバー
+[quest_title_1030602000602000] 強敵に挑戦！　ＶＳ　ボタン
+[quest_title_1030602000602010] 強敵に挑戦！　ＶＳ　ボタン２
+[quest_title_1030602000602020] 強敵に挑戦！　ＶＳ　ヒビキ
+[quest_title_1030602000602030] 強敵に挑戦！　ＶＳ　ヒビキ２
+[quest_title_1030602000605000] 「やっと　来やがったか……」
+[quest_title_1030602000605010] 挑戦！　チャンピオン　シルバー
+[quest_title_1030460200501010] ＶＳ　ナツメ
+[quest_title_1030460200502010] ＶＳ　ゴヨウ
+[quest_title_1030460200503010] ＶＳ　カトレア
+[quest_title_1030460200504010] ＶＳ　イツキ
+[quest_title_1030460200505010] ＶＳ　ラン
+[quest_title_1030451002301010] ＶＳ　超本気のクロツグ
+[quest_title_1030602000603000] ダンス好き大集合！
+[quest_title_1030602000603010] ポケモンと心を通わせる方法
+[quest_title_1030602000603050] ＶＳ　パシオのトレーナー
+[quest_title_1030602000603020] みんなで踊ろう！
+[quest_title_1030602000603060] ＶＳ　パシオのトレーナー２
+[quest_title_1030602000603030] 言葉ではなく心と体で
+[quest_title_1030602000603070] ＶＳ　パシオのトレーナー３
+[quest_title_1030602000603040] 場が迎えにきたよ
+[quest_title_1030602000603080] ＶＳ　パシオのトレーナー４
+[quest_title_1030602000603090] １日１回限定・高難度バトル！
+[quest_title_1030602000603100] チャレンジバトルで勝負！
+[quest_title_1030602000603110] チャレンジバトルで勝負！２
+[quest_title_1030220180000000] とある日のティエルノ
+[quest_title_1030220202000000] とある日のダリア
+[quest_title_1030602000604000] オモダカの懸念
+[quest_title_1030602000604020] ＶＳ　パシオのトレーナー
+[quest_title_1030602000604030] ＶＳ　パシオのトレーナー２
+[quest_title_1030602000604040] ＶＳ　パシオのトレーナー３
+[quest_title_1030602000604050] ＶＳ　パシオのトレーナー４
+[quest_title_1030602000604060] １日１回限定・高難度バトル！
+[quest_title_1030602000604010] ラジュルネの素顔
+[quest_group_title_10295000000] オモダカ
+[quest_group_title_10133900000] シルバー
+（チャンピオン）
+[quest_group_title_10284400000] セキ
+（スペシャル）
+[quest_group_title_10285400000] カイ
+（スペシャル）
+[quest_group_title_10180000000] ティエルノ
+[quest_group_title_10202000000] ダリア
+[quest_title_1030460200400010] ツクシの自慢なむしポケ！
+[quest_title_1030460200601010] ポテンシャルの鍛錬
 
 ===========
 story_quest_name_ko.lsd
@@ -27552,6 +27947,7 @@ story_quest_name_ko.lsd
 [quest_group_title_610057] 한계돌파 에리어
 [quest_group_title_610059] 버디드롭 에리어
 [quest_group_title_610058] 진화석 에리어
+[quest_group_title_610063] 포텐셜 에리어
 [quest_title_1030420700301012] 어태커의 단련1
 [quest_title_1030420700302012] 테크니컬의 단련1
 [quest_title_1030420700303012] 서포트의 단련1
@@ -30212,6 +30608,68 @@ story_quest_name_ko.lsd
 [quest_title_1030220655000000] 추이의 어느 날
 [quest_title_1030220156000000] 현이의 어느 날
 [quest_title_1030220119100000] 궁극코스 글라디오의 어느 날
+[quest_title_1040000160001011] 풍란과의 특별한 하루 전편
+[quest_title_1040000160001021] 풍란과의 특별한 하루 후편
+[quest_title_1030110000600600] "유대를 보여라"
+[quest_title_1030460200115010] 슈퍼 일일 멀티배틀!
+[quest_title_1030602000601000] 치프 챔피언의 심미안
+[quest_title_1030602000601010] "연마하는 재능"
+[quest_title_1030602000601050] VS 목호
+[quest_title_1030602000601020] 목표는 망토를 두른 드래곤 조련사
+[quest_title_1030602000601060] VS 목호2
+[quest_title_1030602000601030] 마기라스의 힘
+[quest_title_1030602000601070] VS 목호3
+[quest_title_1030602000601040] 끝나지 않는 "꿈"
+[quest_title_1030602000601080] VS 목호4
+[quest_title_1030602000601090] 1일 1회 한정 고난도 배틀!
+[quest_title_1030602000601100] 챌린지배틀로 승부!
+[quest_title_1030602000601110] 챌린지배틀로 승부!2
+[quest_title_1030220295000000] 테사의 어느 날
+[quest_title_1030220133900000] 실버의 어느 날
+[quest_title_1030602000602000] 강적에게 도전! VS 모란
+[quest_title_1030602000602010] 강적에게 도전! VS 모란2
+[quest_title_1030602000602020] 강적에게 도전! VS 심향
+[quest_title_1030602000602030] 강적에게 도전! VS 심향2
+[quest_title_1030602000605000] "드디어 왔군..."
+[quest_title_1030602000605010] 도전! 챔피언 실버
+[quest_title_1030460200501010] VS 초련
+[quest_title_1030460200502010] VS 오엽
+[quest_title_1030460200503010] VS 카틀레야
+[quest_title_1030460200504010] VS 일목
+[quest_title_1030460200505010] VS 란
+[quest_title_1030451002301010] VS 진심으로 전력을 다하는 종수
+[quest_title_1030602000603000] 댄스를 좋아하는 모임!
+[quest_title_1030602000603010] 포켓몬과 마음을 하나로 만드는 방법
+[quest_title_1030602000603050] VS 파시오의 트레이너
+[quest_title_1030602000603020] 다 함께 춤추자!
+[quest_title_1030602000603060] VS 파시오의 트레이너2
+[quest_title_1030602000603030] 말이 아닌 몸과 마음으로
+[quest_title_1030602000603070] VS 파시오의 트레이너3
+[quest_title_1030602000603040] 이곳은 이제 너의 장소가 될 거야
+[quest_title_1030602000603080] VS 파시오의 트레이너4
+[quest_title_1030602000603090] 1일 1회 한정 고난도 배틀!
+[quest_title_1030602000603100] 챌린지배틀로 승부!
+[quest_title_1030602000603110] 챌린지배틀로 승부!2
+[quest_title_1030220180000000] 티에르노의 어느 날
+[quest_title_1030220202000000] 달리아의 어느 날
+[quest_title_1030602000604000] 테사의 염려
+[quest_title_1030602000604020] VS 파시오의 트레이너
+[quest_title_1030602000604030] VS 파시오의 트레이너2
+[quest_title_1030602000604040] VS 파시오의 트레이너3
+[quest_title_1030602000604050] VS 파시오의 트레이너4
+[quest_title_1030602000604060] 1일 1회 한정 고난도 배틀!
+[quest_title_1030602000604010] 라쥬르네의 맨얼굴
+[quest_group_title_10295000000] 테사
+[quest_group_title_10133900000] 실버
+(챔피언)
+[quest_group_title_10284400000] 찬석
+(스페셜)
+[quest_group_title_10285400000] 주혜
+(스페셜)
+[quest_group_title_10180000000] 티에르노
+[quest_group_title_10202000000] 달리아
+[quest_title_1030460200400010] 호일이 자랑하는 벌레포켓몬!
+[quest_title_1030460200601010] 포텐셜의 단련
 
 ===========
 story_quest_name_zh-TW.lsd
@@ -31282,6 +31740,7 @@ story_quest_name_zh-TW.lsd
 [quest_group_title_610057] 突破界限區域
 [quest_group_title_610059] 拍檔滴晶區域
 [quest_group_title_610058] 進化石區域
+[quest_group_title_610063] 潛能區域
 [quest_title_1030420700301012] 攻擊型鍛鍊１
 [quest_title_1030420700302012] 技術型鍛鍊１
 [quest_title_1030420700303012] 輔助型鍛鍊１
@@ -33942,6 +34401,68 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030220655000000] 某日的丘助
 [quest_title_1030220156000000] 某日的亞玄
 [quest_title_1030220119100000] 某日的美極套裝格拉吉歐
+[quest_title_1040000160001011] 與風露的特別日子　前篇
+[quest_title_1040000160001021] 與風露的特別日子　後篇
+[quest_title_1030110000600600] 「讓我看看牽絆吧。」
+[quest_title_1030460200115010] 超級每日多隊模式！
+[quest_title_1030602000601000] 首席冠軍的審美眼光
+[quest_title_1030602000601010] 「鑽研至極的才華」
+[quest_title_1030602000601050] ＶＳ　阿渡
+[quest_title_1030602000601020] 目標是披著披風的龍之使者
+[quest_title_1030602000601060] ＶＳ　阿渡２
+[quest_title_1030602000601030] 班基拉斯的力量
+[quest_title_1030602000601070] ＶＳ　阿渡３
+[quest_title_1030602000601040] 沒有盡頭的「夢想」
+[quest_title_1030602000601080] ＶＳ　阿渡４
+[quest_title_1030602000601090] １天僅限１次的高難度對戰！
+[quest_title_1030602000601100] 用挑戰對戰決勝負！
+[quest_title_1030602000601110] 用挑戰對戰決勝負！２
+[quest_title_1030220295000000] 某日的也慈
+[quest_title_1030220133900000] 某日的小銀
+[quest_title_1030602000602000] 挑戰強敵！　ＶＳ　牡丹
+[quest_title_1030602000602010] 挑戰強敵！　ＶＳ　牡丹２
+[quest_title_1030602000602020] 挑戰強敵！　ＶＳ　阿響
+[quest_title_1030602000602030] 挑戰強敵！　ＶＳ　阿響２
+[quest_title_1030602000605000] 「終於來了啊……」
+[quest_title_1030602000605010] 挑戰！　冠軍小銀
+[quest_title_1030460200501010] ＶＳ　娜姿
+[quest_title_1030460200502010] ＶＳ　悟松
+[quest_title_1030460200503010] ＶＳ　嘉德麗雅
+[quest_title_1030460200504010] ＶＳ　一樹
+[quest_title_1030460200505010] ＶＳ　小南
+[quest_title_1030451002301010] ＶＳ　火力全開的桄榔
+[quest_title_1030602000603000] 舞蹈愛好者大集合！
+[quest_title_1030602000603010] 與寶可夢心靈相通的方法
+[quest_title_1030602000603050] ＶＳ　帕希歐的訓練家
+[quest_title_1030602000603020] 大家一起跳舞吧！
+[quest_title_1030602000603060] ＶＳ　帕希歐的訓練家２
+[quest_title_1030602000603030] 透過身心而非語言
+[quest_title_1030602000603070] ＶＳ　帕希歐的訓練家３
+[quest_title_1030602000603040] 舞台來迎接我們了呢
+[quest_title_1030602000603080] ＶＳ　帕希歐的訓練家４
+[quest_title_1030602000603090] １天僅限１次的高難度對戰！
+[quest_title_1030602000603100] 用挑戰對戰決勝負！
+[quest_title_1030602000603110] 用挑戰對戰決勝負！２
+[quest_title_1030220180000000] 某日的提耶魯諾
+[quest_title_1030220202000000] 某日的大麗
+[quest_title_1030602000604000] 也慈的擔憂
+[quest_title_1030602000604020] ＶＳ　帕希歐的訓練家
+[quest_title_1030602000604030] ＶＳ　帕希歐的訓練家２
+[quest_title_1030602000604040] ＶＳ　帕希歐的訓練家３
+[quest_title_1030602000604050] ＶＳ　帕希歐的訓練家４
+[quest_title_1030602000604060] １天僅限１次的高難度對戰！
+[quest_title_1030602000604010] 晝珠的真實面貌
+[quest_group_title_10295000000] 也慈
+[quest_group_title_10133900000] 小銀
+（冠軍）
+[quest_group_title_10284400000] 剛石
+（表演服）
+[quest_group_title_10285400000] 珠貝
+（表演服）
+[quest_group_title_10180000000] 提耶魯諾
+[quest_group_title_10202000000] 大麗
+[quest_title_1030460200400010] 阿筆引以為傲的蟲寶可夢！
+[quest_title_1030460200601010] 潛能鍛鍊
 
 ===========
 trainer_description_de.lsd
@@ -35233,6 +35754,31 @@ darin, ein angesehener Trainer wie sein Vater zu werden.
 [10128000001] Dieser Junge liebt Pokémon und Pokémon-Kämpfe. Er hat
 sich richtig ins Zeug gelegt und alles gegeben, um ein
 starker Trainer zu werden.
+[10295000000] Diese Präsidentin der Pokémon-Liga in Paldea ist eine
+starke Trainerin, die den höchsten aller Champ-Ränge
+innehat. Sie ist bei Pokémon-Kämpfen nicht einmal zu
+den kleinsten Zugeständnissen bereit.
+[10133900000] Silber trägt ein Outfit, das seinem neu gewonnenen Titel
+als Passios Neo-Champ würdig ist. Er hat sich hohe Ziele
+gesetzt und stellt sich gemeinsam mit seinem Despotar
+den stärksten Trainern.
+[10284400000] Diam trägt ein besonderes Kostüm. Bei Mondschein tanzt
+er mit seinem Ursaluna, welches den Mond verehrt, die
+ganze Nacht und sie vergessen dabei den Fluss der Zeit.
+[10285400000] Perla trägt ein besonderes Kostüm. Während sie darauf
+wartet, dass Zoroark seinen Platz findet, spielt sie seine
+Lieblingstöne auf der Flöte.
+[10202000000] Dieser Arkaden-Star empfängt mit ihrer fröhlichen Art
+Herausforderer in den Kampfarkaden Sinnohs. Sie tanzt
+stets mit einem Lächeln auf den Lippen und verzaubert
+damit die Massen.
+[10180000000] Dieser Trainer ist durch Kalos gereist und liebt es zu
+tanzen. Sein Traum ist es, das ideale Pokémon-Tanzteam
+zusammenzustellen. Die Bewegungen von Pokémon ziehen
+ihn selbst im Kampf in den Bann.
+[10016000001] Diese Arenaleiterin segelt mit ihren Pokémon und als
+Pilotin eines Frachtflugzeugs gern durch die Lüfte.
+Ihr heiteres Gemüt beschert ihr viele Fans.
 
 ===========
 trainer_description_en.lsd
@@ -36378,6 +36924,29 @@ aims to become a great Trainer like his father.
 [10128000001] Known as a boy who loves Pokémon, adventures, and
 battling, he has put everything into growing stronger as
 a Pokémon Trainer.
+[10295000000] The chairwoman of the Paldea Pokémon League is a
+powerful Trainer who holds the top spot within the
+Champion Rank. She is incapable of holding back in
+Pokémon battles, which is a bad habit on her part.
+[10133900000] Silver is dressed in an outfit honoring his earned title: Neo
+Champion of Pasio. He strives for the top and aggressively
+takes on the mightiest Trainers with his Tyranitar.
+[10284400000] Adaman is wearing a special outfit. While looking up at
+the moon his Ursaluna loves, the two of them dance the
+night away and forget the passage of time.
+[10285400000] Irida is wearing a special outfit. While playing Zoroark’s
+favorite melody on the flute, the two of them wait for
+their moment to rise.
+[10202000000] This Arcade Star with a cheerful personality waits for
+challengers at the Battle Arcade in Sinnoh. She always
+dances with a smile on her face, charming many people.
+[10180000000] This Trainer who has traveled around Kalos loves to
+dance, and his dream is to create a Pokémon dance team.
+He gets mesmerized by the movements of Pokémon, even
+during battle.
+[10016000001] Normally a cargo plane pilot, this Gym Leader flies
+through the sky with her Pokémon. Her cheery personality
+has earned her many fans.
 
 ===========
 trainer_description_es.lsd
@@ -37717,6 +38286,30 @@ su admirado padre como Entrenador.
 [10128000001] Joven que muestra gran entusiasmo por los Pokémon y
 los combates que se libran con ellos. Se ha empleado
 a fondo para convertirse en un Entrenador de primera.
+[10295000000] La presidenta de la Liga Pokémon de Paldea es una
+Entrenadora hábil y competente con el rango de
+Campeona. Tiene un terrible defecto y es que es incapaz
+de hacer cualquier tipo de concesión en los combates.
+[10133900000] Plata se viste con un traje digno de su recién adquirido
+título de Neocampeón de Passio. Apunta a lo más alto y
+hace frente con agresividad a los Entrenadores más
+fuertes junto con Tyranitar.
+[10284400000] Adamas lleva un traje especial, ideal para bailar durante
+toda la noche bajo la luna que tanto admira Ursaluna sin
+prestar atención al paso del tiempo.
+[10285400000] Nákara lleva un traje especial y espera a que Zoroark
+encuentre su lugar a la vez que toca sus melodías
+favoritas con la flauta.
+[10202000000] El vivaracho Astro Ruleta espera a sus oponentes en la
+Ruleta Batalla de Sinnoh. Se gana la simpatía de mucha
+gente con sus bailes y su sonrisa indeleble.
+[10180000000] Este Entrenador, que se ha recorrido todo Kalos, adora
+bailar y su sueño es crear un grupo de baile de Pokémon.
+Es incapaz de quitarles el ojo de encima a los Pokémon
+durante los combates porque le encanta cómo se mueven.
+[10016000001] Líder de Gimnasio y piloto que surca los cielos junto
+a sus Pokémon. Su carisma y entusiasmo le han
+granjeado multitud de seguidores.
 
 ===========
 trainer_description_fr.lsd
@@ -39013,6 +39606,34 @@ que son père.
 [10128000001] Timmy est un jeune homme passionné par les Pokémon et
 les combats. Il s'est entraîné de toutes ses forces afin de
 devenir un meilleur Dresseur Pokémon.
+[10295000000] La présidente de la Ligue Pokémon de Paldea
+est une puissante Dresseuse qui se distingue même
+parmi les détenteurs et détentrices du rang Maître.
+Elle a pour défaut d'être incapable de contenir
+sa propre force lors des combats Pokémon.
+[10133900000] Silver est vêtu d'une tenue en l'honneur de son titre
+bien mérité de Néo-Maître de Passio. Il vise le sommet
+et affronte sans hésitation les Dresseurs les plus puissants
+aux côtés de son Tyranocif.
+[10284400000] Adamantin revient vêtu d'une tenue spéciale. Il observe
+la lune que son Ursaking aime tant en sa compagnie.
+Puis, ensemble, ils dansent toute la nuit au point
+d'en oublier le temps qui passe.
+[10285400000] Nacchara revient vêtue d'une tenue spéciale.
+Elle joue la mélodie favorite de Zoroark à la flûte.
+Ensemble, ils attendent patiemment leur
+moment pour briller.
+[10202000000] Cette Diva Arcade à la personnalité enjouée attend
+ses adversaires à l'Arcade de Combat de Sinnoh.
+Elle a toujours le sourire aux lèvres quand elle danse,
+la rendant ainsi populaire auprès de beaucoup.
+[10180000000] Ce Dresseur passionné par la danse a voyagé à travers
+tout Kalos. Son rêve est de monter un groupe de danse
+Pokémon. Il est fasciné par les mouvements des Pokémon,
+même durant les combats.
+[10016000001] Une Championne qui pilote son avion-cargo
+accompagnée de Pokémon oiseaux.
+Son énergie lui vaut de nombreux fans.
 
 ===========
 trainer_description_it.lsd
@@ -40269,6 +40890,31 @@ un grande Allenatore come suo padre.
 [10128000001] Un ragazzo che ama i Pokémon e le lotte. Si è dato molto
 da fare per crescere, cercando di diventare più forte
 come Allenatore.
+[10295000000] Presidentessa della Lega Pokémon di Paldea, è la più forte
+Allenatrice di Rango Campione della regione. La totale
+incapacità di scendere a compromessi durante le lotte
+Pokémon è una sua brutta abitudine.
+[10133900000] Argento indossa un abito che celebra il suo meritato
+titolo: Nuovo Campione di Pasio. Punta al massimo
+e sfida senza tregua gli Allenatori più forti insieme
+al suo Tyranitar.
+[10284400000] Damon indossa un costume speciale. Mentre ammira
+la luna che piace tanto al suo Ursaluna, perde di vista
+lo scorrere del tempo e insieme a lui balla tutta la notte
+fino all'alba.
+[10285400000] Perula indossa un costume speciale. Allieta Zoroark
+col suono del suo flauto mentre attende che il luogo
+giunga a lui.
+[10202000000] La Diva Arena dal carattere allegro è pronta ad affrontare
+ogni sfidante all'Arena Lotta di Sinnoh. Ha conquistato
+molti fan ballando sempre con un gran sorriso.
+[10180000000] Allenatore che ha viaggiato per Kalos, ama ballare
+e sogna di trovare dei Pokémon in grado di danzare
+per formare una squadra di ballo. Si fa incantare dalle
+movenze dei Pokémon perfino durante le lotte.
+[10016000001] Capopalestra che vola con i suoi Pokémon a bordo
+di un aereo cargo. Si è guadagnata molti fan grazie
+al suo temperamento allegro e vivace.
 
 ===========
 trainer_description_ja.lsd
@@ -41404,6 +42050,27 @@ trainer_description_ja.lsd
 [10128000001] ポケモンと　ポケモン勝負が　大好きな　少年。
 強い　トレーナーに　なるため
 一生懸命に　努力を重ね　成長してきた。
+[10295000000] パルデア地方　ポケモンリーグの　委員長であり
+チャンピオンランクで　もっとも実力のある　強者。
+ポケモン勝負で　妥協できないのが　悪いクセ。
+[10133900000] パシオの　ネオ・チャンピオンとして　認められ
+名誉ある衣装に　身を包んだ　シルバー。
+頂点を目指し　バンギラスと共に　強者へ牙をむく。
+[10284400000] スペシャルな　衣装を　身にまとった　セキ。
+ガチグマが　好きな　月を　みあげながら
+時を忘れて　共に　夜を　踊り明かす。
+[10285400000] スペシャルな　衣装を　身にまとった　カイ。
+ゾロアークが　好きな　笛の音を　奏でながら
+場が　迎えにくるのを　待つ。
+[10202000000] シンオウ地方の　バトルルーレットで　挑戦者を　待つ
+陽気な性格の　ルーレットゴッデス。
+いつでも笑顔で　踊る姿に　魅了された者は　多い。
+[10180000000] ダンス好きで　カロス地方を　旅した　トレーナー。
+「ポケモンのダンスチームを作ること」が　夢で
+勝負中でも　ポケモンの動きに　みとれてしまう。
+[10016000001] 普段から　貨物機の　パイロットを　しており
+ポケモンと　一緒に　空を　ぶっ飛ぶ　ジムリーダー。
+はじけるような　明るさから　ファンも　多い。
 
 ===========
 trainer_description_ko.lsd
@@ -42538,6 +43205,27 @@ WPM 운영위원회의 대표도 맡고 있다.
 [10128000001] 포켓몬과 포켓몬 승부를 정말 좋아하는 소년.
 강한 트레이너를 목표로
 열심히 노력하여 성장해왔다.
+[10295000000] 팔데아지방 포켓몬리그의 위원장이며
+챔피언 랭크 중 가장 실력이 뛰어난 강자.
+포켓몬 승부에 있어서 일절 봐주지 않는 결점도 있다.
+[10133900000] 파시오의 네오 챔피언으로 인정받아
+명예로운 의상을 입은 실버.
+마기라스와 함께 정점을 목표로 강자에게 도전한다.
+[10284400000] 스페셜 의상을 입은 찬석.
+다투곰이 좋아하는 달을 올려다보며
+시간 가는 줄 모르고 밤새도록 춤을 춘다.
+[10285400000] 스페셜 의상을 입은 주혜.
+조로아크가 좋아하는 피리 소리를 연주하며
+자신을 빛낼 무대를 기다린다.
+[10202000000] 신오지방의 배틀룰렛에서 도전자를 기다리는
+쾌활한 성격의 룰렛여신.
+늘 웃으며 춤추는 모습에 매료된 사람들이 많다.
+[10180000000] 댄스를 좋아하고 칼로스지방을 여행한 트레이너.
+"포켓몬 댄스팀을 짜는 것"이 꿈이어서
+승부 도중에도 포켓몬의 움직임에 시선을 빼앗기곤 한다.
+[10016000001] 평소에는 화물기 파일럿을 하고 있어
+포켓몬과 함께 힘차게 하늘을 나는 체육관 관장.
+톡톡 튀는 명랑한 모습에 팬도 많다.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -43672,6 +44360,27 @@ trainer_description_zh-TW.lsd
 [10128000001] 不僅熱愛寶可夢，也熱愛寶可夢對戰的少年。
 為了成為強大的訓練家，
 他一直拼命努力，讓自己不停地成長。
+[10295000000] 帕底亞地區寶可夢聯盟的會長，
+同時也是冠軍級中最有實力的強者。
+壞習慣是對寶可夢對戰無法妥協。
+[10133900000] 受認定成為帕希歐新・冠軍，
+穿上了代表榮譽的服裝的小銀。
+為了站上頂點，會與班基拉斯一起對強者顯露敵意。
+[10284400000] 身穿特別服裝的剛石。
+會和月月熊一邊眺望牠喜歡的月亮，
+一邊忘卻時間共舞到天明。
+[10285400000] 身穿特別服裝的珠貝。
+會一邊吹奏索羅亞克喜歡的笛聲，
+一邊等待舞台來迎接。
+[10202000000] 在神奧地區的對戰輪盤等待挑戰者的
+輪盤女神，是位個性開朗的訓練家。
+無論何時都笑著跳舞的樣子，讓許多人都為她傾倒。
+[10180000000] 熱愛舞蹈並曾在卡洛斯地區冒險的訓練家。
+夢想是「成立寶可夢的舞蹈隊」，就算是在
+對戰中，也會看寶可夢的動作看得出神。
+[10016000001] 平時擔任貨機駕駛員，和寶可夢一起翱翔
+於天際的道館館主。自由奔放的開朗個性，
+吸引了許多人成為了她的粉絲。
 
 ===========
 trainer_name_de.lsd
@@ -43856,6 +44565,7 @@ trainer_name_de.lsd
 [ch0195] G-Cis
 [ch0196] Flordelis
 [ch0198] Lotte
+[ch0202] Dahlia
 [ch0203] Argenta
 [ch0204] Nuit
 [ch0205] Soir
@@ -43942,6 +44652,7 @@ trainer_name_de.lsd
 [ch0279] Chase
 [ch0657] Hans-Pika
 [ch0655] Poké-Kind
+[ch0295] Sagaria
 
 ===========
 trainer_name_en.lsd
@@ -44126,6 +44837,7 @@ trainer_name_en.lsd
 [ch0195] Ghetsis
 [ch0196] Lysandre
 [ch0198] Lucy
+[ch0202] Dahlia
 [ch0203] Argenta
 [ch0204] Nita
 [ch0205] Evelyn
@@ -44212,6 +44924,7 @@ trainer_name_en.lsd
 [ch0279] Chase
 [ch0657] Petey
 [ch0655] Poké Kid
+[ch0295] Geeta
 
 ===========
 trainer_name_es.lsd
@@ -44396,6 +45109,7 @@ trainer_name_es.lsd
 [ch0195] Ghechis
 [ch0196] Lysson
 [ch0198] Fortunia
+[ch0202] Delila
 [ch0203] Argenta
 [ch0204] Nocta
 [ch0205] Vésper
@@ -44482,6 +45196,7 @@ trainer_name_es.lsd
 [ch0279] Chase
 [ch0657] Chus
 [ch0655] Pokéchico
+[ch0295] Ságita
 
 ===========
 trainer_name_fr.lsd
@@ -44666,6 +45381,7 @@ trainer_name_fr.lsd
 [ch0195] Ghetis
 [ch0196] Lysandre
 [ch0198] Charline
+[ch0202] Dahlia
 [ch0203] Célosia
 [ch0204] Nix
 [ch0205] Vesper
@@ -44752,6 +45468,7 @@ trainer_name_fr.lsd
 [ch0279] Chase
 [ch0657] Jean-Chu
 [ch0655] Poké Enfant
+[ch0295] Alisma
 
 ===========
 trainer_name_it.lsd
@@ -44936,6 +45653,7 @@ trainer_name_it.lsd
 [ch0195] Ghecis
 [ch0196] Elisio
 [ch0198] Fortunata
+[ch0202] Dalia
 [ch0203] Mara
 [ch0204] Notturna
 [ch0205] Vespera
@@ -45022,6 +45740,7 @@ trainer_name_it.lsd
 [ch0279] Chase
 [ch0657] Pico
 [ch0655] Poké Bimbo
+[ch0295] Alisma
 
 ===========
 trainer_name_ja.lsd
@@ -45206,6 +45925,7 @@ trainer_name_ja.lsd
 [ch0195] ゲーチス
 [ch0196] フラダリ
 [ch0198] アザミ
+[ch0202] ダリア
 [ch0203] ケイト
 [ch0204] ラニュイ
 [ch0205] ルスワール
@@ -45292,6 +46012,7 @@ trainer_name_ja.lsd
 [ch0279] カケル
 [ch0657] チュウスケ
 [ch0655] ポケモンごっこ
+[ch0295] オモダカ
 
 ===========
 trainer_name_ko.lsd
@@ -45476,6 +46197,7 @@ trainer_name_ko.lsd
 [ch0195] 게치스
 [ch0196] 플라드리
 [ch0198] 다슬
+[ch0202] 달리아
 [ch0203] 맨드라
 [ch0204] 라뉴이
 [ch0205] 르수아르
@@ -45562,6 +46284,7 @@ trainer_name_ko.lsd
 [ch0279] 태주
 [ch0657] 추이
 [ch0655] 포켓몬놀이
+[ch0295] 테사
 
 ===========
 trainer_name_zh-TW.lsd
@@ -45746,6 +46469,7 @@ trainer_name_zh-TW.lsd
 [ch0195] 魁奇思
 [ch0196] 弗拉達利
 [ch0198] 小薊
+[ch0202] 大麗
 [ch0203] 青葙
 [ch0204] 夜妮
 [ch0205] 夕絲
@@ -45832,6 +46556,7 @@ trainer_name_zh-TW.lsd
 [ch0279] 小驅
 [ch0657] 丘助
 [ch0655] 寶可夢小朋友
+[ch0295] 也慈
 
 ===========
 trainer_verbose_name_de.lsd
@@ -46055,6 +46780,12 @@ trainer_verbose_name_de.lsd
 (Kimono-Trägerin)
 [10657000000] Hans-Pika 
 (Poké-Kind)
+[10133900000] Silber 
+(Neo-Champ)
+[10284400000] Diam 
+(Kostüm)
+[10285400000] Perla 
+(Kostüm)
 
 ===========
 trainer_verbose_name_en.lsd
@@ -46289,6 +47020,12 @@ Gladion
 (Furisode Girl)
 [10657000000] Petey 
 (Poké Kid)
+[10133900000] Silver 
+(Champion)
+[10284400000] Adaman 
+(Special Costume)
+[10285400000] Irida 
+(Special Costume)
 
 ===========
 trainer_verbose_name_es.lsd
@@ -46490,6 +47227,10 @@ con Kimono)
 [10658000000] Chloë (Jovencita 
 con Kimono)
 [10657000000] Chus (Pokéchico)
+[10133900000] Plata 
+(Neocampeón)
+[10284400000] Adamas (Especial)
+[10285400000] Nákara (Especial)
 
 ===========
 trainer_verbose_name_fr.lsd
@@ -46708,6 +47449,12 @@ trainer_verbose_name_fr.lsd
 (Fille en Kimono)
 [10657000000] Jean-Chu 
 (Poké Enfant)
+[10133900000] Silver 
+(Néo-Maître)
+[10284400000] Adamantin 
+(Spécial)
+[10285400000] Nacchara 
+(Spécial)
 
 ===========
 trainer_verbose_name_it.lsd
@@ -46932,6 +47679,12 @@ trainer_verbose_name_it.lsd
 (Ragazza in kimono)
 [10657000000] Pico 
 (Poké Bimbo)
+[10133900000] Argento 
+(Campione)
+[10284400000] Damon 
+(speciale)
+[10285400000] Perula 
+(speciale)
 
 ===========
 trainer_verbose_name_ja.lsd
@@ -47156,6 +47909,12 @@ trainer_verbose_name_ja.lsd
 （ふりそで）
 [10657000000] チュウスケ
 （ポケモンごっこ）
+[10133900000] シルバー
+（チャンピオン）
+[10284400000] セキ
+（スペシャル）
+[10285400000] カイ
+（スペシャル）
 
 ===========
 trainer_verbose_name_ko.lsd
@@ -47380,6 +48139,12 @@ trainer_verbose_name_ko.lsd
 (기모노드레스)
 [10657000000] 추이
 (포켓몬놀이)
+[10133900000] 실버
+(챔피언)
+[10284400000] 찬석
+(스페셜)
+[10285400000] 주혜
+(스페셜)
 
 ===========
 trainer_verbose_name_zh-TW.lsd
@@ -47604,6 +48369,12 @@ trainer_verbose_name_zh-TW.lsd
 （長袖和服少女）
 [10657000000] 丘助
 （寶可夢小朋友）
+[10133900000] 小銀
+（冠軍）
+[10284400000] 剛石
+（表演服）
+[10285400000] 珠貝
+（表演服）
 
 ===========
 common_widget_de.lsd
@@ -47646,6 +48417,7 @@ common_widget_de.lsd
 [common_widget/cell_051] ＋ [Digit:8digits ]
 [common_widget/cell_052] 
 [common_widget/cell_053] 
+[common_widget/cell_054] Im Gang
 [common_widget/cell_056] [Digit:6digits ] - [Digit:6digits Idx="1" ]
 [common_widget/button_001] OK
 [common_widget/button_002] Ja
@@ -47667,6 +48439,9 @@ common_widget_de.lsd
 [common_widget/button_018] Detailliert
 [common_widget/button_019] Einfach
 [common_widget/button_020] Was freigeschaltet wird
+[common_widget/button_021] Zurück
+[common_widget/button_022] Weiter
+[common_widget/button_023] Abbrechen
 [common_widget/loading_001] Ladevorgang...
 [common_widget/loading_002] Los!
 [common_widget/loading_003] Verbindet...
@@ -48110,10 +48885,24 @@ wurde zu einem
 [common_widget/filter_092] Statusveränderungen
 [common_widget/filter_093] Seiten-Effekte
 [common_widget/filter_094] Sonstiges
+[common_widget/filter_095] Keine Mindestanzahl
+[common_widget/filter_096] Keine Maximalanzahl
+[common_widget/filter_097] Mindestens [Digit:4digits ]
+[common_widget/filter_098] Maximal [Digit:4digits ]
 [common_widget/filter_099] Spezialaktionen
 [common_widget/filter_100] Attribute
 [common_widget/filter_101] Stimmt mit Gefährten in deinem Team überein.
 [common_widget/filter_102] Fähigkeiten freischalten
+[common_widget/filter_103] Filter
+[common_widget/filter_104] Du kannst die Trainer im Foto auswählen.
+[common_widget/filter_105] Trainer
+[common_widget/filter_106] Teamfähigkeiten
+[common_widget/filter_107] Paldea
+[common_widget/filter_108] Entwicklung
+[common_widget/filter_109] Entwicklungs-Episode
+[common_widget/filter_110] Episodenstatus
+[common_widget/filter_111] Abgeschlossen
+[common_widget/filter_112] Nicht abgeschlossen
 [common_widget/sort_001] ★-Zahl
 [common_widget/sort_002] Gefährtenattacke
 [common_widget/sort_003] KP
@@ -48138,6 +48927,10 @@ wurde zu einem
 [common_widget/sort_027] Keine Ausrüstung gefunden.
 [common_widget/sort_028] Region
 [common_widget/sort_029] Foto-Kategorie
+[common_widget/sort_030] Am beliebtesten
+[common_widget/sort_031] Ähnlicher Spielerrang
+[common_widget/sort_032] Spielerrang (absteigend)
+[common_widget/sort_033] Login-Reihenfolge
 [common_widget/cutin_001] Levelaufstieg!
 [common_widget/cutin_002] Lv.
 [common_widget/cutin_003] Potenzial erhöht!
@@ -48389,6 +49182,10 @@ abgeholt werden, selbst wenn die Bedingungen nicht erfüllt wurden.
 dem Schwierigkeitsgrad Schwer Lv. 1 ab und betritt die Ruhmeshalle!
 [common_widget/spreward_027] Erhalte Fragmente des Emblems einer beliebigen Region im
 Champkampf auf dem Schwierigkeitsgrad Schwer Lv. 1!
+[common_widget/notification_005] Du hast einen Titel erhalten!
+[common_widget/notification_006] [Name:FriendNickname ] hat dir einen Like hinterlassen!
+[common_widget/notification_007] [Name:FriendNickname ] und andere haben dir Likes
+hinterlassen!
 [common_widget/short_cut_001] Laden
 [common_widget/short_cut_002] Abenteuer
 [common_widget/short_cut_003] Gefährten
@@ -48409,6 +49206,9 @@ Champkampf auf dem Schwierigkeitsgrad Schwer Lv. 1!
 [common_widget/short_cut_018] Pokémon-Center
 [common_widget/short_cut_019] PokéLounge
 [common_widget/short_cut_020] Ausrüstung
+[common_widget/short_cut_021] Abenteuerdaten
+[common_widget/short_cut_022] Profil
+[common_widget/short_cut_023] Fotostudio
 
 ===========
 common_widget_en.lsd
@@ -48450,6 +49250,7 @@ common_widget_en.lsd
 [common_widget/cell_051] ＋ [Digit:8digits ]
 [common_widget/cell_052] 
 [common_widget/cell_053] 
+[common_widget/cell_054] Setting Up
 [common_widget/cell_056] [Digit:6digits ] - [Digit:6digits Idx="1" ]
 [common_widget/button_001] OK
 [common_widget/button_002] Yes
@@ -48471,6 +49272,9 @@ common_widget_en.lsd
 [common_widget/button_018] Detailed View
 [common_widget/button_019] Simple View
 [common_widget/button_020] What This Unlocks
+[common_widget/button_021] Back
+[common_widget/button_022] Next
+[common_widget/button_023] Cancel
 [common_widget/loading_001] Loading...
 [common_widget/loading_002] GO!
 [common_widget/loading_003] Loading...
@@ -48885,10 +49689,24 @@ into [Name:PokemonName ]!
 [common_widget/filter_092] Status Change
 [common_widget/filter_093] Field Effect
 [common_widget/filter_094] Other
+[common_widget/filter_095] No Minimum Limit
+[common_widget/filter_096] No Maximum Limit
+[common_widget/filter_097] [Digit:4digits ] or More
+[common_widget/filter_098] [Digit:4digits ] or Fewer
 [common_widget/filter_099] Special Actions
 [common_widget/filter_100] Themes
 [common_widget/filter_101] Matches with sync pair(s) currently on your team.
 [common_widget/filter_102] Unlock Skills
+[common_widget/filter_103] Filter
+[common_widget/filter_104] You can specify the Trainer in the photo.
+[common_widget/filter_105] Trainers
+[common_widget/filter_106] Theme Skills
+[common_widget/filter_107] Paldea
+[common_widget/filter_108] Evolution
+[common_widget/filter_109] Evolution Sync Pair Story
+[common_widget/filter_110] Story Status
+[common_widget/filter_111] Complete
+[common_widget/filter_112] Incomplete
 [common_widget/sort_001] Number of ★s
 [common_widget/sort_002] Sync Move
 [common_widget/sort_003] HP
@@ -48913,6 +49731,10 @@ into [Name:PokemonName ]!
 [common_widget/sort_027] No gear found
 [common_widget/sort_028] Region
 [common_widget/sort_029] Category
+[common_widget/sort_030] Most Liked
+[common_widget/sort_031] Similar Player Rank
+[common_widget/sort_032] Highest to Lowest Player Rank
+[common_widget/sort_033] Log-In Order
 [common_widget/cutin_001] Level Up!
 [common_widget/cutin_002] Lv.
 [common_widget/cutin_003] Potential increased!
@@ -49127,6 +49949,10 @@ claim all special rewards 60 days after purchasing a bundle.
 and enter the Pasio Hall of Fame on Hard Lv. 1
 [common_widget/spreward_027] Fill in all pieces of the Champion Stadium MVP medal for
 any region on Hard Lv. 1
+[common_widget/notification_005] You obtained a title!
+[common_widget/notification_006] You got a like from [Name:FriendNickname ]!
+[common_widget/notification_007] You got a like from [Name:FriendNickname ] and
+others!
 [common_widget/short_cut_001] Shop
 [common_widget/short_cut_002] Explore
 [common_widget/short_cut_003] Sync Pairs
@@ -49147,6 +49973,9 @@ any region on Hard Lv. 1
 [common_widget/short_cut_018] Pokémon Center
 [common_widget/short_cut_019] Trainer Lodge
 [common_widget/short_cut_020] Gear
+[common_widget/short_cut_021] Adventure Log
+[common_widget/short_cut_022] Profile
+[common_widget/short_cut_023] Photo Creator
 
 ===========
 common_widget_es.lsd
@@ -49188,6 +50017,7 @@ common_widget_es.lsd
 [common_widget/cell_051] ＋[Digit:8digits ]
 [common_widget/cell_052] 
 [common_widget/cell_053] 
+[common_widget/cell_054] Añadido
 [common_widget/cell_056] [Digit:6digits ] - [Digit:6digits Idx="1" ]
 [common_widget/button_001] Vale
 [common_widget/button_002] Sí
@@ -49210,6 +50040,9 @@ Victoria
 [common_widget/button_018] Detallada
 [common_widget/button_019] Simple
 [common_widget/button_020] Ver habilidades posibles
+[common_widget/button_021] Anterior
+[common_widget/button_022] Siguiente
+[common_widget/button_023] Cancelar
 [common_widget/loading_001] Cargando...
 [common_widget/loading_002] ¡Vamos!
 [common_widget/loading_003] Conectando...
@@ -49655,10 +50488,24 @@ evolución?
 [common_widget/filter_092] Cambios de estado
 [common_widget/filter_093] Efectos de campo
 [common_widget/filter_094] Otros
+[common_widget/filter_095] Sin mínimo
+[common_widget/filter_096] Sin máximo
+[common_widget/filter_097] [Digit:4digits ] o más
+[common_widget/filter_098] [Digit:4digits ] o menos
 [common_widget/filter_099] Acciones especiales
 [common_widget/filter_100] Distintivo
 [common_widget/filter_101] Mismo que compis en el equipo actual
 [common_widget/filter_102] Desbloqueo de habilidades
+[common_widget/filter_103] Filtrar
+[common_widget/filter_104] Puedes especificar los Entrenadores de la foto.
+[common_widget/filter_105] Entrenadores
+[common_widget/filter_106] Habilidades de equipo
+[common_widget/filter_107] Paldea
+[common_widget/filter_108] Evolución
+[common_widget/filter_109] Episodio compi de evolución
+[common_widget/filter_110] Estado del episodio
+[common_widget/filter_111] Completado
+[common_widget/filter_112] No completado
 [common_widget/sort_001] Número de ★
 [common_widget/sort_002] Movimiento compi
 [common_widget/sort_003] PS
@@ -49683,6 +50530,10 @@ evolución?
 [common_widget/sort_027] No se han encontrado accesorios.
 [common_widget/sort_028] Región
 [common_widget/sort_029] Clase
+[common_widget/sort_030] Con más me gusta
+[common_widget/sort_031] Rango de jugador similar
+[common_widget/sort_032] Rango de jugador de más alto a más bajo
+[common_widget/sort_033] Último inicio de sesión
 [common_widget/cutin_001] ¡Sube de nivel!
 [common_widget/cutin_002] Nv.
 [common_widget/cutin_003] ¡Potencial aumentado!
@@ -49915,6 +50766,11 @@ premios especiales tras 60 días desde la compra de un lote.
 región en Difícil (nivel 1) y entra en el Hall de la Fama!
 [common_widget/spreward_027] ¡Consigue todas las piezas para completar el emblema en los
 Combates de Campeones de cualquier región en Difícil (nivel 1)!
+[common_widget/notification_005] ¡Has obtenido un título!
+[common_widget/notification_006] ¡Has recibido un me gusta de
+[Name:FriendNickname ]!
+[common_widget/notification_007] ¡Has recibido me gusta de
+[Name:FriendNickname ] y más gente!
 [common_widget/short_cut_001] Tienda
 [common_widget/short_cut_002] Aventura
 [common_widget/short_cut_003] Compis
@@ -49935,6 +50791,9 @@ Combates de Campeones de cualquier región en Difícil (nivel 1)!
 [common_widget/short_cut_018] Centro Pokémon
 [common_widget/short_cut_019] Salón de Entrenadores
 [common_widget/short_cut_020] Accesorios
+[common_widget/short_cut_021] Diario de aventuras
+[common_widget/short_cut_022] Perfil
+[common_widget/short_cut_023] Fotomatón
 
 ===========
 common_widget_fr.lsd
@@ -49976,6 +50835,7 @@ common_widget_fr.lsd
 [common_widget/cell_051] ＋ [Digit:8digits ]
 [common_widget/cell_052] 
 [common_widget/cell_053] 
+[common_widget/cell_054] En cours
 [common_widget/cell_056] [Digit:6digits ] - [Digit:6digits Idx="1" ]
 [common_widget/button_001] OK
 [common_widget/button_002] Oui
@@ -49998,6 +50858,9 @@ Victoire
 [common_widget/button_018] Détaillé
 [common_widget/button_019] Simple
 [common_widget/button_020] Éléments à débloquer
+[common_widget/button_021] Retour
+[common_widget/button_022] Suivant
+[common_widget/button_023] Annuler
 [common_widget/loading_001] Chargement...
 [common_widget/loading_002] Allez !
 [common_widget/loading_003] Connexion...
@@ -50441,10 +51304,24 @@ additionnels
 [common_widget/filter_092] Changement de statut
 [common_widget/filter_093] Effet sur le terrain
 [common_widget/filter_094] Autre
+[common_widget/filter_095] Pas de limite minimum
+[common_widget/filter_096] Pas de limite maximum
+[common_widget/filter_097] [Digit:4digits ] ou plus
+[common_widget/filter_098] [Digit:4digits ] ou moins
 [common_widget/filter_099] Actions spéciales
 [common_widget/filter_100] Mots-clés
 [common_widget/filter_101] En commun avec au moins un Duo dans votre équipe
 [common_widget/filter_102] Déblocage de talents
+[common_widget/filter_103] Filtre
+[common_widget/filter_104] Vous pouvez spécifier le Dresseur sur la photo.
+[common_widget/filter_105] Dresseurs
+[common_widget/filter_106] Talents d'équipe
+[common_widget/filter_107] Paldea
+[common_widget/filter_108] Évolution
+[common_widget/filter_109] Épisode Duo d'évolution
+[common_widget/filter_110] Statut de l'épisode
+[common_widget/filter_111] Terminé
+[common_widget/filter_112] En cours
 [common_widget/sort_001] Nombre d'★
 [common_widget/sort_002] Capacité Duo
 [common_widget/sort_003] PV
@@ -50469,6 +51346,10 @@ additionnels
 [common_widget/sort_027] Équipement introuvable
 [common_widget/sort_028] Région
 [common_widget/sort_029] Catégorie
+[common_widget/sort_030] Favoris
+[common_widget/sort_031] Rang de joueur similaire
+[common_widget/sort_032] Rang de joueur décroissant
+[common_widget/sort_033] Ordre de connexion
 [common_widget/cutin_001] Niveau ↑ !
 [common_widget/cutin_002] N.
 [common_widget/cutin_003] Potentiel augmenté !
@@ -50636,7 +51517,7 @@ dans le menu « Cadeaux ».
 [common_widget/battle_point_012] Les points de combat restants ont été conservés.
 [common_widget/battle_point_013] Réinitialiser
 [common_widget/battle_point_014] Obtenez des récompenses grâce aux PCo.
-Échangez vos Coupons PCo invite-Duo
+Échangez vos Coupons PCo Invite-Duo
 à la boutique contre des Duos exclusifs !
 [common_widget/battle_point_015] Faites équipe avec des Duos exclusifs !
 [common_widget/battle_point_016] Emplacement des
@@ -50719,6 +51600,10 @@ toutes les récompenses spéciales 60 jours après l'achat d'un pack.
 quelle région en difficulté « Difficile N. 1 » et entrez au Panthéon de Passio !
 [common_widget/spreward_027] Obtenez tous les morceaux pour compléter l'emblème du Combat
 de Maître de n'importe quelle région en difficulté « Difficile N. 1 » !
+[common_widget/notification_005] Vous avez obtenu un titre !
+[common_widget/notification_006] Vous avez reçu un like de [Name:FriendNickname ] !
+[common_widget/notification_007] Vous avez reçu un like de [Name:FriendNickname ]
+et d'autres !
 [common_widget/short_cut_001] Boutique
 [common_widget/short_cut_002] Aventure
 [common_widget/short_cut_003] Duos
@@ -50739,6 +51624,9 @@ de Maître de n'importe quelle région en difficulté « Difficile N. 1 » !
 [common_widget/short_cut_018] Aller au Centre Pokémon
 [common_widget/short_cut_019] Salon des Dresseurs
 [common_widget/short_cut_020] Équipement
+[common_widget/short_cut_021] Infos de joueur
+[common_widget/short_cut_022] Profil
+[common_widget/short_cut_023] Créateur de photo
 
 ===========
 common_widget_it.lsd
@@ -50780,6 +51668,7 @@ common_widget_it.lsd
 [common_widget/cell_051] ＋[Digit:8digits ]
 [common_widget/cell_052] 
 [common_widget/cell_053] 
+[common_widget/cell_054] In corso
 [common_widget/cell_056] [Digit:6digits ] - [Digit:6digits Idx="1" ]
 [common_widget/button_001] Ok
 [common_widget/button_002] Sì
@@ -50801,6 +51690,9 @@ common_widget_it.lsd
 [common_widget/button_018] Dettagli
 [common_widget/button_019] Info di base
 [common_widget/button_020] Cosa sblocca
+[common_widget/button_021] Indietro
+[common_widget/button_022] Avanti
+[common_widget/button_023] Annulla
 [common_widget/loading_001] Caricamento
 [common_widget/loading_002] VIA!
 [common_widget/loading_003] Connessione...
@@ -51222,10 +52114,24 @@ dell'evoluzione?
 [common_widget/filter_092] Variazione di stato
 [common_widget/filter_093] Effetto sul campo
 [common_widget/filter_094] Altro
+[common_widget/filter_095] Nessun limite minimo
+[common_widget/filter_096] Nessun limite massimo
+[common_widget/filter_097] [Digit:4digits ] o più
+[common_widget/filter_098] Meno di [Digit:4digits ]
 [common_widget/filter_099] Azioni speciali
 [common_widget/filter_100] Gruppi
 [common_widget/filter_101] Coincide con le Unità in squadra
 [common_widget/filter_102] Sblocco abilità
+[common_widget/filter_103] Filtra
+[common_widget/filter_104] Puoi scegliere gli Allenatori ritratti nella foto.
+[common_widget/filter_105] Allenatori
+[common_widget/filter_106] Squadrabilità
+[common_widget/filter_107] Paldea
+[common_widget/filter_108] Evoluzione
+[common_widget/filter_109] Episodio Unità evolutivo
+[common_widget/filter_110] Completamento episodio
+[common_widget/filter_111] Completato
+[common_widget/filter_112] Non completato
 [common_widget/sort_001] Numero di ★
 [common_widget/sort_002] Unimossa
 [common_widget/sort_003] PS
@@ -51250,6 +52156,10 @@ dell'evoluzione?
 [common_widget/sort_027] Nessun accessorio trovato.
 [common_widget/sort_028] Regione
 [common_widget/sort_029] Tipologia foto
+[common_widget/sort_030] Più apprezzati
+[common_widget/sort_031] Rango giocatore simile
+[common_widget/sort_032] Rango giocatore discendente
+[common_widget/sort_033] Ordine di accesso
 [common_widget/cutin_001] NUOVO LIVELLO!
 [common_widget/cutin_002] L. 
 [common_widget/cutin_003] AUMENTO ★!
@@ -51493,6 +52403,10 @@ tutte le ricompense speciali senza soddisfare i requisiti.
 regione ed entra nella Sala d'Onore di Pasio in difficoltà "Difficile L. 1".
 [common_widget/spreward_027] Completa l'emblema "Sala d'onore" di una qualsiasi regione
 in difficoltà "Difficile L. 1".
+[common_widget/notification_005] Hai ottenuto un titolo!
+[common_widget/notification_006] Hai ricevuto "mi piace" da [Name:FriendNickname ]!
+[common_widget/notification_007] Hai ricevuto "mi piace" da [Name:FriendNickname ]
+e altre persone!
 [common_widget/short_cut_001] Negozio
 [common_widget/short_cut_002] Avventura
 [common_widget/short_cut_003] Unità
@@ -51513,6 +52427,9 @@ in difficoltà "Difficile L. 1".
 [common_widget/short_cut_018] Vai al Centro Pokémon
 [common_widget/short_cut_019] Salotto Allenatori
 [common_widget/short_cut_020] Accessori
+[common_widget/short_cut_021] Dati di gioco
+[common_widget/short_cut_022] Profilo
+[common_widget/short_cut_023] Modalità foto
 
 ===========
 common_widget_ja.lsd
@@ -51554,6 +52471,7 @@ common_widget_ja.lsd
 [common_widget/cell_051] ＋[Digit:8digits ]
 [common_widget/cell_052] --
 [common_widget/cell_053] ???
+[common_widget/cell_054] 設定中
 [common_widget/cell_056] [Digit:6digits ] ~ [Digit:6digits Idx="1" ]
 [common_widget/button_001] OK
 [common_widget/button_002] はい
@@ -51576,6 +52494,9 @@ common_widget_ja.lsd
 [common_widget/button_018] 詳細表示
 [common_widget/button_019] 簡易表示
 [common_widget/button_020] 解放内容詳細
+[common_widget/button_021] 前へ
+[common_widget/button_022] 次へ
+[common_widget/button_023] キャンセル
 [common_widget/loading_001] Loading...
 [common_widget/loading_002] 出発
 [common_widget/loading_003] 通信中……
@@ -51993,10 +52914,24 @@ Lv.MAX
 [common_widget/filter_092] 状態変化
 [common_widget/filter_093] 場の効果
 [common_widget/filter_094] その他
+[common_widget/filter_095] 下限なし
+[common_widget/filter_096] 上限なし
+[common_widget/filter_097] [Digit:4digits ]以上
+[common_widget/filter_098] [Digit:4digits ]未満
 [common_widget/filter_099] 特別な行動
 [common_widget/filter_100] タグ
 [common_widget/filter_101] 編成中バディーズと一致
 [common_widget/filter_102] スキル解放
+[common_widget/filter_103] フィルタ
+[common_widget/filter_104] フォトに写っているトレーナーを指定できます
+[common_widget/filter_105] トレーナー
+[common_widget/filter_106] チームスキル
+[common_widget/filter_107] パルデア
+[common_widget/filter_108] 進化
+[common_widget/filter_109] 進化のバディーズエピソード
+[common_widget/filter_110] エピソードクリア
+[common_widget/filter_111] クリア済
+[common_widget/filter_112] 未クリア
 [common_widget/sort_001] ★の数
 [common_widget/sort_002] バディーズわざ
 [common_widget/sort_003] HP
@@ -52021,6 +52956,10 @@ Lv.MAX
 [common_widget/sort_027] 該当する装備はありません
 [common_widget/sort_028] 地方
 [common_widget/sort_029] 種別
+[common_widget/sort_030] いいねが多い順
+[common_widget/sort_031] PRが近い順
+[common_widget/sort_032] PRが高い順
+[common_widget/sort_033] ログイン順
 [common_widget/cutin_001] レベルアップ!
 [common_widget/cutin_002] Lv.
 [common_widget/cutin_003] ★アップ!
@@ -52277,6 +53216,11 @@ SP報酬が解放！
 すべてクリアしてパシオ殿堂入りをしよう
 [common_widget/spreward_027] いずれかの地方のチャンピオンバトル「HARD Lv.1」で
 タイプに応じたピースを埋めてエンブレムを完成させよう
+[common_widget/notification_005] 獲得した称号があります
+[common_widget/notification_006] [Name:FriendNickname ]さんから
+いいねされました
+[common_widget/notification_007] [Name:FriendNickname ]さんたちから
+いいねされました
 [common_widget/short_cut_001] ショップ
 [common_widget/short_cut_002] ぼうけん
 [common_widget/short_cut_003] バディーズ
@@ -52297,6 +53241,9 @@ SP報酬が解放！
 [common_widget/short_cut_018] ポケモンセンターへ
 [common_widget/short_cut_019] トレーナーズサロン
 [common_widget/short_cut_020] 装備
+[common_widget/short_cut_021] ぼうけんのきろく
+[common_widget/short_cut_022] プロフィール
+[common_widget/short_cut_023] フォトメーカー
 
 ===========
 common_widget_ko.lsd
@@ -52338,6 +53285,7 @@ common_widget_ko.lsd
 [common_widget/cell_051] ＋[Digit:8digits ]
 [common_widget/cell_052] 
 [common_widget/cell_053] 
+[common_widget/cell_054] 설정 중
 [common_widget/cell_056] [Digit:6digits ] ~ [Digit:6digits Idx="1" ]
 [common_widget/button_001] OK
 [common_widget/button_002] 네
@@ -52359,6 +53307,9 @@ common_widget_ko.lsd
 [common_widget/button_018] 상세 표시
 [common_widget/button_019] 간단 표시
 [common_widget/button_020] 해방 내용 상세
+[common_widget/button_021] 이전
+[common_widget/button_022] 다음
+[common_widget/button_023] 취소
 [common_widget/loading_001] Loading...
 [common_widget/loading_002] 출발
 [common_widget/loading_003] 통신 중...
@@ -52775,10 +53726,24 @@ Lv.MAX
 [common_widget/filter_092] 상태 변화
 [common_widget/filter_093] 필드 효과
 [common_widget/filter_094] 기타
+[common_widget/filter_095] 하한 없음
+[common_widget/filter_096] 상한 없음
+[common_widget/filter_097] [Digit:4digits ] 이상
+[common_widget/filter_098] [Digit:4digits ] 미만
 [common_widget/filter_099] 특별한 행동
 [common_widget/filter_100] 태그
 [common_widget/filter_101] 편성 중인 버디즈와 일치
 [common_widget/filter_102] 스킬 해방
+[common_widget/filter_103] 필터
+[common_widget/filter_104] 사진에 찍혀 있는 트레이너를 지정할 수 있습니다
+[common_widget/filter_105] 트레이너
+[common_widget/filter_106] 팀스킬
+[common_widget/filter_107] 팔데아
+[common_widget/filter_108] 진화
+[common_widget/filter_109] 진화와 관련된 버디즈 에피소드
+[common_widget/filter_110] 에피소드 클리어
+[common_widget/filter_111] 클리어 완료
+[common_widget/filter_112] 클리어 미완료
 [common_widget/sort_001] ★의 수
 [common_widget/sort_002] 버디즈기술
 [common_widget/sort_003] HP
@@ -52803,6 +53768,10 @@ Lv.MAX
 [common_widget/sort_027] 해당하는 장비가 없습니다
 [common_widget/sort_028] 지방
 [common_widget/sort_029] 종류별
+[common_widget/sort_030] 좋아요가 많은 순
+[common_widget/sort_031] PR이 가까운 순
+[common_widget/sort_032] PR이 높은 순
+[common_widget/sort_033] 로그인 순
 [common_widget/cutin_001] 레벨업!
 [common_widget/cutin_002] Lv.
 [common_widget/cutin_003] ★상승!
@@ -53051,6 +54020,11 @@ SP 보상이 해방!
 모두 클리어하고 파시오 전당등록을 하자
 [common_widget/spreward_027] 어느 한 지방의 챔피언배틀 "HARD Lv.1"에서
 타입에 따라 피스를 채워서 엠블럼을 완성시키자
+[common_widget/notification_005] 획득한 칭호가 있습니다
+[common_widget/notification_006] [Name:FriendNickname ]님에게
+좋아요를 받았습니다
+[common_widget/notification_007] [Name:FriendNickname ]님 등에게
+좋아요를 받았습니다
 [common_widget/short_cut_001] 숍
 [common_widget/short_cut_002] 모험
 [common_widget/short_cut_003] 버디즈
@@ -53071,6 +54045,9 @@ SP 보상이 해방!
 [common_widget/short_cut_018] 포켓몬센터로
 [common_widget/short_cut_019] 트레이너즈 살롱
 [common_widget/short_cut_020] 장비
+[common_widget/short_cut_021] 모험 기록
+[common_widget/short_cut_022] 프로필
+[common_widget/short_cut_023] 사진 메이커
 
 ===========
 common_widget_zh-TW.lsd
@@ -53113,6 +54090,7 @@ common_widget_zh-TW.lsd
 [common_widget/cell_051] ＋[Digit:8digits ]
 [common_widget/cell_052] --
 [common_widget/cell_053] ???
+[common_widget/cell_054] 設定中
 [common_widget/cell_056] [Digit:6digits ] ~ [Digit:6digits Idx="1" ]
 [common_widget/button_001] OK
 [common_widget/button_002] 是
@@ -53134,6 +54112,9 @@ common_widget_zh-TW.lsd
 [common_widget/button_018] 完整顯示
 [common_widget/button_019] 簡易顯示
 [common_widget/button_020] 開放內容詳情
+[common_widget/button_021] 上一步
+[common_widget/button_022] 下一步
+[common_widget/button_023] 取消
 [common_widget/loading_001] Loading...
 [common_widget/loading_002] 出發
 [common_widget/loading_003] 正在連線……
@@ -53529,10 +54510,24 @@ Lv.MAX
 [common_widget/filter_092] 狀態變化
 [common_widget/filter_093] 場地效果
 [common_widget/filter_094] 其他
+[common_widget/filter_095] 無下限
+[common_widget/filter_096] 無上限
+[common_widget/filter_097] [Digit:4digits ]以上
+[common_widget/filter_098] 未滿[Digit:4digits ]
 [common_widget/filter_099] 特別的行動
 [common_widget/filter_100] 標籤
 [common_widget/filter_101] 和編制中的拍組一致
 [common_widget/filter_102] 開放技能
+[common_widget/filter_103] 篩選
+[common_widget/filter_104] 可指定要顯示在相片中的訓練家
+[common_widget/filter_105] 訓練家
+[common_widget/filter_106] 隊伍技能
+[common_widget/filter_107] 帕底亞
+[common_widget/filter_108] 進化
+[common_widget/filter_109] 進化的拍組劇情
+[common_widget/filter_110] 劇情過關狀態
+[common_widget/filter_111] 已過關
+[common_widget/filter_112] 未過關
 [common_widget/sort_001] ★數
 [common_widget/sort_002] 拍組招式
 [common_widget/sort_003] HP
@@ -53557,6 +54552,10 @@ Lv.MAX
 [common_widget/sort_027] 沒有符合條件的裝備
 [common_widget/sort_028] 地區
 [common_widget/sort_029] 類別
+[common_widget/sort_030] 點讚數從多到少
+[common_widget/sort_031] 玩家等級相近
+[common_widget/sort_032] 玩家等級從高到低
+[common_widget/sort_033] 登入時間
 [common_widget/cutin_001] 升級！
 [common_widget/cutin_002] Lv.
 [common_widget/cutin_003] ★提升！
@@ -53785,6 +54784,9 @@ EX服裝！
 來登入帕希歐名人堂吧
 [common_widget/spreward_027] 在任一地區的冠軍對戰「HARD Lv.1」中
 根據屬性讓勳章結晶填入相應的位置來完成勳章吧
+[common_widget/notification_005] 有獲得的稱號
+[common_widget/notification_006] 被[Name:FriendNickname ]點讚了
+[common_widget/notification_007] 被[Name:FriendNickname ]等人點讚了
 [common_widget/short_cut_001] 商店
 [common_widget/short_cut_002] 冒險
 [common_widget/short_cut_003] 拍組
@@ -53805,6 +54807,9 @@ EX服裝！
 [common_widget/short_cut_018] 回到寶可夢中心
 [common_widget/short_cut_019] 訓練家沙龍
 [common_widget/short_cut_020] 裝備
+[common_widget/short_cut_021] 冒險紀錄
+[common_widget/short_cut_022] 個人資訊
+[common_widget/short_cut_023] 相片編輯器
 
 ===========
 error_dialog_contents_de.lsd
@@ -56509,6 +57514,18 @@ mehrere Bedingungen, gilt nur der höhere Bonus.
 [home/quest_detail_199] Anzeige der Rangfolge bis: [Name:DateTime ]
 [home/quest_detail_200] Es sind keine Informationen verfügbar.
 [home/quest_detail_201] Wird berechnet
+[home/quest_detail_202] Gesamtkraft
+[home/quest_detail_203] Du kannst Rangboni erhalten, wenn
+du mindestens Rang 10 000 erreichst.
+[home/quest_detail_204] Rangboni-Liste
+[home/quest_detail_206] Meister
+TOP [Digit:8digits ]
+[home/quest_detail_207] Hinweis: Du kannst alle Titel erhalten, die unter deinem
+aktuellen Rang liegen.
+[home/quest_detail_208] Deine Gefährten
+[home/quest_detail_210] Punktzahl
+[home/quest_detail_211] Meister
+TOP [Digit:8digits ]
 [home/home_001] Laden
 [home/home_002] Abenteuer
 [home/home_003] Team
@@ -56629,6 +57646,10 @@ Schwer Lv. 1 abschließt.
 [home/global_menu_020] Google Play
 [home/global_menu_021] Embleme
 [home/global_menu_022] Poryfon-Menü
+[home/global_menu_023] Titel
+[home/global_menu_024] Fotostudio
+[home/global_menu_025] Abenteuerdaten
+[home/global_menu_026] Rang [Digit:8digits ]
 [home/login_bonus_001] Login-Bonus
 [home/login_bonus_002] Logge dich täglich ein, um Boni zu erhalten!
 [home/login_bonus_003] BONUS!
@@ -57086,6 +58107,7 @@ oder sie können nicht eingesetzt werden.
 [home/battle_replay_036] Du besitzt dieses Gefährtengespann nicht.
 [home/battle_replay_037] Es sind keine anwendbaren Brettfähigkeiten verfügbar.
 [home/battle_replay_038] Es werden keine Items verwendet.
+[home/battle_replay_039] Gesamt
 [home/score_attack_001] Höchste Gesamtpunktzahl
 [home/score_attack_002] Aktuelle Gesamtpunktzahl
 [home/score_attack_003] Hinweis: Belohnungen können nicht noch einmal abgeholt werden, selbst wenn du den Kampf zurücksetzt.
@@ -57790,6 +58812,18 @@ same sync pair, the larger bonus will take effect.
 [home/quest_detail_199] Rankings shown until [Name:DateTime ]
 [home/quest_detail_200] No information to display.
 [home/quest_detail_201] Awaiting Results
+[home/quest_detail_202] Collective Strength
+[home/quest_detail_203] You can obtain prestige rewards for
+finishing 10,000th place or higher!
+[home/quest_detail_204] Prestige Rewards
+[home/quest_detail_206] Master
+Top [Digit:8digits ]
+[home/quest_detail_207] Note: You can claim all titles for ranks
+below your own.
+[home/quest_detail_208] Your Sync Pairs
+[home/quest_detail_210] Score
+[home/quest_detail_211] Master
+Top [Digit:8digits ]
 [home/home_001] Shop
 [home/home_002] Explore
 [home/home_003] Team
@@ -57895,6 +58929,10 @@ Stadium for any region on Hard Lv. 1.
 [home/global_menu_020] Google Play
 [home/global_menu_021] Medals
 [home/global_menu_022] Poryphone Menu
+[home/global_menu_023] Title
+[home/global_menu_024] Photo Creator
+[home/global_menu_025] Adventure Log
+[home/global_menu_026] Rank [Digit:8digits ]
 [home/login_bonus_001] Log-In Bonus
 [home/login_bonus_002] Log in every day to receive bonus items!
 [home/login_bonus_003] Bonus!
@@ -58306,6 +59344,7 @@ Successful Teams
 [home/battle_replay_036] You don’t have this sync pair.
 [home/battle_replay_037] No applicable grid skills.
 [home/battle_replay_038] No items will be used.
+[home/battle_replay_039] Total
 [home/score_attack_001] Highest Total Score
 [home/score_attack_002] Current Total Score
 [home/score_attack_003] Rewards you have already received cannot be received
@@ -59012,6 +60051,18 @@ cuenta con más de un bonus, solo se aplicará el más alto.
 [home/quest_detail_199] La clasificación se mostrará hasta el [Name:DateTime ].
 [home/quest_detail_200] No hay nada que mostrar.
 [home/quest_detail_201] Calculando...
+[home/quest_detail_202] Fuerza total
+[home/quest_detail_203] ¡Puedes obtener premios por clasificación
+si terminas por encima del puesto 10 000!
+[home/quest_detail_204] Premios clasificación
+[home/quest_detail_206] Master
+[Digit:8digits ] mejores
+[home/quest_detail_207] Nota: Puedes obtener todos los títulos de los rangos
+inferiores al tuyo.
+[home/quest_detail_208] Tus compis
+[home/quest_detail_210] Puntuación
+[home/quest_detail_211] Master
+Puesto [Digit:8digits ]
 [home/home_001] Tienda
 [home/home_002] Aventura
 [home/home_003] Equipo
@@ -59130,6 +60181,10 @@ de cualquier región en Difícil (nivel 1).
 [home/global_menu_020] Google Play
 [home/global_menu_021] Emblemas
 [home/global_menu_022] Menú del Porygófono
+[home/global_menu_023] Título
+[home/global_menu_024] Fotomatón
+[home/global_menu_025] Diario de aventuras
+[home/global_menu_026] Rango [Digit:8digits ]
 [home/login_bonus_001] Bonificación de inicio
 [home/login_bonus_002] ¡Inicia sesión a diario para conseguir regalos!
 [home/login_bonus_003] RECOMPENSA
@@ -59595,6 +60650,7 @@ victoriosos
 [home/battle_replay_036] No tienes los compis necesarios.
 [home/battle_replay_037] No hay habilidades orbe que aplicar.
 [home/battle_replay_038] No se usará ningún objeto.
+[home/battle_replay_039] Total
 [home/score_attack_001] Punt. máxima
 [home/score_attack_002] Punt. actual
 [home/score_attack_003] Nota: No podrás volver a recibir los premios que ya hayas
@@ -60352,6 +61408,18 @@ le rang [Digit:5digits ] ou mieux.
 [home/quest_detail_199] Le classement sera disponible jusqu'au [Name:DateTime ].
 [home/quest_detail_200] Aucune information à afficher.
 [home/quest_detail_201] En attente de données.
+[home/quest_detail_202] Force totale
+[home/quest_detail_203] Vous pouvez obtenir des récompenses (classement)
+en atteignant au moins la 10 000e place !
+[home/quest_detail_204] Liste des récompenses (classement)
+[home/quest_detail_206] Master
+Top [Digit:8digits ]
+[home/quest_detail_207] Vous pouvez recevoir tous les titres
+des rangs inférieurs au vôtre.
+[home/quest_detail_208] Vos Duos
+[home/quest_detail_210] Score
+[home/quest_detail_211] Master
+Top [Digit:8digits ]
 [home/home_001] Boutique
 [home/home_002] Aventure
 [home/home_003] Équipe
@@ -60478,6 +61546,10 @@ quelle région au niveau Difficile N. 1.
 [home/global_menu_020] Google Play
 [home/global_menu_021] Emblèmes
 [home/global_menu_022] Menu du Porygophone
+[home/global_menu_023] Titres
+[home/global_menu_024] Créateur de photo
+[home/global_menu_025] Infos de joueur
+[home/global_menu_026] Rang [Digit:8digits ]
 [home/login_bonus_001] Bonus de connexion
 [home/login_bonus_002] Gagnez des récompenses en vous connectant chaque jour !
 [home/login_bonus_003] Récompense
@@ -61005,6 +62077,7 @@ de Duo-Sphères.
 nécessaire(s).
 [home/battle_replay_037] Aucun talent Sphère à appliquer.
 [home/battle_replay_038] Aucun objet ne sera utilisé.
+[home/battle_replay_039] Total
 [home/score_attack_001] Meilleur score total
 [home/score_attack_002] Score total actuel
 [home/score_attack_003] Vous ne pouvez pas obtenir à nouveau les récompenses
@@ -61777,6 +62850,17 @@ piazzamento in classifica.
 [home/quest_detail_199] Potrai consultare la classifica fino al giorno [Name:DateTime ]
 [home/quest_detail_200] Non ci sono informazioni da visualizzare.
 [home/quest_detail_201] Calcolo in corso.
+[home/quest_detail_202] Potenza totale
+[home/quest_detail_203] Puoi ottenere ricompense classifica
+se ti piazzi almeno al 10.000º posto!
+[home/quest_detail_204] Ricompense classifica
+[home/quest_detail_206] Master
+Migliori [Digit:8digits ]
+[home/quest_detail_207] Puoi ricevere anche i titoli di tutte le posizioni inferiori alla tua.
+[home/quest_detail_208] Unità
+[home/quest_detail_210] Punteggio
+[home/quest_detail_211] Master
+Migliori [Digit:8digits ]
 [home/home_001] Negozio
 [home/home_002] Avventura
 [home/home_003] Squadra
@@ -61889,6 +62973,10 @@ in difficoltà "Difficile L. 1".
 [home/global_menu_020] Google Play
 [home/global_menu_021] Emblemi
 [home/global_menu_022] Menu Porygofono
+[home/global_menu_023] Titoli
+[home/global_menu_024] Modalità foto
+[home/global_menu_025] Dati di gioco
+[home/global_menu_026] Posizione [Digit:8digits ]
 [home/login_bonus_001] Bonus accesso
 [home/login_bonus_002] Accedi tutti i giorni per ottenere ricompense!
 [home/login_bonus_003] RICOMPENSE
@@ -62391,6 +63479,7 @@ vincenti
 [home/battle_replay_036] Non possiedi le Unità necessarie.
 [home/battle_replay_037] Non hai tecabilità da attivare.
 [home/battle_replay_038] Non verranno usati strumenti.
+[home/battle_replay_039] Totale
 [home/score_attack_001] Punteggio totale più alto
 [home/score_attack_002] Punteggio totale attuale
 [home/score_attack_003] Le ricompense già ottenute non potranno essere ottenute
@@ -63139,6 +64228,17 @@ Lv.[Digit:2digits ]で解放
 [home/quest_detail_199] ランキング表示期間：[Name:DateTime ]まで
 [home/quest_detail_200] 表示できる情報がありません
 [home/quest_detail_201] 集計中
+[home/quest_detail_202] 総合つよさ
+[home/quest_detail_203] 10000位以内で
+ランキング報酬獲得！
+[home/quest_detail_204] ランキング報酬一覧
+[home/quest_detail_206] マスター
+TOP[Digit:8digits ]位
+[home/quest_detail_207] ※自分の順位以下の称号はすべて獲得できます
+[home/quest_detail_208] 所持バディーズ数
+[home/quest_detail_210] スコア
+[home/quest_detail_211] マスター
+[Digit:8digits ]位
 [home/home_001] ショップ
 [home/home_002] ぼうけん
 [home/home_003] チーム
@@ -63252,6 +64352,10 @@ EXデイリーダイヤパックや
 [home/global_menu_020] GooglePlay
 [home/global_menu_021] エンブレム
 [home/global_menu_022] ポリゴンフォンメニュー
+[home/global_menu_023] 称号
+[home/global_menu_024] フォトメーカー
+[home/global_menu_025] ぼうけんのきろく
+[home/global_menu_026] RANK [Digit:8digits ]
 [home/login_bonus_001] ログインボーナス
 [home/login_bonus_002] 毎日ログインで特典ゲット！
 [home/login_bonus_003] GET!
@@ -63746,6 +64850,7 @@ GRADE一覧に戻ります
 [home/battle_replay_036] バディーズを所持していません
 [home/battle_replay_037] 適用できるボードスキルがありません
 [home/battle_replay_038] どうぐの消費はありません
+[home/battle_replay_039] 合計
 [home/score_attack_001] 最高合計スコア
 [home/score_attack_002] 現在の合計スコア
 [home/score_attack_003] ※獲得済の報酬はリセットしても再度獲得できません
@@ -64479,6 +65584,17 @@ Lv.[Digit:2digits ]에서 해방
 [home/quest_detail_199] 랭킹 표시 기간 : [Name:DateTime ]까지
 [home/quest_detail_200] 표시할 수 있는 정보가 없습니다
 [home/quest_detail_201] 집계 중
+[home/quest_detail_202] 종합 능력치
+[home/quest_detail_203] 10000위 이내이면
+랭킹 보상 획득!
+[home/quest_detail_204] 랭킹 보상 일람
+[home/quest_detail_206] 마스터
+TOP [Digit:8digits ]위
+[home/quest_detail_207] ※자신의 순위 이하의 칭호는 모두 획득할 수 있습니다
+[home/quest_detail_208] 보유 버디즈 수
+[home/quest_detail_210] 스코어
+[home/quest_detail_211] 마스터
+[Digit:8digits ]위
 [home/home_001] 숍
 [home/home_002] 모험
 [home/home_003] 팀
@@ -64591,6 +65707,10 @@ EX일일 다이아 팩과
 [home/global_menu_020] GooglePlay
 [home/global_menu_021] 엠블럼
 [home/global_menu_022] 폴리곤폰 메뉴
+[home/global_menu_023] 칭호
+[home/global_menu_024] 사진 메이커
+[home/global_menu_025] 모험 기록
+[home/global_menu_026] RANK [Digit:8digits ]
 [home/login_bonus_001] 로그인 보너스
 [home/login_bonus_002] 매일 로그인하고 선물을 받자!
 [home/login_bonus_003] GET!
@@ -65061,6 +66181,7 @@ WPM배지를 모두 모으면
 [home/battle_replay_036] 버디즈를 보유하고 있지 않습니다
 [home/battle_replay_037] 적용할 수 있는 보드스킬이 없습니다
 [home/battle_replay_038] 도구는 소비하지 않습니다
+[home/battle_replay_039] 합계
 [home/score_attack_001] 최고 합계 스코어
 [home/score_attack_002] 현재 합계 스코어
 [home/score_attack_003] ※이미 획득한 보상은 초기화해도 다시 획득할 수 없습니다
@@ -65785,6 +66906,17 @@ home_zh-TW.lsd
 [home/quest_detail_199] 排名顯示期間：[Name:DateTime ]為止
 [home/quest_detail_200] 沒有可顯示的資訊
 [home/quest_detail_201] 統計中
+[home/quest_detail_202] 總戰力
+[home/quest_detail_203] 進入前10000名
+即可獲得排名報酬！
+[home/quest_detail_204] 排名報酬一覽
+[home/quest_detail_206] 大師
+TOP[Digit:8digits ]
+[home/quest_detail_207] ※自己排名以下的稱號可全部獲得
+[home/quest_detail_208] 持有拍組數
+[home/quest_detail_210] 得分
+[home/quest_detail_211] 大師
+第[Digit:8digits ]名
 [home/home_001] 商店
 [home/home_002] 冒險
 [home/home_003] 隊伍
@@ -65893,6 +67025,10 @@ EX每日鑽石組合包
 [home/global_menu_020] GooglePlay
 [home/global_menu_021] 勳章
 [home/global_menu_022] 多邊手機選單
+[home/global_menu_023] 稱號
+[home/global_menu_024] 相片編輯器
+[home/global_menu_025] 冒險紀錄
+[home/global_menu_026] RANK [Digit:8digits ]
 [home/login_bonus_001] 登入獎勵
 [home/login_bonus_002] 天天登入即可獲得獎勵！
 [home/login_bonus_003] GET!
@@ -66337,6 +67473,7 @@ GRADE的獎勵報酬
 [home/battle_replay_036] 尚未持有拍組
 [home/battle_replay_037] 沒有可套用的石盤技能
 [home/battle_replay_038] 沒有消耗道具
+[home/battle_replay_039] 總計
 [home/score_attack_001] 最高總得分
 [home/score_attack_002] 目前的總得分
 [home/score_attack_003] ※已獲得的報酬即使重設也無法再次獲得
@@ -68598,7 +69735,7 @@ La última pareja de compis de un reclutamiento (esto es, la 10.ª pareja en un 
 Los Pokémon de las parejas de compis marcadas con un asterisco (*) en la pantalla de las tasas de aparición podrán evolucionar tras completar el episodio de evolución correspondiente.
 [shop/scout_142] ×[Digit:3digits ]
 [shop/scout_143] Reclutamiento billete
-[shop/scout_144] ¡Puedes eligir además una pareja de
+[shop/scout_144] ¡Puedes elegir además una pareja de
 compis de 5★!
 [shop/scout_145] Compis maestros
 [shop/scout_146] Festicompis maestros
@@ -72443,6 +73580,7 @@ system_de.lsd
 [system/remaining_days_double] Noch
 [Digit:3digits ] [DE:Qty S="Tag" P="Tage" ]
 [system/remaining_time] Noch [Name:DateTime ]
+[system/title_name_003] Pokémon Masters EX
 
 ===========
 system_en.lsd
@@ -72458,6 +73596,7 @@ system_en.lsd
 [system/remaining_days_double] [Digit:3digits ] [EN:Qty S="day" P="days" ]
 remaining
 [system/remaining_time] Ends [Name:DateTime ]
+[system/title_name_003] Pokémon Masters EX
 
 ===========
 system_es.lsd
@@ -72473,6 +73612,7 @@ system_es.lsd
 [system/remaining_days_double] Queda[ES:Qty P="n" ]
 [Digit:3digits ] día[ES:Qty P="s" ]
 [system/remaining_time] Quedan [Name:DateTime ]
+[system/title_name_003] Pokémon Masters EX
 
 ===========
 system_fr.lsd
@@ -72488,6 +73628,7 @@ system_fr.lsd
 [system/remaining_days_double] Plus que
 [Digit:3digits ] jour[FR:Qty P="s" ]
 [system/remaining_time] Reste [Name:DateTime ]
+[system/title_name_003] Pokémon Masters EX
 
 ===========
 system_it.lsd
@@ -72503,6 +73644,7 @@ system_it.lsd
 [system/remaining_days_double] Ancora
 [Digit:3digits ] giorn[IT:Qty S="o" P="i" ]
 [system/remaining_time] Ancora [Name:DateTime ]
+[system/title_name_003] Pokémon Masters EX
 
 ===========
 system_ja.lsd
@@ -72518,6 +73660,7 @@ system_ja.lsd
 [system/remaining_days_double] あと
 [Digit:3digits ]日
 [system/remaining_time] あと [Name:DateTime ]
+[system/title_name_003] Pokémon Masters EX
 
 ===========
 system_ko.lsd
@@ -72533,6 +73676,7 @@ system_ko.lsd
 [system/remaining_days_double] 앞으로
 [Digit:3digits ]일
 [system/remaining_time] 앞으로 [Name:DateTime ]
+[system/title_name_003] Pokémon Masters EX
 
 ===========
 system_zh-TW.lsd
@@ -72548,6 +73692,7 @@ system_zh-TW.lsd
 [system/remaining_days_double] 還剩
 [Digit:3digits ]天
 [system/remaining_time] 還剩[Name:DateTime ]
+[system/title_name_003] Pokémon Masters EX
 
 ===========
 title_de.lsd
