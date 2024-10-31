@@ -6477,6 +6477,84 @@ stärksten Koryphäe
 [quest_group_title_10134000000] Viktor
 [quest_group_title_10203000000] Argenta
 [quest_group_detail_100110] Wo sich Ideale kreuzen
+[quest_title_1040001400001011] Ein besonderer Tag mit
+Giovanni (Teil 1)
+[quest_title_1040001400001021] Ein besonderer Tag mit
+Giovanni (Teil 2)
+[quest_title_1030509000601010] Kämpfe in Johto-Formation
+(Volldampf)
+[quest_title_1030509000602010] Kämpfe in Hoenn-Formation
+(Volldampf)
+[quest_title_1030450900401010] Vs. Trainer aus Passio 1
+[quest_title_1030450900402010] Vs. Trainer aus Passio 2
+[quest_title_1030450900403010] Vs. Trainer aus Passio 3
+[quest_title_1030450900404010] Vs. Trainer aus Passio 4
+[quest_title_1030450900405010] Vs. Trainer aus Passio 5
+[quest_title_1030450900406010] Vs. Trainer aus Passio 6
+[quest_title_1030450900407010] Vs. Trainer aus Passio 7
+[quest_title_1030450900408010] Vs. Trainer aus Passio 8
+[quest_title_1030450900409010] Vs. Trainer aus Passio 9
+[quest_title_1030509000603010] Eine missliche Situation
+[quest_title_1030509000603020] Eine Insel des harmonischen
+Zusammenlebens
+[quest_title_1030509000603060] Vs. Cynthia 1
+[quest_title_1030509000603030] Die Mythenforscherin
+[quest_title_1030509000603070] Vs. Cynthia 2
+[quest_title_1030509000603040] Im Sinne der Rivalität
+[quest_title_1030509000603080] Vs. Cynthia 3
+[quest_title_1030509000603050] Ein neuer Tag
+[quest_title_1030509000603090] Vs. Cynthia 4
+[quest_title_1030509000603100] Täglicher schwerer Kampf
+[quest_title_1030509000603110] Herausforderungskampf 1
+[quest_title_1030509000603120] Herausforderungskampf 2
+[quest_title_1030220291000000] Ein Tag mit Lumia
+[quest_title_1030220290000000] Ein Tag mit Lumius
+[quest_title_1030509000604010] Wildgewordene
+Leih-Pokémon
+[quest_title_1030509000604030] Vs. Distmar und Kevin 1
+[quest_title_1030509000604040] Vs. Distmar und Kevin 2
+[quest_title_1030509000604050] Vs. Distmar und Kevin 3
+[quest_title_1030509000604060] Vs. Distmar und Kevin 4
+[quest_title_1030509000604070] Täglicher schwerer Kampf
+[quest_title_1030509000604020] Die Früchte des Fleißes
+[quest_title_1030506000701011] Vs. Registeel 1
+[quest_title_1030506010701021] Vs. Registeel 2
+[quest_title_1030506020701031] Vs. Registeel 3
+[quest_title_1030509000605010] Gruselige Gerüchte
+[quest_title_1030509000605020] Gespenstisches Schluchzen
+[quest_title_1030509000605080] Vs. Trainer aus Passio 1
+[quest_title_1030509000605030] Ein Problem mit den
+Ausstellungsstücken
+[quest_title_1030509000605090] Vs. Trainer aus Passio 2
+[quest_title_1030509000605040] In guten Händen
+[quest_title_1030509000605100] Vs. Trainer aus Passio 3
+[quest_title_1030509000605050] Triumphale Aufdeckung eines
+Mysteriums
+[quest_title_1030509000605060] Die Wissbegierde der
+Abenteurer
+[quest_title_1030509000605070] Ein güldenes Festmahl
+[quest_title_1030509000605110] Vs. Trainer aus Passio 4
+[quest_title_1030509000605120] Täglicher schwerer Kampf
+[quest_title_1030509000605130] Herausforderungskampf 1
+[quest_title_1030509000605140] Herausforderungskampf 2
+[quest_title_1030220169000000] Ein Tag mit Aloe
+[quest_title_1030450900501010] Galar-Kameraden
+[quest_title_1030450900502010] Sinnoh-Kameraden
+[quest_title_1030450900503010] Kalos-Kameraden
+[quest_title_1030450900504010] Hoenn-Kameraden
+[quest_title_1030450900505010] Einall-Kameraden
+[quest_title_1030450900101010] Vs. Trainer aus Passio 1
+[quest_title_1030450900101011] Vs. Trainer aus Passio 2
+[quest_title_1030450900101012] Vs. Trainer aus Passio 3
+[quest_title_1030450900101013] Vs. Trainer aus Passio 4
+[quest_group_title_10291000000] Lumia
+[quest_group_title_10290000000] Lumius
+[quest_group_title_10049400000] Antonia (Saison 2023)
+[quest_group_title_10044400000] Felizia (Saison 2023)
+[quest_group_title_10169000000] Aloe
+[quest_group_title_610062] Fähigkeiten-Federgebiet
+[quest_title_1030450900601010] Fähigkeiten-Feder-
+Intensivkurs
 
 ===========
 story_quest_name_en.lsd
@@ -9843,6 +9921,74 @@ Is Another’s Poison: Part 4
 [quest_group_title_10134000000] Palmer
 [quest_group_title_10203000000] Argenta
 [quest_group_detail_100110] Where Ideals Cross Paths
+[quest_title_1040001400001011] A Special Day with Giovanni: Part 1
+[quest_title_1040001400001021] A Special Day with Giovanni: Part 2
+[quest_title_1030509000601010] Johto Team-Up: Super
+[quest_title_1030509000602010] Hoenn Team-Up: Super
+[quest_title_1030450900401010] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030450900402010] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030450900403010] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030450900404010] Challenge Pasio’s Trainers: Part 4
+[quest_title_1030450900405010] Challenge Pasio’s Trainers: Part 5
+[quest_title_1030450900406010] Challenge Pasio’s Trainers: Part 6
+[quest_title_1030450900407010] Challenge Pasio’s Trainers: Part 7
+[quest_title_1030450900408010] Challenge Pasio’s Trainers: Part 8
+[quest_title_1030450900409010] Challenge Pasio’s Trainers: Part 9
+[quest_title_1030509000603010] A Crisis
+[quest_title_1030509000603020] On an Island with Pokémon
+[quest_title_1030509000603060] Challenge Cynthia: Part 1
+[quest_title_1030509000603030] The Myth Researcher
+[quest_title_1030509000603070] Challenge Cynthia: Part 2
+[quest_title_1030509000603040] As Rivals...
+[quest_title_1030509000603080] Challenge Cynthia: Part 3
+[quest_title_1030509000603050] The Next Daybreak
+[quest_title_1030509000603090] Challenge Cynthia: Part 4
+[quest_title_1030509000603100] Daily Extreme Battle 1
+[quest_title_1030509000603110] Battle Challenge! Round 1
+[quest_title_1030509000603120] Battle Challenge! Round 2
+[quest_title_1030220291000000] A Day with Akari
+[quest_title_1030220290000000] A Day with Rei
+[quest_title_1030509000604010] Rowdy Rental Pokémon
+[quest_title_1030509000604030] Challenge Thorton and Noland: Part 1
+[quest_title_1030509000604040] Challenge Thorton and Noland: Part 2
+[quest_title_1030509000604050] Challenge Thorton and Noland: Part 3
+[quest_title_1030509000604060] Challenge Thorton and Noland: Part 4
+[quest_title_1030509000604070] Daily Extreme Battle 1
+[quest_title_1030509000604020] The Results of Training
+[quest_title_1030506000701011] Registeel’s Challenge: Part 1
+[quest_title_1030506010701021] Registeel’s Challenge: Part 2
+[quest_title_1030506020701031] Registeel’s Challenge: Part 3
+[quest_title_1030509000605010] Spooky Rumors
+[quest_title_1030509000605020] Sobbing Cries
+[quest_title_1030509000605080] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030509000605030] Exhibits with Issues?
+[quest_title_1030509000605090] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030509000605040] They’re OK Now
+[quest_title_1030509000605100] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030509000605050] The Power to Solve a Mystery
+[quest_title_1030509000605060] The Adventurers’ Curiosity
+[quest_title_1030509000605070] A Royal Treat
+[quest_title_1030509000605110] Challenge Pasio’s Trainers: Part 4
+[quest_title_1030509000605120] Daily Extreme Battle 1
+[quest_title_1030509000605130] Battle Challenge! Round 1
+[quest_title_1030509000605140] Battle Challenge! Round 2
+[quest_title_1030220169000000] A Day with Lenora
+[quest_title_1030450900501010] Galar Buddies Unite
+[quest_title_1030450900502010] Sinnoh Buddies Unite
+[quest_title_1030450900503010] Kalos Buddies Unite
+[quest_title_1030450900504010] Hoenn Buddies Unite
+[quest_title_1030450900505010] Unova Buddies Unite
+[quest_title_1030450900101010] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030450900101011] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030450900101012] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030450900101013] Challenge Pasio’s Trainers: Part 4
+[quest_group_title_10291000000] Akari
+[quest_group_title_10290000000] Rei
+[quest_group_title_10049400000] Phoebe (Fall 2023)
+[quest_group_title_10044400000] Roxanne (Fall 2023)
+[quest_group_title_10169000000] Lenora
+[quest_group_title_610062] Skill Feather Area
+[quest_title_1030450900601010] Skill Feather Drill
 
 ===========
 story_quest_name_es.lsd
@@ -13491,6 +13637,82 @@ Ases del Frente
 [quest_group_title_10134000000] Jericor
 [quest_group_title_10203000000] Argenta
 [quest_group_detail_100110] Donde convergen los ideales
+[quest_title_1040001400001011] Un día especial con Giovanni
+[quest_title_1040001400001021] Un día especial con Giovanni (2)
+[quest_title_1030509000601010] Combate con un equipo de
+Johto: Superavanzado
+[quest_title_1030509000602010] Combate con un equipo de
+Hoenn: Superavanzado
+[quest_title_1030450900401010] VS. Entrenadores de Passio
+[quest_title_1030450900402010] VS. Entrenadores de Passio (2)
+[quest_title_1030450900403010] VS. Entrenadores de Passio (3)
+[quest_title_1030450900404010] VS. Entrenadores de Passio (4)
+[quest_title_1030450900405010] VS. Entrenadores de Passio (5)
+[quest_title_1030450900406010] VS. Entrenadores de Passio (6)
+[quest_title_1030450900407010] VS. Entrenadores de Passio (7)
+[quest_title_1030450900408010] VS. Entrenadores de Passio (8)
+[quest_title_1030450900409010] VS. Entrenadores de Passio (9)
+[quest_title_1030509000603010] En un lío
+[quest_title_1030509000603020] En una isla de compis
+[quest_title_1030509000603060] VS. Cintia
+[quest_title_1030509000603030] La arqueóloga
+[quest_title_1030509000603070] VS. Cintia (2)
+[quest_title_1030509000603040] Rivales dignos
+[quest_title_1030509000603080] VS. Cintia (3)
+[quest_title_1030509000603050] El próximo despertar
+[quest_title_1030509000603090] VS. Cintia (4)
+[quest_title_1030509000603100] ¡Un combate difícil al día!
+[quest_title_1030509000603110] ¡Un combate desafiante!
+[quest_title_1030509000603120] ¡Un combate desafiante! (2)
+[quest_title_1030220291000000] Un día con Kira
+[quest_title_1030220290000000] Un día con Luka
+[quest_title_1030509000604010] Pokémon de préstamo
+rebeldes
+[quest_title_1030509000604030] VS. Espinal y Sabino
+[quest_title_1030509000604040] VS. Espinal y Sabino (2)
+[quest_title_1030509000604050] VS. Espinal y Sabino (3)
+[quest_title_1030509000604060] VS. Espinal y Sabino (4)
+[quest_title_1030509000604070] ¡Un combate difícil al día!
+[quest_title_1030509000604020] El resultado del entrenamiento
+[quest_title_1030506000701011] VS. Registeel
+[quest_title_1030506010701021] VS. Registeel (2)
+[quest_title_1030506020701031] VS. Registeel (3)
+[quest_title_1030509000605010] Un rumor aterrador
+[quest_title_1030509000605020] Sollozos misteriosos
+[quest_title_1030509000605080] VS. Entrenadores de Passio
+[quest_title_1030509000605030] Exposición sobrenatural
+[quest_title_1030509000605090] VS. Entrenadores de Passio (2)
+[quest_title_1030509000605040] En buenas manos
+[quest_title_1030509000605100] VS. Entrenadores de Passio (3)
+[quest_title_1030509000605050] El poder que resuelve
+misterios
+[quest_title_1030509000605060] Aventureros ávidos de
+respuestas
+[quest_title_1030509000605070] Un tentempié real
+[quest_title_1030509000605110] VS. Entrenadores de Passio (4)
+[quest_title_1030509000605120] ¡Un combate difícil al día!
+[quest_title_1030509000605130] ¡Un combate desafiante!
+[quest_title_1030509000605140] ¡Un combate desafiante! (2)
+[quest_title_1030220169000000] Un día con Aloe
+[quest_title_1030450900501010] Desafío con compis de Galar
+[quest_title_1030450900502010] Desafío con compis de
+Sinnoh
+[quest_title_1030450900503010] Desafío con compis de Kalos
+[quest_title_1030450900504010] Desafío con compis de Hoenn
+[quest_title_1030450900505010] Desafío con compis de
+Teselia
+[quest_title_1030450900101010] VS. Entrenadores de Passio
+[quest_title_1030450900101011] VS. Entrenadores de Passio (2)
+[quest_title_1030450900101012] VS. Entrenadores de Passio (3)
+[quest_title_1030450900101013] VS. Entrenadores de Passio (4)
+[quest_group_title_10291000000] Kira
+[quest_group_title_10290000000] Luka
+[quest_group_title_10049400000] Fátima (Temporada 23)
+[quest_group_title_10044400000] Petra (Temporada 23)
+[quest_group_title_10169000000] Aloe
+[quest_group_title_610062] Área de Plumas Habilidad
+[quest_title_1030450900601010] Entrenamiento de
+Plumas Habilidad
 
 ===========
 story_quest_name_fr.lsd
@@ -17554,6 +17776,100 @@ Dresseurs de Passio IV
 [quest_group_title_10134000000] Koner
 [quest_group_title_10203000000] Célosia
 [quest_group_detail_100110] À la croisée des idéaux
+[quest_title_1040001400001011] Une journée spéciale
+avec Giovanni
+[quest_title_1040001400001021] Une journée spéciale
+avec Giovanni II
+[quest_title_1030509000601010] Combat avec une équipe
+de Johto (Expert)
+[quest_title_1030509000602010] Combat avec une équipe
+de Hoenn (Expert)
+[quest_title_1030450900401010] Combat : Dresseurs de Passio
+[quest_title_1030450900402010] Combat :
+Dresseurs de Passio II
+[quest_title_1030450900403010] Combat :
+Dresseurs de Passio III
+[quest_title_1030450900404010] Combat :
+Dresseurs de Passio IV
+[quest_title_1030450900405010] Combat :
+Dresseurs de Passio V
+[quest_title_1030450900406010] Combat :
+Dresseurs de Passio VI
+[quest_title_1030450900407010] Combat :
+Dresseurs de Passio VII
+[quest_title_1030450900408010] Combat :
+Dresseurs de Passio VIII
+[quest_title_1030450900409010] Combat :
+Dresseurs de Passio IX
+[quest_title_1030509000603010] Situation critique
+[quest_title_1030509000603020] Un havre de paix insulaire
+pour humains et Pokémon
+[quest_title_1030509000603060] Combat : Cynthia
+[quest_title_1030509000603030] La passionnée de mythes
+[quest_title_1030509000603070] Combat : Cynthia II
+[quest_title_1030509000603040] Des rivaux dignes de ce nom
+[quest_title_1030509000603080] Combat : Cynthia III
+[quest_title_1030509000603050] Le prochain éveil
+[quest_title_1030509000603090] Combat : Cynthia IV
+[quest_title_1030509000603100] Combat difficile limité
+à une fois par jour !
+[quest_title_1030509000603110] Combat difficile
+[quest_title_1030509000603120] Combat difficile II
+[quest_title_1030220291000000] Une journée avec Lucia
+[quest_title_1030220290000000] Une journée avec Aurel
+[quest_title_1030509000604010] Des Pokémon de location
+turbulents
+[quest_title_1030509000604030] Combat : Cardus et Sam
+[quest_title_1030509000604040] Combat : Cardus et Sam II
+[quest_title_1030509000604050] Combat : Cardus et Sam III
+[quest_title_1030509000604060] Combat : Cardus et Sam IV
+[quest_title_1030509000604070] Combat difficile limité
+à une fois par jour !
+[quest_title_1030509000604020] Les résultats
+de l'entraînement
+[quest_title_1030506000701011] Combat : Registeel
+[quest_title_1030506010701021] Combat : Registeel II
+[quest_title_1030506020701031] Combat : Registeel III
+[quest_title_1030509000605010] D'effrayantes rumeurs
+[quest_title_1030509000605020] Sanglots nocturnes
+[quest_title_1030509000605080] Combat : Dresseurs de Passio
+[quest_title_1030509000605030] Une exposition surnaturelle
+[quest_title_1030509000605090] Combat :
+Dresseurs de Passio II
+[quest_title_1030509000605040] Tout ira bien, à présent
+[quest_title_1030509000605100] Combat :
+Dresseurs de Passio III
+[quest_title_1030509000605050] Le pouvoir pour résoudre
+un mystère
+[quest_title_1030509000605060] La curiosité des aventuriers
+[quest_title_1030509000605070] Un festin digne
+d'un roi
+[quest_title_1030509000605110] Combat :
+Dresseurs de Passio IV
+[quest_title_1030509000605120] Combat difficile limité
+à une fois par jour !
+[quest_title_1030509000605130] Combat difficile
+[quest_title_1030509000605140] Combat difficile II
+[quest_title_1030220169000000] Une journée avec Aloé
+[quest_title_1030450900501010] Compagnons de Galar
+[quest_title_1030450900502010] Compagnons de Sinnoh
+[quest_title_1030450900503010] Compagnons de Kalos
+[quest_title_1030450900504010] Compagnons de Hoenn
+[quest_title_1030450900505010] Compagnons d'Unys
+[quest_title_1030450900101010] Combat : Dresseurs de Passio
+[quest_title_1030450900101011] Combat :
+Dresseurs de Passio II
+[quest_title_1030450900101012] Combat :
+Dresseurs de Passio III
+[quest_title_1030450900101013] Combat :
+Dresseurs de Passio IV
+[quest_group_title_10291000000] Lucia
+[quest_group_title_10290000000] Aurel
+[quest_group_title_10049400000] Spectra (Saison 2023)
+[quest_group_title_10044400000] Roxanne (Saison 2023)
+[quest_group_title_10169000000] Aloé
+[quest_group_title_610062] Zone Plume Talent
+[quest_title_1030450900601010] Exercice Plume Talent
 
 ===========
 story_quest_name_it.lsd
@@ -20858,6 +21174,74 @@ story_quest_name_it.lsd
 [quest_group_title_10134000000] Palmer
 [quest_group_title_10203000000] Mara
 [quest_group_detail_100110] Uno scontro di ideali
+[quest_title_1040001400001011] Un giorno speciale con Giovanni (1ª parte)
+[quest_title_1040001400001021] Un giorno speciale con Giovanni (2ª parte)
+[quest_title_1030509000601010] Lotta con Unità di Johto in squadra! (Estremo)
+[quest_title_1030509000602010] Lotta con Unità di Hoenn in squadra! (Estremo)
+[quest_title_1030450900401010] VS Allenatori di Pasio
+[quest_title_1030450900402010] VS Allenatori di Pasio 2
+[quest_title_1030450900403010] VS Allenatori di Pasio 3
+[quest_title_1030450900404010] VS Allenatori di Pasio 4
+[quest_title_1030450900405010] VS Allenatori di Pasio 5
+[quest_title_1030450900406010] VS Allenatori di Pasio 6
+[quest_title_1030450900407010] VS Allenatori di Pasio 7
+[quest_title_1030450900408010] VS Allenatori di Pasio 8
+[quest_title_1030450900409010] VS Allenatori di Pasio 9
+[quest_title_1030509000603010] Un momento critico
+[quest_title_1030509000603020] Un'isola dove umani e Pokémon camminano fianco a fianco
+[quest_title_1030509000603060] VS Camilla
+[quest_title_1030509000603030] La studiosa dei miti
+[quest_title_1030509000603070] VS Camilla 2
+[quest_title_1030509000603040] Degni rivali
+[quest_title_1030509000603080] VS Camilla 3
+[quest_title_1030509000603050] Una nuova alba
+[quest_title_1030509000603090] VS Camilla 4
+[quest_title_1030509000603100] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030509000603110] Sfida ad alta difficoltà
+[quest_title_1030509000603120] Sfida ad alta difficoltà 2
+[quest_title_1030220291000000] Un giorno con Luce
+[quest_title_1030220290000000] Un giorno con Luca
+[quest_title_1030509000604010] Pokémon a nolo turbolenti
+[quest_title_1030509000604030] VS Spino e Savino
+[quest_title_1030509000604040] VS Spino e Savino 2
+[quest_title_1030509000604050] VS Spino e Savino 3
+[quest_title_1030509000604060] VS Spino e Savino 4
+[quest_title_1030509000604070] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030509000604020] I risultati dell'allenamento
+[quest_title_1030506000701011] VS Registeel
+[quest_title_1030506010701021] VS Registeel 2
+[quest_title_1030506020701031] VS Registeel 3
+[quest_title_1030509000605010] Dicerie spettrali
+[quest_title_1030509000605020] Lamenti singhiozzanti
+[quest_title_1030509000605080] VS Allenatori di Pasio
+[quest_title_1030509000605030] Reperti... problematici?
+[quest_title_1030509000605090] VS Allenatori di Pasio 2
+[quest_title_1030509000605040] Sogni d'oro, piccolina
+[quest_title_1030509000605100] VS Allenatori di Pasio 3
+[quest_title_1030509000605050] Un potere speciale per risolvere misteri
+[quest_title_1030509000605060] Sete di avventura e di conoscenza
+[quest_title_1030509000605070] Una fame da re
+[quest_title_1030509000605110] VS Allenatori di Pasio 4
+[quest_title_1030509000605120] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030509000605130] Sfida ad alta difficoltà
+[quest_title_1030509000605140] Sfida ad alta difficoltà 2
+[quest_title_1030220169000000] Un giorno con Aloé
+[quest_title_1030450900501010] Insieme agli amici di Galar
+[quest_title_1030450900502010] Insieme agli amici di Sinnoh
+[quest_title_1030450900503010] Insieme agli amici di Kalos
+[quest_title_1030450900504010] Insieme agli amici di Hoenn
+[quest_title_1030450900505010] Insieme agli amici di Unima
+[quest_title_1030450900101010] VS Allenatori di Pasio
+[quest_title_1030450900101011] VS Allenatori di Pasio 2
+[quest_title_1030450900101012] VS Allenatori di Pasio 3
+[quest_title_1030450900101013] VS Allenatori di Pasio 4
+[quest_group_title_10291000000] Luce
+[quest_group_title_10290000000] Luca
+[quest_group_title_10049400000] Ester (feste 2023)
+[quest_group_title_10044400000] Petra (feste 2023)
+[quest_group_title_10169000000] Aloé
+[quest_group_title_610062] Aree piume abilità
+[quest_title_1030450900601010] Allenamento piume abilità
 
 ===========
 story_quest_name_ja.lsd
@@ -24239,6 +24623,76 @@ story_quest_name_ja.lsd
 [quest_group_title_10134000000] クロツグ
 [quest_group_title_10203000000] ケイト
 [quest_group_detail_100110] 人の理想が交わる場所で
+[quest_title_1040001400001011] サカキとの特別な一日　前編
+[quest_title_1040001400001021] サカキとの特別な一日　後編
+[quest_title_1030509000601010] ジョウト編成でバトル！・超級
+[quest_title_1030509000602010] ホウエン編成でバトル！・超級
+[quest_title_1030450900401010] ＶＳ　パシオのトレーナー
+[quest_title_1030450900402010] ＶＳ　パシオのトレーナー２
+[quest_title_1030450900403010] ＶＳ　パシオのトレーナー３
+[quest_title_1030450900404010] ＶＳ　パシオのトレーナー４
+[quest_title_1030450900405010] ＶＳ　パシオのトレーナー５
+[quest_title_1030450900406010] ＶＳ　パシオのトレーナー６
+[quest_title_1030450900407010] ＶＳ　パシオのトレーナー７
+[quest_title_1030450900408010] ＶＳ　パシオのトレーナー８
+[quest_title_1030450900409010] ＶＳ　パシオのトレーナー９
+[quest_title_1030509000603010] 危機
+[quest_title_1030509000603020] ポケモンと共に歩む島
+[quest_title_1030509000603060] ＶＳ　シロナ
+[quest_title_1030509000603030] 神話の探究者
+[quest_title_1030509000603070] ＶＳ　シロナ２
+[quest_title_1030509000603040] 好敵手として……
+[quest_title_1030509000603080] ＶＳ　シロナ３
+[quest_title_1030509000603050] 次なる夜明けへ
+[quest_title_1030509000603090] ＶＳ　シロナ４
+[quest_title_1030509000603100] １日１回限定・高難度バトル！
+[quest_title_1030509000603110] チャレンジバトルで勝負！
+[quest_title_1030509000603120] チャレンジバトルで勝負！２
+[quest_title_1030220291000000] とある日のショウ
+[quest_title_1030220290000000] とある日のテル
+[quest_title_1030509000604010] 暴れん坊のレンタルポケモン
+[quest_title_1030509000604030] ＶＳ　ネジキとダツラ
+[quest_title_1030509000604040] ＶＳ　ネジキとダツラ２
+[quest_title_1030509000604050] ＶＳ　ネジキとダツラ３
+[quest_title_1030509000604060] ＶＳ　ネジキとダツラ４
+[quest_title_1030509000604070] １日１回限定・高難度バトル！
+[quest_title_1030509000604020] 訓練の成果は……？
+[quest_title_1030506000701011] ＶＳ　レジスチル
+[quest_title_1030506010701021] ＶＳ　レジスチル２
+[quest_title_1030506020701031] ＶＳ　レジスチル３
+[quest_title_1030509000605010] 不気味なウワサ
+[quest_title_1030509000605020] すすり泣く声
+[quest_title_1030509000605080] ＶＳ　パシオのトレーナー
+[quest_title_1030509000605030] いわくつきの展示品……？
+[quest_title_1030509000605090] ＶＳ　パシオのトレーナー２
+[quest_title_1030509000605040] もう　大丈夫
+[quest_title_1030509000605100] ＶＳ　パシオのトレーナー３
+[quest_title_1030509000605050] 事件を解決する力
+[quest_title_1030509000605060] 探求者たちの興味
+[quest_title_1030509000605070] 好物は王の証
+[quest_title_1030509000605110] ＶＳ　パシオのトレーナー４
+[quest_title_1030509000605120] １日１回限定・高難度バトル！
+[quest_title_1030509000605130] チャレンジバトルで勝負！
+[quest_title_1030509000605140] チャレンジバトルで勝負！２
+[quest_title_1030220169000000] とある日のアロエ
+[quest_title_1030450900501010] ガラルの仲間と挑戦
+[quest_title_1030450900502010] シンオウの仲間と挑戦
+[quest_title_1030450900503010] カロスの仲間と挑戦
+[quest_title_1030450900504010] ホウエンの仲間と挑戦
+[quest_title_1030450900505010] イッシュの仲間と挑戦
+[quest_title_1030450900101010] ＶＳ　パシオのトレーナー
+[quest_title_1030450900101011] ＶＳ　パシオのトレーナー２
+[quest_title_1030450900101012] ＶＳ　パシオのトレーナー３
+[quest_title_1030450900101013] ＶＳ　パシオのトレーナー４
+[quest_group_title_10291000000] ショウ
+[quest_group_title_10290000000] テル
+[quest_group_title_10049400000] フヨウ
+（２３シーズン）
+[quest_group_title_10044400000] ツツジ
+（２３シーズン）
+[quest_group_title_10169000000] アロエ
+[quest_group_title_610062] スキルフェザーエリア
+[quest_title_1030450900601010] スキルフェザーの鍛錬
 
 ===========
 story_quest_name_ko.lsd
@@ -27619,6 +28073,76 @@ story_quest_name_ko.lsd
 [quest_group_title_10134000000] 종수
 [quest_group_title_10203000000] 맨드라
 [quest_group_detail_100110] 사람의 이상이 교차하는 곳에서
+[quest_title_1040001400001011] 비주기와의 특별한 하루 전편
+[quest_title_1040001400001021] 비주기와의 특별한 하루 후편
+[quest_title_1030509000601010] 성도지방 편성으로 배틀! 특급
+[quest_title_1030509000602010] 호연지방 편성으로 배틀! 특급
+[quest_title_1030450900401010] VS 파시오의 트레이너
+[quest_title_1030450900402010] VS 파시오의 트레이너2
+[quest_title_1030450900403010] VS 파시오의 트레이너3
+[quest_title_1030450900404010] VS 파시오의 트레이너4
+[quest_title_1030450900405010] VS 파시오의 트레이너5
+[quest_title_1030450900406010] VS 파시오의 트레이너6
+[quest_title_1030450900407010] VS 파시오의 트레이너7
+[quest_title_1030450900408010] VS 파시오의 트레이너8
+[quest_title_1030450900409010] VS 파시오의 트레이너9
+[quest_title_1030509000603010] 위기
+[quest_title_1030509000603020] 포켓몬과 함께 걷는 섬
+[quest_title_1030509000603060] VS 난천
+[quest_title_1030509000603030] 신화를 탐구하는 자
+[quest_title_1030509000603070] VS 난천2
+[quest_title_1030509000603040] 호적수로서...
+[quest_title_1030509000603080] VS 난천3
+[quest_title_1030509000603050] 다음 여명으로
+[quest_title_1030509000603090] VS 난천4
+[quest_title_1030509000603100] 1일 1회 한정 고난도 배틀!
+[quest_title_1030509000603110] 챌린지배틀로 승부!
+[quest_title_1030509000603120] 챌린지배틀로 승부!2
+[quest_title_1030220291000000] 윤슬의 어느 날
+[quest_title_1030220290000000] 영빈의 어느 날
+[quest_title_1030509000604010] 난폭한 렌탈 포켓몬
+[quest_title_1030509000604030] VS 수철, 다투라
+[quest_title_1030509000604040] VS 수철, 다투라2
+[quest_title_1030509000604050] VS 수철, 다투라3
+[quest_title_1030509000604060] VS 수철, 다투라4
+[quest_title_1030509000604070] 1일 1회 한정 고난도 배틀!
+[quest_title_1030509000604020] 훈련의 성과는...?
+[quest_title_1030506000701011] VS 레지스틸
+[quest_title_1030506010701021] VS 레지스틸2
+[quest_title_1030506020701031] VS 레지스틸3
+[quest_title_1030509000605010] 불길한 소문
+[quest_title_1030509000605020] 흐느껴 우는 소리
+[quest_title_1030509000605080] VS 파시오의 트레이너
+[quest_title_1030509000605030] 사연이 있는 전시품...?
+[quest_title_1030509000605090] VS 파시오의 트레이너2
+[quest_title_1030509000605040] 이제 괜찮아
+[quest_title_1030509000605100] VS 파시오의 트레이너3
+[quest_title_1030509000605050] 사건을 해결하는 힘
+[quest_title_1030509000605060] 탐구자들의 흥미
+[quest_title_1030509000605070] 그것은 왕의 증거
+[quest_title_1030509000605110] VS 파시오의 트레이너4
+[quest_title_1030509000605120] 1일 1회 한정 고난도 배틀!
+[quest_title_1030509000605130] 챌린지배틀로 승부!
+[quest_title_1030509000605140] 챌린지배틀로 승부!2
+[quest_title_1030220169000000] 알로에의 어느 날
+[quest_title_1030450900501010] 가라르지방 동료들과 도전
+[quest_title_1030450900502010] 신오지방 동료들과 도전
+[quest_title_1030450900503010] 칼로스지방 동료들과 도전
+[quest_title_1030450900504010] 호연지방 동료들과 도전
+[quest_title_1030450900505010] 하나지방 동료들과 도전
+[quest_title_1030450900101010] VS 파시오의 트레이너
+[quest_title_1030450900101011] VS 파시오의 트레이너2
+[quest_title_1030450900101012] VS 파시오의 트레이너3
+[quest_title_1030450900101013] VS 파시오의 트레이너4
+[quest_group_title_10291000000] 윤슬
+[quest_group_title_10290000000] 영빈
+[quest_group_title_10049400000] 회연
+(23시즌)
+[quest_group_title_10044400000] 원규
+(23시즌)
+[quest_group_title_10169000000] 알로에
+[quest_group_title_610062] 스킬 페더 에리어
+[quest_title_1030450900601010] 스킬 페더의 단련
 
 ===========
 story_quest_name_zh-TW.lsd
@@ -30999,6 +31523,76 @@ story_quest_name_zh-TW.lsd
 [quest_group_title_10134000000] 桄榔
 [quest_group_title_10203000000] 青葙
 [quest_group_detail_100110] 人們的理想交會之地
+[quest_title_1040001400001011] 與阪木的特別日子　前篇
+[quest_title_1040001400001021] 與阪木的特別日子　後篇
+[quest_title_1030509000601010] 編制城都隊伍來對戰！・超級
+[quest_title_1030509000602010] 編制豐緣隊伍來對戰！・超級
+[quest_title_1030450900401010] ＶＳ　帕希歐的訓練家
+[quest_title_1030450900402010] ＶＳ　帕希歐的訓練家２
+[quest_title_1030450900403010] ＶＳ　帕希歐的訓練家３
+[quest_title_1030450900404010] ＶＳ　帕希歐的訓練家４
+[quest_title_1030450900405010] ＶＳ　帕希歐的訓練家５
+[quest_title_1030450900406010] ＶＳ　帕希歐的訓練家６
+[quest_title_1030450900407010] ＶＳ　帕希歐的訓練家７
+[quest_title_1030450900408010] ＶＳ　帕希歐的訓練家８
+[quest_title_1030450900409010] ＶＳ　帕希歐的訓練家９
+[quest_title_1030509000603010] 危機
+[quest_title_1030509000603020] 與寶可夢並肩而行的島嶼
+[quest_title_1030509000603060] ＶＳ　竹蘭
+[quest_title_1030509000603030] 神話的探究者
+[quest_title_1030509000603070] ＶＳ　竹蘭２
+[quest_title_1030509000603040] 作為好對手……
+[quest_title_1030509000603080] ＶＳ　竹蘭３
+[quest_title_1030509000603050] 邁向下一個黎明
+[quest_title_1030509000603090] ＶＳ　竹蘭４
+[quest_title_1030509000603100] １天僅限１次的高難度對戰！
+[quest_title_1030509000603110] 用挑戰對戰決勝負！
+[quest_title_1030509000603120] 用挑戰對戰決勝負！２
+[quest_title_1030220291000000] 某日的小照
+[quest_title_1030220290000000] 某日的明耀
+[quest_title_1030509000604010] 火爆的租用寶可夢
+[quest_title_1030509000604030] ＶＳ　捩木與達拉
+[quest_title_1030509000604040] ＶＳ　捩木與達拉２
+[quest_title_1030509000604050] ＶＳ　捩木與達拉３
+[quest_title_1030509000604060] ＶＳ　捩木與達拉４
+[quest_title_1030509000604070] １天僅限１次的高難度對戰！
+[quest_title_1030509000604020] 訓練的成果是……？
+[quest_title_1030506000701011] ＶＳ　雷吉斯奇魯
+[quest_title_1030506010701021] ＶＳ　雷吉斯奇魯２
+[quest_title_1030506020701031] ＶＳ　雷吉斯奇魯３
+[quest_title_1030509000605010] 詭異的傳聞
+[quest_title_1030509000605020] 啜泣聲
+[quest_title_1030509000605080] ＶＳ　帕希歐的訓練家
+[quest_title_1030509000605030] 有問題的展示品……？
+[quest_title_1030509000605090] ＶＳ　帕希歐的訓練家２
+[quest_title_1030509000605040] 已經沒事了
+[quest_title_1030509000605100] ＶＳ　帕希歐的訓練家３
+[quest_title_1030509000605050] 解決事件的能力
+[quest_title_1030509000605060] 探索者們的好奇心
+[quest_title_1030509000605070] 最愛吃的是王族的象徵
+[quest_title_1030509000605110] ＶＳ　帕希歐的訓練家４
+[quest_title_1030509000605120] １天僅限１次的高難度對戰！
+[quest_title_1030509000605130] 用挑戰對戰決勝負！
+[quest_title_1030509000605140] 用挑戰對戰決勝負！２
+[quest_title_1030220169000000] 某日的蘆薈
+[quest_title_1030450900501010] 與伽勒爾的夥伴一起挑戰
+[quest_title_1030450900502010] 與神奧的夥伴一起挑戰
+[quest_title_1030450900503010] 與卡洛斯的夥伴一起挑戰
+[quest_title_1030450900504010] 與豐緣的夥伴一起挑戰
+[quest_title_1030450900505010] 與合眾的夥伴一起挑戰
+[quest_title_1030450900101010] ＶＳ　帕希歐的訓練家
+[quest_title_1030450900101011] ＶＳ　帕希歐的訓練家２
+[quest_title_1030450900101012] ＶＳ　帕希歐的訓練家３
+[quest_title_1030450900101013] ＶＳ　帕希歐的訓練家４
+[quest_group_title_10291000000] 小照
+[quest_group_title_10290000000] 明耀
+[quest_group_title_10049400000] 芙蓉
+（２０２３秋季）
+[quest_group_title_10044400000] 杜娟
+（２０２３秋季）
+[quest_group_title_10169000000] 蘆薈
+[quest_group_title_610062] 技能羽毛區域
+[quest_title_1030450900601010] 技能羽毛鍛鍊
 
 ===========
 trainer_description_de.lsd
@@ -32159,6 +32753,36 @@ Tages ein Pokémon werden.
 [10051000001] Eine Inselkönigin, die in Alola für ihre Stärke im Kampf
 sowie ihre fürsorgliche Art geschätzt wird. In ihrem
 Juweliergeschäft gibt es auch Fossilien.
+[10291000000] Diese Trainerin ist Teil des Forschungstrupps der
+Galaktik-Expedition in Hisui. Als Lumius’ Mitstreiterin
+strebt sie an, ihm eine ebenbürtige Gegnerin zu sein.
+Sie arbeitet gern mit natürlichen Materialien.
+[10290000000] Dieser Trainer ist Teil des Forschungstrupps der
+Galaktik-Expedition in Hisui. Die Lücken in seiner
+Erinnerung sind vermutlich auf seine Reise durch Raum
+und Zeit zurückzuführen, welche für seine Ankunft in Hisui
+verantwortlich war.
+[10049400000] In ihrem schaurig-schönen Outfit ist Antonia eines Nachts
+einem mysteriösen Phänomen im Museum auf den Grund
+gegangen und hat sich im Zuge dieses Abenteuers mit
+Echnatoll angefreundet.
+[10044400000] Felizia trägt ein schaurig-schönen Outfit. Da sie sich sehr
+für Mineralien und Fossilien interessiert, ist sie äußerst
+fasziniert von Oghnatoll und dessen Zusammensetzung.
+[10169000000] Die Direktorin des Museums von Septerna City in Einall
+fungierte zuvor als Arenaleiterin, die sich auf Pokémon
+vom Typ Normal spezialisierte. Aufgrund ihrer zahlreichen
+Verpflichtungen gab sie jenen Posten jedoch an Cheren
+weiter.
+[10041000001] Der Leiter der Kampffabrik verbindet seine Gabe zur
+Analyse von Herausforderern mit seiner Stärke, an der
+Seite eines jeden Pokémon kämpfen zu können.
+[10046000001] Eine Kampfkoryphäe hinter einer harten Schale, die
+Gegnern mit Leidenschaft begegnet. Er verfügt als
+Kampffabrikleiter über immenses Pokémon-Wissen.
+[10140000002] Er ist der Anführer von Team Rainbow Rocket, einer
+Organisation, die mithilfe von Pokémon die Weltherrschaft
+an sich reißen will. Pokémon sind für ihn nur Werkzeuge.
 
 ===========
 trainer_description_en.lsd
@@ -33156,7 +33780,7 @@ Paulo’s childhood friend, and they challenge each other
 as rivals. She cherishes the time she spends with her
 Pokémon more than anything.
 [10141000000] A prideful executive of Team Rocket, he once took action
-and lead Team Rocket in Johto to bring back Giovanni,
+and led Team Rocket in Johto to bring back Giovanni,
 who had disappeared.
 [10142000000] This very headstrong Team Rocket executive believes
 power should be used for evil. She believes strongly in
@@ -33189,6 +33813,31 @@ that someday she could become a Pokémon.
 [10051000001] This kahuna is trusted like a big sister by her island’s
 residents, thanks to her compassion and strength in battle.
 The jewelry shop she runs also handles fossils.
+[10291000000] This Trainer belongs to the Survey Corps of Hisui’s Galaxy
+Expedition Team. She is Rei’s teammate and wants to be
+a worthy opponent to him. She’s also good at crafting
+with natural materials.
+[10290000000] This Trainer belongs to the Survey Corps of Hisui’s Galaxy
+Expedition Team. His memories of the past are hazy,
+possibly because he arrived in Hisui by traveling through
+time and space.
+[10049400000] Dressed in a spooky outfit, Phoebe solved a mystery in the
+museum at night and became friends with Cofagrigus.
+[10044400000] Dressed in a spooky outfit, Roxanne seems to be curious
+about Runerigus because of her interest in minerals
+and fossils.
+[10169000000] This director of Unova’s Nacrene Museum has handed over
+her position as a Normal-type Gym Leader to Cheren due
+to her busy schedule.
+[10041000001] He analyzes his opponents, and his knowledge of and
+skills with any Pokémon are the real deal. As Factory
+Head, he battles challengers.
+[10046000001] Known for being a bit gruff, this Frontier Brain takes on
+Trainers and Pokémon with passion. As Factory Head,
+he also has deep knowledge of Pokémon.
+[10140000002] This leader of the expansive Team Rainbow Rocket
+enterprise, which aims to use Pokémon to rule the world,
+believes Pokémon are no more than tools.
 
 ===========
 trainer_description_es.lsd
@@ -34399,6 +35048,32 @@ con la esperanza de convertirse en uno algún día.
 [10051000001] Kahuna amada y respetada por su fuerza y su carácter
 compasivo. Es dueña de una joyería en la que vende
 piedras y fósiles.
+[10291000000] Esta Entrenadora pertenece a la división de investigación
+del Equipo Galaxia en la región de Hisui. Es la leal
+mentora de Luka y quiere ser una rival digna de él.
+Se le da muy bien crear objetos con materiales naturales.
+[10290000000] Este Entrenador forma parte de la división de investigación
+del Equipo Galaxia en la región de Hisui. Sus recuerdos
+están algo borrosos, probablemente por haber llegado a
+Hisui viajando a través del tiempo y el espacio.
+[10049400000] Vestida con un aterrador traje, Fátima ha resuelto un
+misterio nocturno en el museo y, de paso, ha hecho
+buenas migas con Cofagrigus.
+[10044400000] Petra, vestida con un traje espeluznante, muestra mucha
+curiosidad por Runerigus, debido a su interés en minerales
+y fósiles.
+[10169000000] Debido a su apretada agenda, la conservadora del Museo
+Esmalte de Teselia ha dejado su puesto de Líder de
+Gimnasio de tipo Normal en manos de Cheren.
+[10041000001] El Jefe de la Fábrica Batalla. Combina sus vastos
+conocimientos con su capacidad de analizar al rival,
+lo que le permite combatir con cualquier Pokémon.
+[10046000001] As del Frente de Batalla con aire de tipo duro y pasión
+por los Pokémon y los combates. Como Jefe de la
+Fábrica Batalla, sabe mucho acerca de los Pokémon.
+[10140000002] Líder del Team Rainbow Rocket, una organización criminal
+que pretende valerse de los Pokémon para dominar el
+mundo. Ve a los Pokémon como meras herramientas.
 
 ===========
 trainer_description_fr.lsd
@@ -35560,6 +36235,33 @@ devenir un Pokémon.
 [10051000001] Cette Doyenne aimée pour sa force en combat Pokémon
 et sa grande générosité tient une joaillerie et collectionne
 les fossiles.
+[10291000000] Cette Dresseuse est membre du Corps des Chercheurs
+du Groupe Galaxie de Hisui. Elle veut être une adversaire
+à la hauteur de son collègue, Aurel. Elle est aussi douée
+pour bricoler avec des matériaux naturels.
+[10290000000] Ce Dresseur est membre du Corps des Chercheurs
+du Groupe Galaxie de Hisui. Ses souvenirs du passé
+sont confus, ce qui est peut-être dû au fait qu'il est
+arrivé à Hisui en traversant le temps et l'espace.
+[10049400000] Vêtue d'un costume mystérieux, Spectra a levé le voile
+sur un étrange phénomène se manifestant au musée
+une fois la nuit tombée, et s'est liée d'amitié
+avec Tutankafer.
+[10044400000] Vêtue d'un costume mystérieux, Roxanne semble intriguée
+par la composition de Tutétékri, en raison de sa passion
+pour les minéraux et fossiles.
+[10169000000] Dû à son emploi du temps bien chargé, la conservatrice
+du musée de Maillard d'Unys a délégué sa position
+de Championne d'Arène de type Normal à Tcheren.
+[10041000001] Chef d'Usine à la Zone de Combat, ses vastes
+connaissances et son esprit d'analyse lui permettent
+d'utiliser n'importe quel Pokémon.
+[10046000001] Un Meneur de la Zone de Combat dont l'aspect rustre
+cache un vaste savoir et une grande passion
+pour les Pokémon et leurs Dresseurs.
+[10140000002] Le chef de la Team Rainbow Rocket, une organisation
+criminelle voulant utiliser les Pokémon pour conquérir
+le monde. Il considère les Pokémon comme des objets.
 
 ===========
 trainer_description_it.lsd
@@ -35844,7 +36546,7 @@ in gamba. È il nonno di Blu.
 di Alola. Controlla e si prende cura dei suoi sottoposti, 
 che lo ricambiano con una fiducia incondizionata.
 [10121000000] Ufficiale del Team Skull vista dal gruppo come una
-sorta di sorella maggiore. Coccola le reclute e non
+sorta di sorella maggiore. Coccola le Reclute e non
 sopporta che i suoi subalterni vengano maltrattati.
 [10131000000] Capopalestra di Luminopoli, ha una grande passione per
 le invenzioni. Aiuta molti Allenatori con le sue scoperte
@@ -36694,6 +37396,31 @@ i suoi abiti spinta dal desiderio di diventare un Pokémon.
 [10051000001] Kahuna molto amata per la grande abilità con i Pokémon
 e per il carattere premuroso.
 Vende fossili e pietre nella sua gioielleria.
+[10291000000] Allenatrice appartenente alla Squadra di ricerca del Team
+Galassia di Hisui. È mentore di Luca e vuole essere per
+lui una rivale degna di questo nome. È abile nell'uso di
+materiali naturali per il faidaté.
+[10290000000] Allenatore appartenente alla Squadra di ricerca del Team
+Galassia di Hisui. Il viaggio attraverso lo spazio e il tempo
+che lo ha condotto a Hisui ha reso confusi i suoi ricordi.
+[10049400000] Vestita in abiti spettrali, Ester ha svelato il mistero
+del museo di notte e ha fatto amicizia con Cofagrigus.
+[10044400000] Petra indossa un costume misterioso. Sembra che
+il suo interesse verso minerali e fossili abbia stimolato
+la sua curiosità nei confronti della composizione
+del corpo di Runerigus.
+[10169000000] Direttrice del Museo di Zefiropoli a Unima, per via
+dei molti impegni, ha ceduto a Komor il ruolo di
+Capopalestra del tipo Normale.
+[10041000001] È il Boss dell'Azienda Lotta. Le sue eccelse abilità
+di analisi gli permettono di capire che Pokémon schierare
+contro ogni sfidante.
+[10046000001] Un Asso del Parco un po' brusco ma con un grande
+amore per i Pokémon. Come Boss dell'Azienda
+conosce molto a fondo i Pokémon.
+[10140000002] Capo del Team Rainbow Rocket, una vasta organizzazione
+che mira a conquistare il mondo servendosi di tutti
+i Pokémon. Considera i Pokémon come degli strumenti.
 
 ===========
 trainer_description_ja.lsd
@@ -37718,6 +38445,30 @@ trainer_description_ja.lsd
 [10051000001] ポケモン勝負が　強く　情に厚い　姉御肌のため
 島の住民からの　信頼が　厚い　しまクイーン。
 彼女が営む　ジュエリーショップでは　化石も扱う。
+[10291000000] ヒスイ地方のギンガ団調査隊に　所属している　少女。
+テルの先輩であり　好敵手でありたいと　思っている。
+自然の素材から　物を作る　「クラフト」が　得意。
+[10290000000] ヒスイ地方のギンガ団調査隊に　所属している　少年。
+ヒスイ地方へは　時空を超えて　やってきたが
+その影響からか　過去の　記憶が　おぼろげ。
+[10049400000] ミステリアスな　衣装を　着た　フヨウ。
+夜の　ミュージアムで　起きた　怪異を　解決し
+デスカーンと　ともだちに　なった。
+[10044400000] ミステリアスな　衣装を　着た　ツツジ。
+鉱石や　化石が　好きな　ツツジとしては
+デスバーンの　身体が　気になる　様子。
+[10169000000] イッシュ地方の　シッポウ博物館　館長。
+ノーマルタイプの　ジムリーダーだったが　忙しさから
+今は　チェレンに　その座を　譲っている。
+[10041000001] 相手を　分析したり　どんな　ポケモンでも
+使いこなす　その実力と　知識は　本物。
+ファクトリーヘッドとして　挑戦者と　戦っている。
+[10046000001] 少々　強面で　口調も荒いが　熱心に　ポケモンや
+トレーナーと　向き合う　フロンティアブレーン。
+ファクトリーヘッドとして　ポケモンの知識も　深い。
+[10140000002] すべての　ポケモンを　利用して　世界を
+支配しようと　企む　大組織　レインボーロケット団の
+リーダー。　ポケモンは　道具と　考えている。
 
 ===========
 trainer_description_ko.lsd
@@ -38741,6 +39492,30 @@ WPM 운영위원회의 대표도 맡고 있다.
 [10051000001] 포켓몬 승부에 강하고 정이 많은 여장부로
 섬의 주민들로부터 깊이 신뢰받는 섬의 여왕이다.
 그녀가 경영하는 주얼리숍에서는 화석도 취급한다.
+[10291000000] 히스이지방의 은하단 조사대에 소속된 소녀.
+영빈의 선배이며 그의 호적수로 있으려 한다.
+자연에서 얻은 소재로 물건을 만드는 "공작"이 특기.
+[10290000000] 히스이지방의 은하단 조사대에 소속된 소년.
+시공을 뛰어넘어 히스이지방에 오게 됐지만
+그 영향 때문인지 과거의 기억이 흐릿하다.
+[10049400000] 미스테리어스한 의상을 입은 회연.
+밤의 뮤지엄에서 일어난 괴이한 사건을 해결하고
+데스니칸과 친구가 되었다.
+[10044400000] 미스테리어스한 의상을 입은 원규.
+광석과 화석을 좋아하는 원규는
+데스판의 몸이 궁금한 듯하다.
+[10169000000] 하나지방에 있는 칠보박물관의 관장.
+노말타입 체육관 관장이었지만 바빠서
+현재는 체렌에게 자리를 물려주었다.
+[10041000001] 상대를 분석하고 어떤 포켓몬이라도
+능숙하게 다루는 그의 실력과 지식은 진짜배기다.
+팩토리책임자로서 도전자와 승부하고 있다.
+[10046000001] 조금 무섭게 생겼고 말투가 거칠지만 열성적으로
+포켓몬과 트레이너를 대하는 프런티어브레인.
+팩토리책임자로 포켓몬에 대한 지식도 풍부하다.
+[10140000002] 모든 포켓몬을 이용해서 세계 정복을 꾸미는
+거대 조직 레인보우로켓단의 리더.
+포켓몬을 도구라고 생각하고 있다.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -39764,6 +40539,30 @@ trainer_description_zh-TW.lsd
 [10051000001] 寶可夢對戰實力堅強，注重情誼的島嶼女王。
 大姊大般的個性，使她深受島上居民的信賴。
 她經營的寶石店裡也有販賣化石。
+[10291000000] 屬於洗翠地區銀河隊調查組的少女。
+身為前輩的她期許自己可以是明耀的好勁敵。
+擅長用天然材料製作物品的「工藝製作」。
+[10290000000] 屬於洗翠地區銀河隊調查組的少年。
+他跨越時空去到了洗翠地區，但不知是否
+是受此影響，對過去的記憶很模糊。
+[10049400000] 身穿神秘風格服裝的芙蓉。
+她解決了夜晚的博物館發生的詭異現象，
+並和死神棺成為了朋友。
+[10044400000] 身穿神秘風格服裝的杜娟。
+喜歡礦石和化石的她
+似乎對死神板的身體充滿了好奇。
+[10169000000] 合眾地區七寶博物館的館長。
+她曾是一般屬性的道館館主，
+但出於忙碌，目前把館主之位讓給了黑連。
+[10041000001] 擅長分析對手，擁有豐富知識，以及不管
+任何寶可夢都能使用得遊刃有餘的實力。
+會以工廠頭目的身分與挑戰者對戰。
+[10046000001] 長相嚇人，口氣粗魯，但卻是個滿懷熱心
+去對待訓練家和寶可夢的開拓頭腦。
+他身為工廠頭目，擁有淵博的寶可夢知識。
+[10140000002] 是企圖利用所有寶可夢來統治世界的
+巨大組織「彩虹火箭隊」的老大。
+他認為寶可夢是一種道具。
 
 ===========
 trainer_name_de.lsd
@@ -39928,6 +40727,7 @@ trainer_name_de.lsd
 [ch0160] Tracy
 [ch0161] Hala
 [ch0162] Lucius
+[ch0169] Aloe
 [ch0170] Artie
 [ch0171] Hartwig
 [ch0175] Astrid
@@ -40019,6 +40819,8 @@ trainer_name_de.lsd
 [ch0263] Olivia
 [ch0280] Yell Rüpel
 [ch0281] Yell Rüpel
+[ch0290] Lumius
+[ch0291] Lumia
 
 ===========
 trainer_name_en.lsd
@@ -40183,6 +40985,7 @@ trainer_name_en.lsd
 [ch0160] Lana
 [ch0161] Hala
 [ch0162] Lucas
+[ch0169] Lenora
 [ch0170] Burgh
 [ch0171] Chuck
 [ch0175] Olympia
@@ -40274,6 +41077,8 @@ trainer_name_en.lsd
 [ch0263] Oleana
 [ch0280] Team Yell Grunt
 [ch0281] Team Yell Grunt
+[ch0290] Rei
+[ch0291] Akari
 
 ===========
 trainer_name_es.lsd
@@ -40438,6 +41243,7 @@ trainer_name_es.lsd
 [ch0160] Nereida
 [ch0161] Kaudan
 [ch0162] León
+[ch0169] Aloe
 [ch0170] Camus
 [ch0171] Aníbal
 [ch0175] Ástrid
@@ -40529,6 +41335,8 @@ trainer_name_es.lsd
 [ch0263] Olivia
 [ch0280] Recluta del Team Yell
 [ch0281] Recluta del Team Yell
+[ch0290] Luka
+[ch0291] Kira
 
 ===========
 trainer_name_fr.lsd
@@ -40693,6 +41501,7 @@ trainer_name_fr.lsd
 [ch0160] Néphie
 [ch0161] Pectorius
 [ch0162] Louka
+[ch0169] Aloé
 [ch0170] Artie
 [ch0171] Chuck
 [ch0175] Astera
@@ -40784,6 +41593,8 @@ trainer_name_fr.lsd
 [ch0263] Liv
 [ch0280] Sbire Team Yell
 [ch0281] Sbire Team Yell
+[ch0290] Aurel
+[ch0291] Lucia
 
 ===========
 trainer_name_it.lsd
@@ -40948,6 +41759,7 @@ trainer_name_it.lsd
 [ch0160] Suiren
 [ch0161] Hala
 [ch0162] Lucas
+[ch0169] Aloé
 [ch0170] Artemisio
 [ch0171] Furio
 [ch0175] Astra
@@ -41039,6 +41851,8 @@ trainer_name_it.lsd
 [ch0263] Olive
 [ch0280] Recluta del Team Yell
 [ch0281] Recluta del Team Yell
+[ch0290] Luca
+[ch0291] Luce
 
 ===========
 trainer_name_ja.lsd
@@ -41203,6 +42017,7 @@ trainer_name_ja.lsd
 [ch0160] スイレン
 [ch0161] ハラ
 [ch0162] コウキ
+[ch0169] アロエ
 [ch0170] アーティ
 [ch0171] シジマ
 [ch0175] ゴジカ
@@ -41294,6 +42109,8 @@ trainer_name_ja.lsd
 [ch0263] オリーヴ
 [ch0280] エールだんの　したっぱ
 [ch0281] エールだんの　したっぱ
+[ch0290] テル
+[ch0291] ショウ
 
 ===========
 trainer_name_ko.lsd
@@ -41458,6 +42275,7 @@ trainer_name_ko.lsd
 [ch0160] 수련
 [ch0161] 할라
 [ch0162] 광휘
+[ch0169] 알로에
 [ch0170] 아티
 [ch0171] 사도
 [ch0175] 고지카
@@ -41549,6 +42367,8 @@ trainer_name_ko.lsd
 [ch0263] 올리브
 [ch0280] 옐단의 조무래기
 [ch0281] 옐단의 조무래기
+[ch0290] 영빈
+[ch0291] 윤슬
 
 ===========
 trainer_name_zh-TW.lsd
@@ -41713,6 +42533,7 @@ trainer_name_zh-TW.lsd
 [ch0160] 水蓮
 [ch0161] 哈拉
 [ch0162] 明輝
+[ch0169] 蘆薈
 [ch0170] 亞堤
 [ch0171] 阿四
 [ch0175] 葛吉花
@@ -41804,6 +42625,8 @@ trainer_name_zh-TW.lsd
 [ch0263] 奧利薇
 [ch0280] 吶喊隊手下
 [ch0281] 吶喊隊手下
+[ch0290] 明耀
+[ch0291] 小照
 
 ===========
 trainer_verbose_name_de.lsd
@@ -41991,6 +42814,10 @@ trainer_verbose_name_de.lsd
 [10031400000] Ben 
 (Saison 2023)
 [10030400000] Svenja 
+(Saison 2023)
+[10049400000] Antonia 
+(Saison 2023)
+[10044400000] Felizia 
 (Saison 2023)
 [10000900000] Rot 
 (Neo-Champ)
@@ -42196,6 +43023,10 @@ Acerola
 (Summer 2023)
 [10030400000] Liza 
 (Summer 2023)
+[10049400000] Phoebe 
+(Fall 2023)
+[10044400000] Roxanne 
+(Fall 2023)
 [10000900000] Red 
 (Champion)
 [10021900001] Blue 
@@ -42369,6 +43200,10 @@ con Kimono)
 [10031400000] Vito 
 (Temporada 23)
 [10030400000] Leti 
+(Temporada 23)
+[10049400000] Fátima 
+(Temporada 23)
+[10044400000] Petra 
 (Temporada 23)
 [10000900000] Rojo 
 (Neocampeón)
@@ -42558,6 +43393,10 @@ trainer_verbose_name_fr.lsd
 [10031400000] Lévy
 (Saison 2023)
 [10030400000] Tatia
+(Saison 2023)
+[10049400000] Spectra 
+(Saison 2023)
+[10044400000] Roxanne 
 (Saison 2023)
 [10000900000] Red 
 (Néo-Maître)
@@ -42754,6 +43593,10 @@ trainer_verbose_name_it.lsd
 (feste 2023)
 [10030400000] Pat 
 (feste 2023)
+[10049400000] Ester 
+(feste 2023)
+[10044400000] Petra 
+(feste 2023)
 [10000900000] Rosso 
 (Campione)
 [10021900001] Blu 
@@ -42948,6 +43791,10 @@ trainer_verbose_name_ja.lsd
 [10031400000] フウ
 （２３シーズン）
 [10030400000] ラン
+（２３シーズン）
+[10049400000] フヨウ
+（２３シーズン）
+[10044400000] ツツジ
 （２３シーズン）
 [10000900000] レッド
 （チャンピオン）
@@ -43144,6 +43991,10 @@ trainer_verbose_name_ko.lsd
 (23시즌)
 [10030400000] 란
 (23시즌)
+[10049400000] 회연
+(23시즌)
+[10044400000] 원규
+(23시즌)
 [10000900000] 레드
 (챔피언)
 [10021900001] 그린
@@ -43339,6 +44190,10 @@ trainer_verbose_name_zh-TW.lsd
 （２０２３夏季）
 [10030400000] 小南
 （２０２３夏季）
+[10049400000] 芙蓉
+（２０２３秋季）
+[10044400000] 杜娟
+（２０２３秋季）
 [10000900000] 赤紅
 （冠軍）
 [10021900001] 青綠
@@ -43384,6 +44239,10 @@ common_widget_de.lsd
 [common_widget/cell_048] [Digit:3digits ] Siege in Folge
 [common_widget/cell_049] Nach [Digit:3digits ] Siegen in Folge
 [common_widget/cell_050] Hauptpreis
+[common_widget/cell_051] ＋ [Digit:8digits ]
+[common_widget/cell_052] 
+[common_widget/cell_053] 
+[common_widget/cell_056] [Digit:6digits ] - [Digit:6digits Idx="1" ]
 [common_widget/button_001] OK
 [common_widget/button_002] Ja
 [common_widget/button_003] Nein
@@ -43403,6 +44262,7 @@ common_widget_de.lsd
 [common_widget/button_017] Erhältliche Glücksfähigkeiten
 [common_widget/button_018] Detailliert
 [common_widget/button_019] Einfach
+[common_widget/button_020] Was freigeschaltet wird
 [common_widget/loading_001] Ladevorgang...
 [common_widget/loading_002] Los!
 [common_widget/loading_003] Verbindet...
@@ -43582,9 +44442,31 @@ indem du das folgende Item einsetzt:
 [common_widget/dialog_109] Das Datum hat sich geändert. Du kehrst
 ins Pokémon-Center zurück.
 [common_widget/dialog_110] [Name:HeroCustomizeCategory ]: [Name:HeroCustomizeParts ]
-[common_widget/dialog_111] Du erhältst [Name:HeroCustomizeCategory ]: [Name:HeroCustomizeParts ]
+[common_widget/dialog_111] Du erhältst
+[Name:HeroCustomizeCategory ]: [Name:HeroCustomizeParts ]
 [common_widget/dialog_112] Du hast keine Items.
 [common_widget/dialog_113] Du hast keine entsprechenden Items.
+[common_widget/dialog_114] Werterhöhungen erfolgen zufällig und
+im Rahmen der aufgeführten Intervalle.
+[common_widget/dialog_115] Jede Ausrüstungskategorie schaltet unterschiedliche
+Werterhöhungen frei.
+[common_widget/dialog_116] Die folgenden Fähigkeiten können zufällig
+freigeschaltet werden.
+[common_widget/dialog_117] Garantierte Fähigkeiten werden immer freigeschaltet.
+Es ist nicht möglich, Attribute einzusehen, die noch nicht
+freigeschaltet wurden.
+[common_widget/dialog_118] Garantierte Fähigkeiten werden immer freigeschaltet.
+Es ist nicht möglich, Zusatzeffekte einzusehen, die noch
+nicht freigeschaltet wurden.
+[common_widget/dialog_119] Statuswerte
+[common_widget/dialog_120] Attribute
+[common_widget/dialog_121] Zusatzeffekte
+[common_widget/dialog_122] Garantiert
+[common_widget/dialog_123] Normal
+[common_widget/dialog_124] Item-Tausch (Standard)
+[common_widget/dialog_125] Item-Tausch (Event)
+[common_widget/dialog_126] Item-Tausch (Monatlich)
+[common_widget/dialog_127] Item-Tausch (KP)
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -43791,6 +44673,8 @@ wurde zu einem
 [common_widget/filter_075] Ladebildschirm-Einstellungen
 [common_widget/filter_076] Initiator
 [common_widget/filter_077] Feldwandler
+[common_widget/filter_078] Ausrüstung
+[common_widget/filter_079] Zusatzeffekte
 [common_widget/filter_080] EX-Rolle
 [common_widget/filter_081] Nicht freigeschaltet
 [common_widget/filter_082] Freigeschaltet
@@ -43798,6 +44682,16 @@ wurde zu einem
 [common_widget/filter_084] Ja
 [common_widget/filter_085] Nein
 [common_widget/filter_086] Paldea
+[common_widget/filter_087] Kategorie
+[common_widget/filter_089] Attackenkategorie
+[common_widget/filter_090] Typ
+[common_widget/filter_091] Statusprobleme
+[common_widget/filter_092] Statusveränderungen
+[common_widget/filter_093] Seiten-Effekte
+[common_widget/filter_094] Sonstiges
+[common_widget/filter_100] Attribute
+[common_widget/filter_101] Stimmt mit Gefährten in deinem Team überein.
+[common_widget/filter_102] Fähigkeiten freischalten
 [common_widget/sort_001] ★-Zahl
 [common_widget/sort_002] Gefährtenattacke
 [common_widget/sort_003] KP
@@ -44082,6 +44976,7 @@ Champkampf auf dem Schwierigkeitsgrad Schwer Lv. 1!
 [common_widget/short_cut_017] Kampfpunkte
 [common_widget/short_cut_018] Pokémon-Center
 [common_widget/short_cut_019] PokéLounge
+[common_widget/short_cut_020] Ausrüstung
 
 ===========
 common_widget_en.lsd
@@ -44120,6 +45015,10 @@ common_widget_en.lsd
 [common_widget/cell_048] [Digit:3digits ] wins
 [common_widget/cell_049] [Digit:3digits ]+ wins
 [common_widget/cell_050] Featured Rewards
+[common_widget/cell_051] ＋ [Digit:8digits ]
+[common_widget/cell_052] 
+[common_widget/cell_053] 
+[common_widget/cell_056] [Digit:6digits ] - [Digit:6digits Idx="1" ]
 [common_widget/button_001] OK
 [common_widget/button_002] Yes
 [common_widget/button_003] No
@@ -44139,6 +45038,7 @@ common_widget_en.lsd
 [common_widget/button_017] Learnable Lucky Skills
 [common_widget/button_018] Detailed View
 [common_widget/button_019] Simple View
+[common_widget/button_020] What This Unlocks
 [common_widget/loading_001] Loading...
 [common_widget/loading_002] GO!
 [common_widget/loading_003] Loading...
@@ -44311,9 +45211,25 @@ lucky skill.
 Returning to the Pokémon Center.
 [common_widget/dialog_110] [Name:HeroCustomizeCategory ]: [Name:HeroCustomizeParts ]
 [common_widget/dialog_111] Obtains the following:
- [Name:HeroCustomizeCategory ]: [Name:HeroCustomizeParts ]
+[Name:HeroCustomizeCategory ]: [Name:HeroCustomizeParts ]
 [common_widget/dialog_112] You don’t have any items.
 [common_widget/dialog_113] You don’t have any applicable items.
+[common_widget/dialog_114] Stat buffs are decided at random from the following ranges.
+[common_widget/dialog_115] Each category of gear unlocks different kinds of stat buffs.
+[common_widget/dialog_116] Skills will unlock randomly from the following.
+[common_widget/dialog_117] Guaranteed skills will always unlock. You cannot see
+themes that haven’t been unlocked before.
+[common_widget/dialog_118] Guaranteed skills will always unlock. You cannot see
+additional effects that haven’t been unlocked before.
+[common_widget/dialog_119] Stats
+[common_widget/dialog_120] Themes
+[common_widget/dialog_121] Additional Effects
+[common_widget/dialog_122] Guaranteed
+[common_widget/dialog_123] Normal
+[common_widget/dialog_124] Item Exchange—General
+[common_widget/dialog_125] Item Exchange—Event
+[common_widget/dialog_126] Item Exchange—Monthly
+[common_widget/dialog_127] Item Exchange—BP
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -44510,6 +45426,8 @@ into [Name:PokemonName ]!
 [common_widget/filter_075] Loading Screen Settings
 [common_widget/filter_076] Sprint
 [common_widget/filter_077] Field
+[common_widget/filter_078] Gear
+[common_widget/filter_079] Additional Effects
 [common_widget/filter_080] EX Role
 [common_widget/filter_081] Locked
 [common_widget/filter_082] Unlocked
@@ -44517,6 +45435,16 @@ into [Name:PokemonName ]!
 [common_widget/filter_084] Yes
 [common_widget/filter_085] No
 [common_widget/filter_086] Paldea
+[common_widget/filter_087] Category
+[common_widget/filter_089] Move Category
+[common_widget/filter_090] Type
+[common_widget/filter_091] Status Condition
+[common_widget/filter_092] Status Change
+[common_widget/filter_093] Field Effect
+[common_widget/filter_094] Other
+[common_widget/filter_100] Themes
+[common_widget/filter_101] Matches with sync pair(s) currently on your team.
+[common_widget/filter_102] Unlock Skills
 [common_widget/sort_001] Number of ★s
 [common_widget/sort_002] Sync Move
 [common_widget/sort_003] HP
@@ -44770,6 +45698,7 @@ any region on Hard Lv. 1
 [common_widget/short_cut_017] Battle Points
 [common_widget/short_cut_018] Pokémon Center
 [common_widget/short_cut_019] Trainer Lodge
+[common_widget/short_cut_020] Gear
 
 ===========
 common_widget_es.lsd
@@ -44808,6 +45737,10 @@ common_widget_es.lsd
 [common_widget/cell_048] [Digit:3digits ] victorias
 [common_widget/cell_049] Más de [Digit:3digits ] victorias
 [common_widget/cell_050] Premio especial
+[common_widget/cell_051] ＋[Digit:8digits ]
+[common_widget/cell_052] 
+[common_widget/cell_053] 
+[common_widget/cell_056] [Digit:6digits ] - [Digit:6digits Idx="1" ]
 [common_widget/button_001] Vale
 [common_widget/button_002] Sí
 [common_widget/button_003] No
@@ -44828,6 +45761,7 @@ Victoria
 [common_widget/button_017] Habilidades fortuitas disponibles
 [common_widget/button_018] Detallada
 [common_widget/button_019] Simple
+[common_widget/button_020] Ver habilidades posibles
 [common_widget/loading_001] Cargando...
 [common_widget/loading_002] ¡Vamos!
 [common_widget/loading_003] Conectando...
@@ -45015,6 +45949,27 @@ Regresando al Centro Pokémon.
 [Name:HeroCustomizeCategory ]: [Name:HeroCustomizeParts ]
 [common_widget/dialog_112] No tienes objetos.
 [common_widget/dialog_113] No se han encontrado objetos.
+[common_widget/dialog_114] Las mejoras de características se deciden
+al azar de entre los siguientes rangos:
+[common_widget/dialog_115] Nota: Cada categoría de accesorio desbloquea mejoras de
+características distintas.
+[common_widget/dialog_116] Se desbloquearán habilidades aleatorias de
+entre las siguientes:
+[common_widget/dialog_117] Notas: Las habilidades garantizadas se desbloquean
+siempre. No puedes ver los distintivos que no hayas
+desbloqueado anteriormente.
+[common_widget/dialog_118] Notas: Las habilidades garantizadas se desbloquean
+siempre. No puedes ver los efectos adicionales que
+no hayas desbloqueado anteriormente.
+[common_widget/dialog_119] Características
+[common_widget/dialog_120] Distintivos
+[common_widget/dialog_121] Ef. adicionales
+[common_widget/dialog_122] Garantizadas
+[common_widget/dialog_123] Normales
+[common_widget/dialog_124] Canjear objetos (Normales)
+[common_widget/dialog_125] Canjear objetos (De evento)
+[common_widget/dialog_126] Canjear objetos (Mensuales)
+[common_widget/dialog_127] Canjear objetos (Ptos. combate)
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Nv.
 [common_widget/trainer_detail_004] MÁX.
@@ -45219,6 +46174,8 @@ evolución?
 [common_widget/filter_075] Ajustes de pantallas de carga
 [common_widget/filter_076] Velocidad
 [common_widget/filter_077] Entorno
+[common_widget/filter_078] Accesorios
+[common_widget/filter_079] Ef. adicionales
 [common_widget/filter_080] Función EX
 [common_widget/filter_081] Sin desbloquear
 [common_widget/filter_082] Desbloqueada
@@ -45226,6 +46183,16 @@ evolución?
 [common_widget/filter_084] Sí
 [common_widget/filter_085] No
 [common_widget/filter_086] Paldea
+[common_widget/filter_087] Categoría
+[common_widget/filter_089] Categoría de los movimientos
+[common_widget/filter_090] Tipo
+[common_widget/filter_091] Problemas de estado
+[common_widget/filter_092] Cambios de estado
+[common_widget/filter_093] Efectos de campo
+[common_widget/filter_094] Otros
+[common_widget/filter_100] Distintivo
+[common_widget/filter_101] Mismo que compis en el equipo actual
+[common_widget/filter_102] Desbloqueo de habilidades
 [common_widget/sort_001] Número de ★
 [common_widget/sort_002] Movimiento compi
 [common_widget/sort_003] PS
@@ -45493,6 +46460,7 @@ Combates de Campeones de cualquier región en Difícil (nivel 1)!
 [common_widget/short_cut_017] Ptos. de combate
 [common_widget/short_cut_018] Centro Pokémon
 [common_widget/short_cut_019] Salón de Entrenadores
+[common_widget/short_cut_020] Accesorios
 
 ===========
 common_widget_fr.lsd
@@ -45531,6 +46499,10 @@ common_widget_fr.lsd
 [common_widget/cell_048] [Digit:3digits ] victoires consécutives
 [common_widget/cell_049] [Digit:3digits ] victoires consécutives ou plus
 [common_widget/cell_050] Grand prix
+[common_widget/cell_051] ＋ [Digit:8digits ]
+[common_widget/cell_052] 
+[common_widget/cell_053] 
+[common_widget/cell_056] [Digit:6digits ] - [Digit:6digits Idx="1" ]
 [common_widget/button_001] OK
 [common_widget/button_002] Oui
 [common_widget/button_003] Non
@@ -45551,6 +46523,7 @@ Victoire
 [common_widget/button_017] Talents surprise disponibles
 [common_widget/button_018] Détaillé
 [common_widget/button_019] Simple
+[common_widget/button_020] Éléments à débloquer
 [common_widget/loading_001] Chargement...
 [common_widget/loading_002] Allez !
 [common_widget/loading_003] Connexion...
@@ -45737,6 +46710,29 @@ Retour au Centre Pokémon.
 [common_widget/dialog_112] Aucun objet à afficher
 [common_widget/dialog_113] Aucun objet correspondant
 à ces filtres à afficher
+[common_widget/dialog_114] Les renforcements de stats sont attribués au hasard et compris dans les fourchettes suivantes.
+[common_widget/dialog_115] Chaque catégorie d'équipement débloque différents
+types de renforcement de stats.
+[common_widget/dialog_116] Les talents seront débloqués au hasard
+parmi les talents suivants.
+[common_widget/dialog_117] Remarque nº 1 : les talents garantis seront débloqués
+à coup sûr.
+Remarque nº 2 : vous ne pouvez pas consulter
+les mots-clés qui n'ont pas encore été débloqués.
+[common_widget/dialog_118] Remarque nº 1 : les talents garantis seront débloqués
+à coup sûr.
+Remarque nº 2 : vous ne pouvez pas consulter les effets
+additionnels qui n'ont pas encore été débloqués.
+[common_widget/dialog_119] Stats
+[common_widget/dialog_120] Mots-clés
+[common_widget/dialog_121] Effets
+additionnels
+[common_widget/dialog_122] Garantis
+[common_widget/dialog_123] Standards
+[common_widget/dialog_124] Échange d'objets (standard)
+[common_widget/dialog_125] Échange d'objets (évènement)
+[common_widget/dialog_126] Échange d'objets (mensuel)
+[common_widget/dialog_127] Échange d'objets (PCo)
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] N.
 [common_widget/trainer_detail_004] MAX
@@ -45827,7 +46823,7 @@ via un Appel Duo ou le menu Échange d'objets.
 [common_widget/trainer_detail_085] Débloqué
 [common_widget/trainer_detail_086] Attaquant Physique
 [common_widget/trainer_detail_087] Attaquant Spécial
-[common_widget/trainer_detail_088] rôle EX
+[common_widget/trainer_detail_088] Rôle EX
 [common_widget/dialog_special_item_001] Vous avez obtenu
 1 [Name:Item ] !
 [common_widget/dialog_special_item_002] Encore [Digit:1digit ] Badge[FR:Qty P="s" ] à obtenir !
@@ -45939,6 +46935,9 @@ apprise
 [common_widget/filter_075] Paramètres de l'écran de chargement
 [common_widget/filter_076] Accélérateur
 [common_widget/filter_077] Régisseur
+[common_widget/filter_078] Équipement
+[common_widget/filter_079] Effets
+additionnels
 [common_widget/filter_080] Rôle EX
 [common_widget/filter_081] Non débloqué
 [common_widget/filter_082] Débloqué
@@ -45946,6 +46945,16 @@ apprise
 [common_widget/filter_084] Oui
 [common_widget/filter_085] Non
 [common_widget/filter_086] Paldea
+[common_widget/filter_087] Catégorie
+[common_widget/filter_089] Catégorie de capacité
+[common_widget/filter_090] Type
+[common_widget/filter_091] Altération de statut
+[common_widget/filter_092] Changement de statut
+[common_widget/filter_093] Effet sur le terrain
+[common_widget/filter_094] Autre
+[common_widget/filter_100] Mots-clés
+[common_widget/filter_101] En commun avec au moins un Duo dans votre équipe
+[common_widget/filter_102] Déblocage de talents
 [common_widget/sort_001] Nombre d'★
 [common_widget/sort_002] Capacité Duo
 [common_widget/sort_003] PV
@@ -46230,6 +47239,7 @@ de Maître de n'importe quelle région en difficulté « Difficile N. 1 » !
 [common_widget/short_cut_017] Points de combat
 [common_widget/short_cut_018] Aller au Centre Pokémon
 [common_widget/short_cut_019] Salon des Dresseurs
+[common_widget/short_cut_020] Équipement
 
 ===========
 common_widget_it.lsd
@@ -46268,6 +47278,10 @@ common_widget_it.lsd
 [common_widget/cell_048] [Digit:3digits ] vittorie consecutive
 [common_widget/cell_049] [Digit:3digits ] o più vittorie consecutive
 [common_widget/cell_050] Ricompensa principale
+[common_widget/cell_051] ＋[Digit:8digits ]
+[common_widget/cell_052] 
+[common_widget/cell_053] 
+[common_widget/cell_056] [Digit:6digits ] - [Digit:6digits Idx="1" ]
 [common_widget/button_001] Ok
 [common_widget/button_002] Sì
 [common_widget/button_003] No
@@ -46287,6 +47301,7 @@ common_widget_it.lsd
 [common_widget/button_017] Talenti disponibili
 [common_widget/button_018] Dettagli
 [common_widget/button_019] Info di base
+[common_widget/button_020] Cosa sblocca
 [common_widget/loading_001] Caricamento
 [common_widget/loading_002] VIA!
 [common_widget/loading_003] Connessione...
@@ -46462,6 +47477,26 @@ Ritorno al Centro Pokémon.
 [common_widget/dialog_111] Ottieni: [Name:HeroCustomizeParts ] ([Name:HeroCustomizeCategory ])
 [common_widget/dialog_112] Non hai strumenti.
 [common_widget/dialog_113] Nessuno strumento trovato.
+[common_widget/dialog_114] Gli incrementi alle statistiche sono stabiliti
+in modo casuale tra i seguenti intervalli.
+[common_widget/dialog_115] Ogni categoria di accessori sblocca diversi incrementi
+alle statistiche.
+[common_widget/dialog_116] Le seguenti abilità verranno sbloccate
+casualmente.
+[common_widget/dialog_117] Le abilità garantite verranno sempre sbloccate.
+Non sarà possibile controllare gruppi non ancora sbloccati.
+[common_widget/dialog_118] Le abilità garantite verranno sempre sbloccate.
+Non sarà possibile controllare effetti aggiuntivi
+non ancora sbloccati.
+[common_widget/dialog_119] Statistiche
+[common_widget/dialog_120] Gruppi
+[common_widget/dialog_121] Effetti aggiuntivi
+[common_widget/dialog_122] Garantite
+[common_widget/dialog_123] Comuni
+[common_widget/dialog_124] Scambio strumenti comune
+[common_widget/dialog_125] Scambio strumenti evento
+[common_widget/dialog_126] Scambio strumenti mensile
+[common_widget/dialog_127] Scambio strumenti PL
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] L.
 [common_widget/trainer_detail_004] MAX
@@ -46657,6 +47692,8 @@ dell'evoluzione?
 [common_widget/filter_075] Schermata di caricamento
 [common_widget/filter_076] Sprinter
 [common_widget/filter_077] Campomastro
+[common_widget/filter_078] Accessori
+[common_widget/filter_079] Effetti aggiuntivi
 [common_widget/filter_080] Ruolo EX
 [common_widget/filter_081] Non sbloccato
 [common_widget/filter_082] Sbloccato
@@ -46664,6 +47701,16 @@ dell'evoluzione?
 [common_widget/filter_084] Sì
 [common_widget/filter_085] No
 [common_widget/filter_086] Paldea
+[common_widget/filter_087] Categoria
+[common_widget/filter_089] Categoria delle mosse
+[common_widget/filter_090] Tipo
+[common_widget/filter_091] Problema di stato
+[common_widget/filter_092] Variazione di stato
+[common_widget/filter_093] Effetto sul campo
+[common_widget/filter_094] Altro
+[common_widget/filter_100] Gruppi
+[common_widget/filter_101] Coincide con le Unità in squadra
+[common_widget/filter_102] Sblocco abilità
 [common_widget/sort_001] Numero di ★
 [common_widget/sort_002] Unimossa
 [common_widget/sort_003] PS
@@ -46942,6 +47989,7 @@ in difficoltà "Difficile L. 1".
 [common_widget/short_cut_017] Punti Lotta
 [common_widget/short_cut_018] Vai al Centro Pokémon
 [common_widget/short_cut_019] Salotto Allenatori
+[common_widget/short_cut_020] Accessori
 
 ===========
 common_widget_ja.lsd
@@ -46980,6 +48028,10 @@ common_widget_ja.lsd
 [common_widget/cell_048] [Digit:3digits ]連勝
 [common_widget/cell_049] [Digit:3digits ]連勝以降
 [common_widget/cell_050] 目玉報酬
+[common_widget/cell_051] ＋[Digit:8digits ]
+[common_widget/cell_052] --
+[common_widget/cell_053] ???
+[common_widget/cell_056] [Digit:6digits ] ~ [Digit:6digits Idx="1" ]
 [common_widget/button_001] OK
 [common_widget/button_002] はい
 [common_widget/button_003] いいえ
@@ -47000,6 +48052,7 @@ common_widget_ja.lsd
 [common_widget/button_017] 習得できるポテンシャル
 [common_widget/button_018] 詳細表示
 [common_widget/button_019] 簡易表示
+[common_widget/button_020] 解放内容詳細
 [common_widget/loading_001] Loading...
 [common_widget/loading_002] 出発
 [common_widget/loading_003] 通信中……
@@ -47171,6 +48224,25 @@ EXカラー衣装が　かくとくできます
 [common_widget/dialog_111] [Name:HeroCustomizeCategory ]：[Name:HeroCustomizeParts ] を獲得します
 [common_widget/dialog_112] どうぐを持っていません
 [common_widget/dialog_113] 該当するどうぐはありません
+[common_widget/dialog_114] ステータスは以下の範囲から
+ランダムで決まります
+[common_widget/dialog_115] ※装備の種類ごとに
+解放されるステータスの種類は異なります
+[common_widget/dialog_116] 以下の内容から
+ランダムでスキル解放されます
+[common_widget/dialog_117] ※確定枠のスキルは必ず解放されます
+※解放したことがないタグは確認できません
+[common_widget/dialog_118] ※確定枠のスキルは必ず解放されます
+※解放したことがない追加効果は確認できません
+[common_widget/dialog_119] ステータス
+[common_widget/dialog_120] タグ
+[common_widget/dialog_121] 追加効果
+[common_widget/dialog_122] 確定
+[common_widget/dialog_123] 通常
+[common_widget/dialog_124] どうぐ交換　通常
+[common_widget/dialog_125] どうぐ交換　イベント
+[common_widget/dialog_126] どうぐ交換　マンスリー
+[common_widget/dialog_127] どうぐ交換　バトルpt
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -47367,6 +48439,8 @@ Lv.MAX
 [common_widget/filter_075] ロード画面設定
 [common_widget/filter_076] スピード
 [common_widget/filter_077] フィールド
+[common_widget/filter_078] 装備
+[common_widget/filter_079] 追加効果
 [common_widget/filter_080] EXロール
 [common_widget/filter_081] 未解放
 [common_widget/filter_082] 解放済み
@@ -47374,6 +48448,16 @@ Lv.MAX
 [common_widget/filter_084] あり
 [common_widget/filter_085] なし
 [common_widget/filter_086] パルデア
+[common_widget/filter_087] カテゴリ
+[common_widget/filter_089] わざの種類
+[common_widget/filter_090] タイプ
+[common_widget/filter_091] 状態異常
+[common_widget/filter_092] 状態変化
+[common_widget/filter_093] 場の効果
+[common_widget/filter_094] その他
+[common_widget/filter_100] タグ
+[common_widget/filter_101] 編成中バディーズと一致
+[common_widget/filter_102] スキル解放
 [common_widget/sort_001] ★の数
 [common_widget/sort_002] バディーズわざ
 [common_widget/sort_003] HP
@@ -47665,6 +48749,7 @@ SP報酬が解放！
 [common_widget/short_cut_017] バトルポイント
 [common_widget/short_cut_018] ポケモンセンターへ
 [common_widget/short_cut_019] トレーナーズサロン
+[common_widget/short_cut_020] 装備
 
 ===========
 common_widget_ko.lsd
@@ -47703,6 +48788,10 @@ common_widget_ko.lsd
 [common_widget/cell_048] [Digit:3digits ]연승
 [common_widget/cell_049] [Digit:3digits ]연승 이후
 [common_widget/cell_050] 주요 보상
+[common_widget/cell_051] ＋[Digit:8digits ]
+[common_widget/cell_052] 
+[common_widget/cell_053] 
+[common_widget/cell_056] [Digit:6digits ] ~ [Digit:6digits Idx="1" ]
 [common_widget/button_001] OK
 [common_widget/button_002] 네
 [common_widget/button_003] 아니요
@@ -47722,6 +48811,7 @@ common_widget_ko.lsd
 [common_widget/button_017] 습득할 수 있는 포텐셜
 [common_widget/button_018] 상세 표시
 [common_widget/button_019] 간단 표시
+[common_widget/button_020] 해방 내용 상세
 [common_widget/loading_001] Loading...
 [common_widget/loading_002] 출발
 [common_widget/loading_003] 통신 중...
@@ -47891,6 +48981,25 @@ EX컬러 의상을 획득할 수 있습니다
 [common_widget/dialog_111] [Name:HeroCustomizeCategory ] : [Name:HeroCustomizeParts ][Kor:Particle char="wo" ] 획득합니다
 [common_widget/dialog_112] 도구를 가지고 있지 않습니다
 [common_widget/dialog_113] 해당하는 도구가 없습니다
+[common_widget/dialog_114] 능력은 아래의 범위에서
+랜덤으로 결정됩니다
+[common_widget/dialog_115] ※장비의 종류에 따라
+해방되는 능력의 종류가 다릅니다
+[common_widget/dialog_116] 아래의 내용에서
+랜덤으로 스킬 해방이 진행됩니다
+[common_widget/dialog_117] ※스킬은 확정으로 반드시 해방됩니다
+※해방한 적이 없는 태그는 확인할 수 없습니다
+[common_widget/dialog_118] ※스킬은 확정으로 반드시 해방됩니다
+※해방한 적이 없는 추가 효과는 확인할 수 없습니다
+[common_widget/dialog_119] 능력
+[common_widget/dialog_120] 태그
+[common_widget/dialog_121] 추가 효과
+[common_widget/dialog_122] 확정
+[common_widget/dialog_123] 일반
+[common_widget/dialog_124] 도구 교환 일반
+[common_widget/dialog_125] 도구 교환 이벤트
+[common_widget/dialog_126] 도구 교환 월간
+[common_widget/dialog_127] 도구 교환 배틀pt
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -48088,6 +49197,8 @@ Lv.MAX
 [common_widget/filter_075] 로딩 화면 설정
 [common_widget/filter_076] 스피드
 [common_widget/filter_077] 필드
+[common_widget/filter_078] 장비
+[common_widget/filter_079] 추가 효과
 [common_widget/filter_080] EX롤
 [common_widget/filter_081] 미해방
 [common_widget/filter_082] 해방 완료
@@ -48095,6 +49206,16 @@ Lv.MAX
 [common_widget/filter_084] 있음
 [common_widget/filter_085] 없음
 [common_widget/filter_086] 팔데아
+[common_widget/filter_087] 카테고리
+[common_widget/filter_089] 기술 종류
+[common_widget/filter_090] 타입
+[common_widget/filter_091] 상태 이상
+[common_widget/filter_092] 상태 변화
+[common_widget/filter_093] 필드 효과
+[common_widget/filter_094] 기타
+[common_widget/filter_100] 태그
+[common_widget/filter_101] 편성 중인 버디즈와 일치
+[common_widget/filter_102] 스킬 해방
 [common_widget/sort_001] ★의 수
 [common_widget/sort_002] 버디즈기술
 [common_widget/sort_003] HP
@@ -48378,6 +49499,7 @@ SP 보상이 해방!
 [common_widget/short_cut_017] 배틀포인트
 [common_widget/short_cut_018] 포켓몬센터로
 [common_widget/short_cut_019] 트레이너즈 살롱
+[common_widget/short_cut_020] 장비
 
 ===========
 common_widget_zh-TW.lsd
@@ -48417,6 +49539,10 @@ common_widget_zh-TW.lsd
 [common_widget/cell_048] [Digit:3digits ]連勝
 [common_widget/cell_049] [Digit:3digits ]連勝後
 [common_widget/cell_050] 特級報酬
+[common_widget/cell_051] ＋[Digit:8digits ]
+[common_widget/cell_052] --
+[common_widget/cell_053] ???
+[common_widget/cell_056] [Digit:6digits ] ~ [Digit:6digits Idx="1" ]
 [common_widget/button_001] OK
 [common_widget/button_002] 是
 [common_widget/button_003] 否
@@ -48436,6 +49562,7 @@ common_widget_zh-TW.lsd
 [common_widget/button_017] 可學習的潛能
 [common_widget/button_018] 完整顯示
 [common_widget/button_019] 簡易顯示
+[common_widget/button_020] 開放內容詳情
 [common_widget/loading_001] Loading...
 [common_widget/loading_002] 出發
 [common_widget/loading_003] 正在連線……
@@ -48589,6 +49716,25 @@ common_widget_zh-TW.lsd
 [common_widget/dialog_111] 獲得[Name:HeroCustomizeCategory ]：[Name:HeroCustomizeParts ] 
 [common_widget/dialog_112] 未持有道具
 [common_widget/dialog_113] 沒有符合條件的道具
+[common_widget/dialog_114] 能力將從以下範圍內
+隨機決定
+[common_widget/dialog_115] ※開放的能力種類
+會因裝備種類而有所不同
+[common_widget/dialog_116] 將從下列內容
+隨機開放技能
+[common_widget/dialog_117] ※必得技能一定會開放
+※無法確認未曾開放的標籤
+[common_widget/dialog_118] ※必得技能一定會開放
+※無法確認未曾開放的追加效果
+[common_widget/dialog_119] 能力
+[common_widget/dialog_120] 標籤
+[common_widget/dialog_121] 追加效果
+[common_widget/dialog_122] 必得
+[common_widget/dialog_123] 一般
+[common_widget/dialog_124] 交換道具：一般
+[common_widget/dialog_125] 交換道具：活動
+[common_widget/dialog_126] 交換道具：每月
+[common_widget/dialog_127] 交換道具：對戰點數
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -48781,6 +49927,8 @@ Lv.MAX
 [common_widget/filter_075] 載入畫面設定
 [common_widget/filter_076] 速戰型
 [common_widget/filter_077] 場地型
+[common_widget/filter_078] 裝備
+[common_widget/filter_079] 追加效果
 [common_widget/filter_080] EX體系
 [common_widget/filter_081] 尚未開放
 [common_widget/filter_082] 已開放
@@ -48788,6 +49936,16 @@ Lv.MAX
 [common_widget/filter_084] 有
 [common_widget/filter_085] 無
 [common_widget/filter_086] 帕底亞
+[common_widget/filter_087] 分類
+[common_widget/filter_089] 招式種類
+[common_widget/filter_090] 屬性
+[common_widget/filter_091] 異常狀態
+[common_widget/filter_092] 狀態變化
+[common_widget/filter_093] 場地效果
+[common_widget/filter_094] 其他
+[common_widget/filter_100] 標籤
+[common_widget/filter_101] 和編制中的拍組一致
+[common_widget/filter_102] 開放技能
 [common_widget/sort_001] ★數
 [common_widget/sort_002] 拍組招式
 [common_widget/sort_003] HP
@@ -49053,6 +50211,7 @@ EX服裝！
 [common_widget/short_cut_017] 對戰點數
 [common_widget/short_cut_018] 回到寶可夢中心
 [common_widget/short_cut_019] 訓練家沙龍
+[common_widget/short_cut_020] 裝備
 
 ===========
 error_dialog_contents_de.lsd
@@ -51837,6 +52996,13 @@ werden.
 [home/home_066] Event-Information
 [home/home_067] Tipps
 [home/home_068] Courtneys Leitfaden
+[home/home_069] Ausrüstung
+[home/home_070] Typenausrüstung
+[home/home_071] Fähigkeitenausrüstung
+[home/home_072] Wird freigeschaltet, wenn du
+den Champkampf einer beliebigen
+Region auf dem Schwierigkeitsgrad
+Schwer Lv. 1 abschließt.
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missionen
 [home/global_menu_008] Freunde
@@ -53001,6 +54167,11 @@ These new products can be purchased in the Purchase Bundles section of the shop.
 [home/home_066] Event Info
 [home/home_067] Tips
 [home/home_068] Guide
+[home/home_069] Gear
+[home/home_070] Type Gear
+[home/home_071] Skill Gear
+[home/home_072] To unlock, complete the Champion
+Stadium for any region on Hard Lv. 1.
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missions
 [home/global_menu_008] Friends
@@ -54132,6 +55303,11 @@ Puedes adquirirlos en la sección
 [home/home_066] Información de los eventos
 [home/home_067] Guía para novatos
 [home/home_068] Guía de Tris
+[home/home_069] Accesorios
+[home/home_070] Acc. de tipo
+[home/home_071] Acc. de habilidad
+[home/home_072] Completa los Combates de Campeones
+de cualquier región en Difícil (nivel 1).
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Misiones
 [home/global_menu_008] Amigos
@@ -55341,6 +56517,12 @@ la section « Achat de lots ».
 [home/home_067] Astuces
 [home/home_068] Guide Pokémon
 Masters de Thalie
+[home/home_069] Équipement
+[home/home_070] Équipement de type
+[home/home_071] Équipement de talent
+[home/home_072] Débloqué après avoir terminé
+le Combat de Maître de n'importe
+quelle région au niveau Difficile N. 1.
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missions
 [home/global_menu_008] Amis
@@ -56611,6 +57793,12 @@ Puoi acquistare questi nuovi prodotti nella sezione "Acquisto pacchetti" del neg
 [home/home_066] Info eventi
 [home/home_067] Consigli per il gioco
 [home/home_068] Guida al gioco di Tish
+[home/home_069] Accessori
+[home/home_070] Accessori tipo
+[home/home_071] Accessori abilità
+[home/home_072] Si sblocca completando la Lotta dei
+Campioni di qualsiasi regione
+in difficoltà "Difficile L. 1".
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missioni
 [home/global_menu_008] Amici
@@ -57840,6 +59028,12 @@ EXデイリーダイヤパックや
 [home/home_066] イベント情報
 [home/home_067] ゲームのヒント
 [home/home_068] ポケマスガイド
+[home/home_069] 装備
+[home/home_070] タイプ装備
+[home/home_071] スキル装備
+[home/home_072] いずれかの地方の
+チャンピオンバトル「HARD Lv.1」を
+クリアすると解放されます
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] ミッション
 [home/global_menu_008] ともだち
@@ -59048,6 +60242,12 @@ EX일일 다이아 팩과
 [home/home_066] 이벤트 정보
 [home/home_067] 게임 힌트
 [home/home_068] PM 가이드
+[home/home_069] 장비
+[home/home_070] 타입 장비
+[home/home_071] 스킬 장비
+[home/home_072] 어느 한 지방의
+챔피언배틀 "HARD Lv.1"을
+클리어하면 해방됩니다
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] 미션
 [home/global_menu_008] 친구
@@ -60219,6 +61419,11 @@ EX每日鑽石組合包
 [home/home_066] 活動資訊
 [home/home_067] 遊戲提示
 [home/home_068] 遊戲指南
+[home/home_069] 裝備
+[home/home_070] 屬性裝備
+[home/home_071] 技能裝備
+[home/home_072] 成功過關任一地區的
+冠軍對戰「HARD Lv.1」即可開放
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] 任務
 [home/global_menu_008] 朋友
@@ -61618,6 +62823,9 @@ Level der getauschten Ausrüstung weitere Items.
 Items, die das maximale Limit
 überschreiten, werden gelöscht.
 Möchtest du dennoch damit fortfahren?
+[shop/deck_item_sale_020] Alles eintauschen
+[shop/deck_item_sale_021] Möchtest du all deine Ausrüstung mit 2★
+oder weniger eintauschen?
 [shop/catalogue_001] Eier-Forschungsitem
 [shop/catalogue_002] Gekaufte Juwelen
 [shop/catalogue_003] Gekauft
@@ -62302,6 +63510,9 @@ level and maximum level of the exchanged gear.
 [shop/deck_item_sale_019] Maximum storage limit exceeded.
 Items that exceed the maximum limit will be deleted.
 Do you wish to proceed?
+[shop/deck_item_sale_020] Exchange all
+[shop/deck_item_sale_021] Do you want to exchange all your gear
+that is 2★ or less?
 [shop/catalogue_001] Egg Research Items
 [shop/catalogue_002] Paid Gems
 [shop/catalogue_003] Purchased
@@ -62926,6 +64137,9 @@ una pareja de compis destacada a tu elección!
 [shop/deck_item_sale_017] Nota: Puedes recibir más objetos en función de los niveles actual y máximo de los accesorios que canjees.
 [shop/deck_item_sale_018] Objetos que se van a descartar
 [shop/deck_item_sale_019] Has superado el máximo de uno o varios objetos. Los objetos por encima del límite se van a descartar. ¿Quieres continuar?
+[shop/deck_item_sale_020] Canjear todo
+[shop/deck_item_sale_021] ¿Quieres canjear todos los accesorios
+de 2★ o menos?
 [shop/catalogue_001] Objetos de investigación
 [shop/catalogue_002] Joyas de pago
 [shop/catalogue_003] Comprado
@@ -63595,6 +64809,9 @@ parmi cet Appel Duo !
 [shop/deck_item_sale_019] Vous avez atteint la limite.
 Le surplus sera supprimé.
 Souhaitez-vous continuer ?
+[shop/deck_item_sale_020] Tout échanger
+[shop/deck_item_sale_021] Voulez-vous échanger tout
+votre équipement 2★ ou inférieur ?
 [shop/catalogue_001] Objets d'Études
 [shop/catalogue_002] Payants
 [shop/catalogue_003] Achetés
@@ -64047,9 +65264,9 @@ Nella ricerca Unità, le Unità sono mostrate con Pokémon
 non evoluti, anche se le hai già ottenute e ne hai fatto
 evolvere il Pokémon. L'Unità aggiuntiva può essere scelta
 dopo l'esecuzione della ricerca Unità. Non sarà possibile
-ottenere l'Unità scelta dopo il termine dell'offerta. In caso
-di errori di connessione durante la ricerca, verrà data
-un'ulteriore occasione per scegliere un'Unità.
+ottenere l'Unità scelta dopo il termine dell'offerta.
+In caso di errori di connessione durante la ricerca,
+verrà data un'ulteriore occasione per scegliere un'Unità.
 Quest'ultima dovrà essere ottenuta entro una settimana
 dal termine della ricerca Unità corrente.
 [shop/scout_080] Scegli un'Unità 5★ a piacere!
@@ -64327,6 +65544,9 @@ al livello attuale e massimo dell'accessorio.
 [shop/deck_item_sale_019] Hai raggiunto il limite massimo per
 alcuni strumenti, che pertanto verranno
 eliminati. Vuoi continuare?
+[shop/deck_item_sale_020] Scambia tutto
+[shop/deck_item_sale_021] Vuoi scambiare tutti gli accessori 2★
+o inferiori?
 [shop/catalogue_001] Strumenti ricerca Uova
 [shop/catalogue_002] Gemme a pagamento
 [shop/catalogue_003] Acquistati
@@ -65056,6 +66276,9 @@ EXカラーがありません
 [shop/deck_item_sale_019] 所持上限を超えています
 
 超過分は破棄されますが
+よろしいですか？
+[shop/deck_item_sale_020] 一括売却
+[shop/deck_item_sale_021] ★２以下の装備を一括で売却します
 よろしいですか？
 [shop/catalogue_001] タマゴ研究応援どうぐ
 [shop/catalogue_002] 有償
@@ -65811,6 +67034,9 @@ EX컬러가 없습니다
 [shop/deck_item_sale_019] 보유 상한을 넘었습니다
 초과한 분량은 파기됩니다만
 괜찮겠습니까?
+[shop/deck_item_sale_020] 일괄 판매
+[shop/deck_item_sale_021] ★2 이하의 장비를 일괄 판매합니다
+괜찮겠습니까?
 [shop/catalogue_001] 알 연구 응원 도구
 [shop/catalogue_002] 유료
 [shop/catalogue_003] 구입
@@ -66480,6 +67706,9 @@ shop_zh-TW.lsd
 [shop/deck_item_sale_018] 作廢物品
 [shop/deck_item_sale_019] 超過持有上限
 確定要將過量的物品作廢嗎？
+[shop/deck_item_sale_020] 全部出售
+[shop/deck_item_sale_021] 確定要出售所有
+★２以下的裝備嗎？
 [shop/catalogue_001] 蛋研究聲援道具
 [shop/catalogue_002] 付費
 [shop/catalogue_003] 購買
