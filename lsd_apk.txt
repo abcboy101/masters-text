@@ -1757,8 +1757,8 @@ vollkommenen Antwort
 [quest_title_1030207001010030] Konfrontation: Zyrus 3
 [quest_title_1030207001010040] Konfrontation: Zyrus 4
 [quest_title_1030207001010070] Konfrontation: Zyrus 5
-[quest_title_1030207001010050] Kollektivkampf! 1
-[quest_title_1030207001010060] Kollektivkampf! 2
+[quest_title_1030207001010050] Kollektivkampf 1
+[quest_title_1030207001010060] Kollektivkampf 2
 [quest_title_1030207000601010] An einem Sommertag...
 [quest_title_1030207000601020] Das Passio Live Konzert!
 [quest_title_1030207000601030] Festivals und Superstars
@@ -1769,8 +1769,8 @@ nicht vorbei!
 [quest_title_1030207000602020] Wettkampf im Hochsommer 2
 [quest_title_1030207000602030] Wettkampf im Hochsommer 3
 [quest_title_1030207000602040] Wettkampf im Hochsommer 4
-[quest_title_1030207000602050] Kollektivkampf! 1
-[quest_title_1030207000602060] Kollektivkampf! 2
+[quest_title_1030207000602050] Kollektivkampf 1
+[quest_title_1030207000602060] Kollektivkampf 2
 [quest_group_title_610056] Levelaufstiegsgebiet
 [quest_group_title_610057] Limitbruchgebiet
 [quest_group_title_610059] Gefährtendropsgebiet
@@ -1800,8 +1800,50 @@ nicht vorbei!
 [quest_title_1030420700204012] Drops-Intensivkurs
 [quest_title_1030420700401010] Entwickl.-Intensivkurs
 [quest_title_1030420700402011] Entwickl.-Intensivkurs
+[quest_group_title_610060] Limitbruchgebiet 2
+[quest_group_title_610061] Typenfähigkeit-
+Verstärkungsgebiet
+[quest_title_1030420800501010] Normal-, Pflanzen- und
+Unlicht-Intensivkurs 1
+[quest_title_1030420800502010] Gift-, Feen- und
+Käfer-Intensivkurs 1
+[quest_title_1030420800503010] Stahl-, Psycho- und
+Gesteins-Intensivkurs 1
+[quest_title_1030420800504010] Elektro-, Eis- und
+Boden-Intensivkurs 1
+[quest_title_1030420800505010] Flug-, Geister- und
+Wasser-Intensivkurs 1
+[quest_title_1030420800506010] Drachen-, Feuer- und
+Kampf-Intensivkurs 1
+[quest_title_1030420800601010] Typenfähigkeit-
+Verstärkungsintensivkurs
 [quest_group_title_10194000000] Zyrus
 [quest_title_1030210091010001] Ein Tag mit MaMo-Cynthia
+[quest_group_title_10021010000] MaMo-Blau
+[quest_group_title_10017100000] MaMo-Leaf
+[quest_title_1030420800101011] Noch höher hinaus!
+[quest_title_1030420800102011] Wahre Könner auf Passio 1
+[quest_title_1030420800102012] Wahre Könner auf Passio 2
+[quest_title_1030420800102013] Wahre Könner auf Passio 3
+[quest_title_1030420800102014] Wahre Könner auf Passio 4
+[quest_title_1030420800102015] Wahre Könner auf Passio 5
+[quest_title_1030420800103011] Kollektivkampf 1
+[quest_title_1030420800103012] Kollektivkampf 2
+[quest_title_1030420800201011] Vs. Trainer aus Passio 1
+[quest_title_1030420800201012] Vs. Trainer aus Passio 2
+[quest_title_1030420800201013] Vs. Trainer aus Passio 3
+[quest_title_1030420800201014] Vs. Trainer aus Passio 4
+[quest_title_1030210021010001] Ein Tag mit MaMo-Blau
+[quest_title_1030210017100001] Ein Tag mit MaMo-Leaf
+[quest_title_1030420800407010] Angreifer-Intensivkurs 3
+[quest_title_1030420800408010] Taktiker-Intensivkurs 3
+[quest_title_1030420800409010] Helfer-Intensivkurs 3
+[quest_title_1030420800700010] Gipfel der Stärksten
+[quest_title_1030420800701010] Vs. Lorelei
+[quest_title_1030420800702010] Vs. Bruno
+[quest_title_1030420800703010] Vs. Agathe
+[quest_title_1030420800704010] Vs. Siegfried
+[quest_title_1030420800705010] Vs. Blau
 
 ===========
 story_quest_name_en.lsd
@@ -2896,8 +2938,42 @@ story_quest_name_en.lsd
 [quest_title_1030420700204012] Sync Orb Drill
 [quest_title_1030420700401010] Evolution Drill
 [quest_title_1030420700402011] Evolution Drill
+[quest_group_title_610060] Cap-Unlock Area 2
+[quest_group_title_610061] Type Skill Area
+[quest_title_1030420800501010] Normal, Grass, and Dark Drill 1
+[quest_title_1030420800502010] Poison, Fairy, and Bug Drill 1
+[quest_title_1030420800503010] Steel, Psychic, and Rock Drill 1
+[quest_title_1030420800504010] Electric, Ice, and Ground Drill 1
+[quest_title_1030420800505010] Flying, Ghost, and Water Drill 1
+[quest_title_1030420800506010] Dragon, Fire, and Fighting Drill 1
+[quest_title_1030420800601010] Type Skill Drill
 [quest_group_title_10194000000] Cyrus
 [quest_title_1030210091010001] A Day with Sygna Suit Cynthia
+[quest_group_title_10021010000] Sygna Suit Blue
+[quest_group_title_10017100000] Sygna Suit Leaf
+[quest_title_1030420800101011] Ever-Greater Heights
+[quest_title_1030420800102011] Legends on Pasio: Part 1
+[quest_title_1030420800102012] Legends on Pasio: Part 2
+[quest_title_1030420800102013] Legends on Pasio: Part 3
+[quest_title_1030420800102014] Legends on Pasio: Part 4
+[quest_title_1030420800102015] Legends on Pasio: Part 5
+[quest_title_1030420800103011] Full-Force Battle! Round 1
+[quest_title_1030420800103012] Full-Force Battle! Round 2
+[quest_title_1030420800201011] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030420800201012] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030420800201013] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030420800201014] Challenge Pasio’s Trainers: Part 4
+[quest_title_1030210021010001] A Day with Sygna Suit Blue
+[quest_title_1030210017100001] A Day with Sygna Suit Leaf
+[quest_title_1030420800407010] Strike Drill 3
+[quest_title_1030420800408010] Tech Drill 3
+[quest_title_1030420800409010] Support Drill 3
+[quest_title_1030420800700010] Summit of the Strong
+[quest_title_1030420800701010] Lorelei
+[quest_title_1030420800702010] Bruno
+[quest_title_1030420800703010] Agatha
+[quest_title_1030420800704010] Lance
+[quest_title_1030420800705010] Blue
 
 ===========
 story_quest_name_es.lsd
@@ -3996,8 +4072,51 @@ corazones
 [quest_title_1030420700204012] Orbentrenamiento
 [quest_title_1030420700401010] Entrenamiento evolutivo
 [quest_title_1030420700402011] Entrenamiento evolutivo
+[quest_group_title_610060] Área de nivel máximo 2
+[quest_group_title_610061] Área de mejora de
+habilidad de tipo
+[quest_title_1030420800501010] Entrenamiento Normal, Planta
+y Siniestro 1
+[quest_title_1030420800502010] Entrenamiento Veneno, Hada
+y Bicho 1
+[quest_title_1030420800503010] Entrenamiento Acero,
+Psíquico y Roca 1
+[quest_title_1030420800504010] Entrenamiento Eléctrico, Hielo
+y Tierra 1
+[quest_title_1030420800505010] Entrenamiento Volador,
+Fantasma y Agua 1
+[quest_title_1030420800506010] Entrenamiento Dragón, Fuego
+y Lucha 1
+[quest_title_1030420800601010] Entrenamiento para mejorar
+habilidades de tipo
 [quest_group_title_10194000000] Helio
 [quest_title_1030210091010001] Un día con Cintia (Traje S)
+[quest_group_title_10021010000] Azul (Traje S)
+[quest_group_title_10017100000] Hoja (Traje S)
+[quest_title_1030420800101011] El camino hacia lo más alto
+[quest_title_1030420800102011] Los ases de Passio
+[quest_title_1030420800102012] Los ases de Passio (2)
+[quest_title_1030420800102013] Los ases de Passio (3)
+[quest_title_1030420800102014] Los ases de Passio (4)
+[quest_title_1030420800102015] Los ases de Passio (5)
+[quest_title_1030420800103011] ¡Un combate colectivo!
+[quest_title_1030420800103012] ¡Un combate colectivo! (2)
+[quest_title_1030420800201011] VS. Entrenadores de Passio
+[quest_title_1030420800201012] VS. Entrenadores de Passio (2)
+[quest_title_1030420800201013] VS. Entrenadores de Passio (3)
+[quest_title_1030420800201014] VS. Entrenadores de Passio (4)
+[quest_title_1030210021010001] Un día con Azul (Traje S)
+[quest_title_1030210017100001] Un día con Hoja (Traje S)
+[quest_title_1030420800407010] Entrenamiento de Ataque 3
+[quest_title_1030420800408010] Entrenamiento de Sabotaje 3
+[quest_title_1030420800409010] Entrenamiento de Apoyo 3
+[quest_title_1030420800700010] Donde se reúnen los más
+fuertes
+[quest_title_1030420800701010] VS. Lorelei
+[quest_title_1030420800702010] VS. Bruno
+[quest_title_1030420800703010] VS. Agatha
+[quest_title_1030420800704010] VS. Lance
+[quest_title_1030420800705010] VS. Azul
 
 ===========
 story_quest_name_fr.lsd
@@ -5144,9 +5263,59 @@ Passio IV
 [quest_title_1030420700204012] Exercice Duo-Sphères
 [quest_title_1030420700401010] Exercice évolution
 [quest_title_1030420700402011] Exercice évolution
+[quest_group_title_610060] Zone repousse-limite 2
+[quest_group_title_610061] Zone talents de type ↑
+[quest_title_1030420800501010] Exercice Normal, Plante et
+Ténèbres I
+[quest_title_1030420800502010] Exercice Poison, Fée et
+Insecte I
+[quest_title_1030420800503010] Exercice Acier, Psy et Roche I
+[quest_title_1030420800504010] Exercice Électrik, Glace et
+Sol I
+[quest_title_1030420800505010] Exercice Vol, Spectre et Eau I
+[quest_title_1030420800506010] Exercice Dragon, Feu et
+Combat I
+[quest_title_1030420800601010] Exercice talents de type ↑
 [quest_group_title_10194000000] Hélio
 [quest_title_1030210091010001] Une journée avec Cynthia
 (Look Ultime)
+[quest_group_title_10021010000] Blue (Look Ultime)
+[quest_group_title_10017100000] Leaf (Look Ultime)
+[quest_title_1030420800101011] Vers de nouveaux sommets !
+[quest_title_1030420800102011] Les Dresseurs les plus
+puissants de Passio
+[quest_title_1030420800102012] Les Dresseurs les plus
+puissants de Passio II
+[quest_title_1030420800102013] Les Dresseurs les plus
+puissants de Passio III
+[quest_title_1030420800102014] Les Dresseurs les plus
+puissants de Passio IV
+[quest_title_1030420800102015] Les Dresseurs les plus
+puissants de Passio V
+[quest_title_1030420800103011] Combat Collectif :
+l'affrontement !
+[quest_title_1030420800103012] Combat Collectif :
+l'affrontement ! II
+[quest_title_1030420800201011] Combat : Dresseurs de Passio
+[quest_title_1030420800201012] Combat :
+Dresseurs de Passio II
+[quest_title_1030420800201013] Combat :
+Dresseurs de Passio III
+[quest_title_1030420800201014] Combat :
+Dresseurs de Passio IV
+[quest_title_1030210021010001] Une journée avec Blue
+(Look Ultime)
+[quest_title_1030210017100001] Une journée avec Leaf
+(Look Ultime)
+[quest_title_1030420800407010] Exercice Attaquant III
+[quest_title_1030420800408010] Exercice Tacticien III
+[quest_title_1030420800409010] Exercice Soutien III
+[quest_title_1030420800700010] La réunion des plus grands
+[quest_title_1030420800701010] Combat : Olga
+[quest_title_1030420800702010] Combat : Aldo
+[quest_title_1030420800703010] Combat : Agatha
+[quest_title_1030420800704010] Combat : Peter
+[quest_title_1030420800705010] Combat : Blue
 
 ===========
 story_quest_name_it.lsd
@@ -6237,8 +6406,42 @@ story_quest_name_it.lsd
 [quest_title_1030420700204012] Allenamento Uniciondoli
 [quest_title_1030420700401010] Allenamento evoluzione
 [quest_title_1030420700402011] Allenamento evoluzione
+[quest_group_title_610060] Aree sblocco livello max 2
+[quest_group_title_610061] Aree rinforzo tipabilità
+[quest_title_1030420800501010] Allenamento Normale, Erba e Buio 1
+[quest_title_1030420800502010] Allenamento Veleno, Folletto e Coleottero 1
+[quest_title_1030420800503010] Allenamento Acciaio, Psico e Roccia 1
+[quest_title_1030420800504010] Allenamento Elettro, Ghiaccio e Terra 1
+[quest_title_1030420800505010] Allenamento Volante, Spettro e Acqua 1
+[quest_title_1030420800506010] Allenamento Drago, Fuoco e Lotta 1
+[quest_title_1030420800601010] Allenamento tipabilità
 [quest_group_title_10194000000] Cyrus
 [quest_title_1030210091010001] Un giorno con Camilla Costumax
+[quest_group_title_10021010000] Blu Costumax
+[quest_group_title_10017100000] Leaf Costumax
+[quest_title_1030420800101011] Verso il top
+[quest_title_1030420800102011] I talenti di Pasio
+[quest_title_1030420800102012] I talenti di Pasio 2
+[quest_title_1030420800102013] I talenti di Pasio 3
+[quest_title_1030420800102014] I talenti di Pasio 4
+[quest_title_1030420800102015] I talenti di Pasio 5
+[quest_title_1030420800103011] Una Lotta Collettiva!
+[quest_title_1030420800103012] Una Lotta Collettiva! 2
+[quest_title_1030420800201011] VS Allenatori di Pasio
+[quest_title_1030420800201012] VS Allenatori di Pasio 2
+[quest_title_1030420800201013] VS Allenatori di Pasio 3
+[quest_title_1030420800201014] VS Allenatori di Pasio 4
+[quest_title_1030210021010001] Un giorno con Blu Costumax
+[quest_title_1030210017100001] Un giorno con Leaf Costumax
+[quest_title_1030420800407010] Allenamento Attaccanti 3
+[quest_title_1030420800408010] Allenamento Tecnici 3
+[quest_title_1030420800409010] Allenamento Aiutanti 3
+[quest_title_1030420800700010] L'isola dei Campioni
+[quest_title_1030420800701010] VS Lorelei
+[quest_title_1030420800702010] VS Bruno
+[quest_title_1030420800703010] VS Agatha
+[quest_title_1030420800704010] VS Lance
+[quest_title_1030420800705010] VS Blu
 
 ===========
 story_quest_name_ja.lsd
@@ -7334,8 +7537,42 @@ story_quest_name_ja.lsd
 [quest_title_1030420700204012] バディドロップの鍛錬
 [quest_title_1030420700401010] 進化の鍛錬
 [quest_title_1030420700402011] 進化の鍛錬
+[quest_group_title_610060] ゲンカイ突破エリア２
+[quest_group_title_610061] タイプスキル強化エリア
+[quest_title_1030420800501010] ノーマル＆くさ＆あくの鍛錬１
+[quest_title_1030420800502010] どく＆フェアリー＆むしの鍛錬１
+[quest_title_1030420800503010] はがね＆エスパー＆いわの鍛錬１
+[quest_title_1030420800504010] でんき＆こおり＆じめんの鍛錬１
+[quest_title_1030420800505010] ひこう＆ゴースト＆みずの鍛錬１
+[quest_title_1030420800506010] ドラゴン＆ほのお＆かくとうの鍛錬１
+[quest_title_1030420800601010] タイプスキル強化の鍛錬
 [quest_group_title_10194000000] アカギ
 [quest_title_1030210091010001] とある日のマジコスシロナ
+[quest_group_title_10021010000] マジコスグリーン
+[quest_group_title_10017100000] マジコスリーフ
+[quest_title_1030420800101011] さらなる高みへ
+[quest_title_1030420800102011] パシオに集いし実力者たち
+[quest_title_1030420800102012] パシオに集いし実力者たち２
+[quest_title_1030420800102013] パシオに集いし実力者たち３
+[quest_title_1030420800102014] パシオに集いし実力者たち４
+[quest_title_1030420800102015] パシオに集いし実力者たち５
+[quest_title_1030420800103011] ソウリョクバトルで勝負！
+[quest_title_1030420800103012] ソウリョクバトルで勝負！２
+[quest_title_1030420800201011] ＶＳ　パシオのトレーナー
+[quest_title_1030420800201012] ＶＳ　パシオのトレーナー２
+[quest_title_1030420800201013] ＶＳ　パシオのトレーナー３
+[quest_title_1030420800201014] ＶＳ　パシオのトレーナー４
+[quest_title_1030210021010001] とある日のマジコスグリーン
+[quest_title_1030210017100001] とある日のマジコスリーフ
+[quest_title_1030420800407010] アタッカーの鍛錬３
+[quest_title_1030420800408010] テクニカルの鍛錬３
+[quest_title_1030420800409010] サポートの鍛錬３
+[quest_title_1030420800700010] 強豪たちの集いし場所
+[quest_title_1030420800701010] ＶＳ　カンナ
+[quest_title_1030420800702010] ＶＳ　シバ
+[quest_title_1030420800703010] ＶＳ　キクコ
+[quest_title_1030420800704010] ＶＳ　ワタル
+[quest_title_1030420800705010] ＶＳ　グリーン
 
 ===========
 story_quest_name_ko.lsd
@@ -8430,8 +8667,42 @@ story_quest_name_ko.lsd
 [quest_title_1030420700204012] 버디드롭의 단련
 [quest_title_1030420700401010] 진화의 단련
 [quest_title_1030420700402011] 진화의 단련
+[quest_group_title_610060] 한계돌파 에리어2
+[quest_group_title_610061] 타입스킬 강화 에리어
+[quest_title_1030420800501010] 노말&풀&악의 단련1
+[quest_title_1030420800502010] 독&페어리&벌레의 단련1
+[quest_title_1030420800503010] 강철&에스퍼&바위의 단련1
+[quest_title_1030420800504010] 전기&얼음&땅의 단련1
+[quest_title_1030420800505010] 비행&고스트&물의 단련1
+[quest_title_1030420800506010] 드래곤&불꽃&격투의 단련1
+[quest_title_1030420800601010] 타입스킬 강화의 단련
 [quest_group_title_10194000000] 태홍
 [quest_title_1030210091010001] 궁극코스 난천의 어느 날
+[quest_group_title_10021010000] 궁극코스 그린
+[quest_group_title_10017100000] 궁극코스 리프
+[quest_title_1030420800101011] 더 높은 곳을 향해
+[quest_title_1030420800102011] 파시오에 모인 실력자들
+[quest_title_1030420800102012] 파시오에 모인 실력자들2
+[quest_title_1030420800102013] 파시오에 모인 실력자들3
+[quest_title_1030420800102014] 파시오에 모인 실력자들4
+[quest_title_1030420800102015] 파시오에 모인 실력자들5
+[quest_title_1030420800103011] 총력배틀로 승부!
+[quest_title_1030420800103012] 총력배틀로 승부!2
+[quest_title_1030420800201011] VS 파시오의 트레이너
+[quest_title_1030420800201012] VS 파시오의 트레이너2
+[quest_title_1030420800201013] VS 파시오의 트레이너3
+[quest_title_1030420800201014] VS 파시오의 트레이너4
+[quest_title_1030210021010001] 궁극코스 그린의 어느 날
+[quest_title_1030210017100001] 궁극코스 리프의 어느 날
+[quest_title_1030420800407010] 어태커의 단련3
+[quest_title_1030420800408010] 테크니컬의 단련3
+[quest_title_1030420800409010] 서포트의 단련3
+[quest_title_1030420800700010] 강호들이 모인 곳
+[quest_title_1030420800701010] VS 칸나
+[quest_title_1030420800702010] VS 시바
+[quest_title_1030420800703010] VS 국화
+[quest_title_1030420800704010] VS 목호
+[quest_title_1030420800705010] VS 그린
 
 ===========
 story_quest_name_zh-TW.lsd
@@ -9526,8 +9797,42 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030420700204012] 拍檔滴晶鍛鍊
 [quest_title_1030420700401010] 進化鍛鍊
 [quest_title_1030420700402011] 進化鍛鍊
+[quest_group_title_610060] 突破界限區域２
+[quest_group_title_610061] 屬性技能強化區域
+[quest_title_1030420800501010] 一般＆草＆惡屬性鍛鍊１
+[quest_title_1030420800502010] 毒＆妖精＆蟲屬性鍛鍊１
+[quest_title_1030420800503010] 鋼＆超能力＆岩石屬性鍛鍊１
+[quest_title_1030420800504010] 電＆冰＆地面屬性鍛鍊１
+[quest_title_1030420800505010] 飛行＆幽靈＆水屬性鍛鍊１
+[quest_title_1030420800506010] 龍＆火＆格鬥屬性鍛鍊１
+[quest_title_1030420800601010] 屬性技能強化鍛鍊
 [quest_group_title_10194000000] 赤日
 [quest_title_1030210091010001] 某日的美極套裝竹蘭
+[quest_group_title_10021010000] 美極套裝青綠
+[quest_group_title_10017100000] 美極套裝葉子
+[quest_title_1030420800101011] 更高的目標
+[quest_title_1030420800102011] 聚集在帕希歐的高手們
+[quest_title_1030420800102012] 聚集在帕希歐的高手們２
+[quest_title_1030420800102013] 聚集在帕希歐的高手們３
+[quest_title_1030420800102014] 聚集在帕希歐的高手們４
+[quest_title_1030420800102015] 聚集在帕希歐的高手們５
+[quest_title_1030420800103011] 用大對戰決勝負！
+[quest_title_1030420800103012] 用大對戰決勝負！２
+[quest_title_1030420800201011] ＶＳ　帕希歐的訓練家
+[quest_title_1030420800201012] ＶＳ　帕希歐的訓練家２
+[quest_title_1030420800201013] ＶＳ　帕希歐的訓練家３
+[quest_title_1030420800201014] ＶＳ　帕希歐的訓練家４
+[quest_title_1030210021010001] 某日的美極套裝青綠
+[quest_title_1030210017100001] 某日的美極套裝葉子
+[quest_title_1030420800407010] 攻擊型鍛鍊３
+[quest_title_1030420800408010] 技術型鍛鍊３
+[quest_title_1030420800409010] 輔助型鍛鍊３
+[quest_title_1030420800700010] 高手雲集之地
+[quest_title_1030420800701010] ＶＳ　科拿
+[quest_title_1030420800702010] ＶＳ　希巴
+[quest_title_1030420800703010] ＶＳ　菊子
+[quest_title_1030420800704010] ＶＳ　阿渡
+[quest_title_1030420800705010] ＶＳ　青綠
 
 ===========
 trainer_description_de.lsd
@@ -9866,6 +10171,12 @@ Alola-Sandamer in Höhlen nach Steinen sucht.
 überstehen. Sie blickt dem Festival voller Vorfreude
 entgegen und singt und tanzt gemeinsam mit ihrem
 Pokémon Pummeluff.
+[10021010000] Blau trägt eine modische Machtmontur. Mit seinem Turtok
+hat er schon zahlreiche Kämpfe überwunden. Sie beide
+streben stets danach, die Allerbesten zu sein.
+[10017100000] Leaf trägt eine sportliche Machtmontur. Sie und ihr Bisaflor
+vertrauen sich blind und schwören, ihre Freunde mit aller
+Kraft zu beschützen.
 
 ===========
 trainer_description_en.lsd
@@ -10200,6 +10511,12 @@ entering caves in search of rare stones.
 [10002400000] Lyra has a new outfit to beat the summer heat! Caught up
 in the fun atmosphere of a summer festival, she can’t help
 but dance and sing with her partner, Jigglypuff.
+[10021010000] Blue is looking stylish in his sygna suit. With his Blastoise
+by his side, he has faced many strong opponents in his
+pursuit to become the greatest Trainer.
+[10017100000] Leaf’s sygna suit has a sporty look. Together with her
+trusted partner, Venusaur, she has pledged to fight with
+all her strength to protect her friends.
 
 ===========
 trainer_description_es.lsd
@@ -10581,6 +10898,13 @@ junto a un Sandslash de Alola.
 ponerse ropa más fresca. El festival de música ha sacado
 su yo más alegre y festivo, el cual comparte con su compi
 Jigglypuff cantando y bailando.
+[10021010000] Azul vuelve a la carga con un Traje Summum muy
+moderno. Habiendo superado multitud de enfrentamientos
+contra rivales de fuerza encomiable, ahora tiene como
+objetivo convertirse en el más fuerte junto a su Blastoise.
+[10017100000] Hoja luce su nuevo Traje Summum, que le otorga un
+aspecto muy deportivo. Juró emplear toda su fuerza en
+defender a sus amigos junto a su fiel Venusaur.
 
 ===========
 trainer_description_fr.lsd
@@ -10901,6 +11225,12 @@ ardeurs de ses adversaires.
 s'est procurée une toute nouvelle tenue. Charmés par
 l'ambiance joyeuse des festivals, elle et Rondoudou
 dansent et chantent à tue-tête.
+[10021010000] Blue a revêtu son Look Ultime et vise les sommets
+avec son Tortank. Ensemble, ils ont vaincu des
+adversaires parmi les plus coriaces !
+[10017100000] Avec son Look Ultime très sport, Leaf a juré de protéger
+ses amis et de se battre de toutes ses forces aux côtés de
+son Florizarre avec qui elle partage un lien indéfectible.
 
 ===========
 trainer_description_it.lsd
@@ -11245,6 +11575,14 @@ nelle caverne insieme al suo Sandslash di Alola.
 il caldo dell'estate, Cetra viene attratta dall'atmosfera
 gioiosa del festival e si diletta a cantare e a ballare
 insieme al suo Jigglypuff.
+[10021010000] Blu indossa un Costumax dallo stile inconfondibile
+e punta a diventare il più forte insieme a Blastoise,
+con il quale ha già affrontato innumerevoli lotte contro
+avversari formidabili.
+[10017100000] Con indosso il suo Costumax dal design sportivo, Leaf
+giura di lottare con tutte le forze per proteggere
+i suoi compagni insieme a Venusaur, a cui è legata
+da un profondo sentimento di fiducia.
 
 ===========
 trainer_description_ja.lsd
@@ -11579,6 +11917,12 @@ trainer_description_ja.lsd
 [10002400000] 暑い夏を　乗りきる　新しい衣装を　着た　コトネ。
 お祭りの　ワクワク　楽しい　雰囲気に　誘われて
 パートナーの　プリンと　一緒に　歌って　踊りだす。
+[10021010000] スタイリッシュな　マジコスを身にまとう　グリーン。
+さまざまな　強敵との戦いを　乗りこえてきた
+カメックスと　共に　自分たちの　最強を　目指す。
+[10017100000] スポーティな　マジコスを　身にまとう　リーフ。
+心から　信頼しあっている　フシギバナと　共に
+仲間を守り　全力で戦うと　誓う。
 
 ===========
 trainer_description_ko.lsd
@@ -11913,6 +12257,12 @@ trainer_description_ko.lsd
 [10002400000] 뜨거운 여름을 보내기 위해 새로운 옷을 입은 금선.
 즐겁고 두근거리는 축제의 분위기에 이끌려
 파트너인 푸린과 함께 노래하고 춤추기 시작한다.
+[10021010000] 스타일리시한 궁극코스를 입은 그린.
+다양한 강적과의 전투에서 승리해 온 거북왕과 함께
+자신들이 정한 최강을 목표한다.
+[10017100000] 스포티한 궁극코스를 입은 리프.
+진심으로 신뢰하는 이상해꽃과 함께
+동료를 지키며 전력으로 싸우겠다고 맹세한다.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -12246,6 +12596,12 @@ trainer_description_zh-TW.lsd
 [10002400000] 穿上新衣以抵抗炎夏酷暑的琴音。
 她被祭典上歡樂熱鬧的氣氛感染，
 忍不住和她的拍檔胖丁一起唱歌跳舞了起來。
+[10021010000] 身穿時尚美極套裝的青綠。
+和一同面對無數強敵的水箭龜一起，
+以最強的自己為目標向前邁進。
+[10017100000] 身穿輕便美極套裝的葉子。
+與她全心信賴的妙蛙花一起，
+發誓為守護夥伴全力作戰！
 
 ===========
 trainer_name_de.lsd
@@ -13359,6 +13715,7 @@ common_widget_de.lsd
 [common_widget/cell_041] Stufe
 [common_widget/cell_042] × [Digit:3digits ]
 [common_widget/cell_043] Im Gang
+[common_widget/cell_045] 6★ EX
 [common_widget/button_001] OK
 [common_widget/button_002] Ja
 [common_widget/button_003] Nein
@@ -13397,7 +13754,7 @@ wirklich beenden?
 [common_widget/dialog_013] Der Kampf wurde unterbrochen.
 [common_widget/dialog_014] Aufgeben
 [common_widget/dialog_015] Fortsetzen
-[common_widget/dialog_016] Ein Kampf ist im Gange. Möchtest du
+[common_widget/dialog_016] Ein Kampf ist im Gang. Möchtest du
 ihn fortsetzen?
 [common_widget/dialog_017] Bist du sicher, dass du das Abenteuer
 abbrechen möchtest?
@@ -13491,6 +13848,14 @@ und die Stärke der Attacken von
 [Name:TrainerName ] & [Name:PokemonName ].
 [common_widget/dialog_065] Hinweis: Wurde Attacken-Level 5 erreicht, wird ein
 Potenzialpass für die ursprüngliche Anzahl an ★ daraus.
+[common_widget/dialog_067] Du hast ein EX-Farboutfit erhalten.
+Möchtest du es verwenden? Du kannst
+das Outfit später im Gefährten-Menü
+jederzeit ändern, wenn du die Details
+zu diesen Gefährten öffnest.
+[common_widget/dialog_068] Wenn du das Potenzial eines
+Gefährtengespanns auf 6★ EX
+erhöhst, erhältst du sein EX-Farboutfit.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -13541,10 +13906,15 @@ mit allen Attacken und Fähigkeiten erlernt.
 [common_widget/trainer_detail_052] Typenfähigkeit
 [common_widget/trainer_detail_053] Bedingungen
 [common_widget/trainer_detail_054] Effekt
+[common_widget/trainer_detail_055] Zusatzeffekte
 [common_widget/trainer_detail_056] Angaben gelten für den maximalen
 Level der aktuellen ★-Zahl.
 [common_widget/trainer_detail_057] Angaben gelten für Lv. 1 der
 aktuellen ★-Zahl.
+[common_widget/trainer_detail_058] Möchtest du das Outfit
+dieser Gefährten wechseln?
+
+[common_widget/trainer_detail_059] Hinweis: Danach kehrst du ins Pokémon-Center zurück.
 [common_widget/dialog_special_item_001] [Name:Item ]
 erhalten!
 [common_widget/dialog_special_item_002] Noch [Digit:1digit ] Orden!
@@ -13630,6 +14000,20 @@ wurde zu einem
 [common_widget/cutin_001] Levelaufstieg!
 [common_widget/cutin_002] Lv.
 [common_widget/cutin_003] Potenzial erhöht!
+[common_widget/cutin_004] Erhöhbar
+auf 6★ EX
+[common_widget/cutin_005] EX-Farboutfit
+erhalten!
+[common_widget/cutin_007] Gefährtenattacke
+[common_widget/cutin_008] × [Digit:4digits ]
+[common_widget/cutin_009] Attacken-Level erhöhen
+[common_widget/cutin_010] Die Stärke von [Name:Move ] wurde erhöht.
+[common_widget/cutin_011] Auf dem Gefährtensteinbrett wurden Felder nach
+Erfüllung bestimmter Bedingungen freigeschaltet.
+[common_widget/cutin_012] [Name:TrainerName ] &
+[Name:PokemonName ]
+[common_widget/cutin_013] Die Gefährtenattacke
+wurde verstärkt!
 [common_widget/account_001] Transfer abgeschlossen
 [common_widget/account_002] Deine gesicherten Spieldaten
 wurden erfolgreich von deinem
@@ -13784,6 +14168,7 @@ common_widget_en.lsd
 [common_widget/cell_041] Pool
 [common_widget/cell_042] ×[Digit:3digits ]
 [common_widget/cell_043] In progress
+[common_widget/cell_045] 6★ EX
 [common_widget/button_001] OK
 [common_widget/button_002] Yes
 [common_widget/button_003] No
@@ -13903,6 +14288,12 @@ Returning to the Pokémon Center.
 and may power up their other moves.
 [common_widget/dialog_065] Note: If moves are already Lv. 5, you’ll receive a
 ★ power-up based on the sync pair’s initial potential.
+[common_widget/dialog_067] You received this sync pair’s EX style.
+Would you like to switch to their new
+look now? You can also switch looks
+later on the sync pair’s details screen.
+[common_widget/dialog_068] Raising a sync pair to 6★ EX unlocks
+their EX style.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -13951,10 +14342,14 @@ with all moves and skills unlocked
 [common_widget/trainer_detail_052] Type Skills
 [common_widget/trainer_detail_053] Conditions
 [common_widget/trainer_detail_054] Effects
+[common_widget/trainer_detail_055] Additional Effects
 [common_widget/trainer_detail_056] Stats at current number of ★s
 at max level
 [common_widget/trainer_detail_057] Stats at current number of ★s
 at Lv. 1
+[common_widget/trainer_detail_058] Would you like to switch looks?
+[common_widget/trainer_detail_059] Note: You will be returned to the Pokémon Center after
+the switch.
 [common_widget/dialog_special_item_001] [Name:Item ]
 [common_widget/dialog_special_item_002] Only [Digit:1digit ] more [EN:Qty S="badge" P="badges" ] to go!
 [common_widget/dialog_special_item_003] All badges acquired! Time to compete in the PML!
@@ -14038,6 +14433,20 @@ into [Name:PokemonName ]!
 [common_widget/cutin_001] Level Up!
 [common_widget/cutin_002] Lv.
 [common_widget/cutin_003] Potential increased!
+[common_widget/cutin_004] 6★ EX
+Unlocked!
+[common_widget/cutin_005] EX Style
+Received!
+[common_widget/cutin_007] Sync Move
+[common_widget/cutin_008] ×[Digit:4digits ]
+[common_widget/cutin_009] Move Level-Up Details
+[common_widget/cutin_010] [Name:Move ] has been powered up.
+[common_widget/cutin_011] New sync grid tiles meeting certain requirements
+have been unlocked.
+[common_widget/cutin_012] [Name:TrainerName ]
+& [Name:PokemonName ]
+[common_widget/cutin_013] Sync Move
+Powered Up!
 [common_widget/account_001] Transfer Complete
 [common_widget/account_002] Your backup game data has been
 successfully transferred to this device
@@ -14165,6 +14574,7 @@ common_widget_es.lsd
 [common_widget/cell_041] Fase
 [common_widget/cell_042] × [Digit:3digits ]
 [common_widget/cell_043] En curso
+[common_widget/cell_045] 6★ EX
 [common_widget/button_001] Vale
 [common_widget/button_002] Sí
 [common_widget/button_003] No
@@ -14292,6 +14702,14 @@ y del movimiento compi de
 [Name:TrainerName ] y [Name:PokemonName ].
 [common_widget/dialog_065] *Si el nivel de movimientos ya es 5, se intercambiará por
 un Potenciador del mismo número de ★ que los compis.
+[common_widget/dialog_067] ¡Has conseguido un Traje EX!
+Puedes cambiar el traje en cualquier
+momento en la pantalla de detalles
+de esta pareja de compis.
+¿Quieres ponérselo ahora?
+[common_widget/dialog_068] Cuando una pareja alcance un
+potencial de 6★ EX, conseguirás
+su Traje EX especial.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Nv.
 [common_widget/trainer_detail_004] MÁX.
@@ -14339,8 +14757,12 @@ se hará más fuerte.
 de tipo
 [common_widget/trainer_detail_053] Requisitos
 [common_widget/trainer_detail_054] Efectos
+[common_widget/trainer_detail_055] Efectos secundarios
 [common_widget/trainer_detail_056] Características máximas de esta pareja con el número actual de ★ y a nivel máximo.
 [common_widget/trainer_detail_057] Características máximas de esta pareja con el número actual de ★ y a Nv. 1.
+[common_widget/trainer_detail_058] ¿Quieres que cambie de traje?
+[common_widget/trainer_detail_059] Nota: Regresarás al Centro Pokémon tras efectuar el
+cambio de vestimenta.
 [common_widget/dialog_special_item_001] Has conseguido:
 [Name:Item ]
 [common_widget/dialog_special_item_002] Medallas restantes: [Digit:1digit ]
@@ -14429,6 +14851,21 @@ evolución?
 [common_widget/cutin_001] ¡Sube de nivel!
 [common_widget/cutin_002] Nv.
 [common_widget/cutin_003] ¡Potencial aumentado!
+[common_widget/cutin_004] ¡6★ EX
+desbloqueado!
+[common_widget/cutin_005] ¡Has conseguido
+un Traje EX!
+[common_widget/cutin_007] Movimiento compi
+[common_widget/cutin_008] × [Digit:4digits ]
+[common_widget/cutin_009] Detalles de la mejoras
+[common_widget/cutin_010] Se ha aumentado la potencia de
+[Name:Move ].
+[common_widget/cutin_011] Se han desbloqueado casillas del Tablero de la
+Piedra Compi por cumplir ciertos requisitos.
+[common_widget/cutin_012] [Name:TrainerName ]
+y [Name:PokemonName ]
+[common_widget/cutin_013] ¡Movimiento
+compi mejorado!
 [common_widget/account_001] Datos transferidos
 [common_widget/account_002] Se ha completado la transferencia
 de los datos de guardado desde tu
@@ -14562,6 +14999,7 @@ common_widget_fr.lsd
 [common_widget/cell_041] Étape
 [common_widget/cell_042] × [Digit:3digits ]
 [common_widget/cell_043] En cours
+[common_widget/cell_045] 6★ EX
 [common_widget/button_001] OK
 [common_widget/button_002] Oui
 [common_widget/button_003] Non
@@ -14684,6 +15122,14 @@ et des capacités de [Name:TrainerName ]
 & [Name:PokemonName ].
 [common_widget/dialog_065] Si les capacités du Duo sont déjà au N. 5, cet objet
 devient un Duo-Ticket du même nombre de ★.
+[common_widget/dialog_067] Vous avez obtenu une Tenue Couleur EX.
+Voulez-vous que votre Duo la porte ?
+
+Vous pouvez changer la tenue depuis
+l'écran de description du Duo.
+[common_widget/dialog_068] Quand le potentiel d'un Duo passe
+à 6★ EX, vous obtenez une Tenue
+Couleur EX.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] N.
 [common_widget/trainer_detail_004] MAX
@@ -14706,8 +15152,8 @@ devient un Duo-Ticket du même nombre de ★.
 [common_widget/trainer_detail_022] Précision
 [common_widget/trainer_detail_023] Cible
 [common_widget/trainer_detail_024] Effets
-[common_widget/trainer_detail_027] Capacité
-[common_widget/trainer_detail_028] Talent passif
+[common_widget/trainer_detail_027] Capacités
+[common_widget/trainer_detail_028] Talents passifs
 [common_widget/trainer_detail_033] Type
 [common_widget/trainer_detail_037] N. 1
 [common_widget/trainer_detail_038] N.
@@ -14728,15 +15174,20 @@ la force du Duo.
 
 Afficher les épisodes Duo ?
 [common_widget/trainer_detail_050] Stats du Duo au nombre d'★ actuel et au niveau 1, avec toutes les capacités et talents passifs débloqués.
-[common_widget/trainer_detail_051] Talent surprise
+[common_widget/trainer_detail_051] Talents surprise
 [common_widget/trainer_detail_052] Talents de type
 [common_widget/trainer_detail_053] Conditions
 [common_widget/trainer_detail_054] Effet
+[common_widget/trainer_detail_055] Effets additionnels.
 [common_widget/trainer_detail_056] Stats du Duo au nombre d'★ actuel,
 quand il aura atteint sa limite de
 niveau.
 [common_widget/trainer_detail_057] Stats du Duo au nombre d'★ actuel
 et au niveau 1.
+[common_widget/trainer_detail_058] Voulez-vous changer la tenue
+de ce Duo ?
+[common_widget/trainer_detail_059] Vous retournerez au Centre Pokémon une fois
+le changement effectué.
 [common_widget/dialog_special_item_001] Vous avez obtenu
 1 [Name:Item ] !
 [common_widget/dialog_special_item_002] Encore [Digit:1digit ] Badge[FR:Qty P="s" ] à obtenir !
@@ -14823,6 +15274,21 @@ a évolué en
 [common_widget/cutin_001] Niveau ↑ !
 [common_widget/cutin_002] N.
 [common_widget/cutin_003] Potentiel augmenté !
+[common_widget/cutin_004] 6★ EX 
+débloqué !
+[common_widget/cutin_005] Tenue Couleur
+EX reçue !
+[common_widget/cutin_007] Capacité Duo
+[common_widget/cutin_008] × [Digit:4digits ]
+[common_widget/cutin_009] Renforcement des capacités
+[common_widget/cutin_010] La puissance a augmenté pour :
+[Name:Move ]
+[common_widget/cutin_011] Vous avez rempli les conditions nécessaires pour
+activer certaines cases du Plateau Duo-Gemme !
+[common_widget/cutin_012] [Name:TrainerName ] &
+[Name:PokemonName ]
+[common_widget/cutin_013] Puissance
+augmentée !
 [common_widget/account_001] Transfert terminé
 [common_widget/account_002] Vos données de jeu de votre
 compte Nintendo ont bien été
@@ -14964,6 +15430,7 @@ common_widget_it.lsd
 [common_widget/cell_041] Scrigno
 [common_widget/cell_042] ×[Digit:3digits ]
 [common_widget/cell_043] Sfida in corso
+[common_widget/cell_045] 6★ EX
 [common_widget/button_001] Ok
 [common_widget/button_002] Sì
 [common_widget/button_003] No
@@ -15080,6 +15547,14 @@ e delle mosse di
 [Name:PokemonName ]
 [common_widget/dialog_065] Se il livello delle mosse è 5, le Unità identiche diventano
 Uniticket corrispondenti al numero di ★ iniziale.
+[common_widget/dialog_067] Hai ottenuto un Costume EX! Puoi farlo
+indossare in qualsiasi momento
+dalla schermata con le informazioni
+sull'Unità.
+Vuoi far cambiare subito l'Unità?
+[common_widget/dialog_068] Puoi ottenere un Costume EX
+aumentando il numero di ★ di un'Unità
+fino a 6★ EX.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] L.
 [common_widget/trainer_detail_004] MAX
@@ -15128,10 +15603,13 @@ Vuoi andare agli episodi Unità?
 [common_widget/trainer_detail_052] Tipabilità
 [common_widget/trainer_detail_053] Requisiti
 [common_widget/trainer_detail_054] Effetti
+[common_widget/trainer_detail_055] Effetti aggiuntivi
 [common_widget/trainer_detail_056] Valori per l'Unità al numero di ★
 attuale e al livello massimo.
 [common_widget/trainer_detail_057] Valori per l'Unità al numero di ★
 attuale e al L. 1.
+[common_widget/trainer_detail_058] Vuoi far cambiare i vestiti all'Unità?
+[common_widget/trainer_detail_059] Dopo il cambio d'abito farai ritorno al Centro Pokémon.
 [common_widget/dialog_special_item_001] Hai ottenuto: [Name:Item ]!
 [common_widget/dialog_special_item_002] Medaglie mancanti: [Digit:1digit ]!
 [common_widget/dialog_special_item_003] Ora hai tutte le medaglie! Puoi affrontare il WPM!
@@ -15215,6 +15693,21 @@ dell'evoluzione?
 [common_widget/cutin_001] NUOVO LIVELLO!
 [common_widget/cutin_002] L. 
 [common_widget/cutin_003] AUMENTO ★!
+[common_widget/cutin_004] Unità pronta
+per 6★ EX!
+[common_widget/cutin_005] Costume EX
+ottenuto!
+[common_widget/cutin_007] Unimossa
+[common_widget/cutin_008] ×[Digit:4digits ]
+[common_widget/cutin_009] Info aumento livello mosse
+[common_widget/cutin_010] La potenza della seguente mossa è aumentata:
+[Name:Move ].
+[common_widget/cutin_011] Hai sbloccato alcune caselle della Teca Pietra
+Unità soddisfacendo determinati requisiti.
+[common_widget/cutin_012] [Name:TrainerName ] &
+[Name:PokemonName ]
+[common_widget/cutin_013] Unimossa
+potenziata!
 [common_widget/account_001] Trasferimento effettuato
 [common_widget/account_002] I dati di salvataggio di backup sono
 stati trasferiti con successo dal tuo
@@ -15347,6 +15840,7 @@ common_widget_ja.lsd
 [common_widget/cell_041] STEP
 [common_widget/cell_042] ×[Digit:3digits ]
 [common_widget/cell_043] 挑戦中
+[common_widget/cell_045] ★6EX
 [common_widget/button_001] OK
 [common_widget/button_002] はい
 [common_widget/button_003] いいえ
@@ -15461,6 +15955,13 @@ common_widget_ja.lsd
 バディーズわざと　わざの威力が上昇します
 [common_widget/dialog_065] ※わざレベルが５の場合　元の★の数の
 のびしろに変わります
+[common_widget/dialog_067] EXカラー衣装を　かくとくしました
+EXカラー衣装に　変更しますか？
+
+あとからバディーズ詳細で
+変更することもできます
+[common_widget/dialog_068] バディーズを★6EXにすることで
+EXカラー衣装が　かくとくできます
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -15511,8 +16012,12 @@ MAX
 [common_widget/trainer_detail_052] タイプスキル
 [common_widget/trainer_detail_053] 発動条件
 [common_widget/trainer_detail_054] 効果
+[common_widget/trainer_detail_055] 追加効果
 [common_widget/trainer_detail_056] ※現在の★の数における最大Lv.状態
 [common_widget/trainer_detail_057] ※現在の★の数におけるLv.1状態
+[common_widget/trainer_detail_058] EXカラーチェンジを実行します
+よろしいですか？
+[common_widget/trainer_detail_059] ※実行後ポケモンセンターに戻ります
 [common_widget/dialog_special_item_001] [Name:Item ]を
 獲得しました！
 [common_widget/dialog_special_item_002] のこるバッジは　あと[Digit:1digit ]個！
@@ -15596,6 +16101,18 @@ Lv.MAX
 [common_widget/cutin_001] レベルアップ!
 [common_widget/cutin_002] Lv.
 [common_widget/cutin_003] ★アップ!
+[common_widget/cutin_004] ★6EXへ
+★アップ準備完了
+[common_widget/cutin_005] EXカラー衣装
+かくとく!
+[common_widget/cutin_007] バディーズわざ
+[common_widget/cutin_008] [Digit:4digits ]倍
+[common_widget/cutin_009] わざレベルアップ詳細
+[common_widget/cutin_010] [Name:Move ]のわざの威力が上昇しました
+[common_widget/cutin_011] 特定の解放条件を満たしたバディストーンボードのパネルがアンロックされました
+[common_widget/cutin_012] [Name:TrainerName ]＆[Name:PokemonName ]
+[common_widget/cutin_013] バディーズわざ
+パワーアップ!
 [common_widget/account_001] 引き継ぎ完了
 [common_widget/account_002] ゲームデータの引き継ぎが
 完了しました
@@ -15742,6 +16259,7 @@ common_widget_ko.lsd
 [common_widget/cell_041] STEP
 [common_widget/cell_042] ×[Digit:3digits ]
 [common_widget/cell_043] 도전 중
+[common_widget/cell_045] ★6EX
 [common_widget/button_001] OK
 [common_widget/button_002] 네
 [common_widget/button_003] 아니요
@@ -15855,6 +16373,12 @@ common_widget_ko.lsd
 버디즈기술과 기술의 위력이 상승합니다
 [common_widget/dialog_065] ※기술 레벨이 5인 경우에는
 원래 ★의 수의 잠재력으로 바뀝니다
+[common_widget/dialog_067] EX컬러 의상을 획득했습니다
+EX컬러 의상으로 변경하겠습니까?
+나중에 버디즈 상세에서
+변경할 수도 있습니다
+[common_widget/dialog_068] 버디즈를 ★6EX로 만들면
+EX컬러 의상을 획득할 수 있습니다
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -15904,10 +16428,14 @@ Lv.1/기술・스킬 습득을 모두 완료한 상태
 [common_widget/trainer_detail_052] 타입스킬
 [common_widget/trainer_detail_053] 발동 조건
 [common_widget/trainer_detail_054] 효과
+[common_widget/trainer_detail_055] 추가 효과
 [common_widget/trainer_detail_056] ※현재 ★의 수에서 진행할 수 있는
 최대 Lv. 상태
 [common_widget/trainer_detail_057] ※현재 ★의 수에서 진행할 수 있는
 Lv.1 상태
+[common_widget/trainer_detail_058] EX컬러 체인지를 실행합니다
+괜찮겠습니까?
+[common_widget/trainer_detail_059] ※실행 후 포켓몬센터로 돌아갑니다
 [common_widget/dialog_special_item_001] [Name:Item ][Kor:Particle char="wo" ]
 획득했습니다!
 [common_widget/dialog_special_item_002] 남은 배지는 앞으로 [Digit:1digit ]개!
@@ -15991,6 +16519,19 @@ Lv.MAX
 [common_widget/cutin_001] 레벨업!
 [common_widget/cutin_002] Lv.
 [common_widget/cutin_003] ★상승!
+[common_widget/cutin_004] ★6EX로
+★상승 준비 완료
+[common_widget/cutin_005] EX컬러 의상
+획득!
+[common_widget/cutin_007] 버디즈기술
+[common_widget/cutin_008] [Digit:4digits ]배
+[common_widget/cutin_009] 기술 레벨업 상세
+[common_widget/cutin_010] [Name:Move ]의
+위력이 상승했습니다
+[common_widget/cutin_011] 특정 해방조건을 충족한 버디스톤보드 패널이 해방되었습니다
+[common_widget/cutin_012] [Name:TrainerName ]&[Name:PokemonName ]
+[common_widget/cutin_013] 버디즈기술
+파워업!
 [common_widget/account_001] 이어받기 완료
 [common_widget/account_002] 게임 데이터의 이어받기가
 완료되었습니다
@@ -16133,6 +16674,7 @@ common_widget_zh-TW.lsd
 [common_widget/cell_041] STEP
 [common_widget/cell_042] ×[Digit:3digits ]
 [common_widget/cell_043] 挑戰中
+[common_widget/cell_045] ★6EX
 [common_widget/button_001] OK
 [common_widget/button_002] 是
 [common_widget/button_003] 否
@@ -16234,6 +16776,12 @@ common_widget_zh-TW.lsd
 拍組招式和招式威力
 [common_widget/dialog_065] ※當招式已達到等級５時
 會變成與初始★數相同★數的成長潛力
+[common_widget/dialog_067] 獲得了EX服裝
+要更換為EX服裝嗎？
+服裝之後仍可在
+拍組詳細資訊中更改
+[common_widget/dialog_068] 讓拍組成長為★6EX
+可獲得EX服裝
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -16283,8 +16831,11 @@ MAX
 [common_widget/trainer_detail_052] 屬性技能
 [common_widget/trainer_detail_053] 發動條件
 [common_widget/trainer_detail_054] 效果
+[common_widget/trainer_detail_055] 追加效果
 [common_widget/trainer_detail_056] ※在目前的★數達到最高等級時的狀態
 [common_widget/trainer_detail_057] ※在目前★數且等級為Lv.1時的狀態
+[common_widget/trainer_detail_058] 確定要執行EX換裝嗎？
+[common_widget/trainer_detail_059] ※執行後將回到寶可夢中心
 [common_widget/dialog_special_item_001] 獲得了
 [Name:Item ]！
 [common_widget/dialog_special_item_002] 還剩下[Digit:1digit ]個徽章！
@@ -16366,6 +16917,18 @@ Lv.MAX
 [common_widget/cutin_001] 升級！
 [common_widget/cutin_002] Lv.
 [common_widget/cutin_003] ★提升！
+[common_widget/cutin_004] 成長至★6EX
+★提升準備完成
+[common_widget/cutin_005] 獲得了
+EX服裝！
+[common_widget/cutin_007] 拍組招式
+[common_widget/cutin_008] [Digit:4digits ]倍
+[common_widget/cutin_009] 提升招式等級說明
+[common_widget/cutin_010] [Name:Move ]的招式威力提升了
+[common_widget/cutin_011] 達成特定開放條件的拍檔石盤格子已解鎖
+[common_widget/cutin_012] [Name:TrainerName ]＆[Name:PokemonName ]
+[common_widget/cutin_013] 拍組招式
+威力提升！
 [common_widget/account_001] 完成資料轉移
 [common_widget/account_002] 遊戲資料已轉移
 您現在可使用Nintendo Account
@@ -16719,6 +17282,11 @@ Apple-ID verknüpft hast.
 [error_dialog_contents/31906] Beim Verknüpfen des Accounts ist ein
 Fehler aufgetreten. Das Spiel wird neu
 gestartet.
+[error_dialog_contents/31907] Diese Speicherdaten sind mit einem
+anderen Nintendo-Account verknüpft.
+Bitte wähle einen Nintendo-Account
+aus, mit dem diese Speicherdaten
+verbunden sind.
 [error_dialog_contents/30212] Mit diesem Nintendo-Account wurden
 keine Speicherdaten verknüpft. Starte
 den Transfer erneut, nachdem du im
@@ -16927,6 +17495,11 @@ an Apple ID with linked save data.
 your account.
 
 Restarting the game.
+[error_dialog_contents/31907] This save data is linked to a different
+Nintendo Account.
+
+Please specify the Nintendo Account to
+which this save data is linked.
 [error_dialog_contents/30212] There is no existing save data linked to
 this Nintendo Account.
 
@@ -17161,6 +17734,11 @@ prueba con un ID de Apple que tenga
 datos de guardado.
 [error_dialog_contents/31906] Se ha producido un error al vincular la
 cuenta. Se va a reiniciar el juego.
+[error_dialog_contents/31907] Los datos de guardado están vinculados
+a otra cuenta Nintendo.
+Introduce los datos de la cuenta
+Nintendo a la que están vinculados
+estos datos.
 [error_dialog_contents/30212] No existen datos de guardado
 vinculados a esta cuenta Nintendo.
 Accede a "Cuenta" en el Porygófono y
@@ -17391,6 +17969,11 @@ avec un identifiant Apple associé.
 [error_dialog_contents/31906] Une erreur est survenue pendant
 l'association au compte.
 Le jeu va redémarrer.
+[error_dialog_contents/31907] Ces données de sauvegarde sont
+associées à un autre compte Nintendo.
+
+Veuillez saisir le compte Nintendo
+auquel ces données sont associées.
 [error_dialog_contents/30212] Aucune donnée de sauvegarde n'est
 associée à votre compte Nintendo.
 Sélectionnez « Compte » depuis le
@@ -17629,6 +18212,10 @@ con un ID Apple già collegato.
 [error_dialog_contents/31906] Si è verificato un errore durante
 il collegamento dell'account.
 Il gioco verrà riavviato.
+[error_dialog_contents/31907] I dati di salvataggio in uso sono
+collegati a un altro account Nintendo.
+Specifica l'account Nintendo associato
+a questi dati di salvataggio.
 [error_dialog_contents/30212] Non sono stati trovati dati
 di salvataggio collegati all'account
 Nintendo. Seleziona "Account"
@@ -17898,6 +18485,11 @@ Apple IDで再度引き継ぎを行ってください
 エラーが発生しました
 
 ゲームを再起動します
+[error_dialog_contents/31907] ご利用のセーブデータは
+別のニンテンドーアカウントと
+連携しています
+このセーブデータに紐付いている
+ニンテンドーアカウントを指定してください
 [error_dialog_contents/30212] ニンテンドーアカウントに連携されている
 セーブデータが存在しません
 
@@ -18141,6 +18733,10 @@ Apple ID로 다시 이어받기를 진행하여 주십시오
 [error_dialog_contents/31906] 어카운트 연동 중에
 에러가 발생했습니다
 게임을 다시 시작합니다
+[error_dialog_contents/31907] 이용 중이신 저장 데이터는
+다른 닌텐도 어카운트와 연동되어 있습니다
+이 저장 데이터와 연동되어 있는
+닌텐도 어카운트를 지정하여 주십시오
 [error_dialog_contents/30212] 닌텐도 어카운트에 연동된 저장 데이터가
 존재하지 않습니다
 게임 내의 "어카운트 관리"에서 연동한
@@ -18349,6 +18945,10 @@ Nintendo Account使用條款
 再次進行資料轉移
 [error_dialog_contents/31906] 帳號連動時發生錯誤
 遊戲將重新啟動
+[error_dialog_contents/31907] 使用中的儲存資料
+已和其他的Nintendo Account連動
+請指定與此儲存資料
+綁定的Nintendo Account
 [error_dialog_contents/30212] 沒有和Nintendo Account連動的儲存資料
 
 請使用在遊戲的「帳號管理」中
@@ -18380,6 +18980,11 @@ home_de.lsd
 [home/quest_list_title_006] Hauptgeschichte (Multi)
 [home/quest_list_title_007] Abenteuer
 [home/quest_list_title_008] Trainingsgebiet
+[home/quest_list_title_009] Hauptgeschichte
+(Multi)
+[home/quest_list_title_010] Kampfvilla
+(Multi)
+[home/quest_list_title_011] Champkampf
 [home/quest_list_013] Erf.
 [home/quest_list_017] Gemeinsam spielen
 [home/quest_list_018] Mit zufälligen
@@ -18477,6 +19082,8 @@ nicht drei Teams ausgewählt hast.
 [home/quest_list_095] Gefährtendrops↑
 [home/quest_list_096] Lv. [Digit:3digits ]
 [home/quest_list_097] Noch [Digit:2digits ] Mal
+[home/quest_list_098] Legenden-Event
+[home/quest_list_100] 1-Jahres-Jubiläum
 [home/quest_detail_003] Empfohlener Typ
 [home/quest_detail_005] Details
 [home/quest_detail_009] Teamauswahl
@@ -18596,6 +19203,10 @@ erfahren.
 endet bald. Schaue im Laden vorbei,
 um mehr zu erfahren.
 [home/home_026] Zeitlich begr. G-Suche!
+[home/home_027] Gefährtensuche
+[home/home_028] Zur G-Suche
+[home/home_029] Mitteilung nicht mehr zeigen.
+[home/home_030] Gefährten
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missionen
 [home/global_menu_008] Freunde
@@ -18731,6 +19342,8 @@ kampfunfähig. Du kannst nicht
 aufbrechen.
 [home/legend_battle_028] Hinweis: Brichst du die Teilnahme ab, werden alle
 kampfunfähigen Gefährten vollständig geheilt.
+[home/legend_battle_030] Belohnung fürs Erledigen
+aller Missionen
 [home/sp_battle_001] Die Zahl der zu Event-Kollektivkämpfen
 aufgebrochenen Gefährten sowie der
 gegnerische Zustand (KP etc.) werden
@@ -18752,6 +19365,93 @@ lange zurückliegt.
 [home/sp_battle_005] Du hast den Kollektivkampf gewonnen!
 Versuche dich am besten gleich am
 nächsten!
+[home/champion_battle_001] Champkampf
+[home/champion_battle_002] Verfügbar nachdem du in der
+Hauptgeschichte alle WPM-Orden
+gesammelt hast.
+[home/champion_battle_003] Champ
+[home/champion_battle_004] Top Vier
+[home/champion_battle_006] Mit Beginn der neuen Woche wurde
+dein Kampffortschritt zurückgesetzt.
+Du kannst einen neuen Anlauf starten.
+Es wurden außerdem die Pokémon
+deiner Gegner und die Sonderregeln
+geändert.
+[home/champion_battle_007] Du kannst bis Beginn der nächsten
+Woche nicht an anderen Kämpfen des
+Champkampfes teilnehmen. Diese sind
+ab folgendem Datum wieder verfügbar:
+[Name:DateTime ]
+[home/champion_battle_008] Schwierigkeit
+[home/champion_battle_009] Empf. Level: [Digit:3digits ]
+[home/champion_battle_012] Im Gang
+[home/champion_battle_013] An bereits abgeschlossenen Kämpfen
+kannst du erst zu Beginn einer neuen
+Woche erneut teilnehmen. Sie sind ab
+folgendem Datum wieder verfügbar:
+[Name:DateTime ]
+[home/champion_battle_014] Bis zu Beginn einer neuen Woche
+kannst du an keinem Champkampf
+mit anderem Schwierigkeitsgrad
+teilnehmen. Dies wird an folgendem
+Datum wieder verfügbar:
+[Name:DateTime ]
+[home/champion_battle_015] Ruhmeshalle
+[home/champion_battle_016] Sonderregeln
+[home/champion_battle_017] Für jeden Kampf gegen ein Mitglied der
+Top Vier gelten andere Sonderregeln.
+Überlege dir gut, welchem Gegner du
+dich unter welchen Regeln stellen willst!
+[home/champion_battle_018] Runde [Digit:2digits ]
+[home/champion_battle_019] Einer oder mehrere Gefährten deines
+Teams haben bereits einen anderen
+Kampf auf diesem Schwierigkeitsgrad
+abgeschlossen. Bitte ändere die
+Aufstellung deines Teams.
+[home/champion_battle_020] Die Einschränkung deiner Team-Aufstellung wird
+wöchentlich zurückgesetzt. Nächste Zurücksetzung:
+[Name:DateTime ]
+[home/champion_battle_021] Im Kampf gegen den Champ gilt neben
+den folgenden Sonderregeln eine
+weitere Sonderregel aus den vorigen
+Kämpfen, die du selbst auswählst.
+[home/champion_battle_022] Bossdetails
+[home/champion_battle_023] Im Kampf gegen den Champ gelten
+folgende Sonderregeln:
+[home/champion_battle_024] Embleme
+[home/champion_battle_025] Nach Abschluss eines Champkampfes
+erhältst du Fragmente, die den Typen der
+Gefährtengespanne entsprechen, mit denen
+du gegen die Top Vier und den Champ
+gekämpft hast. Vervollständige deine
+Sammlung mit Fragmenten für jeden Typ,
+um ein Emblem aus ihnen anzufertigen!
+[home/champion_battle_026] Glückwunsch zum
+[Digit:3digits ]. Einzug in die
+Ruhmeshalle!
+[home/champion_battle_027] Typen
+[home/champion_battle_028] Abschlussdatum: [Name:DateTime ]
+[home/champion_battle_029] Champkampf
+freigeschaltet!
+[home/champion_battle_030] Abschlussbonus
+[home/champion_battle_031] Emblem
+vollendet!
+[home/champion_battle_032] Verfügbar nach dem Sieg über
+alle Mitglieder der Top Vier.
+[home/champion_battle_033] Glückwunsch zu deinem Sieg! Ab dem
+folgenden Datum kannst du an einem
+Champkampf des Schwierigkeitsgrads
+Schwer Lv. 1 oder höher teilnehmen:
+[Name:DateTime ]
+Die Sonderregeln und die Pokémon
+der Gegner ändern sich wöchentlich.
+Bereite deine Gefährten also gezielt
+auf den nächsten Anlauf vor!
+[home/champion_battle_034] Erneut verfügbar, nachdem du den
+Champ besiegt hast.
+[home/champion_battle_035] Tipps
+[home/champion_battle_036] Möchtest du dir die Tipps für diesen
+Kampf ansehen?
 
 ===========
 home_en.lsd
@@ -18772,6 +19472,11 @@ home_en.lsd
 [home/quest_list_title_006] Main Story (Co-op)
 [home/quest_list_title_007] Explore
 [home/quest_list_title_008] Training Area
+[home/quest_list_title_009] Main Story
+(Co-op)
+[home/quest_list_title_010] Battle Villa
+(Co-op)
+[home/quest_list_title_011] Champion Stadium
 [home/quest_list_013] XP
 [home/quest_list_017] Battle with other players!
 [home/quest_list_018] Quick
@@ -18861,7 +19566,9 @@ than one team. Please edit your teams.
 [home/quest_list_094] Training Area
 [home/quest_list_095] Sync Orb Reward Boost
 [home/quest_list_096] Lv. [Digit:3digits ]
-[home/quest_list_097] Remaining Attempts: [Digit:2digits ]
+[home/quest_list_097] Attempts Left: [Digit:2digits ]
+[home/quest_list_098] Legendary Event
+[home/quest_list_100] One-Year Anniversary
 [home/quest_detail_003] Recommended Types
 [home/quest_detail_005] Area Details
 [home/quest_detail_009] Preset Teams
@@ -18979,6 +19686,10 @@ Check out the shop for more details.
 Only a little time left to scout!
 Check out the shop for more details.
 [home/home_026] Limited-Time Scout
+[home/home_027] Sync Pair Scout
+[home/home_028] Scout
+[home/home_029] Don’t show this again.
+[home/home_030] Sync Pairs
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missions
 [home/global_menu_008] Friends
@@ -19098,7 +19809,7 @@ Your progress has been reset.
 [home/legend_battle_016] Conditions
 [home/legend_battle_017] Medals
 [home/legend_battle_018] Damage Rewards
-[home/legend_battle_019] Reduce HP gauge [Digit:2digits ] to [Digit:3digits Idx="1" ]%
+[home/legend_battle_019] Reduce HP bar [Digit:2digits ] to [Digit:3digits Idx="1" ]%
 [home/legend_battle_020] General Rewards
 [home/legend_battle_021] Rewards are based on how much damage is
 dealt to the boss Pokémon.
@@ -19115,6 +19826,8 @@ progress have been reset.
 your team are able to battle.
 [home/legend_battle_028] Note: Fainted Pokémon recover when the
 challenge is reset.
+[home/legend_battle_030] Mission Completion
+Rewards
 [home/sp_battle_001] The number of sync pairs engaged in
 Full-Force Battles as well as your
 opponents’ HP and battle status
@@ -19136,6 +19849,90 @@ You won this Full-Force Battle!
 
 Next, try testing your might against
 another opponent!
+[home/champion_battle_001] Champion Stadium
+[home/champion_battle_002] You must collect all of the
+PML badges in the main story to
+take on the Champion Stadium.
+[home/champion_battle_003] Champion
+[home/champion_battle_004] Elite Four
+[home/champion_battle_006] It’s a new week!
+Progress has been reset, and all battles
+can now be attempted once again.
+
+The special parameters and Pokémon
+your opponents use have changed, too.
+[home/champion_battle_007] Only one region can be attempted per
+week in the Champion Stadium.
+
+Champion Stadium will reset
+[Name:DateTime ]
+[home/champion_battle_008] Difficulty
+[home/champion_battle_009] Rec. Lv. [Digit:3digits ]
+[home/champion_battle_012] In Progress
+[home/champion_battle_013] Battles in the Champion Stadium can
+only be completed once per week.
+
+Champion Stadium will reset
+[Name:DateTime ]
+[home/champion_battle_014] Only one difficulty can be attempted
+per week in the Champion Stadium.
+
+Champion Stadium will reset
+[Name:DateTime ]
+[home/champion_battle_015] Hall of Fame
+[home/champion_battle_016] Special Parameters
+[home/champion_battle_017] Each of the four rounds against the
+Elite Four has its own special parameter.
+Carefully consider these parameters when
+choosing an opponent each round!
+[home/champion_battle_018] Round [Digit:2digits ]
+[home/champion_battle_019] One or more sync pairs on your team
+have already completed another battle
+at this difficulty level. Please edit
+your team.
+[home/champion_battle_020] Note: Team restrictions are reset every week.
+Reset will occur at:
+[Name:DateTime ]
+[home/champion_battle_021] In addition to the special parameters
+below, you must also choose a
+parameter to apply from your battles
+against the Elite Four.
+[home/champion_battle_022] Boss Details
+[home/champion_battle_023] The following special parameters apply to
+your battle against the Champion.
+[home/champion_battle_024] Medals
+[home/champion_battle_025] Pieces of the medal are filled in for each
+sync pair type you have on your team
+when you defeat an Elite Four member or
+Champion. Try to fill in all the pieces and
+complete your medal!
+[home/champion_battle_026] Congratulations!
+Hall of Fame
+Entry No. [Digit:3digits ]
+[home/champion_battle_027] Types
+[home/champion_battle_028] Date Completed: [Name:DateTime ]
+[home/champion_battle_029] Champion Stadium
+Unlocked!
+[home/champion_battle_030] Rewards
+[home/champion_battle_031] Medal
+Complete!
+[home/champion_battle_032] Defeat every member of the
+Elite Four to unlock.
+[home/champion_battle_033] Congratulations!
+You can take on Hard Lv. 1 difficulty
+and above in the Champion Stadium
+again starting at
+[Name:DateTime ]
+
+The special parameters and Pokémon
+your opponents use change each week,
+so you’ll want to level up lots of sync
+pairs to get ready for next time!
+[home/champion_battle_034] Rematches will become available once
+you defeat the Champion.
+[home/champion_battle_035] Tips
+[home/champion_battle_036] Would you like to see tips for
+this battle?
 
 ===========
 home_es.lsd
@@ -19156,6 +19953,11 @@ home_es.lsd
 [home/quest_list_title_006] Historia principal (multi)
 [home/quest_list_title_007] Aventura
 [home/quest_list_title_008] Área de entrenamiento
+[home/quest_list_title_009] Historia principal
+(multi)
+[home/quest_list_title_010] Residencia Batalla
+(multi)
+[home/quest_list_title_011] Combates de Campeones
 [home/quest_list_013] Exp.
 [home/quest_list_017] Multijugador
 [home/quest_list_018] Partida rápida
@@ -19247,6 +20049,8 @@ a través de la Caja Búsqueda.
 [home/quest_list_095] ¡Más Orbes Compi!
 [home/quest_list_096] Nivel [Digit:3digits ]
 [home/quest_list_097] [Digit:2digits ] ve[ES:Qty S="z" P="ces" ] más
+[home/quest_list_098] Evento legendario
+[home/quest_list_100] Evento de aniversario
 [home/quest_detail_003] Tipos recomendados
 [home/quest_detail_005] Detalles
 [home/quest_detail_009] Elegir equipo
@@ -19365,6 +20169,10 @@ disponibles por tiempo limitado:
 va a finalizar dentro de poco.
 ¡Pásate por la tienda cuanto antes!
 [home/home_026] Reclutamiento limitado
+[home/home_027] Reclutamiento
+[home/home_028] Ir a Reclutamiento
+[home/home_029] No se volverá a mostrar.
+[home/home_030] Compis
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Misiones
 [home/global_menu_008] Amigos
@@ -19494,6 +20302,8 @@ combate y los premios por daño.
 equipo actual está fuera de combate.
 [home/legend_battle_028] Aviso: Puedes elegir la opción Restablecer para que las
 parejas de compis debilitadas se recuperen.
+[home/legend_battle_030] Premios por completar
+todas las misiones
 [home/sp_battle_001] Se restablecerá todo el progreso del
 combate colectivo, los PS restantes de
 los rivales y los compis usados.
@@ -19512,6 +20322,87 @@ progreso.
 
 Ponte a prueba con otro combate
 colectivo.
+[home/champion_battle_001] Combates de Campeones
+[home/champion_battle_002] Consigue todas las medallas del
+WPM en la historia principal para
+acceder.
+[home/champion_battle_003] Campeón
+[home/champion_battle_004] Alto Mando
+[home/champion_battle_006] ¡Ha comenzado una nueva semana!
+Se han restablecido todos los combates
+completados, así que puedes hacer
+frente a todos los desafíos de nuevo.
+Han cambiado las normas especiales
+y los Pokémon de los oponentes.
+[home/champion_battle_007] Podrás volver a probar tu suerte en
+este Combate de Campeones cuando
+comience una nueva semana el
+[Name:DateTime ].
+[home/champion_battle_008] Dificultad
+[home/champion_battle_009] Nv. [Digit:3digits ] recom.
+[home/champion_battle_012] En curso
+[home/champion_battle_013] Una vez has completado un combate,
+debes esperar hasta la siguiente
+semana para volver a disputarlo.
+Podrás volver a intentarlo el
+[Name:DateTime ].
+[home/champion_battle_014] Podrás cambiar la dificultad cuando
+empiece una semana nueva el
+[Name:DateTime ].
+[home/champion_battle_015] Hall de la Fama de Passio
+[home/champion_battle_016] Normas especiales
+[home/champion_battle_017] En los combates contra miembros del
+Alto Mando, hay una serie de normas
+especiales. ¡Tenlas en cuenta antes
+de enfrentarte a tus oponentes!
+[home/champion_battle_018] [Digit:2digits ].ª ronda
+[home/champion_battle_019] No puedes participar con compis que
+ya hayan participado en otros
+combates en esta misma dificultad.
+[home/champion_battle_020] Nota: Podrás volver a usarlos cuando comience una
+semana nueva el [Name:DateTime ].
+[home/champion_battle_021] Contra el Campeón o Campeona
+tienes que elegir una de las normas
+especiales usadas en los combates que
+ya has disputado hasta ahora, además
+de las siguientes normas especiales.
+[home/champion_battle_022] Detalles del jefe
+[home/champion_battle_023] Este combate se disputará con las
+siguientes normas especiales.
+[home/champion_battle_024] Conseguir el emblema
+[home/champion_battle_025] Cuando finalmente te alces con la victoria,
+conseguirás piezas según los tipos de los
+compis que hayan participado en combates
+contra el Alto Mando o el Campeón o
+Campeona. Consíguelas todas para hacerte
+con el emblema.
+[home/champion_battle_026] ¡Enhorabuena por ingresar
+en el Hall de la Fama de
+Passio [Digit:3digits ] ve[ES:Qty S="z" P="ces" ]!
+[home/champion_battle_027] Tipos
+[home/champion_battle_028] Completado el [Name:DateTime ]
+[home/champion_battle_029] ¡Combates de Campeones
+desbloqueados!
+[home/champion_battle_030] Premios
+[home/champion_battle_031] ¡Emblema
+obtenido!
+[home/champion_battle_032] Derrota antes a todos los
+miembros del Alto Mando.
+[home/champion_battle_033] ¡Enhorabuena!
+Podrás volver a hacer frente a los
+Combates de Campeones en difícil
+(nivel 1) o superior a partir del
+[Name:DateTime ].
+Las normas especiales y los Pokémon
+de los adversarios cambian cada
+semana. ¡Prepara a tus compis a
+conciencia de cara al próximo desafío!
+[home/champion_battle_034] Podrás volver a hacer frente a este
+desafío tras derrotar al Campeón o
+Campeona.
+[home/champion_battle_035] Pistas
+[home/champion_battle_036] ¿Quieres ver algunas pistas para este
+combate?
 
 ===========
 home_fr.lsd
@@ -19532,6 +20423,11 @@ home_fr.lsd
 [home/quest_list_title_006] Scénario principal (coop)
 [home/quest_list_title_007] Aventure
 [home/quest_list_title_008] Zone d'entraînement
+[home/quest_list_title_009] Scénario
+principal (coop)
+[home/quest_list_title_010] Villa de
+Combat (coop)
+[home/quest_list_title_011] Combat de Maître
 [home/quest_list_013] Exp.
 [home/quest_list_017] Jeu en coop
 [home/quest_list_018] Connexion
@@ -19625,6 +20521,8 @@ complètes avant de pouvoir continuer.
 [home/quest_list_095] Duo-Sphères Reçues ↑
 [home/quest_list_096] N. [Digit:3digits ]
 [home/quest_list_097] Encore [Digit:2digits ] fois
+[home/quest_list_098] Évènement légendaire
+[home/quest_list_100] Évènement d'anniversaire
 [home/quest_detail_003] Types conseillés
 [home/quest_detail_005] Infos
 [home/quest_detail_009] Équipes
@@ -19701,7 +20599,7 @@ pouvez plus progresser sur la carte.
 [home/quest_detail_081] Confirmation
 [home/quest_detail_082] Régénération de la Vigueur dans [Name:DateTime ]
 [home/quest_detail_083] Bons Saute-Combat
-[home/quest_detail_084] Ce bon vous permet de passer le combat et de
+[home/quest_detail_084] Ces bons permettent de passer le combat et de
 vous rendre directement à l'écran des résultats.
 [home/quest_detail_085] Voulez-vous utiliser de la Vigueur et
 des bons pour terminer ce combat ?
@@ -19746,6 +20644,10 @@ cet Appel Duo limité !
 Rendez-vous dans la boutique pour
 en savoir plus !
 [home/home_026] Appel Duo limité
+[home/home_027] Appel Duo
+[home/home_028] Appel Duo
+[home/home_029] Ne plus afficher ce message.
+[home/home_030] Duos
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missions
 [home/global_menu_008] Amis
@@ -19882,6 +20784,7 @@ réinitialisées.
 [home/legend_battle_027] Les Duos de votre équipe sont K.O.
 Vous ne pouvez pas partir à l'aventure.
 [home/legend_battle_028] Réinitialiser soignera les Duos qui ont été mis K.O.
+[home/legend_battle_030] Récompenses de mission
 [home/sp_battle_001] Les PV des ennemis seront restaurés
 et le nombre de Duos utilisés pendant
 le Combat Collectif retombera à 0.
@@ -19903,6 +20806,97 @@ de temps. Votre progression a
 
 Tentez votre chance dans le Combat
 Collectif suivant !
+[home/champion_battle_001] Combat de Maître
+[home/champion_battle_002] Vous pourrez vous essayer au
+Combat de Maître après avoir
+rassemblé les Badges du WPM.
+[home/champion_battle_003] Maître
+[home/champion_battle_004] Conseil 4
+[home/champion_battle_006] Une nouvelle semaine commence !
+Votre progression a été réinitialisée et
+tous les combats sont de nouveau
+accessibles.
+Les Pokémon des adversaires, ainsi que
+les règles spéciales, ont aussi changé.
+[home/champion_battle_007] Vous ne pouvez participer qu'à un seul
+Combat de Maître par semaine.
+
+Date et heure de réinitialisation :
+[Name:DateTime ]
+[home/champion_battle_008] Difficulté
+[home/champion_battle_009] N. recommandé [Digit:3digits ]
+[home/champion_battle_012] En cours
+[home/champion_battle_013] Vous ne pouvez participer qu'à un seul
+Combat de Maître par semaine, même
+après avoir remporté votre combat.
+
+Date et heure de réinitialisation :
+[Name:DateTime ]
+[home/champion_battle_014] Vous ne pouvez choisir qu'un seul
+niveau de difficulté par semaine dans
+le Combat de Maître.
+
+Date et heure de réinitialisation :
+[Name:DateTime ]
+[home/champion_battle_015] Panthéon de Passio
+[home/champion_battle_016] Règles spéciales
+[home/champion_battle_017] Chaque combat contre le Conseil 4
+utilise des règles spéciales qui lui sont
+propres. Étudiez bien ces règles et vos
+adversaires avant de vous lancer !
+[home/champion_battle_018] Manche [Digit:2digits ]
+[home/champion_battle_019] Un ou plusieurs Duos de votre équipe
+ont déjà participé à un autre combat
+au même niveau de difficulté.
+Veuillez modifier votre équipe.
+[home/champion_battle_020] Les restrictions d'équipe sont réinitialisées chaque
+semaine. Date et heure de réinitialisation :
+[Name:DateTime ]
+[home/champion_battle_021] Les règles spéciales ci-dessous
+s'appliquent pour le combat contre le
+Maître. Vous devez également choisir
+une règle parmi celles de vos combats
+contre les membres du Conseil 4.
+[home/champion_battle_022] Détails du boss
+[home/champion_battle_023] Les règles spéciales ci-dessous
+s'appliquent pour le combat
+contre le Maître. 
+[home/champion_battle_024] Emblèmes
+[home/champion_battle_025] Vous récupérez des morceaux d'emblème
+en remportant des combats contre les
+membres du Conseil 4 et le Maître. Les
+morceaux récupérés dépendent du type des
+Duos de votre équipe.
+Utilisez des Duos de tous les types pour
+compléter votre emblème !
+[home/champion_battle_026] Félicitations !
+Vous avez fait votre
+entrée au Panthéon
+[Digit:3digits ] fois !
+[home/champion_battle_027] Types
+[home/champion_battle_028] Date de réussite : [Name:DateTime ]
+[home/champion_battle_029] Combat de Maître
+débloqué !
+[home/champion_battle_030] Récompense
+[home/champion_battle_031] Emblème
+complété !
+[home/champion_battle_032] Débloqué après avoir vaincu les
+membres du Conseil 4.
+[home/champion_battle_033] Félicitations !
+Vous pourrez réessayer un Combat de
+Maître au niveau Difficile N. 1 et plus
+à partir du :
+[Name:DateTime ]
+
+Les règles spéciales et les Pokémon de
+vos ennemis changent chaque semaine.
+Préparez-vous et entraînez bien vos
+Duos pour votre prochain combat !
+[home/champion_battle_034] Vous pourrez réessayer une fois que
+vous aurez vaincu le Maître.
+[home/champion_battle_035] Conseils
+[home/champion_battle_036] Voulez-vous consulter les conseils pour
+ce combat ?
 
 ===========
 home_it.lsd
@@ -19923,6 +20917,11 @@ home_it.lsd
 [home/quest_list_title_006] Storia multigiocatore
 [home/quest_list_title_007] Avventura
 [home/quest_list_title_008] Aree allenamento
+[home/quest_list_title_009] Storia
+multigiocatore
+[home/quest_list_title_010] Residenza Lotta
+multigiocatore
+[home/quest_list_title_011] Lotte dei Campioni
 [home/quest_list_013] ESP.
 [home/quest_list_017] Gioca in compagnia
 [home/quest_list_018] Giocatori a caso
@@ -20014,6 +21013,8 @@ tre le squadre per affrontare la sfida.
 [home/quest_list_095] Aumento Uniciondoli
 [home/quest_list_096] L. [Digit:3digits ]
 [home/quest_list_097] Completamenti residui: [Digit:2digits ]
+[home/quest_list_098] Eventi leggendari
+[home/quest_list_100] Evento per l'anniversario
 [home/quest_detail_003] Tipi consigliati
 [home/quest_detail_005] Info area
 [home/quest_detail_009] Scegli squadra
@@ -20134,6 +21135,10 @@ per terminare:
 Vai subito nel negozio
 per approfittarne!
 [home/home_026] Unicerca limitata
+[home/home_027] Ricerca Unità
+[home/home_028] Unicerca
+[home/home_029] Non mostrare più.
+[home/home_030] Unità
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missioni
 [home/global_menu_008] Amici
@@ -20270,6 +21275,7 @@ azzerati.
 in squadra sono esauste.
 [home/legend_battle_028] Puoi effettuare un ripristino per rimettere in sesto
 le Unità.
+[home/legend_battle_030] Ricompensa missioni
 [home/sp_battle_001] Il ripristino azzererà il numero di Unità
 alleate partite per la Lotta Collettiva
 e rimetterà del tutto in sesto i nemici.
@@ -20291,6 +21297,90 @@ previsto.
 
 Ora perché non ti metti alla prova
 con un'altra Lotta Collettiva?
+[home/champion_battle_001] Lotte dei Campioni
+[home/champion_battle_002] Ottieni tutte le medaglie WPM
+nella storia per affrontare le Lotte
+dei Campioni.
+[home/champion_battle_003] Campione
+[home/champion_battle_004] Superquattro
+[home/champion_battle_006] Con l'inizio della nuova settimana
+è stato ripristinato lo stato
+di completamento delle lotte ed è ora
+possibile affrontarle nuovamente.
+Inoltre, sono cambiati i Pokémon
+degli avversari e le regole speciali.
+[home/champion_battle_007] Non puoi accedere alle altre sfide
+della Lotta dei Campioni finché
+non inizia una nuova settimana.
+Prossimo accesso consentito:
+[Name:DateTime ].
+[home/champion_battle_008] Difficoltà
+[home/champion_battle_009] L. [Digit:3digits ] consigliato
+[home/champion_battle_012] In corso
+[home/champion_battle_013] Se completi una lotta, non puoi
+affrontarla di nuovo finché non inizia
+una nuova settimana.
+Prossimo accesso consentito:
+[Name:DateTime ].
+[home/champion_battle_014] Non puoi accedere alle altre difficoltà
+della Lotta dei Campioni finché
+non inizia una nuova settimana.
+Prossimo accesso consentito:
+[Name:DateTime ].
+[home/champion_battle_015] Sala d'Onore di Pasio
+[home/champion_battle_016] Le regole speciali
+[home/champion_battle_017] In ogni lotta contro i Superquattro
+sarà adottata una regola speciale
+diversa. Considera attentamente quali
+Unità affrontare con ciascuna regola!
+[home/champion_battle_018] [Digit:2digits ]ª lotta
+[home/champion_battle_019] Non puoi partire perché hai inserito
+in squadra una o più Unità che hanno
+già partecipato ad altre lotte
+della stessa difficoltà.
+[home/champion_battle_020] Le limitazioni sulle Unità vengono ripristinate ogni
+settimana. Prossimo ripristino:
+[Name:DateTime ].
+[home/champion_battle_021] Nella sfida finale della Lotta
+dei Campioni, oltre alla regola speciale
+indicata qui sotto, devi scegliere una
+delle regole speciali usate nelle lotte
+precedenti.
+[home/champion_battle_022] Info boss
+[home/champion_battle_023] Nella sfida finale saranno adottate
+le seguenti regole speciali.
+[home/champion_battle_024] Completare l'emblema
+[home/champion_battle_025] I vari pezzi dell'emblema saranno aggiunti
+in base ai tipi delle Unità inserite
+in squadra nelle lotte contro i Superquattro
+e nella lotta finale. Ottieni tutti
+i pezzi per completare l'emblema!
+[home/champion_battle_026] Congratulazioni!
+Hai fatto il tuo ingresso
+nella Sala d'Onore di Pasio
+[Digit:3digits ] volt[IT:Qty S="a" P="e" ]!
+[home/champion_battle_027] Tipi
+[home/champion_battle_028] Data di completamento: [Name:DateTime ]
+[home/champion_battle_029] Lotta dei Campioni
+sbloccata!
+[home/champion_battle_030] Ricompensa
+[home/champion_battle_031] Emblema
+completato!
+[home/champion_battle_032] Sconfiggi tutti i Superquattro
+per poter affrontare la sfida.
+[home/champion_battle_033] Complimenti per la vittoria!
+Potrai accedere alle Lotte dei Campioni
+di difficoltà "Difficile L. 1" o superiore
+a partire dalla seguente data e ora:
+[Name:DateTime ] 
+Le regole speciali e i Pokémon
+degli avversari cambiano ogni
+settimana. Rinforza le tue Unità
+per prepararti alla prossima sfida!
+[home/champion_battle_034] Vinci nella sfida finale per poter
+affrontare di nuovo la lotta.
+[home/champion_battle_035] Consigli
+[home/champion_battle_036] Vuoi vedere i consigli per la lotta?
 
 ===========
 home_ja.lsd
@@ -20311,6 +21401,11 @@ home_ja.lsd
 [home/quest_list_title_006] メインストーリー（マルチ）
 [home/quest_list_title_007] ぼうけん
 [home/quest_list_title_008] トレーニングエリア
+[home/quest_list_title_009] メインストーリー
+（マルチ）
+[home/quest_list_title_010] バトルヴィラ
+（マルチ）
+[home/quest_list_title_011] チャンピオンバトル
 [home/quest_list_013] EXP
 [home/quest_list_017] みんなで遊ぶ
 [home/quest_list_018] おまかせ
@@ -20404,6 +21499,8 @@ Lv.[Digit:2digits ]で解放
 [home/quest_list_095] バディドロップアップ
 [home/quest_list_096] Lv.[Digit:3digits ]
 [home/quest_list_097] あと[Digit:2digits ]回
+[home/quest_list_098] 伝説ポケモンイベント
+[home/quest_list_100] アニバーサリーイベント
 [home/quest_detail_003] おすすめのタイプ
 [home/quest_detail_005] エリア詳細
 [home/quest_detail_009] チーム選択
@@ -20518,6 +21615,10 @@ Lv.[Digit:2digits ]で解放
 がもうすぐ終了！
 ショップにいそごう！
 [home/home_026] 時間限定Bサーチ
+[home/home_027] バディーズサーチ
+[home/home_028] Bサーチへ
+[home/home_029] このお知らせは今後表示しない
+[home/home_030] バディーズ
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] ミッション
 [home/global_menu_008] ともだち
@@ -20652,6 +21753,8 @@ Lv.[Digit:2digits ]で解放
 [home/legend_battle_027] 編成されているすべてのバディーズが
 ひんしのため出発できません
 [home/legend_battle_028] ※ひんし状態はリセットすると回復します
+[home/legend_battle_030] 全ミッション
+達成報酬
 [home/sp_battle_001] リセットを実行すると同イベントの挑戦中
 ソウリョクバトルの味方の出発数や
 敵のＨＰなどの状態がリセットされます
@@ -20669,6 +21772,90 @@ Lv.[Digit:2digits ]で解放
 [home/sp_battle_005] ソウリョクバトルに勝利しました！
 
 次のソウリョクバトルに挑戦しましょう
+[home/champion_battle_001] チャンピオンバトル
+[home/champion_battle_002] メインストーリーで
+ＷＰＭバッジをすべて集めると
+挑戦可能
+[home/champion_battle_003] チャンピオン
+[home/champion_battle_004] 四天王
+[home/champion_battle_006] 週が変わったため
+バトルのクリア状況がリセットされ
+再挑戦が可能になりました
+
+また対戦相手のポケモンと
+特殊ルールが変化しました
+[home/champion_battle_007] チャンピオンバトルの
+他のバトルには
+週が変わるまで挑戦できません
+
+挑戦可能になる日時
+[Name:DateTime ]
+[home/champion_battle_008] 難易度
+[home/champion_battle_009] 推奨Lv.[Digit:3digits ]
+[home/champion_battle_012] 挑戦中
+[home/champion_battle_013] 一度クリアしたバトルは
+週が変わるまで挑戦できません
+
+挑戦可能になる日時
+[Name:DateTime ]
+[home/champion_battle_014] チャンピオンバトルの
+他の難易度には
+週が変わるまで挑戦できません
+
+挑戦可能になる日時
+[Name:DateTime ]
+[home/champion_battle_015] パシオ殿堂入り
+[home/champion_battle_016] 特殊ルールについて
+[home/champion_battle_017] 四天王とのバトルには
+１回ごとに異なる特殊ルールがあります
+どのルールで誰と戦うか
+しっかり考えて挑みましょう
+[home/champion_battle_018] 第[Digit:2digits ]戦
+[home/champion_battle_019] この難易度における
+他のバトルで既に編成した
+バディーズが編成されているため
+出発できません
+[home/champion_battle_020] ※編成制限は毎週リセットされます
+リセット日時：[Name:DateTime ] 
+[home/champion_battle_021] チャンピオンとのバトルでは
+下記の特殊ルールに加えて
+これまでのバトルで使われた
+特殊ルールからひとつを選択します
+[home/champion_battle_022] ボス詳細
+[home/champion_battle_023] チャンピオンとのバトルには
+以下の特殊ルールがあります
+[home/champion_battle_024] エンブレムについて
+[home/champion_battle_025] クリア時の
+四天王戦とチャンピオン戦で
+編成したバディーズの
+タイプに応じてピースが埋まります
+すべて埋めて
+エンブレムを完成させましょう！
+[home/champion_battle_026] 第[Digit:3digits ]回
+パシオ殿堂入り
+おめでとう！
+[home/champion_battle_027] タイプ
+[home/champion_battle_028] クリア日時：[Name:DateTime ] 
+[home/champion_battle_029] チャンピオンバトル
+解放！
+[home/champion_battle_030] クリア報酬
+[home/champion_battle_031] エンブレム
+完成
+[home/champion_battle_032] 四天王をすべて倒すと挑戦可能
+[home/champion_battle_033] クリアおめでとうございます！
+
+難易度「HARD Lv.1」以降の
+チャンピオンバトルは
+以下の日時から再挑戦できます
+[Name:DateTime ] 
+
+特殊ルールや相手のポケモンは
+毎週変化しますので
+次回に備えてバディーズを育成しましょう！
+[home/champion_battle_034] チャンピオンに勝利すると
+再戦可能になります
+[home/champion_battle_035] ヒント
+[home/champion_battle_036] バトルのヒントを見ますか？
 
 ===========
 home_ko.lsd
@@ -20689,6 +21876,11 @@ home_ko.lsd
 [home/quest_list_title_006] 메인 스토리(멀티)
 [home/quest_list_title_007] 모험
 [home/quest_list_title_008] 트레이닝 에리어
+[home/quest_list_title_009] 메인 스토리
+(멀티)
+[home/quest_list_title_010] 배틀빌라
+(멀티)
+[home/quest_list_title_011] 챔피언배틀
 [home/quest_list_013] EXP
 [home/quest_list_017] 함께 즐긴다
 [home/quest_list_018] 자동
@@ -20782,6 +21974,8 @@ Lv.[Digit:2digits ]에서 해방
 [home/quest_list_095] 버디드롭 업
 [home/quest_list_096] Lv.[Digit:3digits ]
 [home/quest_list_097] 앞으로 [Digit:2digits ]회
+[home/quest_list_098] 전설 포켓몬 이벤트
+[home/quest_list_100] 1주년 기념 이벤트
 [home/quest_detail_003] 추천타입
 [home/quest_detail_005] 에리어 상세
 [home/quest_detail_009] 팀 선택
@@ -20893,6 +22087,10 @@ Lv.[Digit:2digits ]에서 해방
 곧 종료됩니다!
 
 [home/home_026] 시간 한정 B서치
+[home/home_027] 버디즈서치
+[home/home_028] B서치로
+[home/home_029] 이 알림을 이후 표시하지 않는다
+[home/home_030] 버디즈
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] 미션
 [home/global_menu_008] 친구
@@ -21030,6 +22228,8 @@ Lv.[Digit:2digits ]에서 해방
 [home/legend_battle_027] 편성된 모든 버디즈가 기절했기 때문에
 출발할 수 없습니다
 [home/legend_battle_028] ※기절 상태는 초기화하면 회복됩니다
+[home/legend_battle_030] 모든 미션
+달성 보상
 [home/sp_battle_001] 초기화하면 같은 이벤트에서 도전 중인
 총력배틀에서 출발 가능한 같은 편의 버디즈 수나
 상대의 HP 등의 상태가 초기화됩니다
@@ -21046,6 +22246,79 @@ Lv.[Digit:2digits ]에서 해방
 진척 상황이 초기화되었습니다
 [home/sp_battle_005] 총력배틀에서 승리하였습니다!
 다음 총력배틀에 도전합시다
+[home/champion_battle_001] 챔피언배틀
+[home/champion_battle_002] 메인 스토리에서
+WPM배지를 모두 모으면
+도전 가능
+[home/champion_battle_003] 챔피언
+[home/champion_battle_004] 사천왕
+[home/champion_battle_006] 1주일이 지났기 때문에
+배틀의 클리어 상황이 초기화되어
+재도전할 수 있게 되었습니다
+또한 대전 상대의 포켓몬과
+특수 규칙이 변경되었습니다
+[home/champion_battle_007] 챔피언배틀의 다른 배틀에는
+1주일이 지날 때까지 도전할 수 없습니다
+도전 가능 예정 일시
+[Name:DateTime ]
+[home/champion_battle_008] 난이도
+[home/champion_battle_009] 권장 Lv.[Digit:3digits ]
+[home/champion_battle_012] 도전 중
+[home/champion_battle_013] 1번 클리어한 배틀은
+1주일이 지날 때까지 도전할 수 없습니다
+도전 가능 예정 일시
+[Name:DateTime ]
+[home/champion_battle_014] 챔피언배틀의 다른 난이도에는
+1주일이 지날 때까지 도전할 수 없습니다
+도전 가능 예정 일시
+[Name:DateTime ]
+[home/champion_battle_015] 파시오 전당등록
+[home/champion_battle_016] 특수 규칙에 대하여
+[home/champion_battle_017] 사천왕과의 배틀에는
+1회마다 다른 특수 규칙이 있습니다
+어떤 규칙으로 누구와 싸울지
+고민하고 도전합시다
+[home/champion_battle_018] 제 [Digit:2digits ]차전
+[home/champion_battle_019] 이 난이도의 다른 배틀에서
+이미 편성한 버디즈가
+편성되어 있기 때문에
+출발할 수 없습니다
+[home/champion_battle_020] ※편성 제한은 매주 초기화됩니다
+초기화 일시 : [Name:DateTime ]
+[home/champion_battle_021] 챔피언과의 배틀에는
+아래의 특수 규칙과
+지금까지의 배틀에서 사용된
+특수 규칙 중 하나를 선택합니다
+[home/champion_battle_022] 보스 상세
+[home/champion_battle_023] 챔피언과의 배틀에는
+아래의 특수 규칙이 있습니다
+[home/champion_battle_024] 엠블럼에 대하여
+[home/champion_battle_025] 사천왕전과 챔피언전을 클리어했을 때
+편성한 버디즈의 타입에 따라 피스가 채워집니다
+모두 채워서 엠블럼을 완성합시다!
+[home/champion_battle_026] 제 [Digit:3digits ]회
+파시오 전당등록을
+축하합니다!
+[home/champion_battle_027] 타입
+[home/champion_battle_028] 클리어 일시 : [Name:DateTime ]
+[home/champion_battle_029] 챔피언배틀
+해방!
+[home/champion_battle_030] 클리어 보상
+[home/champion_battle_031] 엠블럼
+완성
+[home/champion_battle_032] 사천왕을 모두 쓰러뜨리면 도전 가능
+[home/champion_battle_033] 클리어 축하합니다!
+"HARD Lv.1" 난이도 이상의
+챔피언배틀은
+아래의 일시부터 재도전할 수 있습니다
+[Name:DateTime ] 
+특수 규칙이나 상대의 포켓몬은
+매주 변경되므로
+다음 배틀을 대비하여 버디즈를 육성해봅시다!
+[home/champion_battle_034] 챔피언에게서 승리하면
+재대결할 수 있습니다
+[home/champion_battle_035] 힌트
+[home/champion_battle_036] 배틀 힌트를 보겠습니까?
 
 ===========
 home_zh-TW.lsd
@@ -21066,6 +22339,11 @@ home_zh-TW.lsd
 [home/quest_list_title_006] 主線劇情（多隊模式）
 [home/quest_list_title_007] 冒險
 [home/quest_list_title_008] 訓練區域
+[home/quest_list_title_009] 主線劇情
+（多隊模式）
+[home/quest_list_title_010] 對戰莊園
+（多隊模式）
+[home/quest_list_title_011] 冠軍對戰
 [home/quest_list_013] EXP
 [home/quest_list_017] 多隊模式
 [home/quest_list_018] 隨機配對
@@ -21155,6 +22433,8 @@ home_zh-TW.lsd
 [home/quest_list_095] 拍檔滴晶增加
 [home/quest_list_096] Lv.[Digit:3digits ]
 [home/quest_list_097] 還剩[Digit:2digits ]次
+[home/quest_list_098] 傳說的寶可夢活動
+[home/quest_list_100] 上線週年慶
 [home/quest_detail_003] 推薦屬性
 [home/quest_detail_005] 區域詳情
 [home/quest_detail_009] 選擇隊伍
@@ -21262,6 +22542,10 @@ home_zh-TW.lsd
 即將結束！
 趕緊去商店看看吧！
 [home/home_026] 限時拍組搜尋
+[home/home_027] 拍組搜尋
+[home/home_028] 前往拍組搜尋
+[home/home_029] 今後不再顯示此通知
+[home/home_030] 拍檔組合
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] 任務
 [home/global_menu_008] 朋友
@@ -21384,6 +22668,7 @@ home_zh-TW.lsd
 [home/legend_battle_027] 編制的所有拍組皆為瀕死狀態
 無法出發
 [home/legend_battle_028] ※瀕死狀態會在重設後回復
+[home/legend_battle_030] 達成全部任務時的報酬
 [home/sp_battle_001] 一旦進行重設，本活動內挑戰中
 大對戰的我方出發數與敵人的
 ＨＰ狀態將會重設
@@ -21400,6 +22685,76 @@ home_zh-TW.lsd
 進度已重設
 [home/sp_battle_005] 大對戰獲勝了！
 快去挑戰下一個大對戰吧
+[home/champion_battle_001] 冠軍對戰
+[home/champion_battle_002] 只要在主線劇情中
+收集到所有的ＷＰＭ徽章
+即可挑戰
+[home/champion_battle_003] 冠軍
+[home/champion_battle_004] 四天王
+[home/champion_battle_006] 因進入新的一週
+已重設對戰的過關狀態
+可選擇再次挑戰
+此外，對戰對手的寶可夢
+及特殊規則皆已改變
+[home/champion_battle_007] 在進入新的一週之前
+無法挑戰冠軍對戰的其他對戰
+可挑戰時間
+[Name:DateTime ]
+[home/champion_battle_008] 難度
+[home/champion_battle_009] 建議Lv.[Digit:3digits ]
+[home/champion_battle_012] 挑戰中
+[home/champion_battle_013] 在進入新的一週之前
+無法挑戰已過關的對戰
+可挑戰時間
+[Name:DateTime ]
+[home/champion_battle_014] 在進入新的一週之前
+無法挑戰冠軍對戰的其他難度
+可挑戰時間
+[Name:DateTime ]
+[home/champion_battle_015] 帕希歐名人堂
+[home/champion_battle_016] 關於特殊規則
+[home/champion_battle_017] 與四天王的對戰
+每次都會有不同的特殊規則
+先仔細思考看看要用什麼規則
+與哪個對手對戰，再去挑戰吧！
+[home/champion_battle_018] 第[Digit:2digits ]戰
+[home/champion_battle_019] 此難度裡有拍組
+已被編制在其他對戰中
+因此無法出發
+[home/champion_battle_020] ※編制限制每週都會重設
+重設時間：[Name:DateTime ]
+[home/champion_battle_021] 與冠軍的對戰
+除了下列的特殊規則外
+需選擇一條在目前為止的對戰中
+曾使用過的特殊規則
+[home/champion_battle_022] 頭目資訊
+[home/champion_battle_023] 與冠軍的對戰
+有下列特殊規則
+[home/champion_battle_024] 關於勳章
+[home/champion_battle_025] 四天王戰和冠軍戰成功過關時
+勳章結晶會根據編制中拍組的屬性
+填入相應的位置
+填滿所有位置將勳章完成吧！
+[home/champion_battle_026] 恭喜您
+第[Digit:3digits ]次
+登入帕希歐名人堂！
+[home/champion_battle_027] 屬性
+[home/champion_battle_028] 過關時間：[Name:DateTime ]
+[home/champion_battle_029] 冠軍對戰開放了！
+[home/champion_battle_030] 過關報酬
+[home/champion_battle_031] 勳章完成
+[home/champion_battle_032] 打倒所有的四天王即可挑戰
+[home/champion_battle_033] 恭喜過關！
+難度「HARD Lv.1」起的
+冠軍對戰可於
+下列時間再次挑戰
+[Name:DateTime ]
+特殊規則與對手的寶可夢
+每週都會改變
+努力培育拍組，為下一場挑戰做準備吧！
+[home/champion_battle_034] 打敗冠軍即可再次挑戰
+[home/champion_battle_035] 提示
+[home/champion_battle_036] 是否要查看對戰提示？
 
 ===========
 shop_de.lsd
@@ -21807,6 +23162,25 @@ details
 [shop/scout_102] [Name:TrainerName ] & [Name:PokemonName ]
 haben Attacken-Level [Digit:1digit ] erreicht!
 [shop/scout_104] Angebot: [Digit:2digits ] Mal pro Tag
+[shop/scout_105] Gefährtensuche × 11
+[shop/scout_106] Möchtest du [Digit:4digits ] Juwelen einsetzen,
+um 11 Gefährtensuchen durchzuführen?
+[shop/scout_107] Möchtest du [Digit:4digits ] gekaufte Juwelen
+einsetzen, um 11 Gefährtensuchen
+durchzuführen?
+[shop/scout_108] Mit Geschenk!
+[shop/scout_109] Nur ein Mal
+[shop/scout_110] Geschenk-
+details
+[shop/scout_111] Geschenk bei Erhalt ausgewählter Gefährten!
+[shop/scout_112] Gefährten im Fokus
+[shop/scout_113] Geschenk für die [Digit:2digits ]. Suche
+
+[shop/scout_114] Hinweis: Diese Geschenke werden im Lager deiner
+Geschenkbox abgelegt.
+[shop/scout_116] Spezielle G-Suche × 11
+[shop/scout_117] Geschenkeliste
+[shop/scout_118] Geschenk ab der [Digit:2digits ]. Suche
 [shop/deck_item_sale_001] Ausrüstungstausch
 [shop/deck_item_sale_002] Ausrüstung
 [shop/deck_item_sale_003] Filter
@@ -22132,6 +23506,23 @@ for 5★s!
 & [Name:PokemonName ]
 now have Lv. [Digit:1digit ] moves!
 [shop/scout_104] Daily Discount: Limit [Digit:2digits ]!
+[shop/scout_105] Sync Pair Scout ×11
+[shop/scout_106] Do you want to use [Digit:4digits ] gems
+to scout 11 sync pairs?
+[shop/scout_107] Do you want to use [Digit:4digits ] paid gems
+to scout 11 sync pairs?
+[shop/scout_108] Bonus Present!
+[shop/scout_109] First time only
+[shop/scout_110] Present
+Details
+[shop/scout_111] Receive a present with featured sync pairs!
+[shop/scout_112] Featured Sync Pair
+[shop/scout_113] Bonus presents for scout no. [Digit:2digits ]
+[shop/scout_114] Note: These presents will be sent to the Temp Storage
+section of your Present Box.
+[shop/scout_116] Special Scout ×11
+[shop/scout_117] Bonus Present Details
+[shop/scout_118] Bonus presents for scout no. [Digit:2digits ] onward
 [shop/deck_item_sale_001] Exchange Gear
 [shop/deck_item_sale_002] Gear
 [shop/deck_item_sale_003] Filter
@@ -22431,6 +23822,23 @@ de 5★: [Digit:4digits ]%
 [Name:PokemonName ]
 ha alcanzado el nivel [Digit:1digit ].
 [shop/scout_104] [Digit:2digits ] chollo[ES:Qty P="s" ] al día
+[shop/scout_105] Reclutamiento ×11
+[shop/scout_106] ¿Quieres gastar [Digit:4digits ] joyas en once
+reclutamientos de compis?
+[shop/scout_107] ¿Quieres gastar [Digit:4digits ] joyas de pago
+en once reclutamientos de compis?
+[shop/scout_108] ¡Con regalo!
+[shop/scout_109] Solo 1 vez
+[shop/scout_110] Detalles de
+los regalos
+[shop/scout_111] ¡Obtén regalos junto a las parejas de compis indicadas!
+[shop/scout_112] Pareja indicada
+[shop/scout_113] Regalos de la [Digit:2digits ].ª vez
+[shop/scout_114] Nota: Podrás encontrar tus regalos en el apartado
+Reserva de la caja de regalos.
+[shop/scout_116] Reclutamiento ×11 especial
+[shop/scout_117] Lista de regalos
+[shop/scout_118] Regalos a partir de la [Digit:2digits ].ª vez
 [shop/deck_item_sale_001] Canjear accesorios
 [shop/deck_item_sale_002] Accesorios
 [shop/deck_item_sale_003] Filtrar
@@ -22647,8 +24055,9 @@ pour passer un Appel Duo ?
 payants pour passer un Appel Duo ?
 [shop/scout_054] Diamants insuffisants
 [shop/scout_055] Vous n'avez pas assez de Diamants
-pour passer un Appel Duo. Voulez-vous
-afficher l'écran d'achat de Diamants ?
+pour passer un Appel Duo.
+Voulez-vous vous rendre sur l'écran
+d'achat de Diamants ?
 [shop/scout_058] Remarque : vos points d'Appel Duo tomberont à 0 quand cet Appel Duo ne sera plus disponible. Les points d'Appel Duo ne peuvent pas être transférés. Vous ne pourrez choisir que parmi les Duos de cet Appel Duo.
 [shop/scout_059] La période de réception de ce Duo
 est terminée. Vous devez le récupérer
@@ -22712,6 +24121,23 @@ de 5★ : [Digit:4digits ] % !
 [Name:PokemonName ] sont
 passées au N. [Digit:1digit ].
 [shop/scout_104] Promo du jour ([Digit:2digits ] fois/j) !
+[shop/scout_105] 11 Appels Duo
+[shop/scout_106] Voulez-vous utiliser [Digit:4digits ] Diamants
+pour passer 11 Appels Duo ?
+[shop/scout_107] Voulez-vous utiliser [Digit:4digits ] Diamants
+payants pour passer 11 Appels Duo ?
+[shop/scout_108] Cadeau bonus !
+[shop/scout_109] Qu'une fois
+[shop/scout_110] Cadeaux
+(détails)
+[shop/scout_111] Recevez un cadeau avec les Duos en vedette !
+[shop/scout_112] Duo en vedette
+[shop/scout_113] Cadeaux bonus pour [Digit:2digits ] appel[FR:Qty P="s" ]
+[shop/scout_114] Les cadeaux ont été mis en attente dans le menu
+« Cadeaux ».
+[shop/scout_116] 11 Appels Duo (spécial)
+[shop/scout_117] Liste des cadeaux bonus
+[shop/scout_118] Cadeaux bonus à partir de [Digit:2digits ] appels
 [shop/deck_item_sale_001] Échanger équipement
 [shop/deck_item_sale_002] Équipement
 [shop/deck_item_sale_003] Filtrer
@@ -22738,8 +24164,9 @@ payant[FR:Qty P="s" ] et effectuer l'achat suivant ?
 [shop/catalogue_006] Temps restant :
 [shop/catalogue_007] Achat finalisé
 [shop/catalogue_008] Vous n'avez pas assez de Diamants
-pour effectuer cet achat. Voulez-vous
-afficher l'écran d'achat de Diamants ?
+pour effectuer cet achat.
+Voulez-vous vous rendre sur l'écran
+d'achat de Diamants ?
 
 ===========
 shop_it.lsd
@@ -23065,6 +24492,23 @@ regali
 [shop/scout_097] Unicerca giornaliera ×10
 [shop/scout_102] Il livello delle mosse di [Name:TrainerName ] & [Name:PokemonName ] è salito a [Digit:1digit ].
 [shop/scout_104] Offerta ([Digit:2digits ] volt[IT:Qty S="a" P="e" ]/giorno)
+[shop/scout_105] Unicerca ×11
+[shop/scout_106] Vuoi usare [Digit:4digits ] gemme per fare
+11 ricerche Unità di fila?
+[shop/scout_107] Vuoi usare [Digit:4digits ] gemme a pagamento
+per fare 11 ricerche Unità di fila?
+[shop/scout_108] Con regali!
+[shop/scout_109] Solo 1ª volta
+[shop/scout_110] Info
+regali
+[shop/scout_111] Ricevi dei regali quando ottieni le Unità indicate!
+[shop/scout_112] Unità con regali
+[shop/scout_113] Regali [Digit:2digits ]ª volta
+[shop/scout_114] I regali saranno inviati alla sezione "In attesa"
+dei Regali.
+[shop/scout_116] Unicerca speciale ×11
+[shop/scout_117] Lista dei regali
+[shop/scout_118] Regali [Digit:2digits ]ª volta e successive
 [shop/deck_item_sale_001] Scambio accessori
 [shop/deck_item_sale_002] Accessori
 [shop/deck_item_sale_003] Filtra
@@ -23421,6 +24865,27 @@ Lv.[Digit:1digit ]になりました
 わざレベルが
 Lv.[Digit:1digit ]になりました
 [shop/scout_104] 1日[Digit:2digits ]回割引
+[shop/scout_105] 11連バディーズサーチ
+[shop/scout_106] ダイヤを[Digit:4digits ]個消費して
+11連バディーズサーチします
+
+よろしいですか？
+[shop/scout_107] 有償ダイヤを[Digit:4digits ]個消費して
+11連バディーズサーチします
+
+よろしいですか？
+[shop/scout_108] プレゼントつき!
+[shop/scout_109] 初回限定
+[shop/scout_110] プレゼント
+詳細
+[shop/scout_111] 対象バディーズ獲得時にプレゼント!
+[shop/scout_112] 対象バディーズ
+[shop/scout_113] 獲得[Digit:2digits ]回目のプレゼント
+[shop/scout_114] ※プレゼントはプレゼントボックスの
+「一時保管」に送られます
+[shop/scout_116] スペシャル　11連バディーズサーチ
+[shop/scout_117] プレゼント一覧
+[shop/scout_118] 獲得[Digit:2digits ]回目以降のプレゼント
 [shop/deck_item_sale_001] 装備売却
 [shop/deck_item_sale_002] 装備
 [shop/deck_item_sale_003] フィルター
@@ -23788,6 +25253,25 @@ Lv.[Digit:1digit ][Kor:Particle char="ga" ] 되었습니다
 기술 레벨이
 Lv.[Digit:1digit ][Kor:Particle char="ga" ] 되었습니다
 [shop/scout_104] 1일 [Digit:2digits ]회 할인
+[shop/scout_105] 11연속 버디즈서치
+[shop/scout_106] 다이아를 [Digit:4digits ]개 사용하여
+11연속 버디즈서치를 진행합니다
+괜찮겠습니까?
+[shop/scout_107] 유료 다이아를 [Digit:4digits ]개 사용하여
+11연속 버디즈서치를 진행합니다
+괜찮겠습니까?
+[shop/scout_108] 선물 증정!
+[shop/scout_109] 첫 회 한정
+[shop/scout_110] 선물
+상세 내용
+[shop/scout_111] 대상 버디즈 획득 시에 선물!
+[shop/scout_112] 대상 버디즈
+[shop/scout_113] 획득 [Digit:2digits ]번째의 선물
+[shop/scout_114] ※선물은 프레젠트박스의
+"임시보관"에서 받을 수 있습니다.
+[shop/scout_116] 스페셜 11연속 버디즈서치
+[shop/scout_117] 선물 목록
+[shop/scout_118] 획득 [Digit:2digits ]번째 이후의 선물
 [shop/deck_item_sale_001] 장비 판매
 [shop/deck_item_sale_002] 장비
 [shop/deck_item_sale_003] 필터
@@ -24111,6 +25595,21 @@ shop_zh-TW.lsd
 [shop/scout_102] [Name:TrainerName ]＆[Name:PokemonName ]
 的招式等級提升至Lv.[Digit:1digit ]了！
 [shop/scout_104] 1天[Digit:2digits ]次折扣
+[shop/scout_105] 連續11次拍組搜尋
+[shop/scout_106] 確定要消耗[Digit:4digits ]個鑽石
+進行連續11次拍組搜尋嗎？
+[shop/scout_107] 確定要消耗[Digit:4digits ]個付費鑽石
+進行連續11次拍組搜尋嗎？
+[shop/scout_108] 附好禮！
+[shop/scout_109] 僅限首次
+[shop/scout_110] 禮物內容
+[shop/scout_111] 獲得目標拍組時即贈送禮物！
+[shop/scout_112] 目標拍組
+[shop/scout_113] 獲得第[Digit:2digits ]次的禮物
+[shop/scout_114] ※禮物會被送到禮物箱的「暫時保管」
+[shop/scout_116] 特別版　連續11次拍組搜尋
+[shop/scout_117] 禮物一覽
+[shop/scout_118] 獲得第[Digit:2digits ]次之後的禮物
 [shop/deck_item_sale_001] 出售裝備
 [shop/deck_item_sale_002] 裝備
 [shop/deck_item_sale_003] 篩選
@@ -24148,6 +25647,7 @@ system_de.lsd
 [system/more_than_days_ago] Vor über [Digit:2digits ] [DE:Qty S="Tag" P="Tagen" ]
 [system/until_time] Bis [Name:DateTime ]
 [system/title_name] Pokémon Masters
+[system/title_name_002] Pokémon Masters EX
 [system/remaining_days_double] Noch
 [Digit:3digits ] [DE:Qty S="Tag" P="Tage" ]
 [system/remaining_time] Noch [Name:DateTime ]
@@ -24162,6 +25662,7 @@ system_en.lsd
 [system/more_than_days_ago] more than [Digit:2digits ] day(s) ago
 [system/until_time] Ends [Name:DateTime ]
 [system/title_name] Pokémon Masters
+[system/title_name_002] Pokémon Masters EX
 [system/remaining_days_double] [Digit:3digits ] [EN:Qty S="day" P="days" ]
 remaining
 [system/remaining_time] Ends [Name:DateTime ]
@@ -24176,6 +25677,7 @@ system_es.lsd
 [system/more_than_days_ago] Hace más de [Digit:2digits ] día[ES:Qty P="s" ]
 [system/until_time] Hasta el [Name:DateTime ]
 [system/title_name] Pokémon Masters
+[system/title_name_002] Pokémon Masters EX
 [system/remaining_days_double] Queda[ES:Qty P="n" ]
 [Digit:3digits ] día[ES:Qty P="s" ]
 [system/remaining_time] Quedan [Name:DateTime ]
@@ -24190,6 +25692,7 @@ system_fr.lsd
 [system/more_than_days_ago] Il y a + de [Digit:2digits ] jour[FR:Qty P="s" ]
 [system/until_time] Jusqu'au [Name:DateTime ]
 [system/title_name] Pokémon Masters
+[system/title_name_002] Pokémon Masters EX
 [system/remaining_days_double] Plus que
 [Digit:3digits ] jour[FR:Qty P="s" ]
 [system/remaining_time] Reste [Name:DateTime ]
@@ -24204,6 +25707,7 @@ system_it.lsd
 [system/more_than_days_ago] Più di [Digit:2digits ] gg. fa
 [system/until_time] Termine: [Name:DateTime ]
 [system/title_name] Pokémon Masters
+[system/title_name_002] Pokémon Masters EX
 [system/remaining_days_double] Ancora
 [Digit:3digits ] giorn[IT:Qty S="o" P="i" ]
 [system/remaining_time] Ancora [Name:DateTime ]
@@ -24218,6 +25722,7 @@ system_ja.lsd
 [system/more_than_days_ago] [Digit:2digits ]日以上前
 [system/until_time] [Name:DateTime ] まで
 [system/title_name] ポケモンマスターズ
+[system/title_name_002] ポケモンマスターズ EX
 [system/remaining_days_double] あと
 [Digit:3digits ]日
 [system/remaining_time] あと [Name:DateTime ]
@@ -24232,6 +25737,7 @@ system_ko.lsd
 [system/more_than_days_ago] [Digit:2digits ]일 이상 전
 [system/until_time] [Name:DateTime ] 까지
 [system/title_name] Pokémon Masters
+[system/title_name_002] Pokémon Masters EX
 [system/remaining_days_double] 앞으로
 [Digit:3digits ]일
 [system/remaining_time] 앞으로 [Name:DateTime ]
@@ -24246,6 +25752,7 @@ system_zh-TW.lsd
 [system/more_than_days_ago] 超過[Digit:2digits ]天之前
 [system/until_time] [Name:DateTime ] 為止
 [system/title_name] Pokémon Masters
+[system/title_name_002] Pokémon Masters EX
 [system/remaining_days_double] 還剩
 [Digit:3digits ]天
 [system/remaining_time] 還剩[Name:DateTime ]
@@ -24587,6 +26094,12 @@ Accounts verknüpft:
 [title/title_144] Nintendo-Account verwalten
 [title/title_145] Daten von einem
 Nintendo-Account übertragen
+[title/title_146] “｢[Name:TitleName ](이하 본 어플리케이션)｣”에서는
+개인정보처리방침에 근거하여 이하의 목적으로
+고객의 이용정보·개인정보를취득합니다.
+이하의 내용을 확인하신 후 동의를 부탁드립니다.
+<attr color='EB1414'>※만 14세 미만인 분의 경우, 부모님 등 법정대리인이 이하의 내용을
+확인해 주세요.</attr>
 [title/assetdl_004] 翻訳不要
 [title/assetdl_006] 翻訳不要
 [title/assetdl_007] 翻訳不要
@@ -24651,6 +26164,7 @@ Danke!
 [title/push_002] Adventure is waiting for you on Pasio. Log in now!
 [title/push_003] Notification
 [title/push_004] Ein Ei schlüpft jeden Moment! Auf zu Professor Daisys Pokémon-Labor!
+[title/push_005] [Name:TitleName ]
 [title/egg_001] Ich wähle dieses Ei!
 [title/egg_002] Entscheidest du dich für dieses Ei?
 [title/egg_003] Du entscheidest dich für ein
@@ -24742,6 +26256,16 @@ Pokémon Masters를
 플레이 할 수 없게 됩니다.
 [title/approval_042] 해당 유저의 승인을 철회하였습니다.
 [title/approval_044] OK
+[title/approval_045] 만 14세 미만의 아동인 유저가 플레이를 하기 위해서는 부모님 등 법정대리인의 동의가 필요합니다.
+부모님 등 법정대리인으로 하여금 [Name:TitleName ] 앱을 다운로드하게 하여 토큰을 발행하도록 해주세요.
+발행된 토큰을 입력 다이얼로그에 입력하고 승인의뢰 버튼을 눌러 주세요.
+승인이 성공하면 게임을 계속해서 플레이할 수 있습니다.
+[title/approval_046] 해당 유저의
+"개인정보의 수집・이용에 대한 동의"를
+철회하시겠습니까?
+철회하면 해당 유저는
+[Name:TitleName ][Kor:Particle char="wo" ]
+플레이 할 수 없게 됩니다.
 
 ===========
 title_en.lsd
@@ -25049,6 +26573,12 @@ save data.
 [title/title_144] Manage Nintendo Account
 [title/title_145] Transfer Data from a
 Nintendo Account
+[title/title_146] “｢[Name:TitleName ](이하 본 어플리케이션)｣”에서는
+개인정보처리방침에 근거하여 이하의 목적으로
+고객의 이용정보·개인정보를취득합니다.
+이하의 내용을 확인하신 후 동의를 부탁드립니다.
+<attr color='EB1414'>※만 14세 미만인 분의 경우, 부모님 등 법정대리인이 이하의 내용을
+확인해 주세요.</attr>
 [title/assetdl_004] Would you like to participate
 in a survey?
 [title/assetdl_006] Please select where you’ve played or seen Pokémon in the past.
@@ -25114,6 +26644,7 @@ your feedback!
 [title/push_002] Adventure is waiting for you on Pasio. Log in now!
 [title/push_003] Notification
 [title/push_004] Oh? Is that...an Egg about to hatch? Time for a visit to Professor Bellis’s lab!
+[title/push_005] [Name:TitleName ]
 [title/egg_001] I choose you!
 [title/egg_002] Would you like to choose this Egg?
 [title/egg_003] You chose a
@@ -25205,6 +26736,16 @@ Pokémon Masters를
 플레이 할 수 없게 됩니다.
 [title/approval_042] 해당 유저의 승인을 철회하였습니다.
 [title/approval_044] OK
+[title/approval_045] 만 14세 미만의 아동인 유저가 플레이를 하기 위해서는 부모님 등 법정대리인의 동의가 필요합니다.
+부모님 등 법정대리인으로 하여금 [Name:TitleName ] 앱을 다운로드하게 하여 토큰을 발행하도록 해주세요.
+발행된 토큰을 입력 다이얼로그에 입력하고 승인의뢰 버튼을 눌러 주세요.
+승인이 성공하면 게임을 계속해서 플레이할 수 있습니다.
+[title/approval_046] 해당 유저의
+"개인정보의 수집・이용에 대한 동의"를
+철회하시겠습니까?
+철회하면 해당 유저는
+[Name:TitleName ][Kor:Particle char="wo" ]
+플레이 할 수 없게 됩니다.
 
 ===========
 title_es.lsd
@@ -25527,6 +27068,12 @@ siguientes cuentas:
 [title/title_144] Gestionar cuenta Nintendo
 [title/title_145] Transferir datos de una cuenta
 Nintendo
+[title/title_146] “｢[Name:TitleName ](이하 본 어플리케이션)｣”에서는
+개인정보처리방침에 근거하여 이하의 목적으로
+고객의 이용정보·개인정보를취득합니다.
+이하의 내용을 확인하신 후 동의를 부탁드립니다.
+<attr color='EB1414'>※만 14세 미만인 분의 경우, 부모님 등 법정대리인이 이하의 내용을
+확인해 주세요.</attr>
 [title/assetdl_004] 翻訳不要
 [title/assetdl_006] 翻訳不要
 [title/assetdl_007] 翻訳不要
@@ -25589,6 +27136,7 @@ juego. ¿Tienes algún comentario?
 [title/push_002] Adventure is waiting for you on Pasio. Log in now!
 [title/push_003] Notification
 [title/push_004] ¡Parece que el Huevo va a eclosionar! Ve al Laboratorio Pokémon.
+[title/push_005] [Name:TitleName ]
 [title/egg_001] ¡Me quedo este!
 [title/egg_002] ¿Quieres quedarte este Huevo?
 [title/egg_003] ¡Has elegido un Huevo de
@@ -25680,6 +27228,16 @@ Pokémon Masters를
 플레이 할 수 없게 됩니다.
 [title/approval_042] 해당 유저의 승인을 철회하였습니다.
 [title/approval_044] OK
+[title/approval_045] 만 14세 미만의 아동인 유저가 플레이를 하기 위해서는 부모님 등 법정대리인의 동의가 필요합니다.
+부모님 등 법정대리인으로 하여금 [Name:TitleName ] 앱을 다운로드하게 하여 토큰을 발행하도록 해주세요.
+발행된 토큰을 입력 다이얼로그에 입력하고 승인의뢰 버튼을 눌러 주세요.
+승인이 성공하면 게임을 계속해서 플레이할 수 있습니다.
+[title/approval_046] 해당 유저의
+"개인정보의 수집・이용에 대한 동의"를
+철회하시겠습니까?
+철회하면 해당 유저는
+[Name:TitleName ][Kor:Particle char="wo" ]
+플레이 할 수 없게 됩니다.
 
 ===========
 title_fr.lsd
@@ -26019,6 +27577,12 @@ associées aux comptes ci-dessous.
 du compte Nintendo
 [title/title_145] Transférer des données depuis
 un compte Nintendo
+[title/title_146] “｢[Name:TitleName ](이하 본 어플리케이션)｣”에서는
+개인정보처리방침에 근거하여 이하의 목적으로
+고객의 이용정보·개인정보를취득합니다.
+이하의 내용을 확인하신 후 동의를 부탁드립니다.
+<attr color='EB1414'>※만 14세 미만인 분의 경우, 부모님 등 법정대리인이 이하의 내용을
+확인해 주세요.</attr>
 [title/assetdl_004] 翻訳不要
 [title/assetdl_006] 翻訳不要
 [title/assetdl_007] 翻訳不要
@@ -26082,6 +27646,7 @@ laisser un commentaire ?
 [title/push_002] Adventure is waiting for you on Pasio. Log in now!
 [title/push_003] Notification
 [title/push_004] Un Œuf est sur le point d'éclore ! Rendez-vous vite au Laboratoire !
+[title/push_005] [Name:TitleName ]
 [title/egg_001] Choisir cet Œuf !
 [title/egg_002] Voulez-vous cet Œuf ?
 [title/egg_003] Vous avez choisi l'Œuf de
@@ -26174,6 +27739,16 @@ Pokémon Masters를
 플레이 할 수 없게 됩니다.
 [title/approval_042] 해당 유저의 승인을 철회하였습니다.
 [title/approval_044] OK
+[title/approval_045] 만 14세 미만의 아동인 유저가 플레이를 하기 위해서는 부모님 등 법정대리인의 동의가 필요합니다.
+부모님 등 법정대리인으로 하여금 [Name:TitleName ] 앱을 다운로드하게 하여 토큰을 발행하도록 해주세요.
+발행된 토큰을 입력 다이얼로그에 입력하고 승인의뢰 버튼을 눌러 주세요.
+승인이 성공하면 게임을 계속해서 플레이할 수 있습니다.
+[title/approval_046] 해당 유저의
+"개인정보의 수집・이용에 대한 동의"를
+철회하시겠습니까?
+철회하면 해당 유저는
+[Name:TitleName ][Kor:Particle char="wo" ]
+플레이 할 수 없게 됩니다.
 
 ===========
 title_it.lsd
@@ -26498,6 +28073,12 @@ ai seguenti account:
 Nintendo
 [title/title_145] Trasferisci dati
 da un account Nintendo
+[title/title_146] “｢[Name:TitleName ](이하 본 어플리케이션)｣”에서는
+개인정보처리방침에 근거하여 이하의 목적으로
+고객의 이용정보·개인정보를취득합니다.
+이하의 내용을 확인하신 후 동의를 부탁드립니다.
+<attr color='EB1414'>※만 14세 미만인 분의 경우, 부모님 등 법정대리인이 이하의 내용을
+확인해 주세요.</attr>
 [title/assetdl_004] 翻訳不要
 [title/assetdl_006] 翻訳不要
 [title/assetdl_007] 翻訳不要
@@ -26557,6 +28138,7 @@ Se vuoi, puoi lasciare una recensione.
 [title/push_002] Adventure is waiting for you on Pasio. Log in now!
 [title/push_003] Notification
 [title/push_004] Un Uovo sta per schiudersi! Vai a vedere al Laboratorio Pokémon!
+[title/push_005] [Name:TitleName ]
 [title/egg_001] Scelgo quest'Uovo!
 [title/egg_002] Vuoi confermare la tua scelta?
 [title/egg_003] Hai scelto l'Uovo di [Name:PokemonName ]!
@@ -26646,6 +28228,16 @@ Pokémon Masters를
 플레이 할 수 없게 됩니다.
 [title/approval_042] 해당 유저의 승인을 철회하였습니다.
 [title/approval_044] OK
+[title/approval_045] 만 14세 미만의 아동인 유저가 플레이를 하기 위해서는 부모님 등 법정대리인의 동의가 필요합니다.
+부모님 등 법정대리인으로 하여금 [Name:TitleName ] 앱을 다운로드하게 하여 토큰을 발행하도록 해주세요.
+발행된 토큰을 입력 다이얼로그에 입력하고 승인의뢰 버튼을 눌러 주세요.
+승인이 성공하면 게임을 계속해서 플레이할 수 있습니다.
+[title/approval_046] 해당 유저의
+"개인정보의 수집・이용에 대한 동의"를
+철회하시겠습니까?
+철회하면 해당 유저는
+[Name:TitleName ][Kor:Particle char="wo" ]
+플레이 할 수 없게 됩니다.
 
 ===========
 title_ja.lsd
@@ -26990,6 +28582,12 @@ Apple IDに連携されていた
 情報を管理
 [title/title_145] ニンテンドーアカウントで
 引き継ぐ
+[title/title_146] “｢[Name:TitleName ](이하 본 어플리케이션)｣”에서는
+개인정보처리방침에 근거하여 이하의 목적으로
+고객의 이용정보·개인정보를취득합니다.
+이하의 내용을 확인하신 후 동의를 부탁드립니다.
+<attr color='EB1414'>※만 14세 미만인 분의 경우, 부모님 등 법정대리인이 이하의 내용을
+확인해 주세요.</attr>
 [title/assetdl_004] アンケートに
 ご協力をお願いします
 [title/assetdl_006] あなたが「ポケモン」について遊んだり見たりしたことがあるものを全てお選びください
@@ -27060,6 +28658,7 @@ OSの処理によってダウンロードが止まることがあります
 [title/push_002] パシオでの冒険をはじめよう！
 [title/push_003] Notification
 [title/push_004] タマゴがかえりそうだ！　ヒナギクポケモン研究所に行ってみよう！
+[title/push_005] [Name:TitleName ]
 [title/egg_001] このタマゴにする！
 [title/egg_002] このタマゴにする？
 [title/egg_003] [Name:PokemonName ]の
@@ -27153,6 +28752,22 @@ OSの処理によってダウンロードが止まることがあります
 プレイできなくなります
 [title/approval_042] このユーザーの承認を撤回しました
 [title/approval_044] OK
+[title/approval_045] 満14歳未満の児童であるユーザーが
+プレイをするにはご両親など
+法定代理人の同意が必要です。
+ご両親など法定代理人に
+[Name:TitleName ]のアプリを
+ダウンロードしてもらい、
+トークン発行をしてもらってください。
+発行されたトークンを入力ダイアログに入力して承認依頼ボタンを押してください。
+承認が成功するとゲームを
+プレイすることができます。
+[title/approval_046] このユーザーの
+「個人情報の収集・利用に対する同意」を撤回しますか？
+
+撤回するとこのユーザーは
+[Name:TitleName ]を
+プレイできなくなります
 
 ===========
 title_ko.lsd
@@ -27479,6 +29094,12 @@ Apple ID에 연동되어 있던
 정보 관리
 [title/title_145] 닌텐도 어카운트로
 이어받기
+[title/title_146] “｢[Name:TitleName ](이하 본 어플리케이션)｣”에서는
+개인정보처리방침에 근거하여 이하의 목적으로
+고객의 이용정보·개인정보를취득합니다.
+이하의 내용을 확인하신 후 동의를 부탁드립니다.
+<attr color='EB1414'>※만 14세 미만인 분의 경우, 부모님 등 법정대리인이 이하의 내용을
+확인해 주세요.</attr>
 [title/assetdl_004] 翻訳不要
 [title/assetdl_006] 翻訳不要
 [title/assetdl_007] 翻訳不要
@@ -27541,6 +29162,7 @@ OS 처리 상황에 따라 다운로드가 중지될 수 있습니다
 [title/push_002] Adventure is waiting for you on Pasio. Log in now!
 [title/push_003] Notification
 [title/push_004] 알이 부화할 것 같다! 데이지 포켓몬 연구소에 가봅시다!
+[title/push_005] 
 [title/egg_001] 이 알로 할래요!
 [title/egg_002] 이 알로 할래?
 [title/egg_003] [Name:PokemonName ]의 알로 정했다!
@@ -27632,6 +29254,16 @@ Pokémon Masters를
 플레이 할 수 없게 됩니다.
 [title/approval_042] 해당 유저의 승인을 철회하였습니다.
 [title/approval_044] OK
+[title/approval_045] 만 14세 미만의 아동인 유저가 플레이를 하기 위해서는 부모님 등 법정대리인의 동의가 필요합니다.
+부모님 등 법정대리인으로 하여금 [Name:TitleName ] 앱을 다운로드하게 하여 토큰을 발행하도록 해주세요.
+발행된 토큰을 입력 다이얼로그에 입력하고 승인의뢰 버튼을 눌러 주세요.
+승인이 성공하면 게임을 계속해서 플레이할 수 있습니다.
+[title/approval_046] 해당 유저의
+"개인정보의 수집・이용에 대한 동의"를
+철회하시겠습니까?
+철회하면 해당 유저는
+[Name:TitleName ][Kor:Particle char="wo" ]
+플레이 할 수 없게 됩니다.
 
 ===========
 title_zh-TW.lsd
@@ -27932,6 +29564,12 @@ OS 버전, OS 타입, 타게팅 광고의 제한에 관한 설정 상태, 단말
 [title/title_144] 管理Nintendo Account資訊
 [title/title_145] 使用Nintendo Account
 轉移儲存資料
+[title/title_146] “｢[Name:TitleName ](이하 본 어플리케이션)｣”에서는
+개인정보처리방침에 근거하여 이하의 목적으로
+고객의 이용정보·개인정보를취득합니다.
+이하의 내용을 확인하신 후 동의를 부탁드립니다.
+<attr color='EB1414'>※만 14세 미만인 분의 경우, 부모님 등 법정대리인이 이하의 내용을
+확인해 주세요.</attr>
 [title/assetdl_004] 翻訳不要
 [title/assetdl_006] 翻訳不要
 [title/assetdl_007] 翻訳不要
@@ -27990,6 +29628,7 @@ OS 버전, OS 타입, 타게팅 광고의 제한에 관한 설정 상태, 단말
 [title/push_002] Adventure is waiting for you on Pasio. Log in now!
 [title/push_003] Notification
 [title/push_004] 蛋好像快要孵化了！快點去雛菊寶可夢研究所吧！
+[title/push_005] [Name:TitleName ]
 [title/egg_001] 選擇這顆蛋！
 [title/egg_002] 要選擇這顆蛋嗎？
 [title/egg_003] 就決定是[Name:PokemonName ]的蛋了！
@@ -28079,4 +29718,14 @@ Pokémon Masters를
 플레이 할 수 없게 됩니다.
 [title/approval_042] 해당 유저의 승인을 철회하였습니다.
 [title/approval_044] OK
+[title/approval_045] 만 14세 미만의 아동인 유저가 플레이를 하기 위해서는 부모님 등 법정대리인의 동의가 필요합니다.
+부모님 등 법정대리인으로 하여금 [Name:TitleName ] 앱을 다운로드하게 하여 토큰을 발행하도록 해주세요.
+발행된 토큰을 입력 다이얼로그에 입력하고 승인의뢰 버튼을 눌러 주세요.
+승인이 성공하면 게임을 계속해서 플레이할 수 있습니다.
+[title/approval_046] 해당 유저의
+"개인정보의 수집・이용에 대한 동의"를
+철회하시겠습니까?
+철회하면 해당 유저는
+[Name:TitleName ][Kor:Particle char="wo" ]
+플레이 할 수 없게 됩니다.
 
