@@ -2159,6 +2159,67 @@ beginnt!
 [quest_title_1030302000605090] Vs. Drachen-Gefährten
 [quest_title_1030210092800000] Ein Tag mit Lilia
 [quest_title_1030302001010060] Konfrontation: Zyrus 6
+[quest_group_title_10122000000] Elio
+[quest_group_title_10123000000] Selene
+[quest_group_title_10126400000] Maike (Saison 2021)
+[quest_group_title_10170400000] Artie (Saison 2021)
+[quest_group_title_100037] Kapitel 28
+[quest_group_detail_100038] Herzen im Einklang
+[quest_title_1030430300107010] Vs. Astor
+[quest_title_1030430300116010] Vs. Kattlea
+[quest_title_1030430300113010] Vs. Anissa
+[quest_title_1030430300111010] Vs. Eugen
+[quest_title_1030430300101010] Vs. Lilia
+[quest_title_1030430300103010] Vs. Lauro
+[quest_title_1030303000605000] Willkommen in unserem
+neuen Versteck!
+[quest_title_1030220122000000] Ein Tag mit Elio
+[quest_title_1030220122000100] Robball entwickelt sich
+[quest_title_1030220122000200] Marikeck entwickelt sich
+[quest_title_1030220123000000] Ein Tag mit Selene
+[quest_title_1030220123000100] Bauz entwickelt sich
+[quest_title_1030220123000200] Arboretoss entwickelt sich
+[quest_title_1030303000603010] Die Prüfungen beginnen!
+[quest_title_1030303000603020] Hat da etwas angebissen?
+[quest_title_1030303000603030] Euer Auftritt, Gefährten!
+[quest_title_1030303000603040] Ein unwiderstehlicher Duft
+[quest_title_1030303000603050] Ein Ausflug auf Passio
+[quest_title_1030303000603060] Mauzi-Jammer
+[quest_title_1030303000603070] Tüfteln mit Chrys
+[quest_title_1030303000603080] Total verdreht!
+[quest_title_1030303000603090] Missglückte Wortwitze
+[quest_title_1030303000603100] Ein Gefühl für den Wind
+[quest_title_1030303000603110] Neuer Ort, neue Erfahrungen
+[quest_title_1030303000603120] Rigoroses Training
+[quest_title_1030303000603130] Das Urteil der
+Feinschmeckerin
+[quest_title_1030303000603140] Ein frischer Wind
+[quest_title_1030303000701011] Vs. Boreos
+[quest_title_1030303010701021] Vs. Boreos 2
+[quest_title_1030303020701031] Vs. Boreos 3
+[quest_title_1030303000601000] Überlass die Eiersuche uns!
+[quest_title_1030303000601010] Ein Ei unter Eiern
+[quest_title_1030303000601020] Eiersuche mit Feuereifer
+[quest_title_1030303000601030] Wo steckt Togepi?
+[quest_title_1030303000601040] Zukunft mit Potenzial
+[quest_title_1030303000602050] Lasst uns Items sammeln!
+[quest_title_1030303000602060] Lasst uns Items sammeln! 2
+[quest_title_1030303000602070] Lasst uns Items sammeln! 3
+[quest_title_1030303000602080] Tägliche Chance auf ein Ei
+[quest_title_1030303000602090] Lasst uns noch mehr Items
+sammeln!
+[quest_title_1030110000280100] Warten auf das Halbfinale
+[quest_title_1030110000280300] Hilfe naht!
+[quest_title_1030110000280500] Die Beschützer der WPM
+[quest_title_1030110000280700] Die letzten Mitglieder von
+Team Break
+[quest_title_1030110000280800] Vs. Die letzten Mitglieder von
+Team Break
+[quest_title_1030110000280900] Alles für ein perfektes
+Halbfinale! 
+[quest_title_1030110000281000] Ein Ziel für die Zukunft
+[quest_title_1030110000280400] Vs. Team Break (Überfall) 2
+[quest_title_1030110000280600] Vs. Team Break (Überfall) 3
 
 ===========
 story_quest_name_en.lsd
@@ -3586,6 +3647,63 @@ story_quest_name_en.lsd
 [quest_title_1030302000605090] Challenge the Dragon Sync Pairs
 [quest_title_1030210092800000] A Day with Iris
 [quest_title_1030302001010060] Take Down Cyrus! Round 6
+[quest_group_title_10122000000] Elio
+[quest_group_title_10123000000] Selene
+[quest_group_title_10126400000] May
+(Spring 2021)
+[quest_group_title_10170400000] Burgh
+(Spring 2021)
+[quest_group_title_100037] Chapter 28
+[quest_group_detail_100038] Change of Heart
+[quest_title_1030430300107010] Grimsley
+[quest_title_1030430300116010] Caitlin
+[quest_title_1030430300113010] Shauntal
+[quest_title_1030430300111010] Marshal
+[quest_title_1030430300101010] Iris
+[quest_title_1030430300103010] Alder
+[quest_title_1030303000605000] Team Break Take-Over!
+[quest_title_1030220122000000] A Day with Elio
+[quest_title_1030220122000100] Popplio’s Evolution
+[quest_title_1030220122000200] Brionne’s Evolution
+[quest_title_1030220123000000] A Day with Selene
+[quest_title_1030220123000100] Rowlet’s Evolution
+[quest_title_1030220123000200] Dartrix’s Evolution
+[quest_title_1030303000603010] Let the Trials Begin!
+[quest_title_1030303000603020] A Big Catch
+[quest_title_1030303000603030] A Dance and a Quiz
+[quest_title_1030303000603040] An Irresistible Aroma
+[quest_title_1030303000603050] Pasio Sight-Seeing
+[quest_title_1030303000603060] Fetch the Meowth!
+[quest_title_1030303000603070] Sophocles’s New Helper
+[quest_title_1030303000603080] ’Round Rowlet
+[quest_title_1030303000603090] What, Nothing?
+[quest_title_1030303000603100] Wind and Sky
+[quest_title_1030303000603110] Appreciating Alola
+[quest_title_1030303000603120] Hard-Core Masked Royal
+[quest_title_1030303000603130] A Buzzworthy Dish
+[quest_title_1030303000603140] Make Way for the Hurricane
+[quest_title_1030303000701011] Tornadus’s Challenge: Part 1
+[quest_title_1030303010701021] Tornadus’s Challenge: Part 2
+[quest_title_1030303020701031] Tornadus’s Challenge: Part 3
+[quest_title_1030303000601000] Eggceptional Egg Hunters
+[quest_title_1030303000601010] A Scrambled Egg?!
+[quest_title_1030303000601020] Ready, Set, Hunt!
+[quest_title_1030303000601030] A Toge-pickle
+[quest_title_1030303000601040] A Sunny-Side Future
+[quest_title_1030303000602050] Egg Hunting: Part 1
+[quest_title_1030303000602060] Egg Hunting: Part 2
+[quest_title_1030303000602070] Egg Hunting: Part 3
+[quest_title_1030303000602080] Daily Egg Hunt Challenge!
+[quest_title_1030303000602090] Ultimate Egg Collection
+[quest_title_1030110000280100] Moments from the Semifinals
+[quest_title_1030110000280300] Help Arrives!
+[quest_title_1030110000280500] PML Defenders
+[quest_title_1030110000280700] The Last of Team Break
+[quest_title_1030110000280800] Team Break’s Final Stand
+[quest_title_1030110000280900] A Match to Remember
+[quest_title_1030110000281000] Vengeance vs. Ambition
+[quest_title_1030110000280400] Team Break Ambush! Part 2
+[quest_title_1030110000280600] Team Break Ambush! Part 3
 
 ===========
 story_quest_name_es.lsd
@@ -5061,6 +5179,77 @@ lo más alto
 [quest_title_1030302000605090] VS. Domadragones
 [quest_title_1030210092800000] Un día con Iris
 [quest_title_1030302001010060] ¡Vence a Helio! (6)
+[quest_group_title_10122000000] Elio
+[quest_group_title_10123000000] Selene
+[quest_group_title_10126400000] Aura
+(Temporada 21)
+[quest_group_title_10170400000] Camus
+(Temporada 21)
+[quest_group_title_100037] Capítulo 28
+[quest_group_detail_100038] Corazones entrelazados
+[quest_title_1030430300107010] VS. Aza
+[quest_title_1030430300116010] VS. Catleya
+[quest_title_1030430300113010] VS. Anís
+[quest_title_1030430300111010] VS. Lotto
+[quest_title_1030430300101010] VS. Iris
+[quest_title_1030430300103010] VS. Mirto
+[quest_title_1030303000605000] ¡La guarida de mis sueños!
+[quest_title_1030220122000000] Un día con Elio
+[quest_title_1030220122000100] ¡Popplio evoluciona!
+[quest_title_1030220122000200] ¡Brionne evoluciona!
+[quest_title_1030220123000000] Un día con Selene
+[quest_title_1030220123000100] ¡Rowlet evoluciona!
+[quest_title_1030220123000200] ¡Dartrix evoluciona!
+[quest_title_1030303000603010] ¡Comienza el recorrido
+de Passio!
+[quest_title_1030303000603020] ¿Morderán el anzuelo?
+[quest_title_1030303000603030] ¡Ojo al baile!
+[quest_title_1030303000603040] Un olor irresistible
+[quest_title_1030303000603050] ¡Un emocionante tour por
+Passio!
+[quest_title_1030303000603060] ¡Cada Meowth es un mundo!
+[quest_title_1030303000603070] Una ayuda inesperada
+para Chris
+[quest_title_1030303000603080] ¡A vueltas con Rowlet!
+[quest_title_1030303000603090] A cuadros
+[quest_title_1030303000603100] Los vientos que soplan en
+el cielo
+[quest_title_1030303000603110] Lo que Alola me ha dado
+[quest_title_1030303000603120] La admiración por Royale,
+el Enmascarado
+[quest_title_1030303000603130] El veredicto de la gourmet
+[quest_title_1030303000603140] Soplan vientos de cambio
+[quest_title_1030303000701011] VS. Tornadus
+[quest_title_1030303010701021] VS. Tornadus (2)
+[quest_title_1030303020701031] VS. Tornadus (3)
+[quest_title_1030303000601000] ¡A la búsqueda de los huevos!
+[quest_title_1030303000601010] ¿Un Huevo entre los huevos?
+[quest_title_1030303000601020] ¡Locura por los huevos!
+[quest_title_1030303000601030] En busca de huevos
+y de Togepi
+[quest_title_1030303000601040] El futuro os espera
+[quest_title_1030303000602050] En busca de muchos
+objetos
+[quest_title_1030303000602060] En busca de muchos
+objetos (2)
+[quest_title_1030303000602070] En busca de muchos
+objetos (3)
+[quest_title_1030303000602080] ¡Un Huevo Pokémon al día!
+[quest_title_1030303000602090] En busca de mogollón de
+objetos
+[quest_title_1030110000280100] A las puertas de
+la semifinal
+[quest_title_1030110000280300] ¡Llega la caballería!
+[quest_title_1030110000280500] Protegiendo el WPM
+con uñas y dientes
+[quest_title_1030110000280700] El último reducto
+del Team Break
+[quest_title_1030110000280800] VS. Último reducto del Team Break
+[quest_title_1030110000280900] La semifinal más esperada
+[quest_title_1030110000281000] Una despedida del pasado,
+un mensaje hacia el futuro
+[quest_title_1030110000280400] VS. Ataque sorpresa del Team Break (2)
+[quest_title_1030110000280600] VS. Ataque sorpresa del Team Break (3)
 
 ===========
 story_quest_name_fr.lsd
@@ -6083,7 +6272,7 @@ Ultime)
 [quest_title_1030420500102012] Combat : Strykna
 [quest_title_1030420500102014] Combat : Strykna 2
 [quest_title_1030420500103012] Combat : Iris
-[quest_title_1030420500103014] Combat : Iris 2
+[quest_title_1030420500103014] Combat : Iris II
 [quest_title_1030420500104012] Combat : Anis
 [quest_title_1030420500104014] Combat : Anis 2
 [quest_title_1030205000600000] Le Concours des Duos !
@@ -6616,6 +6805,73 @@ des Maîtres
 [quest_title_1030302000605090] Combat : Dracologues
 [quest_title_1030210092800000] Une journée avec Iris
 [quest_title_1030302001010060] Contre Hélio VI
+[quest_group_title_10122000000] Elio
+[quest_group_title_10123000000] Selene
+[quest_group_title_10126400000] Flora
+(Saison 2021)
+[quest_group_title_10170400000] Artie
+(Saison 2021)
+[quest_group_title_100037] Chapitre 28
+[quest_group_detail_100038] À cœur ouvert
+[quest_title_1030430300107010] Combat : Pieris
+[quest_title_1030430300116010] Combat : Percila
+[quest_title_1030430300113010] Combat : Anis
+[quest_title_1030430300111010] Combat : Kunz
+[quest_title_1030430300101010] Combat : Iris
+[quest_title_1030430300103010] Combat : Goyah
+[quest_title_1030303000605000] Panique au Centre Pokémon
+[quest_title_1030220122000000] Une journée avec Elio
+[quest_title_1030220122000100] L'évolution d'Otaquin
+[quest_title_1030220122000200] L'évolution d'Otarlette
+[quest_title_1030220123000000] Une journée avec Selene
+[quest_title_1030220123000100] L'évolution de Brindibou
+[quest_title_1030220123000200] L'évolution d'Efflèche
+[quest_title_1030303000603010] Que les Épreuves
+commencent !
+[quest_title_1030303000603020] Ça mord ?
+[quest_title_1030303000603030] Un challenge ardent
+[quest_title_1030303000603040] Une odeur irrésistible
+[quest_title_1030303000603050] Excursion à Passio
+[quest_title_1030303000603060] À la recherche des Miaouss
+échappés
+[quest_title_1030303000603070] L'assistant surprenant
+de Chrys
+[quest_title_1030303000603080] Brindibou contorsionniste
+[quest_title_1030303000603090] Un humour de choc
+[quest_title_1030303000603100] Vent et nuages
+[quest_title_1030303000603110] Les bienfaits d'Alola
+[quest_title_1030303000603120] Quel homme,
+ce Royal Mask !
+[quest_title_1030303000603130] Une gastronome hors pair
+[quest_title_1030303000603140] Le vent du changement
+[quest_title_1030303000701011] Combat : Boréas
+[quest_title_1030303010701021] Combat : Boréas II
+[quest_title_1030303020701031] Combat : Boréas III
+[quest_title_1030303000601000] L'appel de la chasse
+[quest_title_1030303000601010] Un Œuf parmi les œufs ?!
+[quest_title_1030303000601020] À vos marques... Prêts...
+Chassez !
+[quest_title_1030303000601030] À la recherche de Togepi
+[quest_title_1030303000601040] Un potentiel illimité
+[quest_title_1030303000602050] Collecte d'objets
+[quest_title_1030303000602060] Collecte d'objets II
+[quest_title_1030303000602070] Collecte d'objets III
+[quest_title_1030303000602080] Œuf quotidien (limité
+à une fois par jour) !
+[quest_title_1030303000602090] Collecte d'objets effrénée
+[quest_title_1030110000280100] La demi-finale approche
+[quest_title_1030110000280300] Un secours inespéré
+[quest_title_1030110000280500] Les défenseurs du WPM
+[quest_title_1030110000280700] Les derniers membres
+de la Team Break
+[quest_title_1030110000280800] Combat : Les derniers
+membres de la Team Break
+[quest_title_1030110000280900] Pour une demi-finale épique
+[quest_title_1030110000281000] Aller de l'avant
+[quest_title_1030110000280400] Combat : L'attaque surprise
+de la Team Break II
+[quest_title_1030110000280600] Combat : L'attaque surprise
+de la Team Break III
 
 ===========
 story_quest_name_it.lsd
@@ -8030,6 +8286,61 @@ story_quest_name_it.lsd
 [quest_title_1030302000605090] VS Unità Drago
 [quest_title_1030210092800000] Un giorno con Iris
 [quest_title_1030302001010060] Sconfiggi Cyrus! 6
+[quest_group_title_10122000000] Elio
+[quest_group_title_10123000000] Selene
+[quest_group_title_10126400000] Vera (feste 2021)
+[quest_group_title_10170400000] Artemisio (feste 2021)
+[quest_group_title_100037] Capitolo 28
+[quest_group_detail_100038] Cuori in sintonia
+[quest_title_1030430300107010] VS Mirton
+[quest_title_1030430300116010] VS Catlina
+[quest_title_1030430300113010] VS Antemia
+[quest_title_1030430300111010] VS Marzio
+[quest_title_1030430300101010] VS Iris
+[quest_title_1030430300103010] VS Nardo
+[quest_title_1030303000605000] Benvenuti al nuovo covo!
+[quest_title_1030220122000000] Un giorno con Elio
+[quest_title_1030220122000100] L'evoluzione di Popplio
+[quest_title_1030220122000200] L'evoluzione di Brionne
+[quest_title_1030220123000000] Un giorno con Selene
+[quest_title_1030220123000100] L'evoluzione di Rowlet
+[quest_title_1030220123000200] L'evoluzione di Dartrix
+[quest_title_1030303000603010] Iniziano le prove!
+[quest_title_1030303000603020] Cosa abboccherà?
+[quest_title_1030303000603030] Danza e quiz
+[quest_title_1030303000603040] Un aroma irresistibile
+[quest_title_1030303000603050] Visita guidata a Pasio
+[quest_title_1030303000603060] Il carattere dei Meowth
+[quest_title_1030303000603070] Il nuovo aiutante di Chrys
+[quest_title_1030303000603080] Il talento di Rowlet
+[quest_title_1030303000603090] Una reazione lenta
+[quest_title_1030303000603100] La brezza che spazza il cielo
+[quest_title_1030303000603110] I frutti delle esperienze ad Alola
+[quest_title_1030303000603120] L'incredibile Mister Royale
+[quest_title_1030303000603130] Selene assaggiatrice gourmet!
+[quest_title_1030303000603140] Il vento del cambiamento
+[quest_title_1030303000701011] VS Tornadus
+[quest_title_1030303010701021] VS Tornadus 2
+[quest_title_1030303020701031] VS Tornadus 3
+[quest_title_1030303000601000] Parte la caccia alle uova!
+[quest_title_1030303000601010] Un Uovo tra le uova?!
+[quest_title_1030303000601020] Una caccia all'uovo entusiasmante!
+[quest_title_1030303000601030] Alla ricerca dell'Uovo e di Togepi
+[quest_title_1030303000601040] Il potenziale per un futuro meraviglioso
+[quest_title_1030303000602050] Raccogliamo tanti strumenti! 1
+[quest_title_1030303000602060] Raccogliamo tanti strumenti! 2
+[quest_title_1030303000602070] Raccogliamo tanti strumenti! 3
+[quest_title_1030303000602080] Ottieni un Uovo diverso ogni giorno!
+[quest_title_1030303000602090] Raccogliamo ancora più strumenti!
+[quest_title_1030110000280100] L'attesa per le semifinali
+[quest_title_1030110000280300] Arrivano i nostri!
+[quest_title_1030110000280500] I difensori del WPM
+[quest_title_1030110000280700] Gli ultimi membri del Team Break
+[quest_title_1030110000280800] VS ultimi membri del Team Break
+[quest_title_1030110000280900] Un incontro perfetto
+[quest_title_1030110000281000] Un addio al passato con una promessa
+[quest_title_1030110000280400] VS Team Break a sorpresa 2
+[quest_title_1030110000280600] VS Team Break a sorpresa 3
 
 ===========
 story_quest_name_ja.lsd
@@ -9458,6 +9769,63 @@ story_quest_name_ja.lsd
 [quest_title_1030302000605090] ＶＳ　ドラゴンバディーズ
 [quest_title_1030210092800000] とある日のアイリス
 [quest_title_1030302001010060] 対決！　アカギ６
+[quest_group_title_10122000000] ヨウ
+[quest_group_title_10123000000] ミヅキ
+[quest_group_title_10126400000] ハルカ
+（２１シーズン）
+[quest_group_title_10170400000] アーティ
+（２１シーズン）
+[quest_group_title_100037] 第２８章
+[quest_group_detail_100038] 重なりあう心
+[quest_title_1030430300107010] ＶＳ　ギーマ
+[quest_title_1030430300116010] ＶＳ　カトレア
+[quest_title_1030430300113010] ＶＳ　シキミ
+[quest_title_1030430300111010] ＶＳ　レンブ
+[quest_title_1030430300101010] ＶＳ　アイリス
+[quest_title_1030430300103010] ＶＳ　アデク
+[quest_title_1030303000605000] 新しい　アジトへ　ようこそ！
+[quest_title_1030220122000000] とある日のヨウ
+[quest_title_1030220122000100] アシマリの進化
+[quest_title_1030220122000200] オシャマリの進化
+[quest_title_1030220123000000] とある日のミヅキ
+[quest_title_1030220123000100] モクローの進化
+[quest_title_1030220123000200] フクスローの進化
+[quest_title_1030303000603010] 試練開始！
+[quest_title_1030303000603020] なにが　つれるの？
+[quest_title_1030303000603030] 踊る難問！
+[quest_title_1030303000603040] てごわい匂い
+[quest_title_1030303000603050] わくわくのパシオ観光！
+[quest_title_1030303000603060] ニャースを見極めよう！
+[quest_title_1030303000603070] マーマネのお手伝い
+[quest_title_1030303000603080] ぐるっとモクロー！
+[quest_title_1030303000603090] ノーリアクション？
+[quest_title_1030303000603100] 空に吹く風
+[quest_title_1030303000603110] アローラがくれたもの
+[quest_title_1030303000603120] わたしの理想のロイヤルマスク
+[quest_title_1030303000603130] うなれ　食通レポーター！
+[quest_title_1030303000603140] 新しい風を吹かせる者
+[quest_title_1030303000701011] ＶＳ　トルネロス
+[quest_title_1030303010701021] ＶＳ　トルネロス２
+[quest_title_1030303020701031] ＶＳ　トルネロス３
+[quest_title_1030303000601000] タマゴハントはボクらにお任せ
+[quest_title_1030303000601010] タマゴの中にタマゴが！？
+[quest_title_1030303000601020] 熱狂のタマゴハント！
+[quest_title_1030303000601030] 探そうタマゴ　探そうトゲピー
+[quest_title_1030303000601040] 未来にむかって大きく育て
+[quest_title_1030303000602050] どうぐをいっぱい集めよう
+[quest_title_1030303000602060] どうぐをいっぱい集めよう２
+[quest_title_1030303000602070] どうぐをいっぱい集めよう３
+[quest_title_1030303000602080] １日１回！　日替わりタマゴ獲得
+[quest_title_1030303000602090] どうぐをもっといっぱい集めよう
+[quest_title_1030110000280100] 準決勝を待つ者たち
+[quest_title_1030110000280300] 現れた助っ人！
+[quest_title_1030110000280500] ＷＰＭを守る者たち
+[quest_title_1030110000280700] 最後のブレイク団
+[quest_title_1030110000280800] ＶＳ　最後のブレイク団
+[quest_title_1030110000280900] 最高の準決勝のために
+[quest_title_1030110000281000] 過去への決別と未来への宣言
+[quest_title_1030110000280400] ＶＳ　奇襲するブレイク団２
+[quest_title_1030110000280600] ＶＳ　奇襲するブレイク団３
 
 ===========
 story_quest_name_ko.lsd
@@ -10885,6 +11253,63 @@ story_quest_name_ko.lsd
 [quest_title_1030302000605090] VS 드래곤 버디즈
 [quest_title_1030210092800000] 아이리스의 어느 날
 [quest_title_1030302001010060] 대결! 태홍6
+[quest_group_title_10122000000] 영태
+[quest_group_title_10123000000] 미월
+[quest_group_title_10126400000] 봄이
+(21시즌)
+[quest_group_title_10170400000] 아티
+(21시즌)
+[quest_group_title_100037] 제28장
+[quest_group_detail_100038] 이어지는 마음
+[quest_title_1030430300107010] VS 블래리
+[quest_title_1030430300116010] VS 카틀레야
+[quest_title_1030430300113010] VS 망초
+[quest_title_1030430300111010] VS 연무
+[quest_title_1030430300101010] VS 아이리스
+[quest_title_1030430300103010] VS 노간주
+[quest_title_1030303000605000] 새로운 아지트에 어서 오세요!
+[quest_title_1030220122000000] 영태의 어느 날
+[quest_title_1030220122000100] 누리공의 진화
+[quest_title_1030220122000200] 키요공의 진화
+[quest_title_1030220123000000] 미월의 어느 날
+[quest_title_1030220123000100] 나몰빼미의 진화
+[quest_title_1030220123000200] 빼미스로우의 진화
+[quest_title_1030303000603010] 시련개시!
+[quest_title_1030303000603020] 뭐가 낚일까?
+[quest_title_1030303000603030] 춤추는 고난도 문제!
+[quest_title_1030303000603040] 강력한 냄새
+[quest_title_1030303000603050] 두근두근 파시오 관광!
+[quest_title_1030303000603060] 나옹을 판별하자!
+[quest_title_1030303000603070] 마마네 도와주기
+[quest_title_1030303000603080] 빙그르르 나몰빼미!
+[quest_title_1030303000603090] 리액션 없는 두 사람
+[quest_title_1030303000603100] 하늘에 부는 바람
+[quest_title_1030303000603110] 알로라가 준 선물
+[quest_title_1030303000603120] 내가 꿈꾸는 로열마스크
+[quest_title_1030303000603130] 미월이의 먹방 기행
+[quest_title_1030303000603140] 새로운 바람을 일으키는 자
+[quest_title_1030303000701011] VS 토네로스
+[quest_title_1030303010701021] VS 토네로스2
+[quest_title_1030303020701031] VS 토네로스3
+[quest_title_1030303000601000] 알 헌트는 우리에게 맡겨
+[quest_title_1030303000601010] 알 중에 진짜 알이!?
+[quest_title_1030303000601020] 열광적인 알 헌트!
+[quest_title_1030303000601030] 알을 찾자 토게피도 찾자
+[quest_title_1030303000601040] 미래를 향해 무럭무럭 자라라
+[quest_title_1030303000602050] 도구를 많이 모으자
+[quest_title_1030303000602060] 도구를 많이 모으자2
+[quest_title_1030303000602070] 도구를 많이 모으자3
+[quest_title_1030303000602080] 1일 1회! 오늘의 알 획득
+[quest_title_1030303000602090] 도구를 더 많이 모으자
+[quest_title_1030110000280100] 준결승을 기다리는 사람들
+[quest_title_1030110000280300] 나타난 조력자!
+[quest_title_1030110000280500] WPM을 지키는 자들
+[quest_title_1030110000280700] 마지막 브레이크단
+[quest_title_1030110000280800] VS 마지막 브레이크단
+[quest_title_1030110000280900] 최고의 준결승을 위해
+[quest_title_1030110000281000] 과거와의 결별과 미래로의 선언
+[quest_title_1030110000280400] VS 브레이크단의 기습2
+[quest_title_1030110000280600] VS 브레이크단의 기습3
 
 ===========
 story_quest_name_zh-TW.lsd
@@ -12312,6 +12737,63 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030302000605090] ＶＳ　龍屬性拍組
 [quest_title_1030210092800000] 某日的艾莉絲
 [quest_title_1030302001010060] 一決勝負！　赤日６
+[quest_group_title_10122000000] 小陽
+[quest_group_title_10123000000] 美月
+[quest_group_title_10126400000] 小遙
+（２０２１春季）
+[quest_group_title_10170400000] 亞堤
+（２０２１春季）
+[quest_group_title_100037] 第２８章
+[quest_group_detail_100038] 心靈相通
+[quest_title_1030430300107010] ＶＳ　越橘
+[quest_title_1030430300116010] ＶＳ　嘉德麗雅
+[quest_title_1030430300113010] ＶＳ　婉龍
+[quest_title_1030430300111010] ＶＳ　連武
+[quest_title_1030430300101010] ＶＳ　艾莉絲
+[quest_title_1030430300103010] ＶＳ　阿戴克
+[quest_title_1030303000605000] 歡迎來到新據點！
+[quest_title_1030220122000000] 某日的小陽
+[quest_title_1030220122000100] 球球海獅的進化
+[quest_title_1030220122000200] 花漾海獅的進化
+[quest_title_1030220123000000] 某日的美月
+[quest_title_1030220123000100] 木木梟的進化
+[quest_title_1030220123000200] 投羽梟的進化
+[quest_title_1030303000603010] 考驗開始！
+[quest_title_1030303000603020] 能釣到什麼呢？
+[quest_title_1030303000603030] 舞動的難題！
+[quest_title_1030303000603040] 強烈的氣味
+[quest_title_1030303000603050] 雀躍不已的帕希歐觀光之旅！
+[quest_title_1030303000603060] 深入了解喵喵吧！
+[quest_title_1030303000603070] 協助馬瑪內
+[quest_title_1030303000603080] 轉轉木木梟！
+[quest_title_1030303000603090] 毫無反應？
+[quest_title_1030303000603100] 空中吹拂的風
+[quest_title_1030303000603110] 阿羅拉的贈禮
+[quest_title_1030303000603120] 我心目中的皇家蒙面人
+[quest_title_1030303000603130] 讚嘆吧！美食家記者！
+[quest_title_1030303000603140] 吹起嶄新風潮之人
+[quest_title_1030303000701011] ＶＳ　龍捲雲
+[quest_title_1030303010701021] ＶＳ　龍捲雲２
+[quest_title_1030303020701031] ＶＳ　龍捲雲３
+[quest_title_1030303000601000] 找蛋就給我們吧
+[quest_title_1030303000601010] 蛋中有蛋！？
+[quest_title_1030303000601020] 狂熱的找蛋活動！
+[quest_title_1030303000601030] 尋找寶可夢蛋　尋找波克比
+[quest_title_1030303000601040] 朝向未來成長茁壯
+[quest_title_1030303000602050] 收集許多的道具吧
+[quest_title_1030303000602060] 收集許多的道具吧２
+[quest_title_1030303000602070] 收集許多的道具吧３
+[quest_title_1030303000602080] １天１次！　獲得每天替換的蛋
+[quest_title_1030303000602090] 收集更多的道具吧
+[quest_title_1030110000280100] 等待準決賽的人們
+[quest_title_1030110000280300] 幫手現身！
+[quest_title_1030110000280500] 守護ＷＰＭ的人們
+[quest_title_1030110000280700] 最後的破壞隊
+[quest_title_1030110000280800] ＶＳ　最後的破壞隊
+[quest_title_1030110000280900] 為了最精彩的準決賽
+[quest_title_1030110000281000] 與過去的道別和對未來的宣言
+[quest_title_1030110000280400] ＶＳ　發動奇襲的破壞隊２
+[quest_title_1030110000280600] ＶＳ　發動奇襲的破壞隊３
 
 ===========
 trainer_description_de.lsd
@@ -12758,6 +13240,23 @@ ihrem Kampfeseifer und ihrer Schönheit.
 unschlagbare Stärke. Als Superstar ist er unvergleichlich
 charismatisch und erfreut sich enormer Berühmtheit. Sein
 Orientierungssinn lässt jedoch zu wünschen übrig.
+[10122000000] Dieser Trainer liebt Pokémon und Abenteuer. Er setzt sein
+Training bei der Inselwanderschaft in der Alola-Region
+fort. Das Talent, das er dabei an den Tag legt, hat ihm
+selbst die Bewunderung von Professor Kukui eingebracht.
+[10123000000] Selene ist sehr neugierig und aufgeschlossen. Durch ihre
+liebenswerte Art schließt sie sehr leicht Freundschaften.
+Sie hält sich nicht an Kleinigkeiten auf und vertraut ihrer
+Intuition.
+[10126400000] Maikes süßes Outfit steht ganz im Zeichen der Eiersuche.
+Bei dieser erhält sie Unterstützung von ihrem Schlapor, das
+sich bei der Feldforschung durch seinen ausgezeichneten
+Spürsinn als zuverlässiger Partner erweist. Maike liebt ihr
+Haarband mit den langen, flauschigen Ohren.
+[10170400000] Arties Begeisterung rund um die Eiersuche zeigt sich in
+seinem speziellen Outfit, das mit seiner Farbenpracht jedes
+Künstlerherz höherschlagen lässt. Sein Partner Togepi ist
+ebenso künstlerisch begabt wie er.
 
 ===========
 trainer_description_en.lsd
@@ -13186,6 +13685,18 @@ tactics and cute appearance have earned her many fans.
 [10247000000] The Galar Champion, known as the unbeatable Leon, is a
 superstar who boasts unprecedented charisma and
 popularity. Rumor has it he is quite bad with directions.
+[10122000000] This Trainer loves Pokémon and adventure. He continues
+to train in the Alola island challenge, and his skills have
+even gained him recognition from Professor Kukui.
+[10123000000] This highly curious and easygoing Trainer is friendly with
+everyone and quite easy to get along with. She doesn’t
+worry about the little things and tends to act on instinct.
+[10126400000] May is back in a cute egg-hunting outfit along with
+Lopunny, a reliable fieldwork assistant that excels at
+finding things. May loves her long, fluffy ears.
+[10170400000] Burgh is dressed up in a special outfit to raise excitement
+for egg hunts along with Togepi, a great artistic partner.
+His colorful outfit is an inspiration for his artistic muse.
 
 ===========
 trainer_description_es.lsd
@@ -13695,6 +14206,22 @@ granjeado muchos admiradores.
 Su inigualable carisma hace que sea venerado como una
 superestrella. La única pega que tiene es su terrible
 sentido de la orientación.
+[10122000000] Este Entrenador adora los Pokémon y correr aventuras.
+Ha participado en el recorrido insular de Alola y sus
+hazañas le han valido la admiración del Profesor Kukui.
+[10123000000] Esta risueña Entrenadora siempre está deseando aprender
+cosas nuevas, y encima se lleva bien con todo el mundo.
+Se deja guiar por su intuición y no se lo piensa dos veces
+antes de pasar a la acción.
+[10126400000] Vuelve Aura con un vestido perfecto para salir a recoger
+huevos. La acompaña Lopunny, su fiel ayudante, capaz de
+rastrear como nadie. A Aura le encantan sus orejas: ¡son
+tan largas y acolchaditas!
+[10170400000] Camus quiere que todo el mundo se divierta encontrando
+huevos. Para ello, se ha puesto un traje muy especial y
+viene acompañado por Togepi, un compi con mucho arte.
+El colorido atuendo, además, estimula su creatividad e
+inspiración artística.
 
 ===========
 trainer_description_fr.lsd
@@ -14130,6 +14657,24 @@ de nombreux admirateurs.
 Tarak possède un charisme fou qui lui a valu
 son immense popularité. En revanche, on raconte
 qu'il n'a aucun sens de l'orientation.
+[10122000000] Un Dresseur qui aime les Pokémon et partir à l'aventure.
+Il poursuit son apprentissage en participant au Tour
+des Îles, à Alola. Même le Professeur Euphorbe reconnaît
+sa puissance.
+[10123000000] Une Dresseuse extrêmement curieuse et généreuse
+qui se fait des amis facilement partout où elle va.
+Elle ne se préoccupe pas des petits détails
+et agit en suivant son instinct.
+[10126400000] Flora a revêtu sa tenue spéciale pour la chasse
+aux œufs. Son accessoire préféré est sans nul doute
+son bandeau orné de longues et douces oreilles.
+Son Lockpin, qui est doué pour dénicher tout un tas
+de choses, est un partenaire précieux sur le terrain. 
+[10170400000] Dans sa tenue spéciale, Artie est paré pour animer
+la chasse aux œufs en compagnie de Togepi, qui, avec
+son enthousiasme pour le dessin, est le partenaire idéal.
+Ses vêtements colorés sont pour lui une source
+d'inspiration artistique.
 
 ===========
 trainer_description_it.lsd
@@ -14591,6 +15136,23 @@ hanno conquistato il cuore di innumerevoli fan.
 lo seguirebbero in capo al mondo. Seguirlo, però,
 potrebbe non essere una buona idea, dato che manca
 completamente di senso dell'orientamento.
+[10122000000] Giovane Allenatore che ama i Pokémon e le avventure,
+il suo innato talento è stato riconosciuto perfino
+dal Professor Kukui, vista anche l'enorme capacità
+di crescita dimostrata nel giro delle isole di Alola.
+[10123000000] Un'Allenatrice curiosa e alla mano che va d'accordo
+con tutti grazie al suo carattere amichevole. È un tipetto
+impulsivo che vive sul momento senza troppe
+preoccupazioni.
+[10126400000] Vera fa il suo ritorno con un look speciale, pronta
+a iniziare la caccia alle uova e a condurre ricerche
+sul campo assieme al suo fidato Lopunny, un fenomeno
+quando si tratta di trovare qualcosa. Vera adora
+le sue orecchie soffici e lunghe.
+[10170400000] Artemisio indossa un abito speciale che evoca il tema
+della caccia alle uova ed è accompagnato da un partner
+artistico d'eccezione, Togepi. I suoi vestiti colorati sono
+di grande ispirazione per le sue opere.
 
 ===========
 trainer_description_ja.lsd
@@ -15018,6 +15580,18 @@ trainer_description_ja.lsd
 [10247000000] ガラル地方の　チャンピオンで　無敵の強さを　持つ。
 いまだかつてない　カリスマ性で　絶大な人気を　誇る
 スーパースター。じつは　かなりの　方向音痴。
+[10122000000] ポケモンや　冒険が　大好きな　トレーナー。
+アローラ地方の　島巡りで　成長を　続けている。
+ククイ博士も　一目置くほどの　実力の　持ち主。
+[10123000000] 好奇心旺盛で　おおらかな　性格の　トレーナー。
+誰にでも　フレンドリーで　すぐに　仲良くなれる。
+細かいことは　あまり　気にしないで　直感で　動く。
+[10126400000] タマゴハントの　かわいい衣装を　着た　ハルカ。
+探し物が　得意な　ミミロップは　フィールドワークの
+大切な　相棒。　ふわふわの　長い耳が　お気に入り。
+[10170400000] タマゴハントを　盛りあげる　衣装を着た　アーティ。
+トゲピーは　アートを　描く　大事な　パートナー。
+カラフルな　衣装が　芸術家の　心を　刺激する。
 
 ===========
 trainer_description_ko.lsd
@@ -15445,6 +16019,18 @@ trainer_description_ko.lsd
 [10247000000] 가라르지방의 챔피언으로 무적의 실력을 갖추고 있다.
 이전까지 없던 카리스마로 절대적인 인기를 자랑하는 슈퍼스타.
 실은 꽤 길치다.
+[10122000000] 포켓몬과 모험을 정말 좋아하는 트레이너.
+알로라지방의 섬 순례를 통해 계속 성장하고 있다.
+쿠쿠이박사도 한 수 무를 만한 실력의 소유자.
+[10123000000] 호기심 왕성하고 너그러운 성격의 트레이너.
+누구에게나 친근하여 금방 친해진다.
+사소한 부분은 그다지 신경 쓰지 않으며 직감에 따라 움직인다.
+[10126400000] 알 헌트의 귀여운 의상을 입은 봄이.
+물건 찾기가 특기인 이어롭은 필드워크의 소중한 동료이다.
+폭신폭신하고 긴 귀를 좋아한다.
+[10170400000] 알 헌트의 분위기를 띄우기 위한 의상을 입은 아티.
+토게피는 정말 소중한 예술적 파트너이다.
+다채로운 의상이 예술가의 마음을 자극한다.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -15871,6 +16457,18 @@ trainer_description_zh-TW.lsd
 [10247000000] 伽勒爾地區的冠軍，擁有無人能敵的強大實力。
 他渾身上下充滿前所未有的領袖魅力，讓他成為
 人氣非凡的超級明星。但其實他是一個大路痴。
+[10122000000] 非常喜歡寶可夢和冒險的訓練家。
+阿羅拉地區的諸島巡禮讓他不斷成長，
+連庫庫伊博士都對他的實力甘拜下風。
+[10123000000] 好奇興旺盛，個性不拘小節的訓練家。
+對任何人都很友善，馬上就能變成好朋友。
+對小事不太在意，總是憑直覺行動。
+[10126400000] 身穿可愛找蛋服裝的小遙。擅長找東西的
+長耳兔是她進行實地調查時的最佳拍檔。
+她喜歡長耳兔軟綿綿的長耳朵。
+[10170400000] 身上服裝能夠炒熱找蛋活動氣氛的亞堤。
+波克比是他藝術創作的重要夥伴。
+色彩繽紛的服裝能刺激他那顆藝術家之心。
 
 ===========
 trainer_name_de.lsd
@@ -15990,6 +16588,8 @@ trainer_name_de.lsd
 [ch0119] Gladio
 [ch0120] Samantha
 [ch0121] Fran
+[ch0122] Elio
+[ch0123] Selene
 [ch0124] Maho
 [ch0125] Bromley
 [ch0126] Maike
@@ -16004,12 +16604,14 @@ trainer_name_de.lsd
 [ch0137] Eich
 [ch0140] Giovanni
 [ch0148] Jens
+[ch0149] Kiawe
 [ch0151] Lamina
 [ch0153] Frosina
 [ch0157] Valerie
 [ch9000] 
 [ch0158] Diantha
 [ch0159] Perenus
+[ch0160] Tracy
 [ch0170] Artie
 [ch0183] Marlon
 [ch0190] Ryuki
@@ -16142,6 +16744,8 @@ trainer_name_en.lsd
 [ch0119] Gladion
 [ch0120] Lusamine
 [ch0121] Plumeria
+[ch0122] Elio
+[ch0123] Selene
 [ch0124] Mallow
 [ch0125] Guzma
 [ch0126] May
@@ -16156,12 +16760,14 @@ trainer_name_en.lsd
 [ch0137] Professor Oak
 [ch0140] Giovanni
 [ch0148] Morty
+[ch0149] Kiawe
 [ch0151] Fantina
 [ch0153] Glacia
 [ch0157] Valerie
 [ch9000] 
 [ch0158] Diantha
 [ch0159] Darach
+[ch0160] Lana
 [ch0170] Burgh
 [ch0183] Molayne
 [ch0190] Ryuki
@@ -16294,6 +16900,8 @@ trainer_name_es.lsd
 [ch0119] Gladio
 [ch0120] Samina
 [ch0121] Francine
+[ch0122] Elio
+[ch0123] Selene
 [ch0124] Lulú
 [ch0125] Guzmán
 [ch0126] Aura
@@ -16308,12 +16916,14 @@ trainer_name_es.lsd
 [ch0137] Oak
 [ch0140] Giovanni
 [ch0148] Morti
+[ch0149] Kiawe
 [ch0151] Fantina
 [ch0153] Nívea
 [ch0157] Valeria
 [ch9000] 
 [ch0158] Dianta
 [ch0159] Kokuran
+[ch0160] Nereida
 [ch0170] Camus
 [ch0183] Lario
 [ch0190] Olano
@@ -16446,6 +17056,8 @@ trainer_name_fr.lsd
 [ch0119] Gladio
 [ch0120] Elsa-Mina
 [ch0121] Apocyne
+[ch0122] Elio
+[ch0123] Selene
 [ch0124] Barbara
 [ch0125] Guzma
 [ch0126] Flora
@@ -16460,12 +17072,14 @@ trainer_name_fr.lsd
 [ch0137] Chen
 [ch0140] Giovanni
 [ch0148] Mortimer
+[ch0149] Kiawe
 [ch0151] Kiméra
 [ch0153] Glacia
 [ch0157] Valériane
 [ch9000] 
 [ch0158] Dianthéa
 [ch0159] Parsley
+[ch0160] Néphie
 [ch0170] Artie
 [ch0183] Molène
 [ch0190] Solane
@@ -16598,6 +17212,8 @@ trainer_name_it.lsd
 [ch0119] Iridio
 [ch0120] Samina
 [ch0121] Plumeria
+[ch0122] Elio
+[ch0123] Selene
 [ch0124] Ibis
 [ch0125] Guzman
 [ch0126] Vera
@@ -16612,12 +17228,14 @@ trainer_name_it.lsd
 [ch0137] Professor Oak
 [ch0140] Giovanni
 [ch0148] Angelo
+[ch0149] Kawe
 [ch0151] Fannie
 [ch0153] Frida
 [ch0157] Valérie
 [ch9000] 
 [ch0158] Diantha
 [ch0159] Paride
+[ch0160] Suiren
 [ch0170] Artemisio
 [ch0183] Tapso
 [ch0190] Morel
@@ -16750,6 +17368,8 @@ trainer_name_ja.lsd
 [ch0119] グラジオ
 [ch0120] ルザミーネ
 [ch0121] プルメリ
+[ch0122] ヨウ
+[ch0123] ミヅキ
 [ch0124] マオ
 [ch0125] グズマ
 [ch0126] ハルカ
@@ -16764,12 +17384,14 @@ trainer_name_ja.lsd
 [ch0137] オーキド
 [ch0140] サカキ
 [ch0148] マツバ
+[ch0149] カキ
 [ch0151] メリッサ
 [ch0153] プリム
 [ch0157] マーシュ
 [ch9000] 
 [ch0158] カルネ
 [ch0159] コクラン
+[ch0160] スイレン
 [ch0170] アーティ
 [ch0183] マーレイン
 [ch0190] リュウキ
@@ -16902,6 +17524,8 @@ trainer_name_ko.lsd
 [ch0119] 글라디오
 [ch0120] 루자미네
 [ch0121] 플루메리
+[ch0122] 영태
+[ch0123] 미월
 [ch0124] 마오
 [ch0125] 구즈마
 [ch0126] 봄이
@@ -16916,12 +17540,14 @@ trainer_name_ko.lsd
 [ch0137] 오박사
 [ch0140] 비주기
 [ch0148] 유빈
+[ch0149] 키아웨
 [ch0151] 멜리사
 [ch0153] 미혜
 [ch0157] 마슈
 [ch9000] 
 [ch0158] 카르네
 [ch0159] 코크런
+[ch0160] 수련
 [ch0170] 아티
 [ch0183] 멀레인
 [ch0190] 용규
@@ -17054,6 +17680,8 @@ trainer_name_zh-TW.lsd
 [ch0119] 格拉吉歐
 [ch0120] 露莎米奈
 [ch0121] 布爾美麗
+[ch0122] 小陽
+[ch0123] 美月
 [ch0124] 瑪奧
 [ch0125] 古茲馬
 [ch0126] 小遙
@@ -17068,12 +17696,14 @@ trainer_name_zh-TW.lsd
 [ch0137] 大木
 [ch0140] 阪木
 [ch0148] 松葉
+[ch0149] 卡奇
 [ch0151] 梅麗莎
 [ch0153] 波妮
 [ch0157] 瑪綉
 [ch9000] 
 [ch0158] 卡露妮
 [ch0159] 石蘭
+[ch0160] 水蓮
 [ch0170] 亞堤
 [ch0183] 馬睿因
 [ch0190] 龍葵
@@ -25532,8 +26162,8 @@ sbloccato!
 [home/quest_list_076] LOTTA
 [home/quest_list_077] TAPPA
 [home/quest_list_078] Rinforza e metti alla prova le tue Unità!
-[home/quest_list_079] Si sblocca completando "[Name:QuestTitle ]" ([Name:QuestDifficulty ])
-del [Name:QuestGroupTitle ] in modalità [Name:SoloMulti ].
+[home/quest_list_079] Si sblocca completando "[Name:QuestTitle ]" ([Name:QuestDifficulty ]),
+"[Name:QuestGroupTitle ]" in modalità [Name:SoloMulti ].
 [home/quest_list_080] Residenza Lotta multigiocatore
 [home/quest_list_081] Non riceverai la prima ricompensa
 perché hai già completato questa
@@ -28775,6 +29405,17 @@ dieses Meisterfestivals erscheinen werden.
 Steht bei der Erscheinungsrate hinter dem Pokémon-Namen
 ein *, heißt das, dass sich das Pokémon durch eine
 Entwicklungs-Episode entwickeln kann.
+[shop/scout_148] Spielt das Video der Gefährtenattacke
+der Gefährten ab.
+[shop/scout_149] • Im Spiel beinhaltet es die Stimme des Trainers und den
+  Namen der Attacke.
+• Es kann bei einigen Trainern auch vorkommen, dass
+  keine Stimme vorhanden ist.
+Hinweis: Gefährtenattacken werden in ihrer
+ursprünglichen Version gezeigt und bleiben in ihrer
+Darstellung von etwaigen Veränderungen infolge der
+Entwicklung eines Pokémon oder der Erfüllung
+bestimmter Bedingungen im Kampf unbeeinflusst.
 [shop/deck_item_sale_001] Ausrüstungstausch
 [shop/deck_item_sale_002] Ausrüstung
 [shop/deck_item_sale_003] Filter
@@ -29194,6 +29835,15 @@ When scouting, you will see sync pairs with unevolved Pokémon even if you have 
 Master Fair sync pairs are sync pairs that will appear during this Master Fair. There is a possibility that they will appear outside of this Master Fair in the future.
 
 When you see a * displayed after a Pokémon name in the offering rate, that means the sync pair’s Pokémon can evolve through an Evolution sync pair story.
+[shop/scout_148] This will play a video of the featured
+sync pair’s sync move.
+[shop/scout_149] The following will be included during the game:
+• Trainer voice-over
+• Sync move name
+Note: Some Trainers may not have voice-over.
+Sync moves are shown as they appear prior to any
+changes that can be triggered by Pokémon Evolution
+or meeting certain requirements mid-battle.
 [shop/deck_item_sale_001] Exchange Gear
 [shop/deck_item_sale_002] Gear
 [shop/deck_item_sale_003] Filter
@@ -29577,6 +30227,16 @@ Las tasas de aparición de cada pareja de compis se aplican cada vez que se efec
 Es posible obtener una pareja de compis repetida en un reclutamiento. Aunque el Pokémon de la pareja de compis ya obtenida haya evolucionado, en la pantalla de reclutamiento aparecerá siempre la primera fase evolutiva.
 Los festicompis maestros son parejas de compis que aparecen durante los Pokéfestivales maestros. Es posible que vuelvan a ofrecerse en el futuro, incluso fuera de un Pokéfestival maestro.
 Los Pokémon de las parejas de compis marcadas con un asterisco (*) en la pantalla de las tasas de aparición podrán evolucionar tras completar el episodio de evolución correspondiente.
+[shop/scout_148] Puedes ver vídeos de los movimientos
+compi de los compis destacados antes
+de desbloquearlos.
+[shop/scout_149] En el juego también se incluirán los nombres de los
+movimientos y las voces del Entrenador (puede que
+algunos Entrenadores no tengan voz). En el vídeo
+siempre se mostrará el movimiento compi original,
+sin tener en cuenta ningún cambio ocasionado por
+la evolución de un Pokémon o por determinadas
+situaciones de combate.
 [shop/deck_item_sale_001] Canjear accesorios
 [shop/deck_item_sale_002] Accesorios
 [shop/deck_item_sale_003] Filtrar
@@ -29958,6 +30618,16 @@ Si vous appelez un Duo que vous avez déjà et dont vous avez fait évoluer le P
 Les Master Duos sont des Duos disponibles pendant la durée du Master festival. Il est possible que les Master Duos apparaissent dans le futur en dehors des Master festivals.
 
 Lorsqu'un astérisque (*) est affiché après le nom d'un Pokémon sur l'écran des pourcentages, le Duo peut faire évoluer le Pokémon à travers un épisode d'évolution.
+[shop/scout_148] Permet de voir en vidéo les capacités
+Duo des Duos à l'affiche.
+[shop/scout_149] En jeu, le nom de la capacité et une
+réplique du Dresseur apparaîtront dans
+chaque vidéo (certains Dresseurs
+resteront toutefois muets).
+De plus, lorsqu'une capacité Duo subit un changement
+suite à l'évolution d'un Pokémon ou lorsque certaines
+conditions de combat sont remplies, c'est l'animation
+de la capacité Duo d'origine qui sera rejouée.
 [shop/deck_item_sale_001] Échanger équipement
 [shop/deck_item_sale_002] Équipement
 [shop/deck_item_sale_003] Filtrer
@@ -30416,6 +31086,14 @@ Anche se il Pokémon di un'Unità già ottenuta si è evoluto, le Unità identic
 Le Unità Mastergala sono Unità che compariranno inizialmente durante questo Mastergala.
 È possibile che in futuro compaiano al di fuori di questo Mastergala.
 I Pokémon con un asterisco dopo il nome, visualizzato nel tasso di comparsa dell'Unità, possono evolversi tramite episodio evolutivo.
+[shop/scout_148] Riproduci il video dell'Unimossa
+dell'Unità VIP.
+[shop/scout_149] Nel gioco saranno inclusi anche la voce dell'Allenatore
+e il nome dell'Unimossa.
+Attenzione: alcuni Allenatori non hanno battute parlate.
+Se l'Unimossa cambia in seguito all'evoluzione
+del Pokémon o in base a certe condizioni durante
+la lotta, verrà riprodotta l'Unimossa originale.
 [shop/deck_item_sale_001] Scambio accessori
 [shop/deck_item_sale_002] Accessori
 [shop/deck_item_sale_003] Filtra
@@ -30874,6 +31552,14 @@ STEPによってはプレゼントが設定されている場合があります�
 ※マスターフェス限定バディーズとはこのマスターフェスの期間中に出現するバディーズです。
 ※マスターフェス限定バディーズは今後マスターフェス以外でも出現する可能性があります。
 ※提供割合にてポケモン名の後ろに(*)が表示されているバディーズは、進化エピソードを通してポケモンを進化させることができます。
+[shop/scout_148] ピックアップバディーズの
+バディーズわざ動画を再生します
+[shop/scout_149] ※ゲーム中では以下が入ります
+　・トレーナーのボイス
+　・バディーズわざ名
+※トレーナーによってはボイスが無い場合があります
+※ポケモンが進化する・バトル中に条件を満たす等で
+バディーズわざが変わる場合は変化前のものが再生されます
 [shop/deck_item_sale_001] 装備売却
 [shop/deck_item_sale_002] 装備
 [shop/deck_item_sale_003] フィルター
@@ -31349,6 +32035,14 @@ STEP에 따라서는 선물이 포함된 경우가 있습니다.
 ※마스터페스티벌 한정 버디즈는 본 마스터페스티벌 기간 중에 출현하는 버디즈를 말합니다.
 ※마스터페스티벌 한정 버디즈는 이후 마스터페스티벌 이외에서도 출현할 가능성이 있습니다.
 ※제공 확률에서 포켓몬 이름의 뒤에 (*)이 표시되어 있는 버디즈는 진화 에피소드를 통하여 포켓몬을 진화시킬 수 있습니다.
+[shop/scout_148] 픽업 버디즈의
+버디즈기술 동영상을 재생합니다
+[shop/scout_149] ※게임 중에는 아래가 추가됩니다
+   ・트레이너의 음성
+   ・버디즈기술 이름
+※트레이너에 따라서는 음성이 없는 경우도 있습니다
+※포켓몬이 진화하거나 배틀 중에 특정 조건을 만족하는 등으로
+버디즈기술이 변하는 경우에는 변화하기 전 영상이 재생됩니다
 [shop/deck_item_sale_001] 장비 판매
 [shop/deck_item_sale_002] 장비
 [shop/deck_item_sale_003] 필터
@@ -31755,6 +32449,14 @@ shop_zh-TW.lsd
 ※大師盛典限定拍組是會在本大師盛典期間出現的拍組
 ※大師盛典限定拍組今後有可能也會在非大師盛典期間出現
 ※在提供比例畫面中，若拍組的寶可夢名字後面標有(*)，則表示該寶可夢可透過進化劇情進化
+[shop/scout_148] 播放精選拍組的
+拍組招式動畫
+[shop/scout_149] ※遊戲中的動畫會包含下列內容
+　・訓練家的聲音
+　・拍組招式名稱
+※部分訓練家沒有配聲音
+※拍組招式因寶可夢進化／對戰中滿足條件
+等因素改變時，會播放招式改變前的動畫
 [shop/deck_item_sale_001] 出售裝備
 [shop/deck_item_sale_002] 裝備
 [shop/deck_item_sale_003] 篩選
@@ -32951,9 +33653,10 @@ title_es.lsd
 [title/assetdl_003] Descargando...
 [title/cache_001] Borrar caché
 [title/cache_002] Borrar la caché puede solucionar
-problemas con los gráficos.
+ciertos problemas de funcionamiento
+del juego.
 Tus datos de juego no se borrarán.
-¿Quieres borrar la caché?
+¿Quieres borrar la caché? 
 [title/cache_003] Borrando caché...
 [title/cache_004] Se ha borrado la caché.
 [title/cache_005] No se ha podido completar la
