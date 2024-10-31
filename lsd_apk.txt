@@ -955,6 +955,11 @@ den weltbesten Gefährten!
 vielmals, ich weiß das zu schätzen!
 [100074] Zeigt uns, was ihr hier gelernt
 habt! Nur keine falsche Scheu!
+[100075] Gefährten mit der Rolle „Variabel“
+sind je nach Gespann gut in
+verschiedenen Dingen! Sie teilen
+eine enge Freundschaft und
+verkörpern die Macht von Arceus!
 
 ===========
 loading_tips_description_en.lsd
@@ -1183,6 +1188,11 @@ I’ll treasure it.
 [100074] Why don’t you show us what
 you’ve learned!
 Give us all you’ve got!
+[100075] Sync pairs with the multi role are
+good at different things, depending
+on the sync pair! These sync pairs
+are connected via a strong bond
+and embody the power of Arceus!
 
 ===========
 loading_tips_description_es.lsd
@@ -1442,7 +1452,7 @@ especializada en moverse con
 rapidez.
 [100065] La función de entorno está
 especializada en controlar los
-efectos de campo.
+efectos de entorno.
 [100066] ¡Que dé comienzo el más grandioso
 de los combates! ¡Verás cómo un
 Campeón puede con todo!
@@ -1464,6 +1474,11 @@ haber!
 [100073] ¿Un regalo? ¿Para mí? ¡Gracias!
 [100074] ¡Venga, a ver qué habéis
 aprendido!
+[100075] La función de multi se especializa
+en diversos aspectos; ¡depende de
+cada pareja de compis! Estos
+compis ostentan un vínculo sólido
+y personifican el poder de Arceus.
 
 ===========
 loading_tips_description_fr.lsd
@@ -1740,6 +1755,13 @@ tous les deux !
 Merci, j'en prendrai soin !
 [100074] Montrez-nous un peu
 ce que vous avez appris !
+[100075] Les Duos dont le rôle est « Mutli »
+se spécialisent dans des domaines
+qui varient en fonction de chaque
+Duo ! Ces Duos sont connectés
+par un lien extrêmement fort,
+et incarnent la puissance
+d'Arceus !
 
 ===========
 loading_tips_description_it.lsd
@@ -2006,6 +2028,12 @@ più forte al mondo!
 Lo terrò da conto.
 [100074] Forza! Fateci vedere
 ciò che avete imparato!
+[100075] Le Unità con il ruolo di Multi
+sono specializzate in ambiti che
+variano a seconda delle singole
+Unità! Queste Unità condividono
+un forte legame e incarnano
+il potere di Arceus!
 
 ===========
 loading_tips_description_ja.lsd
@@ -2220,6 +2248,10 @@ loading_tips_description_ja.lsd
 ……ありがてえ　大切に　するぜ
 [100074] おまえらが　学んだ　すべてを
 今ここで　オレたちに　ぶつけてこい！
+[100075] ロール「マルチ」は　バディーズごとに
+得意な役割が　異なるぞ！
+アルセウスの力を宿した
+きずなで繋がっている　バディーズだ！
 
 ===========
 loading_tips_description_ko.lsd
@@ -2427,6 +2459,10 @@ HP가 줄어드는 양이 점점 늘어납니다!
 고마운걸... 소중히 간직할게
 [100074] 너희가 배운 모든 걸
 지금 여기서 우리에게 부딪쳐 봐!
+[100075] 롤 "멀티"는 버디즈마다
+특기로 하는 역할이 다릅니다!
+아르세우스의 힘이 깃든
+유대로 이어져 있는 버디즈입니다!
 
 ===========
 loading_tips_description_zh-TW.lsd
@@ -2630,6 +2666,10 @@ loading_tips_description_zh-TW.lsd
 ……謝啦，我會珍惜它的。
 [100074] 把你們學到的一切，
 在這裡展現給我們看吧！
+[100075] 「複合型」體系的拍組
+各自有不同的擅長領域！
+此類型的拍組透過蘊藏了
+阿爾宙斯之力的牽絆心心相連！
 
 ===========
 loading_tips_title_de.lsd
@@ -2696,6 +2736,7 @@ loading_tips_title_de.lsd
 [100072] Die Regenbogen-Schwingen
 [100073] PokéLounge
 [100074] Siegesstraße
+[100075] Die Variabel-Rolle
 
 ===========
 loading_tips_title_en.lsd
@@ -2762,6 +2803,7 @@ loading_tips_title_en.lsd
 [100072] Pure Hearts and Rainbow Wings
 [100073] Trainer Lodge
 [100074] Victory Road
+[100075] Multi Sync Pairs
 
 ===========
 loading_tips_title_es.lsd
@@ -2828,6 +2870,7 @@ loading_tips_title_es.lsd
 [100072] Las alas irisadas de la bondad
 [100073] El Salón de Entrenadores
 [100074] La Calle Victoria
+[100075] La función de multi
 
 ===========
 loading_tips_title_fr.lsd
@@ -2894,6 +2937,7 @@ loading_tips_title_fr.lsd
 [100072] Les ailes arc-en-ciel et le cœur pur
 [100073] Salon des Dresseurs
 [100074] Route Victoire
+[100075] Le rôle Multi
 
 ===========
 loading_tips_title_it.lsd
@@ -2960,6 +3004,7 @@ loading_tips_title_it.lsd
 [100072] Ali per un cuore puro
 [100073] Il Salotto Allenatori
 [100074] Via Vittoria
+[100075] Il ruolo di Multi
 
 ===========
 loading_tips_title_ja.lsd
@@ -3026,6 +3071,7 @@ loading_tips_title_ja.lsd
 [100072] 正しき心に舞い降りる翼
 [100073] トレーナーズサロン
 [100074] チャンピオンロード
+[100075] ロール「マルチ」
 
 ===========
 loading_tips_title_ko.lsd
@@ -3092,6 +3138,7 @@ loading_tips_title_ko.lsd
 [100072] 올바른 마음에 내려앉은 날개
 [100073] 트레이너즈 살롱
 [100074] 챔피언로드
+[100075] 롤 "멀티"
 
 ===========
 loading_tips_title_zh-TW.lsd
@@ -3158,6 +3205,7 @@ loading_tips_title_zh-TW.lsd
 [100072] 落在正直之心上的羽翼
 [100073] 訓練家沙龍
 [100074] 冠軍之路
+[100075] 「複合型」體系
 
 ===========
 story_quest_name_de.lsd
@@ -7538,6 +7586,59 @@ mit Gold aufwiegen kann
 [quest_title_1030608000604000] Champs, Seite an Seite!
 [quest_title_1030608000605010] Der Champ aus Hoenn
 erscheint!
+[quest_group_title_10327000000] Pinio
+[quest_group_title_10318000000] Clavel
+[quest_group_title_10296400000] Enigmara (Saison 2024)
+[quest_group_title_10024400000] Anissa (Saison 2024)
+[quest_title_1030609000603000] Auf Schatzsuche!
+[quest_title_1030609000603010] Cosimas Kumpel
+[quest_title_1030609000603050] Vs. Chrys 1
+[quest_title_1030609000603020] Clavels Ansicht
+[quest_title_1030609000603060] Vs. Chrys 2
+[quest_title_1030609000603030] Pinios Idee
+[quest_title_1030609000603070] Vs. Chrys 3
+[quest_title_1030609000603040] Operation: Passio-Akademie!
+[quest_title_1030609000603080] Vs. Chrys 4
+[quest_title_1030609000603090] Täglicher schwerer Kampf
+[quest_title_1030609000603100] Herausforderungskampf 1
+[quest_title_1030609000603110] Herausforderungskampf 2
+[quest_title_1030220327000000] Ein Tag mit Pinio
+[quest_title_1030220318000000] Ein Tag mit Clavel
+[quest_title_1030460402101010] Vs. Entschlossener
+Mask Royale
+[quest_title_1030609000601000] Ein Blick hinter die Kulissen
+[quest_title_1030609000601020] Vs. Enigmara 1
+[quest_title_1030609000601030] Vs. Enigmara 2
+[quest_title_1030609000601040] Vs. Enigmara 3
+[quest_title_1030609000601050] Vs. Enigmara 4
+[quest_title_1030609000601060] Täglicher schwerer Kampf
+[quest_title_1030609000601010] Enigmaras großes
+Leinwanddebüt
+[quest_title_1030609000602000] Ein funkelnagelneues Outfit!
+[quest_title_1030609000602010] Die Qual der Assistentenwahl
+[quest_title_1030609000602050] Vs. Trainer aus Passio 1
+[quest_title_1030609000602020] Dem seltsamen Phänomen
+auf der Spur!
+[quest_title_1030609000602060] Vs. Trainer aus Passio 2
+[quest_title_1030609000602030] Die große Enthüllung
+[quest_title_1030609000602070] Vs. Trainer aus Passio 3
+[quest_title_1030609000602040] Bleibt die Wahrheit vorerst
+auf der Festplatte?
+[quest_title_1030609000602080] Vs. Trainer aus Passio 4
+[quest_title_1030609000602090] Täglicher schwerer Kampf
+[quest_title_1030609000602100] Herausforderungskampf 1
+[quest_title_1030609000602110] Herausforderungskampf 2
+[quest_title_1030609000609010] Trendige Klamotten!
+[quest_title_1030609000609020] Vs. Trendige Trainer 1
+[quest_title_1030609000609030] Vs. Trendige Trainer 2
+[quest_title_1030609000609040] Vs. Trendige Trainer 3
+[quest_title_1030609000609050] Vs. Trendige Trainer 4
+[quest_title_1030609000609060] Vs. Trendige Trainer 5
+[quest_title_1040000660101011] Ein besonderer Tag mit Lyer
+(Teil 1)
+[quest_title_1040000660101021] Ein besonderer Tag mit Lyer
+(Teil 2)
+[quest_title_1030460900500011] Täglicher Freuden-Kampf!
 
 ===========
 story_quest_name_en.lsd
@@ -11654,6 +11755,53 @@ Part 2
 [quest_title_1030460800104010] Challenge Kanto’s Top-Tier Team
 [quest_title_1030608000604000] Champions, Side by Side!
 [quest_title_1030608000605010] The Champion of Hoenn Appears!
+[quest_group_title_10327000000] Giacomo
+[quest_group_title_10318000000] Clavell
+[quest_group_title_10296400000] Iono (Fall 2024)
+[quest_group_title_10024400000] Shauntal (Fall 2024)
+[quest_title_1030609000603000] Hunt for Treasure!
+[quest_title_1030609000603010] Penny’s Friend
+[quest_title_1030609000603050] Challenge Sophocles: Part 1
+[quest_title_1030609000603020] Clavell’s Thoughts
+[quest_title_1030609000603060] Challenge Sophocles: Part 2
+[quest_title_1030609000603030] Giacomo’s Idea
+[quest_title_1030609000603070] Challenge Sophocles: Part 3
+[quest_title_1030609000603040] The Pasio Academy Plan!
+[quest_title_1030609000603080] Challenge Sophocles: Part 4
+[quest_title_1030609000603090] Daily Extreme Battle 1
+[quest_title_1030609000603100] Battle Challenge! Round 1
+[quest_title_1030609000603110] Battle Challenge! Round 2
+[quest_title_1030220327000000] A Day with Giacomo
+[quest_title_1030220318000000] A Day with Clavell
+[quest_title_1030460402101010] Challenge a Super Serious Masked Royal
+[quest_title_1030609000601000] A Behind-the-Scenes Peek!
+[quest_title_1030609000601020] Challenge Iono: Part 1
+[quest_title_1030609000601030] Challenge Iono: Part 2
+[quest_title_1030609000601040] Challenge Iono: Part 3
+[quest_title_1030609000601050] Challenge Iono: Part 4
+[quest_title_1030609000601060] Daily Extreme Battle 1
+[quest_title_1030609000601010] Celebrate Iono’s Movie Debut!
+[quest_title_1030609000602000] New Outfit Reveal!
+[quest_title_1030609000602010] Jumping In as Assistants
+[quest_title_1030609000602050] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030609000602020] Uncover the Strange Phenomenon!
+[quest_title_1030609000602060] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030609000602030] The Great Reveal
+[quest_title_1030609000602070] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030609000602040] Should This Be Released?
+[quest_title_1030609000602080] Challenge Pasio’s Trainers: Part 4
+[quest_title_1030609000602090] Daily Extreme Battle 1
+[quest_title_1030609000602100] Battle Challenge! Round 1
+[quest_title_1030609000602110] Battle Challenge! Round 2
+[quest_title_1030609000609010] Fancy-Schmancy Outfits!
+[quest_title_1030609000609020] Challenge the Fancy Outfits: Part 1
+[quest_title_1030609000609030] Challenge the Fancy Outfits: Part 2
+[quest_title_1030609000609040] Challenge the Fancy Outfits: Part 3
+[quest_title_1030609000609050] Challenge the Fancy Outfits: Part 4
+[quest_title_1030609000609060] Challenge the Fancy Outfits: Part 5
+[quest_title_1040000660101011] A Special Day with Lear: Part 1
+[quest_title_1040000660101021] A Special Day with Lear: Part 2
+[quest_title_1030460900500011] Daily Happy Battle!
 
 ===========
 story_quest_name_es.lsd
@@ -15728,8 +15876,8 @@ Plata!
 [quest_title_1030460200505010] VS. Leti
 [quest_title_1030451002301010] VS. Jericor con todo
 [quest_title_1030602000603000] El mejor grupo de bailarines
-[quest_title_1030602000603010] Cómo estrechar lazos con los
-Pokémon
+[quest_title_1030602000603010] Cómo estrechar lazos con
+los Pokémon
 [quest_title_1030602000603050] VS. Entrenadores de Passio
 [quest_title_1030602000603020] ¡Es hora de bailar!
 [quest_title_1030602000603060] VS. Entrenadores de Passio (2)
@@ -16140,6 +16288,63 @@ Alik
 [quest_title_1030460800104010] VS. lo mejorcito de Kanto
 [quest_title_1030608000604000] Historia de sendos Campeones
 [quest_title_1030608000605010] ¡Llega el Campeón de Hoenn!
+[quest_group_title_10327000000] Anán
+[quest_group_title_10318000000] Clavel
+[quest_group_title_10296400000] e-Nigma (Temporada 24)
+[quest_group_title_10024400000] Anís (Temporada 24)
+[quest_title_1030609000603000] ¡A la búsqueda del tesoro!
+[quest_title_1030609000603010] El amigo de Noa
+[quest_title_1030609000603050] VS. Chris
+[quest_title_1030609000603020] La reflexión de Clavel
+[quest_title_1030609000603060] VS. Chris (2)
+[quest_title_1030609000603030] La idea de Anán
+[quest_title_1030609000603070] VS. Chris (3)
+[quest_title_1030609000603040] El proyecto de la Academia
+de Passio
+[quest_title_1030609000603080] VS. Chris (4)
+[quest_title_1030609000603090] ¡Un combate difícil al día!
+[quest_title_1030609000603100] ¡Un combate desafiante!
+[quest_title_1030609000603110] ¡Un combate desafiante! (2)
+[quest_title_1030220327000000] Un día con Anán
+[quest_title_1030220318000000] Un día con Clavel
+[quest_title_1030460402101010] VS. Royale, el Enmascarado,
+con todo
+[quest_title_1030609000601000] ¡Alerta de spoiler! Estoy
+en el rodaje de una peli
+[quest_title_1030609000601020] VS. e-Nigma
+[quest_title_1030609000601030] VS. e-Nigma (2)
+[quest_title_1030609000601040] VS. e-Nigma (3)
+[quest_title_1030609000601050] VS. e-Nigma (4)
+[quest_title_1030609000601060] ¡Un combate difícil al día!
+[quest_title_1030609000601010] ¿No será este el crossover
+más esperado?
+[quest_title_1030609000602000] ¡Ojito con el modelito!
+[quest_title_1030609000602010] Llueven ayudantes
+[quest_title_1030609000602050] VS. Entrenadores de Passio
+[quest_title_1030609000602020] Destapando el misterio
+[quest_title_1030609000602060] VS. Entrenadores de Passio (2)
+[quest_title_1030609000602030] La gran revelación
+[quest_title_1030609000602070] VS. Entrenadores de Passio (3)
+[quest_title_1030609000602040] ¿Lo damos a conocer o no?
+[quest_title_1030609000602080] VS. Entrenadores de Passio (4)
+[quest_title_1030609000602090] ¡Un combate difícil al día!
+[quest_title_1030609000602100] ¡Un combate desafiante!
+[quest_title_1030609000602110] ¡Un combate desafiante! (2)
+[quest_title_1030609000609010] ¡Trajes hipermonérrimos
+de la muerte!
+[quest_title_1030609000609020] VS. participantillos
+estilosísimos
+[quest_title_1030609000609030] VS. participantillos
+estilosísimos (2)
+[quest_title_1030609000609040] VS. participantillos
+estilosísimos (3)
+[quest_title_1030609000609050] VS. participantillos
+estilosísimos (4)
+[quest_title_1030609000609060] VS. participantillos
+estilosísimos (5)
+[quest_title_1040000660101011] Un día especial con Alik
+[quest_title_1040000660101021] Un día especial con Alik (2)
+[quest_title_1030460900500011] ¡Un Combate Fortuna al día!
 
 ===========
 story_quest_name_fr.lsd
@@ -21176,6 +21381,76 @@ Meilleure équipe d'Unys
 Meilleure équipe de Kanto
 [quest_title_1030608000604000] Deux Maîtres côte à côte
 [quest_title_1030608000605010] L'arrivée du Maître de Hoenn !
+[quest_group_title_10327000000] Brome
+[quest_group_title_10318000000] Clavel
+[quest_group_title_10296400000] Mashynn (Saison 2024)
+[quest_group_title_10024400000] Anis (Saison 2024)
+[quest_title_1030609000603000] Trouver son propre trésor !
+[quest_title_1030609000603010] Le pote de Pania
+[quest_title_1030609000603050] Combat : Chrys
+[quest_title_1030609000603020] L'idée de Clavel
+[quest_title_1030609000603060] Combat : Chrys II
+[quest_title_1030609000603030] Le plan de Brome
+[quest_title_1030609000603070] Combat : Chrys III
+[quest_title_1030609000603040] Fonder une académie
+à Passio !
+[quest_title_1030609000603080] Combat : Chrys IV
+[quest_title_1030609000603090] Combat difficile limité
+à une fois par jour !
+[quest_title_1030609000603100] Combat difficile
+[quest_title_1030609000603110] Combat difficile II
+[quest_title_1030220327000000] Une journée avec Brome
+[quest_title_1030220318000000] Une journée avec Clavel
+[quest_title_1030460402101010] Combat :
+Royal Mask sans merci
+[quest_title_1030609000601000] Dans les coulisses
+d'un tournage !
+[quest_title_1030609000601020] Combat : Mashynn
+[quest_title_1030609000601030] Combat : Mashynn II
+[quest_title_1030609000601040] Combat : Mashynn III
+[quest_title_1030609000601050] Combat : Mashynn IV
+[quest_title_1030609000601060] Combat difficile limité
+à une fois par jour !
+[quest_title_1030609000601010] Mashynn fait ses débuts
+sur grand écran
+[quest_title_1030609000602000] Tenez-vous prêts...
+Nouvelle tenue en direct !
+[quest_title_1030609000602010] Collab avec mes assistantes !
+[quest_title_1030609000602050] Combat : Dresseurs de Passio
+[quest_title_1030609000602020] L'origine de l'étrange
+phénomène
+[quest_title_1030609000602060] Combat :
+Dresseurs de Passio II
+[quest_title_1030609000602030] Un grand mystère
+enfin résolu...
+[quest_title_1030609000602070] Combat :
+Dresseurs de Passio III
+[quest_title_1030609000602040] Faudrait-il faire Mashynn
+arrière ?
+[quest_title_1030609000602080] Combat :
+Dresseurs de Passio IV
+[quest_title_1030609000602090] Combat difficile limité
+à une fois par jour !
+[quest_title_1030609000602100] Combat difficile
+[quest_title_1030609000602110] Combat difficile II
+[quest_title_1030609000609010] Des tenues classes
+et clinquantes !
+[quest_title_1030609000609020] Combat :
+Dresseurs ultra bien sapés
+[quest_title_1030609000609030] Combat :
+Dresseurs ultra bien sapés II
+[quest_title_1030609000609040] Combat :
+Dresseurs ultra bien sapés III
+[quest_title_1030609000609050] Combat :
+Dresseurs ultra bien sapés IV
+[quest_title_1030609000609060] Combat :
+Dresseurs ultra bien sapés V
+[quest_title_1040000660101011] Une journée spéciale
+avec Alexis
+[quest_title_1040000660101021] Une journée spéciale
+avec Alexis II
+[quest_title_1030460900500011] Combat Bonheur limité
+à une fois par jour !
 
 ===========
 story_quest_name_it.lsd
@@ -24826,7 +25101,7 @@ Persone famose ovunque!
 [quest_title_1040000160001011] Un giorno speciale con Anemone (1ª parte)
 [quest_title_1040000160001021] Un giorno speciale con Anemone (2ª parte)
 [quest_title_1030110000600600] Palesate i vostri legami
-[quest_title_1030460200115010] Super Lotta Multipla (una al giorno)!
+[quest_title_1030460200115010] Super Lotta Multisquadra (una al giorno)!
 [quest_title_1030602000601000] L'occhio esperto di Alisma
 [quest_title_1030602000601010] Talento coltivato con costanza
 [quest_title_1030602000601050] VS Lance
@@ -25228,6 +25503,53 @@ Persone famose ovunque!
 [quest_title_1030460800104010] VS fiori all'occhiello di Kanto
 [quest_title_1030608000604000] Campioni fianco a fianco
 [quest_title_1030608000605010] L'arrivo di un Campione da Hoenn
+[quest_group_title_10327000000] Romelio
+[quest_group_title_10318000000] Clavel
+[quest_group_title_10296400000] Kissara (feste 2024)
+[quest_group_title_10024400000] Antemia (feste 2024)
+[quest_title_1030609000603000] Cercando un tesoro personale...
+[quest_title_1030609000603010] L'amico di Penny
+[quest_title_1030609000603050] VS Chrys
+[quest_title_1030609000603020] Le riflessioni di Clavel
+[quest_title_1030609000603060] VS Chrys 2
+[quest_title_1030609000603030] L'idea di Romelio
+[quest_title_1030609000603070] VS Chrys 3
+[quest_title_1030609000603040] Uniti per fondare l'Accademia di Pasio!
+[quest_title_1030609000603080] VS Chrys 4
+[quest_title_1030609000603090] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030609000603100] Sfida ad alta difficoltà
+[quest_title_1030609000603110] Sfida ad alta difficoltà 2
+[quest_title_1030220327000000] Un giorno con Romelio
+[quest_title_1030220318000000] Un giorno con Clavel
+[quest_title_1030460402101010] VS Mister Royale (risoluto)
+[quest_title_1030609000601000] Spoiler alert! Live dietro le quinte!
+[quest_title_1030609000601020] VS Kissara
+[quest_title_1030609000601030] VS Kissara 2
+[quest_title_1030609000601040] VS Kissara 3
+[quest_title_1030609000601050] VS Kissara 4
+[quest_title_1030609000601060] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030609000601010] Il debutto cinematografico di Kissara!
+[quest_title_1030609000602000] Non crederete ai vostri occhi...!!
+[quest_title_1030609000602010] Assistenti lanciatissime
+[quest_title_1030609000602050] VS Allenatori di Pasio
+[quest_title_1030609000602020] Un mistero tutto da svelare!
+[quest_title_1030609000602060] VS Allenatori di Pasio 2
+[quest_title_1030609000602030] Ta-daaa! Il grande reveal!!
+[quest_title_1030609000602070] VS Allenatori di Pasio 3
+[quest_title_1030609000602040] Un epilogo da pubblicare...?
+[quest_title_1030609000602080] VS Allenatori di Pasio 4
+[quest_title_1030609000602090] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030609000602100] Sfida ad alta difficoltà
+[quest_title_1030609000602110] Sfida ad alta difficoltà 2
+[quest_title_1030609000609010] Costumi da urlo!!
+[quest_title_1030609000609020] VS concorrenti superappariscenti
+[quest_title_1030609000609030] VS concorrenti superappariscenti 2
+[quest_title_1030609000609040] VS concorrenti superappariscenti 3
+[quest_title_1030609000609050] VS concorrenti superappariscenti 4
+[quest_title_1030609000609060] VS concorrenti superappariscenti 5
+[quest_title_1040000660101011] Un giorno speciale con Kelian (1ª parte)
+[quest_title_1040000660101021] Un giorno speciale con Kelian (2ª parte)
+[quest_title_1030460900500011] Lotta della felicità (una al giorno)!
 
 ===========
 story_quest_name_ja.lsd
@@ -29377,6 +29699,55 @@ story_quest_name_ja.lsd
 [quest_title_1030460800104010] ＶＳ　カントーの精鋭チーム
 [quest_title_1030608000604000] 並び立つチャンピオン！
 [quest_title_1030608000605010] ホウエンチャンピオン登場！
+[quest_group_title_10327000000] ピーニャ
+[quest_group_title_10318000000] クラベル
+[quest_group_title_10296400000] ナンジャモ
+（２４シーズン）
+[quest_group_title_10024400000] シキミ
+（２４シーズン）
+[quest_title_1030609000603000] 宝物を探そう！
+[quest_title_1030609000603010] ボタンのともだち
+[quest_title_1030609000603050] ＶＳ　マーマネ
+[quest_title_1030609000603020] クラベル先生の考え
+[quest_title_1030609000603060] ＶＳ　マーマネ２
+[quest_title_1030609000603030] ピーニャのアイデア
+[quest_title_1030609000603070] ＶＳ　マーマネ３
+[quest_title_1030609000603040] パシオアカデミー計画！
+[quest_title_1030609000603080] ＶＳ　マーマネ４
+[quest_title_1030609000603090] １日１回限定・高難度バトル！
+[quest_title_1030609000603100] チャレンジバトルで勝負！
+[quest_title_1030609000603110] チャレンジバトルで勝負！２
+[quest_title_1030220327000000] とある日のピーニャ
+[quest_title_1030220318000000] とある日のクラベル
+[quest_title_1030460402101010] ＶＳ　超本気のロイヤルマスク
+[quest_title_1030609000601000] 視聴せよ！　映画撮影の舞台裏！
+[quest_title_1030609000601020] ＶＳ　ナンジャモ
+[quest_title_1030609000601030] ＶＳ　ナンジャモ２
+[quest_title_1030609000601040] ＶＳ　ナンジャモ３
+[quest_title_1030609000601050] ＶＳ　ナンジャモ４
+[quest_title_1030609000601060] １日１回限定・高難度バトル！
+[quest_title_1030609000601010] 祝・ナンジャモ映画出演！
+[quest_title_1030609000602000] 新衣装お披露目！
+[quest_title_1030609000602010] 飛び入り参加の撮影助手
+[quest_title_1030609000602050] ＶＳ　パシオのトレーナー
+[quest_title_1030609000602020] 怪奇現象を解明せよ！
+[quest_title_1030609000602060] ＶＳ　パシオのトレーナー２
+[quest_title_1030609000602030] 謎の正体は……
+[quest_title_1030609000602070] ＶＳ　パシオのトレーナー３
+[quest_title_1030609000602040] 動画はお蔵入り……？
+[quest_title_1030609000602080] ＶＳ　パシオのトレーナー４
+[quest_title_1030609000602090] １日１回限定・高難度バトル！
+[quest_title_1030609000602100] チャレンジバトルで勝負！
+[quest_title_1030609000602110] チャレンジバトルで勝負！２
+[quest_title_1030609000609010] 仮装オシャレさん　いらっしゃーい！
+[quest_title_1030609000609020] ＶＳ　仮装オシャレさん
+[quest_title_1030609000609030] ＶＳ　仮装オシャレさん２
+[quest_title_1030609000609040] ＶＳ　仮装オシャレさん３
+[quest_title_1030609000609050] ＶＳ　仮装オシャレさん４
+[quest_title_1030609000609060] ＶＳ　仮装オシャレさん５
+[quest_title_1040000660101011] ライヤーとの特別な一日　前編
+[quest_title_1040000660101021] ライヤーとの特別な一日　後編
+[quest_title_1030460900500011] １日１回ハッピーバトル！
 
 ===========
 story_quest_name_ko.lsd
@@ -33525,6 +33896,55 @@ story_quest_name_ko.lsd
 [quest_title_1030460800104010] VS 관동지방의 정예 팀
 [quest_title_1030608000604000] 나란히 선 챔피언!
 [quest_title_1030608000605010] 호연지방 챔피언 등장!
+[quest_group_title_10327000000] 피나
+[quest_group_title_10318000000] 클라벨
+[quest_group_title_10296400000] 모야모
+(24시즌)
+[quest_group_title_10024400000] 망초
+(24시즌)
+[quest_title_1030609000603000] 보물을 찾자!
+[quest_title_1030609000603010] 모란의 친구들
+[quest_title_1030609000603050] VS 마마네
+[quest_title_1030609000603020] 클라벨 선생님의 생각
+[quest_title_1030609000603060] VS 마마네2
+[quest_title_1030609000603030] 피나의 아이디어
+[quest_title_1030609000603070] VS 마마네3
+[quest_title_1030609000603040] 파시오 아카데미 계획!
+[quest_title_1030609000603080] VS 마마네4
+[quest_title_1030609000603090] 1일 1회 한정 고난도 배틀!
+[quest_title_1030609000603100] 챌린지배틀로 승부!
+[quest_title_1030609000603110] 챌린지배틀로 승부!2
+[quest_title_1030220327000000] 피나의 어느 날
+[quest_title_1030220318000000] 클라벨의 어느 날
+[quest_title_1030460402101010] VS 진심으로 전력을 다하는 로열마스크
+[quest_title_1030609000601000] 시청하라! 영화 촬영의 백스테이지!
+[quest_title_1030609000601020] VS 모야모
+[quest_title_1030609000601030] VS 모야모2
+[quest_title_1030609000601040] VS 모야모3
+[quest_title_1030609000601050] VS 모야모4
+[quest_title_1030609000601060] 1일 1회 한정 고난도 배틀!
+[quest_title_1030609000601010] 축 모야모 영화 출연!
+[quest_title_1030609000602000] 새로운 의상 최초 공개!
+[quest_title_1030609000602010] 난입해 들어온 촬영 조수
+[quest_title_1030609000602050] VS 파시오의 트레이너
+[quest_title_1030609000602020] 괴현상을 해명하라!
+[quest_title_1030609000602060] VS 파시오의 트레이너2
+[quest_title_1030609000602030] 수수께끼의 정체는...
+[quest_title_1030609000602070] VS 파시오의 트레이너3
+[quest_title_1030609000602040] 영상은 보류...?
+[quest_title_1030609000602080] VS 파시오의 트레이너4
+[quest_title_1030609000602090] 1일 1회 한정 고난도 배틀!
+[quest_title_1030609000602100] 챌린지배틀로 승부!
+[quest_title_1030609000602110] 챌린지배틀로 승부!2
+[quest_title_1030609000609010] 분장한 멋쟁이님~ 나오세요~!
+[quest_title_1030609000609020] VS 분장한 멋쟁이
+[quest_title_1030609000609030] VS 분장한 멋쟁이2
+[quest_title_1030609000609040] VS 분장한 멋쟁이3
+[quest_title_1030609000609050] VS 분장한 멋쟁이4
+[quest_title_1030609000609060] VS 분장한 멋쟁이5
+[quest_title_1040000660101011] 라이어와의 특별한 하루 전편
+[quest_title_1040000660101021] 라이어와의 특별한 하루 후편
+[quest_title_1030460900500011] 1일 1회 해피 배틀!
 
 ===========
 story_quest_name_zh-TW.lsd
@@ -37673,6 +38093,55 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030460800104010] ＶＳ　關都精英隊
 [quest_title_1030608000604000] 並駕齊驅的冠軍！
 [quest_title_1030608000605010] 豐緣冠軍登場！
+[quest_group_title_10327000000] 皮拿
+[quest_group_title_10318000000] 克拉韋爾
+[quest_group_title_10296400000] 奇樹
+（２０２４秋季）
+[quest_group_title_10024400000] 婉龍
+（２０２４秋季）
+[quest_title_1030609000603000] 尋找寶物吧！
+[quest_title_1030609000603010] 牡丹的朋友
+[quest_title_1030609000603050] ＶＳ　馬瑪內
+[quest_title_1030609000603020] 克拉韋爾校長的想法
+[quest_title_1030609000603060] ＶＳ　馬瑪內２
+[quest_title_1030609000603030] 皮拿的點子
+[quest_title_1030609000603070] ＶＳ　馬瑪內３
+[quest_title_1030609000603040] 帕希歐學院計畫！
+[quest_title_1030609000603080] ＶＳ　馬瑪內４
+[quest_title_1030609000603090] １天僅限１次的高難度對戰！
+[quest_title_1030609000603100] 用挑戰對戰決勝負！
+[quest_title_1030609000603110] 用挑戰對戰決勝負！２
+[quest_title_1030220327000000] 某日的皮拿
+[quest_title_1030220318000000] 某日的克拉韋爾
+[quest_title_1030460402101010] ＶＳ　火力全開的皇家蒙面人
+[quest_title_1030609000601000] 歡迎收看！電影的幕後花絮！
+[quest_title_1030609000601020] ＶＳ　奇樹
+[quest_title_1030609000601030] ＶＳ　奇樹２
+[quest_title_1030609000601040] ＶＳ　奇樹３
+[quest_title_1030609000601050] ＶＳ　奇樹４
+[quest_title_1030609000601060] １天僅限１次的高難度對戰！
+[quest_title_1030609000601010] 賀！奇樹參與電影演出！
+[quest_title_1030609000602000] 發表新服裝！
+[quest_title_1030609000602010] 臨時加入的攝影助手
+[quest_title_1030609000602050] ＶＳ　帕希歐的訓練家
+[quest_title_1030609000602020] 解開離奇現象！
+[quest_title_1030609000602060] ＶＳ　帕希歐的訓練家２
+[quest_title_1030609000602030] 謎團的真相是……
+[quest_title_1030609000602070] ＶＳ　帕希歐的訓練家３
+[quest_title_1030609000602040] 影片不播出了……？
+[quest_title_1030609000602080] ＶＳ　帕希歐的訓練家４
+[quest_title_1030609000602090] １天僅限１次的高難度對戰！
+[quest_title_1030609000602100] 用挑戰對戰決勝負！
+[quest_title_1030609000602110] 用挑戰對戰決勝負！２
+[quest_title_1030609000609010] 歡迎變裝時尚家～！
+[quest_title_1030609000609020] ＶＳ　變裝時尚家
+[quest_title_1030609000609030] ＶＳ　變裝時尚家２
+[quest_title_1030609000609040] ＶＳ　變裝時尚家３
+[quest_title_1030609000609050] ＶＳ　變裝時尚家４
+[quest_title_1030609000609060] ＶＳ　變裝時尚家５
+[quest_title_1040000660101011] 與鎯琊的特別日子　前篇
+[quest_title_1040000660101021] 與鎯琊的特別日子　後篇
+[quest_title_1030460900500011] １天１次的開心對戰！
 
 ===========
 trainer_description_de.lsd
@@ -39192,6 +39661,30 @@ Arbeit sehr ernst.
 der Vorsitzende des Organisationskomitees der WPM.
 Seine Gestalt wirkt einschüchternd, eigentlich ist er aber
 recht sentimental.
+[10327000000] Der Boss der Segin-Bande, den Unlicht-Mitgliedern von
+Team Star, besucht eine Akademie in Paldea. Seine
+Team-Mitglieder verlassen sich auf ihn und er ist zudem
+für die musikalische Untermalung des Teams zuständig.
+[10318000000] Dieser Mann ist der Direktor einer Akademie in Paldea.
+Er zeigt sich oft von seiner strengen Seite, hat aber immer
+ein offenes Ohr für seine Schüler. Bevor er sich seiner
+Arbeit als Lehrer widmete, war er Pokémon-Forscher.
+[10296400000] Enigmara ist einem mysteriösen Phänomen auf der Spur.
+Sie traf Flatterhaar beim Dreh einer besonderen Show,
+woraufhin sie ein Gefährtengespann gebildet haben.
+Allerdings zögert Enigmara noch, wenn es darum geht,
+Flatterhaar in ihren Videos zu zeigen.
+[10024400000] Anissa berichtet über ein mysteriöses Phänomen. In der
+Hoffnung auf ein wenig Inspiration für ihr nächstes Buch
+nimmt sie gemeinsam mit Frosdedje am nächtlichen
+Festzug teil.
+[10099000002] Ein lebhafter Junge mit einer ernsten Passion für Pokémon.
+Sein ungestümes Wesen sorgt dafür, dass er unbeirrt alles
+umsetzt, was er sich vornimmt.
+[10066010001] Der Veranstalter der WPM hat nicht nur die künstliche
+Insel Passio angelegt, sondern ist auch der Prinz eines
+fremden Königreichs. Er ist sehr geschickt und schöpft im
+Kampf Stärke aus seiner Freundschaft mit Hoopa.
 
 ===========
 trainer_description_en.lsd
@@ -40430,7 +40923,7 @@ keeps her smiling constantly.
 Master Dojo in the Galar region. He has a gentlemanly
 personality, yet also exudes a strong sense of pride.
 [10199000000] This Arena Tycoon is the Frontier Brain of the Battle Arena
-in the Hoenn Region. She’s lively and sincere and gets
+in the Hoenn region. She’s lively and sincere and gets
 really frustrated when she loses a battle.
 [10027400000] Gardenia’s embarking on a treasure hunt on Pasio. In her
 pirate outfit, she musters up her courage to set sail with
@@ -40539,6 +41032,27 @@ unique, lighthearted tone, she’s actually a hard worker.
 [10068010001] Sawyer is one of the retainers for Lear’s royal family and
 head of the PML staff. He looks scary but is actually
 quite sentimental.
+[10327000000] The boss of Team Star’s Dark crew, the Segin Squad,
+attends an academy in the Paldea region. His teammates
+depend on him—he’s in charge of their soundtrack
+and bringing everyone together.
+[10318000000] This man is the director of an academy in the Paldea
+region. He can be strict but also kind when dealing with
+his students. Before he became a teacher, he worked as a
+Pokémon researcher.
+[10296400000] Iono is chasing a mysterious supernatural phenomenon.
+She met Flutter Mane while shooting a special segment,
+and they formed a sync pair. However, Iono is holding off
+on revealing Flutter Mane in her videos for now.
+[10024400000] Shauntal is reporting on a mysterious supernatural
+phenomenon. She joined the Midnight Parade with
+Froslass to find inspiration for her next novel.
+[10099000002] An incredibly impetuous, high-spirited young man who
+runs straight for what he wants without any hesitation,
+he has an earnest passion for Pokémon.
+[10066010001] Host of the PML and owner of the artificial island of Pasio,
+he is also the prince of a certain kingdom and a highly
+skilled individual. His bond with Hoopa fuels him in battle.
 
 ===========
 trainer_description_es.lsd
@@ -42101,6 +42615,31 @@ impertinente esconde una faceta muy trabajadora.
 [10068010001] Sirviente y guardaespaldas de Alik y de la familia real, 
 también dirige el comité organizador del WPM. A pesar
 de su aspecto amenazador, es un alma sensible.
+[10327000000] Estudiante de una academia de Paldea y jefe del grupo
+Siniestro del Team Star, el Escuadrón Segin. Sus
+compañeros cuentan con él para la organización del
+equipo... y también para ponerle banda sonora.
+[10318000000] El director de una academia de la región de Paldea.
+Tiene un carácter estricto, pero también es amable
+a la hora de tratar con sus estudiantes. Antes de ser
+docente, se dedicaba a la investigación de Pokémon.
+[10296400000] La streamer e-Nigma le está dando caza a un enigmático
+fenómeno paranormal. Conoció a Melenaleteo durante la
+grabación de uno de sus programas especiales, pero,
+ahora que son compis, no quiere que aparezca aún en
+sus vídeos.
+[10024400000] Anís está escribiendo sobre un enigmático fenómeno
+paranormal. Ha decidido participar en el desfile nocturno
+junto con Froslass con el objetivo de despertar su
+inspiración para su próxima novela.
+[10099000002] Joven vivaracho que vierte toda su pasión en los
+Pokémon. Debido a su carácter impaciente, cuando
+tiene algo entre ceja y ceja, persigue firme su objetivo
+sin titubear.
+[10066010001] El fundador del World Pokémon Masters y propietario de
+la isla artificial de Passio es también el príncipe de un
+reino lejano y un Entrenador de gran pericia. Su vínculo
+con Hoopa le confiere aún más fuerza en los combates.
 
 ===========
 trainer_description_fr.lsd
@@ -43625,6 +44164,32 @@ désinvolte, elle accomplit son travail avec assiduité.
 qui est également à la tête du comité d'organisation
 du WPM. Malgré son physique imposant,
 il a la larme facile.
+[10327000000] Le boss de l'équipe Ténèbres de la Team Star, aussi
+appelée le Groupe Segin, étudie à l'Académie de Paldea.
+Son équipe compte sur lui, et il s'assure de la bonne
+entente au sein de la Team Star. Il en a même
+composé le thème musical.
+[10318000000] Il est le proviseur de l'Académie de Paldea. D'apparence
+stricte, il est néanmoins toujours à l'écoute de ses élèves.
+Avant de débuter sa carrière dans l'enseignement,
+il était chercheur Pokémon.
+[10296400000] Mashynn enquête sur un mystérieux phénomène
+surnaturel. Elle a rencontré Flotte-Mèche alors qu'elle
+filmait une chronique spéciale. Ils forment aujourd'hui
+un Duo, mais Mashynn ne l'a toujours pas présenté
+à ses fans dans l'une de ses vidéos.
+[10024400000] Anis enquête sur un mystérieux phénomène surnaturel.
+Elle participe à la Parade Nocturne aux côtés
+de Momartik dans l'espoir de trouver l'inspiration
+pour son prochain roman.
+[10099000002] Un Dresseur extrêmement sérieux dans son approche
+des Pokémon qui, par impatience, fonce parfois pour
+atteindre son but.
+[10066010001] Le créateur du WPM et propriétaire de l'île artificielle
+de Passio. Prince d'un pays lointain, il est également
+extrêmement doué. Les liens profonds qu'il entretient
+avec Hoopa lui donnent la volonté de se livrer
+entièrement lors des combats.
 
 ===========
 trainer_description_it.lsd
@@ -45100,6 +45665,26 @@ una persona un po' superficiale, ma in realtà lavora sodo.
 direttore del comitato organizzatore del WPM. A prima
 vista può sembrare minaccioso, ma in realtà ha il pianto
 facile.
+[10327000000] Il capobanda della Divisione Buio del Team Star,
+Banda Segin, dell'accademia di Paldea, nonché
+compositore della colonna sonora del team.
+[10318000000] Il Preside dell'accademia di Paldea è un uomo dall'indole
+severa che tuttavia non manca di gentilezza nei confronti
+dei suoi studenti. Prima di dedicarsi all'insegnamento,
+è stato un ricercatore di Pokémon.
+[10296400000] Kissara si è imbattuta in Crinealato mentre indagava
+un misterioso fenomeno sovrannaturale e i due hanno
+formato un'Unità. Per il momento, però, vuole
+evitare di fare video al riguardo.
+[10024400000] Antemia sta scrivendo un rapporto riguardo
+a un misterioso fenomeno sovrannaturale.
+Partecipa alla Sfilata notturna con Froslass
+cercando ispirazione per il prossimo romanzo.
+[10099000002] Ragazzo vivace che prende i Pokémon davvero sul serio.
+È un tipetto impaziente e non sa starsene mai fermo.
+[10066010001] Proprietario dell'isola artificiale di Pasio e organizzatore
+del WPM, è un talentuoso principe che lotta con fervore
+grazie al suo legame con Hoopa.
 
 ===========
 trainer_description_ja.lsd
@@ -46418,6 +47003,24 @@ trainer_description_ja.lsd
 [10068010001] ライヤーの　王家に　仕える　家臣で
 ＷＰＭ運営委員会の　代表も　務めている。
 みためは　怖いが　涙もろい。
+[10327000000] パルデア地方　アカデミーの　スター団　あく組
+チーム・セギンの　ボスで　ＢＧＭ担当。
+スター団のまとめ役で　団員から　頼りにされている。
+[10318000000] パルデア地方で　アカデミーの校長を　務める男性。
+生徒たちには　時に厳しく　時に親身に　接する。
+教師となる前は　ポケモン研究者として　働いていた。
+[10296400000] 謎の　怪奇現象を　追う　ナンジャモ。
+スペシャル企画の　撮影中に出会った　ハバタクカミと
+バディーズになったが　お披露目は　ちょっと見送り。
+[10024400000] 謎の　怪奇現象を　取材する　シキミ。
+小説執筆の　ヒントを得るため　ユキメノコと一緒に
+ナイトパレードに　参加した。
+[10099000002] ポケモンに　かける　情熱は　真剣そのもの。
+とても　せっかちな　性格で　思い込んだら
+迷わず　一直線に　走っていく　元気な少年。
+[10066010001] ＷＰＭの　主催者であり　人工島パシオの　所有者。
+とある国の　王子で　その実力は　折り紙つき。
+フーパと　築いた　きずなを　胸に　戦う。
 
 ===========
 trainer_description_ko.lsd
@@ -46493,7 +47096,7 @@ trainer_description_ko.lsd
 영화 담죽맨을 보고 울고 난 뒤로 열성 팬이 되었다.
 [10023000000] 본인은 승부에서 공격하는 것을 좋아하지 않는다고 한다.
 배틀로 상처 입은 포켓몬을 보면
-바로 치료해주는 상냥한 트레이너.
+바로 치료해 주는 상냥한 트레이너.
 [10024000000] 하나지방 포켓몬리그의 사천왕 중 한 사람.
 소설가이기도 해서 승부에 도전해오는
 트레이너를 소설의 소재로 삼을 때도 있다.
@@ -46768,7 +47371,7 @@ trainer_description_ko.lsd
 동료와 가족, 포켓몬을 위하는 마음을 가진 트레이너.
 반항심을 가지고 힘에 집착하던 시기도 있었다.
 [10120000000] 에테르재단을 이끄는 아름다운 대표.
-포켓몬들을 깊은 사랑으로 감싸 안는다.
+포켓몬들을 깊은 사랑으로 감싸안는다.
 릴리에와 글라디오의 어머니이기도 하다.
 [10021010000] 스타일리시한 궁극코스를 입은 그린.
 다양한 강적과의 전투에서 승리해 온 거북왕과 함께
@@ -47735,6 +48338,24 @@ WPM 운영위원회의 대표도 맡고 있다.
 [10068010001] 라이어의 왕가를 섬기는 부하이며
 WPM 운영위원회의 대표도 맡고 있다.
 무서운 겉모습과 달리 눈물이 많다.
+[10327000000] 팔데아지방 아카데미의 스타단 악 군단
+팀 세긴의 보스이자 BGM 담당.
+스타단의 관리자로서 단원들에게 신뢰받고 있다.
+[10318000000] 팔데아지방에서 아카데미 교장을 맡고 있는 남성.
+때로는 엄격하고 때로는 친근한 태도로 학생들을 대한다.
+교사가 되기 전에는 포켓몬 연구자로 활동했었다.
+[10296400000] 수수께끼의 괴현상을 추적하는 모야모.
+특별 기획 촬영 중에 만난 날개치는머리와
+버디즈가 되었지만 소개는 잠시 보류했다.
+[10024400000] 수수께끼의 괴현상을 취재하는 망초.
+소설 집필에 쓸 힌트를 얻기 위해 눈여아와 함께
+나이트 퍼레이드에 참가했다.
+[10099000002] 포켓몬에 대한 정열은 그야말로 진짜다.
+매우 성급한 성격이라 마음먹은 일에는
+망설임 없이 곧장 달려가는 활발한 소년.
+[10066010001] WPM의 주최자이자 인공섬 파시오의 소유자.
+어느 나라의 왕자로 확실한 실력을 갖추고 있다.
+후파와 쌓은 유대를 가슴에 품고 싸운다.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -49051,6 +49672,24 @@ trainer_description_zh-TW.lsd
 [10068010001] 他是服侍鎯琊的王室家臣，
 也是ＷＰＭ主辦單位的理事長。
 外表雖可怕，卻是個容易掉眼淚的人。
+[10327000000] 在帕底亞地區的學院擔任天星隊惡幫班
+閣道二小隊的老大，同時也負責ＢＧＭ。
+他是整合天星隊的要角，深受隊員信賴。
+[10318000000] 在帕底亞地區的學院擔任校長的男性。
+會以時而嚴厲，時而親切的態度對待學生。
+他在成為教師前，曾經當過寶可夢研究員。
+[10296400000] 追蹤神秘離奇現象的奇樹。
+雖然和在拍攝特別企畫時遇到的振翼髮
+結為了拍組，但決定暫時先不介紹牠。
+[10024400000] 採訪神秘離奇現象的婉龍。
+為了獲得創作小說的靈感，
+她和雪妖女一起參加了夜間遊行。
+[10099000002] 對寶可夢的熱情如假包換。急性子的他，
+一旦下定決心，就會不管三七二十一，
+一股腦地往前衝。是一位充滿活力的少年。
+[10066010001] ＷＰＭ的主辦人與人工島帕希歐的主人。
+他也是某國的王子，其實力無庸置疑。
+他將懷抱著與胡帕建立起的牽絆去戰鬥。
 
 ===========
 trainer_name_de.lsd
@@ -49338,6 +49977,8 @@ trainer_name_de.lsd
 [ch0272] Sophora
 [ch0273] Saverio
 [ch0317] Pepper
+[ch0327] Pinio
+[ch0318] Clavel
 
 ===========
 trainer_name_en.lsd
@@ -49625,6 +50266,8 @@ trainer_name_en.lsd
 [ch0272] Klara
 [ch0273] Avery
 [ch0317] Arven
+[ch0327] Giacomo
+[ch0318] Clavell
 
 ===========
 trainer_name_es.lsd
@@ -49912,6 +50555,8 @@ trainer_name_es.lsd
 [ch0272] Sófora
 [ch0273] Dreo
 [ch0317] Damián
+[ch0327] Anán
+[ch0318] Clavel
 
 ===========
 trainer_name_fr.lsd
@@ -50199,6 +50844,8 @@ trainer_name_fr.lsd
 [ch0272] Sophora
 [ch0273] Saturnin
 [ch0317] Pepper
+[ch0327] Brome
+[ch0318] Clavel
 
 ===========
 trainer_name_it.lsd
@@ -50486,6 +51133,8 @@ trainer_name_it.lsd
 [ch0272] Sofora
 [ch0273] Savory
 [ch0317] Pepe
+[ch0327] Romelio
+[ch0318] Clavel
 
 ===========
 trainer_name_ja.lsd
@@ -50773,6 +51422,8 @@ trainer_name_ja.lsd
 [ch0272] クララ
 [ch0273] セイボリー
 [ch0317] ペパー
+[ch0327] ピーニャ
+[ch0318] クラベル
 
 ===========
 trainer_name_ko.lsd
@@ -51060,6 +51711,8 @@ trainer_name_ko.lsd
 [ch0272] 도정
 [ch0273] 세이버리
 [ch0317] 페퍼
+[ch0327] 피나
+[ch0318] 클라벨
 
 ===========
 trainer_name_zh-TW.lsd
@@ -51347,6 +52000,8 @@ trainer_name_zh-TW.lsd
 [ch0272] 克拉拉
 [ch0273] 賽寶利
 [ch0317] 派帕
+[ch0327] 皮拿
+[ch0318] 克拉韋爾
 
 ===========
 trainer_verbose_name_de.lsd
@@ -51601,6 +52256,10 @@ trainer_verbose_name_de.lsd
 [10066100000] MaMo-Lyer
 [10118510000] Lilly 
 (Jubiläum 2024)
+[10296400000] Enigmara 
+(Saison 2024)
+[10024400000] Anissa 
+(Saison 2024)
 
 ===========
 trainer_verbose_name_en.lsd
@@ -51867,6 +52526,10 @@ Nemona
 [10066100000] Sygna Suit Lear
 [10118510000] Lillie 
 (Anniversary 2024)
+[10296400000] Iono 
+(Fall 2024)
+[10024400000] Shauntal 
+(Fall 2024)
 
 ===========
 trainer_verbose_name_es.lsd
@@ -52093,6 +52756,10 @@ con Kimono)
 [10066100000] Alik (Traje S)
 [10118510000] Lylia 
 (5.º Aniversario)
+[10296400000] e-Nigma 
+(Temporada 24)
+[10024400000] Anís 
+(Temporada 24)
 
 ===========
 trainer_verbose_name_fr.lsd
@@ -52337,6 +53004,10 @@ trainer_verbose_name_fr.lsd
 [10066100000] Alexis (Ultime)
 [10118510000] Lilie 
 (Anniversaire 2024)
+[10296400000] Mashynn 
+(Saison 2024)
+[10024400000] Anis 
+(Saison 2024)
 
 ===========
 trainer_verbose_name_it.lsd
@@ -52595,6 +53266,10 @@ Arcicostume
 [10066100000] Kelian Costumax
 [10118510000] Lylia 
 (anniversario 2024)
+[10296400000] Kissara 
+(feste 2024)
+[10024400000] Antemia 
+(feste 2024)
 
 ===========
 trainer_verbose_name_ja.lsd
@@ -52850,6 +53525,10 @@ trainer_verbose_name_ja.lsd
 [10066100000] マジコスライヤー
 [10118510000] リーリエ
 （２４アニバーサリー）
+[10296400000] ナンジャモ
+（２４シーズン）
+[10024400000] シキミ
+（２４シーズン）
 
 ===========
 trainer_verbose_name_ko.lsd
@@ -53105,6 +53784,10 @@ trainer_verbose_name_ko.lsd
 [10066100000] 궁극코스 라이어
 [10118510000] 릴리에
 (24기념)
+[10296400000] 모야모
+(24시즌)
+[10024400000] 망초
+(24시즌)
 
 ===========
 trainer_verbose_name_zh-TW.lsd
@@ -53360,6 +54043,10 @@ trainer_verbose_name_zh-TW.lsd
 [10066100000] 美極套裝鎯琊
 [10118510000] 莉莉艾
 （2024週年慶）
+[10296400000] 奇樹
+（２０２４秋季）
+[10024400000] 婉龍
+（２０２４秋季）
 
 ===========
 common_widget_de.lsd
@@ -54527,7 +55214,7 @@ Gems will be distributed gradually.
 Level
 [common_widget/trainer_detail_039] Max Level
 [common_widget/trainer_detail_040] Lv. 1
-[common_widget/trainer_detail_041] Maximum stats at current  ★s
+[common_widget/trainer_detail_041] Maximum stats at current ★s
 with all moves and skills unlocked
 [common_widget/trainer_detail_043] Not yet learned
 [common_widget/trainer_detail_045] Not yet learned
@@ -55481,7 +56168,7 @@ evolución?
 [common_widget/filter_042] Tipo de los movimientos
 [common_widget/filter_043] Problemas de estado
 [common_widget/filter_044] Cambios de estado
-[common_widget/filter_045] Efectos de campo
+[common_widget/filter_045] Efectos de entorno
 [common_widget/filter_046] Mejora las características aliadas
 [common_widget/filter_047] Objetivo del movimiento
 [common_widget/filter_048] Recuperación
@@ -55528,7 +56215,7 @@ evolución?
 [common_widget/filter_090] Tipo
 [common_widget/filter_091] Problemas de estado
 [common_widget/filter_092] Cambios de estado
-[common_widget/filter_093] Efectos de campo
+[common_widget/filter_093] Efectos de entorno
 [common_widget/filter_094] Otros
 [common_widget/filter_095] Sin mínimo
 [common_widget/filter_096] Sin máximo
@@ -65963,7 +66650,7 @@ puede que no aprendas algunas habilidades orbe.
 [home/battle_replay_024] Detalles de las mejoras
 [home/battle_replay_025] ¿Quieres aplicar este Tablero de la
 Piedra Compi?
-[home/battle_replay_026] Aviso: Se sobreescribirá la configuración actual.
+[home/battle_replay_026] Aviso: Se sobrescribirá la configuración actual.
 [home/battle_replay_027] Copiar equipo
 [home/battle_replay_028] Elige dónde quieres copiar este equipo.
 [home/battle_replay_029] Calculando...
