@@ -1,0 +1,14 @@
+{
+    "intro_only_event_pasiosalon_tutorial/6901_1001_0100_10": "¡Hola! ¡Se te ve bien, [Name:PlayerNickname ]!",
+    "intro_only_event_pasiosalon_tutorial/6901_1001_0200_10": "Ahora que ya estáis aquí [ES:Gen Ref=\"255\" M=\"los\" F=\"las\" ] dos, tengo algo que\nenseñaros a ti y a Nanci.",
+    "intro_only_event_pasiosalon_tutorial/6902_1001_0100_10": "¡Hala! ¿Y este sitio? ¡Es chulísimo!",
+    "intro_only_event_pasiosalon_tutorial/6902_1001_0200_10": "¡Bienvenid[ES:Gen Ref=\"255\" M=\"os\" F=\"as\" ] al Salón de Entrenadores!",
+    "intro_only_event_pasiosalon_tutorial/6902_1001_0300_10": "Se trata de un espacio de ocio en el que se puede\nconversar con otros Entrenadores y pasar el rato\njuntos.",
+    "intro_only_event_pasiosalon_tutorial/6902_1001_0400_10": "¡Qué bien! ¿Pero cómo se os ha ocurrido montar\nalgo así?",
+    "intro_only_event_pasiosalon_tutorial/6902_1001_0500_10": "Pues, simplemente, porque en Passio se reúnen\nEntrenadores de lugares muy diversos.",
+    "intro_only_event_pasiosalon_tutorial/6902_1001_0600_10": "Y hemos pensado que podría ser de gran ayuda \ntener un lugar donde entablar amistad con otras\npersonas que, a lo mejor, no conocéis tan bien.",
+    "intro_only_event_pasiosalon_tutorial/6902_1001_0700_10": "¡Así que esperamos que le saques partido y aquí\ntambién estreches lazos con muchos Entrenadores\ndiferentes, [Name:PlayerNickname ]!",
+    "intro_only_event_pasiosalon_tutorial/6903_1001_0100_10": "Así que en este sitio se puede conversar y hacer\namistades...",
+    "intro_only_event_pasiosalon_tutorial/6903_1001_0200_10": "¡Vaya! Entonces tendremos que darle un tiento,\n¿no, [Name:PlayerNickname ]?",
+    "intro_only_event_pasiosalon_tutorial/6903_1001_0300_10": "¡Venga! ¿A qué esperamos para afianzar nuestra\namistad?"
+}
