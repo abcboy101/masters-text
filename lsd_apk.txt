@@ -1184,6 +1184,7 @@ story_quest_name_de.lsd
 [quest_group_title_10061000000] Agathe
 [quest_group_title_10062000000] Melanie
 [quest_group_title_10063000000] Eugen
+[quest_group_title_10089000000] N
 [quest_group_title_10090000000] Troy
 [quest_group_title_10092000000] Lilia
 [quest_group_title_10094000000] Dragan
@@ -1808,7 +1809,7 @@ nicht vorbei!
 [quest_title_1030420700402011] Entwickl.-Intensivkurs
 [quest_group_title_10241000000] James
 [quest_group_title_610060] Limitbruchgebiet 2
-[quest_group_title_610061] Typenfähigkeit-
+[quest_group_title_610061] Teamfähigkeit-
 Verstärkungsgebiet
 [quest_title_1030420800501010] Normal-, Pflanzen- und
 Unlicht-Intensivkurs 1
@@ -1822,7 +1823,7 @@ Boden-Intensivkurs 1
 Wasser-Intensivkurs 1
 [quest_title_1030420800506010] Drachen-, Feuer- und
 Kampf-Intensivkurs 1
-[quest_title_1030420800601010] Typenfähigkeit-
+[quest_title_1030420800601010] Teamfähigkeit-
 Verstärkungsintensivkurs
 [quest_group_title_10194000000] Zyrus
 [quest_title_1030210091010001] Ein Tag mit MaMo-Cynthia
@@ -1998,6 +1999,56 @@ voll!
 [quest_title_1030211000601140] Kollektivkampf 2
 [quest_group_title_10016400000] Géraldine (Saison 2020)
 [quest_group_title_10008400000] Erika (Saison 2020)
+[quest_title_1030421200213010] Vs. Willi
+[quest_title_1030421200205010] Vs. Koga
+[quest_title_1030421200216010] Vs. Bruno
+[quest_title_1030421200207010] Vs. Melanie
+[quest_title_1030421200202010] Vs. Siegfried
+[quest_title_1030212000601080] Ein Held kehrt auf Passio ein
+[quest_title_1030212000601090] Der ehemalige König von
+Team Plasma
+[quest_title_1030212000601100] Der Trainer, der Lauro
+besiegte
+[quest_title_1030212000601110] N zur Rettung!
+[quest_title_1030212000601120] Eine graue Welt
+[quest_title_1030212000601130] Bis bald!
+[quest_title_1030212000601010] Vs. Trainer aus Passio 1
+[quest_title_1030212000601020] Vs. Trainer aus Passio 2
+[quest_title_1030212000601030] Vs. Trainer aus Passio 3
+[quest_title_1030212000601040] Vs. Trainer aus Passio 4
+[quest_title_1030212000601050] Vs. N
+[quest_title_1030212000601060] Kollektivkampf 1
+[quest_title_1030212000601070] Kollektivkampf 2
+[quest_group_title_10118400000] Lilly (Saison 2021)
+[quest_group_title_10111400000] Siegfried (Saison 2021)
+[quest_title_1030212000602120] Neujahrsoutfits
+[quest_title_1030212000602130] Verteile Neujahrskarten!
+[quest_title_1030212000602140] Rivalen zu Neujahr
+[quest_title_1030212000602150] Neujahrsvorsatz des
+Drachenprofis
+[quest_title_1030212000602160] An meine Liebsten...
+[quest_title_1030212000602100] Kollektivkampf 1
+[quest_title_1030212000602110] Kollektivkampf 2
+[quest_title_1030421100210010] Angreifer-Intensivkurs 4
+[quest_title_1030421100211010] Taktiker-Intensivkurs 4
+[quest_title_1030421100212010] Helfer-Intensivkurs 4
+[quest_title_1030212001010060] Herausf. an Ho-Oh! 6
+[quest_group_title_10126000000] Maike
+[quest_group_title_10124000000] Maho
+[quest_title_1030212000603070] Erstes Team!
+[quest_title_1030212000603010] Vs. Trainer aus Passio 1
+[quest_title_1030212000603020] Vs. Trainer aus Passio 2
+[quest_title_1030212000603030] Vs. Trainer aus Passio 3
+[quest_title_1030212000603040] Vs. Trainer aus Passio 4
+[quest_title_1030212000603080] Danke für die tolle Zeit!
+[quest_title_1030212000603050] Kollektivkampf 1
+[quest_title_1030212000603060] Kollektivkampf 2
+[quest_title_1030220126000000] Ein Tag mit Maike
+[quest_title_1030220126000100] Hydropi entwickelt sich
+[quest_title_1030220126000200] Moorabbel entwickelt sich
+[quest_title_1030210124000000] Ein Tag mit Maho
+[quest_title_1030421200301010] Vs. Trainer aus Passio 1
+[quest_title_1030421200302010] Vs. Trainer aus Passio 2
 [quest_title_1030211000601051] Lasst uns Deko sammeln!
 [quest_title_1030211000601061] Lasst uns Deko sammeln! 2
 [quest_title_1030211000601071] Lasst uns Deko sammeln! 3
@@ -2010,6 +2061,14 @@ sammeln! 3
 [quest_title_1030211000601111] Lasst uns noch viel mehr
 Deko sammeln!
 [quest_title_1030211000601121] Botogels Geschenk
+[quest_title_1030212000602020] Sammle Karten
+[quest_title_1030212000602030] Sammle Karten 2
+[quest_title_1030212000602040] Sammle Karten 3
+[quest_title_1030212000602050] Sammle mehr Karten 
+[quest_title_1030212000602060] Sammle mehr Karten 2
+[quest_title_1030212000602070] Sammle mehr Karten 3
+[quest_title_1030212000602080] Sammle noch mehr Karten
+[quest_title_1030212000602090] Glückbringender Drache
 [quest_title_1030210132000000] Ein Tag mit Lauro
 [quest_group_title_10132000000] Lauro
 
@@ -2502,6 +2561,7 @@ story_quest_name_en.lsd
 [quest_group_title_10061000000] Agatha
 [quest_group_title_10062000000] Karen
 [quest_group_title_10063000000] Marshal
+[quest_group_title_10089000000] N
 [quest_group_title_10090000000] Steven
 [quest_group_title_10092000000] Iris
 [quest_group_title_10094000000] Drake
@@ -3114,14 +3174,14 @@ story_quest_name_en.lsd
 [quest_title_1030420700402011] Evolution Drill
 [quest_group_title_10241000000] James
 [quest_group_title_610060] Cap-Unlock Area 2
-[quest_group_title_610061] Type Skill Area
+[quest_group_title_610061] Theme Skill Area
 [quest_title_1030420800501010] Normal, Grass, and Dark Drill 1
 [quest_title_1030420800502010] Poison, Fairy, and Bug Drill 1
 [quest_title_1030420800503010] Steel, Psychic, and Rock Drill 1
 [quest_title_1030420800504010] Electric, Ice, and Ground Drill 1
 [quest_title_1030420800505010] Flying, Ghost, and Water Drill 1
 [quest_title_1030420800506010] Dragon, Fire, and Fighting Drill 1
-[quest_title_1030420800601010] Type Skill Drill
+[quest_title_1030420800601010] Theme Skill Drill
 [quest_group_title_10194000000] Cyrus
 [quest_title_1030210091010001] A Day with Sygna Suit Cynthia
 [quest_title_1030208000601150] Challenge Pasio’s Trainers: Part 1
@@ -3289,6 +3349,55 @@ story_quest_name_en.lsd
 (Holiday 2020)
 [quest_group_title_10008400000] Erika
 (Holiday 2020)
+[quest_title_1030421200213010] Will
+[quest_title_1030421200205010] Koga
+[quest_title_1030421200216010] Bruno
+[quest_title_1030421200207010] Karen
+[quest_title_1030421200202010] Lance
+[quest_title_1030212000601080] The Hero Arrives on Pasio
+[quest_title_1030212000601090] The King of Team Plasma
+[quest_title_1030212000601100] The Ones Who Bested Alder
+[quest_title_1030212000601110] N to the Rescue
+[quest_title_1030212000601120] A Gray World
+[quest_title_1030212000601130] No More Good-byes
+[quest_title_1030212000601010] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030212000601020] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030212000601030] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030212000601040] Challenge Pasio’s Trainers: Part 4
+[quest_title_1030212000601050] Challenge N
+[quest_title_1030212000601060] Full-Force Battle! Round 1
+[quest_title_1030212000601070] Full-Force Battle! Round 2
+[quest_group_title_10118400000] Lillie
+(New Year’s 2021)
+[quest_group_title_10111400000] Lance
+(New Year’s 2021)
+[quest_title_1030212000602120] Johto-Style Celebration
+[quest_title_1030212000602130] Pasio’s New Card Couriers
+[quest_title_1030212000602140] New Year, Old Rival
+[quest_title_1030212000602150] New Year’s Resolutions
+[quest_title_1030212000602160] A Heartfelt Thank-You
+[quest_title_1030212000602100] Full-Force Battle! Round 1
+[quest_title_1030212000602110] Full-Force Battle! Round 2
+[quest_title_1030421100210010] Strike Drill 4
+[quest_title_1030421100211010] Tech Drill 4
+[quest_title_1030421100212010] Support Drill 4
+[quest_title_1030212001010060] Ho-Oh’s Challenge: Part 6
+[quest_group_title_10126000000] May
+[quest_group_title_10124000000] Mallow
+[quest_title_1030212000603070] May as Well Team Up!
+[quest_title_1030212000603010] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030212000603020] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030212000603030] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030212000603040] Challenge Pasio’s Trainers: Part 4
+[quest_title_1030212000603080] May the Fun Never End!
+[quest_title_1030212000603050] Full-Force Battle! Round 1
+[quest_title_1030212000603060] Full-Force Battle! Round 2
+[quest_title_1030220126000000] A Day with May
+[quest_title_1030220126000100] Mudkip’s Evolution
+[quest_title_1030220126000200] Marshtomp’s Evolution
+[quest_title_1030210124000000] A Day with Mallow
+[quest_title_1030421200301010] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030421200302010] Challenge Pasio’s Trainers: Part 2
 [quest_title_1030211000601051] Ornament Gathering: Part 1
 [quest_title_1030211000601061] Ornament Gathering: Part 2
 [quest_title_1030211000601071] Ornament Gathering: Part 3
@@ -3297,6 +3406,14 @@ story_quest_name_en.lsd
 [quest_title_1030211000601101] Ornament Hunting: Part 3
 [quest_title_1030211000601111] Ultimate Ornament Collection
 [quest_title_1030211000601121] Delibird’s Delivery
+[quest_title_1030212000602020] Card Gathering: Part 1
+[quest_title_1030212000602030] Card Gathering: Part 2
+[quest_title_1030212000602040] Card Gathering: Part 3
+[quest_title_1030212000602050] Mass Card Collecting: Part 1
+[quest_title_1030212000602060] Mass Card Collecting: Part 2
+[quest_title_1030212000602070] Mass Card Collecting: Part 3
+[quest_title_1030212000602080] Ultimate Card Collection
+[quest_title_1030212000602090] Dragon of Good Fortune
 [quest_title_1030210132000000] A Day with Alder
 [quest_group_title_10132000000] Alder
 
@@ -3789,6 +3906,7 @@ story_quest_name_es.lsd
 [quest_group_title_10061000000] Agatha
 [quest_group_title_10062000000] Karen
 [quest_group_title_10063000000] Lotto
+[quest_group_title_10089000000] N
 [quest_group_title_10090000000] Máximo
 [quest_group_title_10092000000] Iris
 [quest_group_title_10094000000] Dracón
@@ -4406,7 +4524,7 @@ corazones
 [quest_group_title_10241000000] James
 [quest_group_title_610060] Área de nivel máximo 2
 [quest_group_title_610061] Área de mejora de
-habilidad de tipo
+habilidad de equipo
 [quest_title_1030420800501010] Entren. Normal, Planta
 y Siniestro 1
 [quest_title_1030420800502010] Entren. Veneno, Hada
@@ -4420,7 +4538,7 @@ y Agua 1
 [quest_title_1030420800506010] Entren. Dragón, Fuego
 y Lucha 1	
 [quest_title_1030420800601010] Entren. para mejorar
-habilidades de tipo
+habilidades de equipo
 [quest_group_title_10194000000] Helio
 [quest_title_1030210091010001] Un día con Cintia (Traje S)
 [quest_title_1030208000601150] VS. Entrenadores de Passio
@@ -4606,6 +4724,59 @@ gente!
 (Temporada 20)
 [quest_group_title_10008400000] Erika
 (Temporada 20)
+[quest_title_1030421200213010] VS. Mento
+[quest_title_1030421200205010] VS. Koga
+[quest_title_1030421200216010] VS. Bruno
+[quest_title_1030421200207010] VS. Karen
+[quest_title_1030421200202010] VS. Lance
+[quest_title_1030212000601080] Un viejo conocido llega a
+Passio
+[quest_title_1030212000601090] El antiguo soberano del
+Equipo Plasma
+[quest_title_1030212000601100] El Entrenador que venció
+a Mirto
+[quest_title_1030212000601110] Al rescate de un amigo
+[quest_title_1030212000601120] El mundo gris
+[quest_title_1030212000601130] Se acabaron las despedidas
+[quest_title_1030212000601010] VS. Entrenadores de Passio
+[quest_title_1030212000601020] VS. Entrenadores de Passio (2)
+[quest_title_1030212000601030] VS. Entrenadores de Passio (3)
+[quest_title_1030212000601040] VS. Entrenadores de Passio (4)
+[quest_title_1030212000601050] VS. N
+[quest_title_1030212000601060] ¡Un combate colectivo!
+[quest_title_1030212000601070] ¡Un combate colectivo! (2)
+[quest_group_title_10118400000] Lylia
+(Temporada 21)
+[quest_group_title_10111400000] Lance
+(Temporada 21)
+[quest_title_1030212000602120] Vestidos para la ocasión
+[quest_title_1030212000602130] ¡A repartir tarjetas!
+[quest_title_1030212000602140] Rivales un año más
+[quest_title_1030212000602150] Los propósitos de
+la Domadragones
+[quest_title_1030212000602160] Estimados amigos...
+[quest_title_1030212000602100] ¡Un combate colectivo!
+[quest_title_1030212000602110] ¡Un combate colectivo! (2)
+[quest_title_1030421100210010] Entrenamiento de Ataque 4
+[quest_title_1030421100211010] Entrenamiento de Sabotaje 4
+[quest_title_1030421100212010] Entrenamiento de Apoyo 4
+[quest_title_1030212001010060] ¡Reta a Ho-Oh! (6)
+[quest_group_title_10126000000] Aura
+[quest_group_title_10124000000] Lulú
+[quest_title_1030212000603070] ¡Se forma el primer equipo!
+[quest_title_1030212000603010] VS. Entrenadores de Passio
+[quest_title_1030212000603020] VS. Entrenadores de Passio (2)
+[quest_title_1030212000603030] VS. Entrenadores de Passio (3)
+[quest_title_1030212000603040] VS. Entrenadores de Passio (4)
+[quest_title_1030212000603080] ¡Lo hemos pasado genial!
+[quest_title_1030212000603050] ¡Un combate colectivo!
+[quest_title_1030212000603060] ¡Un combate colectivo! (2)
+[quest_title_1030220126000000] Un día con Aura
+[quest_title_1030220126000100] ¡Mudkip evoluciona!
+[quest_title_1030220126000200] ¡Marshtomp evoluciona!
+[quest_title_1030210124000000] Un día con Lulú
+[quest_title_1030421200301010] VS. Entrenadores de Passio
+[quest_title_1030421200302010] VS. Entrenadores de Passio (2)
 [quest_title_1030211000601051] En busca de adornos
 [quest_title_1030211000601061] En busca de adornos (2)
 [quest_title_1030211000601071] En busca de adornos (3)
@@ -4618,6 +4789,18 @@ adornos (3)
 [quest_title_1030211000601111] En busca de mogollón de
 adornos
 [quest_title_1030211000601121] El regalo de Delibird
+[quest_title_1030212000602020] En busca de tarjetas
+[quest_title_1030212000602030] En busca de tarjetas (2)
+[quest_title_1030212000602040] En busca de tarjetas (3)
+[quest_title_1030212000602050] En busca de muchas
+tarjetas
+[quest_title_1030212000602060] En busca de muchas
+tarjetas (2)
+[quest_title_1030212000602070] En busca de muchas
+tarjetas (3)
+[quest_title_1030212000602080] En busca de mogollón de
+tarjetas
+[quest_title_1030212000602090] El dragón prueba su suerte
 [quest_title_1030210132000000] Un día con Mirto
 [quest_group_title_10132000000] Mirto
 
@@ -5111,6 +5294,7 @@ Ultime)
 [quest_group_title_10061000000] Agatha
 [quest_group_title_10062000000] Marion
 [quest_group_title_10063000000] Kunz
+[quest_group_title_10089000000] N
 [quest_group_title_10090000000] Pierre Rochard
 [quest_group_title_10092000000] Iris
 [quest_group_title_10094000000] Aragon
@@ -5776,7 +5960,7 @@ Passio IV
 [quest_title_1030420700402011] Exercice évolution
 [quest_group_title_10241000000] James
 [quest_group_title_610060] Zone repousse-limite 2
-[quest_group_title_610061] Zone talents de type ↑
+[quest_group_title_610061] Zone talents d'équipe ↑
 [quest_title_1030420800501010] Exercice Normal, Plante et
 Ténèbres I
 [quest_title_1030420800502010] Exercice Poison, Fée et
@@ -5787,7 +5971,7 @@ Sol I
 [quest_title_1030420800505010] Exercice Vol, Spectre et Eau I
 [quest_title_1030420800506010] Exercice Dragon, Feu et
 Combat I
-[quest_title_1030420800601010] Exercice talents de type ↑
+[quest_title_1030420800601010] Exercice talents d'équipe ↑
 [quest_group_title_10194000000] Hélio
 [quest_title_1030210091010001] Une journée avec Cynthia
 (Look Ultime)
@@ -5997,6 +6181,70 @@ l'affrontement ! II
 (Saison 2020)
 [quest_group_title_10008400000] Erika
 (Saison 2020)
+[quest_title_1030421200213010] Combat : Clément
+[quest_title_1030421200205010] Combat : Koga
+[quest_title_1030421200216010] Combat : Aldo
+[quest_title_1030421200207010] Combat : Marion
+[quest_title_1030421200202010] Combat : Peter
+[quest_title_1030212000601080] L'arrivée du héros à Passio
+[quest_title_1030212000601090] L'ancien roi de
+la Team Plasma
+[quest_title_1030212000601100] L'enseignement de Goyah
+[quest_title_1030212000601110] N à la rescousse !
+[quest_title_1030212000601120] Un monde devenu gris
+[quest_title_1030212000601130] À la prochaine !
+[quest_title_1030212000601010] Combat : Dresseurs de Passio
+[quest_title_1030212000601020] Combat :
+Dresseurs de Passio II
+[quest_title_1030212000601030] Combat :
+Dresseurs de Passio III
+[quest_title_1030212000601040] Combat :
+Dresseurs de Passio IV
+[quest_title_1030212000601050] Combat : N
+[quest_title_1030212000601060] Combat Collectif :
+l'affrontement !
+[quest_title_1030212000601070] Combat Collectif :
+l'affrontement ! II
+[quest_group_title_10118400000] Lilie
+(Saison 2021)
+[quest_group_title_10111400000] Peter
+(Saison 2021)
+[quest_title_1030212000602120] À la mode de Johto
+[quest_title_1030212000602130] Les livreurs de cartes
+[quest_title_1030212000602140] Les années passent,
+les rivaux restent
+[quest_title_1030212000602150] Les résolutions des dragons
+[quest_title_1030212000602160] À vous que j'aime tant
+[quest_title_1030212000602100] Combat Collectif :
+l'affrontement !
+[quest_title_1030212000602110] Combat Collectif :
+l'affrontement ! II
+[quest_title_1030421100210010] Exercice Attaquant IV
+[quest_title_1030421100211010] Exercice Tacticien IV
+[quest_title_1030421100212010] Exercice Soutien IV
+[quest_title_1030212001010060] À la rencontre de Ho-Oh VI
+[quest_group_title_10126000000] Flora
+[quest_group_title_10124000000] Barbara
+[quest_title_1030212000603070] La première équipe de Flora
+[quest_title_1030212000603010] Combat : Dresseurs de Passio
+[quest_title_1030212000603020] Combat :
+Dresseurs de Passio II
+[quest_title_1030212000603030] Combat :
+Dresseurs de Passio III
+[quest_title_1030212000603040] Combat :
+Dresseurs de Passio IV
+[quest_title_1030212000603080] Qu'est-ce qu'on s'amuse !
+[quest_title_1030212000603050] Combat Collectif :
+l'affrontement !
+[quest_title_1030212000603060] Combat Collectif :
+l'affrontement ! II
+[quest_title_1030220126000000] Une journée avec Flora
+[quest_title_1030220126000100] L'évolution de Gobou
+[quest_title_1030220126000200] L'évolution de Flobio
+[quest_title_1030210124000000] Une journée avec Barbara
+[quest_title_1030421200301010] Combat : Dresseurs de Passio
+[quest_title_1030421200302010] Combat :
+Dresseurs de Passio II
 [quest_title_1030211000601051] Rassemblons les décorations !
 [quest_title_1030211000601061] Rassemblons
 les décorations ! II
@@ -6007,6 +6255,15 @@ les décorations ! III
 [quest_title_1030211000601101] La chasse aux décorations III
 [quest_title_1030211000601111] Encore plus de décorations !
 [quest_title_1030211000601121] Le cadeau de Cadoizo
+[quest_title_1030212000602020] Rassemblons les cartes !
+[quest_title_1030212000602030] Rassemblons les cartes ! II
+[quest_title_1030212000602040] Rassemblons les cartes ! III
+[quest_title_1030212000602050] La chasse aux cartes
+[quest_title_1030212000602060] La chasse aux cartes II
+[quest_title_1030212000602070] La chasse aux cartes III
+[quest_title_1030212000602080] Encore plus de cartes !
+[quest_title_1030212000602090] Le dragon de
+la bonne fortune
 [quest_title_1030210132000000] Une journée avec Goyah
 [quest_group_title_10132000000] Goyah
 
@@ -6499,6 +6756,7 @@ story_quest_name_it.lsd
 [quest_group_title_10061000000] Agatha
 [quest_group_title_10062000000] Karen
 [quest_group_title_10063000000] Marzio
+[quest_group_title_10089000000] N
 [quest_group_title_10090000000] Rocco
 [quest_group_title_10092000000] Iris
 [quest_group_title_10094000000] Drake
@@ -7107,14 +7365,14 @@ story_quest_name_it.lsd
 [quest_title_1030420700402011] Allenamento evoluzione
 [quest_group_title_10241000000] James
 [quest_group_title_610060] Aree sblocco livello max 2
-[quest_group_title_610061] Aree rinforzo tipabilità
+[quest_group_title_610061] Aree rinforzo squadrabilità
 [quest_title_1030420800501010] Allenamento Normale, Erba e Buio 1
 [quest_title_1030420800502010] Allenamento Veleno, Folletto e Coleottero 1
 [quest_title_1030420800503010] Allenamento Acciaio, Psico e Roccia 1
 [quest_title_1030420800504010] Allenamento Elettro, Ghiaccio e Terra 1
 [quest_title_1030420800505010] Allenamento Volante, Spettro e Acqua 1
 [quest_title_1030420800506010] Allenamento Drago, Fuoco e Lotta 1
-[quest_title_1030420800601010] Allenamento tipabilità
+[quest_title_1030420800601010] Allenamento squadrabilità
 [quest_group_title_10194000000] Cyrus
 [quest_title_1030210091010001] Un giorno con Camilla Costumax
 [quest_title_1030208000601150] VS Allenatori di Pasio
@@ -7278,6 +7536,53 @@ story_quest_name_it.lsd
 [quest_title_1030211000601140] Una Lotta Collettiva! 2
 [quest_group_title_10016400000] Anemone (feste 2020)
 [quest_group_title_10008400000] Erika (feste 2020)
+[quest_title_1030421200213010] VS Pino
+[quest_title_1030421200205010] VS Koga
+[quest_title_1030421200216010] VS Bruno
+[quest_title_1030421200207010] VS Karen
+[quest_title_1030421200202010] VS Lance
+[quest_title_1030212000601080] La venuta di un eroe a Pasio
+[quest_title_1030212000601090] L'ex-sovrano del Team Plasma
+[quest_title_1030212000601100] Aver superato Nardo
+[quest_title_1030212000601110] In aiuto di un amico
+[quest_title_1030212000601120] Un mondo grigio?
+[quest_title_1030212000601130] A presto!
+[quest_title_1030212000601010] VS Allenatori di Pasio
+[quest_title_1030212000601020] VS Allenatori di Pasio 2
+[quest_title_1030212000601030] VS Allenatori di Pasio 3
+[quest_title_1030212000601040] VS Allenatori di Pasio 4
+[quest_title_1030212000601050] VS N
+[quest_title_1030212000601060] Una Lotta Collettiva!
+[quest_title_1030212000601070] Una Lotta Collettiva! 2
+[quest_group_title_10118400000] Lylia (feste 2021)
+[quest_group_title_10111400000] Lance (feste 2021)
+[quest_title_1030212000602120] Vestiti per le feste
+[quest_title_1030212000602130] Consegniamo le cartoline!
+[quest_title_1030212000602140] Un nuovo anno da rivali
+[quest_title_1030212000602150] I buoni propositi di Sandra
+[quest_title_1030212000602160] Per voi, con tanto affetto!
+[quest_title_1030212000602100] Una Lotta Collettiva!
+[quest_title_1030212000602110] Una Lotta Collettiva! 2
+[quest_title_1030421100210010] Allenamento Attaccanti 4
+[quest_title_1030421100211010] Allenamento Tecnici 4
+[quest_title_1030421100212010] Allenamento Aiutanti 4
+[quest_title_1030212001010060] Affronta Ho-Oh! 6
+[quest_group_title_10126000000] Vera
+[quest_group_title_10124000000] Ibis
+[quest_title_1030212000603070] Si forma la prima squadra!
+[quest_title_1030212000603010] VS Allenatori di Pasio
+[quest_title_1030212000603020] VS Allenatori di Pasio 2
+[quest_title_1030212000603030] VS Allenatori di Pasio 3
+[quest_title_1030212000603040] VS Allenatori di Pasio 4
+[quest_title_1030212000603080] Grazie per le lotte divertenti!
+[quest_title_1030212000603050] Una Lotta Collettiva!
+[quest_title_1030212000603060] Una Lotta Collettiva! 2
+[quest_title_1030220126000000] Un giorno con Vera
+[quest_title_1030220126000100] L'evoluzione di Mudkip
+[quest_title_1030220126000200] L'evoluzione di Marshtomp
+[quest_title_1030210124000000] Un giorno con Ibis
+[quest_title_1030421200301010] VS Allenatori di Pasio
+[quest_title_1030421200302010] VS Allenatori di Pasio 2
 [quest_title_1030211000601051] Raccogliamo le decorazioni!
 [quest_title_1030211000601061] Raccogliamo le decorazioni! 2
 [quest_title_1030211000601071] Raccogliamo le decorazioni! 3
@@ -7286,6 +7591,14 @@ story_quest_name_it.lsd
 [quest_title_1030211000601101] Raccogliamo tante decorazioni! 3
 [quest_title_1030211000601111] Raccogliamo ancora più decorazioni!
 [quest_title_1030211000601121] Il regalo di Delibird
+[quest_title_1030212000602020] Raccogliamo le cartoline!
+[quest_title_1030212000602030] Raccogliamo le cartoline! 2
+[quest_title_1030212000602040] Raccogliamo le cartoline! 3
+[quest_title_1030212000602050] Raccogliamo tante cartoline!
+[quest_title_1030212000602060] Raccogliamo tante cartoline! 2
+[quest_title_1030212000602070] Raccogliamo tante cartoline! 3
+[quest_title_1030212000602080] Raccogliamo ancora più cartoline!
+[quest_title_1030212000602090] Il drago portafortuna
 [quest_title_1030210132000000] Un giorno con Nardo
 [quest_group_title_10132000000] Nardo
 
@@ -7778,6 +8091,7 @@ story_quest_name_ja.lsd
 [quest_group_title_10061000000] キクコ
 [quest_group_title_10062000000] カリン
 [quest_group_title_10063000000] レンブ
+[quest_group_title_10089000000] N
 [quest_group_title_10090000000] ダイゴ
 [quest_group_title_10092000000] アイリス
 [quest_group_title_10094000000] ゲンジ
@@ -8391,14 +8705,14 @@ story_quest_name_ja.lsd
 [quest_title_1030420700402011] 進化の鍛錬
 [quest_group_title_10241000000] コジロウ
 [quest_group_title_610060] ゲンカイ突破エリア２
-[quest_group_title_610061] タイプスキル強化エリア
+[quest_group_title_610061] チームスキル強化エリア
 [quest_title_1030420800501010] ノーマル＆くさ＆あくの鍛錬１
 [quest_title_1030420800502010] どく＆フェアリー＆むしの鍛錬１
 [quest_title_1030420800503010] はがね＆エスパー＆いわの鍛錬１
 [quest_title_1030420800504010] でんき＆こおり＆じめんの鍛錬１
 [quest_title_1030420800505010] ひこう＆ゴースト＆みずの鍛錬１
 [quest_title_1030420800506010] ドラゴン＆ほのお＆かくとうの鍛錬１
-[quest_title_1030420800601010] タイプスキル強化の鍛錬
+[quest_title_1030420800601010] チームスキル強化の鍛錬
 [quest_group_title_10194000000] アカギ
 [quest_title_1030210091010001] とある日のマジコスシロナ
 [quest_title_1030208000601150] ＶＳ　パシオのトレーナー
@@ -8566,6 +8880,55 @@ story_quest_name_ja.lsd
 （２０シーズン）
 [quest_group_title_10008400000] エリカ
 （２０シーズン）
+[quest_title_1030421200213010] ＶＳ　イツキ
+[quest_title_1030421200205010] ＶＳ　キョウ
+[quest_title_1030421200216010] ＶＳ　シバ
+[quest_title_1030421200207010] ＶＳ　カリン
+[quest_title_1030421200202010] ＶＳ　ワタル
+[quest_title_1030212000601080] パシオに降り立つ英雄
+[quest_title_1030212000601090] プラズマ団の王だった男
+[quest_title_1030212000601100] アデクを超えた者たち
+[quest_title_1030212000601110] トモダチを救いに
+[quest_title_1030212000601120] 灰色の世界
+[quest_title_1030212000601130] ヨロシク
+[quest_title_1030212000601010] ＶＳ　パシオのトレーナー
+[quest_title_1030212000601020] ＶＳ　パシオのトレーナー２
+[quest_title_1030212000601030] ＶＳ　パシオのトレーナー３
+[quest_title_1030212000601040] ＶＳ　パシオのトレーナー４
+[quest_title_1030212000601050] ＶＳ　Ｎ
+[quest_title_1030212000601060] ソウリョクバトルで勝負！
+[quest_title_1030212000601070] ソウリョクバトルで勝負！２
+[quest_group_title_10118400000] リーリエ
+（２１シーズン）
+[quest_group_title_10111400000] ワタル
+（２１シーズン）
+[quest_title_1030212000602120] 晴れやかな装いで
+[quest_title_1030212000602130] カードを届けよう！
+[quest_title_1030212000602140] ライバルたちの新年
+[quest_title_1030212000602150] 竜の抱負
+[quest_title_1030212000602160] 大好きなみなさんへ
+[quest_title_1030212000602100] ソウリョクバトルで勝負！
+[quest_title_1030212000602110] ソウリョクバトルで勝負！２
+[quest_title_1030421100210010] アタッカーの鍛錬４
+[quest_title_1030421100211010] テクニカルの鍛錬４
+[quest_title_1030421100212010] サポートの鍛錬４
+[quest_title_1030212001010060] ホウオウに挑め！６
+[quest_group_title_10126000000] ハルカ
+[quest_group_title_10124000000] マオ
+[quest_title_1030212000603070] 初めてのチーム結成！
+[quest_title_1030212000603010] ＶＳ　パシオのトレーナー
+[quest_title_1030212000603020] ＶＳ　パシオのトレーナー２
+[quest_title_1030212000603030] ＶＳ　パシオのトレーナー３
+[quest_title_1030212000603040] ＶＳ　パシオのトレーナー４
+[quest_title_1030212000603080] 楽しい時間を　ありがとう！
+[quest_title_1030212000603050] ソウリョクバトルで勝負！
+[quest_title_1030212000603060] ソウリョクバトルで勝負！２
+[quest_title_1030220126000000] とある日のハルカ
+[quest_title_1030220126000100] ミズゴロウの進化
+[quest_title_1030220126000200] ヌマクローの進化
+[quest_title_1030210124000000] とある日のマオ
+[quest_title_1030421200301010] ＶＳ　パシオのトレーナー
+[quest_title_1030421200302010] ＶＳ　パシオのトレーナー２
 [quest_title_1030211000601051] 飾りを集めよう
 [quest_title_1030211000601061] 飾りを集めよう２
 [quest_title_1030211000601071] 飾りを集めよう３
@@ -8574,6 +8937,14 @@ story_quest_name_ja.lsd
 [quest_title_1030211000601101] 飾りをいっぱい集めよう３
 [quest_title_1030211000601111] 飾りをもっといっぱい集めよう
 [quest_title_1030211000601121] デリバードの贈り物
+[quest_title_1030212000602020] カードを集めよう
+[quest_title_1030212000602030] カードを集めよう２
+[quest_title_1030212000602040] カードを集めよう３
+[quest_title_1030212000602050] カードをいっぱい集めよう
+[quest_title_1030212000602060] カードをいっぱい集めよう２
+[quest_title_1030212000602070] カードをいっぱい集めよう３
+[quest_title_1030212000602080] カードをもっといっぱい集めよう
+[quest_title_1030212000602090] 開運ごろごろ　龍の運試し！
 [quest_title_1030210132000000] とある日のアデク
 [quest_group_title_10132000000] アデク
 
@@ -9066,6 +9437,7 @@ story_quest_name_ko.lsd
 [quest_group_title_10061000000] 국화
 [quest_group_title_10062000000] 카렌
 [quest_group_title_10063000000] 연무
+[quest_group_title_10089000000] N
 [quest_group_title_10090000000] 성호
 [quest_group_title_10092000000] 아이리스
 [quest_group_title_10094000000] 권수
@@ -9678,14 +10050,14 @@ story_quest_name_ko.lsd
 [quest_title_1030420700402011] 진화의 단련
 [quest_group_title_10241000000] 로이
 [quest_group_title_610060] 한계돌파 에리어2
-[quest_group_title_610061] 타입스킬 강화 에리어
+[quest_group_title_610061] 팀스킬 강화 에리어
 [quest_title_1030420800501010] 노말&풀&악의 단련1
 [quest_title_1030420800502010] 독&페어리&벌레의 단련1
 [quest_title_1030420800503010] 강철&에스퍼&바위의 단련1
 [quest_title_1030420800504010] 전기&얼음&땅의 단련1
 [quest_title_1030420800505010] 비행&고스트&물의 단련1
 [quest_title_1030420800506010] 드래곤&불꽃&격투의 단련1
-[quest_title_1030420800601010] 타입스킬 강화의 단련
+[quest_title_1030420800601010] 팀스킬 강화의 단련
 [quest_group_title_10194000000] 태홍
 [quest_title_1030210091010001] 궁극코스 난천의 어느 날
 [quest_title_1030208000601150] VS 파시오의 트레이너
@@ -9853,6 +10225,55 @@ story_quest_name_ko.lsd
 (20시즌)
 [quest_group_title_10008400000] 민화
 (20시즌)
+[quest_title_1030421200213010] VS 일목
+[quest_title_1030421200205010] VS 독수
+[quest_title_1030421200216010] VS 시바
+[quest_title_1030421200207010] VS 카렌
+[quest_title_1030421200202010] VS 목호
+[quest_title_1030212000601080] 파시오에 온 영웅
+[quest_title_1030212000601090] 플라스마단의 왕이었던 남자
+[quest_title_1030212000601100] 노간주를 뛰어넘은 자들
+[quest_title_1030212000601110] 친구를 구하기 위해
+[quest_title_1030212000601120] 회색의 세계
+[quest_title_1030212000601130] 잘 부탁해
+[quest_title_1030212000601010] VS 파시오의 트레이너
+[quest_title_1030212000601020] VS 파시오의 트레이너2
+[quest_title_1030212000601030] VS 파시오의 트레이너3
+[quest_title_1030212000601040] VS 파시오의 트레이너4
+[quest_title_1030212000601050] VS N
+[quest_title_1030212000601060] 총력배틀로 승부!
+[quest_title_1030212000601070] 총력배틀로 승부!2
+[quest_group_title_10118400000] 릴리에
+(21시즌)
+[quest_group_title_10111400000] 목호
+(21시즌)
+[quest_title_1030212000602120] 화사한 옷을 입고
+[quest_title_1030212000602130] 카드를 전해주자!
+[quest_title_1030212000602140] 라이벌들의 새해
+[quest_title_1030212000602150] 용의 새해 목표
+[quest_title_1030212000602160] 정말 좋아하는 여러분께
+[quest_title_1030212000602100] 총력배틀로 승부!
+[quest_title_1030212000602110] 총력배틀로 승부!2
+[quest_title_1030421100210010] 어태커의 단련4
+[quest_title_1030421100211010] 테크니컬의 단련4
+[quest_title_1030421100212010] 서포트의 단련4
+[quest_title_1030212001010060] 칠색조에게 도전하라! 6
+[quest_group_title_10126000000] 봄이
+[quest_group_title_10124000000] 마오
+[quest_title_1030212000603070] 처음 해보는 팀 결성!
+[quest_title_1030212000603010] VS 파시오의 트레이너
+[quest_title_1030212000603020] VS 파시오의 트레이너2
+[quest_title_1030212000603030] VS 파시오의 트레이너3
+[quest_title_1030212000603040] VS 파시오의 트레이너4
+[quest_title_1030212000603080] 즐거운 시간을 함께해 줘서 고마워!
+[quest_title_1030212000603050] 총력배틀로 승부!
+[quest_title_1030212000603060] 총력배틀로 승부!2
+[quest_title_1030220126000000] 봄이의 어느 날
+[quest_title_1030220126000100] 물짱이의 진화
+[quest_title_1030220126000200] 늪짱이의 진화
+[quest_title_1030210124000000] 마오의 어느 날
+[quest_title_1030421200301010] VS 파시오의 트레이너
+[quest_title_1030421200302010] VS 파시오의 트레이너2
 [quest_title_1030211000601051] 장식을 모으자
 [quest_title_1030211000601061] 장식을 모으자2
 [quest_title_1030211000601071] 장식을 모으자3
@@ -9861,6 +10282,14 @@ story_quest_name_ko.lsd
 [quest_title_1030211000601101] 장식을 많이 모으자3
 [quest_title_1030211000601111] 장식을 더 많이 모으자
 [quest_title_1030211000601121] 딜리버드의 선물
+[quest_title_1030212000602020] 카드를 모으자
+[quest_title_1030212000602030] 카드를 모으자2
+[quest_title_1030212000602040] 카드를 모으자3
+[quest_title_1030212000602050] 카드를 많이 모으자
+[quest_title_1030212000602060] 카드를 많이 모으자2
+[quest_title_1030212000602070] 카드를 많이 모으자3
+[quest_title_1030212000602080] 카드를 더 많이 모으자
+[quest_title_1030212000602090] 운수대통 용의 행운 시험!
 [quest_title_1030210132000000] 노간주의 어느 날
 [quest_group_title_10132000000] 노간주
 
@@ -10353,6 +10782,7 @@ story_quest_name_zh-TW.lsd
 [quest_group_title_10061000000] 菊子
 [quest_group_title_10062000000] 梨花
 [quest_group_title_10063000000] 連武
+[quest_group_title_10089000000] N
 [quest_group_title_10090000000] 大吾
 [quest_group_title_10092000000] 艾莉絲
 [quest_group_title_10094000000] 源治
@@ -10965,14 +11395,14 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030420700402011] 進化鍛鍊
 [quest_group_title_10241000000] 小次郎
 [quest_group_title_610060] 突破界限區域２
-[quest_group_title_610061] 屬性技能強化區域
+[quest_group_title_610061] 隊伍技能強化區域
 [quest_title_1030420800501010] 一般＆草＆惡屬性鍛鍊１
 [quest_title_1030420800502010] 毒＆妖精＆蟲屬性鍛鍊１
 [quest_title_1030420800503010] 鋼＆超能力＆岩石屬性鍛鍊１
 [quest_title_1030420800504010] 電＆冰＆地面屬性鍛鍊１
 [quest_title_1030420800505010] 飛行＆幽靈＆水屬性鍛鍊１
 [quest_title_1030420800506010] 龍＆火＆格鬥屬性鍛鍊１
-[quest_title_1030420800601010] 屬性技能強化鍛鍊
+[quest_title_1030420800601010] 隊伍技能強化鍛鍊
 [quest_group_title_10194000000] 赤日
 [quest_title_1030210091010001] 某日的美極套裝竹蘭
 [quest_title_1030208000601150] ＶＳ　帕希歐的訓練家
@@ -11140,6 +11570,55 @@ story_quest_name_zh-TW.lsd
 （２０２０冬季）
 [quest_group_title_10008400000] 莉佳
 （２０２０冬季）
+[quest_title_1030421200213010] ＶＳ　一樹
+[quest_title_1030421200205010] ＶＳ　阿桔
+[quest_title_1030421200216010] ＶＳ　希巴
+[quest_title_1030421200207010] ＶＳ　梨花
+[quest_title_1030421200202010] ＶＳ　阿渡
+[quest_title_1030212000601080] 降臨帕希歐的英雄
+[quest_title_1030212000601090] 曾是等離子隊主宰者的男人
+[quest_title_1030212000601100] 超越阿戴克的人們
+[quest_title_1030212000601110] 拯救朋友
+[quest_title_1030212000601120] 灰色的世界
+[quest_title_1030212000601130] 請多指教
+[quest_title_1030212000601010] ＶＳ　帕希歐的訓練家
+[quest_title_1030212000601020] ＶＳ　帕希歐的訓練家２
+[quest_title_1030212000601030] ＶＳ　帕希歐的訓練家３
+[quest_title_1030212000601040] ＶＳ　帕希歐的訓練家４
+[quest_title_1030212000601050] ＶＳ　Ｎ
+[quest_title_1030212000601060] 用大對戰決勝負！
+[quest_title_1030212000601070] 用大對戰決勝負！２
+[quest_group_title_10118400000] 莉莉艾
+（２０２１新春）
+[quest_group_title_10111400000] 阿渡
+（２０２１新春）
+[quest_title_1030212000602120] 盛裝打扮
+[quest_title_1030212000602130] 送出卡片吧！
+[quest_title_1030212000602140] 勁敵們的新年
+[quest_title_1030212000602150] 龍之抱負
+[quest_title_1030212000602160] 給最喜歡的大家
+[quest_title_1030212000602100] 用大對戰決勝負！
+[quest_title_1030212000602110] 用大對戰決勝負！２
+[quest_title_1030421100210010] 攻擊型鍛鍊４
+[quest_title_1030421100211010] 技術型鍛鍊４
+[quest_title_1030421100212010] 輔助型鍛鍊４
+[quest_title_1030212001010060] 挑戰鳳王！６
+[quest_group_title_10126000000] 小遙
+[quest_group_title_10124000000] 瑪奧
+[quest_title_1030212000603070] 第一次組成隊伍！
+[quest_title_1030212000603010] ＶＳ　帕希歐的訓練家
+[quest_title_1030212000603020] ＶＳ　帕希歐的訓練家２
+[quest_title_1030212000603030] ＶＳ　帕希歐的訓練家３
+[quest_title_1030212000603040] ＶＳ　帕希歐的訓練家４
+[quest_title_1030212000603080] 感謝如此快樂的時光！
+[quest_title_1030212000603050] 用大對戰決勝負！
+[quest_title_1030212000603060] 用大對戰決勝負！２
+[quest_title_1030220126000000] 某日的小遙
+[quest_title_1030220126000100] 水躍魚的進化
+[quest_title_1030220126000200] 沼躍魚的進化
+[quest_title_1030210124000000] 某日的瑪奧
+[quest_title_1030421200301010] ＶＳ　帕希歐的訓練家
+[quest_title_1030421200302010] ＶＳ　帕希歐的訓練家２
 [quest_title_1030211000601051] 收集裝飾吧
 [quest_title_1030211000601061] 收集裝飾吧２
 [quest_title_1030211000601071] 收集裝飾吧３
@@ -11148,6 +11627,14 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030211000601101] 收集許多的裝飾吧３
 [quest_title_1030211000601111] 收集更多的裝飾吧
 [quest_title_1030211000601121] 信使鳥的禮物
+[quest_title_1030212000602020] 收集卡片吧
+[quest_title_1030212000602030] 收集卡片吧２
+[quest_title_1030212000602040] 收集卡片吧３
+[quest_title_1030212000602050] 收集好多的卡片吧
+[quest_title_1030212000602060] 收集好多的卡片吧２
+[quest_title_1030212000602070] 收集好多的卡片吧３
+[quest_title_1030212000602080] 收集更多的卡片吧
+[quest_title_1030212000602090] 開運滾滾龍之碰運氣！
 [quest_title_1030210132000000] 某日的阿戴克
 [quest_group_title_10132000000] 阿戴克
 
@@ -11541,6 +12028,22 @@ Wohltaten verteile, möchte sie allen Freude bescheren.
 einem neuen Kostüm daher. Ihr Curelei liebt Blumen
 genauso sehr wie sie. Gemeinsam möchten sie mit ihren
 Blumensteckkünsten allen eine Freude bereiten.
+[10089000000] Der ehemalige König von Team Plasma. Er verfügt über
+wundersame Kräfte und zählt selbst die Legendären
+Pokémon Einalls zu seinen Freunden. Er strebt nach einer
+Welt, in der Menschen und Pokémon koexisitieren können.
+[10126000000] Die überaus hilfsbereite und fröhliche Maike ist die Tochter
+von Professor Birk aus Hoenn. Sie liebt es über alles, mit
+ihren niedlichen Pokémon Feldforschung zu betreiben. 
+[10118400000] Lilly hat ein traditionelles Gewand aus Johto anprobiert.
+Von den leckeren Pollenknödeln, die Bandelby herstellt,
+kann sie anscheinend nicht genug bekommen.
+[10111400000] Siegfried trägt ein traditionelles Gewand aus seiner
+Heimat. Es heißt, er suche auf ganz Passio nach einem
+Cape, das gut zu dem Garados-Muster darauf passt.
+[10124000000] Maho ist ein Captain auf Akala in der Alola-Region. Sie
+hilft außerdem im Restaurant ihrer Familie aus. Ihre
+Gerichte schmecken eher speziell, haben aber einige Fans.
 [10132000000] Der lebenserfahrene ehemalige Champ der Einall-Region.
 Er reist von Ort zu Ort, um jungen Menschen zu erklären,
 wie großartig es ist, mit Pokémon zusammenzuleben.
@@ -11927,6 +12430,21 @@ her Togekiss, a Pokémon known as a bringer of blessings.
 [10008400000] Erika has a new outfit and a flower basket. Together with
 her flower-loving partner, Comfey, she aims to bring
 happiness to all with beautiful flower arrangements.
+[10089000000] N, the former king of Team Plasma, has a special power.
+Befriending even the Legendary Pokémon of Unova, he
+wants a world where people and Pokémon truly coexist. 
+[10126000000] May is a cheerful girl and the daughter of Professor Birch
+from the Hoenn region. She’s great at taking care of
+others and loves cute Pokémon and conducting fieldwork. 
+[10118400000] Lillie challenged herself to try on a traditional Johto outfit.
+The pollen puffs her Ribombee makes are so tasty, she
+tends to eat too many when snacking on them.
+[10111400000] Lance returns in traditional clothing from his hometown.
+Rumor has it he’s been searching the shops on Pasio for a
+cape that matches the Gyarados pattern on his new outfit.
+[10124000000] Mallow is a captain on Akala Island in Alola and works
+at a restaurant where she hones her skills as a chef. Her
+cooking is unique but popular among some.
 [10132000000] Alder is the highly experienced former Champion of
 Unova. He wanders around, telling younger generations
 the good news of a wonderful future with Pokémon.
@@ -12377,6 +12895,28 @@ mano, Erika sueña con que sus hermosos arreglos florales
 hagan feliz a la gente. Siempre cuenta con la ayuda de
 su pequeño Comfey, que comparte con ella su inmenso
 amor por las flores.
+[10089000000] N, el antiguo rey del Equipo Plasma, posee un poder
+especial. Tras haber trabado amistad con el Pokémon
+legendario de Teselia, persigue el ideal de un mundo en
+el que los Pokémon y los humanos puedan coexistir en
+verdadera armonía.
+[10126000000] Es la hija del profesor de la región de Hoenn, Abedul.
+Posee una personalidad alegre y siempre se preocupa por
+el bienestar de los demás. Sus dos pasiones: los Pokémon
+adorables y todo lo que suponga investigar al aire libre.
+[10118400000] Lylia tras animarse a probarse uno de los trajes
+tradicionales de Johto. Le encantan las bolitas de polen
+que Ribombee fabrica. Están tan ricas que a veces come
+demasiadas.
+[10111400000] Lance luce uno de los trajes tradicionales de su tierra
+natal. Se dice que se ha recorrido cada tienda de Passio
+en busca de una capa que vaya a juego con el
+imponente motivo de Gyarados de su traje.
+[10124000000] Una de las Capitanas de la isla de Akala, en la región
+de Alola. Es la cara del restaurante regentado por su
+familia, donde trabaja puliendo sus habilidades culinarias
+que, a pesar de ser un tanto peculiares, se han granjeado
+la adoración de algunos.
 [10132000000] Con muchos años de experiencia a sus espaldas, este
 excampeón de Teselia se dedica a viajar de región en
 región promulgando entre las generaciones más jóvenes
@@ -12758,6 +13298,28 @@ mille bienfaits, elle souhaite apporter le bonheur à tous.
 [10008400000] Erika a une nouvelle tenue et un panier de fleurs.
 Avec son Guérilande, qui adore les fleurs, elle rend son
 entourage heureux avec de beaux arrangements floraux.
+[10089000000] Ce jeune homme aux pouvoirs particuliers est le roi déchu
+de la Team Plasma. On dit qu'il a noué des liens d'amitié
+même avec les Pokémon légendaires d'Unys. Il rêve
+d'un monde où humains et Pokémon vivraient réellement
+en harmonie.
+[10126000000] Originaire de Hoenn, la fille du Professeur Seko est une
+bonne âme au tempérament jovial. Accompagnée de
+Pokémon mignons, elle adore aider son père dans
+ses recherches en pleine nature.
+[10118400000] Lilie se bat dans des habits traditionnels de Johto.
+Les boules de pollen confectionnées par son Rubombelle
+sont si délicieuses qu'il leur arrive de s'en remplir
+l'estomac au point de ne plus rien pouvoir avaler d'autre.
+[10111400000] Peter a revêtu les habits traditionnels de sa région.
+On dit qu'à cette occasion, il parcourt Passio
+à la recherche d'une cape qui irait bien avec le motif
+de ses vêtements rappelant la puissance de Léviator.
+[10124000000] Une des Capitaines de l'île d'Akala à Alola.
+Elle accueille les clients dans le restaurant de sa famille
+et y exerce son talent pour la cuisine. Ses idées
+culinaires ne font pas toujours l'unanimité, mais elles sont
+tout de même populaires auprès de certaines personnes.
 [10132000000] Cet ancien Maître d'Unys a vécu toutes sortes
 d'expériences dans sa vie. Il parcourt le monde pour
 échanger avec les jeunes générations et leur montrer
@@ -13168,6 +13730,25 @@ in grado di donare bontà e dolcezza alle persone.
 di fiori. Condivide la sua passione per le decorazioni
 floreali con Comfey, insieme al quale crea bellissime
 composizioni che rendono tutti felici.
+[10089000000] Ex-sovrano del Team Plasma, è un giovane in possesso
+di capacità speciali. Considera come suoi amici persino
+i Pokémon leggendari di Unima, e sogna di costruire
+un mondo in cui esseri umani e Pokémon possano
+davvero vivere insieme in armonia.
+[10126000000] Figlia del Professor Birch di Hoenn, è una ragazza allegra
+a cui piace prendersi cura degli altri. Ama effettuare
+delle ricerche sul campo insieme ai Pokémon più carini.
+[10118400000] Lylia prova a indossare un abito tradizionale di Johto.
+Le sfere di polline che riceve da Ribombee sono così
+buone che a volte finisce per fare indigestione.
+[10111400000] Lance indossa un vestito tradizionale della sua regione
+d'origine. Pare anche che si aggiri per Pasio alla ricerca
+di un mantello che si abbini perfettamente con la fantasia
+dell'abito, ispirata alla forza di Gyarados.
+[10124000000] Una dei Capitani di Akala, nella regione di Alola,
+attira i clienti del ristorante di famiglia con la sua abilità
+da cuoca. I suoi piatti hanno un gusto molto originale,
+che è comunque apprezzato da alcune persone.
 [10132000000] Ex-Campione di Unima, è un Allenatore di grande
 esperienza. Vuole far capire agli altri quanto sia
 meraviglioso vivere insieme ai Pokémon, e viaggia
@@ -13554,6 +14135,21 @@ trainer_description_ja.lsd
 [10008400000] 花かごを　持ち　新しい衣装に　身を包む　エリカ。
 草花を　愛する　同志として　キュワワーと　一緒に
 きれいな　生け花で　みんなを　幸せにする。
+[10089000000] 特殊な力を　持つ　プラズマ団の王　だった　青年。
+イッシュの　伝説のポケモンすら　トモダチと　呼び
+人とポケモンが　真に共存する世界を　目指している。
+[10126000000] ホウエンの　ポケモン博士　オダマキの　娘で
+ちょっと　お世話焼きな　明るい　女の子。
+かわいい　ポケモンと　フィールドワークが　大好き。
+[10118400000] ジョウトの　伝統的な衣装に　挑戦した　リーリエ。
+アブリボンが　くれる　花粉団子は　おいしいので
+ついつい　食べ過ぎて　しまうことが　あるようだ。
+[10111400000] 故郷の　伝統的な衣装を　着こなした　ワタル。
+力強い　ギャラドスの　柄に　似合うような
+マントを探して　パシオ中を　まわっている　らしい。
+[10124000000] アローラ地方　アーカラ島の　キャプテンの　ひとり。
+食堂の　看板娘として　料理の腕を　ふるう。
+味は　とても　個性的だが　一部の　人に　人気だ。
 [10132000000] 経験豊富な　イッシュ地方の　元チャンピオン。
 ポケモンと共に歩むことの　素晴らしさを　伝えるべく
 各地で　若い世代との　交流を　深めている。
@@ -13939,6 +14535,21 @@ trainer_description_ko.lsd
 [10008400000] 꽃바구니를 들고 새로운 의상을 입은 민화.
 풀꽃을 사랑하는 파트너인 큐아링과 함께
 아름다운 꽃꽂이로 사람들을 행복하게 만든다.
+[10089000000] 특별한 힘을 가진 플라스마단의 왕이었던 청년.
+하나지방의 전설의 포켓몬조차 친구라 부르며
+사람과 포켓몬이 진정으로 공존하는 세계를 바라고 있다.
+[10126000000] 호연지방의 포켓몬 박사인 털보박사의 딸이며
+조금은 남 보살피기를 좋아하는 밝은 트레이너.
+귀여운 포켓몬과 필드워크를 매우 좋아한다.
+[10118400000] 성도의 전통 의상에 도전한 릴리에.
+에리본이 주는 꽃가루경단이 맛있어서
+자기도 모르게 과식해 버리기도 하는 것 같다.
+[10111400000] 고향의 전통적인 의상을 차려입은 목호.
+강력한 갸라도스 무늬에 어울리는
+망토를 찾아 파시오를 헤매고 있다는 것 같다.
+[10124000000] 알로라지방 아칼라섬의 캡틴 중 한 사람.
+식당의 얼굴로서 요리 실력을 발휘한다.
+맛은 상당히 개성적이지만 일부 손님에게 인기가 있다.
 [10132000000] 경험이 풍부한 하나지방의 전 챔피언.
 포켓몬과 함께 걸어가는 훌륭함을 전하고자
 각지에서 젊은 세대와의 교류에 힘쓰고 있다.
@@ -14323,6 +14934,21 @@ trainer_description_zh-TW.lsd
 [10008400000] 帶著花籃並穿上新衣服的莉佳。
 她和花療環環同是熱愛花草的夥伴，
 一起用漂亮的插花為大家帶來幸福。
+[10089000000] 擁有特殊力量的青年，過去是等離子隊主宰者。
+他連合眾的傳說的寶可夢都稱為朋友，
+目標是創造真正能讓人類和寶可夢共存的世界。
+[10126000000] 豐緣的寶可夢博士小田卷的女兒。
+她是一個性格開朗，有些熱心過頭的女孩。
+最喜歡可愛的寶可夢和實地調查。
+[10118400000] 挑戰穿上城都傳統服飾的莉莉艾。
+因為蝶結萌虻給的花粉團太過美味，
+她有時一不小心就會吃太多。
+[10111400000] 身穿故鄉傳統服飾的阿渡。
+他似乎正在帕希歐四處奔走，為的是尋找一件
+合適的披風來搭配展現強大風格的暴鯉龍圖案。
+[10124000000] 阿羅拉地區阿卡拉島隊長中的一人。
+身為飯館招牌店員，經常展現自己的廚藝。
+她做的料理味道特別，但很受一部分的顧客喜愛。
 [10132000000] 經驗豐富的合眾地區前冠軍。
 為了傳達與寶可夢並肩而行的美好，
 他遊走各地致力於加深與年輕世代的交流。
@@ -14417,6 +15043,7 @@ trainer_name_de.lsd
 [ch0084] Forscher
 [ch0085] Trainerhoffnung
 [ch0086] Camper
+[ch0089] N
 [ch0090] Troy
 [ch0091] Cynthia
 [ch0092] Lilia
@@ -14446,6 +15073,7 @@ trainer_name_de.lsd
 [ch0121] Fran
 [ch0124] Maho
 [ch0125] Bromley
+[ch0126] Maike
 [ch0127] Wassili
 [ch0128] Heiko
 [ch0129] Amalia
@@ -14561,6 +15189,7 @@ trainer_name_en.lsd
 [ch0084] Scientist
 [ch0085] Rising Star
 [ch0086] Camper
+[ch0089] N
 [ch0090] Steven
 [ch0091] Cynthia
 [ch0092] Iris
@@ -14590,6 +15219,7 @@ trainer_name_en.lsd
 [ch0121] Plumeria
 [ch0124] Mallow
 [ch0125] Guzma
+[ch0126] May
 [ch0127] Wallace
 [ch0128] Wally
 [ch0129] Zinnia
@@ -14705,6 +15335,7 @@ trainer_name_es.lsd
 [ch0084] Científico
 [ch0085] Entrenadora Promesa
 [ch0086] Campista
+[ch0089] N
 [ch0090] Máximo
 [ch0091] Cintia
 [ch0092] Iris
@@ -14734,6 +15365,7 @@ trainer_name_es.lsd
 [ch0121] Francine
 [ch0124] Lulú
 [ch0125] Guzmán
+[ch0126] Aura
 [ch0127] Plubio
 [ch0128] Blasco
 [ch0129] Tristana
@@ -14849,6 +15481,7 @@ trainer_name_fr.lsd
 [ch0084] Scientifique
 [ch0085] Dresseuse en Herbe
 [ch0086] Fan de Camping
+[ch0089] N
 [ch0090] Pierre Rochard
 [ch0091] Cynthia
 [ch0092] Iris
@@ -14878,6 +15511,7 @@ trainer_name_fr.lsd
 [ch0121] Apocyne
 [ch0124] Barbara
 [ch0125] Guzma
+[ch0126] Flora
 [ch0127] Marc
 [ch0128] Timmy
 [ch0129] Amaryllis
@@ -14993,6 +15627,7 @@ trainer_name_it.lsd
 [ch0084] Scienziato
 [ch0085] Giovane speranza
 [ch0086] Campeggiatore
+[ch0089] N
 [ch0090] Rocco
 [ch0091] Camilla
 [ch0092] Iris
@@ -15022,6 +15657,7 @@ trainer_name_it.lsd
 [ch0121] Plumeria
 [ch0124] Ibis
 [ch0125] Guzman
+[ch0126] Vera
 [ch0127] Adriano
 [ch0128] Lino
 [ch0129] Lyris
@@ -15137,6 +15773,7 @@ trainer_name_ja.lsd
 [ch0084] けんきゅういん
 [ch0085] ホープトレーナー
 [ch0086] キャンプボーイ
+[ch0089] N
 [ch0090] ダイゴ
 [ch0091] シロナ
 [ch0092] アイリス
@@ -15166,6 +15803,7 @@ trainer_name_ja.lsd
 [ch0121] プルメリ
 [ch0124] マオ
 [ch0125] グズマ
+[ch0126] ハルカ
 [ch0127] ミクリ
 [ch0128] ミツル
 [ch0129] ヒガナ
@@ -15281,6 +15919,7 @@ trainer_name_ko.lsd
 [ch0084] 연구원
 [ch0085] 호프 트레이너
 [ch0086] 캠프보이
+[ch0089] N
 [ch0090] 성호
 [ch0091] 난천
 [ch0092] 아이리스
@@ -15310,6 +15949,7 @@ trainer_name_ko.lsd
 [ch0121] 플루메리
 [ch0124] 마오
 [ch0125] 구즈마
+[ch0126] 봄이
 [ch0127] 윤진
 [ch0128] 민진
 [ch0129] 피아나
@@ -15425,6 +16065,7 @@ trainer_name_zh-TW.lsd
 [ch0084] 研究員
 [ch0085] 新星訓練家
 [ch0086] 露營少年
+[ch0089] Ｎ
 [ch0090] 大吾
 [ch0091] 竹蘭
 [ch0092] 艾莉絲
@@ -15454,6 +16095,7 @@ trainer_name_zh-TW.lsd
 [ch0121] 布爾美麗
 [ch0124] 瑪奧
 [ch0125] 古茲馬
+[ch0126] 小遙
 [ch0127] 米可利
 [ch0128] 滿充
 [ch0129] 希嘉娜
@@ -15706,7 +16348,6 @@ Möchtest du zur Gefährtenepisode?
 [common_widget/trainer_detail_050] Angaben gelten für Level 1 der aktuellen ★-Zahl
 mit allen Attacken und Fähigkeiten erlernt.
 [common_widget/trainer_detail_051] Glücksfähigkeit
-[common_widget/trainer_detail_052] Typenfähigkeit
 [common_widget/trainer_detail_053] Bedingungen
 [common_widget/trainer_detail_054] Effekt
 [common_widget/trainer_detail_055] Zusatzeffekte
@@ -15781,6 +16422,25 @@ wurde zu einem
 [common_widget/filter_031] 1
 [common_widget/filter_032] 2
 [common_widget/filter_033] 3
+[common_widget/filter_034] Gefährten
+[common_widget/filter_035] Teamfähigkeiten
+[common_widget/filter_036] Erlernte Att.
+[common_widget/filter_037] Region
+[common_widget/filter_038] Gruppe
+[common_widget/filter_039] Mode
+[common_widget/filter_040] Sonstiges
+[common_widget/filter_041] Attackenkategorie
+[common_widget/filter_042] Attackentyp
+[common_widget/filter_043] Statusprobleme
+[common_widget/filter_044] Statusveränderungen
+[common_widget/filter_045] Seiten-Effekt
+[common_widget/filter_046] Erhöht Werte von Mitstreitern
+[common_widget/filter_047] Attackenziel
+[common_widget/filter_048] Heilung
+[common_widget/filter_049] Senkt Werte der Gegner
+[common_widget/filter_050] Spezialeffekt
+[common_widget/filter_051] Bonus-Effekt
+[common_widget/filter_052] Ursprüngliche Anzahl an ★
 [common_widget/sort_001] ★-Zahl
 [common_widget/sort_002] Gefährtenattacke
 [common_widget/sort_003] KP
@@ -16149,7 +16809,6 @@ Jump to Sync Pair Stories now?
 [common_widget/trainer_detail_050] Maximum stats at current ★s
 with all moves and skills unlocked
 [common_widget/trainer_detail_051] Lucky Skills
-[common_widget/trainer_detail_052] Type Skills
 [common_widget/trainer_detail_053] Conditions
 [common_widget/trainer_detail_054] Effects
 [common_widget/trainer_detail_055] Additional Effects
@@ -16221,6 +16880,25 @@ into [Name:PokemonName ]!
 [common_widget/filter_031] 1 Skill
 [common_widget/filter_032] 2 Skills
 [common_widget/filter_033] 3 Skills
+[common_widget/filter_034] Sync Pairs
+[common_widget/filter_035] Theme Skills
+[common_widget/filter_036] Known Moves
+[common_widget/filter_037] Region
+[common_widget/filter_038] Trainer Group
+[common_widget/filter_039] Fashion
+[common_widget/filter_040] Other
+[common_widget/filter_041] Move Category
+[common_widget/filter_042] Move Type
+[common_widget/filter_043] Status Condition
+[common_widget/filter_044] Status Change
+[common_widget/filter_045] Field Effect
+[common_widget/filter_046] Raises Ally Stat
+[common_widget/filter_047] Move Target
+[common_widget/filter_048] Recovery
+[common_widget/filter_049] Lowers Opponent Stat
+[common_widget/filter_050] Special Effect
+[common_widget/filter_051] Special Bonuses
+[common_widget/filter_052] Initial Number of ★s
 [common_widget/sort_001] Number of ★s
 [common_widget/sort_002] Sync Move
 [common_widget/sort_003] HP
@@ -16570,8 +17248,6 @@ se hará más fuerte.
 ¿Quieres ir a los episodios compi?
 [common_widget/trainer_detail_050] Características máximas de esta pareja con el número actual de ★, a Nv. 1 y con todos sus movimientos y habilidades pasivas desbloqueados.
 [common_widget/trainer_detail_051] Habilidades fortuitas
-[common_widget/trainer_detail_052] Habilidad
-de tipo
 [common_widget/trainer_detail_053] Requisitos
 [common_widget/trainer_detail_054] Efectos
 [common_widget/trainer_detail_055] Efectos secundarios
@@ -16646,6 +17322,25 @@ evolución?
 [common_widget/filter_031] 1
 [common_widget/filter_032] 2
 [common_widget/filter_033] 3
+[common_widget/filter_034] Compis
+[common_widget/filter_035] Hab. de equipo
+[common_widget/filter_036] Mov. conocidos
+[common_widget/filter_037] Región
+[common_widget/filter_038] Categoría
+[common_widget/filter_039] Estilo
+[common_widget/filter_040] Otros
+[common_widget/filter_041] Categoría de los movimientos
+[common_widget/filter_042] Tipo de los movimientos
+[common_widget/filter_043] Problemas de estado
+[common_widget/filter_044] Cambios de estado
+[common_widget/filter_045] Efectos de terreno
+[common_widget/filter_046] Mejora las características aliadas
+[common_widget/filter_047] Objetivo del movimiento
+[common_widget/filter_048] Recuperación
+[common_widget/filter_049] Reduce las características rivales
+[common_widget/filter_050] Efecto especial
+[common_widget/filter_051] Efecto adicional
+[common_widget/filter_052] Número de ★ original
 [common_widget/sort_001] Número de ★
 [common_widget/sort_002] Movimiento compi
 [common_widget/sort_003] PS
@@ -16999,7 +17694,6 @@ la force du Duo.
 Afficher les épisodes Duo ?
 [common_widget/trainer_detail_050] Stats du Duo au nombre d'★ actuel et au niveau 1, avec toutes les capacités et talents passifs débloqués.
 [common_widget/trainer_detail_051] Talents surprise
-[common_widget/trainer_detail_052] Talents de type
 [common_widget/trainer_detail_053] Conditions
 [common_widget/trainer_detail_054] Effet
 [common_widget/trainer_detail_055] Effets additionnels.
@@ -17076,6 +17770,26 @@ a évolué en
 [common_widget/filter_031] 1
 [common_widget/filter_032] 2
 [common_widget/filter_033] 3
+[common_widget/filter_034] Duo
+[common_widget/filter_035] Talent d'équipe
+[common_widget/filter_036] Capacité
+apprise
+[common_widget/filter_037] Région
+[common_widget/filter_038] Catégorie de Dresseur
+[common_widget/filter_039] Tenue
+[common_widget/filter_040] Autres
+[common_widget/filter_041] Catégorie de capacité
+[common_widget/filter_042] Type
+[common_widget/filter_043] Altération de statut
+[common_widget/filter_044] Changement de statut
+[common_widget/filter_045] Effet sur le terrain
+[common_widget/filter_046] Hausse des stats des alliés
+[common_widget/filter_047] Cible
+[common_widget/filter_048] Soin et régénération
+[common_widget/filter_049] Baisse des stats des ennemis
+[common_widget/filter_050] Effet spécial
+[common_widget/filter_051] Effet bonus
+[common_widget/filter_052] Nombre original d'★
 [common_widget/sort_001] Nombre d'★
 [common_widget/sort_002] Capacité Duo
 [common_widget/sort_003] PV
@@ -17431,7 +18145,6 @@ l'Unità diventerà più forte!
 Vuoi andare agli episodi Unità?
 [common_widget/trainer_detail_050] Valori per l'Unità al numero di ★ attuale, al L. 1 e con tutte le mosse e abilità passive imparate.
 [common_widget/trainer_detail_051] Talenti
-[common_widget/trainer_detail_052] Tipabilità
 [common_widget/trainer_detail_053] Requisiti
 [common_widget/trainer_detail_054] Effetti
 [common_widget/trainer_detail_055] Effetti aggiuntivi
@@ -17502,6 +18215,25 @@ dell'evoluzione?
 [common_widget/filter_031] 1
 [common_widget/filter_032] 2
 [common_widget/filter_033] 3
+[common_widget/filter_034] Unità
+[common_widget/filter_035] Squadrabilità
+[common_widget/filter_036] Mosse imparate
+[common_widget/filter_037] Regione
+[common_widget/filter_038] Categoria
+[common_widget/filter_039] Stile
+[common_widget/filter_040] Altro
+[common_widget/filter_041] Categoria delle mosse
+[common_widget/filter_042] Tipo delle mosse
+[common_widget/filter_043] Problemi di stato
+[common_widget/filter_044] Variazioni di stato
+[common_widget/filter_045] Effetti sul campo
+[common_widget/filter_046] Aumento statistiche alleati
+[common_widget/filter_047] Bersaglio della mossa
+[common_widget/filter_048] Recupero PS e aumento barra mosse
+[common_widget/filter_049] Riduzione statistiche avversari
+[common_widget/filter_050] Effetti particolari
+[common_widget/filter_051] Effetti bonus
+[common_widget/filter_052] Numero di ★ iniziale
 [common_widget/sort_001] Numero di ★
 [common_widget/sort_002] Unimossa
 [common_widget/sort_003] PS
@@ -17847,7 +18579,6 @@ MAX
 [common_widget/trainer_detail_050] ※現在の★の数におけるLv.1/
 　わざ・スキル習得をすべて行った状態
 [common_widget/trainer_detail_051] ポテンシャル
-[common_widget/trainer_detail_052] タイプスキル
 [common_widget/trainer_detail_053] 発動条件
 [common_widget/trainer_detail_054] 効果
 [common_widget/trainer_detail_055] 追加効果
@@ -17917,6 +18648,25 @@ Lv.MAX
 [common_widget/filter_031] 1個
 [common_widget/filter_032] 2個
 [common_widget/filter_033] 3個
+[common_widget/filter_034] バディーズ
+[common_widget/filter_035] チームスキル
+[common_widget/filter_036] 覚えているわざ
+[common_widget/filter_037] 地方
+[common_widget/filter_038] 分類
+[common_widget/filter_039] ファッション
+[common_widget/filter_040] その他
+[common_widget/filter_041] わざの分類
+[common_widget/filter_042] わざのタイプ
+[common_widget/filter_043] 状態異常
+[common_widget/filter_044] 状態変化
+[common_widget/filter_045] 場の効果
+[common_widget/filter_046] 味方の能力アップ
+[common_widget/filter_047] わざの対象
+[common_widget/filter_048] 回復
+[common_widget/filter_049] 相手の能力ダウン
+[common_widget/filter_050] 特殊な効果
+[common_widget/filter_051] ボーナス効果
+[common_widget/filter_052] 元の★の数
 [common_widget/sort_001] ★の数
 [common_widget/sort_002] バディーズわざ
 [common_widget/sort_003] HP
@@ -18270,7 +19020,6 @@ MAX
 [common_widget/trainer_detail_050] ※현재 ★의 수에서 진행할 수 있는
 Lv.1/기술・스킬 습득을 모두 완료한 상태
 [common_widget/trainer_detail_051] 포텐셜
-[common_widget/trainer_detail_052] 타입스킬
 [common_widget/trainer_detail_053] 발동 조건
 [common_widget/trainer_detail_054] 효과
 [common_widget/trainer_detail_055] 추가 효과
@@ -18342,6 +19091,25 @@ Lv.MAX
 [common_widget/filter_031] 1개
 [common_widget/filter_032] 2개
 [common_widget/filter_033] 3개
+[common_widget/filter_034] 버디즈
+[common_widget/filter_035] 팀스킬
+[common_widget/filter_036] 기억하고 있는 기술
+[common_widget/filter_037] 지방
+[common_widget/filter_038] 분류
+[common_widget/filter_039] 패션
+[common_widget/filter_040] 그 외
+[common_widget/filter_041] 기술 분류
+[common_widget/filter_042] 기술 타입
+[common_widget/filter_043] 상태 이상
+[common_widget/filter_044] 상태 변화
+[common_widget/filter_045] 필드 효과
+[common_widget/filter_046] 같은 편의 능력업
+[common_widget/filter_047] 기술 대상
+[common_widget/filter_048] 회복
+[common_widget/filter_049] 상대의 능력다운
+[common_widget/filter_050] 특수한 효과
+[common_widget/filter_051] 보너스 효과
+[common_widget/filter_052] 원래 ★의 수
 [common_widget/sort_001] ★의 수
 [common_widget/sort_002] 버디즈기술
 [common_widget/sort_003] HP
@@ -18680,7 +19448,6 @@ MAX
 [common_widget/trainer_detail_050] ※此為在目前★數且等級為Lv.1時
 　學會了所有招式及技能的狀態
 [common_widget/trainer_detail_051] 潛能
-[common_widget/trainer_detail_052] 屬性技能
 [common_widget/trainer_detail_053] 發動條件
 [common_widget/trainer_detail_054] 效果
 [common_widget/trainer_detail_055] 追加效果
@@ -18747,6 +19514,25 @@ Lv.MAX
 [common_widget/filter_031] 1個
 [common_widget/filter_032] 2個
 [common_widget/filter_033] 3個
+[common_widget/filter_034] 拍組
+[common_widget/filter_035] 隊伍技能
+[common_widget/filter_036] 已學會的招式
+[common_widget/filter_037] 地區
+[common_widget/filter_038] 分類
+[common_widget/filter_039] 服裝
+[common_widget/filter_040] 其他
+[common_widget/filter_041] 招式分類
+[common_widget/filter_042] 招式屬性
+[common_widget/filter_043] 異常狀態
+[common_widget/filter_044] 狀態變化
+[common_widget/filter_045] 場地效果
+[common_widget/filter_046] 我方能力提升
+[common_widget/filter_047] 招式對象
+[common_widget/filter_048] 回復
+[common_widget/filter_049] 對手能力下降
+[common_widget/filter_050] 特殊效果
+[common_widget/filter_051] 獎勵效果
+[common_widget/filter_052] 原有★數
 [common_widget/sort_001] ★數
 [common_widget/sort_002] 拍組招式
 [common_widget/sort_003] HP
@@ -20964,7 +21750,6 @@ Sammle dabei Punkte, um Items zu erhalten!
 [home/quest_list_119] Eilkampfevent
 [home/quest_list_120] Event abgeschlossen
 [home/quest_list_121] Abholungszeitraum für Rangboni
-[home/quest_list_122] Rangboni werden ausgerechnet
 [home/quest_list_123] Rang-Event
 [home/quest_list_125] Rang
 [home/quest_list_126] Boosts
@@ -20986,6 +21771,7 @@ deiner gesammelten Punkte die notwendige Höhe erreicht.
 des Events erreicht hast.
 [home/quest_list_140] Rangboni-Liste
 [home/quest_list_141] Gesamtpunkteboni-Liste
+[home/quest_list_142] Kämpfe und Boni aktualisiert
 [home/quest_list_143] Nach Ende eines Kampfes im
 Rang-Event hast du die Chance, einen
 Boost für den nächsten Kampf zu
@@ -21004,6 +21790,14 @@ Du wurdest aus der Rangliste entfernt.
 [home/quest_list_151] Dein Rang
 [home/quest_list_152] Spitzenplatzierungen
 [home/quest_list_153] Rangboniplatzierungen
+[home/quest_list_155] Wird freigeschaltet, wenn du bestimmte
+Missionen abgeschlossen hast.
+[home/quest_list_158] Wenn du dieses Pokémon
+weiterentwickelst, ändern sich einige
+seiner Attacken. Diese Änderungen
+können nicht rückgängig gemacht
+werden. Möchtest du dennoch damit
+fortfahren?
 [home/quest_list_159] [Digit:8digits ] P.
 [home/quest_list_160] Punkte: [Digit:8digits ]!
 Belohnung erhalten!
@@ -21144,7 +21938,7 @@ Gefährtengespannen, um einen Punktebonus zu erhalten.
 neuesten Stand entspricht.
 [home/quest_detail_128] × [Digit:5digits ]
 [home/quest_detail_129] [Digit:8digits ] Pkt. erreicht!
-[home/quest_detail_130] Punkte erhalten!
+[home/quest_detail_130] Belohnung erhalten!
 [home/quest_detail_131] [Name:RankingGradeName ]: Rang [Digit:7digits ]
 [home/quest_detail_132] Rangbonus erhalten!
 [home/quest_detail_133] Boost erhalten!
@@ -21156,9 +21950,11 @@ Boost für den nächsten Kampf zu erhalten. Du kannst maximal drei
 Boosts pro Tag gewinnen.
 [home/quest_detail_137] Höhere Attacken-Level bringen größere Boni!
 [home/quest_detail_138] Rang
+[home/quest_detail_139] Teamfähigkeiten
 [home/quest_detail_140] Unter [Digit:2digits Idx="1" ]:[Digit:2digits Idx="2" ]
 [home/quest_detail_141] Gesamtpunktebonus
 [home/quest_detail_142] Rangbonus
+[home/quest_detail_143] Hinweis: Punkte, die die maximale Punktzahl überschreiten, werden nicht mitgerechnet.
 [home/home_001] Laden
 [home/home_002] Abenteuer
 [home/home_003] Team
@@ -21387,8 +22183,11 @@ ab folgendem Datum wieder verfügbar:
 [home/champion_battle_012] Im Gang
 [home/champion_battle_013] An bereits abgeschlossenen Kämpfen
 kannst du erst zu Beginn einer neuen
-Woche erneut teilnehmen. Sie sind ab
-folgendem Datum wieder verfügbar:
+Woche oder durch Zurücksetzen erneut
+teilnehmen.
+
+Sie sind ab dem folgendem Datum
+wieder verfügbar:
 [Name:DateTime ]
 [home/champion_battle_014] Bis zu Beginn einer neuen Woche
 kannst du an keinem Champkampf
@@ -21452,6 +22251,78 @@ Champ besiegt hast.
 [home/champion_battle_035] Tipps
 [home/champion_battle_036] Möchtest du dir die Tipps für diesen
 Kampf ansehen?
+[home/champion_battle_037] [Name:ChampionBattleRegion ] jetzt verfügbar!
+[home/champion_battle_038] Champkampf eröffnet
+[home/champion_battle_039] [Name:ChampionBattleRegion ] ist nun im Champkampf verfügbar.
+[home/champion_battle_040] Elitemodus
+[home/champion_battle_041] AN
+[home/champion_battle_042] AUS
+[home/champion_battle_043] Gesamtpunktzahl
+[home/champion_battle_044] P.
+[home/champion_battle_046] Zurücksetzen
+[home/champion_battle_049] Belohnungsliste
+[home/champion_battle_050] Wird freigeschaltet, nachdem du mit Gefährten aller Typen in die Ruhmeshalle eingezogen bist und dein Emblem vervollständigt hast.
+[home/champion_battle_051] Hinweis: Im Champkampf erhältst du ab dem Schwierigkeitsgrad Schwer Lv. 1 nur einmal pro Woche Abschlussboni für Kämpfe.
+[home/champion_battle_052] Nachdem du mit Gefährten aller Typen
+in die Ruhmeshalle eingezogen bist und
+dein Emblem vervollständigt hast,
+kannst du deinen Kampffortschritt
+zurücksetzen und erneut am
+Champkampf teilnehmen.
+[home/champion_battle_053] Da du diese Woche noch nicht in die
+Ruhmeshalle eingezogen bist, kannst du
+deinen Kampffortschritt nicht
+zurücksetzen.
+[home/champion_battle_054] Du kannst erneut am Champfkampf
+teilnehmen, indem du deinen
+Kampffortschritt zurücksetzt. Deine
+Gesamtpunktzahl wird ebenfalls
+zurückgesetzt. Möchtest du erneut am
+Champkampf teilnehmen und eine
+höhere Gesamtpunktzahl anstreben?
+[home/champion_battle_055] Hinweis: Du kannst für abgeschlossene Kämpfe nur
+einen Abschlussbonus pro Woche erhalten. Du erhältst
+Gesamtpunkteboni für eine bereits erreichte Punktzahl
+kein zweites Mal. Jedoch kannst du Gesamtpunkteboni
+für eine höhere Punktzahl erhalten.
+[home/champion_battle_056] Nur im Elitemodus verfügbar
+[home/champion_battle_057] Glückwunsch zu deinem Sieg! Berühre
+die „Zurücksetzen“-Schaltfläche am
+unteren Bildschirmrand, um deinen
+Kampffortschritt zurückzusetzen und
+erneut am Champkampf
+teilzunehmen. Versuche im Elitemodus
+noch mehr Punkte zu erhalten! Du
+erhältst Abschlussboni und
+Gesamtpunkteboni nur einmal, auch
+wenn du deinen Kampffortschritt
+zurücksetzt. Nachdem dein
+Kampffortschritt ab dem folgenden
+Datum automatisch zurückgesetzt
+wird, kannst du erneut Belohnungen
+erhalten:
+[Name:DateTime ]. 
+Dabei ändern sich die Sonderregeln
+und die Pokémon der Gegner. Bereite
+deine Gefährtengespanne also gezielt
+auf den nächsten Anlauf vor!
+[home/champion_battle_058] Gesamtpunktebonus
+[home/champion_battle_059] Du hast dein Emblem vervollständigt
+und kannst nun den Elitemodus
+auswählen.
+[home/champion_battle_060] Optionen
+[home/champion_battle_061] Je stärker du deine Gegner machst, desto
+mehr Punkte und Boni kannst du erhalten.
+[home/champion_battle_062] Erreichte Punktzahl
+[home/champion_battle_063] Deine Gesamtpunkzahl wird am [Name:DateTime ] zurückgesetzt, wodurch du bereits abgeholte Belohnungen erneut erhalten kannst. Über „Zurücksetzen“ kannst du Belohnungen nicht erneut erhalten.
+[home/champion_battle_064] Wird freigeschaltet, wenn du bis zum
+folgenden Datum die notwendigen
+Bedingungen erfüllt hast:
+[Name:DateTime ]
+[home/champion_battle_065] Optionen (Details)
+[home/champion_battle_066] Wird freigeschaltet, wenn du den
+Champ besiegt hast und du in die
+Ruhmeshalle eingezogen bist.
 
 ===========
 home_en.lsd
@@ -21593,7 +22464,6 @@ collect all the featured rewards!
 [home/quest_list_119] Time Trial Event
 [home/quest_list_120] Event Complete
 [home/quest_list_121] Prestige Reward Claim Period
-[home/quest_list_122] Results coming soon!
 [home/quest_list_123] Prestige Event
 [home/quest_list_125] Prestige Ranking
 [home/quest_list_126] Boost
@@ -21617,6 +22487,7 @@ the required amount of total points listed here.
 ranking calculated by your final total prestige points.
 [home/quest_list_140] Prestige Rewards
 [home/quest_list_141] Tier Rewards
+[home/quest_list_142] Newly Refreshed
 [home/quest_list_143] After completing a prestige event
 battle, you have a chance to win a
 point boost. Winning a boost will
@@ -21636,6 +22507,12 @@ been eliminated from the ranking.
 [home/quest_list_151] Your Prestige Rank
 [home/quest_list_152] Prestige Rank Leaderboard
 [home/quest_list_153] Reward Group Ranking
+[home/quest_list_155] Complete the designated mission to unlock
+[home/quest_list_158] Evolving this Pokémon will change
+some of its moves. These changes
+cannot be reverted.
+
+Are you sure you want to continue?
 [home/quest_list_159] [Digit:8digits ] pts
 [home/quest_list_160] [Digit:8digits ] Total
 Points Earned!
@@ -21787,9 +22664,11 @@ point boost. Winning a boost will provide boosted points in the next
 battle. You can win up to a total of three boosts per day.
 [home/quest_detail_137] Higher move levels give larger bonuses!
 [home/quest_detail_138] Prestige Rank
+[home/quest_detail_139] Theme Skills
 [home/quest_detail_140] Under [Digit:2digits Idx="1" ]:[Digit:2digits Idx="2" ]
 [home/quest_detail_141] Tier Rewards
 [home/quest_detail_142] Prestige Rewards
+[home/quest_detail_143] Total does not include points that exceed the maximum.
 [home/home_001] Shop
 [home/home_002] Explore
 [home/home_003] Team
@@ -22009,7 +22888,8 @@ Champion Stadium will reset
 [home/champion_battle_009] Rec. Lv. [Digit:3digits ]
 [home/champion_battle_012] In Progress
 [home/champion_battle_013] Battles in the Champion Stadium can
-only be completed once per week.
+only be completed once per week or
+per reset.
 
 Champion Stadium will reset
 [Name:DateTime ]
@@ -22072,6 +22952,47 @@ you defeat the Champion.
 [home/champion_battle_035] Tips
 [home/champion_battle_036] Would you like to see tips for
 this battle?
+[home/champion_battle_037] The [Name:ChampionBattleRegion ] is on!
+[home/champion_battle_038] Champion Stadium
+[home/champion_battle_039] The [Name:ChampionBattleRegion ] is now available in the Champion Stadium.
+[home/champion_battle_040] Master Mode
+[home/champion_battle_041] ON
+[home/champion_battle_042] OFF
+[home/champion_battle_043] Total Points
+[home/champion_battle_044] pts
+[home/champion_battle_046] Reset
+[home/champion_battle_049] Rewards
+[home/champion_battle_050] To unlock this feature, enter all 18 types of sync pairs into the Hall of Fame to complete the medal.
+[home/champion_battle_051] Note: Completion rewards for Champion Stadium battles of Hard Lv. 1 difficulty and higher can only be obtained once per week.
+[home/champion_battle_052] After entering all 18 types of sync pairs into the Hall of Fame to complete the medal, you can use the reset button to reset your progress and start the challenge again.
+[home/champion_battle_053] You must enter the Hall of Fame this week in order to unlock the reset feature.
+[home/champion_battle_054] This will reset your progress and allow you to start the challenge again. The points you earned will be reset, so you can aim to score an even higher total.
+
+Would you like to continue?
+[home/champion_battle_055] Note: Completion rewards can only be obtained once per week. You cannot obtain rewards for total point reward tiers that you’ve already completed. However, you can obtain rewards for completing higher tiers.
+[home/champion_battle_056] Only available on master mode.
+[home/champion_battle_057] Congratulations!
+You can now tap the Reset button at the bottom of the screen to reset your progress and start the challenge again. Try turning on master mode to aim for even more points!
+
+Completion rewards and total point rewards you’ve already claimed cannot be obtained again. However, after the following date, all progress will be reset and these rewards will be obtainable again.
+[Name:DateTime ]
+
+The special parameters and Pokémon your opponents use will also be reset, so you’ll want to level up lots of sync pairs to get ready for the next challenge!
+[home/champion_battle_058] Total Point Rewards
+[home/champion_battle_059] Now that you’ve completed
+the medal, you can test your skills
+on master mode!
+[home/champion_battle_060] Options
+[home/champion_battle_061] You can earn more points and rewards
+by making your opponents stronger.
+[home/champion_battle_062] Record Total
+[home/champion_battle_063] Note: Points will be reset and completion rewards and total point rewards you’ve already claimed will become obtainable again starting [Name:DateTime ]. They cannot be obtained again using the Reset button.
+[home/champion_battle_064] This feature can be unlocked once
+you meet the requirements starting
+[Name:DateTime ].
+[home/champion_battle_065] Option Details
+[home/champion_battle_066] To unlock, defeat the Champion
+and enter the Hall of Fame.
 
 ===========
 home_es.lsd
@@ -22216,7 +23137,6 @@ puntos y consigue todos los premios especiales.
 [home/quest_list_119] Evento Contrarreloj
 [home/quest_list_120] Evento terminado
 [home/quest_list_121] Plazo de recepción de los premios por clasificación
-[home/quest_list_122] Aún se están calculando los resultados.
 [home/quest_list_123] Evento clasificatorio
 [home/quest_list_125] Ver clasificación
 [home/quest_list_126] Multiplicador
@@ -22233,13 +23153,14 @@ clasificados
 [home/quest_list_135] Clasificación
 por premios
 [home/quest_list_136] Premios por clasificación
-[home/quest_list_137] Calculando clasificación...
+[home/quest_list_137] Calculando...
 [home/quest_list_138] Nota: Conseguirás los premios de evento tras alcanzar la
 cantidad necesaria de puntos al término de un combate.
 [home/quest_list_139] Nota: Los premios por clasificación se distribuirán conforme
 a tu puesto en la clasificación al término del evento.
 [home/quest_list_140] Premios clasificación
 [home/quest_list_141] Premios puntuación
+[home/quest_list_142] Restablecimiento semanal
 [home/quest_list_143] El multiplicador de puntos se activa con
 cierta probabilidad al término de un
 combate, y otorgará más puntos en el
@@ -22259,6 +23180,13 @@ guardado ilícitos.
 [home/quest_list_151] Clasificación personal
 [home/quest_list_152] Primeros clasificados
 [home/quest_list_153] Clasificación por premios
+[home/quest_list_155] Se desbloqueará tras completar la misión
+indicada.
+[home/quest_list_158] Si haces evolucionar a este Pokémon,
+algunos de sus movimientos cambiarán
+y no podrás hacer que los vuelva a
+aprender.
+¿Seguro que quieres continuar?
 [home/quest_list_159] [Digit:8digits ] ptos.
 [home/quest_list_160] ¡[Digit:8digits ] puntos!
 ¡Premio conseguido!
@@ -22397,8 +23325,8 @@ de puntos.
 [home/quest_detail_124] Bonus de formación
 [home/quest_detail_125] Bonus adicional
 [home/quest_detail_126] [Name:RankingGradeShortName ] [Digit:7digits ]
-[home/quest_detail_127] Es posible que la clasificación no esté actualizada en el momento
-de la visualización.
+[home/quest_detail_127] Nota: Es posible que la clasificación no esté actualizada
+en el momento de la visualización.
 [home/quest_detail_128] ×[Digit:5digits ]
 [home/quest_detail_129] ¡[Digit:8digits ] puntos!
 [home/quest_detail_130] ¡Premio conseguido!
@@ -22413,9 +23341,11 @@ de un combate, y otorgará más puntos en el siguiente combate. Este
 puede activarse un máximo de tres veces al día.
 [home/quest_detail_137] ¡Mov. de Nv. más alto te darán más puntos!
 [home/quest_detail_138] Puesto
+[home/quest_detail_139] Habilidad de equipo
 [home/quest_detail_140] Menos de [Digit:2digits Idx="1" ]:[Digit:2digits Idx="2" ]
 [home/quest_detail_141] Premios por puntuación
 [home/quest_detail_142] Premios por clasificación
+[home/quest_detail_143] Los puntos que superen el límite no se sumarán al total.
 [home/home_001] Tienda
 [home/home_002] Aventura
 [home/home_003] Equipo
@@ -22630,8 +23560,10 @@ comience una nueva semana el
 [home/champion_battle_009] Nv. [Digit:3digits ] recom.
 [home/champion_battle_012] En curso
 [home/champion_battle_013] Una vez has completado un combate,
-debes esperar hasta la siguiente
-semana para volver a disputarlo.
+debes restablecerlo o esperar hasta la
+siguiente semana para volver a
+disputarlo.
+
 Podrás volver a intentarlo el
 [Name:DateTime ].
 [home/champion_battle_014] Podrás cambiar la dificultad cuando
@@ -22691,6 +23623,63 @@ Campeona.
 [home/champion_battle_035] Pistas
 [home/champion_battle_036] ¿Quieres ver algunas pistas para este
 combate?
+[home/champion_battle_037] ¡[Name:ChampionBattleRegion ] disponible!
+[home/champion_battle_038] Combates de Campeones
+[home/champion_battle_039] [Name:ChampionBattleRegion ] ahora disponible
+en los Combates de Campeones.
+[home/champion_battle_040] Modo élite
+[home/champion_battle_041] SÍ
+[home/champion_battle_042] NO
+[home/champion_battle_043] Puntos totales
+[home/champion_battle_044] ptos.
+[home/champion_battle_046] Restablecer
+[home/champion_battle_049] Lista de premios
+[home/champion_battle_050] Registra compis de todos los tipos en el
+Hall de la Fama de Passio para
+completar el emblema y desbloquear
+esta función.
+[home/champion_battle_051] Nota: Los premios por completar los Combates
+de Campeones en Difícil (Nivel 1) o superior solo
+se pueden obtener una vez a la semana.
+[home/champion_battle_052] Tras haber registrado compis de todos
+los tipos en el Hall de la Fama de
+Passio y haber obtenido el emblema,
+puedes restablecer tu progreso para
+volver a hacer frente a los combates.
+[home/champion_battle_053] Esta semana aún no has entrado en el
+Hall de la Fama de Passio, así que no
+puedes restablecer el progreso todavía.
+[home/champion_battle_054] Se restablecerá tu progreso y podrás volver a hacer frente a este desafío. Los puntos que consiguieses también se restablecerán y podrás intentar conseguir un total de puntos aún mayor.
+
+¿Quieres continuar?
+[home/champion_battle_055] Nota: Los premios por completar los combates solo pueden obtenerse una vez por semana. Tampoco puedes volver a obtener los premios por puntos totales que ya hayas conseguido, aunque si alcanzas nuevas cotas, podrás obtener los premios correspondientes.
+[home/champion_battle_056] Solo disponible en el modo élite.
+[home/champion_battle_057] ¡Enhorabuena!
+Ahora puedes usar el botón para restablecer tu progreso en la parte inferior de la pantalla para volver a hacer frente al desafío. ¡Activa el modo élite para conseguir aún más puntos!
+
+Ten en cuenta que restablecer el progreso de esta forma no te permite volver a conseguir los premios que ya has conseguido por completar los combates, aunque sí podrás hacerlo cuando se restablezca el progreso el [Name:DateTime ].
+
+Cuando esto suceda, también cambiarán las normas especiales y los Pokémon de los adversarios, de modo que deberás fortalecer a muchos compis para poder adaptarte a cualquier situación.
+[home/champion_battle_058] Premios por puntos totales
+[home/champion_battle_059] Ahora que has completado el emblema,
+podrás ponerte a prueba en el modo
+élite.
+[home/champion_battle_060] Ajustes de fuerza
+[home/champion_battle_061] Cuanto más fortalezcas a tus rivales, más
+puntos y premios podrás obtener.
+[home/champion_battle_062] Récord de puntos
+[home/champion_battle_063] El total de puntos y los premios obtenidos se restablecerán
+el [Name:DateTime ] y podrás
+volver a obtener los premios que hayas conseguido. El
+botón para restablecer no te permite obtenerlos de nuevo.
+[home/champion_battle_064] Esta función se desbloqueará a partir
+de la fecha indicada si cumples los
+requisitos.
+[Name:DateTime ]
+[home/champion_battle_065] Detalles
+[home/champion_battle_066] Se desbloqueará tras vencer al
+Campeón o Campeona e ingresar
+en el Hall de la Fama de Passio.
 
 ===========
 home_fr.lsd
@@ -22837,7 +23826,6 @@ accumuler des points et obtenir les Grands Prix !
 [home/quest_list_119] Évènement contre la montre
 [home/quest_list_120] Évènement terminé
 [home/quest_list_121] Période de disponibilité des récompenses (classement)
-[home/quest_list_122] Calcul des résultats finaux en cours
 [home/quest_list_123] Évènement de classement
 [home/quest_list_125] Classement
 [home/quest_list_126] Multiplicateur
@@ -22861,6 +23849,7 @@ combats si vous avez atteint le nombre de points requis.
 l'évènement en fonction de votre rang final.
 [home/quest_list_140] Liste des récompenses (classement)
 [home/quest_list_141] Liste des récompenses (points totaux)
+[home/quest_list_142] Mise à jour hebdomadaire
 [home/quest_list_143] Lorsque vous terminez un combat
 dans l'évènement de classement,
 un multiplicateur peut s'activer
@@ -22882,6 +23871,13 @@ pas partie du classement.
 [home/quest_list_151] Votre classement
 [home/quest_list_152] Tête du classement
 [home/quest_list_153] Classement par récompenses
+[home/quest_list_155] Débloqué après avoir réussi
+la mission spécifiée.
+[home/quest_list_158] Voulez-vous vraiment poursuivre ?
+Certaines capacités changeront si
+cette évolution arrive à son terme.
+Vous ne pourrez plus revenir
+en arrière.
 [home/quest_list_159] [Digit:8digits ] pt[FR:Qty P="s" ]
 [home/quest_list_160] [Digit:8digits ] point[FR:Qty P="s" ] !
 Récompense obtenue !
@@ -23034,9 +24030,11 @@ un multiplicateur peut s'activer aléatoirement jusqu'à 3 fois par jour.
 Vous recevrez alors plus de points lors de votre prochain combat.
 [home/quest_detail_137] Niveau des capacités élevé = meilleur bonus !
 [home/quest_detail_138] Rang
+[home/quest_detail_139] Talents d'équipe
 [home/quest_detail_140] Moins de [Digit:2digits Idx="1" ]:[Digit:2digits Idx="2" ]
 [home/quest_detail_141] Récompenses (points totaux)
 [home/quest_detail_142] Récompenses (classement)
+[home/quest_detail_143] Les points obtenus qui dépassent la limite de points totaux ne comptent pas.
 [home/home_001] Boutique
 [home/home_002] Aventure
 [home/home_003] Équipe
@@ -23263,9 +24261,11 @@ Date et heure de réinitialisation :
 [home/champion_battle_008] Difficulté
 [home/champion_battle_009] N. recommandé [Digit:3digits ]
 [home/champion_battle_012] En cours
-[home/champion_battle_013] Vous ne pouvez participer qu'à un seul
-Combat de Maître par semaine, même
-après avoir remporté votre combat.
+[home/champion_battle_013] Une fois remportés, vous ne pourrez
+plus participer aux combats jusqu'à
+ce que la semaine soit terminée
+ou que vous réinitialisiez votre
+progression.
 
 Date et heure de réinitialisation :
 [Name:DateTime ]
@@ -23334,6 +24334,90 @@ vous aurez vaincu le Maître.
 [home/champion_battle_035] Conseils
 [home/champion_battle_036] Voulez-vous consulter les conseils pour
 ce combat ?
+[home/champion_battle_037] «  [Name:ChampionBattleRegion ]  » en cours !
+[home/champion_battle_038] Combat de Maître en cours
+[home/champion_battle_039] «  [Name:ChampionBattleRegion ]  »
+est en cours dans
+le Combat de Maître.
+[home/champion_battle_040] Mode Élite
+[home/champion_battle_041] Oui
+[home/champion_battle_042] Non
+[home/champion_battle_043] Points totaux
+[home/champion_battle_044]  
+[home/champion_battle_046] Réinitialiser
+[home/champion_battle_049] Récompenses
+[home/champion_battle_050] Débloqué après avoir fait entrer
+des Duos de tous les types
+au Panthéon de Passio
+et reconstitué l'emblème.
+[home/champion_battle_051] Vous ne pouvez obtenir les récompenses du
+Combat de Maître en Difficile N. 1 ou plus
+qu'une fois par semaine.
+[home/champion_battle_052] Vous pourrez réinitialiser votre
+progression et participer à nouveau
+aux combats après avoir fait entrer
+les Duos de tous les types au Panthéon
+de Passio et reconstitué l'emblème.
+[home/champion_battle_053] Vous ne pouvez pas réinitialiser car
+vous n'avez encore fait votre entrée
+au Panthéon de Passio cette semaine.
+[home/champion_battle_054] Voulez-vous vraiment réinitialiser
+votre progression dans les combats ?
+Ceci vous permettra d'y participer
+à nouveau. Notez que votre total
+de points sera également réinitialisé.
+Vous pourrez participer aux combats
+une nouvelle fois pour tenter d'obtenir
+davantage de points.
+[home/champion_battle_055] Vous ne pourrez pas obtenir une seconde fois
+les récompenses obtenues pour les combats déjà
+terminés. Vous ne recevrez également pas à nouveau
+les récompenses de points totaux. Vous pouvez
+obtenir des récompenses uniquement en franchissant
+de nouveaux paliers.
+[home/champion_battle_056] À obtenir dans le mode Élite.
+[home/champion_battle_057] Félicitations !
+Vous pouvez réinitialiser votre
+progression et participer à nouveau
+aux combats en appuyant sur
+le bouton en bas de l'écran.
+Essayez d'obtenir encore plus
+de points dans le mode Élite !
+Vous ne pourrez pas obtenir
+à nouveau les récompenses et
+les récompenses de points totaux
+déjà reçues, même en réinitialisant
+votre progression.
+
+Vous pouvez cependant obtenir
+ces récompenses à nouveau lors
+de la réinitialisation automatique
+à la date suivante :
+[Name:DateTime ]
+
+À cette occasion, les règles spéciales
+et les Pokémon de vos adversaires
+changeront, alors préparez-vous bien
+et entraînez vos Duos !
+[home/champion_battle_058] Récompenses de points totaux
+[home/champion_battle_059] Vous avez complété l'emblème.
+Vous pouvez donc tenter votre chance
+dans le mode Élite.
+[home/champion_battle_060] Options de combat
+[home/champion_battle_061] Plus les ennemis sont puissants, plus vous
+obtiendrez de points et de récompenses.
+[home/champion_battle_062] Record de points
+[home/champion_battle_063] Les points totaux seront réinitialisés à la date suivante :
+[Name:DateTime ]
+En utilisant le bouton de réinitialisation, vous ne pourrez
+pas obtenir à nouveau les récompenses déjà reçues.
+[home/champion_battle_064] Peut être débloqué à la date suivante
+si les conditions sont remplies :
+[Name:DateTime ]
+[home/champion_battle_065] Options de combat (détails)
+[home/champion_battle_066] Débloqué après avoir vaincu le Maître
+une fois et fait votre entrée
+au Panthéon de Passio.
 
 ===========
 home_it.lsd
@@ -23478,7 +24562,6 @@ degli emblemi!
 [home/quest_list_119] Evento Cronolotta
 [home/quest_list_120] Evento terminato
 [home/quest_list_121] Scadenza per il ritiro delle ricompense classifica:
-[home/quest_list_122] Calcolo della classifica finale in corso
 [home/quest_list_123] Evento con classifica
 [home/quest_list_125] Vai alla classifica
 [home/quest_list_126] Aumenti punti
@@ -23502,6 +24585,7 @@ raggiungendo i punti totali indicati al termine di una lotta.
 dell'evento sulla base della classifica finale.
 [home/quest_list_140] Ricompense classifica
 [home/quest_list_141] Ricompense punteggio
+[home/quest_list_142] Ripristino settimanale
 [home/quest_list_143] Al termine delle lotte dell'evento
 si attiva con una certa probabilità
 l'aumento punti, valido per la lotta
@@ -23521,6 +24605,11 @@ rilevati dei dati irregolari.
 [home/quest_list_151] Classifica personale
 [home/quest_list_152] Primi classificati
 [home/quest_list_153] Classifica per ricompense
+[home/quest_list_155] Si sblocca completando la missione indicata.
+[home/quest_list_158] Se questo Pokémon si evolve,
+alcune mosse cambieranno e non sarà
+più possibile farle tornare come prima.
+Vuoi davvero partire?
 [home/quest_list_159] [Digit:8digits ]
 [home/quest_list_160] [Digit:8digits ] punti!
 Nuova ricompensa!
@@ -23631,7 +24720,7 @@ dei tipi indicati, verrà applicato solo il bonus più alto.
 [home/quest_detail_102] I bonus potenza non si applicano ai PS.
 I bonus punti vengono calcolati per ciascuna Unità.
 [home/quest_detail_103] Tempo necessario
-[home/quest_detail_104] Punti rango ottenibili
+[home/quest_detail_104] Punti categoria ottenibili
 [home/quest_detail_105] Info Cronolotta
 [home/quest_detail_107] [Digit:8digits ] punti!
 Nuova ricompensa!
@@ -23671,9 +24760,11 @@ l'aumento punti, valido per la lotta successiva. L'aumento punti può
 attivarsi fino a un massimo di tre volte al giorno.
 [home/quest_detail_137] I bonus aumentano con il livello delle mosse!
 [home/quest_detail_138] Classifica
+[home/quest_detail_139] Squadrabilità
 [home/quest_detail_140] Meno di [Digit:2digits Idx="1" ]:[Digit:2digits Idx="2" ]
 [home/quest_detail_141] Ricompensa punteggio
 [home/quest_detail_142] Ricompensa classifica
+[home/quest_detail_143] Non puoi ottenere punti oltre il limite massimo.
 [home/home_001] Negozio
 [home/home_002] Avventura
 [home/home_003] Squadra
@@ -23897,9 +24988,10 @@ Prossimo accesso consentito:
 [home/champion_battle_008] Difficoltà
 [home/champion_battle_009] L. [Digit:3digits ] consigliato
 [home/champion_battle_012] In corso
-[home/champion_battle_013] Se completi una lotta, non puoi
-affrontarla di nuovo finché non inizia
-una nuova settimana.
+[home/champion_battle_013] Se completi una lotta, puoi affrontarla
+di nuovo soltanto quando inizia
+una nuova settimana o se effettui
+un ripristino.
 Prossimo accesso consentito:
 [Name:DateTime ].
 [home/champion_battle_014] Non puoi accedere alle altre difficoltà
@@ -23961,6 +25053,86 @@ per prepararti alla prossima sfida!
 affrontare di nuovo la lotta.
 [home/champion_battle_035] Consigli
 [home/champion_battle_036] Vuoi vedere i consigli per la lotta?
+[home/champion_battle_037] È disponibile "[Name:ChampionBattleRegion ]"!
+[home/champion_battle_038] Nuova Lotta dei Campioni
+[home/champion_battle_039] È ora disponibile "[Name:ChampionBattleRegion ]"
+nella Lotta dei Campioni.
+[home/champion_battle_040] Modalità élite
+[home/champion_battle_041] On
+[home/champion_battle_042] Off
+[home/champion_battle_043] Punti totali
+[home/champion_battle_044] 
+[home/champion_battle_046] Ripristina
+[home/champion_battle_049] Ricompense
+[home/champion_battle_050] Si sblocca entrando nella Sala d'Onore
+di Pasio con Unità di tutti i tipi,
+completando così l'emblema.
+[home/champion_battle_051] Nella Lotta dei Campioni di difficoltà "Difficile L. 1"
+o superiore, la ricompensa per il completamento
+delle lotte è ottenibile una sola volta a settimana.
+[home/champion_battle_052] Devi entrare nella Sala d'Onore
+di Pasio con Unità di tutti i tipi,
+completando così l'emblema,
+per poter ripristinare i tuoi progressi
+e affrontare nuovamente le lotte.
+[home/champion_battle_053] Non puoi effettuare un ripristino perché
+questa settimana non hai ancora fatto
+il tuo ingresso nella Sala d'Onore
+di Pasio.
+[home/champion_battle_054] Ripristinare i tuoi progressi ti farà
+perdere i punti accumulati,
+ma ti permetterà di affrontare
+nuovamente le lotte per cercare
+di ottenere un punteggio migliore.
+
+Vuoi procedere con il ripristino?
+[home/champion_battle_055] Non è possibile ottenere nuovamente la ricompensa
+per una lotta già completata durante la settimana
+in corso, né è possibile ottenere nuovamente
+le ricompense già ricevute per i punti totali.
+[home/champion_battle_056] Ottenibile in modalità élite.
+[home/champion_battle_057] Complimenti per la tua vittoria!
+Puoi toccare il pulsante "Ripristina"
+nella parte bassa dello schermo
+per ripristinare i tuoi progressi.
+In questo modo potrai affrontare
+nuovamente le lotte per cercare
+di ottenere un punteggio migliore!
+Anche se effettui un ripristino,
+non potrai comunque ricevere
+di nuovo le ricompense che hai già
+ottenuto per il completamento
+o per i punti accumulati. Nella data
+e ora indicata di seguito,
+i tuoi progressi saranno ripristinati
+automaticamente, e potrai invece
+ottenere nuovamente le ricompense:
+[Name:DateTime ]
+Inoltre, a partire dalla stessa data
+e ora, le regole speciali e i Pokémon
+degli avversari cambieranno. Prepara
+le tue Unità migliori per affrontarli!
+[home/champion_battle_058] Ricompense punti
+[home/champion_battle_059] Ora che hai completato l'emblema,
+puoi affrontare la Lotta dei Campioni
+in modalità élite.
+[home/champion_battle_060] Seleziona opzioni
+[home/champion_battle_061] Rendendo gli avversari più forti, puoi
+ricevere più punti e più ricompense.
+[home/champion_battle_062] Record punti
+[home/champion_battle_063] Punti e ricompense saranno ripristinati in data e ora:
+[Name:DateTime ]
+Potrai così ricevere di nuovo le ricompense già ottenute,
+che non potrai invece ottenere in caso di ripristini manuali.
+[home/champion_battle_064] Si sblocca a partire dalla data e ora
+indicata di seguito se vengono
+soddisfatte determinate condizioni:
+[Name:DateTime ]
+[home/champion_battle_065] Info opzione
+[home/champion_battle_066] Si sblocca sconfiggendo il Campione
+o la Campionessa per la prima volta,
+entrando così nella Sala d'Onore
+di Pasio.
 
 ===========
 home_ja.lsd
@@ -24107,7 +25279,6 @@ Lv.[Digit:2digits ]で解放
 [home/quest_list_119] タイムアタックイベント
 [home/quest_list_120] イベント終了
 [home/quest_list_121] ランキング報酬受け取り期限
-[home/quest_list_122] 集計終了までお待ちください
 [home/quest_list_123] ランキングイベント
 [home/quest_list_125] ランキング確認
 [home/quest_list_126] ブースト
@@ -24131,6 +25302,7 @@ Lv.[Digit:2digits ]で解放
 最終集計のランクによって獲得できます
 [home/quest_list_140] ランキング報酬一覧
 [home/quest_list_141] 累計報酬一覧
+[home/quest_list_142] バトル＆報酬更新
 [home/quest_list_143] ランキングイベントのバトル終了時に
 ブーストの抽選が発生し
 当選すると次のバトルの
@@ -24149,6 +25321,11 @@ Lv.[Digit:2digits ]で解放
 [home/quest_list_151] 自己周辺ランキング
 [home/quest_list_152] TOPランキング
 [home/quest_list_153] 報酬区分ランキング
+[home/quest_list_155] 指定のミッションクリアで解放
+[home/quest_list_158] この進化を行うと一部のわざが変化します
+変化したわざは元に戻すことができません
+
+本当に出発しますか？
 [home/quest_list_159] [Digit:8digits ]pt
 [home/quest_list_160] [Digit:8digits ]pt達成！
 報酬獲得！
@@ -24297,9 +25474,11 @@ Lv.[Digit:2digits ]で解放
 1日3回まで当選し　上限に達するとその日の抽選は終了します
 [home/quest_detail_137] わざレベルが高いほど効果UP！
 [home/quest_detail_138] ランク
+[home/quest_detail_139] チームスキル
 [home/quest_detail_140] [Digit:2digits Idx="1" ]:[Digit:2digits Idx="2" ]未満
 [home/quest_detail_141] 累計報酬
 [home/quest_detail_142] ランキング報酬
+[home/quest_detail_143] ※獲得ポイントの上限を超えた分は加算されません
 [home/home_001] ショップ
 [home/home_002] ぼうけん
 [home/home_003] チーム
@@ -24517,7 +25696,8 @@ GRADE一覧に戻ります
 [home/champion_battle_009] 推奨Lv.[Digit:3digits ]
 [home/champion_battle_012] 挑戦中
 [home/champion_battle_013] 一度クリアしたバトルは
-週が変わるまで挑戦できません
+週が変わるかリセットするまで
+再挑戦できません
 
 挑戦可能になる日時
 [Name:DateTime ]
@@ -24579,6 +25759,86 @@ GRADE一覧に戻ります
 再戦可能になります
 [home/champion_battle_035] ヒント
 [home/champion_battle_036] バトルのヒントを見ますか？
+[home/champion_battle_037] [Name:ChampionBattleRegion ] 開催！
+[home/champion_battle_038] チャンピオンバトル開催
+[home/champion_battle_039] チャンピオンバトルで
+「[Name:ChampionBattleRegion ]」が開催されました
+[home/champion_battle_040] エリートモード
+[home/champion_battle_041] ON
+[home/champion_battle_042] OFF
+[home/champion_battle_043] 累計ポイント
+[home/champion_battle_044] pt
+[home/champion_battle_046] リセット
+[home/champion_battle_049] 報酬一覧
+[home/champion_battle_050] 全てのタイプの
+バディーズをパシオ殿堂入りさせ
+エンブレムを完成させると
+解放されます
+[home/champion_battle_051] ※チャンピオンバトルの難易度「HARD Lv.1」以降の
+クリア報酬はバトルごとに週に1回だけ獲得できます
+[home/champion_battle_052] 全てのタイプの
+バディーズをパシオ殿堂入りさせ
+エンブレムを完成させると
+クリア状況をリセットして
+再挑戦が可能になります
+[home/champion_battle_053] 今週はまだパシオ殿堂入り
+していないため
+リセットできません
+[home/champion_battle_054] バトルのクリア状況を
+リセットして再挑戦可能にします
+累計ポイントもリセットされます
+より高いポイントを目指して
+バトルに再挑戦しましょう
+
+よろしいでしょうか
+[home/champion_battle_055] ※いちどクリアしたバトルを再びクリアしても
+その週はもうクリア報酬は再獲得できません
+いちど到達した累計ポイントを再び達成しても
+累計ポイント報酬は再獲得できません
+新たに到達した累計ポイントの報酬は獲得できます
+[home/champion_battle_056] エリートモードONで獲得できます
+[home/champion_battle_057] クリアおめでとうございます！
+
+画面下のリセットボタンを押すと
+クリア状況をリセットして
+バトルに再挑戦できます
+エリートモードで
+高ポイントを目指しましょう！
+
+リセットボタンで
+クリア状況をリセットしても
+一度獲得したクリア報酬や
+累計ポイント報酬は再獲得できません
+
+以下の日時になると
+クリア状況はリセットされ
+報酬が再獲得できるようになります
+[Name:DateTime ]
+
+その際に
+特殊ルールや相手のポケモンが
+変化しますので
+次回に備えてバディーズを
+育成しましょう！
+[home/champion_battle_058] 累計ポイント報酬
+[home/champion_battle_059] エンブレムを完成させたことで
+エリートモードへ
+挑戦できるようになりました
+[home/champion_battle_060] オプション選択
+[home/champion_battle_061] 相手を強くするほどポイントが貯まり
+追加で報酬がもらえます
+[home/champion_battle_062] 最高到達ポイント
+[home/champion_battle_063] ※累計ポイントは以下の日時でリセットされ
+獲得済みの報酬も再度獲得できるようになります
+[Name:DateTime ]
+ボタンでリセットした場合は再度獲得できません
+[home/champion_battle_064] 以下の日時より
+特定の条件を満たすと
+解放可能になります
+[Name:DateTime ]
+[home/champion_battle_065] オプション詳細
+[home/champion_battle_066] 一度チャンピオンを倒して
+パシオ殿堂入りすると解放されます
 
 ===========
 home_ko.lsd
@@ -24726,7 +25986,6 @@ Lv.[Digit:2digits ]에서 해방
 [home/quest_list_119] 타임어택 이벤트
 [home/quest_list_120] 이벤트 종료
 [home/quest_list_121] 랭킹 보상 수령 기한
-[home/quest_list_122] 집계 종료까지 기다려 주십시오
 [home/quest_list_123] 랭킹 이벤트
 [home/quest_list_125] 랭킹 확인
 [home/quest_list_126] 부스트
@@ -24750,6 +26009,7 @@ Lv.[Digit:2digits ]에서 해방
 최종 집계 랭크에 따라 획득할 수 있습니다
 [home/quest_list_140] 랭킹 보상 일람
 [home/quest_list_141] 합계 보상 일람
+[home/quest_list_142] 배틀&보상 갱신
 [home/quest_list_143] 랭킹 이벤트의 배틀 종료 시에
 부스트 추첨이 발생하며
 당첨되면 다음 배틀의 포인트가 부스트됩니다
@@ -24767,6 +26027,11 @@ Lv.[Digit:2digits ]에서 해방
 [home/quest_list_151] 자기 주변 랭킹
 [home/quest_list_152] TOP 랭킹
 [home/quest_list_153] 보상 구분 랭킹
+[home/quest_list_155] 지정 미션을 클리어하면 해방
+[home/quest_list_158] 이 진화 에리어를 진행하면
+일부 기술이 변경됩니다
+변경된 기술은 원래대로 되돌릴 수 없습니다
+정말 출발하겠습니까?
 [home/quest_list_159] [Digit:8digits ]포인트
 [home/quest_list_160] [Digit:8digits ]포인트 달성!
 보상 획득!
@@ -24913,9 +26178,11 @@ Lv.[Digit:2digits ]에서 해방
 1일 3회까지 당첨되며 상한에 다다르면 그 날의 추첨은 종료됩니다
 [home/quest_detail_137] 기술 레벨이 높을수록 효과 UP!
 [home/quest_detail_138] 랭크
+[home/quest_detail_139] 팀스킬
 [home/quest_detail_140] [Digit:2digits Idx="1" ] : [Digit:2digits Idx="2" ] 미만
 [home/quest_detail_141] 합계 보상
 [home/quest_detail_142] 랭킹 보상
+[home/quest_detail_143] ※획득포인트는 상한 이상 획득할 수 없습니다
 [home/home_001] 숍
 [home/home_002] 모험
 [home/home_003] 팀
@@ -25131,7 +26398,9 @@ WPM배지를 모두 모으면
 [home/champion_battle_009] 권장 Lv.[Digit:3digits ]
 [home/champion_battle_012] 도전 중
 [home/champion_battle_013] 1번 클리어한 배틀은
-1주일이 지날 때까지 도전할 수 없습니다
+1주일이 지나거나 초기화할 때까지
+재도전할 수 없습니다
+
 도전 가능 예정 일시
 [Name:DateTime ]
 [home/champion_battle_014] 챔피언배틀의 다른 난이도에는
@@ -25185,6 +26454,75 @@ WPM배지를 모두 모으면
 재대결할 수 있습니다
 [home/champion_battle_035] 힌트
 [home/champion_battle_036] 배틀 힌트를 보겠습니까?
+[home/champion_battle_037] [Name:ChampionBattleRegion ] 개최!
+[home/champion_battle_038] 챔피언배틀 개최
+[home/champion_battle_039] 챔피언배틀에서
+"[Name:ChampionBattleRegion ]"[Kor:Particle char="ga" ] 개최되었습니다
+[home/champion_battle_040] 엘리트 모드
+[home/champion_battle_041] ON
+[home/champion_battle_042] OFF
+[home/champion_battle_043] 합계포인트
+[home/champion_battle_044] 포인트
+[home/champion_battle_046] 초기화
+[home/champion_battle_049] 보상 일람
+[home/champion_battle_050] 모든 타입의 버디즈를
+파시오 전당등록시키고
+엠블럼을 완성하면 해방됩니다
+[home/champion_battle_051] ※챔피언배틀의 "HARD Lv.1" 난이도 이상의 클리어 보상은
+배틀마다 주 1회만 획득할 수 있습니다
+[home/champion_battle_052] 모든 타입의 버디즈를
+파시오 전당등록시키고
+엠블럼을 완성하면
+클리어 상황을 초기화하고
+재도전할 수 있습니다
+[home/champion_battle_053] 이번 주는 아직 파시오 전당등록을
+진행하지 않았기 때문에
+초기화할 수 없습니다
+[home/champion_battle_054] 배틀 클리어 상황을
+초기화하고 재도전할 수 있습니다
+합계포인트도 초기화됩니다
+더 높은 포인트를 목표로
+배틀에 재도전해 봅시다
+괜찮겠습니까?
+[home/champion_battle_055] ※1번 클리어한 배틀을 다시 클리어해도
+그 주에는 클리어 보상은 다시 획득할 수 없습니다
+1번 도달한 합계포인트를 다시 달성해도
+합계포인트 보상은 다시 획득할 수 없습니다
+새롭게 도달한 합계포인트의 보상은 획득할 수 있습니다
+[home/champion_battle_056] 엘리트 모드를 ON 하면 획득할 수 있습니다
+[home/champion_battle_057] 클리어 축하합니다!
+화면 아래의 초기화 버튼을 누르면
+클리어 상황을 초기화하고
+배틀에 재도전할 수 있습니다
+엘리트 모드에서 높은 포인트를 노려봅시다!
+초기화 버튼에서 클리어 상황을
+초기화하더라도 한번 획득한 클리어 보상이나
+합계포인트 보상은 다시 획득할 수 없습니다
+아래 일시가 되면 클리어 상황은 초기화되며
+보상을 다시 획득할 수 있게 됩니다
+[Name:DateTime ]
+해당 일시에는
+특수 규칙이나 상대의 포켓몬이 변경되니
+다음을 대비하여
+버디즈를 육성해봅시다!
+[home/champion_battle_058] 합계포인트 보상
+[home/champion_battle_059] 엠블럼을 완성하여
+엘리트 모드에 도전할 수 있게 되었습니다
+[home/champion_battle_060] 옵션 선택
+[home/champion_battle_061] 상대를 강하게 할수록 포인트가 모이며
+추가로 보상을 받을 수 있습니다
+[home/champion_battle_062] 최고 도달 포인트
+[home/champion_battle_063] ※합계포인트는 아래 일시에 초기화되며
+획득이 끝난 보상도 다시 획득할 수 있게 됩니다
+[Name:DateTime ]
+버튼을 눌러 초기화한 경우에는 다시 획득할 수 없습니다
+[home/champion_battle_064] 아래 일시부터
+특정 조건을 만족시키면
+해방할 수 있습니다
+[Name:DateTime ]
+[home/champion_battle_065] 옵션 상세
+[home/champion_battle_066] 한 번 챔피언을 쓰러뜨리고
+파시오 전당등록을 진행하면 해방됩니다
 
 ===========
 home_zh-TW.lsd
@@ -25327,7 +26665,6 @@ home_zh-TW.lsd
 [home/quest_list_119] 計時戰活動
 [home/quest_list_120] 活動已結束
 [home/quest_list_121] 排名報酬領取期限
-[home/quest_list_122] 請耐心等待統計結束
 [home/quest_list_123] 排名活動
 [home/quest_list_125] 確認排名
 [home/quest_list_126] 增量
@@ -25351,6 +26688,7 @@ home_zh-TW.lsd
 根據最後統計的等級可獲得排名報酬
 [home/quest_list_140] 排名報酬一覽
 [home/quest_list_141] 總計報酬一覽
+[home/quest_list_142] 對戰＆報酬更新
 [home/quest_list_143] 排名活動的對戰結束後
 會出現增量抽獎
 中獎之後
@@ -25369,6 +26707,11 @@ home_zh-TW.lsd
 [home/quest_list_151] 個人前後排名
 [home/quest_list_152] TOP排名
 [home/quest_list_153] 報酬類別排名
+[home/quest_list_155] 開放條件：
+成功過關指定的任務
+[home/quest_list_158] 進行此進化劇情後部分招式將會改變
+變化後的招式無法復原
+確定要出發嗎？
 [home/quest_list_159] [Digit:8digits ]pt
 [home/quest_list_160] [Digit:8digits ]pt達成！
 獲得報酬！
@@ -25510,9 +26853,11 @@ home_zh-TW.lsd
 中獎上限為１天３次，當日中獎次數達上限時抽獎立即結束
 [home/quest_detail_137] 招式等級越高，效果就提高得越多！
 [home/quest_detail_138] 等級
+[home/quest_detail_139] 隊伍技能
 [home/quest_detail_140] 低於[Digit:2digits Idx="1" ]:[Digit:2digits Idx="2" ]
 [home/quest_detail_141] 總計報酬
 [home/quest_detail_142] 排名報酬
+[home/quest_detail_143] ※超過獲得上限的點數不會列入計算
 [home/home_001] 商店
 [home/home_002] 冒險
 [home/home_003] 隊伍
@@ -25709,8 +27054,9 @@ home_zh-TW.lsd
 [home/champion_battle_008] 難度
 [home/champion_battle_009] 建議Lv.[Digit:3digits ]
 [home/champion_battle_012] 挑戰中
-[home/champion_battle_013] 在進入新的一週之前
+[home/champion_battle_013] 在進入新的一週或進行重設之前
 無法挑戰已過關的對戰
+
 可挑戰時間
 [Name:DateTime ]
 [home/champion_battle_014] 在進入新的一週之前
@@ -25761,6 +27107,76 @@ home_zh-TW.lsd
 [home/champion_battle_034] 打敗冠軍即可再次挑戰
 [home/champion_battle_035] 提示
 [home/champion_battle_036] 是否要查看對戰提示？
+[home/champion_battle_037] [Name:ChampionBattleRegion ]開跑！
+[home/champion_battle_038] 冠軍對戰開辦
+[home/champion_battle_039] 「[Name:ChampionBattleRegion ]」
+正在冠軍對戰中登場
+[home/champion_battle_040] 精英模式
+[home/champion_battle_041] ON
+[home/champion_battle_042] OFF
+[home/champion_battle_043] 總計點數
+[home/champion_battle_044] pt
+[home/champion_battle_046] 重設
+[home/champion_battle_049] 報酬一覽
+[home/champion_battle_050] 讓所有屬性的拍組
+登入帕希歐名人堂
+並完成勳章
+即可開放
+[home/champion_battle_051] ※冠軍對戰從難度「HARD Lv.1」開始
+各對戰的過關報酬一週僅能獲得1次
+[home/champion_battle_052] 讓所有屬性的拍組
+登入帕希歐名人堂
+並完成勳章
+即可重設過關狀態
+再次挑戰對戰
+[home/champion_battle_053] 本週尚未登入帕希歐名人堂
+因此無法重設
+[home/champion_battle_054] 重設對戰的過關狀態
+即可再次挑戰
+總計點數也將一併重設
+為了獲得更高的點數
+再次挑戰對戰吧
+確定要進行重設嗎？
+[home/champion_battle_055] ※即使再次完成已過關的對戰
+也無法重複獲得該週的過關報酬
+即使再次達成已累積到的總計點數
+也無法重複獲得總計點數報酬
+但可獲得總計點數達成新紀錄的報酬
+[home/champion_battle_056] 透過精英模式ON即可獲得
+[home/champion_battle_057] 恭喜過關！
+按下畫面下方的重設按鈕
+將會重設過關狀態
+可再次挑戰對戰
+在精英模式中
+挑戰獲得更高的點數吧！
+即使按下重設按鈕重設過關狀態
+也無法再次得到已獲得的
+過關報酬和總計點數報酬
+過關狀態將於下列時間重設
+重設後即可再次獲得報酬
+[Name:DateTime ]
+屆時特殊規則和對手的寶可夢
+皆會改變
+好好培育拍組
+迎接下次的對戰吧！
+[home/champion_battle_058] 總計點數報酬
+[home/champion_battle_059] 已完成勳章
+可以挑戰精英模式了
+[home/champion_battle_060] 選擇選項
+[home/champion_battle_061] 讓對手越強就能累積越多點數
+並獲得額外報酬
+[home/champion_battle_062] 最高達成點數
+[home/champion_battle_063] ※總計點數會在下列時間重設
+也可再次獲得已獲得的報酬
+[Name:DateTime ]
+用按鈕來重設並無法再次獲得報酬
+[home/champion_battle_064] 在下列時間起
+達成特定條件後
+即可開放
+[Name:DateTime ]
+[home/champion_battle_065] 選項說明
+[home/champion_battle_066] 只要打敗一次冠軍
+並登入帕希歐名人堂即可開放
 
 ===========
 shop_de.lsd
@@ -26216,9 +27632,7 @@ durch Gefährtensuchen erhältst.
 [shop/scout_128] Geschenkdetails
 [shop/scout_129] Stufenweise G-Suche bestätigen
 [shop/scout_130] Mit Geschenk
-[shop/scout_131] Führe jetzt unter Gefährtensuche eine
-[Name:Scout ]
-durch!
+[shop/scout_131] Führe jetzt unter Gefährtensuche eine [Name:Scout ] durch!
 [shop/scout_132] Erhalte mit deinen Tickets 5★-Gefährtengespanne!
 [shop/scout_133] Möchtest du [Digit:2digits ] [Name:Item ]
 einsetzen, um [Digit:2digits Idx="1" ] Mal eine
@@ -26236,7 +27650,36 @@ Bei Erreichen einiger Stufen erhältst du eventuell Geschenke.
 Dein Stufenfortschritt wird nach Ende des aktuellen Events zurückgesetzt.
 Du kannst deinen Stufenfortschritt nicht übertragen.
 Wenn du die letzte Stufe beendet hast, endet diese Gefährtensuche.
+[shop/scout_139] Geschenk für die [Digit:2digits ]. Suche
+[shop/scout_140] Hinweis: Geschenke findest du in der
+Geschenkbox unter Abholen.
+[shop/scout_141] Hinweis: Die Erscheinungsraten für ★ werden nach der
+vierten Dezimalstelle aufgerundet, es kann also sein, dass
+sie addiert nicht 100 % ergeben. Die tatsächliche
+Erscheinungsrate wird nicht auf- oder abgerundet.
+Die Erscheinungsrate gilt für jede durchgeführte
+Gefährtensuche. Selbst wenn du eine Gefährtensuche
+mehrmals hintereinander durchführst, heißt das also
+nicht notwendigerweise, dass du ein bestimmtes
+Gefährtengespann erhalten wirst. Es ist möglich, dass du
+durch die Gefährtensuche die gleichen Gefährten erhältst.
+Selbst wenn du Gefährten schon hast und sich bei ihnen
+das Pokémon schon entwickelt hat, wird das Pokémon vor
+der Entwicklung angezeigt, wenn du sie durch
+Gefährtensuchen erhältst.
+In der letzten Gefährtensuche (die 10. bei 10
+Gefährtensuchen und die 11. bei 11 Gefährtensuchen) wird
+nur aus Gefährten mit 5 ★ gezogen.
+Die Erscheinungsrate für die Ziehung aus Gefährten mit 5 ★ 
+findest du bei der Erscheinungsratenanzeige unter
+„Garantiert 5 ★!“.
+Steht bei der Erscheinungsrate hinter dem Pokémon-Namen
+ein *, heißt das, dass sich das Pokémon durch eine
+Entwicklungs-Episode entwickeln kann.
+[shop/scout_142] × [Digit:3digits ]
 [shop/scout_143] Ticket-Gefährtensuche
+[shop/scout_144] Du kannst ein weiteres
+5★-Gefährtengespann erhalten!
 [shop/deck_item_sale_001] Ausrüstungstausch
 [shop/deck_item_sale_002] Ausrüstung
 [shop/deck_item_sale_003] Filter
@@ -26626,7 +28069,23 @@ Some tiers may include presents.
 Your tier progression will be reset when the current sync pair scout period ends.
 Your tier progression will not carry over.
 Completing the last tier will end this sync pair scout.
+[shop/scout_139] Present no. [Digit:2digits ]
+[shop/scout_140] Note: These presents will be sent to the Claim section
+of your Present Box.
+[shop/scout_141] The offering rate for each ★ is rounded off past the fourth decimal, so adding them all up may not equal 100%. We do not round the actual offering rate up or down.
+
+The offering rate applies to each instance of sync pair scouting, so there is no guarantee that you will get any one sync pair, even if you scout many times in a row.
+
+You may get sync pairs that you have already acquired when you scout.
+
+When you are scouting, you will see sync pairs with unevolved Pokémon even if you have previously acquired and evolved them.
+
+The final sync pair scouted (the 10th sync pair for ×10 scouts and 11th sync pair for ×11 scouts) is selected from a pool of only 5★ sync pairs. You can see the offering rate for these draws by tapping the 5★Guaranteed button on the offering rate screen.
+
+When you see a * displayed after a Pokémon name in the offering rate, that means the sync pair can evolve their Pokémon through an Evolution sync pair story.
+[shop/scout_142] Scout ×[Digit:3digits ]
 [shop/scout_143] Ticket Scout
+[shop/scout_144] You can also choose a 5★ sync pair!
 [shop/deck_item_sale_001] Exchange Gear
 [shop/deck_item_sale_002] Gear
 [shop/deck_item_sale_003] Filter
@@ -26993,7 +28452,18 @@ Cuando realices el reclutamiento de una fase, pasarás a la siguiente. El númer
 Algunas fases pueden incluir regalos.
 Se restablecerá tu progreso en las fases cuando el reclutamiento concluya, y no se conservará de un reclutamiento a otro.
 El reclutamiento terminará cuando completes la última fase.
+[shop/scout_139] Regalo de la [Digit:2digits ].ª vez
+[shop/scout_140] Nota: Podrás encontrar tus regalos en el apartado
+Pendientes de la caja de regalos.
+[shop/scout_141] Ten en cuenta que las tasas de aparición de las ★ mostradas se redondean a partir del cuarto decimal; por ello, las cantidades no siempre suman un 100%. Las tasas de aparición no se redondean al efectuar el reclutamiento.
+Las tasas de aparición de cada pareja de compis se aplican cada vez que se efectúa un reclutamiento, de modo que realizarlo de forma consecutiva no garantiza la obtención de dicha pareja de compis.
+Es posible obtener una pareja de compis repetida en un reclutamiento. Aunque el Pokémon de la pareja de compis ya obtenida haya evolucionado, en la pantalla de reclutamiento aparecerá siempre la primera fase evolutiva.
+La última pareja de compis de un reclutamiento (esto es, la 10.ª pareja en un reclutamiento ×10; o la 11.ª pareja en un reclutamiento ×11) se selecciona al azar de un conjunto de parejas de compis de 5★. Toca el botón "5★ garantizadas" para comprobar las tasas de aparición de dichas parejas de compis.
+Los Pokémon de las parejas de compis marcadas con un asterisco (*) en la pantalla de las tasas de aparición podrán evolucionar tras completar el episodio de evolución correspondiente.
+[shop/scout_142] ×[Digit:3digits ]
 [shop/scout_143] Reclutamiento billete
+[shop/scout_144] ¡Puedes eligir además una pareja de
+compis de 5★!
 [shop/deck_item_sale_001] Canjear accesorios
 [shop/deck_item_sale_002] Accesorios
 [shop/deck_item_sale_003] Filtrar
@@ -27344,7 +28814,14 @@ En passant des Appels Duos, vous progresserez dans les paliers. À chacun d'entr
 Les paliers que vous aurez franchis seront réinitialisés à la fin de la période de disponibilité de cet Appel Duo.
 Les paliers que vous aurez franchis ne seront pas transférables.
 Une fois le dernier palier franchi, cet Appel Duo ne sera plus accessible.
+[shop/scout_139] Cadeau n° [Digit:2digits ]
+[shop/scout_140] Les cadeaux ont été envoyés dans la section
+« Accepter » du menu « Cadeaux ».
+[shop/scout_141] Remarque : les pourcentages de chance par nombre d'★ affichés étant arrondis après la quatrième décimale, il peut arriver que leur somme totale ne soit pas égale à 100 %. Les pourcentages réels ne sont ni arrondis au supérieur, ni à l'inférieur. Les pourcentages s'appliquent à chaque Appel Duo indépendamment. Même si vous passez un certain nombre d'Appels Duo, il est possible qu'un certain Duo n'apparaisse pas du tout. Il est possible qu'un même Duo apparaisse plusieurs fois. Si vous appelez un Duo que vous avez déjà et dont vous avez fait évoluer le Pokémon, le Pokémon avant évolution apparaîtra dans le Duo affiché dans les résultats. Le dernier Appel Duo (le dixième si vous avez passé 10 Appels Duo d'affilée, le onzième si vous avez passé 11 Appels Duo d'affilée) vous permettra d'obtenir un Duo 5★. Pour connaître les pourcentages utilisés lors de l'Appel Duo garantissant un Duo 5★, touchez le bouton « 5★ garanti ! » sur l'écran de pourcentages. Lorsqu'un astérisque (*) est affiché après le nom d'un Pokémon sur l'écran des pourcentages, le Duo peut faire évoluer le Pokémon à travers un épisode d'évolution.
+[shop/scout_142] [Digit:3digits ] Appel[FR:Qty P="s" ]
 [shop/scout_143] Appel Duo avec Bons
+[shop/scout_144] Choisissez en plus un des Duos 5★
+proposés !
 [shop/deck_item_sale_001] Échanger équipement
 [shop/deck_item_sale_002] Équipement
 [shop/deck_item_sale_003] Filtrer
@@ -27777,7 +29254,27 @@ Il numero di gradini completati verrà azzerato al termine
 del periodo di questa ricerca Unità e non verrà trasferito
 ad altre ricerche Unità. Questa ricerca Unità termina
 al completamento dell'ultimo gradino.
+[shop/scout_139] regalo [Digit:2digits ]ª volta
+[shop/scout_140] I regali saranno inviati alla sezione "Da accettare"
+dei Regali.
+[shop/scout_141] Il tasso di comparsa per numero di ★ è arrotondato oltre la quarta cifra decimale, perciò è possibile che la somma delle percentuali non sia 100%.
+
+Il tasso di comparsa effettivo non viene arrotondato per eccesso o per difetto.
+
+A ogni ricerca Unità si applica lo stesso tasso di comparsa, pertanto ripetere la ricerca Unità più volte di seguito non garantisce la comparsa di una determinata Unità.
+
+È possibile che la stessa Unità compaia più volte nella ricerca.
+
+Anche se il Pokémon di un'Unità già ottenuta si è evoluto, le Unità identiche nella ricerca Unità saranno visualizzate con un Pokémon non ancora evoluto.
+
+Nell'ultima estrazione (la decima per un'Unicerca ×10, l'undicesima per un'Unicerca ×11), la selezione avverrà solo tra Unità con 5★.
+
+Per consultare il tasso di comparsa delle estrazioni che selezionano solo Unità con 5★, tocca il pulsante "Unità con 5★ garantita" nella schermata del tasso di comparsa.
+
+I Pokémon con un asterisco dopo il nome, visualizzato nel tasso di comparsa dell'Unità, possono evolversi tramite episodio evolutivo.
+[shop/scout_142] Unicerca ×[Digit:3digits ]:
 [shop/scout_143] Ricerca Unità con ticket
+[shop/scout_144] Puoi anche scegliere un'Unità 5★!
 [shop/deck_item_sale_001] Scambio accessori
 [shop/deck_item_sale_002] Accessori
 [shop/deck_item_sale_003] Filtra
@@ -28210,7 +29707,20 @@ STEPによってはプレゼントが設定されている場合があります�
 ※STEPの進行状況は、本バディーズサーチの開催期間が終了するとリセットされます。
 ※STEPの進行状況は、開催期間をまたいで引き継ぎはできません。
 ※最終STEPを実行すると、本バディーズサーチは終了します。
+[shop/scout_139] [Digit:2digits ]回目のプレゼント
+[shop/scout_140] ※プレゼントはプレゼントボックスの
+「受取」に送られます
+[shop/scout_141] ※★ごとの提供割合は、小数第4位以下がある場合に切捨てて表示しており、全てを合算しても100％にならない場合があります。
+※実際の提供割合は、小数第4位以下の四捨五入、切上げ、切捨て等を行っておりません。
+※バディーズサーチは1回ごとにその提供割合にもとづいて抽選を行います。
+そのため、バディーズサーチを特定回数繰り返しても、必ず特定のバディーズが出現するという仕組みではありません。
+※バディーズサーチからは同じバディーズが出現する場合がございます。
+※ポケモン進化後の同一バディーズを既に所持している場合でも、バディーズサーチでは進化前のバディーズが表示されます。
+※最後の抽選（10連の場合は10回目の抽選、11連の場合は11回目の抽選）では★5のバディーズのみで抽選を行います。★5のみの抽選個別出現割合は提供割合画面の「★5確定」ボタンをタップして確認できます。
+※提供割合にてポケモン名の後ろに(*)が表示されているバディーズは、進化エピソードを通してポケモンを進化させることができます。
+[shop/scout_142] [Digit:3digits ]連
 [shop/scout_143] チケット専用バディーズサーチ
+[shop/scout_144] 好きな★５バディーズをさらに1組獲得！
 [shop/deck_item_sale_001] 装備売却
 [shop/deck_item_sale_002] 装備
 [shop/deck_item_sale_003] フィルター
@@ -28652,7 +30162,24 @@ STEP에 따라서는 선물이 포함된 경우가 있습니다.
 ※STEP의 진행 상황은 본 버디즈서치의 개최 기간이 종료되면 초기화됩니다.
 ※STEP의 진행 상황은 개최 기간을 넘겨 사용할 수 없습니다.
 ※마지막 STEP을 진행하면 본 버디즈서치는 종료됩니다.
+[shop/scout_139] [Digit:2digits ]번째의 선물
+[shop/scout_140] ※선물은 프레젠트박스의
+"받기"에서 받을 수 있습니다
+[shop/scout_141] ※★에 따른 제공 확률은 표기상 소수점 4자리 이하는 버려지므로
+총합해도 100%가 되지 않는 경우가 있습니다.
+※실제 제공 확률은 소수점 4자리 이하를 반올림, 올림, 내림 등을
+하지 않습니다.
+※버디즈서치는 1회마다 해당 제공 확률을 기반하여 추첨을 진행합니다.
+따라서 버디즈서치를 특정 횟수 반복하더라도,
+특정 버디즈가 반드시 출현하는 구조가 아닙니다.
+※버디즈서치에서는 같은 버디즈가 출현하는 경우가 있습니다.
+※포켓몬 진화 후의 같은 버디즈를 이미 보유하고 있는 경우에도 버디즈서치에서는 진화 전 버디즈가 표시됩니다
+※마지막 추첨(10연속의 경우에는 10번째 추첨, 11연속의 경우에는 11번째 추첨)에서는 ★5의 버디즈로만 추첨을 진행합니다. ★5만으로 진행되는 추첨 개별 출현 확률은 제공 비율 화면의 "★5 확정" 버튼을 눌러서 확인할 수 있습니다.
+※제공 확률에서 포켓몬 이름의 뒤에 (*)이 표시되어 있는 버디즈는
+진화 에피소드를 통하여 포켓몬을 진화시킬 수 있습니다.
+[shop/scout_142] [Digit:3digits ]연속
 [shop/scout_143] 티켓 전용 버디즈서치
+[shop/scout_144] 원하는 ★5 버디즈를 추가로 하나 획득!
 [shop/deck_item_sale_001] 장비 판매
 [shop/deck_item_sale_002] 장비
 [shop/deck_item_sale_003] 필터
@@ -28806,8 +30333,7 @@ shop_zh-TW.lsd
 [shop/shop_itemexchange_011] 交換完成
 [shop/shop_itemexchange_012] 已完成交換
 [shop/shop_itemexchange_014] 成功過關[Name:QuestGroupTitle ]
-「[Name:QuestTitle ]」後
-即可交換
+「[Name:QuestTitle ]」後即可交換
 [shop/shop_itemexchange_016] 所需材料
 [shop/shop_itemexchange_018] 要使用上列道具來交換嗎？
 [shop/shop_itemexchange_019] 要使用金幣來交換嗎？
@@ -29035,7 +30561,19 @@ shop_zh-TW.lsd
 ※STEP的進度在本拍組搜尋的舉辦期間結束後即會重設。
 ※STEP的進度無法跨期累積。
 ※進行最後的STEP之後，本拍組搜尋即會結束。
+[shop/scout_139] 第[Digit:2digits ]次的禮物
+[shop/scout_140] ※禮物會被送到禮物箱的「領取」
+[shop/scout_141] ※各種★的提供比例於顯示時會無條件捨去小數點第三位後的餘數，因此合計所有提供比例後可能會有未達100%的情形
+※實際的提供比例並不會將小數點第三位後的餘數四捨五入、無條件捨去或無條件進位
+※每1次的拍組搜尋皆會根據提供比例進行抽選
+因此，即使反覆進行特定次數的拍組搜尋，也不保證會出現特定的拍組
+※拍組搜尋的結果有可能會出現相同的拍組
+※即使玩家持有的是寶可夢進化後的拍組，在拍組搜尋時仍只會顯示寶可夢進化前的該拍組
+※最後一次的搜尋（連續10次時指第10次的搜尋，連續11次時指第11次的搜尋）會僅對★5的拍組進行。各對★5拍組的提供比例可由提供比例的畫面點選「必得★5」確認
+※在提供比例畫面中，若拍組的寶可夢名字後面標有(*)，則表示該寶可夢可透過進化劇情進化
+[shop/scout_142] 連續[Digit:3digits ]次
 [shop/scout_143] 票券專用拍組搜尋
+[shop/scout_144] 另外可以自選１對喜歡的★５拍組！
 [shop/deck_item_sale_001] 出售裝備
 [shop/deck_item_sale_002] 裝備
 [shop/deck_item_sale_003] 篩選
