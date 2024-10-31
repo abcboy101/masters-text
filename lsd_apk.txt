@@ -1823,11 +1823,10 @@ le caselle delle Teche Pietra Unità!
 Potrai così rinforzare ogni Unità
 in modi diversi!
 [100044] Nelle lotte Monosquadra, puoi
-toccare "Modifica squadra"
-per cambiare la priorità, vale
-a dire l'ordine in cui le tue Unità
-saranno prese di mira
-dall'avversario!
+toccare "Modifica squadra" per
+cambiare la priorità, vale a dire
+l'ordine in cui le tue Unità saranno
+prese di mira dall'avversario!
 [100045] Se dai dei dolci ai Pokémon nati
 dalle Uova, il loro livello amicizia
 aumenterà!
@@ -2022,7 +2021,8 @@ loading_tips_description_ja.lsd
 解放しよう！　バディーズごとに
 様々な強化ができるぞ！
 [100044] ソロバトルでは　「チーム編成」で
-相手から狙われる順番を　変えられるぞ！
+相手から狙われる順番を
+変えられるぞ！
 [100045] タマゴからかえったポケモンは
 おかしを　あげると
 友情レベルが　あがるぞ！
@@ -5551,6 +5551,80 @@ Touristenführerin
 [quest_title_1030220651780000] Ein Tag mit Mathilda
 [quest_title_1030220204000000] Ein Tag mit Nuit
 [quest_group_title_10651780000] Mathilda (Urlauberin)
+[quest_group_title_10128100000] MaMo-Heiko
+[quest_group_title_10254000000] Mac
+[quest_group_title_10255000000] Mel
+[quest_group_title_10242000000] Victor
+[quest_group_title_10652680000] Helen (Hexe)
+[quest_group_title_10092400000] Lilia (Saison 2022)
+[quest_group_title_10251400000] Nio (Saison 2022)
+[quest_title_1030110000490100] Verbindungs-Auf und Ab
+[quest_title_1030110000490200] Guter Rat zur falschen Zeit
+[quest_title_1030409000601000] Was mir fehlt
+[quest_title_1030409000601010] Herzenssachen
+[quest_title_1030409000601020] Was wirklich zählt
+[quest_title_1030409000601030] Geteilte Freude
+[quest_title_1030409000601040] Guardevoir-Duo
+[quest_title_1030409000601050] Vs. Trainer aus Passio 1
+[quest_title_1030409000601060] Vs. Trainer aus Passio 2
+[quest_title_1030409000601070] Vs. Trainer aus Passio 3
+[quest_title_1030409000601080] Vs. Trainer aus Passio 4
+[quest_title_1030409000601090] Täglicher schwerer Kampf
+[quest_title_1030409000601100] Herausforderungskampf 1
+[quest_title_1030409000601110] Herausforderungskampf 2
+[quest_title_1030409000604010] Heikos Herausforderung 1
+[quest_title_1030409000604020] Heikos Herausforderung 2
+[quest_title_1030409000604030] Heikos Herausforderung 3
+[quest_title_1030409000604040] Heikos Herausforderung 4
+[quest_title_1030409000604050] Stelle dich MaMo-Heiko!
+[quest_title_1030409000603000] Schwächer oder Stärker?
+[quest_title_1030409000603010] Training mit Mac 1
+[quest_title_1030409000603020] Training mit Mac 2
+[quest_title_1030409000603030] Training mit Mel 1
+[quest_title_1030409000603040] Training mit Mel 2
+[quest_title_1030409000603050] Training mit Victor 1
+[quest_title_1030409000603060] Training mit Victor 2
+[quest_title_1030409000603070] Tägliches Training mit Mac
+[quest_title_1030409000603080] Tägliches Training mit Mel
+[quest_title_1030409000603090] Tägliches Training mit Victor
+[quest_title_1030409000603100] Herausforderungskampf:
+Mel 1
+[quest_title_1030409000603110] Herausforderungskampf:
+Mel 2
+[quest_title_1030409000603120] Herausforderungskampf:
+Roy 1
+[quest_title_1030409000603130] Herausforderungskampf:
+Roy 2
+[quest_title_1030409000603140] Herausforderungskampf:
+Kate 1
+[quest_title_1030409000603150] Herausforderungskampf:
+Kate 2
+[quest_title_1030440900201010] Vs. Trainer aus Passio 1
+[quest_title_1030440900202010] Vs. Trainer aus Passio 2
+[quest_title_1030440900203010] Vs. Trainer aus Passio 3
+[quest_title_1030440900204010] Vs. Trainer aus Passio 4
+[quest_title_1030409000602000] Die Welt des Übersinnlichen
+[quest_title_1030409000602010] Die heutige Hauptfigur ist...
+[quest_title_1030409000602050] Vs. Trainer aus Passio 1
+[quest_title_1030409000602020] Nur Gerüchte...?
+[quest_title_1030409000602060] Vs. Trainer aus Passio 2
+[quest_title_1030409000602030] Die wahre Identität des
+Monsters
+[quest_title_1030409000602070] Vs. Trainer aus Passio 3
+[quest_title_1030409000602040] Venicros Entscheidung
+[quest_title_1030409000602080] Vs. Trainer aus Passio 4
+[quest_title_1030409000602090] Täglicher schwerer Kampf
+[quest_title_1030409000602100] Herausforderungskampf 1
+[quest_title_1030409000602110] Herausforderungskampf 2
+[quest_title_1030220128100000] Ein Tag mit MaMo-Heiko
+[quest_title_1030220254000000] Ein Tag mit Mac
+[quest_title_1030220255000000] Ein Tag mit Mel
+[quest_title_1030220242000000] Ein Tag mit Victor
+[quest_title_1030220652680000] Ein Tag mit Helen
+[quest_title_1040002570001011] Ein besonderer Tag mit Roy
+(Teil 1)
+[quest_title_1040002570001021] Ein besonderer Tag mit Roy
+(Teil 2)
 
 ===========
 story_quest_name_en.lsd
@@ -8108,6 +8182,71 @@ story_quest_name_en.lsd
 [quest_title_1030220651780000] A Day with Naomi
 [quest_title_1030220204000000] A Day with Nita
 [quest_group_title_10651780000] Naomi (Sightseer)
+[quest_group_title_10128100000] Sygna Suit Wally
+[quest_group_title_10254000000] Gordie
+[quest_group_title_10255000000] Melony
+[quest_group_title_10242000000] Victor
+[quest_group_title_10652680000] Helena (Hex Maniac)
+[quest_group_title_10092400000] Iris (Fall 2022)
+[quest_group_title_10251400000] Allister (Fall 2022)
+[quest_title_1030110000490100] Good or Evil Bonds
+[quest_title_1030110000490200] Too Late for Guidance
+[quest_title_1030409000601000] Something That I Lack
+[quest_title_1030409000601010] Hearts Unaligned
+[quest_title_1030409000601020] A Forgotten Feeling
+[quest_title_1030409000601030] Smile Again
+[quest_title_1030409000601040] Two Gardevoir Trainers
+[quest_title_1030409000601050] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030409000601060] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030409000601070] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030409000601080] Challenge Pasio’s Trainers: Part 4
+[quest_title_1030409000601090] Daily Extreme Battle 1
+[quest_title_1030409000601100] Battle Challenge! Round 1
+[quest_title_1030409000601110] Battle Challenge! Round 2
+[quest_title_1030409000604010] Wally’s Challenge: Part 1
+[quest_title_1030409000604020] Wally’s Challenge: Part 2
+[quest_title_1030409000604030] Wally’s Challenge: Part 3
+[quest_title_1030409000604040] Wally’s Challenge: Part 4
+[quest_title_1030409000604050] Take on Sygna Suit Wally!
+[quest_title_1030409000603000] Easy and Tough Opponents
+[quest_title_1030409000603010] Training with Gordie: Part 1
+[quest_title_1030409000603020] Training with Gordie: Part 2
+[quest_title_1030409000603030] Training with Melony: Part 1
+[quest_title_1030409000603040] Training with Melony: Part 2
+[quest_title_1030409000603050] Training with Victor: Part 1
+[quest_title_1030409000603060] Training with Victor: Part 2
+[quest_title_1030409000603070] Daily Training with Gordie!
+[quest_title_1030409000603080] Daily Training with Melony!
+[quest_title_1030409000603090] Daily Training with Victor!
+[quest_title_1030409000603100] Melony’s Battle Challenge! Round 1
+[quest_title_1030409000603110] Melony’s Battle Challenge! Round 2
+[quest_title_1030409000603120] Raihan’s Battle Challenge! Round 1
+[quest_title_1030409000603130] Raihan’s Battle Challenge! Round 2
+[quest_title_1030409000603140] Nessa’s Battle Challenge! Round 1
+[quest_title_1030409000603150] Nessa’s Battle Challenge! Round 2
+[quest_title_1030440900201010] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030440900202010] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030440900203010] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030440900204010] Challenge Pasio’s Trainers: Part 4
+[quest_title_1030409000602000] The Supernatural World
+[quest_title_1030409000602010] Star of the Night
+[quest_title_1030409000602050] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030409000602020] Seeking Mysteries
+[quest_title_1030409000602060] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030409000602030] Mystery Monster Unmasked
+[quest_title_1030409000602070] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030409000602040] Poipole’s Chosen Path
+[quest_title_1030409000602080] Challenge Pasio’s Trainers: Part 4
+[quest_title_1030409000602090] Daily Extreme Battle 1
+[quest_title_1030409000602100] Battle Challenge! Round 1
+[quest_title_1030409000602110] Battle Challenge! Round 2
+[quest_title_1030220128100000] A Day with Sygna Suit Wally
+[quest_title_1030220254000000] A Day with Gordie
+[quest_title_1030220255000000] A Day with Melony
+[quest_title_1030220242000000] A Day with Victor
+[quest_title_1030220652680000] A Day with Helena
+[quest_title_1040002570001011] A Special Day with Raihan: Part 1
+[quest_title_1040002570001021] A Special Day with Raihan: Part 2
 
 ===========
 story_quest_name_es.lsd
@@ -10893,6 +11032,83 @@ aural)
 [quest_title_1030220651780000] Un día con Berta
 [quest_title_1030220204000000] Un día con Nocta
 [quest_group_title_10651780000] Berta (Veraneante)
+[quest_group_title_10128100000] Blasco (Traje S)
+[quest_group_title_10254000000] Morris
+[quest_group_title_10255000000] Mel
+[quest_group_title_10242000000] Victor
+[quest_group_title_10652680000] Agnès (Bruja)
+[quest_group_title_10092400000] Iris (Temporada 22)
+[quest_group_title_10251400000] Alistair (Temporada 22)
+[quest_title_1030110000490100] Vínculos buenos o malvados
+[quest_title_1030110000490200] Ya es tarde para lecciones
+[quest_title_1030409000601000] Aquello que me falta
+[quest_title_1030409000601010] Corazones divididos
+[quest_title_1030409000601020] Cuando olvidamos lo esencial
+[quest_title_1030409000601030] Volver a sonreír
+[quest_title_1030409000601040] Entrenadores de Gardevoir
+[quest_title_1030409000601050] VS. Entrenadores de Passio
+[quest_title_1030409000601060] VS. Entrenadores de Passio (2)
+[quest_title_1030409000601070] VS. Entrenadores de Passio (3)
+[quest_title_1030409000601080] VS. Entrenadores de Passio (4)
+[quest_title_1030409000601090] ¡Un combate difícil al día!
+[quest_title_1030409000601100] ¡Un combate desafiante!
+[quest_title_1030409000601110] ¡Un combate desafiante! (2)
+[quest_title_1030409000604010] ¡Enfréntate a Blasco!
+[quest_title_1030409000604020] ¡Enfréntate a Blasco! (2)
+[quest_title_1030409000604030] ¡Enfréntate a Blasco! (3)
+[quest_title_1030409000604040] ¡Enfréntate a Blasco! (4)
+[quest_title_1030409000604050] ¡Enfréntate a Blasco (Traje S)!
+[quest_title_1030409000603000] Oponentes débiles y
+oponentes fuertes
+[quest_title_1030409000603010] Entrenamiento con Morris
+[quest_title_1030409000603020] Entrenamiento con Morris (2)
+[quest_title_1030409000603030] Entrenamiento con Mel
+[quest_title_1030409000603040] Entrenamiento con Mel (2)
+[quest_title_1030409000603050] Entrenamiento con Victor
+[quest_title_1030409000603060] Entrenamiento con Victor (2)
+[quest_title_1030409000603070] ¡Un entrenamiento al día con
+Morris!
+[quest_title_1030409000603080] ¡Un entrenamiento al día con
+Mel!
+[quest_title_1030409000603090] ¡Un entrenamiento al día con
+Victor!
+[quest_title_1030409000603100] ¡Un combate desafiante
+contra Mel!
+[quest_title_1030409000603110] ¡Un combate desafiante
+contra Mel! (2)
+[quest_title_1030409000603120] ¡Un combate desafiante
+contra Roy!
+[quest_title_1030409000603130] ¡Un combate desafiante
+contra Roy! (2)
+[quest_title_1030409000603140] ¡Un combate desafiante
+contra Cathy!
+[quest_title_1030409000603150] ¡Un combate desafiante
+contra Cathy! (2)
+[quest_title_1030440900201010] VS. Entrenadores de Passio
+[quest_title_1030440900202010] VS. Entrenadores de Passio (2)
+[quest_title_1030440900203010] VS. Entrenadores de Passio (3)
+[quest_title_1030440900204010] VS. Entrenadores de Passio (4)
+[quest_title_1030409000602000] ¡Abre las puertas al mundo
+de lo sobrenatural!
+[quest_title_1030409000602010] Hoy son los protagonistas
+[quest_title_1030409000602050] VS. Entrenadores de Passio
+[quest_title_1030409000602020] En busca del misterio
+[quest_title_1030409000602060] VS. Entrenadores de Passio (2)
+[quest_title_1030409000602030] La identidad del monstruo
+misterioso
+[quest_title_1030409000602070] VS. Entrenadores de Passio (3)
+[quest_title_1030409000602040] Poipole se queda
+[quest_title_1030409000602080] VS. Entrenadores de Passio (4)
+[quest_title_1030409000602090] ¡Un combate difícil al día!
+[quest_title_1030409000602100] ¡Un combate desafiante!
+[quest_title_1030409000602110] ¡Un combate desafiante! (2)
+[quest_title_1030220128100000] Un día con Blasco (Traje S)
+[quest_title_1030220254000000] Un día con Morris
+[quest_title_1030220255000000] Un día con Mel
+[quest_title_1030220242000000] Un día con Victor
+[quest_title_1030220652680000] Un día con Agnès
+[quest_title_1040002570001011] Un día especial con Roy
+[quest_title_1040002570001021] Un día especial con Roy (2)
 
 ===========
 story_quest_name_fr.lsd
@@ -13909,6 +14125,91 @@ touristique
 [quest_title_1030220651780000] Une journée avec Ninna
 [quest_title_1030220204000000] Une journée avec Nix
 [quest_group_title_10651780000] Ninna (Vacancière)
+[quest_group_title_10128100000] Timmy (Look Ultime)
+[quest_group_title_10254000000] Chaz
+[quest_group_title_10255000000] Lona
+[quest_group_title_10242000000] Victor
+[quest_group_title_10652680000] Héléna (Mystimaniac)
+[quest_group_title_10092400000] Iris (Saison 2022)
+[quest_group_title_10251400000] Alistair (Saison 2022)
+[quest_title_1030110000490100] Le bien, le mal, et les liens
+[quest_title_1030110000490200] Des conseils trop tardifs
+[quest_title_1030409000601000] Ce qu'il me manque
+[quest_title_1030409000601010] Cœurs en désaccord
+[quest_title_1030409000601020] Un sentiment oublié
+[quest_title_1030409000601030] Sourire à nouveau
+[quest_title_1030409000601040] Deux Dresseurs de Gardevoir
+[quest_title_1030409000601050] Combat : Dresseurs de Passio
+[quest_title_1030409000601060] Combat :
+Dresseurs de Passio II
+[quest_title_1030409000601070] Combat :
+Dresseurs de Passio III
+[quest_title_1030409000601080] Combat :
+Dresseurs de Passio IV
+[quest_title_1030409000601090] Combat difficile limité
+à une fois par jour !
+[quest_title_1030409000601100] Combat difficile
+[quest_title_1030409000601110] Combat difficile II
+[quest_title_1030409000604010] Combat : Timmy
+[quest_title_1030409000604020] Combat : Timmy II
+[quest_title_1030409000604030] Combat : Timmy III
+[quest_title_1030409000604040] Combat : Timmy IV
+[quest_title_1030409000604050] Combat corsé :
+Timmy (Look Ultime)
+[quest_title_1030409000603000] Adversaires faciles et
+adversaires difficiles
+[quest_title_1030409000603010] Entraînement avec Chaz
+[quest_title_1030409000603020] Entraînement avec Chaz II
+[quest_title_1030409000603030] Entraînement avec Lona
+[quest_title_1030409000603040] Entraînement avec Lona II
+[quest_title_1030409000603050] Entraînement avec Victor
+[quest_title_1030409000603060] Entraînement avec Victor II
+[quest_title_1030409000603070] Entraînement avec Chaz
+limité à une fois par jour !
+[quest_title_1030409000603080] Entraînement avec Lona
+limité à une fois par jour !
+[quest_title_1030409000603090] Entraînement avec Victor
+limité à une fois par jour !
+[quest_title_1030409000603100] Combat difficile : Lona
+[quest_title_1030409000603110] Combat difficile : Lona II
+[quest_title_1030409000603120] Combat difficile : Roy
+[quest_title_1030409000603130] Combat difficile : Roy II
+[quest_title_1030409000603140] Combat difficile : Donna
+[quest_title_1030409000603150] Combat difficile : Donna II
+[quest_title_1030440900201010] Combat : Dresseurs de Passio
+[quest_title_1030440900202010] Combat :
+Dresseurs de Passio II
+[quest_title_1030440900203010] Combat :
+Dresseurs de Passio III
+[quest_title_1030440900204010] Combat :
+Dresseurs de Passio IV
+[quest_title_1030409000602000] Bienvenue dans le monde
+de l'occulte
+[quest_title_1030409000602010] À l'honneur aujourd'hui...
+[quest_title_1030409000602050] Combat : Dresseurs de Passio
+[quest_title_1030409000602020] Sur la piste d'un mystère
+[quest_title_1030409000602060] Combat :
+Dresseurs de Passio II
+[quest_title_1030409000602030] La vraie identité du monstre
+[quest_title_1030409000602070] Combat :
+Dresseurs de Passio III
+[quest_title_1030409000602040] Le choix de Vémini
+[quest_title_1030409000602080] Combat :
+Dresseurs de Passio IV
+[quest_title_1030409000602090] Combat difficile limité
+à une fois par jour !
+[quest_title_1030409000602100] Combat difficile
+[quest_title_1030409000602110] Combat difficile II
+[quest_title_1030220128100000] Une journée avec Timmy
+(Look Ultime)
+[quest_title_1030220254000000] Une journée avec Chaz
+[quest_title_1030220255000000] Une journée avec Lona
+[quest_title_1030220242000000] Une journée avec Victor
+[quest_title_1030220652680000] Une journée avec Héléna
+[quest_title_1040002570001011] Une journée spéciale
+avec Roy
+[quest_title_1040002570001021] Une journée spéciale
+avec Roy II
 
 ===========
 story_quest_name_it.lsd
@@ -16419,6 +16720,71 @@ story_quest_name_it.lsd
 [quest_title_1030220651780000] Un giorno con Gaia
 [quest_title_1030220204000000] Un giorno con Notturna
 [quest_group_title_10651780000] Gaia (Vacanziera)
+[quest_group_title_10128100000] Lino Costumax
+[quest_group_title_10254000000] Milo
+[quest_group_title_10255000000] Melania
+[quest_group_title_10242000000] Victor
+[quest_group_title_10652680000] Neride (Streghetta)
+[quest_group_title_10092400000] Iris (feste 2022)
+[quest_group_title_10251400000] Onion (feste 2022)
+[quest_title_1030110000490100] Legami tra bene e male
+[quest_title_1030110000490200] Consigli tardivi
+[quest_title_1030409000601000] Qualcosa che manca
+[quest_title_1030409000601010] Animi divisi
+[quest_title_1030409000601020] Dimenticare ciò che è fondamentale
+[quest_title_1030409000601030] Un sorriso che ritorna
+[quest_title_1030409000601040] I due Allenatori di Gardevoir
+[quest_title_1030409000601050] VS Allenatori di Pasio
+[quest_title_1030409000601060] VS Allenatori di Pasio 2
+[quest_title_1030409000601070] VS Allenatori di Pasio 3
+[quest_title_1030409000601080] VS Allenatori di Pasio 4
+[quest_title_1030409000601090] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030409000601100] Sfida ad alta difficoltà
+[quest_title_1030409000601110] Sfida ad alta difficoltà 2
+[quest_title_1030409000604010] Affronta Lino!
+[quest_title_1030409000604020] Affronta Lino! 2
+[quest_title_1030409000604030] Affronta Lino! 3
+[quest_title_1030409000604040] Affronta Lino! 4
+[quest_title_1030409000604050] Affronta un avversario potente: Lino Costumax!
+[quest_title_1030409000603000] Avversari facili e avversari difficili
+[quest_title_1030409000603010] Un allenamento con Milo
+[quest_title_1030409000603020] Un allenamento con Milo 2
+[quest_title_1030409000603030] Un allenamento con Melania
+[quest_title_1030409000603040] Un allenamento con Melania 2
+[quest_title_1030409000603050] Un allenamento con Victor
+[quest_title_1030409000603060] Un allenamento con Victor 2
+[quest_title_1030409000603070] Allenamento giornaliero con Milo!
+[quest_title_1030409000603080] Allenamento giornaliero con Melania!
+[quest_title_1030409000603090] Allenamento giornaliero con Victor!
+[quest_title_1030409000603100] Sfida ad alta difficoltà: Melania
+[quest_title_1030409000603110] Sfida ad alta difficoltà: Melania 2
+[quest_title_1030409000603120] Sfida ad alta difficoltà: Laburno
+[quest_title_1030409000603130] Sfida ad alta difficoltà: Laburno 2
+[quest_title_1030409000603140] Sfida ad alta difficoltà: Azzurra
+[quest_title_1030409000603150] Sfida ad alta difficoltà: Azzurra 2
+[quest_title_1030440900201010] VS Allenatori di Pasio
+[quest_title_1030440900202010] VS Allenatori di Pasio 2
+[quest_title_1030440900203010] VS Allenatori di Pasio 3
+[quest_title_1030440900204010] VS Allenatori di Pasio 4
+[quest_title_1030409000602000] Benvenuti nel mondo dell'occulto
+[quest_title_1030409000602010] I protagonisti di oggi
+[quest_title_1030409000602050] VS Allenatori di Pasio
+[quest_title_1030409000602020] In cerca di misteri
+[quest_title_1030409000602060] VS Allenatori di Pasio 2
+[quest_title_1030409000602030] La vera identità del mostro
+[quest_title_1030409000602070] VS Allenatori di Pasio 3
+[quest_title_1030409000602040] La scelta di Poipole
+[quest_title_1030409000602080] VS Allenatori di Pasio 4
+[quest_title_1030409000602090] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030409000602100] Sfida ad alta difficoltà
+[quest_title_1030409000602110] Sfida ad alta difficoltà 2
+[quest_title_1030220128100000] Un giorno con Lino Costumax
+[quest_title_1030220254000000] Un giorno con Milo
+[quest_title_1030220255000000] Un giorno con Melania
+[quest_title_1030220242000000] Un giorno con Victor
+[quest_title_1030220652680000] Un giorno con Neride
+[quest_title_1040002570001011] Un giorno speciale con Laburno (1ª parte)
+[quest_title_1040002570001021] Un giorno speciale con Laburno (2ª parte)
 
 ===========
 story_quest_name_ja.lsd
@@ -18982,6 +19348,74 @@ story_quest_name_ja.lsd
 [quest_title_1030220204000000] とある日のラニュイ
 [quest_group_title_10651780000] ナナセ
 （かんこうきゃく）
+[quest_group_title_10128100000] マジコスミツル
+[quest_group_title_10254000000] マクワ
+[quest_group_title_10255000000] メロン
+[quest_group_title_10242000000] マサル
+[quest_group_title_10652680000] サヨコ
+（オカルトマニア）
+[quest_group_title_10092400000] アイリス
+（２２シーズン）
+[quest_group_title_10251400000] オニオン
+（２２シーズン）
+[quest_title_1030110000490100] つながりの善悪とは
+[quest_title_1030110000490200] 間にあわない導き
+[quest_title_1030409000601000] ぼくに足りないもの
+[quest_title_1030409000601010] すれ違う心
+[quest_title_1030409000601020] 忘れていた大切なこと
+[quest_title_1030409000601030] 取り戻した微笑み
+[quest_title_1030409000601040] ２人のサーナイト使い
+[quest_title_1030409000601050] ＶＳ　パシオのトレーナー
+[quest_title_1030409000601060] ＶＳ　パシオのトレーナー２
+[quest_title_1030409000601070] ＶＳ　パシオのトレーナー３
+[quest_title_1030409000601080] ＶＳ　パシオのトレーナー４
+[quest_title_1030409000601090] １日１回限定・高難度バトル！
+[quest_title_1030409000601100] チャレンジバトルで勝負！
+[quest_title_1030409000601110] チャレンジバトルで勝負！２
+[quest_title_1030409000604010] ミツルに挑め！
+[quest_title_1030409000604020] ミツルに挑め！２
+[quest_title_1030409000604030] ミツルに挑め！３
+[quest_title_1030409000604040] ミツルに挑め！４
+[quest_title_1030409000604050] 強敵！　マジコスミツルに挑め！
+[quest_title_1030409000603000] 得意な相手と苦手な相手
+[quest_title_1030409000603010] マクワと一緒にトレーニング！
+[quest_title_1030409000603020] マクワと一緒にトレーニング！２
+[quest_title_1030409000603030] メロンと一緒にトレーニング！
+[quest_title_1030409000603040] メロンと一緒にトレーニング！２
+[quest_title_1030409000603050] マサルと一緒にトレーニング！
+[quest_title_1030409000603060] マサルと一緒にトレーニング！２
+[quest_title_1030409000603070] １日１回限定　マクワと特訓！
+[quest_title_1030409000603080] １日１回限定　メロンと特訓！
+[quest_title_1030409000603090] １日１回限定　マサルと特訓！
+[quest_title_1030409000603100] チャレンジバトル！　メロン
+[quest_title_1030409000603110] チャレンジバトル！　メロン２
+[quest_title_1030409000603120] チャレンジバトル！　キバナ
+[quest_title_1030409000603130] チャレンジバトル！　キバナ２
+[quest_title_1030409000603140] チャレンジバトル！　ルリナ
+[quest_title_1030409000603150] チャレンジバトル！　ルリナ２
+[quest_title_1030440900201010] ＶＳ　パシオのトレーナー
+[quest_title_1030440900202010] ＶＳ　パシオのトレーナー２
+[quest_title_1030440900203010] ＶＳ　パシオのトレーナー３
+[quest_title_1030440900204010] ＶＳ　パシオのトレーナー４
+[quest_title_1030409000602000] オカルトの世界へようこそ
+[quest_title_1030409000602010] 今日の主役は……
+[quest_title_1030409000602050] ＶＳ　パシオのトレーナー
+[quest_title_1030409000602020] 不思議を求めて
+[quest_title_1030409000602060] ＶＳ　パシオのトレーナー２
+[quest_title_1030409000602030] 謎の怪物の正体
+[quest_title_1030409000602070] ＶＳ　パシオのトレーナー３
+[quest_title_1030409000602040] ベベノムが選んだ道
+[quest_title_1030409000602080] ＶＳ　パシオのトレーナー４
+[quest_title_1030409000602090] １日１回限定・高難度バトル！
+[quest_title_1030409000602100] チャレンジバトルで勝負！
+[quest_title_1030409000602110] チャレンジバトルで勝負！２
+[quest_title_1030220128100000] とある日のマジコスミツル
+[quest_title_1030220254000000] とある日のマクワ
+[quest_title_1030220255000000] とある日のメロン
+[quest_title_1030220242000000] とある日のマサル
+[quest_title_1030220652680000] とある日のサヨコ
+[quest_title_1040002570001011] キバナとの特別な一日　前編
+[quest_title_1040002570001021] キバナとの特別な一日　後編
 
 ===========
 story_quest_name_ko.lsd
@@ -21544,6 +21978,74 @@ story_quest_name_ko.lsd
 [quest_title_1030220204000000] 라뉴이의 어느 날
 [quest_group_title_10651780000] 새나
 (관광객)
+[quest_group_title_10128100000] 궁극코스 민진
+[quest_group_title_10254000000] 마쿠와
+[quest_group_title_10255000000] 멜론
+[quest_group_title_10242000000] 승재
+[quest_group_title_10652680000] 소야
+(오컬트마니아)
+[quest_group_title_10092400000] 아이리스
+(22시즌)
+[quest_group_title_10251400000] 어니언
+(22시즌)
+[quest_title_1030110000490100] 유대의 선악이란
+[quest_title_1030110000490200] 때늦은 인도
+[quest_title_1030409000601000] 나에게 부족한 것
+[quest_title_1030409000601010] 엇갈리는 마음
+[quest_title_1030409000601020] 잊고 있던 소중한 것
+[quest_title_1030409000601030] 되찾은 미소
+[quest_title_1030409000601040] 두 사람의 가디안 트레이너
+[quest_title_1030409000601050] VS 파시오의 트레이너
+[quest_title_1030409000601060] VS 파시오의 트레이너2
+[quest_title_1030409000601070] VS 파시오의 트레이너3
+[quest_title_1030409000601080] VS 파시오의 트레이너4
+[quest_title_1030409000601090] 1일 1회 한정 고난도 배틀!
+[quest_title_1030409000601100] 챌린지배틀로 승부!
+[quest_title_1030409000601110] 챌린지배틀로 승부!2
+[quest_title_1030409000604010] 민진에게 도전하라!
+[quest_title_1030409000604020] 민진에게 도전하라!2
+[quest_title_1030409000604030] 민진에게 도전하라!3
+[quest_title_1030409000604040] 민진에게 도전하라!4
+[quest_title_1030409000604050] 강적! 궁극코스 민진에게 도전하라!
+[quest_title_1030409000603000] 잘 맞는 상대와 잘 안 맞는 상대
+[quest_title_1030409000603010] 마쿠와와 함께 트레이닝!
+[quest_title_1030409000603020] 마쿠와와 함께 트레이닝!2
+[quest_title_1030409000603030] 멜론과 함께 트레이닝!
+[quest_title_1030409000603040] 멜론과 함께 트레이닝!2
+[quest_title_1030409000603050] 승재와 함께 트레이닝!
+[quest_title_1030409000603060] 승재와 함께 트레이닝!2
+[quest_title_1030409000603070] 1일 1회 한정 마쿠와와 특훈!
+[quest_title_1030409000603080] 1일 1회 한정 멜론과 특훈!
+[quest_title_1030409000603090] 1일 1회 한정 승재와 특훈!
+[quest_title_1030409000603100] 챌린지배틀! 멜론
+[quest_title_1030409000603110] 챌린지배틀! 멜론2
+[quest_title_1030409000603120] 챌린지배틀! 금랑
+[quest_title_1030409000603130] 챌린지배틀! 금랑2
+[quest_title_1030409000603140] 챌린지배틀! 야청
+[quest_title_1030409000603150] 챌린지배틀! 야청2
+[quest_title_1030440900201010] VS 파시오의 트레이너
+[quest_title_1030440900202010] VS 파시오의 트레이너2
+[quest_title_1030440900203010] VS 파시오의 트레이너3
+[quest_title_1030440900204010] VS 파시오의 트레이너4
+[quest_title_1030409000602000] 오컬트의 세계에 어서 오세요
+[quest_title_1030409000602010] 오늘의 주인공은...
+[quest_title_1030409000602050] VS 파시오의 트레이너
+[quest_title_1030409000602020] 신기한 것을 찾아서
+[quest_title_1030409000602060] VS 파시오의 트레이너2
+[quest_title_1030409000602030] 수수께끼의 괴물의 정체
+[quest_title_1030409000602070] VS 파시오의 트레이너3
+[quest_title_1030409000602040] 베베놈이 선택한 길
+[quest_title_1030409000602080] VS 파시오의 트레이너4
+[quest_title_1030409000602090] 1일 1회 한정 고난도 배틀!
+[quest_title_1030409000602100] 챌린지배틀로 승부!
+[quest_title_1030409000602110] 챌린지배틀로 승부!2
+[quest_title_1030220128100000] 궁극코스 민진의 어느 날
+[quest_title_1030220254000000] 마쿠와의 어느 날
+[quest_title_1030220255000000] 멜론의 어느 날
+[quest_title_1030220242000000] 승재의 어느 날
+[quest_title_1030220652680000] 소야의 어느 날
+[quest_title_1040002570001011] 금랑과의 특별한 하루 전편
+[quest_title_1040002570001021] 금랑과의 특별한 하루 후편
 
 ===========
 story_quest_name_zh-TW.lsd
@@ -24106,6 +24608,74 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030220204000000] 某日的夜妮
 [quest_group_title_10651780000] 奈奈彩
 （觀光客）
+[quest_group_title_10128100000] 美極套裝滿充
+[quest_group_title_10254000000] 瑪瓜
+[quest_group_title_10255000000] 美蓉
+[quest_group_title_10242000000] 小勝
+[quest_group_title_10652680000] 紗幽子
+（靈異迷）
+[quest_group_title_10092400000] 艾莉絲
+（２０２２秋季）
+[quest_group_title_10251400000] 歐尼奧
+（２０２２秋季）
+[quest_title_1030110000490100] 何謂牽絆的善惡
+[quest_title_1030110000490200] 未能及時的引導
+[quest_title_1030409000601000] 我的不足之處
+[quest_title_1030409000601010] 分歧的心
+[quest_title_1030409000601020] 遺忘的重要之事
+[quest_title_1030409000601030] 找回的笑容
+[quest_title_1030409000601040] ２位沙奈朵行家
+[quest_title_1030409000601050] ＶＳ　帕希歐的訓練家
+[quest_title_1030409000601060] ＶＳ　帕希歐的訓練家２
+[quest_title_1030409000601070] ＶＳ　帕希歐的訓練家３
+[quest_title_1030409000601080] ＶＳ　帕希歐的訓練家４
+[quest_title_1030409000601090] １天僅限１次的高難度對戰！
+[quest_title_1030409000601100] 用挑戰對戰決勝負！
+[quest_title_1030409000601110] 用挑戰對戰決勝負！２
+[quest_title_1030409000604010] 挑戰滿充！
+[quest_title_1030409000604020] 挑戰滿充！２
+[quest_title_1030409000604030] 挑戰滿充！３
+[quest_title_1030409000604040] 挑戰滿充！４
+[quest_title_1030409000604050] 強敵！挑戰美極套裝滿充！
+[quest_title_1030409000603000] 擅長的對手與不擅長的對手
+[quest_title_1030409000603010] 與瑪瓜一起訓練！
+[quest_title_1030409000603020] 與瑪瓜一起訓練！２
+[quest_title_1030409000603030] 與美蓉一起訓練！
+[quest_title_1030409000603040] 與美蓉一起訓練！２
+[quest_title_1030409000603050] 與小勝一起訓練！
+[quest_title_1030409000603060] 與小勝一起訓練！２
+[quest_title_1030409000603070] １天僅限１次　與瑪瓜特訓！
+[quest_title_1030409000603080] １天僅限１次　與美蓉特訓！
+[quest_title_1030409000603090] １天僅限１次　與小勝特訓！
+[quest_title_1030409000603100] 挑戰對戰！　美蓉
+[quest_title_1030409000603110] 挑戰對戰！　美蓉２
+[quest_title_1030409000603120] 挑戰對戰！　奇巴納
+[quest_title_1030409000603130] 挑戰對戰！　奇巴納２
+[quest_title_1030409000603140] 挑戰對戰！　露璃娜
+[quest_title_1030409000603150] 挑戰對戰！　露璃娜２
+[quest_title_1030440900201010] ＶＳ　帕希歐的訓練家
+[quest_title_1030440900202010] ＶＳ　帕希歐的訓練家２
+[quest_title_1030440900203010] ＶＳ　帕希歐的訓練家３
+[quest_title_1030440900204010] ＶＳ　帕希歐的訓練家４
+[quest_title_1030409000602000] 歡迎來到靈異世界
+[quest_title_1030409000602010] 今天的主角是……
+[quest_title_1030409000602050] ＶＳ　帕希歐的訓練家
+[quest_title_1030409000602020] 追尋神秘
+[quest_title_1030409000602060] ＶＳ　帕希歐的訓練家２
+[quest_title_1030409000602030] 神秘怪物的真面目
+[quest_title_1030409000602070] ＶＳ　帕希歐的訓練家３
+[quest_title_1030409000602040] 毒貝比選擇的道路
+[quest_title_1030409000602080] ＶＳ　帕希歐的訓練家４
+[quest_title_1030409000602090] １天僅限１次的高難度對戰！
+[quest_title_1030409000602100] 用挑戰對戰決勝負！
+[quest_title_1030409000602110] 用挑戰對戰決勝負！２
+[quest_title_1030220128100000] 某日的美極套裝滿充
+[quest_title_1030220254000000] 某日的瑪瓜
+[quest_title_1030220255000000] 某日的美蓉
+[quest_title_1030220242000000] 某日的小勝
+[quest_title_1030220652680000] 某日的紗幽子
+[quest_title_1040002570001011] 與奇巴納的特別日子　前篇
+[quest_title_1040002570001021] 與奇巴納的特別日子　後篇
 
 ===========
 trainer_description_de.lsd
@@ -24957,6 +25527,32 @@ ihrem Kampfeseifer und ihrer Schönheit.
 [10101000001] Sie ist ein heiterer Trainer mit einem starken Sinn für
 Gerechtigkeit, steht gerne im Rampenlicht und möchte
 gegen Trainer aus aller Welt kämpfen.
+[10128100000] Heiko trägt seine neue Machtmontur und hat Guardevoir
+als seinen neuen Gefährten dabei. Etwas daran macht ihn
+richtig nostalgisch.
+[10242000000] Dieser Trainer aus Galar liebt die Natur. In
+Pokémon-Kämpfen beobachtet er die Attacken seines
+Gegners ganz genau und gibt seinem Pokémon-Partner
+haargenaue Anweisungen.
+[10092400000] Lilia genießt das schaurig-schöne Fest. Sie hat dort
+Agoyon getroffen und kämpft jetzt mit ihm zusammen
+um so viele Süßigkeiten wie möglich.
+[10251400000] Nio genießt das schaurig-schöne Fest. Von seiner Maske,
+die aussieht wie sein Gefährte Pumpdjinn, ist er richtig
+begeistert!
+[10254000000] Mac ist der Arenaleiter aus Galar, der sich auf
+Gesteins-Pokémon spezialisiert hat. Aufgrund seines
+stylischen Auftretens im Kampf steht seine Beliebtheit
+seinem Talent in nichts nach.
+[10255000000] Mel ist schon seit ihren Zwanzigern die Arenaleiterin der
+Eis-Arena in Galar. Sie ist eine ausgezeichnete, wenn
+auch sehr strenge, Lehrerin.
+[10652680000] Diese Trainerin liebt jene Geheimnisse der Welt, die sich
+nicht durch die Wissenschaft oder die Macht der Pokémon
+erklären lassen. Sie mag keine Menschenmengen.
+[10257000001] Dieser Trainer genießt den Ruf des stärksten Arenaleiters
+der Galar-Region. Sobald der Kampf beginnt, weicht
+seine typische Gelassenheit einem glühenden Siegeswillen.
 
 ===========
 trainer_description_en.lsd
@@ -25714,6 +26310,30 @@ tactics and cute appearance have earned her many fans.
 [10101000001] This high-spirited young lady likes to stand out and has
 a strong sense of justice. Her dream is to have many
 battles with Trainers all over the world.
+[10128100000] Wally’s in a sygna suit and has formed a new sync pair
+with Gardevoir. Something about it fills him
+with nostalgia.
+[10242000000] This Galar Trainer loves nature. In battle, he’s a strategist
+who carefully observes opponents and calls out
+pinpoint instructions.
+[10092400000] Iris is enjoying a festival that might be a little scary. She
+teamed up with Naganadel at the event to stock up on
+candy and battle.
+[10251400000] Allister’s enjoying a festival that might be a little scary.
+He’s more excited than usual wearing his mask that
+matches his partner, Gourgeist.
+[10254000000] Gordie is a Rock-type Gym Leader from Galar. His
+popularity and talent are top class, and he’s worked hard
+to achieve victory through a refined battle style.
+[10255000000] Melony has been the Ice-type Gym Leader in Galar since
+she was in her twenties. She is also known as a very
+effective coach, but her coaching style is incredibly strict.
+[10652680000] This Trainer loves the mysteries of this world that
+can’t be explained by science or the power of Pokémon.
+She’s not the biggest fan of crowded places.
+[10257000001] Said to be the strongest Gym Leader in Galar, this Trainer
+has an easygoing personality that quickly changes to a
+fiery determination to win once he starts to battle.
 
 ===========
 trainer_description_es.lsd
@@ -26607,6 +27227,35 @@ granjeado muchos admiradores.
 de la justicia a la que le encanta ser el centro de
 atención. Sueña con medir sus fuerzas con gente de
 todo el mundo.
+[10128100000] Blasco luce su nuevo Traje Summum. Esta vez su compi
+es Gardevoir, lo que por alguna razón le da un toque
+nostálgico.
+[10242000000] Entrenador de Galar al que le encanta la naturaleza.
+Durante los combates Pokémon, acostumbra a observar
+los movimientos del oponente y darle instrucciones
+precisas a su compi.
+[10092400000] Iris está lista para disfrutar del desfile nocturno, aunque
+le dé algo de miedo. Ha unido fuerzas con un Naganadel
+que conoció en el desfile y, juntos, planean combatir con
+quien haga falta para conseguir chuches a montones.
+[10251400000] Alistair está listo para disfrutar del desfile nocturno. Lleva
+una máscara que se parece a su compi Gourgeist, por lo
+que está bastante más animado de lo habitual.
+[10254000000] Líder del Gimnasio de tipo Roca de Galar. Cuenta con una
+legión de fans debido a su gran popularidad y talento, y
+siempre busca la victoria con un estilo de lucha refinado.
+[10255000000] Líder del Gimnasio de tipo Hielo de Galar desde que se
+encontraba en la veintena. Es una reconocida instructora
+de excelentes cualidades, aunque sus métodos resultan
+sumamente estrictos.
+[10652680000] Entrenadora con auténtica pasión por los misterios del
+mundo; o, al menos, aquellos que no pueden explicarse
+a través de la ciencia o el poder de los Pokémon. No le
+gustan demasiado las multitudes.
+[10257000001] Dicen que en Galar no hay otro Líder de Gimnasio tan
+fuerte como él. Tan simpático a primera vista como
+implacable en combate, su carácter se transforma por
+completo cuando pelea por la victoria.
 
 ===========
 trainer_description_fr.lsd
@@ -27452,6 +28101,34 @@ Son esprit stratège et son style lui ont fait gagner
 de nombreux admirateurs.
 [10101000001] Une Dresseuse énergique qui aime attirer l'attention.
 Elle rêve de combattre les Dresseurs du monde entier.
+[10128100000] Dans son Look Ultime flambant neuf, Timmy forme un tout
+nouveau Duo avec Gardevoir, ce qui le rend nostalgique,
+pour une raison quelconque.
+[10242000000] Ce Dresseur de Galar est un amoureux de la nature.
+En combat, il observe attentivement ses adversaires
+afin de pouvoir donner de précieuses instructions
+à son partenaire Pokémon.
+[10092400000] Iris s'amuse beaucoup lors d'un festival nocturne quelque
+peu effrayant. Elle y a rencontré Mandrillon, avec qui
+elle fait équipe en combat dans le but de récolter
+autant de bonbons que possible.
+[10251400000] Alistair s'amuse beaucoup lors d'un festival nocturne
+quelque peu effrayant. Il porte un masque assorti
+à son partenaire Pokémon, Banshitrouye, ce qui
+le rend encore plus enthousiaste que d'habitude.
+[10254000000] Chaz est le Champion d'Arène de type Roche à Galar.
+Sa popularité et son talent lui apportent de nombreux
+fans. Son objectif est de toujours gagner en se battant
+de manière cool et distinguée.
+[10255000000] Lona est la Championne d'Arène de type Glace à Galar,
+et ce depuis qu'elle a la vingtaine. C'est une coach
+émérite, mais si un mot devait résumer ses méthodes
+d'apprentissage, ce serait « rigueur ».
+[10652680000] Une Dresseuse passionnée par les mystères que la science
+et le pouvoir des Pokémon ne peuvent pas expliquer.
+Elle ne raffole pas de lieux remplis de foule.
+[10257000001] Le Champion d'Arène le plus puissant de Galar.
+D'ordinaire amical, il est impitoyable en combat.
 
 ===========
 trainer_description_it.lsd
@@ -28284,6 +28961,31 @@ hanno conquistato il cuore di innumerevoli fan.
 [10101000001] Giovane allegra e dal forte senso di giustizia, ama essere
 al centro dell'attenzione e sogna di lottare contro tutti
 gli Allenatori del mondo.
+[10128100000] Lino indossa un Costumax e ha formato un'Unità con
+Gardevoir, un nuovo compagno che, per qualche motivo,
+gli fa provare un senso di nostalgia.
+[10242000000] Allenatore di Galar amante della natura, nelle lotte
+si affida molto alla sua capacità di ragionamento e
+osserva scrupolosamente come si muovono gli avversari
+per dare ordini meticolosi al suo Pokémon.
+[10092400000] Iris si sta godendo la festa, un po' spaventosa, durante
+la quale ha incontrato Naganadel. Insieme a lui, ora
+lancia sfide per ottenere un sacco di dolcetti.
+[10251400000] Onion si sta godendo questa festa un po' spaventosa.
+Indossa una maschera che ricorda il suo compagno
+Gourgeist, quindi è più brioso del solito.
+[10254000000] È un Capopalestra di tipo Roccia di Galar, dove pochi
+Allenatori lo superano, quanto a forza o successo di
+pubblico. Punta a vincere con uno stile raffinato.
+[10255000000] Capopalestra di tipo Ghiaccio di Galar da quando aveva
+almeno vent'anni. È anche un'eccellente coach,
+ma è estremamente severa.
+[10652680000] Un'Allenatrice appassionata dei misteri del mondo che
+né la scienza né il potere dei Pokémon possono spiegare.
+Non va matta per i luoghi affollati.
+[10257000001] Considerato da molti il Capopalestra più forte di Galar,
+ha un temperamento gioviale, ma mostra tutta la sua
+determinazione non appena comincia una lotta.
 
 ===========
 trainer_description_ja.lsd
@@ -29038,6 +29740,30 @@ trainer_description_ja.lsd
 [10101000001] 目立ちたがりで　明るく　元気で　正義感の　強い
 少女トレーナー。　世界中の　ポケモントレーナーと
 メイっぱい　ポケモン勝負　することが　夢。
+[10128100000] マジコスを　身にまとった　ミツル。
+新たに　サーナイトと　バディーズに　なったが
+なぜか　ちょっと懐かしい　気持ちがするという。
+[10242000000] 自然が　大好きな　ガラル地方の　トレーナー。
+ポケモン勝負では　相手の動きを　じっくりと　観察し
+バディに　的確な　指示を　だしていく　頭脳派。
+[10092400000] ちょっぴり怖い　お祭りを　楽しむ　アイリス。
+お祭りの　最中に　出会った　アーゴヨンと　一緒に
+たくさん　お菓子を　もらうため　勝負を　挑む。
+[10251400000] ちょっぴり怖い　お祭りを　楽しむ　オニオン。
+バディの　パンプジンに　そっくりな　仮面をつけて
+いつもより　少し　ウキウキしている。
+[10254000000] ガラル地方　いわタイプの　ジムリーダー。
+人気　実力ともに　トップクラスで　ファンも多い。
+スタイリッシュな　戦い方で　勝利を　めざす。
+[10255000000] ガラル地方　こおりタイプの　ジムリーダー。
+２０代の頃から　ジムリーダーを　務めている。
+優秀な　コーチだが　指導方針は　スパルタ。
+[10652680000] 科学や　ポケモンの力だけでは　解明できない
+世の中の　不思議なことが　大好きな　トレーナー。
+にぎやかな場所は　ちょっと　ニガテ。
+[10257000001] ガラル地方で　最強と　いわれる　ジムリーダー。
+ポケモン勝負になると　気さくな性格から　一変するが
+それは勝負に対して　全力であることの表れだ。
 
 ===========
 trainer_description_ko.lsd
@@ -29791,6 +30517,30 @@ WPM 운영위원회의 대표도 맡고 있다.
 [10101000001] 눈에 띄고 싶어 하며 밝고 활발하고 정의감이 넘치는
 소녀 트레이너. 전 세계의 포켓몬 트레이너와
 마음껏 포켓몬 승부를 하는 것이 꿈이다.
+[10128100000] 궁극코스를 입은 민진.
+새로 가디안과 버디즈가 되었지만
+어째서인지 조금 그리운 느낌이 든다고 한다.
+[10242000000] 자연을 좋아하는 가라르지방의 트레이너.
+포켓몬 승부에서는 상대의 움직임을 차분하게 관찰하고
+버디에게 정확히 지시하는 두뇌파.
+[10092400000] 조금 무서운 축제를 즐기는 아이리스.
+축제 도중에 만난 아고용과 함께
+과자를 많이 받기 위해 승부를 건다.
+[10251400000] 조금 무서운 축제를 즐기는 어니언.
+버디인 펌킨인을 닮은 가면을 쓰고
+평소보다 약간 들떠있다.
+[10254000000] 가라르지방의 바위타입 체육관 관장.
+인기와 실력 모두 톱클래스이며 팬도 많다.
+스타일리시한 전법으로 승리를 노린다.
+[10255000000] 가라르지방의 얼음타입 체육관 관장.
+20대 시절부터 체육관 관장을 맡고 있다.
+우수한 코치이지만 지도 방식은 스파르타식이다.
+[10652680000] 과학이나 포켓몬의 힘만으로는 해명할 수 없는
+불가사의를 좋아하는 트레이너.
+북적한 장소는 다소 힘들어한다.
+[10257000001] 가라르지방에서 최강이라 불리는 체육관 관장.
+포켓몬 승부가 시작되면 온화한 성격에서 매섭게 변하지만
+그건 승부에 전력을 다하기 때문이다.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -30544,6 +31294,30 @@ trainer_description_zh-TW.lsd
 [10101000001] 愛出風頭、開朗活潑、充滿正義感的
 少女訓練家。夢想和世界上所有的
 寶可夢訓練家來場「依鳴驚人」的對戰。
+[10128100000] 身穿美極套裝的滿充。
+他與沙奈朵雖是新結成的拍組，
+但不知為何總有種懷念的感覺。
+[10242000000] 非常喜歡大自然的伽勒爾地區訓練家。
+他的頭腦聰明伶俐，在寶可夢對戰時，
+會先仔細觀察對手的動向再給拍檔明確的指示。
+[10092400000] 享受有點嚇人的祭典的艾莉絲。
+她與在祭典中相遇的四顎針龍一起
+為了獲得許多的點心而發起對戰。
+[10251400000] 享受有點嚇人的祭典的歐尼奧。
+他戴上和拍檔南瓜怪人一模一樣的面具，
+看起來顯得比平常還要興奮一點。
+[10254000000] 伽勒爾地區岩石屬性的道館館主。
+無論人氣還是實力都是頂尖水準，粉絲為數眾多。
+總是以瀟灑的戰鬥風格來追求勝利。
+[10255000000] 伽勒爾地區的冰屬性道館館主。
+２０多歲便開始擔任道館館主。
+雖是優秀的教練，但教育方式卻是斯巴達教育。
+[10652680000] 熱愛這世上單靠科學與寶可夢的力量
+無法解開的神秘現象的訓練家。
+她不是很喜歡熱鬧的地方。
+[10257000001] 被稱為伽勒爾最強的道館館主。
+在寶可夢對戰時，他平易近人的個性會徹底改變，
+但那正是他全力迎戰的證明。
 
 ===========
 trainer_name_de.lsd
@@ -30710,6 +31484,7 @@ trainer_name_de.lsd
 [ch0176] Lucian
 [ch0183] Marlon
 [ch0190] Ryuki
+[ch0191] Achromas
 [ch0192] Marc
 [ch0193] Adrian
 [ch0194] Zyrus
@@ -30729,6 +31504,7 @@ trainer_name_de.lsd
 [ch0227] Saturn
 [ch0240] Jessie
 [ch0241] James
+[ch0242] Victor
 [ch0243] Gloria
 [ch0244] Hop
 [ch0245] Mary
@@ -30737,6 +31513,8 @@ trainer_name_de.lsd
 [ch0249] Kate
 [ch0250] Saida
 [ch0251] Nio
+[ch0254] Mac
+[ch0255] Mel
 [ch0256] Nezz
 [ch0257] Roy
 [ch0259] Sania
@@ -30752,11 +31530,13 @@ trainer_name_de.lsd
 [ch0264] Ash
 [ch0530] Urlauber
 [ch0531] Urlauberin
+[ch0521] Hexe
 [ch0626] Magma Rüpel
 [ch0627] Magma Rüpel
 [ch0502] Aqua Rüpel
 [ch0503] Aqua Rüpel
 [ch0651] Mathilda
+[ch0652] Helen
 
 ===========
 trainer_name_en.lsd
@@ -30923,6 +31703,7 @@ trainer_name_en.lsd
 [ch0176] Lucian
 [ch0183] Molayne
 [ch0190] Ryuki
+[ch0191] Colress
 [ch0192] Maxie
 [ch0193] Archie
 [ch0194] Cyrus
@@ -30942,6 +31723,7 @@ trainer_name_en.lsd
 [ch0227] Saturn
 [ch0240] Jessie
 [ch0241] James
+[ch0242] Victor
 [ch0243] Gloria
 [ch0244] Hop
 [ch0245] Marnie
@@ -30950,6 +31732,8 @@ trainer_name_en.lsd
 [ch0249] Nessa
 [ch0250] Bea
 [ch0251] Allister
+[ch0254] Gordie
+[ch0255] Melony
 [ch0256] Piers
 [ch0257] Raihan
 [ch0259] Sonia
@@ -30965,11 +31749,13 @@ trainer_name_en.lsd
 [ch0264] Ash
 [ch0530] Sightseer
 [ch0531] Sightseer
+[ch0521] Hex Maniac
 [ch0626] Team Magma Grunt
 [ch0627] Team Magma Grunt
 [ch0502] Team Aqua Grunt
 [ch0503] Team Aqua Grunt
 [ch0651] Naomi
+[ch0652] Helena
 
 ===========
 trainer_name_es.lsd
@@ -31136,6 +31922,7 @@ trainer_name_es.lsd
 [ch0176] Delos
 [ch0183] Lario
 [ch0190] Olano
+[ch0191] Acromo
 [ch0192] Magno
 [ch0193] Aquiles
 [ch0194] Helio
@@ -31155,6 +31942,7 @@ trainer_name_es.lsd
 [ch0227] Saturno
 [ch0240] Jessie
 [ch0241] James
+[ch0242] Victor
 [ch0243] Gloria
 [ch0244] Paul
 [ch0245] Roxy
@@ -31163,6 +31951,8 @@ trainer_name_es.lsd
 [ch0249] Cathy
 [ch0250] Judith
 [ch0251] Alistair
+[ch0254] Morris
+[ch0255] Mel
 [ch0256] Nerio
 [ch0257] Roy
 [ch0259] Sonia
@@ -31178,11 +31968,13 @@ trainer_name_es.lsd
 [ch0264] Ash
 [ch0530] Veraneante
 [ch0531] Veraneante
+[ch0521] Bruja
 [ch0626] Recluta del Equipo Magma
 [ch0627] Recluta del Equipo Magma
 [ch0502] Recluta del Equipo Aqua
 [ch0503] Recluta del Equipo Aqua
 [ch0651] Berta
+[ch0652] Agnès
 
 ===========
 trainer_name_fr.lsd
@@ -31349,6 +32141,7 @@ trainer_name_fr.lsd
 [ch0176] Lucio
 [ch0183] Molène
 [ch0190] Solane
+[ch0191] Nikolaï
 [ch0192] Max
 [ch0193] Arthur
 [ch0194] Hélio
@@ -31368,6 +32161,7 @@ trainer_name_fr.lsd
 [ch0227] Saturne
 [ch0240] Jessie
 [ch0241] James
+[ch0242] Victor
 [ch0243] Gloria
 [ch0244] Nabil
 [ch0245] Rosemary
@@ -31376,6 +32170,8 @@ trainer_name_fr.lsd
 [ch0249] Donna
 [ch0250] Faïza
 [ch0251] Alistair
+[ch0254] Chaz
+[ch0255] Lona
 [ch0256] Peterson
 [ch0257] Roy
 [ch0259] Sonya
@@ -31391,11 +32187,13 @@ trainer_name_fr.lsd
 [ch0264] Sacha
 [ch0530] Vacancier
 [ch0531] Vacancière
+[ch0521] Mystimaniac
 [ch0626] Sbire Team Magma
 [ch0627] Sbire Team Magma
 [ch0502] Sbire Team Aqua
 [ch0503] Sbire Team Aqua
 [ch0651] Ninna
+[ch0652] Héléna
 
 ===========
 trainer_name_it.lsd
@@ -31562,6 +32360,7 @@ trainer_name_it.lsd
 [ch0176] Luciano
 [ch0183] Tapso
 [ch0190] Morel
+[ch0191] Acromio
 [ch0192] Max
 [ch0193] Ivan
 [ch0194] Cyrus
@@ -31581,6 +32380,7 @@ trainer_name_it.lsd
 [ch0227] Saturno
 [ch0240] Jessie
 [ch0241] James
+[ch0242] Victor
 [ch0243] Gloria
 [ch0244] Hop
 [ch0245] Mary
@@ -31589,6 +32389,8 @@ trainer_name_it.lsd
 [ch0249] Azzurra
 [ch0250] Fabia
 [ch0251] Onion
+[ch0254] Milo
+[ch0255] Melania
 [ch0256] Ginepro
 [ch0257] Laburno
 [ch0259] Sonia
@@ -31604,11 +32406,13 @@ trainer_name_it.lsd
 [ch0264] Ash
 [ch0530] Vacanziere
 [ch0531] Vacanziera
+[ch0521] Streghetta
 [ch0626] Recluta del Team Magma
 [ch0627] Recluta del Team Magma
 [ch0502] Recluta del Team Idro
 [ch0503] Recluta del Team Idro
 [ch0651] Gaia
+[ch0652] Neride
 
 ===========
 trainer_name_ja.lsd
@@ -31775,6 +32579,7 @@ trainer_name_ja.lsd
 [ch0176] ゴヨウ
 [ch0183] マーレイン
 [ch0190] リュウキ
+[ch0191] アクロマ
 [ch0192] マツブサ
 [ch0193] アオギリ
 [ch0194] アカギ
@@ -31794,6 +32599,7 @@ trainer_name_ja.lsd
 [ch0227] サターン
 [ch0240] ムサシ
 [ch0241] コジロウ
+[ch0242] マサル
 [ch0243] ユウリ
 [ch0244] ホップ
 [ch0245] マリィ
@@ -31802,6 +32608,8 @@ trainer_name_ja.lsd
 [ch0249] ルリナ
 [ch0250] サイトウ
 [ch0251] オニオン
+[ch0254] マクワ
+[ch0255] メロン
 [ch0256] ネズ
 [ch0257] キバナ
 [ch0259] ソニア
@@ -31817,11 +32625,13 @@ trainer_name_ja.lsd
 [ch0264] サトシ
 [ch0530] かんこうきゃく
 [ch0531] かんこうきゃく
+[ch0521] オカルトマニア
 [ch0626] マグマだんの　したっぱ
 [ch0627] マグマだんの　したっぱ
 [ch0502] アクアだんの　したっぱ
 [ch0503] アクアだんの　したっぱ
 [ch0651] ナナセ
+[ch0652] サヨコ
 
 ===========
 trainer_name_ko.lsd
@@ -31988,6 +32798,7 @@ trainer_name_ko.lsd
 [ch0176] 오엽
 [ch0183] 멀레인
 [ch0190] 용규
+[ch0191] 아크로마
 [ch0192] 마적
 [ch0193] 아강
 [ch0194] 태홍
@@ -32007,6 +32818,7 @@ trainer_name_ko.lsd
 [ch0227] 새턴
 [ch0240] 로사
 [ch0241] 로이
+[ch0242] 승재
 [ch0243] 우리
 [ch0244] 호브
 [ch0245] 마리
@@ -32015,6 +32827,8 @@ trainer_name_ko.lsd
 [ch0249] 야청
 [ch0250] 채두
 [ch0251] 어니언
+[ch0254] 마쿠와
+[ch0255] 멜론
 [ch0256] 두송
 [ch0257] 금랑
 [ch0259] 소니아
@@ -32030,11 +32844,13 @@ trainer_name_ko.lsd
 [ch0264] 지우
 [ch0530] 관광객
 [ch0531] 관광객
+[ch0521] 오컬트마니아
 [ch0626] 마그마단의 조무래기
 [ch0627] 마그마단의 조무래기
 [ch0502] 아쿠아단의 조무래기
 [ch0503] 아쿠아단의 조무래기
 [ch0651] 새나
+[ch0652] 소야
 
 ===========
 trainer_name_zh-TW.lsd
@@ -32201,6 +33017,7 @@ trainer_name_zh-TW.lsd
 [ch0176] 悟松
 [ch0183] 馬睿因
 [ch0190] 龍葵
+[ch0191] 阿克羅瑪
 [ch0192] 赤焰松
 [ch0193] 水梧桐
 [ch0194] 赤日
@@ -32220,6 +33037,7 @@ trainer_name_zh-TW.lsd
 [ch0227] 鎮星
 [ch0240] 武藏
 [ch0241] 小次郎
+[ch0242] 小勝
 [ch0243] 小優
 [ch0244] 赫普
 [ch0245] 瑪俐
@@ -32228,6 +33046,8 @@ trainer_name_zh-TW.lsd
 [ch0249] 露璃娜
 [ch0250] 彩豆
 [ch0251] 歐尼奧
+[ch0254] 瑪瓜
+[ch0255] 美蓉
 [ch0256] 聶梓
 [ch0257] 奇巴納
 [ch0259] 索妮亞
@@ -32243,11 +33063,13 @@ trainer_name_zh-TW.lsd
 [ch0264] 小智
 [ch0530] 觀光客
 [ch0531] 觀光客
+[ch0521] 靈異迷
 [ch0626] 熔岩隊手下
 [ch0627] 熔岩隊手下
 [ch0502] 海洋隊手下
 [ch0503] 海洋隊手下
 [ch0651] 奈奈彩
+[ch0652] 紗幽子
 
 ===========
 trainer_verbose_name_de.lsd
@@ -32379,88 +33201,95 @@ trainer_verbose_name_de.lsd
 (Donnerblitz)
 [10651780000] Mathilda 
 (Urlauberin)
+[10092400000] Lilia 
+(Saison 2022)
+[10251400000] Nio 
+(Saison 2022)
+[10128100000] MaMo-Heiko
+[10652680000] Helen 
+(Hexe)
 
 ===========
 trainer_verbose_name_en.lsd
 ===========
 [10015010000] Sygna Suit Brock
-[10101100000] Rosa
+[10101100000] Rosa 
 (Holiday 2019)
-[10096100000] Siebold
+[10096100000] Siebold 
 (Holiday 2019)
 [10106100000] Sygna Suit Elesa
 [10000000000] Sygna Suit Red
-[10048100000] Sygna Suit
+[10048100000] Sygna Suit 
 Grimsley
 [10074000000] Parker
-[10091010000] Sygna Suit
+[10091010000] Sygna Suit 
 Cynthia
-[10090400000] Steven
+[10090400000] Steven 
 (Summer 2020)
-[10002400000] Lyra
+[10002400000] Lyra 
 (Summer 2020)
 [10021010000] Sygna Suit Blue
 [10017100000] Sygna Suit Leaf
-[10007400000] Acerola
+[10007400000] Acerola 
 (Fall 2020)
-[10020400000] Hilbert
+[10020400000] Hilbert 
 (Fall 2020)
-[10016400000] Skyla
+[10016400000] Skyla 
 (Holiday 2020)
-[10008400000] Erika
+[10008400000] Erika 
 (Holiday 2020)
-[10118400000] Lillie
+[10118400000] Lillie 
 (New Year's 2021)
-[10111400000] Lance
+[10111400000] Lance 
 (New Year's 2021)
-[10130400000] Serena
+[10130400000] Serena 
 (Palentine's 2021)
-[10116400000] Dawn
+[10116400000] Dawn 
 (Palentine's 2021)
-[10092800000] Iris
+[10092800000] Iris 
 (Champion)
-[10126400000] May
+[10126400000] May 
 (Spring 2021)
-[10170400000] Burgh
+[10170400000] Burgh 
 (Spring 2021)
-[10243400000] Gloria
+[10243400000] Gloria 
 (Summer 2021)
-[10245400000] Marnie
+[10245400000] Marnie 
 (Summer 2021)
 [10247100000] Sygna Suit Leon
-[10089400000] N
+[10089400000] N 
 (Anniversary 2021)
-[10118500000] Lillie
+[10118500000] Lillie 
 (Anniversary 2021)
-[10090500000] Steven
+[10090500000] Steven 
 (Anniversary 2021)
-[10110010000] Misty
+[10110010000] Misty 
 (Swimsuit)
-[10021800000] Blue
+[10021800000] Blue 
 (Classic)
 [10110100000] Sygna Suit Misty
 [10008100000] Sygna Suit Erika
-[10148400000] Morty
+[10148400000] Morty 
 (Fall 2021)
-[10095400000] Caitlin
+[10095400000] Caitlin 
 (Fall 2021)
-[10125400000] Guzma
+[10125400000] Guzma 
 (Special Costume)
-[10158400000] Diantha
+[10158400000] Diantha 
 (Special Costume)
-[10113400000] Jasmine
+[10113400000] Jasmine 
 (Special Costume)
-[10004400000] Hilda
+[10004400000] Hilda 
 (Special Costume)
-[10048800000] Grimsley
+[10048800000] Grimsley 
 (Kimono)
-[10247400000] Leon
+[10247400000] Leon 
 (Holiday 2021)
-[10249400000] Nessa
+[10249400000] Nessa 
 (Holiday 2021)
-[10120100000] Sygna Suit
+[10120100000] Sygna Suit 
 Lusamine
-[10106800000] Elesa
+[10106800000] Elesa 
 (Classic)
 [10091200000] Sygna Suit Cynthia 
 (Renegade)
@@ -32468,19 +33297,19 @@ Lusamine
 (New Year's 2022)
 [10115400000] Volkner 
 (New Year's 2022)
-[10245410000] Marnie
+[10245410000] Marnie 
 (Palentine's 2022)
-[10250400000] Bea
+[10250400000] Bea 
 (Palentine's 2022)
 [10116100000] Sygna Suit Dawn
 [10194100000] Sygna Suit Cyrus
-[10016500000] Skyla
+[10016500000] Skyla 
 (Anniversary 2022)
-[10126500000] May
+[10126500000] May 
 (Anniversary 2022)
-[10257400000] Raihan
+[10257400000] Raihan 
 (Anniversary 2022)
-[10130100000] Sygna Suit
+[10130100000] Sygna Suit 
 Serena
 [10118410000] Lillie 
 (Special Costume)
@@ -32491,7 +33320,7 @@ Serena
 [10109400000] Emmet 
 (Special Costume)
 [10148100000] Sygna Suit Morty
-[10140100000] Sygna Suit
+[10140100000] Sygna Suit 
 Giovanni
 [10002100000] Sygna Suit Lyra
 [10112100000] Sygna Suit Ethan
@@ -32500,11 +33329,11 @@ Giovanni
 (Summer 2022)
 [10004410000] Hilda 
 (Summer 2022)
-[10012100000] Sygna Suit
+[10012100000] Sygna Suit 
 Korrina
-[10243800000] Gloria
+[10243800000] Gloria 
 (Dojo Uniform)
-[10019100000] Sygna Suit
+[10019100000] Sygna Suit 
 Brendan
 [10126100000] Sygna Suit May
 [10090100000] Sygna Suit Steven
@@ -32518,6 +33347,13 @@ Brendan
 (Thunderbolt)
 [10651780000] Naomi 
 (Sightseer)
+[10092400000] Iris 
+(Fall 2022)
+[10251400000] Allister 
+(Fall 2022)
+[10128100000] Sygna Suit Wally
+[10652680000] Helena 
+(Hex Maniac)
 
 ===========
 trainer_verbose_name_es.lsd
@@ -32635,6 +33471,12 @@ aural)
 Rayo)
 [10651780000] Berta 
 (Veraneante)
+[10092400000] Iris 
+(Temporada 22)
+[10251400000] Alistair 
+(Temporada 22)
+[10128100000] Blasco (Traje S)
+[10652680000] Agnès (Bruja)
 
 ===========
 trainer_verbose_name_fr.lsd
@@ -32763,6 +33605,13 @@ trainer_verbose_name_fr.lsd
 (Ultime 2)
 [10651780000] Ninna 
 (Vacancière)
+[10092400000] Iris 
+(Saison 2022)
+[10251400000] Alistair 
+(Saison 2022)
+[10128100000] Timmy (Ultime)
+[10652680000] Héléna 
+(Mystimaniac)
 
 ===========
 trainer_verbose_name_it.lsd
@@ -32895,6 +33744,13 @@ trainer_verbose_name_it.lsd
 (Fulmine)
 [10651780000] Gaia 
 (Vacanziera)
+[10092400000] Iris 
+(feste 2022)
+[10251400000] Onion 
+(feste 2022)
+[10128100000] Lino Costumax
+[10652680000] Neride 
+(Streghetta)
 
 ===========
 trainer_verbose_name_ja.lsd
@@ -33027,6 +33883,13 @@ trainer_verbose_name_ja.lsd
 （アナザー）
 [10651780000] ナナセ
 （かんこうきゃく）
+[10092400000] アイリス
+（２２シーズン）
+[10251400000] オニオン
+（２２シーズン）
+[10128100000] マジコスミツル
+[10652680000] サヨコ
+（オカルトマニア）
 
 ===========
 trainer_verbose_name_ko.lsd
@@ -33159,6 +34022,13 @@ trainer_verbose_name_ko.lsd
 (어나더)
 [10651780000] 새나
 (관광객)
+[10092400000] 아이리스
+(22시즌)
+[10251400000] 어니언
+(22시즌)
+[10128100000] 궁극코스 민진
+[10652680000] 소야
+(오컬트마니아)
 
 ===========
 trainer_verbose_name_zh-TW.lsd
@@ -33291,6 +34161,13 @@ trainer_verbose_name_zh-TW.lsd
 （異裝）
 [10651780000] 奈奈彩
 （觀光客）
+[10092400000] 艾莉絲
+（２０２２秋季）
+[10251400000] 歐尼奧
+（２０２２秋季）
+[10128100000] 美極套裝滿充
+[10652680000] 紗幽子
+（靈異迷）
 
 ===========
 common_widget_de.lsd
@@ -34918,7 +35795,8 @@ se hará más fuerte.
 cambio de vestimenta.
 [common_widget/trainer_detail_060] Habilidades
 pasivas
-[common_widget/trainer_detail_061] Habilidades fortuitas
+[common_widget/trainer_detail_061] Habilidades
+fortuitas
 [common_widget/trainer_detail_062] 
 [common_widget/trainer_detail_063] [Name:TrainerName ]
 y [Name:PokemonName ]
@@ -35705,12 +36583,12 @@ apprise
 [common_widget/filter_060] Galar
 [common_widget/filter_061] Autre
 [common_widget/filter_062] Catégorie
-[common_widget/filter_063] Scène
-[common_widget/filter_064] Épisode
+[common_widget/filter_063] Scènes
+[common_widget/filter_064] Épisodes
 [common_widget/filter_065] Statut
-[common_widget/filter_066] Obtenue
-[common_widget/filter_067] Non obtenue
-[common_widget/filter_068] Favorite
+[common_widget/filter_066] Obtenues
+[common_widget/filter_067] Non obtenues
+[common_widget/filter_068] Favorites
 [common_widget/sort_001] Nombre d'★
 [common_widget/sort_002] Capacité Duo
 [common_widget/sort_003] PV
@@ -38368,7 +39246,7 @@ Lv.MAX
 [common_widget/filter_059] 阿羅拉
 [common_widget/filter_060] 伽勒爾
 [common_widget/filter_061] 其他
-[common_widget/filter_062] 種類
+[common_widget/filter_062] 類別
 [common_widget/filter_063] 情境
 [common_widget/filter_064] 劇情
 [common_widget/filter_065] 狀態
@@ -41226,6 +42104,7 @@ verstärken
 [home/home_059] Lounge
 [home/home_060] Schau mal rein!
 [home/home_061] Item-Limit
+[home/home_062] Event im Gang
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missionen
 [home/global_menu_008] Freunde
@@ -42148,6 +43027,7 @@ a Champion Bundle!
 [home/home_059] Lodge
 [home/home_060] Check it out!
 [home/home_061] Inventory Limit
+[home/home_062] Event
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missions
 [home/global_menu_008] Friends
@@ -42895,7 +43775,8 @@ de un combate, y otorgará más puntos en el siguiente combate. Este
 puede activarse un máximo de tres veces al día.
 [home/quest_detail_137] ¡Mov. de Nv. más alto te darán más puntos!
 [home/quest_detail_138] Puesto
-[home/quest_detail_139] Habilidad de equipo
+[home/quest_detail_139] Habilidades
+de equipo
 [home/quest_detail_140] Menos de [Digit:2digits Idx="1" ]:[Digit:2digits Idx="2" ]
 [home/quest_detail_141] Premios por puntuación
 [home/quest_detail_142] Premios por clasificación
@@ -43049,6 +43930,7 @@ Pokémon
 [home/home_059] Salón
 [home/home_060] ¡Echa un ojo!
 [home/home_061] Límite de objetos
+[home/home_062] Evento activo
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Misiones
 [home/global_menu_008] Amigos
@@ -43844,7 +44726,7 @@ Vous recevrez alors plus de points lors de votre prochain combat.
 Déf., Atq. Spé. et Déf. Spé. Pour les Duos ayant plusieurs
 mots-clés et qui sont éligibles pour recevoir le bonus,
 seul le bonus avec l'effet le plus important s'applique.
-[home/quest_detail_145] Vous avez
+[home/quest_detail_145] Sac
 [home/quest_detail_146] Niveau du taux de butin
 [home/quest_detail_148] Victoires requises pour le niveau suivant : [Digit:3digits ]
 [home/quest_detail_149] Butin spécial
@@ -43992,6 +44874,7 @@ le Pack Maître !
 [home/home_059] Salon
 [home/home_060] Jetez un œil !
 [home/home_061] Limite d'inventaire
+[home/home_062] Évènement en cours
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missions
 [home/global_menu_008] Amis
@@ -44988,6 +45871,7 @@ più gemme!
 [home/home_059] Salotto
 [home/home_060] Da non perdere!
 [home/home_061] Limite strumenti
+[home/home_062] Evento in corso
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missioni
 [home/global_menu_008] Amici
@@ -45954,6 +46838,7 @@ Lv.[Digit:2digits ]で解放
 [home/home_059] サロン
 [home/home_060] 要チェック！
 [home/home_061] ストック上限
+[home/home_062] イベント中
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] ミッション
 [home/global_menu_008] ともだち
@@ -46906,6 +47791,7 @@ Lv.[Digit:2digits ]에서 해방
 [home/home_059] 살롱
 [home/home_060] 확인 필요!
 [home/home_061] 비축 상한
+[home/home_062] 이벤트 중
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] 미션
 [home/global_menu_008] 친구
@@ -47823,6 +48709,7 @@ home_zh-TW.lsd
 [home/home_059] 沙龍
 [home/home_060] 需確認！
 [home/home_061] 儲存上限
+[home/home_062] 活動舉辦中
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] 任務
 [home/global_menu_008] 朋友
