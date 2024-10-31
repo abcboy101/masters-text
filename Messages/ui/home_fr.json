@@ -184,6 +184,7 @@
     "home/quest_list_184": "En cours",
     "home/quest_list_185": "Pass Rallye au max",
     "home/quest_list_186": "CHANCE",
+    "home/quest_list_192": "Rang",
     "home/quest_detail_003": "Faiblesse",
     "home/quest_detail_005": "Infos",
     "home/quest_detail_009": "Équipes",
@@ -364,6 +365,8 @@
     "home/quest_detail_210": "Score",
     "home/quest_detail_211": "Master\nTop [Digit:8digits ]",
     "home/quest_detail_212": "Top [Digit:8digits ]",
+    "home/quest_detail_229": "Autres points obtenus",
+    "home/quest_detail_230": "Ce joueur n'existe pas.",
     "home/home_001": "Boutique",
     "home/home_002": "Aventure",
     "home/home_003": "Équipe",
@@ -858,5 +861,10 @@
     "home/battle_rally_069": "Remarque : Une fois la composition confirmée,\nen retirer des Duos au prochain combat empêchera\nde les y ajouter à nouveau par la suite.",
     "home/battle_rally_070": "Points de Rallye actuels",
     "home/battle_rally_071": "Insignes de Rallye disponibles",
-    "home/battle_rally_072": "Vous n'avez pas assez\nde Points de Rallye."
+    "home/battle_rally_072": "Vous n'avez pas assez\nde Points de Rallye.",
+    "home/damage_challenge_001": "Meilleur score",
+    "home/damage_challenge_002": "Historique des scores",
+    "home/damage_challenge_003": "Meilleurs scores actuels",
+    "home/damage_challenge_004": "Faiblesse : [Name:Type ]",
+    "home/damage_challenge_005": "Remarque :  Votre meilleur score pour chaque combat sera affiché. Le combat disponible change périodiquement."
 }

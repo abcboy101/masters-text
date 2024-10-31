@@ -184,6 +184,7 @@
     "home/quest_list_184": "In progress",
     "home/quest_list_185": "Rally Passes Maxed",
     "home/quest_list_186": "LUCKY",
+    "home/quest_list_192": "Score Rank",
     "home/quest_detail_003": "Weakness",
     "home/quest_detail_005": "Area Details",
     "home/quest_detail_009": "Preset Teams",
@@ -364,6 +365,8 @@
     "home/quest_detail_210": "Score",
     "home/quest_detail_211": "Master\nTop [Digit:8digits ]",
     "home/quest_detail_212": "Top [Digit:8digits ]",
+    "home/quest_detail_229": "Other Scored Points",
+    "home/quest_detail_230": "Player does not exist.",
     "home/home_001": "Shop",
     "home/home_002": "Explore",
     "home/home_003": "Team",
@@ -858,5 +861,10 @@
     "home/battle_rally_069": "Note: Once the lineup is confirmed, sync pairs removed\nfrom the lineup can’t be added again.",
     "home/battle_rally_070": "Current Rally Points",
     "home/battle_rally_071": "Obtainable Battle Rally medals",
-    "home/battle_rally_072": "You don’t have enough rally points."
+    "home/battle_rally_072": "You don’t have enough rally points.",
+    "home/damage_challenge_001": "Best Score",
+    "home/damage_challenge_002": "Score Log",
+    "home/damage_challenge_003": "Current Best Scores",
+    "home/damage_challenge_004": "Weakness: [Name:Type ]",
+    "home/damage_challenge_005": "Note: Your best score for each battle will be displayed. The battle you can take on will change periodically."
 }

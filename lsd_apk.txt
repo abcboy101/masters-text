@@ -7323,6 +7323,80 @@ Bell! 2
 [quest_title_1030460500307010] Luxuriöse Geschenke 8
 [quest_title_1030460500308010] Luxuriöse Geschenke 9
 [quest_title_1030451202001010] Vs. Entschlossene Nuit
+[quest_title_1040002520001011] Ein besonderer Tag mit Kabu
+(Teil 1)
+[quest_title_1040002520001021] Ein besonderer Tag mit Kabu
+(Teil 2)
+[quest_title_1030110000601000] Abenteuer in unbekannte
+Welten
+[quest_title_1030606000601000] Die Schatzsuche geht los!
+[quest_title_1030606000601010] Eine verdächtige Höhle
+[quest_title_1030606000601050] Vs. Tracy 1
+[quest_title_1030606000601020] Halb verzückt, halb verschreckt
+[quest_title_1030606000601060] Vs. Tracy 2
+[quest_title_1030606000601030] Wir ziehen Moruda an Land!
+[quest_title_1030606000601070] Vs. Tracy 3
+[quest_title_1030606000601040] Der wertvollste Schatz
+[quest_title_1030606000601080] Vs. Tracy 4
+[quest_title_1030606000601090] Täglicher schwerer Kampf
+[quest_title_1030606000601100] Herausforderungskampf 1
+[quest_title_1030606000601110] Herausforderungskampf 2
+[quest_title_1030460600301010] Vs. N
+[quest_title_1030460600302010] Vs. Ulrich
+[quest_title_1030460600501010] Vs. Agathe
+[quest_title_1030460600502010] Vs. Lamina
+[quest_title_1030460600503010] Vs. Lola
+[quest_title_1030460202001010] Vs. Entschlossener Kevin
+[quest_title_1030606000602000] Hey! Wie geht’s?
+[quest_title_1030606000602010] Schüler des Master-Dojos
+[quest_title_1030606000602050] Vs. Erika 1
+[quest_title_1030606000602020] Die Lehren der Kampfkunst
+[quest_title_1030606000602060] Vs. Erika 2
+[quest_title_1030606000602030] Große weite Welt
+[quest_title_1030606000602070] Vs. Erika 3
+[quest_title_1030606000602040] Im Geheimen geschärfter
+Verstand
+[quest_title_1030606000602080] Vs. Erika 4
+[quest_title_1030606000602090] Täglicher schwerer Kampf
+[quest_title_1030606000602100] Herausforderungskampf:
+Victor 1
+[quest_title_1030606000602110] Herausforderungskampf:
+Victor 2
+[quest_title_1030606000602120] Herausforderungskampf:
+Gloria 1
+[quest_title_1030606000602130] Herausforderungskampf:
+Gloria 2
+[quest_title_1030220272000000] Ein Tag mit Sophora
+[quest_title_1030220273000000] Ein Tag mit Saverio
+[quest_title_1030220199000000] Ein Tag mit Greta
+[quest_title_1030460600701010] Vs. Mary
+[quest_title_1030460600702010] Vs. Heiko
+[quest_title_1030460600703010] Vs. Hop
+[quest_title_1030460600101010] Vs. Trainer aus Passio 1
+[quest_title_1030460600101011] Vs. Trainer aus Passio 2
+[quest_title_1030460600101012] Vs. Trainer aus Passio 3
+[quest_title_1030460600101013] Vs. Trainer aus Passio 4
+[quest_group_title_10027400000] Silvana (Saison 2024)
+[quest_group_title_10007410000] Lola (Saison 2024)
+[quest_group_title_10272000000] Sophora
+[quest_group_title_10273000000] Saverio
+[quest_group_title_10199000000] Greta
+[quest_title_1030460600601010] Vs. Nemila
+[quest_title_1030460600602010] Vs. N
+[quest_title_1030460600603010] Vs. Gladio
+[quest_title_1030460600604010] Vs. Tali
+[quest_title_1030460600605010] Vs. Heiko
+[quest_title_1030460600606010] Vs. Blau
+[quest_title_1030460600607010] Vs. Sannah
+[quest_title_1030460600608010] Vs. Mary
+[quest_title_1030460600609010] Vs. Hop
+[quest_title_1030460600610010] Vs. Cheren
+[quest_title_1030460600611010] Vs. Matisse
+[quest_title_1030460600612010] Vs. Barry
+[quest_title_1030460600613010] Vs. Silber
+[quest_title_1030460600614010] Vs. Tierno
+[quest_title_1030460600615010] Vs. Betys
+[quest_title_1030460600617010] Vs. Bell
 
 ===========
 story_quest_name_en.lsd
@@ -11248,6 +11322,72 @@ Part 2
 [quest_title_1030460500307010] Luxurious Gifts: Part 8
 [quest_title_1030460500308010] Luxurious Gifts: Part 9
 [quest_title_1030451202001010] Challenge a Super Serious Nita
+[quest_title_1040002520001011] A Special Day with Kabu: Part 1
+[quest_title_1040002520001021] A Special Day with Kabu: Part 2
+[quest_title_1030110000601000] Adventures to Unknown Worlds
+[quest_title_1030606000601000] The Treasure Hunt Begins!
+[quest_title_1030606000601010] A Suspicious Cave
+[quest_title_1030606000601050] Challenge Lana: Part 1
+[quest_title_1030606000601020] Half Smitten, Half Scared
+[quest_title_1030606000601060] Challenge Lana: Part 2
+[quest_title_1030606000601030] Let’s Fish Up Dhelmise!
+[quest_title_1030606000601070] Challenge Lana: Part 3
+[quest_title_1030606000601040] The Best Treasure
+[quest_title_1030606000601080] Challenge Lana: Part 4
+[quest_title_1030606000601090] Daily Extreme Battle 1
+[quest_title_1030606000601100] Battle Challenge! Round 1
+[quest_title_1030606000601110] Battle Challenge! Round 2
+[quest_title_1030460600301010] Challenge N
+[quest_title_1030460600302010] Challenge Sidney
+[quest_title_1030460600501010] Challenge Agatha
+[quest_title_1030460600502010] Challenge Fantina
+[quest_title_1030460600503010] Challenge Acerola
+[quest_title_1030460202001010] Challenge a Super Serious Noland
+[quest_title_1030606000602000] Howdy!
+[quest_title_1030606000602010] Students of the Master Dojo
+[quest_title_1030606000602050] Challenge Erika: Part 1
+[quest_title_1030606000602020] Teachings of Martial Prowess
+[quest_title_1030606000602060] Challenge Erika: Part 2
+[quest_title_1030606000602030] The World Is Still Vast
+[quest_title_1030606000602070] Challenge Erika: Part 3
+[quest_title_1030606000602040] Minds Refined in Secret
+[quest_title_1030606000602080] Challenge Erika: Part 4
+[quest_title_1030606000602090] Daily Extreme Battle 1
+[quest_title_1030606000602100] Victor’s Battle Challenge! Round 1
+[quest_title_1030606000602110] Victor’s Battle Challenge! Round 2
+[quest_title_1030606000602120] Gloria’s Battle Challenge! Round 1
+[quest_title_1030606000602130] Gloria’s Battle Challenge! Round 2
+[quest_title_1030220272000000] A Day with Klara
+[quest_title_1030220273000000] A Day with Avery
+[quest_title_1030220199000000] A Day with Greta
+[quest_title_1030460600701010] Challenge Marnie
+[quest_title_1030460600702010] Challenge Wally
+[quest_title_1030460600703010] Challenge Hop
+[quest_title_1030460600101010] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030460600101011] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030460600101012] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030460600101013] Challenge Pasio’s Trainers: Part 4
+[quest_group_title_10027400000] Gardenia (Summer 2024)
+[quest_group_title_10007410000] Acerola (Summer 2024)
+[quest_group_title_10272000000] Klara
+[quest_group_title_10273000000] Avery
+[quest_group_title_10199000000] Greta
+[quest_title_1030460600601010] Challenge Nemona
+[quest_title_1030460600602010] Challenge N
+[quest_title_1030460600603010] Challenge Gladion
+[quest_title_1030460600604010] Challenge Hau
+[quest_title_1030460600605010] Challenge Wally
+[quest_title_1030460600606010] Challenge Blue
+[quest_title_1030460600607010] Challenge Shauna
+[quest_title_1030460600608010] Challenge Marnie
+[quest_title_1030460600609010] Challenge Hop
+[quest_title_1030460600610010] Challenge Cheren
+[quest_title_1030460600611010] Challenge Hugh
+[quest_title_1030460600612010] Challenge Barry
+[quest_title_1030460600613010] Challenge Silver
+[quest_title_1030460600614010] Challenge Tierno
+[quest_title_1030460600615010] Challenge Bede
+[quest_title_1030460600617010] Challenge Bianca
 
 ===========
 story_quest_name_es.lsd
@@ -15527,6 +15667,79 @@ farragosas de encima
 [quest_title_1030460500307010] Regaliktos de lujo (8)
 [quest_title_1030460500308010] Regaliktos de lujo (9)
 [quest_title_1030451202001010] VS. Nocta con todo
+[quest_title_1040002520001011] Un día especial con Naboru
+[quest_title_1040002520001021] Un día especial con Naboru (2)
+[quest_title_1030110000601000] Nuevas aventuras por
+mundos desconocidos
+[quest_title_1030606000601000] ¡Comienza la caza del tesoro!
+[quest_title_1030606000601010] Una cueva muy sospechosa
+[quest_title_1030606000601050] VS. Nereida
+[quest_title_1030606000601020] Sentimientos encontrados
+[quest_title_1030606000601060] VS. Nereida (2)
+[quest_title_1030606000601030] ¡A pescar a Dhelmise!
+[quest_title_1030606000601070] VS. Nereida (3)
+[quest_title_1030606000601040] Un tesoro aún más preciado
+[quest_title_1030606000601080] VS. Nereida (4)
+[quest_title_1030606000601090] ¡Un combate difícil al día!
+[quest_title_1030606000601100] ¡Un combate desafiante!
+[quest_title_1030606000601110] ¡Un combate desafiante! (2)
+[quest_title_1030460600301010] VS. N
+[quest_title_1030460600302010] VS. Sixto
+[quest_title_1030460600501010] VS. Agatha
+[quest_title_1030460600502010] VS. Fantina
+[quest_title_1030460600503010] VS. Zarala
+[quest_title_1030460202001010] VS. Sabino con todo
+[quest_title_1030606000602000] ¡Eh! ¿Cómo os va?
+[quest_title_1030606000602010] Alumnos del Dojo Maestro
+[quest_title_1030606000602050] VS. Erika
+[quest_title_1030606000602020] Mente, habilidad y cuerpo
+[quest_title_1030606000602060] VS. Erika (2)
+[quest_title_1030606000602030] Eso le toca la moral a
+cualquiera
+[quest_title_1030606000602070] VS. Erika (3)
+[quest_title_1030606000602040] Mentes entrenadas con
+elegancia
+[quest_title_1030606000602080] VS. Erika (4)
+[quest_title_1030606000602090] ¡Un combate difícil al día!
+[quest_title_1030606000602100] ¡Un combate desafiante
+contra Victor!
+[quest_title_1030606000602110] ¡Un combate desafiante
+contra Victor! (2)
+[quest_title_1030606000602120] ¡Un combate desafiante
+contra Gloria!
+[quest_title_1030606000602130] ¡Un combate desafiante
+contra Gloria! (2)
+[quest_title_1030220272000000] Un día con Sófora
+[quest_title_1030220273000000] Un día con Dreo
+[quest_title_1030220199000000] Un día con Coro
+[quest_title_1030460600701010] VS. Roxy
+[quest_title_1030460600702010] VS. Blasco
+[quest_title_1030460600703010] VS. Paul
+[quest_title_1030460600101010] VS. Entrenadores de Passio
+[quest_title_1030460600101011] VS. Entrenadores de Passio (2)
+[quest_title_1030460600101012] VS. Entrenadores de Passio (3)
+[quest_title_1030460600101013] VS. Entrenadores de Passio (4)
+[quest_group_title_10027400000] Gardenia (Temporada 24)
+[quest_group_title_10007410000] Zarala (Temporada 24)
+[quest_group_title_10272000000] Sófora
+[quest_group_title_10273000000] Dreo
+[quest_group_title_10199000000] Coro
+[quest_title_1030460600601010] VS. Mencía
+[quest_title_1030460600602010] VS. N
+[quest_title_1030460600603010] VS. Gladio
+[quest_title_1030460600604010] VS. Tilo
+[quest_title_1030460600605010] VS. Blasco
+[quest_title_1030460600606010] VS. Azul
+[quest_title_1030460600607010] VS. Xana
+[quest_title_1030460600608010] VS. Roxy
+[quest_title_1030460600609010] VS. Paul
+[quest_title_1030460600610010] VS. Cheren
+[quest_title_1030460600611010] VS. Matís
+[quest_title_1030460600612010] VS. Israel
+[quest_title_1030460600613010] VS. Plata
+[quest_title_1030460600614010] VS. Beni
+[quest_title_1030460600615010] VS. Berto
+[quest_title_1030460600617010] VS. Bel
 
 ===========
 story_quest_name_fr.lsd
@@ -20320,6 +20533,82 @@ Dresseurs de Passio IV
 [quest_title_1030460500307010] Cadeaux de luxe VIII
 [quest_title_1030460500308010] Cadeaux de luxe IX
 [quest_title_1030451202001010] Combat : Nix sans merci
+[quest_title_1040002520001011] Une journée spéciale
+avec Kabu
+[quest_title_1040002520001021] Une journée spéciale
+avec Kabu II
+[quest_title_1030110000601000] À l'aventure vers des
+mondes inconnus
+[quest_title_1030606000601000] La chasse au trésor
+commence !
+[quest_title_1030606000601010] Une grotte drôlement louche
+[quest_title_1030606000601050] Combat : Néphie
+[quest_title_1030606000601020] Sentiments contraires
+[quest_title_1030606000601060] Combat : Néphie II
+[quest_title_1030606000601030] À la pêche au Sinistrail !
+[quest_title_1030606000601070] Combat : Néphie III
+[quest_title_1030606000601040] Le plus précieux des trésors
+[quest_title_1030606000601080] Combat : Néphie IV
+[quest_title_1030606000601090] Combat difficile limité
+à une fois par jour !
+[quest_title_1030606000601100] Combat difficile
+[quest_title_1030606000601110] Combat difficile II
+[quest_title_1030460600301010] Combat : N
+[quest_title_1030460600302010] Combat : Damien
+[quest_title_1030460600501010] Combat : Agatha
+[quest_title_1030460600502010] Combat : Kiméra
+[quest_title_1030460600503010] Combat : Margie
+[quest_title_1030460202001010] Combat : Sam sans merci
+[quest_title_1030606000602000] Salut !
+[quest_title_1030606000602010] Les disciples du Dojo
+de la Maîtrise
+[quest_title_1030606000602050] Combat : Erika
+[quest_title_1030606000602020] Les critères clés d'un combat
+[quest_title_1030606000602060] Combat : Erika II
+[quest_title_1030606000602030] Comme le monde est vaste
+[quest_title_1030606000602070] Combat : Erika III
+[quest_title_1030606000602040] Un mental aiguisé bien caché
+[quest_title_1030606000602080] Combat : Erika IV
+[quest_title_1030606000602090] Combat difficile limité
+à une fois par jour !
+[quest_title_1030606000602100] Combat difficile : Victor
+[quest_title_1030606000602110] Combat difficile : Victor II
+[quest_title_1030606000602120] Combat difficile : Gloria
+[quest_title_1030606000602130] Combat difficile : Gloria II
+[quest_title_1030220272000000] Une journée avec Sophora
+[quest_title_1030220273000000] Une journée avec Saturnin
+[quest_title_1030220199000000] Une journée avec Carole
+[quest_title_1030460600701010] Combat : Rosemary
+[quest_title_1030460600702010] Combat : Timmy
+[quest_title_1030460600703010] Combat : Nabil
+[quest_title_1030460600101010] Combat : Dresseurs de Passio
+[quest_title_1030460600101011] Combat :
+Dresseurs de Passio II
+[quest_title_1030460600101012] Combat :
+Dresseurs de Passio III
+[quest_title_1030460600101013] Combat :
+Dresseurs de Passio IV
+[quest_group_title_10027400000] Flo (Saison 2024)
+[quest_group_title_10007410000] Margie (Saison 2024)
+[quest_group_title_10272000000] Sophora
+[quest_group_title_10273000000] Saturnin
+[quest_group_title_10199000000] Carole
+[quest_title_1030460600601010] Combat : Menzi
+[quest_title_1030460600602010] Combat : N
+[quest_title_1030460600603010] Combat : Gladio
+[quest_title_1030460600604010] Combat : Tili
+[quest_title_1030460600605010] Combat : Timmy
+[quest_title_1030460600606010] Combat : Blue
+[quest_title_1030460600607010] Combat : Sannah
+[quest_title_1030460600608010] Combat : Rosemary
+[quest_title_1030460600609010] Combat : Nabil
+[quest_title_1030460600610010] Combat : Tcheren
+[quest_title_1030460600611010] Combat : Matis
+[quest_title_1030460600612010] Combat : René
+[quest_title_1030460600613010] Combat : Silver
+[quest_title_1030460600614010] Combat : Tierno
+[quest_title_1030460600615010] Combat : Travis
+[quest_title_1030460600617010] Combat : Bianca
 
 ===========
 story_quest_name_it.lsd
@@ -24181,6 +24470,72 @@ Persone famose ovunque!
 [quest_title_1030460500307010] Regali di lusso 8
 [quest_title_1030460500308010] Regali di lusso 9
 [quest_title_1030451202001010] VS Notturna (risoluta)
+[quest_title_1040002520001011] Un giorno speciale con Kabu (1ª parte)
+[quest_title_1040002520001021] Un giorno speciale con Kabu (2ª parte)
+[quest_title_1030110000601000] Verso mondi sconosciuti
+[quest_title_1030606000601000] Caccia al tesoro!
+[quest_title_1030606000601010] Una grotta dall'aria sospetta
+[quest_title_1030606000601050] VS Suiren
+[quest_title_1030606000601020] Paura e coraggio
+[quest_title_1030606000601060] VS Suiren 2
+[quest_title_1030606000601030] Riportiamo a galla Dhelmise!
+[quest_title_1030606000601070] VS Suiren 3
+[quest_title_1030606000601040] Il tesoro più prezioso
+[quest_title_1030606000601080] VS Suiren 4
+[quest_title_1030606000601090] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030606000601100] Sfida ad alta difficoltà
+[quest_title_1030606000601110] Sfida ad alta difficoltà 2
+[quest_title_1030460600301010] VS N
+[quest_title_1030460600302010] VS Fosco
+[quest_title_1030460600501010] VS Agatha
+[quest_title_1030460600502010] VS Fannie
+[quest_title_1030460600503010] VS Malpi
+[quest_title_1030460202001010] VS Savino (risoluto)
+[quest_title_1030606000602000] Ehi! Salve!
+[quest_title_1030606000602010] Gli allievi del Dojo Master
+[quest_title_1030606000602050] VS Erika
+[quest_title_1030606000602020] Gli elementi fondamentali delle lotte
+[quest_title_1030606000602060] VS Erika 2
+[quest_title_1030606000602030] Un mondo pieno di talenti
+[quest_title_1030606000602070] VS Erika 3
+[quest_title_1030606000602040] Menti perfezionate in segreto
+[quest_title_1030606000602080] VS Erika 4
+[quest_title_1030606000602090] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030606000602100] Sfida ad alta difficoltà: Victor
+[quest_title_1030606000602110] Sfida ad alta difficoltà: Victor 2
+[quest_title_1030606000602120] Sfida ad alta difficoltà: Gloria
+[quest_title_1030606000602130] Sfida ad alta difficoltà: Gloria 2
+[quest_title_1030220272000000] Un giorno con Sofora
+[quest_title_1030220273000000] Un giorno con Savory
+[quest_title_1030220199000000] Un giorno con Valentina
+[quest_title_1030460600701010] VS Mary
+[quest_title_1030460600702010] VS Lino
+[quest_title_1030460600703010] VS Hop
+[quest_title_1030460600101010] VS Allenatori di Pasio
+[quest_title_1030460600101011] VS Allenatori di Pasio 2
+[quest_title_1030460600101012] VS Allenatori di Pasio 3
+[quest_title_1030460600101013] VS Allenatori di Pasio 4
+[quest_group_title_10027400000] Gardenia (feste 2024)
+[quest_group_title_10007410000] Malpi (feste 2024)
+[quest_group_title_10272000000] Sofora
+[quest_group_title_10273000000] Savory
+[quest_group_title_10199000000] Valentina
+[quest_title_1030460600601010] VS Nemi
+[quest_title_1030460600602010] VS N
+[quest_title_1030460600603010] VS Iridio
+[quest_title_1030460600604010] VS Hau
+[quest_title_1030460600605010] VS Lino
+[quest_title_1030460600606010] VS Blu
+[quest_title_1030460600607010] VS Shana
+[quest_title_1030460600608010] VS Mary
+[quest_title_1030460600609010] VS Hop
+[quest_title_1030460600610010] VS Komor
+[quest_title_1030460600611010] VS Toni
+[quest_title_1030460600612010] VS Barry
+[quest_title_1030460600613010] VS Argento
+[quest_title_1030460600614010] VS Tierno
+[quest_title_1030460600615010] VS Beet
+[quest_title_1030460600617010] VS Belle
 
 ===========
 story_quest_name_ja.lsd
@@ -28134,6 +28489,74 @@ story_quest_name_ja.lsd
 [quest_title_1030460500307010] ゴージャスな贈り物８
 [quest_title_1030460500308010] ゴージャスな贈り物９
 [quest_title_1030451202001010] ＶＳ　超本気のラニュイ
+[quest_title_1040002520001011] カブとの特別な一日　前編
+[quest_title_1040002520001021] カブとの特別な一日　後編
+[quest_title_1030110000601000] 未知なる世界への冒険
+[quest_title_1030606000601000] お宝探し開催！
+[quest_title_1030606000601010] 怪しげな洞窟
+[quest_title_1030606000601050] ＶＳ　スイレン
+[quest_title_1030606000601020] 半分大好き　半分苦手……
+[quest_title_1030606000601060] ＶＳ　スイレン２
+[quest_title_1030606000601030] ダダリンを釣りあげろ！
+[quest_title_1030606000601070] ＶＳ　スイレン３
+[quest_title_1030606000601040] 一番のお宝
+[quest_title_1030606000601080] ＶＳ　スイレン４
+[quest_title_1030606000601090] １日１回限定・高難度バトル！
+[quest_title_1030606000601100] チャレンジバトルで勝負！
+[quest_title_1030606000601110] チャレンジバトルで勝負！２
+[quest_title_1030460600301010] ＶＳ　Ｎ
+[quest_title_1030460600302010] ＶＳ　カゲツ
+[quest_title_1030460600501010] ＶＳ　キクコ
+[quest_title_1030460600502010] ＶＳ　メリッサ
+[quest_title_1030460600503010] ＶＳ　アセロラ
+[quest_title_1030460202001010] ＶＳ　超本気のダツラ
+[quest_title_1030606000602000] ウィーッス！
+[quest_title_1030606000602010] マスター道場の洗礼……？
+[quest_title_1030606000602050] ＶＳ　エリカ
+[quest_title_1030606000602020] 心技体の教え
+[quest_title_1030606000602060] ＶＳ　エリカ２
+[quest_title_1030606000602030] まだまだ世界は広い
+[quest_title_1030606000602070] ＶＳ　エリカ３
+[quest_title_1030606000602040] 人知れず磨かれた心
+[quest_title_1030606000602080] ＶＳ　エリカ４
+[quest_title_1030606000602090] １日１回限定・高難度バトル！
+[quest_title_1030606000602100] チャレンジバトル！　マサル
+[quest_title_1030606000602110] チャレンジバトル！　マサル２
+[quest_title_1030606000602120] チャレンジバトル！　ユウリ
+[quest_title_1030606000602130] チャレンジバトル！　ユウリ２
+[quest_title_1030220272000000] とある日のクララ
+[quest_title_1030220273000000] とある日のセイボリー
+[quest_title_1030220199000000] とある日のコゴミ
+[quest_title_1030460600701010] ＶＳ　マリィ
+[quest_title_1030460600702010] ＶＳ　ミツル
+[quest_title_1030460600703010] ＶＳ　ホップ
+[quest_title_1030460600101010] ＶＳ　パシオのトレーナー
+[quest_title_1030460600101011] ＶＳ　パシオのトレーナー２
+[quest_title_1030460600101012] ＶＳ　パシオのトレーナー３
+[quest_title_1030460600101013] ＶＳ　パシオのトレーナー４
+[quest_group_title_10027400000] ナタネ
+（２４シーズン）
+[quest_group_title_10007410000] アセロラ
+（２４シーズン）
+[quest_group_title_10272000000] クララ
+[quest_group_title_10273000000] セイボリー
+[quest_group_title_10199000000] コゴミ
+[quest_title_1030460600601010] ＶＳ　ネモ
+[quest_title_1030460600602010] ＶＳ　Ｎ
+[quest_title_1030460600603010] ＶＳ　グラジオ
+[quest_title_1030460600604010] ＶＳ　ハウ
+[quest_title_1030460600605010] ＶＳ　ミツル
+[quest_title_1030460600606010] ＶＳ　グリーン
+[quest_title_1030460600607010] ＶＳ　サナ
+[quest_title_1030460600608010] ＶＳ　マリィ
+[quest_title_1030460600609010] ＶＳ　ホップ
+[quest_title_1030460600610010] ＶＳ　チェレン
+[quest_title_1030460600611010] ＶＳ　ヒュウ
+[quest_title_1030460600612010] ＶＳ　ジュン
+[quest_title_1030460600613010] ＶＳ　シルバー
+[quest_title_1030460600614010] ＶＳ　ティエルノ
+[quest_title_1030460600615010] ＶＳ　ビート
+[quest_title_1030460600617010] ＶＳ　ベル
 
 ===========
 story_quest_name_ko.lsd
@@ -32086,6 +32509,74 @@ story_quest_name_ko.lsd
 [quest_title_1030460500307010] 럭셔리한 선물8
 [quest_title_1030460500308010] 럭셔리한 선물9
 [quest_title_1030451202001010] VS 진심으로 전력을 다하는 라뉴이
+[quest_title_1040002520001011] 순무와의 특별한 하루 전편
+[quest_title_1040002520001021] 순무와의 특별한 하루 후편
+[quest_title_1030110000601000] 미지의 세계로 떠나는 모험
+[quest_title_1030606000601000] 보물찾기 개최!
+[quest_title_1030606000601010] 수상한 동굴
+[quest_title_1030606000601050] VS 수련
+[quest_title_1030606000601020] 좋아하는 마음 반 불편한 마음 반
+[quest_title_1030606000601060] VS 수련2
+[quest_title_1030606000601030] 타타륜을 낚아 올려라!
+[quest_title_1030606000601070] VS 수련3
+[quest_title_1030606000601040] 최고의 보물
+[quest_title_1030606000601080] VS 수련4
+[quest_title_1030606000601090] 1일 1회 한정 고난도 배틀!
+[quest_title_1030606000601100] 챌린지배틀로 승부!
+[quest_title_1030606000601110] 챌린지배틀로 승부!2
+[quest_title_1030460600301010] VS N
+[quest_title_1030460600302010] VS 혁진
+[quest_title_1030460600501010] VS 국화
+[quest_title_1030460600502010] VS 멜리사
+[quest_title_1030460600503010] VS 아세로라
+[quest_title_1030460202001010] VS 진심으로 전력을 다하는 다투라
+[quest_title_1030606000602000] 헬로~!
+[quest_title_1030606000602010] 마스터 도장의 세례...?
+[quest_title_1030606000602050] VS 민화
+[quest_title_1030606000602020] 심기체의 가르침
+[quest_title_1030606000602060] VS 민화2
+[quest_title_1030606000602030] 아직 세상은 한참 더 넓은 법
+[quest_title_1030606000602070] VS 민화3
+[quest_title_1030606000602040] 남모르게 갈고닦아진 마음
+[quest_title_1030606000602080] VS 민화4
+[quest_title_1030606000602090] 1일 1회 한정 고난도 배틀!
+[quest_title_1030606000602100] 챌린지배틀! 승재
+[quest_title_1030606000602110] 챌린지배틀! 승재2
+[quest_title_1030606000602120] 챌린지배틀! 우리
+[quest_title_1030606000602130] 챌린지배틀! 우리2
+[quest_title_1030220272000000] 도정의 어느 날
+[quest_title_1030220273000000] 세이버리의 어느 날
+[quest_title_1030220199000000] 나리의 어느 날
+[quest_title_1030460600701010] VS 마리
+[quest_title_1030460600702010] VS 민진
+[quest_title_1030460600703010] VS 호브
+[quest_title_1030460600101010] VS 파시오의 트레이너
+[quest_title_1030460600101011] VS 파시오의 트레이너2
+[quest_title_1030460600101012] VS 파시오의 트레이너3
+[quest_title_1030460600101013] VS 파시오의 트레이너4
+[quest_group_title_10027400000] 유채
+(24시즌)
+[quest_group_title_10007410000] 아세로라
+(24시즌)
+[quest_group_title_10272000000] 도정
+[quest_group_title_10273000000] 세이버리
+[quest_group_title_10199000000] 나리
+[quest_title_1030460600601010] VS 네모
+[quest_title_1030460600602010] VS N
+[quest_title_1030460600603010] VS 글라디오
+[quest_title_1030460600604010] VS 하우
+[quest_title_1030460600605010] VS 민진
+[quest_title_1030460600606010] VS 그린
+[quest_title_1030460600607010] VS 사나
+[quest_title_1030460600608010] VS 마리
+[quest_title_1030460600609010] VS 호브
+[quest_title_1030460600610010] VS 체렌
+[quest_title_1030460600611010] VS 휴이
+[quest_title_1030460600612010] VS 용식
+[quest_title_1030460600613010] VS 실버
+[quest_title_1030460600614010] VS 티에르노
+[quest_title_1030460600615010] VS 비트
+[quest_title_1030460600617010] VS 벨
 
 ===========
 story_quest_name_zh-TW.lsd
@@ -36038,6 +36529,74 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030460500307010] 豪華贈禮８
 [quest_title_1030460500308010] 豪華贈禮９
 [quest_title_1030451202001010] ＶＳ　火力全開的夜妮
+[quest_title_1040002520001011] 與卡蕪的特別日子　前篇
+[quest_title_1040002520001021] 與卡蕪的特別日子　後篇
+[quest_title_1030110000601000] 邁向未知世界的冒險
+[quest_title_1030606000601000] 尋寶活動開跑！
+[quest_title_1030606000601010] 可疑的洞窟
+[quest_title_1030606000601050] ＶＳ　水蓮
+[quest_title_1030606000601020] 一半喜歡，一半害怕……
+[quest_title_1030606000601060] ＶＳ　水蓮２
+[quest_title_1030606000601030] 把破破舵輪釣起來！
+[quest_title_1030606000601070] ＶＳ　水蓮３
+[quest_title_1030606000601040] 最重要的寶物
+[quest_title_1030606000601080] ＶＳ　水蓮４
+[quest_title_1030606000601090] １天僅限１次的高難度對戰！
+[quest_title_1030606000601100] 用挑戰對戰決勝負！
+[quest_title_1030606000601110] 用挑戰對戰決勝負！２
+[quest_title_1030460600301010] ＶＳ　Ｎ
+[quest_title_1030460600302010] ＶＳ　花月
+[quest_title_1030460600501010] ＶＳ　菊子
+[quest_title_1030460600502010] ＶＳ　梅麗莎
+[quest_title_1030460600503010] ＶＳ　阿塞蘿拉
+[quest_title_1030460202001010] ＶＳ　火力全開的達拉
+[quest_title_1030606000602000] 嗨喲～！
+[quest_title_1030606000602010] 馬師傅武館的洗禮……？
+[quest_title_1030606000602050] ＶＳ　莉佳
+[quest_title_1030606000602020] 心技體的教誨
+[quest_title_1030606000602060] ＶＳ　莉佳２
+[quest_title_1030606000602030] 世界還相當廣闊
+[quest_title_1030606000602070] ＶＳ　莉佳３
+[quest_title_1030606000602040] 暗中受到磨練的心
+[quest_title_1030606000602080] ＶＳ　莉佳４
+[quest_title_1030606000602090] １天僅限１次的高難度對戰！
+[quest_title_1030606000602100] 挑戰對戰！　小勝
+[quest_title_1030606000602110] 挑戰對戰！　小勝２
+[quest_title_1030606000602120] 挑戰對戰！　小優
+[quest_title_1030606000602130] 挑戰對戰！　小優２
+[quest_title_1030220272000000] 某日的克拉拉
+[quest_title_1030220273000000] 某日的賽寶利
+[quest_title_1030220199000000] 某日的黃瓜香
+[quest_title_1030460600701010] ＶＳ　瑪俐
+[quest_title_1030460600702010] ＶＳ　滿充
+[quest_title_1030460600703010] ＶＳ　赫普
+[quest_title_1030460600101010] ＶＳ　帕希歐的訓練家
+[quest_title_1030460600101011] ＶＳ　帕希歐的訓練家２
+[quest_title_1030460600101012] ＶＳ　帕希歐的訓練家３
+[quest_title_1030460600101013] ＶＳ　帕希歐的訓練家４
+[quest_group_title_10027400000] 菜種
+（２０２４夏季）
+[quest_group_title_10007410000] 阿塞蘿拉
+（２０２４夏季）
+[quest_group_title_10272000000] 克拉拉
+[quest_group_title_10273000000] 賽寶利
+[quest_group_title_10199000000] 黃瓜香
+[quest_title_1030460600601010] ＶＳ　妮莫
+[quest_title_1030460600602010] ＶＳ　Ｎ
+[quest_title_1030460600603010] ＶＳ　格拉吉歐
+[quest_title_1030460600604010] ＶＳ　哈烏
+[quest_title_1030460600605010] ＶＳ　滿充
+[quest_title_1030460600606010] ＶＳ　青綠
+[quest_title_1030460600607010] ＶＳ　莎娜
+[quest_title_1030460600608010] ＶＳ　瑪俐
+[quest_title_1030460600609010] ＶＳ　赫普
+[quest_title_1030460600610010] ＶＳ　黑連
+[quest_title_1030460600611010] ＶＳ　阿修
+[quest_title_1030460600612010] ＶＳ　阿馴
+[quest_title_1030460600613010] ＶＳ　小銀
+[quest_title_1030460600614010] ＶＳ　提耶魯諾
+[quest_title_1030460600615010] ＶＳ　彼特
+[quest_title_1030460600617010] ＶＳ　白露
 
 ===========
 trainer_description_de.lsd
@@ -37429,6 +37988,46 @@ Champ-Cups von Galar abgestiegen ist.
 [10014010001] Ein talentierter Trainer, der in Einall zugleich als Lehrer
 und Arenaleiter tätig ist. Seinen Mangel an Erfahrung
 macht er durch Fleiß wett.
+[10272000000] Diese Arenaleiterin vom Typ Gift ist momentan in der
+Unterliga und trainiert im Master-Dojo in Galar. Ihre
+gerissene und hinterlistige Denkweise sorgt für ein
+ständiges Lächeln auf ihren Lippen.
+[10273000000] Dieser Arenaleiter vom Typ Psycho ist momentan in der
+Unterliga und trainiert im Master-Dojo in Galar. Er verhält
+sich wie ein vornehmer Herr, auch wenn ihm sein Stolz
+oft im Weg steht.
+[10199000000] Dieser Ringmeister ist die Kampfkoryphäe des Kampfrings
+in der Hoenn-Region. Sie ist sehr lebhaft und ehrlich,
+weshalb sie nach einer Niederlage schnell frustriert ist.
+[10027400000] Silvana unternimmt auf Passio eine Schatzsuche. In ihrem
+Piraten-Outfit sammelt sie all ihren Mut, um gemeinsam
+mit ihrem Partner-Pokémon Moruda in See zu stechen.
+[10007410000] Lola unternimmt auf Passio eine Schatzsuche. Sie ermutigt
+Silvana trotz ihrer Angst vor Geistern dazu, mit Moruda
+ein Team zu bilden. Ihr Partner-Pokémon Apoquallyp
+wurde ihr einst von Tracy anvertraut.
+[10252000001] Kabu ist ein Pokémon-Trainer vom Typ Feuer, der aus der
+Hoenn-Region nach Galar eingeladen wurde. Er hat sich
+eine Zeit lang schwer getan und nicht den gewünschten
+Erfolg gehabt, weswegen er sogar in die Unterliga des
+Champ-Cups von Galar abgestiegen ist.
+[10289000001] Diese Schulsprecherin besucht die Akademie in Paldea.
+Dank ihrer Fähigkeiten und Liebe für Pokémon-Kämpfe hat
+sie den Champ-Rang inne.
+[10128000002] Dieser Junge liebt Pokémon und Pokémon-Kämpfe. Er hat
+sich richtig ins Zeug gelegt und alles gegeben, um ein
+starker Trainer zu werden.
+[10147000001] Dieser Trainer aus Eventura City in der Einall-Region hat
+einen ausgeprägten Gerechtigkeitssinn und sorgt sich stets
+um seine kleine Schwester. Er vergibt niemandem, der
+versucht, Menschen und ihre Pokémon zu trennen.
+[10119000002] Dieser Trainer redet nicht viel, doch seine Freunde, Familie
+und Pokémon sind ihm äußerst wichtig. Einst war er
+besessen von dem Gedanken, immer stärker zu werden.
+[10245000002] Eine Trainerin, die Spikeford aus der Galar-Region
+repräsentiert. Für ihre Stadt hat sie es sich zum Ziel
+gesetzt, Champ zu werden. Ihre vielen Fans verdankt sie
+ihrem Kampfeseifer und ihrer Schönheit.
 
 ===========
 trainer_description_en.lsd
@@ -38660,6 +39259,41 @@ the Galar League.
 [10014010001] A talented Trainer who is both a Gym Leader and a
 teacher in the Unova region, he is committed to fulfilling
 both roles well—even though he’s just starting out.
+[10272000000] This minor division Poison-type Gym Leader trains at the
+Master Dojo in the Galar region. Her cunning mindset
+keeps her smiling constantly.
+[10273000000] This minor division Psychic-type Gym Leader trains at the
+Master Dojo in the Galar region. He has a gentlemanly
+personality, yet also exudes a strong sense of pride.
+[10199000000] This Arena Tycoon is the Frontier Brain of the Battle Arena
+in the Hoenn Region. She’s lively and sincere and gets
+really frustrated when she loses a battle.
+[10027400000] Gardenia’s embarking on a treasure hunt on Pasio. In her
+pirate outfit, she musters up her courage to set sail with
+her partner, Dhelmise.
+[10007410000] Acerola’s embarking on a treasure hunt on Pasio. She
+encourages Gardenia, who’s afraid of ghosts, to team up
+with Dhelmise. Acerola’s partner Pokémon, Jellicent, was
+entrusted to her by Lana.
+[10252000001] This Fire-type Gym Leader was invited from Hoenn to
+Galar. There was a time when he didn’t achieve the
+results he wanted and dropped to the minor division in
+the Galar League.
+[10289000001] This student council president goes to an academy in
+Paldea and loves battling. Her skills are certified
+Champion Rank.
+[10128000002] Known as a boy who loves Pokémon, adventures, and
+battling, he has put everything into growing stronger as
+a Pokémon Trainer.
+[10147000001] This Trainer is from Aspertia City in Unova. He has a
+strong sense of justice and cares for his sister. He won’t
+tolerate evil that tries to tear people and Pokémon apart.
+[10119000002] Gladion doesn’t say much, but he cares deeply about his
+friends, family, and Pokémon. He used to be much more
+rebellious and fixated on becoming stronger.
+[10245000002] This Trainer from Spikemuth in the Galar region hopes to
+become Champion to liven up her hometown. Her battle
+tactics and cute appearance have earned her many fans.
 
 ===========
 trainer_description_es.lsd
@@ -40095,6 +40729,45 @@ descendiendo a segunda división.
 [10014010001] Talentoso Líder de Gimnasio y profesor de la región
 de Teselia. Se esfuerza como nadie para dar lo mejor
 de sí en ambos roles.
+[10272000000] Líder de Gimnasio de segunda división de tipo Veneno en
+la región de Galar y alumna del Dojo Maestro. Su astucia
+la lleva a sonreír en todo momento.
+[10273000000] Líder de Gimnasio de segunda división de tipo Psíquico en
+la región de Galar y alumno del Dojo Maestro. Es todo un
+caballero, pero también tiene mucho orgullo.
+[10199000000] Esta As del Frente es la Maestra del Dojo del Dojo Batalla,
+en la región de Hoenn. Tiene una personalidad vivaracha
+y honesta, pero se frustra con facilidad cuando pierde un
+combate.
+[10027400000] Gardenia emprende rumbo a la caza del tesoro de Passio.
+Su traje de pirata la ayuda a armarse de valor para
+zarpar junto a su compi, Dhelmise.
+[10007410000] Zarala emprende rumbo a la caza del tesoro de Passio.
+Anima a Gardenia a superar su miedo a los fantasmas
+para unir fuerzas con Dhelmise. Nereida dejó a su
+cuidado a Jellicent, que ahora es su compi.
+[10252000001] Este Líder de Gimnasio de tipo Fuego es originario de
+Hoenn y acudió a Galar como invitado. Pasó por una
+época en la que sus esfuerzos no daban frutos y terminó
+descendiendo a segunda división.
+[10289000001] Estudiante y delegada de una academia de Paldea.
+Le apasiona combatir y sus habilidades le han brindado
+el rango de Campeona.
+[10128000002] Joven que muestra gran entusiasmo por los Pokémon y
+los combates que se libran con ellos. Se ha empleado
+a fondo para convertirse en un Entrenador de primera.
+[10147000001] Entrenador apasionado y con un fuerte sentido de la
+justicia, procedente de Ciudad Engobe en Teselia. Cuida
+mucho de su hermanita pequeña y no soporta a aquellos
+que intentan separar a la gente de sus Pokémon.
+[10119000002] Aunque no lo verbalice, lleva en el corazón a sus amigos,
+a sus familiares y a los Pokémon. Tuvo una época rebelde
+en la que lo único que le importaba era hacerse más
+fuerte.
+[10245000002] Una Entrenadora que representa a Pueblo Crampón, en la
+región de Galar. Quiere convertirse en Campeona para
+honrar a su pueblo natal. Su estilo y su dinamismo le han
+granjeado muchos admiradores.
 
 ===========
 trainer_description_fr.lsd
@@ -41490,6 +42163,48 @@ où il s'est retrouvé relégué en deuxième division
 de la Ligue de Galar.
 [10014010001] À la fois Champion et enseignant à Unys, il fait tout
 pour être à la hauteur de ces deux rôles.
+[10272000000] Cette Championne d'Arène de deuxième division
+spécialisée dans le type Poison s'entraîne
+au Dojo de la Maîtrise de Galar. Rusée,
+elle affiche constamment un grand sourire.
+[10273000000] Ce Champion d'Arène de deuxième division spécialisé
+dans le type Psy s'entraîne au Dojo de la Maîtrise
+de Galar. Sous ses airs de gentleman, il dégage
+également un fort sentiment de fierté.
+[10199000000] Cette Pro du Dojo est la Meneuse de Zone du Dojo
+de Combat de Hoenn. Sincère et pleine d'entrain,
+elle ne peut s'empêcher d'être frustrée
+lorsqu'elle perd un combat.
+[10027400000] Flo se lance dans une chasse au trésor à Passio.
+Dans sa tenue de pirate, elle rassemble le courage
+de prendre la mer avec son partenaire, Sinistrail.
+[10007410000] Margie se lance dans une chasse au trésor à Passio.
+Elle est accompagnée de son partenaire Pokémon,
+Moyade, qui lui a été confié par Néphie. Elle
+encourage Flo, qui a peur des fantômes,
+à faire équipe avec Sinistrail.
+[10252000001] Ce Champion d'Arène de type Feu a déménagé à Galar
+depuis Hoenn. Il a traversé une période difficile
+où il s'est retrouvé relégué en deuxième division
+de la Ligue de Galar.
+[10289000001] Cette passionnée de combats est déléguée des élèves
+au sein son académie, située dans la région de Paldea.
+Sa puissance en tant que Dresseuse est telle qu'elle
+lui a valu le rang Maître.
+[10128000002] Timmy est un jeune homme passionné par les Pokémon,
+les combats et l'aventure. Il s'est entraîné de toutes ses
+forces afin de devenir un meilleur Dresseur Pokémon.
+[10147000001] Ce Dresseur au tempérament fougueux est originaire
+de Pavonnay, dans la région d'Unys. Très protecteur
+envers sa sœur, il a un grand cœur et ne pardonne
+pas à ceux qui séparent les Pokémon de leur Dresseur.
+[10119000002] Peu loquace, ce Dresseur est pourtant très attaché à ses
+amis, sa famille et son Pokémon. Auparavant, il était
+aussi connu pour son obsession pour la puissance.
+[10245000002] Cette Dresseuse de Smashings rêve de devenir
+Maître de Galar afin de raviver sa petite ville.
+Son esprit stratège et son style lui ont fait
+gagner de nombreux admirateurs.
 
 ===========
 trainer_description_it.lsd
@@ -42837,6 +43552,48 @@ minore della Lega di Galar.
 [10014010001] A Unima tutti conoscono le sue doti come Capopalestra
 e maestro della Scuola per Allenatori.
 Ha poca esperienza, ma s'impegna al massimo.
+[10272000000] Capopalestra di tipo Veleno della divisione minore
+che si allena presso il Dojo Master di Galar.
+Grazie alla sua mentalità scaltra, ha cura
+di sfoggiare sempre un sorriso.
+[10273000000] Capopalestra di tipo Psico della divisione minore che
+si allena presso il Dojo Master nella regione di Galar.
+Ha il carattere di un gentiluomo, ma anche un forte
+senso dell'orgoglio.
+[10199000000] Asso del Parco del Dojo Lotta nella regione di Hoenn,
+detiene il titolo di Maestra del Dojo. Energica e schietta,
+trova molto frustrante perdere una sfida.
+[10027400000] Gardenia intraprende una caccia al tesoro a Pasio.
+Indossa un costume da piratessa e dà fondo a tutto
+il suo coraggio per salpare all'avventura con il suo
+Pokémon compagno, Dhelmise.
+[10007410000] Malpi intraprende una caccia al tesoro a Pasio. Incoraggia
+Gardenia, che ha paura dei fantasmi, a formare un'Unità
+con Dhelmise. La accompagna Jellicent, il Pokémon
+compagno affidatole da Suiren.
+[10252000001] Capopalestra esperto del tipo Fuoco originario di Hoenn.
+Per un periodo non ha ottenuto i risultati sperati e
+ha subito una temporanea retrocessione alla divisione
+minore della Lega di Galar.
+[10289000001] Rappresentante degli studenti dell'accademia di Paldea,
+il suo amore per le lotte e la sua abilità le hanno
+permesso di ottenere il Rango Campione.
+[10128000002] Un ragazzo che ama i Pokémon e le lotte. Si è dato molto
+da fare per crescere, cercando di diventare più forte
+come Allenatore.
+[10147000001] Allenatore proveniente da Alisopoli, nella regione
+di Unima, è molto affezionato alla sua sorellina.
+Ha un temperamento focoso e un forte senso di giustizia,
+e non perdona i malvagi che separano le persone e
+i Pokémon.
+[10119000002] Un Allenatore di poche parole ma che sa essere molto
+premuroso con amici, familiari e Pokémon. È uno spirito
+ribelle e in passato ha vissuto anche un periodo in cui
+faceva affidamento unicamente sulla propria forza.
+[10245000002] Allenatrice della regione di Galar, mira a diventare
+Campionessa per il bene della propria città, Spikeville.
+Il suo aspetto grazioso e la sua risolutezza nelle lotte
+hanno conquistato il cuore di innumerevoli fan.
 
 ===========
 trainer_description_ja.lsd
@@ -44047,6 +44804,39 @@ trainer_description_ja.lsd
 [10014010001] イッシュ地方で　ジムリーダーと　教師を　務める
 実力派の　トレーナー。　まだまだ　駆け出し　だが
 どちらの　務めも　こなせるよう　努力している。
+[10272000000] ガラル地方の　マスター道場で　修業に励む
+どくタイプの　マイナークラス　ジムリーダー。
+計算高さを武器に　いつも笑顔で過ごしている。
+[10273000000] ガラル地方の　マスター道場で　修業に励む
+エスパータイプの　マイナークラス　ジムリーダー。
+とても紳士的な性格だが　一方でプライドも高い。
+[10199000000] ホウエン地方の　フロンティアブレーンで
+バトルアリーナの大将　アリーナキャプテンを務める。
+明るく素直で　勝負に負けると　本気で悔しがる。
+[10027400000] パシオの　お宝探しに　挑む　ナタネ。
+海賊風の衣装で　ダダリンと　一緒に
+勇気の　帆をあげ　いざ出航！
+[10007410000] パシオの　お宝探しに　挑む　アセロラ。
+おばけが苦手なナタネに　ダダリンと組むことを推す。
+バディのブルンゲルは　スイレンから託された。
+[10252000001] ガラル地方　ほのおタイプの　ジムリーダー。
+スカウトされ　ホウエン地方から　活躍の場を移した。
+いい結果をだせず　マイナー落ちした　過去もある。
+[10289000001] パルデア地方の　アカデミーに　通っている
+ポケモン勝負が　大好きな　生徒会長。
+その実力は　チャンピオンランクに　認定されるほど。
+[10128000002] ポケモンと　ポケモン勝負が　大好きな　少年。
+強い　トレーナーに　なるため
+一生懸命に　努力を重ね　成長してきた。
+[10147000001] イッシュ地方　ヒオウギシティ出身の　トレーナー。
+妹想いの　熱い性格で　正義感が　強く
+人と　ポケモンを　引き離す　悪は　許さない。
+[10119000002] 口数は少ないが　仲間や　家族　ポケモンを
+思いやる心を　持った　トレーナー。
+反逆の心を持ち　強さに　固執した時期も　あった。
+[10245000002] ガラル地方　スパイクタウンを代表する　トレーナー。
+自分の街のために　チャンピオンを　目指している。
+かれんな　みた目と　試合運びから　ファンが多い。
 
 ===========
 trainer_description_ko.lsd
@@ -45256,6 +46046,39 @@ WPM 운영위원회의 대표도 맡고 있다.
 [10014010001] 하나지방에서 체육관 관장과 교사를 맡고 있는
 실력파 트레이너. 아직 미숙하지만
 두 일 모두 훌륭하게 해내기 위해 노력하고 있다.
+[10272000000] 가라르지방의 마스터 도장에서 열심히 수행 중인
+독타입 마이너 클래스 체육관 관장.
+뛰어난 계산력이 무기이며 늘 미소를 띠고 있다.
+[10273000000] 가라르지방의 마스터 도장에서 열심히 수행 중인
+에스퍼타입 마이너 클래스 체육관 관장.
+아주 신사적인 성격을 지닌 한편 프라이드도 강하다.
+[10199000000] 호연지방의 프런티어브레인이며
+배틀아레나의 대장인 아레나캡틴을 맡고 있다.
+밝고 솔직한 성격이어서 승부에 지면 진심으로 아쉬워한다.
+[10027400000] 파시오에서 보물찾기에 도전하는 유채.
+해적스러운 의상을 입고 타타륜과 함께
+용기의 깃발을 내걸고 출항이다!
+[10007410000] 파시오에서 보물찾기에 도전하는 아세로라.
+유령을 무서워하는 유채에게 타타륜과 팀을 맺도록 권한다.
+버디인 탱탱겔은 수련이 맡긴 포켓몬이다.
+[10252000001] 가라르지방의 불꽃타입 체육관 관장.
+호연지방에서 초청되어 활동 지역을 옮기게 되었다.
+좋은 결과를 내지 못하고 마이너 클래스 강등을 경험한 적도 있다.
+[10289000001] 팔데아지방의 아카데미에 다니고 있으며
+포켓몬 승부를 아주 좋아하는 학생회장.
+그 실력은 챔피언 랭크로 인정받을 정도이다.
+[10128000002] 포켓몬과 포켓몬 승부를 정말 좋아하는 소년.
+강한 트레이너를 목표로
+열심히 노력하여 성장해왔다.
+[10147000001] 하나지방 부채시티 출신의 트레이너.
+여동생을 소중히 생각하며 불같은 성격으로
+정의감이 강해 사람과 포켓몬을 떨어뜨리는 악은 용서하지 않는다.
+[10119000002] 말수는 적지만
+동료와 가족, 포켓몬을 위하는 마음을 가진 트레이너.
+반항심을 가지고 힘에 집착하던 시기도 있었다.
+[10245000002] 가라르지방 스파이크마을을 대표하는 트레이너.
+자신의 마을을 위해 챔피언을 목표하고 있다.
+귀여운 외모와 냉정한 시합 운영 능력 때문에 팬이 많다.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -46464,6 +47287,39 @@ trainer_description_zh-TW.lsd
 [10014010001] 在合眾地區身兼教師與道館館主的
 實力派訓練家。雖然資歷尚淺，但為了
 兩邊都能勝任，正不斷地努力著。
+[10272000000] 在伽勒爾地區馬師傅武館努力修行的
+毒屬性道館館主，隸屬於二軍。
+把精於算計當作武器，平時總是笑臉迎人。
+[10273000000] 在伽勒爾地區馬師傅武館努力修行的
+超能力屬性道館館主，隸屬於二軍。
+雖然很有紳士風度，但相對地自尊心也很高。
+[10199000000] 豐緣地區的開拓頭腦，在對戰競技場
+擔任大將的位置，也就是競技場主將。
+個性開朗直率，輸了對戰就會深深感到不甘心。
+[10027400000] 挑戰帕希歐尋寶活動的菜種。
+穿上海盜風格服裝的她將與
+破破舵輪一起揚起勇氣之帆出航去！
+[10007410000] 挑戰帕希歐尋寶活動的阿塞蘿拉。
+她鼓勵害怕幽靈的菜種和破破舵輪結為拍組。
+拍檔的胖嘟嘟是水蓮託付給她的。
+[10252000001] 伽勒爾地區的火屬性的道館館主。
+從豐緣地區被挖角到伽勒爾地區大顯身手。
+也曾因為沒有獲得好成績而被降為二軍。
+[10289000001] 就學於帕底亞地區的學院，
+最愛寶可夢對戰的學生會長。
+她的實力甚至被認定為冠軍級。
+[10128000002] 不僅熱愛寶可夢，也熱愛寶可夢對戰的少年。
+為了成為強大的訓練家，
+他一直拼命努力，讓自己不停地成長。
+[10147000001] 來自合眾地區檜扇市的訓練家。
+有著疼愛妹妹火熱性格，且極具正義感。
+無法饒恕強行分離人類與寶可夢的壞人。
+[10119000002] 他沉默寡言但有著一顆體貼的心，
+是個處處為夥伴、家人及寶可夢著想的訓練家。
+他也曾有一段充滿叛逆之心並執著於實力的時期。
+[10245000002] 代表伽勒爾地區尖釘鎮的訓練家。
+她為了自己的故鄉，以成為冠軍為目標。
+可愛的外表和戰術的運用為她吸引了許多粉絲。
 
 ===========
 trainer_name_de.lsd
@@ -46648,6 +47504,8 @@ trainer_name_de.lsd
 [ch0195] G-Cis
 [ch0196] Flordelis
 [ch0198] Lotte
+[ch0199] Greta
+[ch0201] Brian
 [ch0202] Dahlia
 [ch0203] Argenta
 [ch0204] Nuit
@@ -46744,6 +47602,8 @@ trainer_name_de.lsd
 [ch0302] Cay
 [ch0303] Poppy
 [ch0304] Aoki
+[ch0272] Sophora
+[ch0273] Saverio
 
 ===========
 trainer_name_en.lsd
@@ -46928,6 +47788,8 @@ trainer_name_en.lsd
 [ch0195] Ghetsis
 [ch0196] Lysandre
 [ch0198] Lucy
+[ch0199] Greta
+[ch0201] Brandon
 [ch0202] Dahlia
 [ch0203] Argenta
 [ch0204] Nita
@@ -47024,6 +47886,8 @@ trainer_name_en.lsd
 [ch0302] Rika
 [ch0303] Poppy
 [ch0304] Larry
+[ch0272] Klara
+[ch0273] Avery
 
 ===========
 trainer_name_es.lsd
@@ -47208,6 +48072,8 @@ trainer_name_es.lsd
 [ch0195] Ghechis
 [ch0196] Lysson
 [ch0198] Fortunia
+[ch0199] Coro
+[ch0201] Valente
 [ch0202] Delila
 [ch0203] Argenta
 [ch0204] Nocta
@@ -47304,6 +48170,8 @@ trainer_name_es.lsd
 [ch0302] Cayena
 [ch0303] Pola
 [ch0304] Laureano
+[ch0272] Sófora
+[ch0273] Dreo
 
 ===========
 trainer_name_fr.lsd
@@ -47488,6 +48356,8 @@ trainer_name_fr.lsd
 [ch0195] Ghetis
 [ch0196] Lysandre
 [ch0198] Charline
+[ch0199] Carole
+[ch0201] Bayar
 [ch0202] Dahlia
 [ch0203] Célosia
 [ch0204] Nix
@@ -47584,6 +48454,8 @@ trainer_name_fr.lsd
 [ch0302] Cayenn
 [ch0303] Popi
 [ch0304] Okuba
+[ch0272] Sophora
+[ch0273] Saturnin
 
 ===========
 trainer_name_it.lsd
@@ -47768,6 +48640,8 @@ trainer_name_it.lsd
 [ch0195] Ghecis
 [ch0196] Elisio
 [ch0198] Fortunata
+[ch0199] Valentina
+[ch0201] Baldo
 [ch0202] Dalia
 [ch0203] Mara
 [ch0204] Notturna
@@ -47864,6 +48738,8 @@ trainer_name_it.lsd
 [ch0302] Capsi
 [ch0303] Verina
 [ch0304] Ubaldo
+[ch0272] Sofora
+[ch0273] Savory
 
 ===========
 trainer_name_ja.lsd
@@ -48048,6 +48924,8 @@ trainer_name_ja.lsd
 [ch0195] ゲーチス
 [ch0196] フラダリ
 [ch0198] アザミ
+[ch0199] コゴミ
+[ch0201] ジンダイ
 [ch0202] ダリア
 [ch0203] ケイト
 [ch0204] ラニュイ
@@ -48144,6 +49022,8 @@ trainer_name_ja.lsd
 [ch0302] チリ
 [ch0303] ポピー
 [ch0304] アオキ
+[ch0272] クララ
+[ch0273] セイボリー
 
 ===========
 trainer_name_ko.lsd
@@ -48328,6 +49208,8 @@ trainer_name_ko.lsd
 [ch0195] 게치스
 [ch0196] 플라드리
 [ch0198] 다슬
+[ch0199] 나리
+[ch0201] 기선
 [ch0202] 달리아
 [ch0203] 맨드라
 [ch0204] 라뉴이
@@ -48424,6 +49306,8 @@ trainer_name_ko.lsd
 [ch0302] 칠리
 [ch0303] 뽀삐
 [ch0304] 청목
+[ch0272] 도정
+[ch0273] 세이버리
 
 ===========
 trainer_name_zh-TW.lsd
@@ -48608,6 +49492,8 @@ trainer_name_zh-TW.lsd
 [ch0195] 魁奇思
 [ch0196] 弗拉達利
 [ch0198] 小薊
+[ch0199] 黃瓜香
+[ch0201] 神代
 [ch0202] 大麗
 [ch0203] 青葙
 [ch0204] 夜妮
@@ -48704,6 +49590,8 @@ trainer_name_zh-TW.lsd
 [ch0302] 辛俐
 [ch0303] 波琵
 [ch0304] 青木
+[ch0272] 克拉拉
+[ch0273] 賽寶利
 
 ===========
 trainer_verbose_name_de.lsd
@@ -48943,6 +49831,10 @@ trainer_verbose_name_de.lsd
 (Neo-Champ)
 [10102900000] Bell 
 (Neo-Champ)
+[10027400000] Silvana 
+(Saison 2024)
+[10007410000] Lola 
+(Saison 2024)
 
 ===========
 trainer_verbose_name_en.lsd
@@ -49193,6 +50085,10 @@ Gladion
 (Champion)
 [10102900000] Bianca 
 (Champion)
+[10027400000] Gardenia 
+(Summer 2024)
+[10007410000] Acerola 
+(Summer 2024)
 
 ===========
 trainer_verbose_name_es.lsd
@@ -49405,6 +50301,10 @@ con Kimono)
 (Neocampeón)
 [10102900000] Bel 
 (Neocampeona)
+[10027400000] Gardenia 
+(Temporada 24)
+[10007410000] Zarala 
+(Temporada 24)
 
 ===========
 trainer_verbose_name_fr.lsd
@@ -49636,6 +50536,9 @@ trainer_verbose_name_fr.lsd
 (Néo-Maître)
 [10102900000] Bianca 
 (Néo-Maître)
+[10027400000] Flo (Saison 2024)
+[10007410000] Margie 
+(Saison 2024)
 
 ===========
 trainer_verbose_name_it.lsd
@@ -49876,6 +50779,10 @@ trainer_verbose_name_it.lsd
 (Campione)
 [10102900000] Belle 
 (Campionessa)
+[10027400000] Gardenia 
+(feste 2024)
+[10007410000] Malpi 
+(feste 2024)
 
 ===========
 trainer_verbose_name_ja.lsd
@@ -50116,6 +51023,10 @@ trainer_verbose_name_ja.lsd
 （チャンピオン）
 [10102900000] ベル
 （チャンピオン）
+[10027400000] ナタネ
+（２４シーズン）
+[10007410000] アセロラ
+（２４シーズン）
 
 ===========
 trainer_verbose_name_ko.lsd
@@ -50356,6 +51267,10 @@ trainer_verbose_name_ko.lsd
 (챔피언)
 [10102900000] 벨
 (챔피언)
+[10027400000] 유채
+(24시즌)
+[10007410000] 아세로라
+(24시즌)
 
 ===========
 trainer_verbose_name_zh-TW.lsd
@@ -50596,6 +51511,10 @@ trainer_verbose_name_zh-TW.lsd
 （冠軍）
 [10102900000] 白露
 （冠軍）
+[10027400000] 菜種
+（２０２４夏季）
+[10007410000] 阿塞蘿拉
+（２０２４夏季）
 
 ===========
 common_widget_de.lsd
@@ -59601,6 +60520,7 @@ heraus!
 [home/quest_list_184] Im Gang
 [home/quest_list_185] Kampfrallye-Pass-Limit
 [home/quest_list_186] DU HAST GLÜCK!
+[home/quest_list_192] Rang
 [home/quest_detail_003] Schwäche
 [home/quest_detail_005] Details
 [home/quest_detail_009] Teamauswahl
@@ -59842,6 +60762,8 @@ aktuellen Rang liegen.
 [home/quest_detail_211] Meister
 TOP [Digit:8digits ]
 [home/quest_detail_212] TOP [Digit:8digits ]
+[home/quest_detail_229] Andere Punktzahlen
+[home/quest_detail_230] Dieser Spieler existiert nicht.
 [home/home_001] Laden
 [home/home_002] Abenteuer
 [home/home_003] Team
@@ -60657,6 +61579,11 @@ Möchtest du fortfahren?
 [home/battle_rally_070] Aktuelle Rallye-Punkte
 [home/battle_rally_071] Verfügbare Kampfrallye-Abzeichen
 [home/battle_rally_072] Du hast nicht genug Rallye-Punkte.
+[home/damage_challenge_001] Bestpunktzahl
+[home/damage_challenge_002] Punktzahl-Chronik
+[home/damage_challenge_003] Aktuelle Bestpunktzahlen
+[home/damage_challenge_004] Schwäche: [Name:Type ]
+[home/damage_challenge_005] Hinweis: Es wird deine Bestpunktzahl jedes Kampfes angezeigt. Der Kampf, dem du dich stellen kannst, ändert sich in regelmäßigen Abständen.
 
 ===========
 home_en.lsd
@@ -60902,6 +61829,7 @@ the villain arc on Normal.
 [home/quest_list_184] In progress
 [home/quest_list_185] Rally Passes Maxed
 [home/quest_list_186] LUCKY
+[home/quest_list_192] Score Rank
 [home/quest_detail_003] Weakness
 [home/quest_detail_005] Area Details
 [home/quest_detail_009] Preset Teams
@@ -61155,6 +62083,8 @@ below your own.
 [home/quest_detail_211] Master
 Top [Digit:8digits ]
 [home/quest_detail_212] Top [Digit:8digits ]
+[home/quest_detail_229] Other Scored Points
+[home/quest_detail_230] Player does not exist.
 [home/home_001] Shop
 [home/home_002] Explore
 [home/home_003] Team
@@ -61903,6 +62833,11 @@ from the lineup can’t be added again.
 [home/battle_rally_070] Current Rally Points
 [home/battle_rally_071] Obtainable Battle Rally medals
 [home/battle_rally_072] You don’t have enough rally points.
+[home/damage_challenge_001] Best Score
+[home/damage_challenge_002] Score Log
+[home/damage_challenge_003] Current Best Scores
+[home/damage_challenge_004] Weakness: [Name:Type ]
+[home/damage_challenge_005] Note: Your best score for each battle will be displayed. The battle you can take on will change periodically.
 
 ===========
 home_es.lsd
@@ -62154,6 +63089,7 @@ especificada del objeto indicado.
 [home/quest_list_184] En curso
 [home/quest_list_185] Pases Yincana al máximo
 [home/quest_list_186] Ubic. de la suerte
+[home/quest_list_192] Rango puntuación
 [home/quest_detail_003] Debilidad
 [home/quest_detail_005] Detalles
 [home/quest_detail_009] Elegir equipo
@@ -62410,6 +63346,8 @@ inferiores al tuyo.
 Puesto [Digit:8digits ]
 [home/quest_detail_212] [Digit:8digits ]
 mejores
+[home/quest_detail_229] Otros puntos
+[home/quest_detail_230] El jugador no existe.
 [home/home_001] Tienda
 [home/home_002] Aventura
 [home/home_003] Equipo
@@ -63273,6 +64211,13 @@ quitado del equipo.
 [home/battle_rally_071] Insignias de la Yincana que obtendrás
 [home/battle_rally_072] No tienes suficientes puntos de la
 Yincana de Combates.
+[home/damage_challenge_001] Puntuación máxima
+[home/damage_challenge_002] Puntuaciones
+[home/damage_challenge_003] Puntuaciones máximas actuales
+[home/damage_challenge_004] Debilidad: [Name:Type ]
+[home/damage_challenge_005] Nota: Se muestra tu puntuación máxima de
+cada combate. El combate que puedes afrontar
+cambia de forma periódica.
 
 ===========
 home_fr.lsd
@@ -63532,6 +64477,7 @@ les plus grands
 [home/quest_list_184] En cours
 [home/quest_list_185] Pass Rallye au max
 [home/quest_list_186] CHANCE
+[home/quest_list_192] Rang
 [home/quest_detail_003] Faiblesse
 [home/quest_detail_005] Infos
 [home/quest_detail_009] Équipes
@@ -63783,6 +64729,8 @@ des rangs inférieurs au vôtre.
 [home/quest_detail_211] Master
 Top [Digit:8digits ]
 [home/quest_detail_212] Top [Digit:8digits ]
+[home/quest_detail_229] Autres points obtenus
+[home/quest_detail_230] Ce joueur n'existe pas.
 [home/home_001] Boutique
 [home/home_002] Aventure
 [home/home_003] Équipe
@@ -64732,6 +65680,11 @@ de les y ajouter à nouveau par la suite.
 [home/battle_rally_071] Insignes de Rallye disponibles
 [home/battle_rally_072] Vous n'avez pas assez
 de Points de Rallye.
+[home/damage_challenge_001] Meilleur score
+[home/damage_challenge_002] Historique des scores
+[home/damage_challenge_003] Meilleurs scores actuels
+[home/damage_challenge_004] Faiblesse : [Name:Type ]
+[home/damage_challenge_005] Remarque :  Votre meilleur score pour chaque combat sera affiché. Le combat disponible change périodiquement.
 
 ===========
 home_it.lsd
@@ -64984,6 +65937,7 @@ specificata dello strumento indicato.
 [home/quest_list_184] In corso
 [home/quest_list_185] Max Pass Tour di lotta
 [home/quest_list_186] BONUS
+[home/quest_list_192] Livello punteggio
 [home/quest_detail_003] Punti deboli
 [home/quest_detail_005] Info area
 [home/quest_detail_009] Scegli squadra
@@ -65241,6 +66195,8 @@ Migliori [Digit:8digits ]
 [home/quest_detail_211] Master
 Migliori [Digit:8digits ]
 [home/quest_detail_212] Migliori [Digit:8digits ]
+[home/quest_detail_229] Altri punti ottenuti
+[home/quest_detail_230] Questo giocatore non esiste.
 [home/home_001] Negozio
 [home/home_002] Avventura
 [home/home_003] Squadra
@@ -66136,6 +67092,13 @@ non potranno essere aggiunte di nuovo.
 [home/battle_rally_070] Punti Tour di lotta attuali
 [home/battle_rally_071] Coccarde Tour di lotta ottenibili
 [home/battle_rally_072] Punti Tour di lotta insufficienti.
+[home/damage_challenge_001] Punteggio migliore
+[home/damage_challenge_002] Riepilogo punteggi
+[home/damage_challenge_003] Punteggi migliori finora
+[home/damage_challenge_004] Debolezza: [Name:Type ]
+[home/damage_challenge_005] Nota: verrà visualizzato il punteggio migliore
+per ogni lotta. La lotta a cui puoi partecipare
+cambierà periodicamente.
 
 ===========
 home_ja.lsd
@@ -66385,6 +67348,7 @@ Lv.[Digit:2digits ]で解放
 [home/quest_list_184] 挑戦中
 [home/quest_list_185] ラリーパス所持数MAX
 [home/quest_list_186] LUCKY
+[home/quest_list_192] スコアランク
 [home/quest_detail_003] じゃくてんタイプ
 [home/quest_detail_005] エリア詳細
 [home/quest_detail_009] チーム選択
@@ -66635,6 +67599,8 @@ TOP[Digit:8digits ]位
 [home/quest_detail_211] マスター
 [Digit:8digits ]位
 [home/quest_detail_212] TOP[Digit:8digits ]位
+[home/quest_detail_229] その他のスコア
+[home/quest_detail_230] 存在しないユーザーです
 [home/home_001] ショップ
 [home/home_002] ぼうけん
 [home/home_003] チーム
@@ -67510,6 +68476,12 @@ GRADE一覧に戻ります
 [home/battle_rally_070] 現在のラリーpt
 [home/battle_rally_071] 獲得できるバトルラリーの勲章
 [home/battle_rally_072] ラリーptが足りません
+[home/damage_challenge_001] ベストスコア
+[home/damage_challenge_002] スコアログ
+[home/damage_challenge_003] 今までのベストスコア
+[home/damage_challenge_004] じゃくてん：[Name:Type ]
+[home/damage_challenge_005] ※各バトルのベストスコアが表示されます
+挑戦できるバトルは周期的に変更されます
 
 ===========
 home_ko.lsd
@@ -67759,6 +68731,7 @@ Lv.[Digit:2digits ]에서 해방
 [home/quest_list_184] 도전 중
 [home/quest_list_185] 랠리 패스 보유 수량 MAX
 [home/quest_list_186] LUCKY
+[home/quest_list_192] 스코어 랭크
 [home/quest_detail_003] 약점타입
 [home/quest_detail_005] 에리어 상세
 [home/quest_detail_009] 팀 선택
@@ -68006,6 +68979,8 @@ TOP [Digit:8digits ]위
 [home/quest_detail_211] 마스터
 [Digit:8digits ]위
 [home/quest_detail_212] TOP [Digit:8digits ]위
+[home/quest_detail_229] 기타 스코어
+[home/quest_detail_230] 존재하지 않는 유저입니다
 [home/home_001] 숍
 [home/home_002] 모험
 [home/home_003] 팀
@@ -68855,6 +69830,12 @@ WPM배지를 모두 모으면
 [home/battle_rally_070] 현재 랠리pt
 [home/battle_rally_071] 획득할 수 있는 배틀 랠리 훈장
 [home/battle_rally_072] 랠리pt가 부족합니다
+[home/damage_challenge_001] 베스트 스코어
+[home/damage_challenge_002] 스코어 로그
+[home/damage_challenge_003] 지금까지의 베스트 스코어
+[home/damage_challenge_004] 약점: [Name:Type ]
+[home/damage_challenge_005] ※각 배틀의 베스트 스코어가 표시됩니다
+도전 가능한 배틀은 주기적으로 변경됩니다
 
 ===========
 home_zh-TW.lsd
@@ -69100,6 +70081,7 @@ home_zh-TW.lsd
 [home/quest_list_184] 挑戰中
 [home/quest_list_185] 接力證持有數MAX
 [home/quest_list_186] LUCKY
+[home/quest_list_192] 得分等級
 [home/quest_detail_003] 弱點屬性
 [home/quest_detail_005] 區域詳情
 [home/quest_detail_009] 選擇隊伍
@@ -69343,6 +70325,8 @@ TOP[Digit:8digits ]
 [home/quest_detail_211] 大師
 第[Digit:8digits ]名
 [home/quest_detail_212] TOP[Digit:8digits ]
+[home/quest_detail_229] 其他得分
+[home/quest_detail_230] 查無此玩家
 [home/home_001] 商店
 [home/home_002] 冒險
 [home/home_003] 隊伍
@@ -70157,6 +71141,12 @@ GRADE的獎勵報酬
 [home/battle_rally_070] 目前的接力點數
 [home/battle_rally_071] 能獲得的對戰接力勳章
 [home/battle_rally_072] 接力點數不足
+[home/damage_challenge_001] 最佳得分
+[home/damage_challenge_002] 得分紀錄
+[home/damage_challenge_003] 目前的最佳得分
+[home/damage_challenge_004] 弱點：[Name:Type ]
+[home/damage_challenge_005] ※這裡顯示的是每個對戰的最佳得分
+能挑戰的對戰會週期性變更
 
 ===========
 shop_de.lsd
@@ -70473,6 +71463,7 @@ eingetauscht werden.
 [shop/shop_itemexchange_057] Alte Items
 [shop/shop_itemexchange_058] Kampfrallye
 [shop/shop_itemexchange_059] Rallye
+[shop/shop_itemexchange_060] Kein Zeitraum festgelegt
 [shop/scout_001] Gefährtensuche
 [shop/scout_002] G-Suche-
 Punkte
@@ -71312,6 +72303,7 @@ for this exchange?
 [shop/shop_itemexchange_057] Old Items
 [shop/shop_itemexchange_058] Battle Rally
 [shop/shop_itemexchange_059] Rally
+[shop/shop_itemexchange_060] No time period set
 [shop/scout_001] Sync Pair Scout
 [shop/scout_002] Scout
 Points
@@ -72024,6 +73016,7 @@ de este objeto.
 [shop/shop_itemexchange_057] Obj. antiguos
 [shop/shop_itemexchange_058] Yincana de Combates
 [shop/shop_itemexchange_059] Yincana
+[shop/shop_itemexchange_060] Sin límite de tiempo
 [shop/scout_001] Reclutamiento
 [shop/scout_002] Puntos
 reclut.
@@ -72705,6 +73698,7 @@ de ce type à la fois.
 [shop/shop_itemexchange_057] Vieux objets
 [shop/shop_itemexchange_058] Rallye de combats
 [shop/shop_itemexchange_059] Rallye
+[shop/shop_itemexchange_060] Pas d'expiration
 [shop/scout_001] Appel Duo
 [shop/scout_002] Pts d'Appel
 Duo
@@ -73405,6 +74399,7 @@ scambiato.
 [shop/shop_itemexchange_057] Vecchi strumenti
 [shop/shop_itemexchange_058] Tour di lotta
 [shop/shop_itemexchange_059] Tour di lotta
+[shop/shop_itemexchange_060] Senza limite di tempo
 [shop/scout_001] Ricerca Unità
 [shop/scout_002] Punti
 Unicerca
@@ -73420,7 +74415,7 @@ Unicerca
 Cerca un'Unità a piacere!
 [shop/scout_015] Tasso comparsa
 [shop/scout_017] Punti Unicerca
-[shop/scout_018] I tuoi punti Unicerca attuali
+[shop/scout_018] I tuoi Punti Unicerca attuali
 [shop/scout_019] Puoi accumulare punti effettuando
 Unicerche. Una volta raggiunto
 il massimo dei punti, potrai ottenere
@@ -73486,7 +74481,7 @@ per fare una ricerca Unità?
 una ricerca Unità.
 Vuoi andare alla schermata di acquisto
 delle gemme?
-[shop/scout_058] I punti Unicerca torneranno a 0 al termine del periodo
+[shop/scout_058] I Punti Unicerca torneranno a 0 al termine del periodo
 di validità di questa ricerca Unità.
 I punti non verranno trasferiti nei nuovi periodi.
 Puoi scegliere solo tra le Unità disponibili nel corso
@@ -74187,6 +75182,7 @@ SP報酬が解放されるおとくなパック！
 [shop/shop_itemexchange_057] 古いどうぐ
 [shop/shop_itemexchange_058] バトルラリー
 [shop/shop_itemexchange_059] ラリー
+[shop/shop_itemexchange_060] 期限なし
 [shop/scout_001] バディーズサーチ
 [shop/scout_002] Ｂサーチ
 ポイント
@@ -74948,6 +75944,7 @@ SP 보상이 해방되는 유용한 팩!
 [shop/shop_itemexchange_057] 낡은 도구
 [shop/shop_itemexchange_058] 배틀 랠리
 [shop/shop_itemexchange_059] 랠리
+[shop/shop_itemexchange_060] 기한없음
 [shop/scout_001] 버디즈서치
 [shop/scout_002] B서치
 포인트
@@ -75730,6 +76727,7 @@ shop_zh-TW.lsd
 [shop/shop_itemexchange_057] 舊道具
 [shop/shop_itemexchange_058] 對戰接力
 [shop/shop_itemexchange_059] 接力
+[shop/shop_itemexchange_060] 無期限
 [shop/scout_001] 拍組搜尋
 [shop/scout_002] 拍組搜尋
 點數

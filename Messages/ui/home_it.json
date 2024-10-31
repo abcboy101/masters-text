@@ -184,6 +184,7 @@
     "home/quest_list_184": "In corso",
     "home/quest_list_185": "Max Pass Tour di lotta",
     "home/quest_list_186": "BONUS",
+    "home/quest_list_192": "Livello punteggio",
     "home/quest_detail_003": "Punti deboli",
     "home/quest_detail_005": "Info area",
     "home/quest_detail_009": "Scegli squadra",
@@ -364,6 +365,8 @@
     "home/quest_detail_210": "Punteggio",
     "home/quest_detail_211": "Master\nMigliori [Digit:8digits ]",
     "home/quest_detail_212": "Migliori [Digit:8digits ]",
+    "home/quest_detail_229": "Altri punti ottenuti",
+    "home/quest_detail_230": "Questo giocatore non esiste.",
     "home/home_001": "Negozio",
     "home/home_002": "Avventura",
     "home/home_003": "Squadra",
@@ -858,5 +861,10 @@
     "home/battle_rally_069": "Nota: una volta confermata la squadra, le Unità rimosse\nnon potranno essere aggiunte di nuovo.",
     "home/battle_rally_070": "Punti Tour di lotta attuali",
     "home/battle_rally_071": "Coccarde Tour di lotta ottenibili",
-    "home/battle_rally_072": "Punti Tour di lotta insufficienti."
+    "home/battle_rally_072": "Punti Tour di lotta insufficienti.",
+    "home/damage_challenge_001": "Punteggio migliore",
+    "home/damage_challenge_002": "Riepilogo punteggi",
+    "home/damage_challenge_003": "Punteggi migliori finora",
+    "home/damage_challenge_004": "Debolezza: [Name:Type ]",
+    "home/damage_challenge_005": "Nota: verrà visualizzato il punteggio migliore\nper ogni lotta. La lotta a cui puoi partecipare\ncambierà periodicamente."
 }

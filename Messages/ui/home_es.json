@@ -184,6 +184,7 @@
     "home/quest_list_184": "En curso",
     "home/quest_list_185": "Pases Yincana al máximo",
     "home/quest_list_186": "Ubic. de la suerte",
+    "home/quest_list_192": "Rango puntuación",
     "home/quest_detail_003": "Debilidad",
     "home/quest_detail_005": "Detalles",
     "home/quest_detail_009": "Elegir equipo",
@@ -364,6 +365,8 @@
     "home/quest_detail_210": "Puntuación",
     "home/quest_detail_211": "Master\nPuesto [Digit:8digits ]",
     "home/quest_detail_212": "[Digit:8digits ]\nmejores",
+    "home/quest_detail_229": "Otros puntos",
+    "home/quest_detail_230": "El jugador no existe.",
     "home/home_001": "Tienda",
     "home/home_002": "Aventura",
     "home/home_003": "Equipo",
@@ -858,5 +861,10 @@
     "home/battle_rally_069": "Nota: Una vez que la formación esté consolidada,\nno podrás volver a añadir a los compis que hayas\nquitado del equipo.",
     "home/battle_rally_070": "Puntos de la Yincana actuales",
     "home/battle_rally_071": "Insignias de la Yincana que obtendrás",
-    "home/battle_rally_072": "No tienes suficientes puntos de la\nYincana de Combates."
+    "home/battle_rally_072": "No tienes suficientes puntos de la\nYincana de Combates.",
+    "home/damage_challenge_001": "Puntuación máxima",
+    "home/damage_challenge_002": "Puntuaciones",
+    "home/damage_challenge_003": "Puntuaciones máximas actuales",
+    "home/damage_challenge_004": "Debilidad: [Name:Type ]",
+    "home/damage_challenge_005": "Nota: Se muestra tu puntuación máxima de\ncada combate. El combate que puedes afrontar\ncambia de forma periódica."
 }
