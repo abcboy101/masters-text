@@ -2481,18 +2481,34 @@ Dynamaximierung
 [quest_group_title_10118500000] Lilly (Jubiläum 2021)
 [quest_group_title_10089400000] N (Jubiläum 2021)
 [quest_group_title_10090500000] Troy (Jubiläum 2021)
+[quest_group_title_10000800000] Rot
+[quest_group_title_10021800000] Blau (Kanto)
 [quest_title_1030220118500000] Ein Tag mit Lilly
 [quest_title_1030220089400000] Ein Tag mit N
 [quest_title_1030220090500000] Ein Tag mit Troy
+[quest_title_1030220000800000] Ein Tag mit Rot
+[quest_title_1030220021800000] Ein Tag mit Blau
 [quest_title_1030430800201010] Angreifer-Intensivkurs 6
 [quest_title_1030430800202010] Taktiker-Intensivkurs 6
 [quest_title_1030430800203010] Helfer-Intensivkurs 6
+[quest_title_1030430850101010] Vs. Antonia
+[quest_title_1030430850102010] Vs. Antonia 2
+[quest_title_1030430850103010] Vs. Antonia 3
+[quest_title_1030430850104010] Vs. Antonia 4
+[quest_title_1030308000602010] Vs. Schurken aus Kanto
+[quest_title_1030308000602020] Vs. Schurken aus Kanto 2
 [quest_title_1030308000604010] Alola-Kameraden
 [quest_title_1030308000604020] Alola-Kameraden 2
 [quest_title_1030308000604030] Einall-Kameraden
 [quest_title_1030308000604040] Einall-Kameraden 2
 [quest_title_1030308000604050] Hoenn-Kameraden
 [quest_title_1030308000604060] Hoenn-Kameraden 2
+[quest_title_1030308000601010] Jetzt gibt es Ärger!
+[quest_title_1030308000601030] Vs. Rüpel von Team Rocket
+[quest_title_1030308000601040] Vs. Rüpel von Team Rocket 2
+[quest_title_1030308000601050] Vs. Rüpel von Team Rocket 3
+[quest_title_1030308000601070] Vs. Giovanni
+[quest_title_1030308000601080] Vs. Giovanni 2
 [quest_title_1030308000603020] Ns Traum
 [quest_title_1030308000603030] Lillys Wachstum
 [quest_title_1030308000603040] Troys Stärke
@@ -2508,6 +2524,8 @@ Dynamaximierung
 [quest_title_1030308000603100] Vs. Rosy 2
 [quest_title_1030308000603120] Vs. Lotta
 [quest_title_1030308000603130] Vs. Lotta 2
+[quest_title_1030430850201010] Täglicher Heiter-Kampf
+[quest_title_1030430850204011] Spezieller Heiter-Kampf
 [quest_title_1030430800402010] Täglicher Kampf um
 Geschenke
 [quest_title_1030430800401011] Spezieller Kampf um
@@ -4210,18 +4228,35 @@ story_quest_name_en.lsd
 (Anniversary 2021)
 [quest_group_title_10090500000] Steven
 (Anniversary 2021)
+[quest_group_title_10000800000] Red
+[quest_group_title_10021800000] Blue
+(Classic)
 [quest_title_1030220118500000] A Day with Lillie
 [quest_title_1030220089400000] A Day with N
 [quest_title_1030220090500000] A Day with Steven
+[quest_title_1030220000800000] A Day with Red
+[quest_title_1030220021800000] A Day with Blue
 [quest_title_1030430800201010] Strike Drill 6
 [quest_title_1030430800202010] Tech Drill 6
 [quest_title_1030430800203010] Support Drill 6
+[quest_title_1030430850101010] Challenge Phoebe: Part 1
+[quest_title_1030430850102010] Challenge Phoebe: Part 2
+[quest_title_1030430850103010] Challenge Phoebe: Part 3
+[quest_title_1030430850104010] Challenge Phoebe: Part 4
+[quest_title_1030308000602010] Kanto Alliance: Part 1
+[quest_title_1030308000602020] Kanto Alliance: Part 2
 [quest_title_1030308000604010] Alola Buddies Unite: Part 1
 [quest_title_1030308000604020] Alola Buddies Unite: Part 2
 [quest_title_1030308000604030] Unova Buddies Unite: Part 1
 [quest_title_1030308000604040] Unova Buddies Unite: Part 2
 [quest_title_1030308000604050] Hoenn Buddies Unite: Part 1
 [quest_title_1030308000604060] Hoenn Buddies Unite: Part 2
+[quest_title_1030308000601010] Attention All Sync Pairs!
+[quest_title_1030308000601030] Challenge the Rocket Grunts: Part 1
+[quest_title_1030308000601040] Challenge the Rocket Grunts: Part 2
+[quest_title_1030308000601050] Challenge the Rocket Grunts: Part 3
+[quest_title_1030308000601070] Challenge Giovanni: Part 1
+[quest_title_1030308000601080] Challenge Giovanni: Part 2
 [quest_title_1030308000603020] N’s Dream
 [quest_title_1030308000603030] Lillie’s Evolution
 [quest_title_1030308000603040] Steven’s Strength
@@ -4237,6 +4272,8 @@ story_quest_name_en.lsd
 [quest_title_1030308000603100] Challenge Rosa: Part 2
 [quest_title_1030308000603120] Challenge Hilda: Part 1
 [quest_title_1030308000603130] Challenge Hilda: Part 2
+[quest_title_1030430850201010] Daily Bliss Battle
+[quest_title_1030430850204011] Special Bliss Battle
 [quest_title_1030430800402010] Daily Present Battle
 [quest_title_1030430800401011] Special Present Battle
 [quest_title_1030430800300010] The Tomboyish Mermaid
@@ -6047,12 +6084,24 @@ con nuevos vínculos
 [quest_group_title_10118500000] Lylia (Aniversario)
 [quest_group_title_10089400000] N (Aniversario)
 [quest_group_title_10090500000] Máximo (Aniversario)
+[quest_group_title_10000800000] Rojo
+[quest_group_title_10021800000] Azul (Kanto)
 [quest_title_1030220118500000] Un día con Lylia
 [quest_title_1030220089400000] Un día con N
 [quest_title_1030220090500000] Un día con Máximo
+[quest_title_1030220000800000] Un día con Rojo
+[quest_title_1030220021800000] Un día con Azul
 [quest_title_1030430800201010] Entrenamiento de Ataque 6
 [quest_title_1030430800202010] Entrenamiento de Sabotaje 6
 [quest_title_1030430800203010] Entrenamiento de Apoyo 6
+[quest_title_1030430850101010] VS. Fátima
+[quest_title_1030430850102010] VS. Fátima (2)
+[quest_title_1030430850103010] VS. Fátima (3)
+[quest_title_1030430850104010] VS. Fátima (4)
+[quest_title_1030308000602010] ¡Enfréntate al villano de
+Kanto!
+[quest_title_1030308000602020] ¡Enfréntate al villano de
+Kanto! (2)
 [quest_title_1030308000604010] Desafío con compis de Alola
 [quest_title_1030308000604020] Desafío con compis de
 Alola (2)
@@ -6063,6 +6112,13 @@ Teselia (2)
 [quest_title_1030308000604050] Desafío con compis de Hoenn
 [quest_title_1030308000604060] Desafío con compis de
 Hoenn (2)
+[quest_title_1030308000601010] Una advertencia a todo
+el mundo
+[quest_title_1030308000601030] VS. Reclutas del Team Rocket
+[quest_title_1030308000601040] VS. Reclutas del Team Rocket (2)
+[quest_title_1030308000601050] VS. Reclutas del Team Rocket (3)
+[quest_title_1030308000601070] VS. Giovanni
+[quest_title_1030308000601080] VS. Giovanni (2)
 [quest_title_1030308000603020] El sueño de N
 [quest_title_1030308000603030] El progreso de Lylia
 [quest_title_1030308000603040] El poder de Máximo
@@ -6082,6 +6138,8 @@ combates!
 [quest_title_1030308000603100] VS. Nanci (2)
 [quest_title_1030308000603120] VS. Liza
 [quest_title_1030308000603130] VS. Liza (2)
+[quest_title_1030430850201010] ¡Combate Fortuna diario!
+[quest_title_1030430850204011] ¡Combate Fortuna especial!
 [quest_title_1030430800402010] ¡Combate diario con regalos!
 [quest_title_1030430800401011] ¡Combate especial con regalos!
 [quest_title_1030430800300010] La Sirena Temperamental
@@ -8009,18 +8067,36 @@ de type Feu
 (Anniversaire 2021)
 [quest_group_title_10090500000] Pierre Rochard
 (Anniversaire 2021)
+[quest_group_title_10000800000] Red
+[quest_group_title_10021800000] Blue (Classique)
 [quest_title_1030220118500000] Une journée avec Lilie
 [quest_title_1030220089400000] Une journée avec N
 [quest_title_1030220090500000] Une journée avec Pierre Rochard
+[quest_title_1030220000800000] Une journée avec Red
+[quest_title_1030220021800000] Une journée avec Blue
 [quest_title_1030430800201010] Exercice Attaquant VI
 [quest_title_1030430800202010] Exercice Tacticien VI
 [quest_title_1030430800203010] Exercice Soutien VI
+[quest_title_1030430850101010] Combat : Spectra
+[quest_title_1030430850102010] Combat : Spectra II
+[quest_title_1030430850103010] Combat : Spectra III
+[quest_title_1030430850104010] Combat : Spectra IV
+[quest_title_1030308000602010] Les stars de Kanto
+[quest_title_1030308000602020] Les stars de Kanto II
 [quest_title_1030308000604010] Compagnons d'Alola
 [quest_title_1030308000604020] Compagnons d'Alola II
 [quest_title_1030308000604030] Compagnons d'Unys
 [quest_title_1030308000604040] Compagnons d'Unys II
 [quest_title_1030308000604050] Compagnons de Hoenn
 [quest_title_1030308000604060] Compagnons de Hoenn II
+[quest_title_1030308000601010] Duos, soyez sur vos gardes !
+[quest_title_1030308000601030] Combat : Sbires Team Rocket
+[quest_title_1030308000601040] Combat :
+Sbires Team Rocket II
+[quest_title_1030308000601050] Combat :
+Sbires Team Rocket III
+[quest_title_1030308000601070] Combat : Giovanni
+[quest_title_1030308000601080] Combat : Giovanni II
 [quest_title_1030308000603020] Le rêve de N
 [quest_title_1030308000603030] L'évolution de Lilie
 [quest_title_1030308000603040] La force de Pierre Rochard
@@ -8038,6 +8114,8 @@ avec la lune
 [quest_title_1030308000603100] Combat : Écho II
 [quest_title_1030308000603120] Combat : Ludvina
 [quest_title_1030308000603130] Combat : Ludvina II
+[quest_title_1030430850201010] Combat bonheur quotidien
+[quest_title_1030430850204011] Combat bonheur spécial
 [quest_title_1030430800402010] Combat cadeau quotidien
 [quest_title_1030430800401011] Combat cadeau spécial
 [quest_title_1030430800300010] La sirène en short
@@ -9718,18 +9796,34 @@ story_quest_name_it.lsd
 [quest_group_title_10118500000] Lylia (anniversario 2021)
 [quest_group_title_10089400000] N (anniversario 2021)
 [quest_group_title_10090500000] Rocco (anniversario 2021)
+[quest_group_title_10000800000] Rosso
+[quest_group_title_10021800000] Blu (classico)
 [quest_title_1030220118500000] Un giorno con Lylia
 [quest_title_1030220089400000] Un giorno con N
 [quest_title_1030220090500000] Un giorno con Rocco
+[quest_title_1030220000800000] Un giorno con Rosso
+[quest_title_1030220021800000] Un giorno con Blu
 [quest_title_1030430800201010] Allenamento Attaccanti 6
 [quest_title_1030430800202010] Allenamento Tecnici 6
 [quest_title_1030430800203010] Allenamento Aiutanti 6
+[quest_title_1030430850101010] VS Ester
+[quest_title_1030430850102010] VS Ester 2
+[quest_title_1030430850103010] VS Ester 3
+[quest_title_1030430850104010] VS Ester 4
+[quest_title_1030308000602010] Insieme ai talenti di Kanto
+[quest_title_1030308000602020] Insieme ai talenti di Kanto 2
 [quest_title_1030308000604010] Insieme agli amici di Alola
 [quest_title_1030308000604020] Insieme agli amici di Alola 2
 [quest_title_1030308000604030] Insieme agli amici di Unima
 [quest_title_1030308000604040] Insieme agli amici di Unima 2
 [quest_title_1030308000604050] Insieme agli amici di Hoenn
 [quest_title_1030308000604060] Insieme agli amici di Hoenn 2
+[quest_title_1030308000601010] Un avviso per tutte le Unità
+[quest_title_1030308000601030] VS Reclute del Team Rocket 1
+[quest_title_1030308000601040] VS Reclute del Team Rocket 2
+[quest_title_1030308000601050] VS Reclute del Team Rocket 3
+[quest_title_1030308000601070] VS Giovanni
+[quest_title_1030308000601080] VS Giovanni 2
 [quest_title_1030308000603020] Gli ideali di N
 [quest_title_1030308000603030] La crescita di Lylia
 [quest_title_1030308000603040] La forza di Rocco
@@ -9745,6 +9839,8 @@ story_quest_name_it.lsd
 [quest_title_1030308000603100] VS Rina 2
 [quest_title_1030308000603120] VS Anita
 [quest_title_1030308000603130] VS Anita 2
+[quest_title_1030430850201010] Lotta giornaliera per la felicità!
+[quest_title_1030430850204011] Lotta speciale per la felicità!
 [quest_title_1030430800402010] Lotta giornaliera con regalo!
 [quest_title_1030430800401011] Lotta speciale con regalo!
 [quest_title_1030430800300010] La sirena maschiaccio
@@ -11446,18 +11542,35 @@ story_quest_name_ja.lsd
 （２１アニバーサリー）
 [quest_group_title_10090500000] ダイゴ
 （２１アニバーサリー）
+[quest_group_title_10000800000] レッド
+[quest_group_title_10021800000] グリーン
+（アナザー）
 [quest_title_1030220118500000] とある日のリーリエ
 [quest_title_1030220089400000] とある日のN
 [quest_title_1030220090500000] とある日のダイゴ
+[quest_title_1030220000800000] とある日のレッド
+[quest_title_1030220021800000] とある日のグリーン
 [quest_title_1030430800201010] アタッカーの鍛錬６
 [quest_title_1030430800202010] テクニカルの鍛錬６
 [quest_title_1030430800203010] サポートの鍛錬６
+[quest_title_1030430850101010] ＶＳ　フヨウ
+[quest_title_1030430850102010] ＶＳ　フヨウ２
+[quest_title_1030430850103010] ＶＳ　フヨウ３
+[quest_title_1030430850104010] ＶＳ　フヨウ４
+[quest_title_1030308000602010] カントーの実力者で挑戦！
+[quest_title_1030308000602020] カントーの実力者で挑戦！２
 [quest_title_1030308000604010] アローラの仲間と挑戦
 [quest_title_1030308000604020] アローラの仲間と挑戦２
 [quest_title_1030308000604030] イッシュの仲間と挑戦
 [quest_title_1030308000604040] イッシュの仲間と挑戦２
 [quest_title_1030308000604050] ホウエンの仲間と挑戦
 [quest_title_1030308000604060] ホウエンの仲間と挑戦２
+[quest_title_1030308000601010] バディーズのみなさまへご注意
+[quest_title_1030308000601030] ＶＳ　ロケット団のしたっぱ
+[quest_title_1030308000601040] ＶＳ　ロケット団のしたっぱ２
+[quest_title_1030308000601050] ＶＳ　ロケット団のしたっぱ３
+[quest_title_1030308000601070] ＶＳ　サカキ
+[quest_title_1030308000601080] ＶＳ　サカキ２
 [quest_title_1030308000603020] Nの夢
 [quest_title_1030308000603030] リーリエの成長
 [quest_title_1030308000603040] ダイゴの強さ
@@ -11473,6 +11586,8 @@ story_quest_name_ja.lsd
 [quest_title_1030308000603100] ＶＳ　メイ２
 [quest_title_1030308000603120] ＶＳ　トウコ
 [quest_title_1030308000603130] ＶＳ　トウコ２
+[quest_title_1030430850201010] デイリーハッピーバトル！
+[quest_title_1030430850204011] スペシャルハッピーバトル！
 [quest_title_1030430800402010] デイリープレゼントバトル！
 [quest_title_1030430800401011] スペシャルプレゼントバトル！
 [quest_title_1030430800300010] ウワサのおてんば人魚
@@ -13174,18 +13289,35 @@ story_quest_name_ko.lsd
 (21기념)
 [quest_group_title_10090500000] 성호
 (21기념)
+[quest_group_title_10000800000] 레드
+[quest_group_title_10021800000] 그린
+(어나더)
 [quest_title_1030220118500000] 릴리에의 어느 날
 [quest_title_1030220089400000] N의 어느 날
 [quest_title_1030220090500000] 성호의 어느 날
+[quest_title_1030220000800000] 레드의 어느 날
+[quest_title_1030220021800000] 그린의 어느 날
 [quest_title_1030430800201010] 어태커의 단련6
 [quest_title_1030430800202010] 테크니컬의 단련6
 [quest_title_1030430800203010] 서포트의 단련6
+[quest_title_1030430850101010] VS 회연
+[quest_title_1030430850102010] VS 회연2
+[quest_title_1030430850103010] VS 회연3
+[quest_title_1030430850104010] VS 회연4
+[quest_title_1030308000602010] 관동지방의 실력자로 도전하자!
+[quest_title_1030308000602020] 관동지방의 실력자로 도전하자!2
 [quest_title_1030308000604010] 알로라지방의 동료와 도전하자
 [quest_title_1030308000604020] 알로라지방의 동료와 도전하자2
 [quest_title_1030308000604030] 하나지방의 동료와 도전하자
 [quest_title_1030308000604040] 하나지방의 동료와 도전하자2
 [quest_title_1030308000604050] 호연지방의 동료와 도전하자
 [quest_title_1030308000604060] 호연지방의 동료와 도전하자2
+[quest_title_1030308000601010] 버디즈 여러분께 전해드릴 말씀
+[quest_title_1030308000601030] VS 로켓단의 조무래기
+[quest_title_1030308000601040] VS 로켓단의 조무래기2
+[quest_title_1030308000601050] VS 로켓단의 조무래기3
+[quest_title_1030308000601070] VS 비주기
+[quest_title_1030308000601080] VS 비주기2
 [quest_title_1030308000603020] N의 꿈
 [quest_title_1030308000603030] 릴리에의 성장
 [quest_title_1030308000603040] 성호의 힘
@@ -13201,6 +13333,8 @@ story_quest_name_ko.lsd
 [quest_title_1030308000603100] VS 명희2
 [quest_title_1030308000603120] VS 투희
 [quest_title_1030308000603130] VS 투희2
+[quest_title_1030430850201010] 일일 해피 배틀!
+[quest_title_1030430850204011] 스페셜 해피 배틀!
 [quest_title_1030430800402010] 일일 기프트 배틀!
 [quest_title_1030430800401011] 스페셜 기프트 배틀!
 [quest_title_1030430800300010] 소문의 말괄량이 인어
@@ -14902,18 +15036,35 @@ story_quest_name_zh-TW.lsd
 （2021週年慶）
 [quest_group_title_10090500000] 大吾
 （2021週年慶）
+[quest_group_title_10000800000] 赤紅
+[quest_group_title_10021800000] 青綠
+（關都）
 [quest_title_1030220118500000] 某日的莉莉艾
 [quest_title_1030220089400000] 某日的N
 [quest_title_1030220090500000] 某日的大吾
+[quest_title_1030220000800000] 某日的赤紅
+[quest_title_1030220021800000] 某日的青綠
 [quest_title_1030430800201010] 攻擊型鍛鍊６
 [quest_title_1030430800202010] 技術型鍛鍊６
 [quest_title_1030430800203010] 輔助型鍛鍊６
+[quest_title_1030430850101010] ＶＳ　芙蓉
+[quest_title_1030430850102010] ＶＳ　芙蓉２
+[quest_title_1030430850103010] ＶＳ　芙蓉３
+[quest_title_1030430850104010] ＶＳ　芙蓉４
+[quest_title_1030308000602010] 用關都的強者來挑戰！
+[quest_title_1030308000602020] 用關都的強者來挑戰！２
 [quest_title_1030308000604010] 與阿羅拉的夥伴一起挑戰
 [quest_title_1030308000604020] 與阿羅拉的夥伴一起挑戰２
 [quest_title_1030308000604030] 與合眾的夥伴一起挑戰
 [quest_title_1030308000604040] 與合眾的夥伴一起挑戰２
 [quest_title_1030308000604050] 與豐緣的夥伴一起挑戰
 [quest_title_1030308000604060] 與豐緣的夥伴一起挑戰２
+[quest_title_1030308000601010] 拍組們請注意
+[quest_title_1030308000601030] ＶＳ　火箭隊手下
+[quest_title_1030308000601040] ＶＳ　火箭隊手下２
+[quest_title_1030308000601050] ＶＳ　火箭隊手下３
+[quest_title_1030308000601070] ＶＳ　阪木
+[quest_title_1030308000601080] ＶＳ　阪木２
 [quest_title_1030308000603020] N的夢想
 [quest_title_1030308000603030] 莉莉艾的成長
 [quest_title_1030308000603040] 大吾的強大
@@ -14929,6 +15080,8 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030308000603100] ＶＳ　鳴依２
 [quest_title_1030308000603120] ＶＳ　鬥子
 [quest_title_1030308000603130] ＶＳ　鬥子２
+[quest_title_1030430850201010] 每日開心對戰！
+[quest_title_1030430850204011] 超級開心對戰！
 [quest_title_1030430800402010] 每日禮物對戰！
 [quest_title_1030430800401011] 特別禮物對戰！
 [quest_title_1030430800300010] 傳聞中的俏皮人魚
@@ -15510,6 +15663,14 @@ grenzenlose Fülle an Potenzial und Stärke nutzen.
 [10110010000] Misty fühlt sich in ihrem typischen Outfit aus der Arena
 in Kanto rundum wohl. Am Strand verfolgt sie mit ihrem
 Pokémon einen strikten Trainingsplan.
+[10000800000] Rot fühlt sich in dem Outfit, in dem er die Kanto-Region
+bereist hat, wie ein neuer Mensch. Er denkt oft an all die
+Freunde, die er auf seinen Abenteuern getroffen hat.
+[10021800000] Blau besinnt sich in seinem Outfit, das er bereits zum
+Aufbruch zu seiner ersten Reise durch die Kanto-Region
+getragen hat, auf seine Anfänge. Er steht zu seinen
+früheren Fehlern und verfolgt weiter das Ziel, der stärkste
+Trainer der Welt zu werden.
 
 ===========
 trainer_description_en.lsd
@@ -16046,6 +16207,12 @@ embodies the mysteries of Mega Evolution.
 [10110010000] Misty is feeling comfortable in the swimsuit she usually
 wore back at her Gym in Kanto. She’s been training
 extra hard at the beach with her Pokémon.
+[10000800000] Red is feeling brand-new in this outfit that he wore
+back when he traveled the Kanto region. He often
+thinks about the friends he’s made on his journeys.
+[10021800000] Blue is going back to the basics in the outfit he wore
+when he traveled the Kanto region. He’s learned from his
+past mistakes and is still aiming to be number one.
 
 ===========
 trainer_description_es.lsd
@@ -16678,6 +16845,13 @@ busca ganar fuerza y explotar su potencial.
 [10110010000] Misty aboga por la comodidad con el bañador que llevaba
 como Líder de Gimnasio de Ciudad Celeste, en Kanto.
 Es perfecto para entrenar en la playa con su compi.
+[10000800000] Rojo se siente como nuevo con la indumentaria que
+llevaba cuando viajaba por la región de Kanto. Le
+recuerda a los amigos que hizo en aquella aventura.
+[10021800000] Azul vuelve a sus inicios con la indumentaria que llevaba
+cuando viajaba por Kanto. Ha asumido que era muy
+inmaduro por entonces, pero sigue decidido a convertirse
+en el Entrenador más fuerte habido y por haber.
 
 ===========
 trainer_description_fr.lsd
@@ -17246,6 +17420,14 @@ qui est la clé du mystère de la Méga-Évolution.
 [10110010000] Ondine se sent libre dans sa tenue de Championne
 d'Arène de Kanto. Elle est en plein entraînement
 intensif avec son Pokémon, à la plage.
+[10000800000] Red se sent prêt à relever de nouveaux défis en renfilant
+sa tenue de Kanto. Il repense avec nostalgie
+aux nombreux amis qu'il s'est faits
+lors de ses aventures passées.
+[10021800000] Blue se replonge dans le passé en portant à nouveau
+sa tenue de Kanto. Il fait face à ses erreurs d'antan
+tout en maintenant son objectif de devenir
+le plus fort de tous les Dresseurs.
 
 ===========
 trainer_description_it.lsd
@@ -17828,6 +18010,13 @@ delle megaevoluzioni.
 che usava nella Palestra di Celestopoli. Al momento è
 impegnata in una nuova sessione d'allenamento
 in spiaggia insieme al suo Pokémon.
+[10000800000] Rosso fa un tuffo nel passato indossando nuovamente
+gli stessi abiti di quando viaggiava per Kanto. Ripensa
+spesso agli amici che si è fatto lungo il cammino.
+[10021800000] Blu ritorna alle origini con il suo vecchio completo,
+indossato durante le avventure a Kanto. Ha imparato
+dai suoi errori passati e mira sempre a diventare
+il numero uno.
 
 ===========
 trainer_description_ja.lsd
@@ -18363,6 +18552,12 @@ trainer_description_ja.lsd
 [10110010000] カントー地方の　ジムで　着ていた　衣装を
 身にまとい　解放感に　あふれた　カスミ。
 バディと　一緒に　海辺で　特訓中。
+[10000800000] カントー地方を　旅していたときの　衣装を
+身にまとい　気持ちを　新たにした　レッド。
+かつて　冒険した　仲間たちに　思いをはせる。
+[10021800000] カントー地方を　旅していたときの　衣装を
+身にまとい　初心に　立ち返った　グリーン。
+かつての　未熟さを　受け入れ　最強を　目指す。
 
 ===========
 trainer_description_ko.lsd
@@ -18898,6 +19093,12 @@ WPM 운영위원회의 대표도 맡고 있다.
 [10110010000] 관동지방의 체육관에서 입던 의상을 입고
 상쾌함을 느끼는 이슬.
 버디와 함께 해변에서 특훈하고 있다.
+[10000800000] 관동지방을 여행하던 시절의 의상을 입고
+새로이 마음을 다잡은 레드.
+과거에 함께 모험한 동료들을 떠올린다.
+[10021800000] 관동지방을 여행하던 시절의 의상을 입고
+초심으로 돌아간 그린.
+과거의 미숙함을 받아들이고 최강을 목표한다.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -19432,6 +19633,12 @@ trainer_description_zh-TW.lsd
 [10110010000] 穿上在關都地區的道館時穿著的服裝，
 整個人十分舒適自在的小霞。
 她正和拍檔一起在海邊特訓。
+[10000800000] 穿上在關都地區冒險時的服裝，
+心情煥然一新的赤紅。
+他懷念起過去曾一同冒險的夥伴們。
+[10021800000] 穿上在關都地區冒險時的服裝，
+回歸初心的青綠。他接納過去
+不成熟的自己，以最強為目標。
 
 ===========
 trainer_name_de.lsd
@@ -26748,6 +26955,7 @@ fortfahren?
 [home/quest_list_160] Punkte: [Digit:8digits ]!
 Belohnung erhalten!
 [home/quest_list_161] Pkt.
+[home/quest_list_162] Schurken-Event
 [home/quest_detail_003] Empfohlener Typ
 [home/quest_detail_005] Details
 [home/quest_detail_009] Teamauswahl
@@ -27497,6 +27705,7 @@ Are you sure you want to continue?
 [home/quest_list_160] [Digit:8digits ] Total
 Points Earned!
 [home/quest_list_161] pts
+[home/quest_list_162] Villain Event
 [home/quest_detail_003] Recommended Types
 [home/quest_detail_005] Area Details
 [home/quest_detail_009] Preset Teams
@@ -28200,6 +28409,7 @@ aprender.
 [home/quest_list_160] ¡[Digit:8digits ] puntos!
 ¡Premio conseguido!
 [home/quest_list_161] ptos.
+[home/quest_list_162] Evento villano
 [home/quest_detail_003] Tipos recomendados
 [home/quest_detail_005] Detalles
 [home/quest_detail_009] Elegir equipo
@@ -28926,6 +29136,7 @@ en arrière.
 [home/quest_list_160] [Digit:8digits ] point[FR:Qty P="s" ] !
 Récompense obtenue !
 [home/quest_list_161] pts
+[home/quest_list_162] Évènement de l'organisation maléfique
 [home/quest_detail_003] Types conseillés
 [home/quest_detail_005] Infos
 [home/quest_detail_009] Équipes
@@ -29694,6 +29905,7 @@ Vuoi davvero partire?
 [home/quest_list_160] [Digit:8digits ] punti!
 Nuova ricompensa!
 [home/quest_list_161] punti
+[home/quest_list_162] Evento gruppo malvagio
 [home/quest_detail_003] Tipi consigliati
 [home/quest_detail_005] Info area
 [home/quest_detail_009] Scegli squadra
@@ -30445,6 +30657,7 @@ Lv.[Digit:2digits ]で解放
 [home/quest_list_160] [Digit:8digits ]pt達成！
 報酬獲得！
 [home/quest_list_161] pt
+[home/quest_list_162] 悪の組織イベント
 [home/quest_detail_003] おすすめのタイプ
 [home/quest_detail_005] エリア詳細
 [home/quest_detail_009] チーム選択
@@ -31187,6 +31400,7 @@ Lv.[Digit:2digits ]에서 해방
 [home/quest_list_160] [Digit:8digits ]포인트 달성!
 보상 획득!
 [home/quest_list_161] 포인트
+[home/quest_list_162] 악의 조직 이벤트
 [home/quest_detail_003] 추천타입
 [home/quest_detail_005] 에리어 상세
 [home/quest_detail_009] 팀 선택
@@ -31900,6 +32114,7 @@ home_zh-TW.lsd
 [home/quest_list_160] [Digit:8digits ]pt達成！
 獲得報酬！
 [home/quest_list_161] pt
+[home/quest_list_162] 邪惡組織活動
 [home/quest_detail_003] 推薦屬性
 [home/quest_detail_005] 區域詳情
 [home/quest_detail_009] 選擇隊伍
