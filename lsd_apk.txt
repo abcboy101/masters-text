@@ -934,6 +934,27 @@ sind gut darin, schnell zu agieren.
 [100065] Gefährten mit der Rolle
 „Feldwandler“ sind gut darin,
 Feldeffekte zu kontrollieren!
+[100066] Das verspricht ein epischer Kampf
+zu werden! Fangen wir an. It’s
+champ time!
+[100067] Bald werde ich ihn also
+wiedertreffen...
+[100068] Sehr schön. Jetzt freue ich mich
+noch mehr darauf, gegen euch
+anzutreten.
+[100069] Strengen wir uns mehr an als
+jemals zuvor! Gewinnen ist alles!
+[100070] Also... Lasst uns gemeinsam
+kämpfen und allen beweisen, wie
+stark wir wirklich sind! Als eine
+Familie!
+[100071] Wirst du... mir deine Kraft leihen?
+[100072] Dann werden wir zusammen zu
+den weltbesten Gefährten!
+[100073] Ein Geschenk für mich? Danke
+vielmals, ich weiß das zu schätzen!
+[100074] Zeigt uns, was ihr hier gelernt
+habt! Nur keine falsche Scheu!
 
 ===========
 loading_tips_description_en.lsd
@@ -1140,6 +1161,28 @@ Level Up in the Sync Pairs menu!
 moving quickly!
 [100065] Field sync pairs are good at
 controlling field effects!
+[100066] It’s the start of an epic battle!
+Let’s enjoy our champion time!
+[100067] I’m going to see him again...
+[100068] Well, that’s excellent! I think I’m
+even more excited to battle
+against your team now.
+[100069] C’mon, team! Let’s give this thing
+everything we’ve got—and win,
+obviously!
+[100070] So come on! Let’s join together and
+show the competition the full
+extent of our power! We’re going
+to win this as a family!
+[100071] You...you want to lend us your
+power, don’t you.
+[100072] Together, we’ll be the strongest
+sync pair in the world!
+[100073] A gift for me? Thanks!
+I’ll treasure it.
+[100074] Why don’t you show us what
+you’ve learned!
+Give us all you’ve got!
 
 ===========
 loading_tips_description_es.lsd
@@ -1400,6 +1443,27 @@ rapidez.
 [100065] La función de entorno está
 especializada en controlar los
 efectos de campo.
+[100066] ¡Que dé comienzo el más grandioso
+de los combates! ¡Verás cómo un
+Campeón puede con todo!
+[100067] Así que volveremos a vernos...
+[100068] ¡Mira qué bien! Tenéis un equipo
+muy prometedor. No veo la hora
+de enfrentarme a vosotros en
+combate.
+[100069] ¡Vamos a darlo todo y, por
+supuesto, a ganar!
+[100070] Vamos a emplearnos con todas
+nuestras fuerzas y vamos a vencer.
+¡Como una familia unida!
+[100071] ¿Entonces lo que quieres es luchar
+junto a mí?
+[100072] ¡Vamos a convertirnos en la pareja
+de compis más fuerte habida y por
+haber!
+[100073] ¿Un regalo? ¿Para mí? ¡Gracias!
+[100074] ¡Venga, a ver qué habéis
+aprendido!
 
 ===========
 loading_tips_description_fr.lsd
@@ -1656,6 +1720,26 @@ d'agir rapidement !
 « Régisseur » connaissent des
 capacités permettant de contrôler
 les effets de terrain !
+[100066] C'est parti pour le combat
+du siècle ! On va s'éclater !
+[100067] Je vais enfin le revoir...
+[100068] Excellent. Mon combat contre vous
+n'en sera que plus excitant !
+[100069] On doit donner tout ce qu'on a !
+C'qui compte, c'est de gagner
+en beauté !
+[100070] Vous avez raison. Je vais donner
+mon maximum, et nous allons
+remporter la victoire tous
+les trois ! En famille !
+[100071] Tu veux bien...
+me prêter ta force ?
+[100072] Je suis sûr qu'on sera imbattables,
+tous les deux !
+[100073] C'est pour moi... ?
+Merci, j'en prendrai soin !
+[100074] Montrez-nous un peu
+ce que vous avez appris !
 
 ===========
 loading_tips_description_it.lsd
@@ -1903,6 +1987,25 @@ rapidi!
 [100065] Le Unità con il ruolo di
 Campomastri sono specializzate
 nel controllare gli effetti sul campo!
+[100066] It's champion time! Sarà una lotta
+fenomenale!
+[100067] Potremo incontrarci di nuovo...
+[100068] Ottimo. Adesso sarà ancora più
+entusiasmante lottare con voi.
+[100069] Diamoci da fare tutti e tre,
+e vinceremo di sicuro!
+[100070] Quindi... Impegniamoci al massimo
+e andiamo a conquistare la vittoria!
+Insieme, come famiglia,
+ce la faremo!
+[100071] Puoi prestarmi... la tua forza?
+[100072] Ci riusciremo insieme!
+Diventeremo l'Unità
+più forte al mondo!
+[100073] Un regalo per me? Grazie...
+Lo terrò da conto.
+[100074] Forza! Fateci vedere
+ciò che avete imparato!
 
 ===========
 loading_tips_description_ja.lsd
@@ -2099,6 +2202,24 @@ loading_tips_description_ja.lsd
 [100065] ロール「フィールド」は
 場の効果を　操るのが
 得意な　バディーズだ！
+[100066] さあ　最高の　試合の　幕開けだ！
+チャンピオン　タイムを　楽しめ！
+[100067] 会えるのか　キミに……
+[100068] よかった　これで　きみたちと
+戦うのが　より楽しみに　なった
+[100069] ３人で　思いっきりやろうぜ！
+もちろん！　勝つのが　大前提でな！
+[100070] だから……
+ゼンリョクで　ぶつかり
+勝ちに　いきましょう！
+家族全員で！
+[100071] 力を……　貸してくれるのか？
+[100072] 一緒に　なってやろうぜ！
+世界で　一番強い　バディーズにな！！
+[100073] オレに　贈り物か？
+……ありがてえ　大切に　するぜ
+[100074] おまえらが　学んだ　すべてを
+今ここで　オレたちに　ぶつけてこい！
 
 ===========
 loading_tips_description_ko.lsd
@@ -2289,6 +2410,23 @@ HP가 줄어드는 양이 점점 늘어납니다!
 [100065] 롤 "필드"는
 필드 효과를 다루는 것이
 특기인 버디즈입니다!
+[100066] 자, 최고의 시합을 시작하자!
+챔피언 타임을 즐겨보는 거야!
+[100067] 만나는 건가, 너와...
+[100068] 잘 됐어! 이걸로 너희와
+싸우는 것이 더 기대되기 시작했어
+[100069] 3명이서 있는 힘을 다하는 거야!
+물론, 이기는 게 대전제다!
+[100070] 그러니...
+전력을 다해 이겨보자꾸나!
+가족 모두 함께!
+[100071] 힘을... 빌려주지 않겠어?
+[100072] 함께 되어 보자고!
+세계에서 가장 강한 버디즈가!!
+[100073] 나한테 주는 선물이야?
+고마운걸... 소중히 간직할게
+[100074] 너희가 배운 모든 걸
+지금 여기서 우리에게 부딪쳐 봐!
 
 ===========
 loading_tips_description_zh-TW.lsd
@@ -2474,6 +2612,24 @@ loading_tips_description_zh-TW.lsd
 擅長迅速行動！
 [100065] 「場地型」體系的拍組
 擅長操控場地效果！
+[100066] 來吧，最棒的比賽就要揭開序幕了！
+讓我們一起來享受冠軍時刻吧！
+[100067] 可以見到你了啊……
+[100068] 太好了。這樣一來，
+我更期待與你們對戰了。
+[100069] 我們３個都盡情地去對戰吧！
+當然！最大的前提就是要拿下勝利！
+[100070] 所以……
+讓我們拿出全力對戰，
+朝著勝利前進吧！
+我們要全家一起拿下勝利！
+[100071] 你願意……助我一臂之力嗎？
+[100072] 我們結為拍組吧！
+讓我們一起成為世界第一強的拍組！！
+[100073] 你要送我東西？
+……謝啦，我會珍惜它的。
+[100074] 把你們學到的一切，
+在這裡展現給我們看吧！
 
 ===========
 loading_tips_title_de.lsd
@@ -2531,6 +2687,15 @@ loading_tips_title_de.lsd
 [100056] Sammle Gefährtendrops M
 [100064] Die Initiator-Rolle
 [100065] Die Feldwandler-Rolle
+[100066] It’s champ time!
+[100067] Die Formel für eine ideale Welt
+[100068] Der Junge und der Schatten
+[100069] Das Finale der WPM
+[100070] Familienbande
+[100071] Ein dunkler Alptraum
+[100072] Die Regenbogen-Schwingen
+[100073] PokéLounge
+[100074] Siegesstraße
 
 ===========
 loading_tips_title_en.lsd
@@ -2588,6 +2753,15 @@ loading_tips_title_en.lsd
 [100056] Getting Co-op Sync Orbs
 [100064] Sprint Sync Pairs
 [100065] Field Sync Pairs
+[100066] Champion Time
+[100067] The Ideal Formula
+[100068] Shifting Shadows
+[100069] The Road to Victory
+[100070] Family Ties
+[100071] Dreaming in Darkness
+[100072] Pure Hearts and Rainbow Wings
+[100073] Trainer Lodge
+[100074] Victory Road
 
 ===========
 loading_tips_title_es.lsd
@@ -2645,6 +2819,15 @@ loading_tips_title_es.lsd
 [100056] Reúne Orbes Compi Multi
 [100064] La función de velocidad
 [100065] La función de entorno
+[100066] Un Campeón no nace, se hace
+[100067] La fórmula para colorear
+[100068] Una oscura amenaza
+[100069] A la conquista del WPM
+[100070] La familia unida de Lylia
+[100071] La pesadilla infinita
+[100072] Las alas irisadas de la bondad
+[100073] El Salón de Entrenadores
+[100074] La Calle Victoria
 
 ===========
 loading_tips_title_fr.lsd
@@ -2702,6 +2885,15 @@ loading_tips_title_fr.lsd
 [100056] Trouver des Duo-Sphères Coop
 [100064] Le rôle d'accélérateur
 [100065] Le rôle de régisseur
+[100066] Le Maître Invaincu
+[100067] L'équation parfaite
+[100068] La menace avance
+[100069] À la conquête du WPM
+[100070] Équipe Lilie-bérée !
+[100071] Le sombre cauchemar
+[100072] Les ailes arc-en-ciel et le cœur pur
+[100073] Salon des Dresseurs
+[100074] Route Victoire
 
 ===========
 loading_tips_title_it.lsd
@@ -2759,6 +2951,15 @@ loading_tips_title_it.lsd
 [100056] Raccogliere Uniciondoli Multi
 [100064] Il ruolo di Sprinter
 [100065] Il ruolo di Campomastro
+[100066] Champion time!
+[100067] La formula che dà colore
+[100068] Incontro all'oscura minaccia
+[100069] Alla conquista del WPM
+[100070] Uniti in famiglia!
+[100071] L'incubo oscuro
+[100072] Ali per un cuore puro
+[100073] Il Salotto Allenatori
+[100074] Via Vittoria
 
 ===========
 loading_tips_title_ja.lsd
@@ -2816,6 +3017,15 @@ loading_tips_title_ja.lsd
 [100056] バディドロップＭを集めよう
 [100064] ロール「スピード」
 [100065] ロール「フィールド」
+[100066] チャンピオン　タイム！
+[100067] 世界を彩る数式
+[100068] 少年と動き出す影
+[100069] ＷＰＭを制する者
+[100070] 団結！　リーリエ一家！
+[100071] ギンガ団と黒き夢
+[100072] 正しき心に舞い降りる翼
+[100073] トレーナーズサロン
+[100074] チャンピオンロード
 
 ===========
 loading_tips_title_ko.lsd
@@ -2873,6 +3083,15 @@ loading_tips_title_ko.lsd
 [100056] 버디드롭M을 모아보자!
 [100064] 롤 "스피드"
 [100065] 롤 "필드"
+[100066] 챔피언 타임!
+[100067] 세계를 색칠하는 수식
+[100068] 소년과 움직이는 그림자
+[100069] WPM을 제패하는 자
+[100070] 단결! 릴리에 일가!
+[100071] 갤럭시단과 검은 꿈
+[100072] 올바른 마음에 내려앉은 날개
+[100073] 트레이너즈 살롱
+[100074] 챔피언로드
 
 ===========
 loading_tips_title_zh-TW.lsd
@@ -2930,6 +3149,15 @@ loading_tips_title_zh-TW.lsd
 [100056] 收集拍檔滴晶Ｍ吧
 [100064] 「速戰型」體系
 [100065] 「場地型」體系
+[100066] 冠軍時刻！
+[100067] 世界的理想公式
+[100068] 少年與開始行動的影子
+[100069] 稱霸ＷＰＭ的人
+[100070] 團結！莉莉艾一家！
+[100071] 銀河隊與黑色的夢
+[100072] 落在正直之心上的羽翼
+[100073] 訓練家沙龍
+[100074] 冠軍之路
 
 ===========
 story_quest_name_de.lsd
@@ -6920,6 +7148,49 @@ Silber!
 [quest_title_1030460200400010] Kais bestes Käfer-Pokémon!
 [quest_title_1030460200601010] Glücksfähigkeit-
 Verstärkungsintensivkurs
+[quest_title_1040002970001011] Ein besonderer Tag mit Volo
+(Teil 1)
+[quest_title_1040002970001021] Ein besonderer Tag mit Volo
+(Teil 2)
+[quest_title_1030110000600700] Alte Pläne in Bewegung
+[quest_title_1030603000601000] Seid ihr auf der Suche nach
+etwas Bestimmtem?
+[quest_title_1030603000601010] Händler und
+Ruinen-Enthusiast
+[quest_title_1030603000601050] Vs. Trainer aus Passio 1
+[quest_title_1030603000601020] Señor Jims Unterricht im
+Freien
+[quest_title_1030603000601060] Vs. Trainer aus Passio 2
+[quest_title_1030603000601030] Der Trainer, der die Sprache
+der Pokémon versteht
+[quest_title_1030603000601070] Vs. Trainer aus Passio 3
+[quest_title_1030603000601040] Eine bessere Welt...
+[quest_title_1030603000601080] Vs. Trainer aus Passio 4
+[quest_title_1030603000601090] Täglicher schwerer Kampf
+[quest_title_1030603000601100] Herausforderungskampf 1
+[quest_title_1030603000601110] Herausforderungskampf 2
+[quest_title_1030220297000000] Ein Tag mit Volo
+[quest_title_1030220298000000] Ein Tag mit Jim
+[quest_title_1030603000607010] Vorsicht im Dunkeln
+[quest_title_1030603000607030] Vs. Lola
+[quest_title_1030603000607020] Der Stromausfall hält an...
+[quest_title_1030451002401010] Vs. Entschlossene Lotte
+[quest_title_1030603000602000] Eine Chance für neue Helden!
+[quest_title_1030603000602010] Die Regeln des Ringkampfes
+[quest_title_1030603000602050] Vs. Ringer 1
+[quest_title_1030603000602020] Ein mitreißender Kampf
+[quest_title_1030603000602060] Vs. Ringer 2
+[quest_title_1030603000602030] Finaler Schlag durch Finisher
+[quest_title_1030603000602070] Vs. Ringer 3
+[quest_title_1030603000602040] Duell mit erfahrenen Helden
+[quest_title_1030603000602080] Vs. Ringer 4
+[quest_title_1030603000602090] Täglicher schwerer Kampf
+[quest_title_1030603000602100] Herausforderungskampf 1
+[quest_title_1030603000602110] Herausforderungskampf 2
+[quest_group_title_10297000000] Volo
+[quest_group_title_10298000000] Jim
+[quest_group_title_10099400000] Barry (Kostüm)
+[quest_group_title_10123400000] Selene (Kostüm)
 
 ===========
 story_quest_name_en.lsd
@@ -10686,6 +10957,43 @@ Nine Possibilities: Part 2
 [quest_group_title_10202000000] Dahlia
 [quest_title_1030460200400010] Bugsy’s Prized Bug-Type Pokémon!
 [quest_title_1030460200601010] Lucky Skill Drill
+[quest_title_1040002970001011] A Special Day with Volo: Part 1
+[quest_title_1040002970001021] A Special Day with Volo: Part 2
+[quest_title_1030110000600700] Long-Held Ambitions on the Move
+[quest_title_1030603000601000] Is There Something You’re Looking For?
+[quest_title_1030603000601010] The Merchant Who Loves Ruins
+[quest_title_1030603000601050] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030603000601020] Mr. Jacq’s Outdoor Classroom
+[quest_title_1030603000601060] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030603000601030] The Trainer Who Can Understand Pokémon
+[quest_title_1030603000601070] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030603000601040] A New, Better World...
+[quest_title_1030603000601080] Challenge Pasio’s Trainers: Part 4
+[quest_title_1030603000601090] Daily Extreme Battle 1
+[quest_title_1030603000601100] Battle Challenge! Round 1
+[quest_title_1030603000601110] Battle Challenge! Round 2
+[quest_title_1030220297000000] A Day with Volo
+[quest_title_1030220298000000] A Day with Jacq
+[quest_title_1030603000607010] Be Careful of the Darkness
+[quest_title_1030603000607030] Challenge Acerola
+[quest_title_1030603000607020] The Blackout Continues...
+[quest_title_1030451002401010] Challenge a Super Serious Lucy
+[quest_title_1030603000602000] Our Chance to Become Heroes!
+[quest_title_1030603000602010] The Rules of the Ring
+[quest_title_1030603000602050] Challenge the Tag Team: Part 1
+[quest_title_1030603000602020] A Captivating Battle
+[quest_title_1030603000602060] Challenge the Tag Team: Part 2
+[quest_title_1030603000602030] Two Finishing Moves
+[quest_title_1030603000602070] Challenge the Tag Team: Part 3
+[quest_title_1030603000602040] Overcome the Veteran Heroes!
+[quest_title_1030603000602080] Challenge the Tag Team: Part 4
+[quest_title_1030603000602090] Daily Extreme Battle 1
+[quest_title_1030603000602100] Battle Challenge! Round 1
+[quest_title_1030603000602110] Battle Challenge! Round 2
+[quest_group_title_10297000000] Volo
+[quest_group_title_10298000000] Jacq
+[quest_group_title_10099400000] Barry (Special Costume)
+[quest_group_title_10123400000] Selene (Special Costume)
 
 ===========
 story_quest_name_es.lsd
@@ -14791,6 +15099,48 @@ Pokémon
 Bicho de Antón
 [quest_title_1030460200601010] Entrenamiento de
 habilidades fortuitas
+[quest_title_1040002970001011] Un día especial con Volus
+[quest_title_1040002970001021] Un día especial con Volus (2)
+[quest_title_1030110000600700] Un antiguo plan, en marcha
+[quest_title_1030603000601000] ¿Estáis buscando algo?
+[quest_title_1030603000601010] El mercader aficionado a la
+arqueología
+[quest_title_1030603000601050] VS. Entrenadores de Passio
+[quest_title_1030603000601020] Clase al aire libre con Cinio
+[quest_title_1030603000601060] VS. Entrenadores de Passio (2)
+[quest_title_1030603000601030] Aquel que escucha las voces
+de los Pokémon
+[quest_title_1030603000601070] VS. Entrenadores de Passio (3)
+[quest_title_1030603000601040] Un mundo mejor
+[quest_title_1030603000601080] VS. Entrenadores de Passio (4)
+[quest_title_1030603000601090] ¡Un combate difícil al día!
+[quest_title_1030603000601100] ¡Un combate desafiante!
+[quest_title_1030603000601110] ¡Un combate desafiante! (2)
+[quest_title_1030220297000000] Un día con Volus
+[quest_title_1030220298000000] Un día con Cinio
+[quest_title_1030603000607010] A oscuras, mejor ir con
+cuidado
+[quest_title_1030603000607030] VS. Zarala
+[quest_title_1030603000607020] El apagón continúa
+[quest_title_1030451002401010] VS. Fortunia con todo
+[quest_title_1030603000602000] ¡Nuestra oportunidad de
+convertirnos en héroes!
+[quest_title_1030603000602010] Las normas del ring
+[quest_title_1030603000602050] VS. luchadores
+[quest_title_1030603000602020] Combatir y conmover
+[quest_title_1030603000602060] VS. luchadores (2)
+[quest_title_1030603000602030] ¡Dos golpes finales!
+[quest_title_1030603000602070] VS. luchadores (3)
+[quest_title_1030603000602040] ¡A superar a la anterior
+generación de héroes!
+[quest_title_1030603000602080] VS. luchadores (4)
+[quest_title_1030603000602090] ¡Un combate difícil al día!
+[quest_title_1030603000602100] ¡Un combate desafiante!
+[quest_title_1030603000602110] ¡Un combate desafiante! (2)
+[quest_group_title_10297000000] Volus
+[quest_group_title_10298000000] Cinio
+[quest_group_title_10099400000] Israel (Especial)
+[quest_group_title_10123400000] Selene (Especial)
 
 ===========
 story_quest_name_fr.lsd
@@ -19377,6 +19727,58 @@ Dresseurs de Passio IV
 [quest_title_1030460200400010] Les précieux Pokémon
 Insecte d'Hector !
 [quest_title_1030460200601010] Exercice talents surprise
+[quest_title_1040002970001011] Une journée spéciale
+avec Percupio
+[quest_title_1040002970001021] Une journée spéciale
+avec Percupio II
+[quest_title_1030110000600700] Réalisation de vieilles
+ambitions
+[quest_title_1030603000601000] Cherchez-vous quelque
+chose en particulier ?
+[quest_title_1030603000601010] Le marchand passionné
+par les ruines
+[quest_title_1030603000601050] Combat : Dresseurs de Passio
+[quest_title_1030603000601020] La classe en plein air
+de monsieur Jacq
+[quest_title_1030603000601060] Combat :
+Dresseurs de Passio II
+[quest_title_1030603000601030] Le Dresseur qui comprend
+les Pokémon
+[quest_title_1030603000601070] Combat :
+Dresseurs de Passio III
+[quest_title_1030603000601040] Un monde meilleur...
+[quest_title_1030603000601080] Combat :
+Dresseurs de Passio IV
+[quest_title_1030603000601090] Combat difficile limité
+à une fois par jour !
+[quest_title_1030603000601100] Combat difficile
+[quest_title_1030603000601110] Combat difficile II
+[quest_title_1030220297000000] Une journée avec Percupio
+[quest_title_1030220298000000] Une journée avec Jacq
+[quest_title_1030603000607010] Faire attention dans le noir
+[quest_title_1030603000607030] Combat : Margie
+[quest_title_1030603000607020] La panne de courant
+continue...
+[quest_title_1030451002401010] Combat : Charline sans merci
+[quest_title_1030603000602000] Notre chance de devenir
+de vrais héros !
+[quest_title_1030603000602010] Les règles d'un bon combat
+[quest_title_1030603000602050] Combat : Catcheurs
+[quest_title_1030603000602020] Un combat captivant
+[quest_title_1030603000602060] Combat : Catcheurs II
+[quest_title_1030603000602030] Deux coups finaux
+[quest_title_1030603000602070] Combat : Catcheurs III
+[quest_title_1030603000602040] Combat contre les héros
+expérimentés !
+[quest_title_1030603000602080] Combat : Catcheurs IV
+[quest_title_1030603000602090] Combat difficile limité
+à une fois par jour !
+[quest_title_1030603000602100] Combat difficile
+[quest_title_1030603000602110] Combat difficile II
+[quest_group_title_10297000000] Percupio
+[quest_group_title_10298000000] Jacq
+[quest_group_title_10099400000] René (Look Spécial)
+[quest_group_title_10123400000] Selene (Look Spécial)
 
 ===========
 story_quest_name_it.lsd
@@ -23083,6 +23485,43 @@ Persone famose ovunque!
 [quest_group_title_10202000000] Dalia
 [quest_title_1030460200400010] Gli adorati Pokémon Coleottero di Raffaello!
 [quest_title_1030460200601010] Allenamento talenti
+[quest_title_1040002970001011] Un giorno speciale con Ethelo (1ª parte)
+[quest_title_1040002970001021] Un giorno speciale con Ethelo (2ª parte)
+[quest_title_1030110000600700] Il ritorno di antiche ambizioni
+[quest_title_1030603000601000] State cercando qualcosa?
+[quest_title_1030603000601010] Un mercante appassionato di rovine
+[quest_title_1030603000601050] VS Allenatori di Pasio
+[quest_title_1030603000601020] Lezioni all'aria aperta con Zim
+[quest_title_1030603000601060] VS Allenatori di Pasio 2
+[quest_title_1030603000601030] L'Allenatore che sussurra ai Pokémon
+[quest_title_1030603000601070] VS Allenatori di Pasio 3
+[quest_title_1030603000601040] Un mondo migliore
+[quest_title_1030603000601080] VS Allenatori di Pasio 4
+[quest_title_1030603000601090] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030603000601100] Sfida ad alta difficoltà
+[quest_title_1030603000601110] Sfida ad alta difficoltà 2
+[quest_title_1030220297000000] Un giorno con Ethelo
+[quest_title_1030220298000000] Un giorno con Zim
+[quest_title_1030603000607010] Attenti al buio
+[quest_title_1030603000607030] VS Malpi
+[quest_title_1030603000607020] Il blackout continua...
+[quest_title_1030451002401010] VS Fortunata (risoluta)
+[quest_title_1030603000602000] La nostra occasione di diventare eroi!
+[quest_title_1030603000602010] Le regole del ring
+[quest_title_1030603000602050] VS lottatori
+[quest_title_1030603000602020] Per uno scontro avvincente
+[quest_title_1030603000602060] VS lottatori 2
+[quest_title_1030603000602030] Due mosse finali
+[quest_title_1030603000602070] VS lottatori 3
+[quest_title_1030603000602040] Una nuova generazione di eroi
+[quest_title_1030603000602080] VS lottatori 4
+[quest_title_1030603000602090] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030603000602100] Sfida ad alta difficoltà
+[quest_title_1030603000602110] Sfida ad alta difficoltà 2
+[quest_group_title_10297000000] Ethelo
+[quest_group_title_10298000000] Zim
+[quest_group_title_10099400000] Barry (speciale)
+[quest_group_title_10123400000] Selene (speciale)
 
 ===========
 story_quest_name_ja.lsd
@@ -26877,6 +27316,45 @@ story_quest_name_ja.lsd
 [quest_group_title_10202000000] ダリア
 [quest_title_1030460200400010] ツクシの自慢なむしポケ！
 [quest_title_1030460200601010] ポテンシャルの鍛錬
+[quest_title_1040002970001011] ウォロとの特別な一日　前編
+[quest_title_1040002970001021] ウォロとの特別な一日　後編
+[quest_title_1030110000600700] 動きだす積年の野望
+[quest_title_1030603000601000] なにかお探しですか？
+[quest_title_1030603000601010] 遺跡好きの商人
+[quest_title_1030603000601050] ＶＳ　パシオのトレーナー
+[quest_title_1030603000601020] ジニア先生の青空教室
+[quest_title_1030603000601060] ＶＳ　パシオのトレーナー２
+[quest_title_1030603000601030] 声をきく者
+[quest_title_1030603000601070] ＶＳ　パシオのトレーナー３
+[quest_title_1030603000601040] よりよい世界を……
+[quest_title_1030603000601080] ＶＳ　パシオのトレーナー４
+[quest_title_1030603000601090] １日１回限定・高難度バトル！
+[quest_title_1030603000601100] チャレンジバトルで勝負！
+[quest_title_1030603000601110] チャレンジバトルで勝負！２
+[quest_title_1030220297000000] とある日のウォロ
+[quest_title_1030220298000000] とある日のジニア
+[quest_title_1030603000607010] 暗闇にはご注意？
+[quest_title_1030603000607030] ＶＳ　アセロラ
+[quest_title_1030603000607020] 停電はまだ続く……
+[quest_title_1030451002401010] ＶＳ　超本気のアザミ
+[quest_title_1030603000602000] ヒーローになれるチャンス！
+[quest_title_1030603000602010] リングの掟
+[quest_title_1030603000602050] ＶＳ　タッグマッチ
+[quest_title_1030603000602020] 魅せる勝負……？
+[quest_title_1030603000602060] ＶＳ　タッグマッチ２
+[quest_title_1030603000602030] ふたりの必殺技
+[quest_title_1030603000602070] ＶＳ　タッグマッチ３
+[quest_title_1030603000602040] 先輩ヒーローを乗りこえろ！
+[quest_title_1030603000602080] ＶＳ　タッグマッチ４
+[quest_title_1030603000602090] １日１回限定・高難度バトル！
+[quest_title_1030603000602100] チャレンジバトルで勝負！
+[quest_title_1030603000602110] チャレンジバトルで勝負！２
+[quest_group_title_10297000000] ウォロ
+[quest_group_title_10298000000] ジニア
+[quest_group_title_10099400000] ジュン
+（スペシャル）
+[quest_group_title_10123400000] ミヅキ
+（スペシャル）
 
 ===========
 story_quest_name_ko.lsd
@@ -30670,6 +31148,45 @@ story_quest_name_ko.lsd
 [quest_group_title_10202000000] 달리아
 [quest_title_1030460200400010] 호일이 자랑하는 벌레포켓몬!
 [quest_title_1030460200601010] 포텐셜의 단련
+[quest_title_1040002970001011] 월로와의 특별한 하루 전편
+[quest_title_1040002970001021] 월로와의 특별한 하루 후편
+[quest_title_1030110000600700] 움직이기 시작한 해묵은 야망
+[quest_title_1030603000601000] 찾으시는 물건이 있나요?
+[quest_title_1030603000601010] 유적 보기를 좋아하는 상인
+[quest_title_1030603000601050] VS 파시오의 트레이너
+[quest_title_1030603000601020] 지니어 선생님의 야외 교실
+[quest_title_1030603000601060] VS 파시오의 트레이너2
+[quest_title_1030603000601030] 목소리를 듣는 자
+[quest_title_1030603000601070] VS 파시오의 트레이너3
+[quest_title_1030603000601040] 지금보다 나은 세계를...
+[quest_title_1030603000601080] VS 파시오의 트레이너4
+[quest_title_1030603000601090] 1일 1회 한정 고난도 배틀!
+[quest_title_1030603000601100] 챌린지배틀로 승부!
+[quest_title_1030603000601110] 챌린지배틀로 승부!2
+[quest_title_1030220297000000] 월로의 어느 날
+[quest_title_1030220298000000] 지니어의 어느 날
+[quest_title_1030603000607010] 어둠을 조심하세요?
+[quest_title_1030603000607030] VS 아세로라
+[quest_title_1030603000607020] 정전은 아직 계속된다...
+[quest_title_1030451002401010] VS 진심으로 전력을 다하는 다슬
+[quest_title_1030603000602000] 히어로가 될 기회!
+[quest_title_1030603000602010] 링의 규칙
+[quest_title_1030603000602050] VS 태그매치
+[quest_title_1030603000602020] 매료시키는 승부...?
+[quest_title_1030603000602060] VS 태그매치2
+[quest_title_1030603000602030] 둘의 필살기
+[quest_title_1030603000602070] VS 태그매치3
+[quest_title_1030603000602040] 선배 히어로를 뛰어넘어라!
+[quest_title_1030603000602080] VS 태그매치4
+[quest_title_1030603000602090] 1일 1회 한정 고난도 배틀!
+[quest_title_1030603000602100] 챌린지배틀로 승부!
+[quest_title_1030603000602110] 챌린지배틀로 승부!2
+[quest_group_title_10297000000] 월로
+[quest_group_title_10298000000] 지니어
+[quest_group_title_10099400000] 용식
+(스페셜)
+[quest_group_title_10123400000] 미월
+(스페셜)
 
 ===========
 story_quest_name_zh-TW.lsd
@@ -34463,6 +34980,45 @@ story_quest_name_zh-TW.lsd
 [quest_group_title_10202000000] 大麗
 [quest_title_1030460200400010] 阿筆引以為傲的蟲寶可夢！
 [quest_title_1030460200601010] 潛能鍛鍊
+[quest_title_1040002970001011] 與望羅的特別日子　前篇
+[quest_title_1040002970001021] 與望羅的特別日子　後篇
+[quest_title_1030110000600700] 開始行動的多年野心
+[quest_title_1030603000601000] 你們在找什麼東西嗎？
+[quest_title_1030603000601010] 愛好遺跡的商人
+[quest_title_1030603000601050] ＶＳ　帕希歐的訓練家
+[quest_title_1030603000601020] 吉尼亞老師的戶外教室
+[quest_title_1030603000601060] ＶＳ　帕希歐的訓練家２
+[quest_title_1030603000601030] 傾聽心聲的人
+[quest_title_1030603000601070] ＶＳ　帕希歐的訓練家３
+[quest_title_1030603000601040] 更棒的世界……
+[quest_title_1030603000601080] ＶＳ　帕希歐的訓練家４
+[quest_title_1030603000601090] １天僅限１次的高難度對戰！
+[quest_title_1030603000601100] 用挑戰對戰決勝負！
+[quest_title_1030603000601110] 用挑戰對戰決勝負！２
+[quest_title_1030220297000000] 某日的望羅
+[quest_title_1030220298000000] 某日的吉尼亞
+[quest_title_1030603000607010] 小心漆黑？
+[quest_title_1030603000607030] ＶＳ　阿塞蘿拉
+[quest_title_1030603000607020] 停電還在持續……
+[quest_title_1030451002401010] ＶＳ　火力全開的小薊
+[quest_title_1030603000602000] 能成為英雄的大好機會！
+[quest_title_1030603000602010] 擂台上的規則
+[quest_title_1030603000602050] ＶＳ　聯手雙打
+[quest_title_1030603000602020] 引人入勝的對戰……？
+[quest_title_1030603000602060] ＶＳ　聯手雙打２
+[quest_title_1030603000602030] 兩人的必殺技
+[quest_title_1030603000602070] ＶＳ　聯手雙打３
+[quest_title_1030603000602040] 超越前輩英雄吧！
+[quest_title_1030603000602080] ＶＳ　聯手雙打４
+[quest_title_1030603000602090] １天僅限１次的高難度對戰！
+[quest_title_1030603000602100] 用挑戰對戰決勝負！
+[quest_title_1030603000602110] 用挑戰對戰決勝負！２
+[quest_group_title_10297000000] 望羅
+[quest_group_title_10298000000] 吉尼亞
+[quest_group_title_10099400000] 阿馴
+（英雄）
+[quest_group_title_10123400000] 美月
+（英雄）
 
 ===========
 trainer_description_de.lsd
@@ -35779,6 +36335,29 @@ ihn selbst im Kampf in den Bann.
 [10016000001] Diese Arenaleiterin segelt mit ihren Pokémon und als
 Pilotin eines Frachtflugzeugs gern durch die Lüfte.
 Ihr heiteres Gemüt beschert ihr viele Fans.
+[10297000000] Dieser Händler ist ein Mitglied der Ginkgo-Gilde aus
+Hisui. Er ist von Natur aus neugierig und kennt sich sehr
+gut mit Pokémon-Mythen und Ruinen aus. Besondere
+Leute oder seltene Gegenstände wecken stets sein
+Interesse.
+[10298000000] Dieser Lehrer aus Paldea unterrichtet Biologie an einer
+Akademie und erledigt Dinge bevorzugt in seinem eigenen
+Tempo. Er ist außerdem der kluge Kopf hinter der
+Pokédex-App für Smart-Rotom.
+[10099400000] Barry trägt ein besonderes Kostüm. Er ist ein Held mit
+großen Ambitionen und tiefer Bewunderung für seinen
+Meister, Wellenbrecher Marinus. Heute, wie alle Tage,
+zieht er Bösewichte mit seinem Partner Skaraborn zur
+Rechenschaft!
+[10123400000] Selene trägt ein besonderes Kostüm. Sie ist eine Heldin
+mit einem großen Herzen und Mask Royale dient als ihr
+Vorbild! Gemeinsam mit ihrem Partner Scherox vereitelt sie
+die Pläne von Bösewichten!
+[10297000001] Dieser Händler ist ein Mitglied der Ginkgo-Gilde aus
+Hisui. Er ist von Natur aus neugierig und kennt sich sehr
+gut mit Pokémon-Mythen und Ruinen aus. Besondere
+Leute oder seltene Gegenstände wecken stets sein
+Interesse.
 
 ===========
 trainer_description_en.lsd
@@ -36947,6 +37526,25 @@ during battle.
 [10016000001] Normally a cargo plane pilot, this Gym Leader flies
 through the sky with her Pokémon. Her cheery personality
 has earned her many fans.
+[10297000000] This merchant belongs to the Ginkgo Guild in the Hisui
+region. He knows a lot about Pokémon mythology and
+ruins, and he’s very curious, often taking an interest in
+people and rare items.
+[10298000000] This teacher from the Paldea region teaches biology
+at an academy and does things at his own pace. He
+developed a Pokédex app for Rotom Phones.
+[10099400000] Barry is wearing a special outfit. He’s a hero with a
+passionate heart, and he looks up to his master, Crasher
+Wake! Today, as always, he’ll punish evildoers together
+with his partner Pokémon, Heracross!
+[10123400000] Selene is wearing a special outfit. She’s a hero with a
+kind heart, and the Masked Royal is her role model! She
+shatters the dark ambitions of the forces of evil together
+with her partner Pokémon, Scizor!
+[10297000001] This merchant belongs to the Ginkgo Guild in the Hisui
+region. He knows a lot about Pokémon mythology and
+ruins, and he’s very curious, often taking an interest in
+people and rare items.
 
 ===========
 trainer_description_es.lsd
@@ -38310,6 +38908,28 @@ durante los combates porque le encanta cómo se mueven.
 [10016000001] Líder de Gimnasio y piloto que surca los cielos junto
 a sus Pokémon. Su carisma y entusiasmo le han
 granjeado multitud de seguidores.
+[10297000000] Mercader de la Compañía Ginkgo de Hisui que sabe
+mucho sobre mitología Pokémon y ruinas. Dada su
+curiosidad ávida, también alberga un gran interés por los
+objetos raros y las personas.
+[10298000000] Profesor de la región de Paldea que imparte clases de
+Biología en una academia y al que le gusta hacer las
+cosas a su ritmo. Fue él quien desarrolló la aplicación
+Pokédex para los SmartRotom.
+[10099400000] Israel lleva un traje especial que saca a relucir su espíritu
+de héroe apasionado. Sigue el legado de su admirado
+maestro Mananti, el Destructor, y se dirige una vez más
+a castigar a los malandrines junto con su compi Pokémon,
+Heracross.
+[10123400000] Selene lleva un traje especial que saca a relucir su
+espíritu de heroína bondadosa. Sigue el ejemplo de
+Royale, el Enmascarado, y hace añicos las ambiciones
+de las fuerzas del mal junto con su compi Pokémon,
+Scizor.
+[10297000001] Mercader de la Compañía Ginkgo de Hisui que sabe
+mucho sobre mitología Pokémon y ruinas. Dada su
+curiosidad ávida, también alberga un gran interés por los
+objetos raros y las personas.
 
 ===========
 trainer_description_fr.lsd
@@ -39634,6 +40254,27 @@ même durant les combats.
 [10016000001] Une Championne qui pilote son avion-cargo
 accompagnée de Pokémon oiseaux.
 Son énergie lui vaut de nombreux fans.
+[10297000000] Ce marchand fait partie de la Compagnie Ginkgo à Hisui.
+Il possède beaucoup de connaissances sur la mythologie
+Pokémon et les ruines, mais il s'intéresse également
+aux objets rares ainsi qu'aux personnes qu'il rencontre.
+[10298000000] Ce professeur originaire de Paldea enseigne la biologie
+dans une académie, et il fait les choses à son rythme.
+C'est lui qui a mis au point l'application Pokédex
+pour le Motismart.
+[10099400000] René porte une tenue spéciale. C'est un héros
+au cœur ardent, et il admire son mentor, Lovis
+le Teigneux ! Aujourd'hui, comme chaque jour,
+il s'apprête à punir les malfaiteurs avec
+son partenaire, Scarhino !
+[10123400000] Selene porte une tenue spéciale. C'est une héroïne avec
+le cœur sur la main, et Royal Mask est son modèle !
+Elle pulvérise les plans néfastes des forces du mal
+avec son partenaire, Cizayox !
+[10297000001] Ce marchand fait partie de la Compagnie Ginkgo à Hisui.
+Il possède beaucoup de connaissances sur la mythologie
+Pokémon et les ruines, mais il est aussi très curieux
+au sujet des personnes et des objets rares.
 
 ===========
 trainer_description_it.lsd
@@ -40915,6 +41556,25 @@ movenze dei Pokémon perfino durante le lotte.
 [10016000001] Capopalestra che vola con i suoi Pokémon a bordo
 di un aereo cargo. Si è guadagnata molti fan grazie
 al suo temperamento allegro e vivace.
+[10297000000] Mercante della Ditta Ginkgo proveniente da Hisui, esperto
+di mitologia dei Pokémon e di antiche rovine. È molto
+curioso e spesso mostra uno spiccato interesse per
+gli oggetti peculiari e per le persone.
+[10298000000] Docente di biologia che insegna all'accademia di Paldea,
+fa sempre tutto con i propri tempi. È lo sviluppatore
+di un'App Pokédex per gli Smart Rotom.
+[10099400000] Barry indossa un costume speciale. È un eroe
+dal cuore ardente e ammira molto il suo maestro,
+Omar il Distruttore! Anche oggi punirà i cattivi
+con il suo Pokémon compagno, Heracross!
+[10123400000] Selene indossa un costume speciale. È un'eroina
+dal cuore gentile, e il suo idolo è Mister Royale!
+Porrà fine alle perfide ambizioni delle forze del male
+insieme al suo Pokémon compagno, Scizor!
+[10297000001] Mercante della Ditta Ginkgo proveniente da Hisui, esperto
+di mitologia dei Pokémon e di antiche rovine. È molto
+curioso e spesso mostra uno spiccato interesse per
+gli oggetti peculiari e per le persone.
 
 ===========
 trainer_description_ja.lsd
@@ -42071,6 +42731,21 @@ trainer_description_ja.lsd
 [10016000001] 普段から　貨物機の　パイロットを　しており
 ポケモンと　一緒に　空を　ぶっ飛ぶ　ジムリーダー。
 はじけるような　明るさから　ファンも　多い。
+[10297000000] ヒスイ地方　イチョウ商会に　所属している　行商人。
+ポケモン神話や　遺跡に詳しく　珍しいものや　人に
+よく興味を持つ　好奇心旺盛な性格。
+[10298000000] パルデア地方の　アカデミーで　生物の授業を
+担当している　マイペースな性格の　教師。
+スマホロトムの　ポケモン図鑑アプリを　開発した。
+[10099400000] スペシャルな　衣装を　身にまとった　ジュン。
+マキシマム仮面を師と仰ぐ　熱き心のヒーローだ！
+今日も　バディの　ヘラクロスと共に　悪を討つ！
+[10123400000] スペシャルな　衣装を　身にまとった　ミヅキ。
+ロイヤルマスクにあこがれる　優しき心のヒーローだ！
+バディの　ハッサムと共に　悪の野望を　砕くぞ！
+[10297000001] ヒスイ地方　イチョウ商会に　所属している　行商人。
+ポケモン神話や　遺跡に詳しく　珍しいものや　人に
+よく興味を持つ　好奇心旺盛な性格。
 
 ===========
 trainer_description_ko.lsd
@@ -43226,6 +43901,21 @@ WPM 운영위원회의 대표도 맡고 있다.
 [10016000001] 평소에는 화물기 파일럿을 하고 있어
 포켓몬과 함께 힘차게 하늘을 나는 체육관 관장.
 톡톡 튀는 명랑한 모습에 팬도 많다.
+[10297000000] 히스이지방 은행상회에 소속되어 있는 행상인.
+포켓몬 신화와 유적에 해박하며 특이한 물건과 사람에게
+흥미를 잘 느끼는 호기심 왕성한 인물.
+[10298000000] 팔데아지방의 아카데미에서 생물 수업을
+담당하고 있으며 마이페이스한 성격을 지닌 교사.
+스마트로토무의 포켓몬 도감 앱을 개발했다.
+[10099400000] 스페셜 의상을 입은 용식.
+맥시멈가면을 스승으로 모시고 있는 뜨거운 마음의 히어로!
+오늘도 버디인 헤라크로스와 함께 악을 물리친다!
+[10123400000] 스페셜 의상을 입은 미월.
+로열마스크를 동경하는 따뜻한 마음의 히어로!
+버디인 핫삼과 함께 사악한 야망을 분쇄한다!
+[10297000001] 히스이지방 은행상회에 소속되어 있는 행상인.
+포켓몬 신화와 유적에 해박하며 특이한 물건과 사람에게
+흥미를 잘 느끼는 호기심 왕성한 인물.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -44381,6 +45071,21 @@ trainer_description_zh-TW.lsd
 [10016000001] 平時擔任貨機駕駛員，和寶可夢一起翱翔
 於天際的道館館主。自由奔放的開朗個性，
 吸引了許多人成為了她的粉絲。
+[10297000000] 屬於洗翠地區銀杏商會的旅行商人，
+熟知寶可夢神話和遺跡。擁有旺盛的
+好奇心，對珍奇的人和物相當感興趣。
+[10298000000] 在帕底亞地區的學院負責教生物，
+性格我行我素的教師。
+他開發了手機洛托姆的寶可夢圖鑑App。
+[10099400000] 身穿特別服裝的阿馴。
+尊極限假面為師，內心火熱的英雄！
+他今天也將和拍檔赫拉克羅斯共同討伐邪惡！
+[10123400000] 身穿特別服裝的美月。
+崇拜皇家蒙面人且心地善良的英雄！
+她將和拍檔巨鉗螳螂一起粉碎邪惡的野心！
+[10297000001] 屬於洗翠地區銀杏商會的旅行商人，
+熟知寶可夢神話和遺跡。擁有旺盛的
+好奇心，對珍奇的人和物相當感興趣。
 
 ===========
 trainer_name_de.lsd
@@ -44653,6 +45358,8 @@ trainer_name_de.lsd
 [ch0657] Hans-Pika
 [ch0655] Poké-Kind
 [ch0295] Sagaria
+[ch0297] Volo
+[ch0298] Jim
 
 ===========
 trainer_name_en.lsd
@@ -44925,6 +45632,8 @@ trainer_name_en.lsd
 [ch0657] Petey
 [ch0655] Poké Kid
 [ch0295] Geeta
+[ch0297] Volo
+[ch0298] Jacq
 
 ===========
 trainer_name_es.lsd
@@ -45197,6 +45906,8 @@ trainer_name_es.lsd
 [ch0657] Chus
 [ch0655] Pokéchico
 [ch0295] Ságita
+[ch0297] Volus
+[ch0298] Cinio
 
 ===========
 trainer_name_fr.lsd
@@ -45469,6 +46180,8 @@ trainer_name_fr.lsd
 [ch0657] Jean-Chu
 [ch0655] Poké Enfant
 [ch0295] Alisma
+[ch0297] Percupio
+[ch0298] Jacq
 
 ===========
 trainer_name_it.lsd
@@ -45741,6 +46454,8 @@ trainer_name_it.lsd
 [ch0657] Pico
 [ch0655] Poké Bimbo
 [ch0295] Alisma
+[ch0297] Ethelo
+[ch0298] Zim
 
 ===========
 trainer_name_ja.lsd
@@ -46013,6 +46728,8 @@ trainer_name_ja.lsd
 [ch0657] チュウスケ
 [ch0655] ポケモンごっこ
 [ch0295] オモダカ
+[ch0297] ウォロ
+[ch0298] ジニア
 
 ===========
 trainer_name_ko.lsd
@@ -46285,6 +47002,8 @@ trainer_name_ko.lsd
 [ch0657] 추이
 [ch0655] 포켓몬놀이
 [ch0295] 테사
+[ch0297] 월로
+[ch0298] 지니어
 
 ===========
 trainer_name_zh-TW.lsd
@@ -46557,6 +47276,8 @@ trainer_name_zh-TW.lsd
 [ch0657] 丘助
 [ch0655] 寶可夢小朋友
 [ch0295] 也慈
+[ch0297] 望羅
+[ch0298] 吉尼亞
 
 ===========
 trainer_verbose_name_de.lsd
@@ -46785,6 +47506,10 @@ trainer_verbose_name_de.lsd
 [10284400000] Diam 
 (Kostüm)
 [10285400000] Perla 
+(Kostüm)
+[10099400000] Barry 
+(Kostüm)
+[10123400000] Selene 
 (Kostüm)
 
 ===========
@@ -47026,6 +47751,10 @@ Gladion
 (Special Costume)
 [10285400000] Irida 
 (Special Costume)
+[10099400000] Barry 
+(Special Costume)
+[10123400000] Selene 
+(Special Costume)
 
 ===========
 trainer_verbose_name_es.lsd
@@ -47231,6 +47960,8 @@ con Kimono)
 (Neocampeón)
 [10284400000] Adamas (Especial)
 [10285400000] Nákara (Especial)
+[10099400000] Israel (Especial)
+[10123400000] Selene (Especial)
 
 ===========
 trainer_verbose_name_fr.lsd
@@ -47455,6 +48186,8 @@ trainer_verbose_name_fr.lsd
 (Spécial)
 [10285400000] Nacchara 
 (Spécial)
+[10099400000] René (Spécial)
+[10123400000] Selene (Spécial)
 
 ===========
 trainer_verbose_name_it.lsd
@@ -47684,6 +48417,10 @@ trainer_verbose_name_it.lsd
 [10284400000] Damon 
 (speciale)
 [10285400000] Perula 
+(speciale)
+[10099400000] Barry 
+(speciale)
+[10123400000] Selene 
 (speciale)
 
 ===========
@@ -47915,6 +48652,10 @@ trainer_verbose_name_ja.lsd
 （スペシャル）
 [10285400000] カイ
 （スペシャル）
+[10099400000] ジュン
+（スペシャル）
+[10123400000] ミヅキ
+（スペシャル）
 
 ===========
 trainer_verbose_name_ko.lsd
@@ -48144,6 +48885,10 @@ trainer_verbose_name_ko.lsd
 [10284400000] 찬석
 (스페셜)
 [10285400000] 주혜
+(스페셜)
+[10099400000] 용식
+(스페셜)
+[10123400000] 미월
 (스페셜)
 
 ===========
@@ -48375,6 +49120,10 @@ trainer_verbose_name_zh-TW.lsd
 （表演服）
 [10285400000] 珠貝
 （表演服）
+[10099400000] 阿馴
+（英雄）
+[10123400000] 美月
+（英雄）
 
 ===========
 common_widget_de.lsd
@@ -48415,8 +49164,8 @@ common_widget_de.lsd
 [common_widget/cell_049] Nach [Digit:3digits ] Siegen in Folge
 [common_widget/cell_050] Hauptpreis
 [common_widget/cell_051] ＋ [Digit:8digits ]
-[common_widget/cell_052] 
-[common_widget/cell_053] 
+[common_widget/cell_052] --
+[common_widget/cell_053] ???
 [common_widget/cell_054] Im Gang
 [common_widget/cell_056] [Digit:6digits ] - [Digit:6digits Idx="1" ]
 [common_widget/button_001] OK
@@ -48663,6 +49412,12 @@ WPM-Handlungsbogens freigeschaltet.
 [common_widget/dialog_133] Item-Tausch (Rallye)
 [common_widget/dialog_134] Hinweis: Der Effekt dieses Items ist nur beim nächsten
 Kampf aktiv.
+[common_widget/dialog_135] Da ihr Nutzungszeitraum abgelaufen ist,
+wurden die folgenden Items automatisch
+eingetauscht.
+[common_widget/dialog_136] Hinweis: Münzen, die du durch den automatischen
+Tausch erhalten hast, werden im Lager deiner
+Geschenkbox abgelegt.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -49144,6 +49899,10 @@ Wenn diese Bedingung erfüllt ist, kannst du dir die oben aufgelisteten Lieder i
 [common_widget/juke_box_025] Item-Tausch
 [common_widget/juke_box_026] Event
 [common_widget/juke_box_027] Spezial
+[common_widget/juke_box_028] Liederinfo
+[common_widget/juke_box_029] Liedertitel
+[common_widget/juke_box_030] Originaltitel
+[common_widget/juke_box_031] Keine Originalfassungen gelistet
 [common_widget/spreward_001] Spezial-Bonus
 [common_widget/spreward_002] Schließe die Hauptgeschichte ab!
 [common_widget/spreward_003] Schließe den Champkampf ab!
@@ -49248,8 +50007,8 @@ common_widget_en.lsd
 [common_widget/cell_049] [Digit:3digits ]+ wins
 [common_widget/cell_050] Featured Rewards
 [common_widget/cell_051] ＋ [Digit:8digits ]
-[common_widget/cell_052] 
-[common_widget/cell_053] 
+[common_widget/cell_052] --
+[common_widget/cell_053] ???
 [common_widget/cell_054] Setting Up
 [common_widget/cell_056] [Digit:6digits ] - [Digit:6digits Idx="1" ]
 [common_widget/button_001] OK
@@ -49477,6 +50236,10 @@ Would you like to continue?
 [common_widget/dialog_133] Item Exchange—Rally
 [common_widget/dialog_134] Note: This item’s effect will only be active
 for the next battle.
+[common_widget/dialog_135] The following items have expired and
+have been automatically exchanged.
+[common_widget/dialog_136] Note: Coins obtained from auto-exchange will be
+stored in the Temp Storage section of your Present Box.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -49912,6 +50675,10 @@ for this battle.
 [common_widget/juke_box_025] Exchange Items
 [common_widget/juke_box_026] Event
 [common_widget/juke_box_027] Special
+[common_widget/juke_box_028] Song Details
+[common_widget/juke_box_029] Song Title
+[common_widget/juke_box_030] Original Song Title(s)
+[common_widget/juke_box_031] No original songs listed
 [common_widget/spreward_001] Special Completion Rewards
 [common_widget/spreward_002] Complete the main story!
 [common_widget/spreward_003] Complete the Champion Stadium!
@@ -50015,8 +50782,8 @@ common_widget_es.lsd
 [common_widget/cell_049] Más de [Digit:3digits ] victorias
 [common_widget/cell_050] Premio especial
 [common_widget/cell_051] ＋[Digit:8digits ]
-[common_widget/cell_052] 
-[common_widget/cell_053] 
+[common_widget/cell_052] --
+[common_widget/cell_053] ???
 [common_widget/cell_054] Añadido
 [common_widget/cell_056] [Digit:6digits ] - [Digit:6digits Idx="1" ]
 [common_widget/button_001] Vale
@@ -50268,6 +51035,10 @@ WPM de la historia principal.
 [common_widget/dialog_133] Canjear objetos (Yincana)
 [common_widget/dialog_134] Nota: Los efectos de este objeto solamente estarán
 activos en el próximo combate.
+[common_widget/dialog_135] Los siguientes objetos han caducado
+y se han canjeado automáticamente.
+[common_widget/dialog_136] Aviso: Las monedas obtenidas de canjes automáticos se
+guardarán en la sección Reserva de la caja de regalos.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Nv.
 [common_widget/trainer_detail_004] MÁX.
@@ -50729,6 +51500,10 @@ para este combate.
 [common_widget/juke_box_025] Canje de objetos
 [common_widget/juke_box_026] Evento
 [common_widget/juke_box_027] Especial
+[common_widget/juke_box_028] Detalles de la pista
+[common_widget/juke_box_029] Nombre de la pista
+[common_widget/juke_box_030] Nombres de las pistas originales
+[common_widget/juke_box_031] No hay ninguna pista original.
 [common_widget/spreward_001] Premios especiales
 [common_widget/spreward_002] ¡Avanza en la historia principal!
 [common_widget/spreward_003] ¡Completa Combates de Campeones!
@@ -50833,9 +51608,9 @@ common_widget_fr.lsd
 [common_widget/cell_049] [Digit:3digits ] victoires consécutives ou plus
 [common_widget/cell_050] Grand prix
 [common_widget/cell_051] ＋ [Digit:8digits ]
-[common_widget/cell_052] 
-[common_widget/cell_053] 
-[common_widget/cell_054] En cours
+[common_widget/cell_052] --
+[common_widget/cell_053] ???
+[common_widget/cell_054] Sélection
 [common_widget/cell_056] [Digit:6digits ] - [Digit:6digits Idx="1" ]
 [common_widget/button_001] OK
 [common_widget/button_002] Oui
@@ -51086,6 +51861,12 @@ dans le scénario principal.
 [common_widget/dialog_133] Échange d'objets (rallye)
 [common_widget/dialog_134] Remarque : l'effet de cet objet ne sera actif
 que pendant le prochain combat.
+[common_widget/dialog_135] Les objets suivants ont dépassé
+la date d'expiration, et ont donc
+été automatiquement échangés.
+[common_widget/dialog_136] Remarque : les Pièces obtenues avec l'échange
+automatique seront mises en attente dans
+le menu « Cadeaux ».
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] N.
 [common_widget/trainer_detail_004] MAX
@@ -51562,6 +52343,10 @@ Mélodie disponibles !
 [common_widget/juke_box_025] Échange d'objets
 [common_widget/juke_box_026] Évènement
 [common_widget/juke_box_027] Spéciale
+[common_widget/juke_box_028] Détails du morceau
+[common_widget/juke_box_029] Titre du morceau
+[common_widget/juke_box_030] Titre du morceau original
+[common_widget/juke_box_031] Aucun morceau original
 [common_widget/spreward_001] Récompenses (complétion)
 [common_widget/spreward_002] Terminez le scénario principal !
 [common_widget/spreward_003] Terminez le Combat de Maître !
@@ -51666,8 +52451,8 @@ common_widget_it.lsd
 [common_widget/cell_049] [Digit:3digits ] o più vittorie consecutive
 [common_widget/cell_050] Ricompensa principale
 [common_widget/cell_051] ＋[Digit:8digits ]
-[common_widget/cell_052] 
-[common_widget/cell_053] 
+[common_widget/cell_052] --
+[common_widget/cell_053] ???
 [common_widget/cell_054] In corso
 [common_widget/cell_056] [Digit:6digits ] - [Digit:6digits Idx="1" ]
 [common_widget/button_001] Ok
@@ -51903,6 +52688,10 @@ della storia "Il WPM".
 [common_widget/dialog_133] Scambio strumenti Tour di lotta
 [common_widget/dialog_134] L'effetto di questo strumento si attiverà solo
 nella prossima lotta.
+[common_widget/dialog_135] I seguenti strumenti sono scaduti
+e sono stati scambiati automaticamente.
+[common_widget/dialog_136] Le monete ottenute tramite lo scambio automatico
+saranno inviate alla sezione "In attesa" dei Regali.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] L.
 [common_widget/trainer_detail_004] MAX
@@ -52366,6 +53155,10 @@ per questa lotta.
 [common_widget/juke_box_025] Scambio strumenti
 [common_widget/juke_box_026] Evento
 [common_widget/juke_box_027] Speciale
+[common_widget/juke_box_028] Dettagli brano
+[common_widget/juke_box_029] Titolo del brano
+[common_widget/juke_box_030] Basato su
+[common_widget/juke_box_031] Nessun brano originale
 [common_widget/spreward_001] Completapremi
 [common_widget/spreward_002] Completa la storia!
 [common_widget/spreward_003] Completa la Lotta dei Campioni!
@@ -52700,8 +53493,13 @@ EXカラー衣装が　かくとくできます
 [common_widget/dialog_132] メインストーリーの
 WPM編　第７章を
 クリアすると解放されます
-[common_widget/dialog_133] どうぐ交換 ラリー
+[common_widget/dialog_133] どうぐ交換　ラリー
 [common_widget/dialog_134] ※このどうぐは次のバトルでのみ効果を発揮します
+[common_widget/dialog_135] 期限切れのため
+以下のどうぐが自動売却されました
+[common_widget/dialog_136] ※自動売却で変換されたコインは
+プレゼントボックスの「一時保管」に
+保管されます
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -53180,6 +53978,10 @@ HARDクリアで解放
 [common_widget/juke_box_025] どうぐ交換
 [common_widget/juke_box_026] イベント
 [common_widget/juke_box_027] スペシャル
+[common_widget/juke_box_028] 楽曲詳細
+[common_widget/juke_box_029] 楽曲名
+[common_widget/juke_box_030] 原曲名
+[common_widget/juke_box_031] 原曲はありません
 [common_widget/spreward_001] スペシャルクリア報酬
 [common_widget/spreward_002] メインストーリーをクリアしよう！
 [common_widget/spreward_003] チャンピオンバトルをクリアしよう！
@@ -53283,8 +54085,8 @@ common_widget_ko.lsd
 [common_widget/cell_049] [Digit:3digits ]연승 이후
 [common_widget/cell_050] 주요 보상
 [common_widget/cell_051] ＋[Digit:8digits ]
-[common_widget/cell_052] 
-[common_widget/cell_053] 
+[common_widget/cell_052] --
+[common_widget/cell_053] ???
 [common_widget/cell_054] 설정 중
 [common_widget/cell_056] [Digit:6digits ] ~ [Digit:6digits Idx="1" ]
 [common_widget/button_001] OK
@@ -53513,6 +54315,10 @@ WPM 편 제7장을
 클리어하면 해방됩니다
 [common_widget/dialog_133] 도구 교환 랠리
 [common_widget/dialog_134] ※이 도구는 다음 배틀에서만 효과를 발휘합니다
+[common_widget/dialog_135] 기한이 만료되어
+아래의 도구가 자동판매되었습니다
+[common_widget/dialog_136] ※자동판매로 변환된 코인은
+프레젠트박스의 "임시보관"에 보관됩니다
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -53984,6 +54790,10 @@ BP 버디즈 호출권은 도구 교환에서
 [common_widget/juke_box_025] 도구 교환
 [common_widget/juke_box_026] 이벤트
 [common_widget/juke_box_027] 스페셜
+[common_widget/juke_box_028] 악곡 상세
+[common_widget/juke_box_029] 악곡명
+[common_widget/juke_box_030] 원곡명
+[common_widget/juke_box_031] 원곡이 없습니다
 [common_widget/spreward_001] 스페셜 클리어 보상
 [common_widget/spreward_002] 메인 스토리를 클리어하자!
 [common_widget/spreward_003] 챔피언배틀을 클리어하자!
@@ -54302,6 +55112,10 @@ WPM篇的第７章
 即可開放
 [common_widget/dialog_133] 交換道具：接力
 [common_widget/dialog_134] ※此道具只會在下一場對戰發揮效果
+[common_widget/dialog_135] 因超過使用期限
+下列道具已自動出售
+[common_widget/dialog_136] ※因自動出售而轉換成的金幣
+會被送到禮物箱的「暫時保管」
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -54748,6 +55562,10 @@ EX服裝！
 [common_widget/juke_box_025] 交換道具
 [common_widget/juke_box_026] 活動
 [common_widget/juke_box_027] 特別
+[common_widget/juke_box_028] 樂曲說明
+[common_widget/juke_box_029] 樂曲名稱
+[common_widget/juke_box_030] 原曲名稱
+[common_widget/juke_box_031] 沒有原曲
 [common_widget/spreward_001] 特別過關報酬
 [common_widget/spreward_002] 成功過關主線劇情吧！
 [common_widget/spreward_003] 成功過關冠軍對戰吧！
@@ -57518,6 +58336,7 @@ mehrere Bedingungen, gilt nur der höhere Bonus.
 [home/quest_detail_203] Du kannst Rangboni erhalten, wenn
 du mindestens Rang 10 000 erreichst.
 [home/quest_detail_204] Rangboni-Liste
+[home/quest_detail_205] Aktueller Rang
 [home/quest_detail_206] Meister
 TOP [Digit:8digits ]
 [home/quest_detail_207] Hinweis: Du kannst alle Titel erhalten, die unter deinem
@@ -57526,6 +58345,7 @@ aktuellen Rang liegen.
 [home/quest_detail_210] Punktzahl
 [home/quest_detail_211] Meister
 TOP [Digit:8digits ]
+[home/quest_detail_212] TOP [Digit:8digits ]
 [home/home_001] Laden
 [home/home_002] Abenteuer
 [home/home_003] Team
@@ -57629,6 +58449,16 @@ werden.
 den Champkampf einer beliebigen
 Region auf dem Schwierigkeitsgrad
 Schwer Lv. 1 abschließt.
+[home/home_073] Kapitel-Set erhältlich!
+[home/home_074] Champ-Set erhältlich!
+[home/home_075] Juwelenangebot ([Digit:3digits ] [DE:Qty S="Stunde" P="Stunden" ])
+[home/home_076] Zeitlich begr. Juwelen!
+[home/home_077] Ein Juwelenangebot ist verfügbar,
+das nur für kurze Zeit erwerbbar ist!
+
+Du kannst es dir im Laden ansehen!
+[home/home_080] Starthilfe-Juwelen
+[home/home_081] Zeitl. begr. G-Suche
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missionen
 [home/global_menu_008] Freunde
@@ -57979,7 +58809,7 @@ auswählen.
 [home/champion_battle_061] Je stärker du deine Gegner machst, desto
 mehr Punkte und Boni kannst du erhalten.
 [home/champion_battle_062] Erreichte Punktzahl
-[home/champion_battle_063] Deine Gesamtpunkzahl wird am [Name:DateTime ] zurückgesetzt, wodurch du bereits abgeholte Belohnungen erneut erhalten kannst. Über „Zurücksetzen“ kannst du Belohnungen nicht erneut erhalten.
+[home/champion_battle_063] Hinweis: Deine Gesamtpunkzahl wird am folgenden Datum zurückgesetzt. wodurch du bereits abgeholte Belohnungen erneut erhalten kannst: [Name:DateTime ] Durch die „Zurücksetzen“-Schaltfläche kannst du bereits abgeholte Belohnungen nicht erneut erhalten. 
 [home/champion_battle_064] Wird freigeschaltet, wenn du bis zum
 folgenden Datum die notwendigen
 Bedingungen erfüllt hast:
@@ -58816,6 +59646,7 @@ same sync pair, the larger bonus will take effect.
 [home/quest_detail_203] You can obtain prestige rewards for
 finishing 10,000th place or higher!
 [home/quest_detail_204] Prestige Rewards
+[home/quest_detail_205] Current Rank
 [home/quest_detail_206] Master
 Top [Digit:8digits ]
 [home/quest_detail_207] Note: You can claim all titles for ranks
@@ -58824,6 +59655,7 @@ below your own.
 [home/quest_detail_210] Score
 [home/quest_detail_211] Master
 Top [Digit:8digits ]
+[home/quest_detail_212] Top [Digit:8digits ]
 [home/home_001] Shop
 [home/home_002] Explore
 [home/home_003] Team
@@ -58912,6 +59744,16 @@ These new products can be purchased in the Purchase Bundles section of the shop.
 [home/home_071] Skill Gear
 [home/home_072] To unlock, complete the Champion
 Stadium for any region on Hard Lv. 1.
+[home/home_073] Story Bundle Available!
+[home/home_074] Champion Bundle Available!
+[home/home_075] Limited-Time Gems ([Digit:3digits ] [EN:Qty S="Hour" P="Hours" ])
+[home/home_076] Limited-Time Gems!
+[home/home_077] A purchasable gem special that’s only
+available for a limited time has arrived!
+
+You can check it out in the shop!
+[home/home_080] New Player Gems
+[home/home_081] Limited-Time Scout
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missions
 [home/global_menu_008] Friends
@@ -58929,7 +59771,7 @@ Stadium for any region on Hard Lv. 1.
 [home/global_menu_020] Google Play
 [home/global_menu_021] Medals
 [home/global_menu_022] Poryphone Menu
-[home/global_menu_023] Title
+[home/global_menu_023] Titles
 [home/global_menu_024] Photo Creator
 [home/global_menu_025] Adventure Log
 [home/global_menu_026] Rank [Digit:8digits ]
@@ -59226,7 +60068,7 @@ on master mode!
 [home/champion_battle_061] The stronger you make your opponent, the more
 points you earn, and you can get extra rewards.
 [home/champion_battle_062] Record Total
-[home/champion_battle_063] Note: Points will be reset and completion rewards and total point rewards you’ve already claimed will become obtainable again starting [Name:DateTime ]. They cannot be obtained again using the Reset button.
+[home/champion_battle_063] Note: Points will be reset and completion rewards and total point rewards you’ve already claimed will become obtainable again starting [Name:DateTime ] They cannot be obtained again using the Reset button.
 [home/champion_battle_064] This feature can be unlocked once
 you meet the requirements starting
 [Name:DateTime ].
@@ -59730,7 +60572,7 @@ puntos y consigue todos los premios especiales.
 [home/quest_list_128] Queda[ES:Qty P="n" ] [Digit:2digits ]
 [home/quest_list_129] No activado
 [home/quest_list_130] ¡Activado!
-[home/quest_list_131] Puesto actual
+[home/quest_list_131] Rango actual
 [home/quest_list_132] 
 [home/quest_list_133] Clasificación
 personal
@@ -59959,7 +60801,7 @@ en el siguiente combate!
 de un combate, y otorgará más puntos en el siguiente combate. Este
 puede activarse un máximo de tres veces al día.
 [home/quest_detail_137] ¡Mov. de Nv. más alto te darán más puntos!
-[home/quest_detail_138] Puesto
+[home/quest_detail_138] Rango
 [home/quest_detail_139] Habilidades
 de equipo
 [home/quest_detail_140] Menos de [Digit:2digits Idx="1" ]:[Digit:2digits Idx="2" ]
@@ -60055,14 +60897,17 @@ cuenta con más de un bonus, solo se aplicará el más alto.
 [home/quest_detail_203] ¡Puedes obtener premios por clasificación
 si terminas por encima del puesto 10 000!
 [home/quest_detail_204] Premios clasificación
+[home/quest_detail_205] Puesto actual
 [home/quest_detail_206] Master
 [Digit:8digits ] mejores
-[home/quest_detail_207] Nota: Puedes obtener todos los títulos de los rangos
+[home/quest_detail_207] Nota: Puedes obtener todos los títulos de los puestos
 inferiores al tuyo.
 [home/quest_detail_208] Tus compis
 [home/quest_detail_210] Puntuación
 [home/quest_detail_211] Master
 Puesto [Digit:8digits ]
+[home/quest_detail_212] [Digit:8digits ]
+mejores
 [home/home_001] Tienda
 [home/home_002] Aventura
 [home/home_003] Equipo
@@ -60164,6 +61009,16 @@ Puedes adquirirlos en la sección
 [home/home_071] Acc. de habilidad
 [home/home_072] Completa los Combates de Campeones
 de cualquier región en Difícil (nivel 1).
+[home/home_073] ¡Lote historia principal disp.!
+[home/home_074] ¡Lote de Campeones disp.!
+[home/home_075] Joyas tiempo lim. ([Digit:3digits ] h)
+[home/home_076] ¡Joyas por tiempo limitado!
+[home/home_077] ¡Hay un lote especial de joyas
+disponible solo por tiempo limitado!
+
+¡Puedes adquirirlo en la tienda!
+[home/home_080] Joyas iniciación
+[home/home_081] Recl. tiempo lim.
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Misiones
 [home/global_menu_008] Amigos
@@ -60726,8 +61581,8 @@ base si cumples alguna de estas normas:
 la puntuación total supere tu récord actual tras
 completar todos los combates.
 [home/score_attack_051] Clasificación de puntuaciones máximas
-[home/score_attack_052] ¡Has conseguido un emblema
-por alcanzar el rango Master!
+[home/score_attack_052] ¡Si alcanzas el rango Master,
+conseguirás un emblema!
 [home/score_attack_053] Ya tienes el emblema.
 [home/score_attack_061] [Digit:8digits ] ptos.
 [home/score_attack_062] Detalles de la puntuación
@@ -61412,6 +62267,7 @@ le rang [Digit:5digits ] ou mieux.
 [home/quest_detail_203] Vous pouvez obtenir des récompenses (classement)
 en atteignant au moins la 10 000e place !
 [home/quest_detail_204] Liste des récompenses (classement)
+[home/quest_detail_205] Rang actuel
 [home/quest_detail_206] Master
 Top [Digit:8digits ]
 [home/quest_detail_207] Vous pouvez recevoir tous les titres
@@ -61420,6 +62276,7 @@ des rangs inférieurs au vôtre.
 [home/quest_detail_210] Score
 [home/quest_detail_211] Master
 Top [Digit:8digits ]
+[home/quest_detail_212] Top [Digit:8digits ]
 [home/home_001] Boutique
 [home/home_002] Aventure
 [home/home_003] Équipe
@@ -61529,6 +62386,18 @@ Masters de Thalie
 [home/home_072] Débloqué après avoir terminé
 le Combat de Maître de n'importe
 quelle région au niveau Difficile N. 1.
+[home/home_073] Pack Scénario Principal disponible
+[home/home_074] Pack Maître disponible
+[home/home_075] Diamants à disponibilité limitée ([Digit:3digits ] [FR:Qty S="heure" P="heures" ])
+[home/home_076] Diamants à disponibilité limitée
+[home/home_077] Une offre de Diamants payants
+est disponible pendant
+une durée limitée !
+
+Rendez-vous dans la boutique
+pour en savoir plus !
+[home/home_080] Diamants nouveaux joueurs
+[home/home_081] Appel à durée limitée
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missions
 [home/global_menu_008] Amis
@@ -62854,6 +63723,7 @@ piazzamento in classifica.
 [home/quest_detail_203] Puoi ottenere ricompense classifica
 se ti piazzi almeno al 10.000º posto!
 [home/quest_detail_204] Ricompense classifica
+[home/quest_detail_205] Piazzamento
 [home/quest_detail_206] Master
 Migliori [Digit:8digits ]
 [home/quest_detail_207] Puoi ricevere anche i titoli di tutte le posizioni inferiori alla tua.
@@ -62861,6 +63731,7 @@ Migliori [Digit:8digits ]
 [home/quest_detail_210] Punteggio
 [home/quest_detail_211] Master
 Migliori [Digit:8digits ]
+[home/quest_detail_212] Migliori [Digit:8digits ]
 [home/home_001] Negozio
 [home/home_002] Avventura
 [home/home_003] Squadra
@@ -62956,6 +63827,17 @@ Puoi acquistare questi nuovi prodotti nella sezione "Acquisto pacchetti" del neg
 [home/home_072] Si sblocca completando la Lotta dei
 Campioni di qualsiasi regione
 in difficoltà "Difficile L. 1".
+[home/home_073] Pacchetto storia disponibile!
+[home/home_074] Pacchetto dei Campioni disponibile!
+[home/home_075] Gemme disponibili per [Digit:3digits ] or[IT:Qty S="a" P="e" ]
+[home/home_076] Gemme per un periodo limitato!
+[home/home_077] È disponibile un set unico di gemme
+acquistabile solo per un periodo
+di tempo limitato!
+
+Puoi vederlo subito nel negozio!
+[home/home_080] Gemme nuovi giocatori
+[home/home_081] Unicerca limitata
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missioni
 [home/global_menu_008] Amici
@@ -64232,6 +65114,7 @@ Lv.[Digit:2digits ]で解放
 [home/quest_detail_203] 10000位以内で
 ランキング報酬獲得！
 [home/quest_detail_204] ランキング報酬一覧
+[home/quest_detail_205] 現在の順位
 [home/quest_detail_206] マスター
 TOP[Digit:8digits ]位
 [home/quest_detail_207] ※自分の順位以下の称号はすべて獲得できます
@@ -64239,6 +65122,7 @@ TOP[Digit:8digits ]位
 [home/quest_detail_210] スコア
 [home/quest_detail_211] マスター
 [Digit:8digits ]位
+[home/quest_detail_212] TOP[Digit:8digits ]位
 [home/home_001] ショップ
 [home/home_002] ぼうけん
 [home/home_003] チーム
@@ -64335,6 +65219,16 @@ EXデイリーダイヤパックや
 [home/home_072] いずれかの地方の
 チャンピオンバトル「HARD Lv.1」を
 クリアすると解放されます
+[home/home_073] ストーリーパック販売中
+[home/home_074] チャンピオンパック販売中
+[home/home_075] [Digit:3digits ]時間限定ダイヤ販売中
+[home/home_076] 時間限定ダイヤ出現！
+[home/home_077] 時間限定で購入可能なおとくなダイヤが
+登場しました！
+
+ショップに行ってチェックしましょう！
+[home/home_080] 初心者ダイヤ
+[home/home_081] 時限Bサーチ
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] ミッション
 [home/global_menu_008] ともだち
@@ -65588,6 +66482,7 @@ Lv.[Digit:2digits ]에서 해방
 [home/quest_detail_203] 10000위 이내이면
 랭킹 보상 획득!
 [home/quest_detail_204] 랭킹 보상 일람
+[home/quest_detail_205] 현재 순위
 [home/quest_detail_206] 마스터
 TOP [Digit:8digits ]위
 [home/quest_detail_207] ※자신의 순위 이하의 칭호는 모두 획득할 수 있습니다
@@ -65595,6 +66490,7 @@ TOP [Digit:8digits ]위
 [home/quest_detail_210] 스코어
 [home/quest_detail_211] 마스터
 [Digit:8digits ]위
+[home/quest_detail_212] TOP [Digit:8digits ]위
 [home/home_001] 숍
 [home/home_002] 모험
 [home/home_003] 팀
@@ -65690,6 +66586,16 @@ EX일일 다이아 팩과
 [home/home_072] 어느 한 지방의
 챔피언배틀 "HARD Lv.1"을
 클리어하면 해방됩니다
+[home/home_073] 스토리 팩 판매 중
+[home/home_074] 챔피언 팩 판매 중
+[home/home_075] [Digit:3digits ]시간 한정 다이아 판매 중
+[home/home_076] 시간 한정 다이아 출현!
+[home/home_077] 시간 한정으로 구입 가능한 스페셜 다이아가
+등장했습니다!
+
+숍으로 가서 확인합시다!
+[home/home_080] 초급자 다이아
+[home/home_081] 시한 B서치
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] 미션
 [home/global_menu_008] 친구
@@ -66910,6 +67816,7 @@ home_zh-TW.lsd
 [home/quest_detail_203] 進入前10000名
 即可獲得排名報酬！
 [home/quest_detail_204] 排名報酬一覽
+[home/quest_detail_205] 目前排名
 [home/quest_detail_206] 大師
 TOP[Digit:8digits ]
 [home/quest_detail_207] ※自己排名以下的稱號可全部獲得
@@ -66917,6 +67824,7 @@ TOP[Digit:8digits ]
 [home/quest_detail_210] 得分
 [home/quest_detail_211] 大師
 第[Digit:8digits ]名
+[home/quest_detail_212] TOP[Digit:8digits ]
 [home/home_001] 商店
 [home/home_002] 冒險
 [home/home_003] 隊伍
@@ -67008,6 +67916,16 @@ EX每日鑽石組合包
 [home/home_071] 技能裝備
 [home/home_072] 成功過關任一地區的
 冠軍對戰「HARD Lv.1」即可開放
+[home/home_073] 劇情包現正販賣中
+[home/home_074] 冠軍包現正販賣中
+[home/home_075] [Digit:3digits ]小時限定鑽石現正販賣中
+[home/home_076] 限時鑽石出現！
+[home/home_077] 可於時限內購買的
+超值鑽石登場了！
+
+快去商店確認看看吧！
+[home/home_080] 初學者鑽石
+[home/home_081] 限時拍組搜尋
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] 任務
 [home/global_menu_008] 朋友
@@ -67790,6 +68708,10 @@ entsprechende Set gekauft wurde, nicht beanspruchen.
 Übertrage die Daten erneut auf ein Gerät mit demselben
 Betriebssystem wie das für den Kauf verwendete, um
 die Juwelen beanspruchen zu können.
+[shop/shop_common_024] Der Gültigkeitszeitraum dieses Serienbonus ist abgelaufen.
+
+Du kannst Serienbonus-Produkte weiterhin im Laden unter „Spezial-Sets kaufen“ erwerben.
+[shop/shop_common_025] Zum Kauf-Bildschirm
 [shop/shop_medal_001] Juwelen-Kauf
 [shop/shop_medal_002] Sonderrabatt
 [shop/shop_medal_003] Schließen
@@ -68365,8 +69287,8 @@ ein *, heißt das, dass sich das Pokémon durch eine
 Entwicklungs-Episode entwickeln kann.
 [shop/scout_142] × [Digit:3digits ]
 [shop/scout_143] Ticket-Gefährtensuche
-[shop/scout_144] Du kannst ein weiteres
-5★-Gefährtengespann erhalten!
+[shop/scout_144] Suche dir zusätzlich ein
+5★-Gefährtengespann aus!
 [shop/scout_145] Meister-Gefährten
 [shop/scout_146] Meisterfestival-Gefährten
 [shop/scout_147] Hinweis: Die Erscheinungsraten für ★ werden nach der
@@ -68515,6 +69437,10 @@ Es besteht die Möglichkeit, dass Mix-Gefährten in Zukunft auch außerhalb der 
 [shop/scout_222] Mix-Gefährten
 [shop/scout_223] Stufe [Digit:3digits ]: Du kannst ein spezielles Gefährtensucheticket
 erhalten!
+[shop/scout_224] Zeitlich begrenzt
+[shop/scout_225] Regulär
+[shop/scout_231] Es sind keine Gefährtensuchen mit Tickets
+verfügbar.
 [shop/deck_item_sale_001] Ausrüstungstausch
 [shop/deck_item_sale_002] Ausrüstung
 [shop/deck_item_sale_003] Filter
@@ -68620,6 +69546,10 @@ from the exclusive log-in bonus cannot be claimed.
 In order to claim paid gems, try transferring
 data to a device with the same OS as the one used to
 purchase the bundle.
+[shop/shop_common_024] The validity period of this streak bonus has ended.
+
+You can continue to purchase streak bonus products from the Purchase Bundles menu.
+[shop/shop_common_025] Go to Purchase Screen
 [shop/shop_medal_001] Purchase Gems
 [shop/shop_medal_002] Special Discount
 [shop/shop_medal_003] Close
@@ -69221,6 +70151,9 @@ Mix sync pairs may appear outside of mix-exclusive scouts in the future.
 [shop/scout_221] [Digit:2digits ] time(s) per day
 [shop/scout_222] Mix Sync Pairs
 [shop/scout_223] At Tier [Digit:3digits ], you can get a special sync pair scout ticket!
+[shop/scout_224] Limited Time
+[shop/scout_225] General
+[shop/scout_231] No ticket scouts available.
 [shop/deck_item_sale_001] Exchange Gear
 [shop/deck_item_sale_002] Gear
 [shop/deck_item_sale_003] Filter
@@ -69326,6 +70259,14 @@ bonificación de inicio de sesión.
 Para poder obtenerlas, vuelve a transferir los datos a
 un dispositivo con el mismo sistema operativo que el
 que utilices durante la compra.
+[shop/shop_common_024] El período de validez de esta
+bonificación de constancia ha
+terminado.
+
+Puedes seguir adquiriendo productos
+de bonificación de constancia en la 
+sección "Comprar lotes" de la tienda.
+[shop/shop_common_025] Pantalla de compra
 [shop/shop_medal_001] Comprar joyas
 [shop/shop_medal_002] Oferta especial
 [shop/shop_medal_003] Cerrar
@@ -69867,6 +70808,9 @@ dentro de este reclutamiento específico.
 [shop/scout_221] Límite: [Digit:2digits ]/día
 [shop/scout_222] Compis de popurrí
 [shop/scout_223] Fase [Digit:3digits ]: Billete especial para reclutar compis.
+[shop/scout_224] Por tiempo limitado
+[shop/scout_225] Normales
+[shop/scout_231] No hay reclutamientos billete disponibles.
 [shop/deck_item_sale_001] Canjear accesorios
 [shop/deck_item_sale_002] Accesorios
 [shop/deck_item_sale_003] Filtrar
@@ -69967,6 +70911,14 @@ les Diamants payants du bonus de connexion exclusif.
 Pour les obtenir, transférez à nouveau les données
 vers un appareil doté du même système d'exploitation
 que celui utilisé lors de l'achat.
+[shop/shop_common_024] La période de validité d'un ou
+plusieurs bonus de persévérance
+est terminée.
+
+Vous pouvez continuer à acheter des
+produits avec bonus de persévérance
+depuis le menu « Achat de lots ».
+[shop/shop_common_025] Écran d'achat
 [shop/shop_medal_001] Achat de Diamants
 [shop/shop_medal_002] Promotion
 [shop/shop_medal_003] Fermer
@@ -70555,6 +71507,9 @@ Les Duos extras sont des Duos apparaissant durant l'Appel Duo extra.
 [shop/scout_222] Duos extras
 [shop/scout_223] Au palier [Digit:3digits ], vous pourrez recevoir
 un Bon Appel Duo spécial !
+[shop/scout_224] Durée limitée
+[shop/scout_225] Standard
+[shop/scout_231] Aucun Appel Duo avec Bons disponible
 [shop/deck_item_sale_001] Échanger équipement
 [shop/deck_item_sale_002] Équipement
 [shop/deck_item_sale_003] Filtrer
@@ -70661,6 +71616,10 @@ a pagamento ottenute con il bonus accesso esclusivo.
 Per ricevere le gemme a pagamento puoi trasferire
 nuovamente i dati a un dispositivo dotato dello stesso
 sistema operativo utilizzato all'acquisto.
+[shop/shop_common_024] La validità di uno o più prodotti con bonus costanza è terminata.
+
+Puoi continuare ad acquistare prodotti con bonus costanza dal menu "Acquisto pacchetti".
+[shop/shop_common_025] Schermata di acquisto
 [shop/shop_medal_001] Acquisto gemme
 [shop/shop_medal_002] Offerta speciale
 [shop/shop_medal_003] Chiudi
@@ -71312,6 +72271,9 @@ mix in futuro.
 [shop/scout_222] Unità mix
 [shop/scout_223] Al gradino [Digit:3digits ], riceverai un ticket speciale
 per una ricerca Unità!
+[shop/scout_224] A durata limitata
+[shop/scout_225] Comuni
+[shop/scout_231] Nessuna Unicerca con ticket disponibile.
 [shop/deck_item_sale_001] Scambio accessori
 [shop/deck_item_sale_002] Accessori
 [shop/deck_item_sale_003] Filtra
@@ -71417,6 +72379,13 @@ OS（iOSやAndroidなど）の
 受け取ることはできません
 購入した端末と同じOSの端末に
 再度データを引き継いでお受け取りください
+[shop/shop_common_024] 継続ボーナスの有効期間が
+終了しました
+
+継続ボーナス商品は
+「おとくなパック購入」から
+引き続きご購入いただけます！
+[shop/shop_common_025] 購入画面へ
 [shop/shop_medal_001] ダイヤ購入
 [shop/shop_medal_002] 特別ディスカウント
 [shop/shop_medal_003] とじる
@@ -72064,6 +73033,10 @@ EXカラーがありません
 [shop/scout_221] 1日[Digit:2digits ]回限定
 [shop/scout_222] ミックス限定バディーズ
 [shop/scout_223] STEP[Digit:3digits ]では特別なバディーズサーチチケットがもらえる！
+[shop/scout_224] 期間限定
+[shop/scout_225] 通常
+[shop/scout_231] 開催中の
+チケット専用バディーズサーチはありません
 [shop/deck_item_sale_001] 装備売却
 [shop/deck_item_sale_002] 装備
 [shop/deck_item_sale_003] フィルター
@@ -72168,6 +73141,13 @@ OS(iOS 또는 Android 등)의
 받을 수 없습니다
 구입한 단말기와 같은 OS 단말기로
 다시 데이터 이어받기를 진행하여 주십시오
+[shop/shop_common_024] 지속 보너스의 유효기간이
+종료되었습니다
+
+지속 보너스 상품은
+"스페셜 팩 구입"에서
+계속해서 구입하실 수 있습니다!
+[shop/shop_common_025] 구입 화면으로
 [shop/shop_medal_001] 다이아 구입
 [shop/shop_medal_002] 특별 할인
 [shop/shop_medal_003] 닫기
@@ -72841,6 +73821,10 @@ EX컬러가 없습니다
 [shop/scout_221] 1일 [Digit:2digits ]회 한정
 [shop/scout_222] 믹스 한정 버디즈
 [shop/scout_223] STEP[Digit:3digits ]에서는 특별한 버디즈서치 티켓을 받을 수 있다!
+[shop/scout_224] 기간 한정
+[shop/scout_225] 일반
+[shop/scout_231] 개최 중인
+티켓 전용 버디즈서치는 없습니다
 [shop/deck_item_sale_001] 장비 판매
 [shop/deck_item_sale_002] 장비
 [shop/deck_item_sale_003] 필터
@@ -72939,6 +73923,13 @@ shop_zh-TW.lsd
 將無法領取購買者限定登入獎勵的付費鑽石
 請再次將資料轉移到與購買組合包時
 相同OS的裝置，以便領取鑽石
+[shop/shop_common_024] 連續報酬的有效期間
+已結束
+
+連續報酬商品可以從
+｢購買超值組合包」中
+再度購買！
+[shop/shop_common_025] 前往購買畫面
 [shop/shop_medal_001] 購買鑽石
 [shop/shop_medal_002] 特別折扣
 [shop/shop_medal_003] 關閉
@@ -73531,6 +74522,10 @@ shop_zh-TW.lsd
 [shop/scout_221] １天僅限[Digit:2digits ]次
 [shop/scout_222] 繽紛限定拍組
 [shop/scout_223] 在STEP[Digit:3digits ]中可獲得特別的拍組搜尋券！
+[shop/scout_224] 期間限定
+[shop/scout_225] 一般
+[shop/scout_231] 沒有舉辦中的
+票券專用拍組搜尋
 [shop/deck_item_sale_001] 出售裝備
 [shop/deck_item_sale_002] 裝備
 [shop/deck_item_sale_003] 篩選
