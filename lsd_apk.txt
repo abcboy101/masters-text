@@ -1977,6 +1977,8 @@ Wettbewerbssternchen
 [quest_title_1030102000180250] Vs. Team MaMo-Cynthia
 [quest_title_1030102000180300] Gegen den Champ 2
 [quest_group_detail_100036] Gegen den Champ
+[quest_title_1030210132000000] Ein Tag mit Lauro
+[quest_group_title_10132000000] Lauro
 
 ===========
 story_quest_name_en.lsd
@@ -3232,6 +3234,8 @@ story_quest_name_en.lsd
 [quest_title_1030102000180250] Challenge Sygna Suit Cynthia & Co.
 [quest_title_1030102000180300] The Quarterfinals: Part 2
 [quest_group_detail_100036] The Quarterfinals
+[quest_title_1030210132000000] A Day with Alder
+[quest_group_title_10132000000] Alder
 
 ===========
 story_quest_name_es.lsd
@@ -4511,6 +4515,8 @@ a todos
 [quest_title_1030102000180250] VS. Cintia (Traje S) y su equipo
 [quest_title_1030102000180300] Campeona y aspirantes (2)
 [quest_group_detail_100036] Campeona y aspirantes
+[quest_title_1030210132000000] Un día con Mirto
+[quest_group_title_10132000000] Mirto
 
 ===========
 story_quest_name_fr.lsd
@@ -5861,6 +5867,8 @@ les différences
 (Look Ultime)
 [quest_title_1030102000180300] Se mesurer au Maître II
 [quest_group_detail_100036] Se mesurer au Maître
+[quest_title_1030210132000000] Une journée avec Goyah
+[quest_group_title_10132000000] Goyah
 
 ===========
 story_quest_name_it.lsd
@@ -7110,6 +7118,8 @@ story_quest_name_it.lsd
 [quest_title_1030102000180250] VS Camilla Costumax & co.
 [quest_title_1030102000180300] Camilla e gli sfidanti (parte 2)
 [quest_group_detail_100036] Camilla e gli sfidanti
+[quest_title_1030210132000000] Un giorno con Nardo
+[quest_group_title_10132000000] Nardo
 
 ===========
 story_quest_name_ja.lsd
@@ -8366,6 +8376,8 @@ story_quest_name_ja.lsd
 [quest_title_1030102000180250] ＶＳ　チーム・マジコスシロナ
 [quest_title_1030102000180300] チャンピオンと挑戦者　後編
 [quest_group_detail_100036] チャンピオンと挑戦者
+[quest_title_1030210132000000] とある日のアデク
+[quest_group_title_10132000000] アデク
 
 ===========
 story_quest_name_ko.lsd
@@ -9621,6 +9633,8 @@ story_quest_name_ko.lsd
 [quest_title_1030102000180250] VS 팀 궁극코스 난천
 [quest_title_1030102000180300] 챔피언과 도전자 후편
 [quest_group_detail_100036] 챔피언과 도전자
+[quest_title_1030210132000000] 노간주의 어느 날
+[quest_group_title_10132000000] 노간주
 
 ===========
 story_quest_name_zh-TW.lsd
@@ -10876,6 +10890,8 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030102000180250] ＶＳ　美極套裝竹蘭隊
 [quest_title_1030102000180300] 冠軍與挑戰者　後篇
 [quest_group_detail_100036] 冠軍與挑戰者
+[quest_title_1030210132000000] 某日的阿戴克
+[quest_group_title_10132000000] 阿戴克
 
 ===========
 trainer_description_de.lsd
@@ -11256,6 +11272,9 @@ geliebten Pokémon zu lernen.
 das beliebteste Wettbewerbssternchen von Hoenn. Ihre
 natürliche Begabung gepaart mit ihrem unermüdlichen
 Fleiß fasziniert ihre Fans.
+[10132000000] Der lebenserfahrene ehemalige Champ der Einall-Region.
+Er reist von Ort zu Ort, um jungen Menschen zu erklären,
+wie großartig es ist, mit Pokémon zusammenzuleben.
 
 ===========
 trainer_description_en.lsd
@@ -11630,6 +11649,9 @@ assistant to Professor Juniper to learn more about them.
 [10215000000] Lisia is Hoenn’s number one contest idol along with her
 Altaria, Ali. She has a natural knack for contests and is
 also a hard worker—something her fans adore her for.
+[10132000000] Alder is the highly experienced former Champion of
+Unova. He wanders around, telling younger generations
+the good news of a wonderful future with Pokémon.
 
 ===========
 trainer_description_es.lsd
@@ -12064,6 +12086,11 @@ Forma un dúo inseparable junto a su Altaria, Ariblú, que
 siempre la acompaña en sus actuaciones. Su mayor
 encanto radica en que, a pesar de su talento innato, se
 esfuerza como quien más por conseguir sus objetivos.
+[10132000000] Con muchos años de experiencia a sus espaldas, este
+excampeón de Teselia se dedica a viajar de región en
+región promulgando entre las generaciones más jóvenes
+lo extraordinario de convivir y entenderse con los
+Pokémon.
 
 ===========
 trainer_description_fr.lsd
@@ -12430,6 +12457,10 @@ mieux connaître ses Pokémon adorés.
 coqueluches de la région de Hoenn et les vedettes
 de ses concours Pokémon. Ce sont ses talents et son
 intransigeance envers elle-même qui font son charme.
+[10132000000] Cet ancien Maître d'Unys a vécu toutes sortes
+d'expériences dans sa vie. Il parcourt le monde pour
+échanger avec les jeunes générations et leur montrer
+combien être avec les Pokémon, c'est merveilleux !
 
 ===========
 trainer_description_it.lsd
@@ -12824,6 +12855,10 @@ pronta a dare spettacolo insieme ad Alty, il suo Altaria.
 Parte del suo fascino deriva dal fatto che non si affida
 solo al suo immenso talento, ma si impegna sempre
 al massimo.
+[10132000000] Ex-Campione di Unima, è un Allenatore di grande
+esperienza. Vuole far capire agli altri quanto sia
+meraviglioso vivere insieme ai Pokémon, e viaggia
+in vari luoghi per insegnare ai giovani.
 
 ===========
 trainer_description_ja.lsd
@@ -13197,6 +13232,9 @@ trainer_description_ja.lsd
 [10215000000] チルタリスの「チルル」と　ユニットで　活躍する
 ホウエン地方の　Ｎｏ．１　コンテストアイドル。
 天才肌ながら　努力を惜しまない姿が　彼女の魅力だ。
+[10132000000] 経験豊富な　イッシュ地方の　元チャンピオン。
+ポケモンと共に歩むことの　素晴らしさを　伝えるべく
+各地で　若い世代との　交流を　深めている。
 
 ===========
 trainer_description_ko.lsd
@@ -13570,6 +13608,9 @@ trainer_description_ko.lsd
 [10215000000] "파비티"라는 이름의 파비코리와 유닛으로 활약하는
 호연지방 No.1 콘테스트 아이돌.
 천재적인 자질이 있지만 노력을 아끼지 않는 면이 그녀의 매력이다.
+[10132000000] 경험이 풍부한 하나지방의 전 챔피언.
+포켓몬과 함께 걸어가는 훌륭함을 전하고자
+각지에서 젊은 세대와의 교류에 힘쓰고 있다.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -13942,6 +13983,9 @@ trainer_description_zh-TW.lsd
 [10215000000] 她與七夕青鳥「小青青」的組合，
 是活躍於豐緣地區的Ｎｏ．１華麗大賽偶像。
 即使很有天分，依然努力不懈正是她的魅力。
+[10132000000] 經驗豐富的合眾地區前冠軍。
+為了傳達與寶可夢並肩而行的美好，
+他遊走各地致力於加深與年輕世代的交流。
 
 ===========
 trainer_name_de.lsd
@@ -14067,6 +14111,7 @@ trainer_name_de.lsd
 [ch0129] Amalia
 [ch0130] Serena
 [ch0131] Citro
+[ch0132] Lauro
 [ch0133] Silber
 [ch0137] Eich
 [ch0140] Giovanni
@@ -14209,6 +14254,7 @@ trainer_name_en.lsd
 [ch0129] Zinnia
 [ch0130] Serena
 [ch0131] Clemont
+[ch0132] Alder
 [ch0133] Silver
 [ch0137] Professor Oak
 [ch0140] Giovanni
@@ -14351,6 +14397,7 @@ trainer_name_es.lsd
 [ch0129] Tristana
 [ch0130] Serena
 [ch0131] Lem
+[ch0132] Mirto
 [ch0133] Plata
 [ch0137] Oak
 [ch0140] Giovanni
@@ -14493,6 +14540,7 @@ trainer_name_fr.lsd
 [ch0129] Amaryllis
 [ch0130] Serena
 [ch0131] Lem
+[ch0132] Goyah
 [ch0133] Silver
 [ch0137] Chen
 [ch0140] Giovanni
@@ -14635,6 +14683,7 @@ trainer_name_it.lsd
 [ch0129] Lyris
 [ch0130] Serena
 [ch0131] Lem
+[ch0132] Nardo
 [ch0133] Argento
 [ch0137] Professor Oak
 [ch0140] Giovanni
@@ -14777,6 +14826,7 @@ trainer_name_ja.lsd
 [ch0129] ヒガナ
 [ch0130] セレナ
 [ch0131] シトロン
+[ch0132] アデク
 [ch0133] シルバー
 [ch0137] オーキド
 [ch0140] サカキ
@@ -14919,6 +14969,7 @@ trainer_name_ko.lsd
 [ch0129] 피아나
 [ch0130] 세레나
 [ch0131] 시트론
+[ch0132] 노간주
 [ch0133] 실버
 [ch0137] 오박사
 [ch0140] 비주기
@@ -15061,6 +15112,7 @@ trainer_name_zh-TW.lsd
 [ch0129] 希嘉娜
 [ch0130] 莎莉娜
 [ch0131] 希特隆
+[ch0132] 阿戴克
 [ch0133] 小銀
 [ch0137] 大木
 [ch0140] 阪木
