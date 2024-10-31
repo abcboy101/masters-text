@@ -6638,6 +6638,82 @@ Möglichkeiten 2
 [quest_group_title_10293000000] Cosima
 [quest_group_title_10656000000] Evi (Poké-Kind)
 [quest_group_title_10269000000] Elaine
+[quest_title_1040001130001011] Ein besonderer Tag mit
+Jasmin (Teil 1)
+[quest_title_1040001130001021] Ein besonderer Tag mit
+Jasmin (Teil 2)
+[quest_title_1030110000600300] Ähnlichkeiten mit
+Gefährtensteinen
+[quest_title_1030511000602000] Nominierung als Neo-Champ
+[quest_title_1030511000602010] Favorit der Einall-Region
+[quest_title_1030511000602050] Vs. N 1
+[quest_title_1030511000602020] Empathie wird sehr geschätzt
+[quest_title_1030511000602060] Vs. N 2
+[quest_title_1030511000602030] Tonys Stärke
+[quest_title_1030511000602070] Vs. N 3
+[quest_title_1030511000602040] Mit Empathie und Güte zum
+Ruhm
+[quest_title_1030511000602080] Vs. N 4
+[quest_title_1030511000602090] Täglicher schwerer Kampf
+[quest_title_1030511000602100] Herausforderungskampf 1
+[quest_title_1030511000602110] Herausforderungskampf 2
+[quest_title_1030220100900000] Ein Tag mit Tony
+[quest_title_1030511000603010] Stelle dich Lilia! 1
+[quest_title_1030511000603020] Stelle dich Lilia! 2
+[quest_title_1030511000601000] Willkommen, ihr fabelhaften
+Kontrahenten!
+[quest_title_1030511000601020] Stelle dich Neo-Champ Tony!
+[quest_title_1030511000610010] Kampf gegen die Uhr
+[quest_title_1030451002101010] Vs. Entschlossener Distmar
+[quest_title_1030511000606000] Der Fotowettbewerb beginnt!
+[quest_title_1030511000606010] Illumina Citys stylischer
+Pokémon-Professor!
+[quest_title_1030511000606050] Vs. Narcisse 1
+[quest_title_1030511000606020] Brumm, Brumm, Chevrumm
+[quest_title_1030511000606060] Vs. Narcisse 2
+[quest_title_1030511000606030] Eine Stadt im Fotofieber
+[quest_title_1030511000606070] Vs. Narcisse 3
+[quest_title_1030511000606040] Locker und recht freundlich
+[quest_title_1030511000606080] Vs. Narcisse 4
+[quest_title_1030511000606090] Täglicher schwerer Kampf
+[quest_title_1030511000606100] Herausforderungskampf 1
+[quest_title_1030511000606110] Herausforderungskampf 2
+[quest_title_1030440708801010] Vs. Astor 1
+[quest_title_1030440708802010] Vs. Astor 2
+[quest_title_1030440708803010] Vs. Astor 3
+[quest_title_1030440708804010] Vs. Astor 4
+[quest_title_1030440708805010] Täglicher Bonus-Kampf
+[quest_title_1030451100301010] Vs. Leaf
+[quest_title_1030511000604000] Nominierung als Neo-Champ:
+2. Runde
+[quest_title_1030511000604010] Eine Darbietung, die ans
+Herz geht?
+[quest_title_1030511000604050] Vs. Matisse 1
+[quest_title_1030511000604020] Wie Rosy und Meloetta ihre
+Gefühle zur Schau stellen
+[quest_title_1030511000604060] Vs. Matisse 2
+[quest_title_1030511000604030] Rosys Musical-Debüt
+[quest_title_1030511000604070] Vs. Matisse 3
+[quest_title_1030511000604040] Meloettaaa!!!
+[quest_title_1030511000604080] Vs. Matisse 4
+[quest_title_1030511000604090] Täglicher schwerer Kampf
+[quest_title_1030511000604100] Herausforderungskampf 1
+[quest_title_1030511000604110] Herausforderungskampf 2
+[quest_title_1030220101900000] Ein Tag mit Rosy
+[quest_title_1030511000605010] Stelle dich Lauro! 1
+[quest_title_1030511000605020] Stelle dich Lauro! 2
+[quest_title_1030511000601001] Fülle die noch leeren Seiten
+im Buche deines Lebens!
+[quest_title_1030511000601040] Stelle dich Neo-Champ Rosy!
+[quest_title_1030511000607000] Galar lässt grüßen!
+[quest_title_1030511000607010] Vs. Trainer aus Passio 1
+[quest_title_1030511000607020] Vs. Trainer aus Passio 2
+[quest_title_1030511000607030] Vs. Trainer aus Passio 3
+[quest_title_1030511000607040] Vs. Trainer aus Passio 4
+[quest_group_title_10100900000] Tony (Neo-Champ)
+[quest_group_title_10039400000] Viola (Saison 2023)
+[quest_group_title_10136400000] Platan (Saison 2023)
+[quest_group_title_10101900000] Rosy (Neo-Champ)
 
 ===========
 story_quest_name_en.lsd
@@ -10151,6 +10227,73 @@ Nine Possibilities: Part 2
 [quest_group_title_10293000000] Penny
 [quest_group_title_10656000000] Eve (Poké Kid)
 [quest_group_title_10269000000] Elaine
+[quest_title_1040001130001011] A Special Day with Jasmine: Part 1
+[quest_title_1040001130001021] A Special Day with Jasmine: Part 2
+[quest_title_1030110000600300] Similarities to Sync Stones
+[quest_title_1030511000602000] Nomination for Neo Champion
+[quest_title_1030511000602010] The Unova Region’s Favorite
+[quest_title_1030511000602050] Challenge N: Part 1
+[quest_title_1030511000602020] Ability to Sense Feelings
+[quest_title_1030511000602060] Challenge N: Part 2
+[quest_title_1030511000602030] Nate’s Strength
+[quest_title_1030511000602070] Challenge N: Part 3
+[quest_title_1030511000602040] Reaching Out Beyond Glory
+[quest_title_1030511000602080] Challenge N: Part 4
+[quest_title_1030511000602090] Daily Extreme Battle 1
+[quest_title_1030511000602100] Battle Challenge! Round 1
+[quest_title_1030511000602110] Battle Challenge! Round 2
+[quest_title_1030220100900000] A Day with Nate
+[quest_title_1030511000603010] Take On Iris! Part 1
+[quest_title_1030511000603020] Take On Iris! Part 2
+[quest_title_1030511000601000] Welcome, Amazing Challenger!
+[quest_title_1030511000601020] Challenge Champion Nate
+[quest_title_1030511000610010] Speed Challenge
+[quest_title_1030451002101010] Challenge a Super Serious Thorton
+[quest_title_1030511000606000] The Photo Contest Begins!
+[quest_title_1030511000606010] Stylish Professor from Lumiose!
+[quest_title_1030511000606050] Challenge Siebold: Part 1
+[quest_title_1030511000606020] Go, Go, Gogoat
+[quest_title_1030511000606060] Challenge Siebold: Part 2
+[quest_title_1030511000606030] Photo Ops Around Town
+[quest_title_1030511000606070] Challenge Siebold: Part 3
+[quest_title_1030511000606040] A Casual Shot
+[quest_title_1030511000606080] Challenge Siebold: Part 4
+[quest_title_1030511000606090] Daily Extreme Battle 1
+[quest_title_1030511000606100] Battle Challenge! Round 1
+[quest_title_1030511000606110] Battle Challenge! Round 2
+[quest_title_1030440708801010] Challenge Grimsley: Part 1
+[quest_title_1030440708802010] Challenge Grimsley: Part 2
+[quest_title_1030440708803010] Challenge Grimsley: Part 3
+[quest_title_1030440708804010] Challenge Grimsley: Part 4
+[quest_title_1030440708805010] Daily Bonus Battle 1
+[quest_title_1030451100301010] Challenge Leaf
+[quest_title_1030511000604000] Nomination for Neo Champion: Part 2
+[quest_title_1030511000604010] A Heart-Touching Performance?
+[quest_title_1030511000604050] Challenge Hugh: Part 1
+[quest_title_1030511000604020] How Rosa and Meloetta Express Themselves
+[quest_title_1030511000604060] Challenge Hugh: Part 2
+[quest_title_1030511000604030] Rosa’s Musical Begins!
+[quest_title_1030511000604070] Challenge Hugh: Part 3
+[quest_title_1030511000604040] MELOETTAAA!!!
+[quest_title_1030511000604080] Challenge Hugh: Part 4
+[quest_title_1030511000604090] Daily Extreme Battle 1
+[quest_title_1030511000604100] Battle Challenge! Round 1
+[quest_title_1030511000604110] Battle Challenge! Round 2
+[quest_title_1030220101900000] A Day with Rosa
+[quest_title_1030511000605010] Take On Alder! Part 1
+[quest_title_1030511000605020] Take On Alder! Part 2
+[quest_title_1030511000601001] Story Woven with a Challenger
+[quest_title_1030511000601040] Challenge Champion Rosa
+[quest_title_1030511000607000] A Galarian Nice to Meet You
+[quest_title_1030511000607010] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030511000607020] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030511000607030] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030511000607040] Challenge Pasio’s Trainers: Part 4
+[quest_group_title_10100900000] Nate (Champion)
+[quest_group_title_10039400000] Viola (Holiday 2023)
+[quest_group_title_10136400000] Professor Sycamore
+(Holiday 2023)
+[quest_group_title_10101900000] Rosa (Champion)
 
 ===========
 story_quest_name_es.lsd
@@ -13963,6 +14106,88 @@ posibilidades! (2)
 [quest_group_title_10293000000] Noa
 [quest_group_title_10656000000] Eva (Pokéchica)
 [quest_group_title_10269000000] Elaine
+[quest_title_1040001130001011] Un día especial con Yasmina
+[quest_title_1040001130001021] Un día especial con
+Yasmina (2)
+[quest_title_1030110000600300] Similitudes con las Piedras
+Compi
+[quest_title_1030511000602000] Las nominaciones para
+Neocampeones
+[quest_title_1030511000602010] El favorito de Teselia
+[quest_title_1030511000602050] VS. N
+[quest_title_1030511000602020] El don de saber lo que
+sienten los demás
+[quest_title_1030511000602060] VS. N (2)
+[quest_title_1030511000602030] La fuerza de Rizzo
+[quest_title_1030511000602070] VS. N (3)
+[quest_title_1030511000602040] Gloria inmortal
+[quest_title_1030511000602080] VS. N (4)
+[quest_title_1030511000602090] ¡Un combate difícil al día!
+[quest_title_1030511000602100] ¡Un combate desafiante!
+[quest_title_1030511000602110] ¡Un combate desafiante! (2)
+[quest_title_1030220100900000] Un día con Rizzo
+[quest_title_1030511000603010] ¡Enfréntate a Iris!
+[quest_title_1030511000603020] ¡Enfréntate a Iris! (2)
+[quest_title_1030511000601000] ¡Te doy la bienvenida,
+increíble aspirante!
+[quest_title_1030511000601020] ¡Enfréntate al Neocampeón
+Rizzo!
+[quest_title_1030511000610010] Combate supersónico
+[quest_title_1030451002101010] VS. Espinal con todo
+[quest_title_1030511000606000] ¡Que dé comienzo el
+concurso de fotografía!
+[quest_title_1030511000606010] ¡El estiloso Profesor de
+Ciudad Luminalia!
+[quest_title_1030511000606050] VS. Narciso
+[quest_title_1030511000606020] ¡No corras, Gogoat!
+[quest_title_1030511000606060] VS. Narciso (2)
+[quest_title_1030511000606030] La fotografía es nuestra
+pasión
+[quest_title_1030511000606070] VS. Narciso (3)
+[quest_title_1030511000606040] Una foto espontánea
+[quest_title_1030511000606080] VS. Narciso (4)
+[quest_title_1030511000606090] ¡Un combate difícil al día!
+[quest_title_1030511000606100] ¡Un combate desafiante!
+[quest_title_1030511000606110] ¡Un combate desafiante! (2)
+[quest_title_1030440708801010] VS. Aza
+[quest_title_1030440708802010] VS. Aza (2)
+[quest_title_1030440708803010] VS. Aza (3)
+[quest_title_1030440708804010] VS. Aza (4)
+[quest_title_1030440708805010] ¡Un combate extra al día!
+[quest_title_1030451100301010] VS. Hoja
+[quest_title_1030511000604000] Las nominaciones para
+Neocampeones (2)
+[quest_title_1030511000604010] ¿Una actuación
+conmovedora?
+[quest_title_1030511000604050] VS. Matís
+[quest_title_1030511000604020] Nanci y Meloetta expresan
+sus sentimientos
+[quest_title_1030511000604060] VS. Matís (2)
+[quest_title_1030511000604030] ¡Empieza el musical de
+Nanci!
+[quest_title_1030511000604070] VS. Matís (3)
+[quest_title_1030511000604040] ¡¡¡MELOETTAAA!!!
+[quest_title_1030511000604080] VS. Matís (4)
+[quest_title_1030511000604090] ¡Un combate difícil al día!
+[quest_title_1030511000604100] ¡Un combate desafiante!
+[quest_title_1030511000604110] ¡Un combate desafiante! (2)
+[quest_title_1030220101900000] Un día con Nanci
+[quest_title_1030511000605010] ¡Enfréntate a Mirto!
+[quest_title_1030511000605020] ¡Enfréntate a Mirto! (2)
+[quest_title_1030511000601001] Escribe tu propia historia,
+aspirante
+[quest_title_1030511000601040] ¡Enfréntate a la Neocampeona
+Nanci!
+[quest_title_1030511000607000] ¡Mucho gusto, Pokémon
+de Galar!
+[quest_title_1030511000607010] VS. Entrenadores de Passio
+[quest_title_1030511000607020] VS. Entrenadores de Passio (2)
+[quest_title_1030511000607030] VS. Entrenadores de Passio (3)
+[quest_title_1030511000607040] VS. Entrenadores de Passio (4)
+[quest_group_title_10100900000] Rizzo (Neocampeón)
+[quest_group_title_10039400000] Violeta (Temporada 23)
+[quest_group_title_10136400000] Ciprés (Temporada 23)
+[quest_group_title_10101900000] Nanci (Neocampeona)
 
 ===========
 story_quest_name_fr.lsd
@@ -18222,6 +18447,91 @@ Neuf possibilités II
 [quest_group_title_10293000000] Pania
 [quest_group_title_10656000000] Éva (Poké Enfant)
 [quest_group_title_10269000000] Elaine
+[quest_title_1040001130001011] Une journée spéciale
+avec Jasmine
+[quest_title_1040001130001021] Une journée spéciale
+avec Jasmine II
+[quest_title_1030110000600300] Des similarités avec
+les Duo-Gemmes
+[quest_title_1030511000602000] Désigner un Néo-Maître
+[quest_title_1030511000602010] Le favori d'Unys
+[quest_title_1030511000602050] Combat : N
+[quest_title_1030511000602020] Comme s'il lisait dans
+les pensées
+[quest_title_1030511000602060] Combat : N II
+[quest_title_1030511000602030] La force de Mélis
+[quest_title_1030511000602070] Combat : N III
+[quest_title_1030511000602040] La main tendue au delà
+de la victoire
+[quest_title_1030511000602080] Combat : N IV
+[quest_title_1030511000602090] Combat difficile limité
+à une fois par jour !
+[quest_title_1030511000602100] Combat difficile
+[quest_title_1030511000602110] Combat difficile II
+[quest_title_1030220100900000] Une journée avec Mélis
+[quest_title_1030511000603010] Combat corsé : Iris
+[quest_title_1030511000603020] Combat corsé : Iris II
+[quest_title_1030511000601000] Bienvenue à toi, challenger !
+[quest_title_1030511000601020] Défi corsé :
+Mélis (Néo-Maître)
+[quest_title_1030511000610010] Défi à grande vitesse
+[quest_title_1030451002101010] Combat : Cardus sans merci
+[quest_title_1030511000606000] Le concours photo débute !
+[quest_title_1030511000606010] L'élégant Professeur
+d'Illumis !
+[quest_title_1030511000606050] Combat : Narcisse
+[quest_title_1030511000606020] Allez vroum, Chevroum !
+[quest_title_1030511000606060] Combat : Narcisse II
+[quest_title_1030511000606030] Séances photos en ville
+[quest_title_1030511000606070] Combat : Narcisse III
+[quest_title_1030511000606040] Un cliché naturel
+[quest_title_1030511000606080] Combat : Narcisse IV
+[quest_title_1030511000606090] Combat difficile limité
+à une fois par jour !
+[quest_title_1030511000606100] Combat difficile
+[quest_title_1030511000606110] Combat difficile II
+[quest_title_1030440708801010] Combat : Pieris
+[quest_title_1030440708802010] Combat : Pieris II
+[quest_title_1030440708803010] Combat : Pieris III
+[quest_title_1030440708804010] Combat : Pieris IV
+[quest_title_1030440708805010] Combat bonus limité
+à une fois par jour !
+[quest_title_1030451100301010] Combat : Leaf
+[quest_title_1030511000604000] Désigner un nouveau
+Néo-Maître
+[quest_title_1030511000604010] Une performance émouvante
+[quest_title_1030511000604050] Combat : Matis
+[quest_title_1030511000604020] Écho et Meloetta s'expriment
+à leur manière
+[quest_title_1030511000604060] Combat : Matis II
+[quest_title_1030511000604030] La performance d'Écho
+débute !
+[quest_title_1030511000604070] Combat : Matis III
+[quest_title_1030511000604040] MELOETTAAA !!!
+[quest_title_1030511000604080] Combat : Matis IV
+[quest_title_1030511000604090] Combat difficile limité
+à une fois par jour !
+[quest_title_1030511000604100] Combat difficile
+[quest_title_1030511000604110] Combat difficile II
+[quest_title_1030220101900000] Une journée avec Écho
+[quest_title_1030511000605010] Combat corsé : Goyah
+[quest_title_1030511000605020] Combat corsé : Goyah II
+[quest_title_1030511000601001] Une histoire qui s'écrit
+[quest_title_1030511000601040] Défi corsé :
+Écho (Néo-Maître)
+[quest_title_1030511000607000] Les nouveaux arrivants
+de Galar
+[quest_title_1030511000607010] Combat : Dresseurs de Passio
+[quest_title_1030511000607020] Combat :
+Dresseurs de Passio II
+[quest_title_1030511000607030] Combat :
+Dresseurs de Passio III
+[quest_title_1030511000607040] Combat :
+Dresseurs de Passio IV
+[quest_group_title_10100900000] Mélis (Néo-Maître)
+[quest_group_title_10039400000] Violette (Saison 2023)
+[quest_group_title_10136400000] Platane (Saison 2023)
+[quest_group_title_10101900000] Écho (Néo-Maître)
 
 ===========
 story_quest_name_it.lsd
@@ -21671,6 +21981,75 @@ story_quest_name_it.lsd
 [quest_group_title_10293000000] Penny
 [quest_group_title_10656000000] Ivetta (Poké Bimba)
 [quest_group_title_10269000000] Elaine
+[quest_title_1040001130001011] Un giorno speciale con Jasmine (1ª parte)
+[quest_title_1040001130001021] Un giorno speciale con Jasmine (2ª parte)
+[quest_title_1030110000600300] Simili alle Pietre Unità...?
+[quest_title_1030511000602000] Una candidatura al titolo
+di Nuovo Campione
+[quest_title_1030511000602010] Il favorito di Unima
+[quest_title_1030511000602050] VS N
+[quest_title_1030511000602020] Il dono dell'empatia
+[quest_title_1030511000602060] VS N 2
+[quest_title_1030511000602030] La forza di Sanzo
+[quest_title_1030511000602070] VS N 3
+[quest_title_1030511000602040] Una mano tesa oltre la gloria
+[quest_title_1030511000602080] VS N 4
+[quest_title_1030511000602090] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030511000602100] Sfida ad alta difficoltà
+[quest_title_1030511000602110] Sfida ad alta difficoltà 2
+[quest_title_1030220100900000] Un giorno con Sanzo
+[quest_title_1030511000603010] Sfida un avversario potente: Iris
+[quest_title_1030511000603020] Sfida un avversario potente: Iris 2
+[quest_title_1030511000601000] Ti do il benvenuto, sfidante!
+[quest_title_1030511000601020] Sfida il Campione: Sanzo
+[quest_title_1030511000610010] Sfida per il record
+[quest_title_1030451002101010] VS Spino (risoluto)
+[quest_title_1030511000606000] Via al concorso fotografico!
+[quest_title_1030511000606010] Lo stilosissimo Professor
+Platan da Luminopoli
+[quest_title_1030511000606050] VS Narciso
+[quest_title_1030511000606020] Corri, Gogoat! Corri!
+[quest_title_1030511000606060] VS Narciso 2
+[quest_title_1030511000606030] Scatti in giro per la città
+[quest_title_1030511000606070] VS Narciso 3
+[quest_title_1030511000606040] Una foto spontanea
+[quest_title_1030511000606080] VS Narciso 4
+[quest_title_1030511000606090] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030511000606100] Sfida ad alta difficoltà
+[quest_title_1030511000606110] Sfida ad alta difficoltà 2
+[quest_title_1030440708801010] VS Mirton
+[quest_title_1030440708802010] VS Mirton 2
+[quest_title_1030440708803010] VS Mirton 3
+[quest_title_1030440708804010] VS Mirton 4
+[quest_title_1030440708805010] Lotta bonus (una al giorno)!
+[quest_title_1030451100301010] VS Leaf
+[quest_title_1030511000604000] Un'altra occasione per
+diventare Nuovi Campioni
+[quest_title_1030511000604010] Un'esibizione emozionante
+[quest_title_1030511000604050] VS Toni
+[quest_title_1030511000604020] Una performance ideale
+[quest_title_1030511000604060] VS Toni 2
+[quest_title_1030511000604030] Pronti ad alzare il sipario!
+[quest_title_1030511000604070] VS Toni 3
+[quest_title_1030511000604040] Meloetta alla ribalta!
+[quest_title_1030511000604080] VS Toni 4
+[quest_title_1030511000604090] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030511000604100] Sfida ad alta difficoltà
+[quest_title_1030511000604110] Sfida ad alta difficoltà 2
+[quest_title_1030220101900000] Un giorno con Rina
+[quest_title_1030511000605010] Sfida un avversario potente: Nardo
+[quest_title_1030511000605020] Sfida un avversario potente: Nardo 2
+[quest_title_1030511000601001] La tua storia è solo tua
+[quest_title_1030511000601040] Sfida la Campionessa: Rina
+[quest_title_1030511000607000] Nuovi arrivi da Galar
+[quest_title_1030511000607010] VS Allenatori di Pasio
+[quest_title_1030511000607020] VS Allenatori di Pasio 2
+[quest_title_1030511000607030] VS Allenatori di Pasio 3
+[quest_title_1030511000607040] VS Allenatori di Pasio 4
+[quest_group_title_10100900000] Sanzo (Campione)
+[quest_group_title_10039400000] Violetta (feste 2023)
+[quest_group_title_10136400000] Platan (feste 2023)
+[quest_group_title_10101900000] Rina (Campionessa)
 
 ===========
 story_quest_name_ja.lsd
@@ -25200,6 +25579,76 @@ story_quest_name_ja.lsd
 [quest_group_title_10656000000] イブ
 （ポケモンごっこ）
 [quest_group_title_10269000000] アユミ
+[quest_title_1040001130001011] ミカンとの特別な一日　前編
+[quest_title_1040001130001021] ミカンとの特別な一日　後編
+[quest_title_1030110000600300] バディストーンとの類似点
+[quest_title_1030511000602000] ネオ・チャンピオンへの推薦
+[quest_title_1030511000602010] イッシュ地方の推し
+[quest_title_1030511000602050] ＶＳ　Ｎ
+[quest_title_1030511000602020] 気持ちを読み取る才能
+[quest_title_1030511000602060] ＶＳ　Ｎ２
+[quest_title_1030511000602030] キョウヘイの強さ
+[quest_title_1030511000602070] ＶＳ　Ｎ３
+[quest_title_1030511000602040] 栄光の先へ伸ばす手
+[quest_title_1030511000602080] ＶＳ　Ｎ４
+[quest_title_1030511000602090] １日１回限定・高難度バトル！
+[quest_title_1030511000602100] チャレンジバトルで勝負！
+[quest_title_1030511000602110] チャレンジバトルで勝負！２
+[quest_title_1030220100900000] とある日のキョウヘイ
+[quest_title_1030511000603010] 強敵に挑戦！　ＶＳ　アイリス
+[quest_title_1030511000603020] 強敵に挑戦！　ＶＳ　アイリス２
+[quest_title_1030511000601000] ようこそ　すっごい挑戦者！
+[quest_title_1030511000601020] 挑戦！チャンピオンキョウヘイ
+[quest_title_1030511000610010] 最速への挑戦
+[quest_title_1030451002101010] ＶＳ　超本気のネジキ
+[quest_title_1030511000606000] フォトコンテスト開催！
+[quest_title_1030511000606010] スタイリッシュなミアレの博士？
+[quest_title_1030511000606050] ＶＳ　ズミ
+[quest_title_1030511000606020] ゴーゴーゴーゴート
+[quest_title_1030511000606060] ＶＳ　ズミ２
+[quest_title_1030511000606030] 街にあふれるシャッターチャンス
+[quest_title_1030511000606070] ＶＳ　ズミ３
+[quest_title_1030511000606040] 何気ない１枚
+[quest_title_1030511000606080] ＶＳ　ズミ４
+[quest_title_1030511000606090] １日１回限定・高難度バトル！
+[quest_title_1030511000606100] チャレンジバトルで勝負！
+[quest_title_1030511000606110] チャレンジバトルで勝負！２
+[quest_title_1030440708801010] ＶＳ　ギーマ
+[quest_title_1030440708802010] ＶＳ　ギーマ２
+[quest_title_1030440708803010] ＶＳ　ギーマ３
+[quest_title_1030440708804010] ＶＳ　ギーマ４
+[quest_title_1030440708805010] １日１回限定・ボーナスバトル！
+[quest_title_1030451100301010] ＶＳ　リーフ
+[quest_title_1030511000604000] ネオ・チャンピオンへの推薦２
+[quest_title_1030511000604010] 心をひきつけるパフォーマンス？
+[quest_title_1030511000604050] ＶＳ　ヒュウ
+[quest_title_1030511000604020] メイとメロエッタの表現方法
+[quest_title_1030511000604060] ＶＳ　ヒュウ２
+[quest_title_1030511000604030] 開演！　メイのミュージカル！
+[quest_title_1030511000604070] ＶＳ　ヒュウ３
+[quest_title_1030511000604040] ＭＥＬＯＥＴＴＡＡＡ！！！
+[quest_title_1030511000604080] ＶＳ　ヒュウ４
+[quest_title_1030511000604090] １日１回限定・高難度バトル！
+[quest_title_1030511000604100] チャレンジバトルで勝負！
+[quest_title_1030511000604110] チャレンジバトルで勝負！２
+[quest_title_1030220101900000] とある日のメイ
+[quest_title_1030511000605010] 強敵に挑戦！　ＶＳ　アデク
+[quest_title_1030511000605020] 強敵に挑戦！　ＶＳ　アデク２
+[quest_title_1030511000601001] チャレンジャーと紡ぐ物語
+[quest_title_1030511000601040] 挑戦！　チャンピオン　メイ
+[quest_title_1030511000607000] ガラル地方の「はじめまして」
+[quest_title_1030511000607010] ＶＳ　パシオのトレーナー
+[quest_title_1030511000607020] ＶＳ　パシオのトレーナー２
+[quest_title_1030511000607030] ＶＳ　パシオのトレーナー３
+[quest_title_1030511000607040] ＶＳ　パシオのトレーナー４
+[quest_group_title_10100900000] キョウヘイ
+（チャンピオン）
+[quest_group_title_10039400000] ビオラ
+（２３シーズン）
+[quest_group_title_10136400000] プラターヌ
+（２３シーズン）
+[quest_group_title_10101900000] メイ
+（チャンピオン）
 
 ===========
 story_quest_name_ko.lsd
@@ -27484,7 +27933,7 @@ story_quest_name_ko.lsd
 [quest_title_1030404000605130] 챌린지배틀! 들국화
 [quest_title_1030404000605140] 챌린지배틀! 들국화2
 [quest_title_1030404000604010] 전설의 포켓몬과 유빈
-[quest_title_1030404000604020] 무지갯빛날개
+[quest_title_1030404000604020] 무지갯빛깃털
 [quest_title_1030404000604060] VS 파시오의 트레이너
 [quest_title_1030404000604030] 칠색조의 그림자
 [quest_title_1030404000604070] VS 파시오의 트레이너2
@@ -28030,7 +28479,7 @@ story_quest_name_ko.lsd
 [quest_title_1030501000601010] 스위트데이 캠페인
 [quest_title_1030501000601020] 최강 VS 최고!
 [quest_title_1030501000601080] VS 파시오의 트레이너
-[quest_title_1030501000601030] 가라르지방에서 온 심사위원
+[quest_title_1030501000601030] 가라르지방에서 온 심사 위원
 [quest_title_1030501000601090] VS 파시오의 트레이너2
 [quest_title_1030501000601040] 대결 전날 밤...!
 [quest_title_1030501000601100] VS 파시오의 트레이너3
@@ -28728,6 +29177,76 @@ story_quest_name_ko.lsd
 [quest_group_title_10656000000] 이븐
 (포켓몬놀이)
 [quest_group_title_10269000000] 보연
+[quest_title_1040001130001011] 규리와의 특별한 하루 전편
+[quest_title_1040001130001021] 규리와의 특별한 하루 후편
+[quest_title_1030110000600300] 버디스톤과의 유사점
+[quest_title_1030511000602000] 네오 챔피언 추천
+[quest_title_1030511000602010] 하나지방의 최애
+[quest_title_1030511000602050] VS N
+[quest_title_1030511000602020] 마음을 읽어내는 재능
+[quest_title_1030511000602060] VS N2
+[quest_title_1030511000602030] 공명의 강함
+[quest_title_1030511000602070] VS N3
+[quest_title_1030511000602040] 영광의 끝을 향해 뻗는 손
+[quest_title_1030511000602080] VS N4
+[quest_title_1030511000602090] 1일 1회 한정 고난도 배틀!
+[quest_title_1030511000602100] 챌린지배틀로 승부!
+[quest_title_1030511000602110] 챌린지배틀로 승부!2
+[quest_title_1030220100900000] 공명의 어느 날
+[quest_title_1030511000603010] 강적에게 도전! VS 아이리스
+[quest_title_1030511000603020] 강적에게 도전! VS 아이리스2
+[quest_title_1030511000601000] 어서 오세요, 엄청난 도전자!
+[quest_title_1030511000601020] 도전! 챔피언 공명
+[quest_title_1030511000610010] 최속으로의 도전
+[quest_title_1030451002101010] VS 진심으로 전력을 다하는 수철
+[quest_title_1030511000606000] 사진 콘테스트 개최!
+[quest_title_1030511000606010] 스타일리시한 미르시티의 박사?
+[quest_title_1030511000606050] VS 즈미
+[quest_title_1030511000606020] 고 고 고고트
+[quest_title_1030511000606060] VS 즈미2
+[quest_title_1030511000606030] 마을에 넘쳐나는 셔터 찬스
+[quest_title_1030511000606070] VS 즈미3
+[quest_title_1030511000606040] 무심코 지나친 1장
+[quest_title_1030511000606080] VS 즈미4
+[quest_title_1030511000606090] 1일 1회 한정 고난도 배틀!
+[quest_title_1030511000606100] 챌린지배틀로 승부!
+[quest_title_1030511000606110] 챌린지배틀로 승부!2
+[quest_title_1030440708801010] VS 블래리
+[quest_title_1030440708802010] VS 블래리2
+[quest_title_1030440708803010] VS 블래리3
+[quest_title_1030440708804010] VS 블래리4
+[quest_title_1030440708805010] 1일 1회 한정 보너스 배틀!
+[quest_title_1030451100301010] VS 리프
+[quest_title_1030511000604000] 네오 챔피언 추천2
+[quest_title_1030511000604010] 마음을 끌어당기는 퍼포먼스?
+[quest_title_1030511000604050] VS 휴이
+[quest_title_1030511000604020] 명희와 메로엣타의 표현 방법
+[quest_title_1030511000604060] VS 휴이2
+[quest_title_1030511000604030] 개막! 명희의 뮤지컬!
+[quest_title_1030511000604070] VS 휴이3
+[quest_title_1030511000604040] MELOETTAAA!!!
+[quest_title_1030511000604080] VS 휴이4
+[quest_title_1030511000604090] 1일 1회 한정 고난도 배틀!
+[quest_title_1030511000604100] 챌린지배틀로 승부!
+[quest_title_1030511000604110] 챌린지배틀로 승부!2
+[quest_title_1030220101900000] 명희의 어느 날
+[quest_title_1030511000605010] 강적에게 도전! VS 노간주
+[quest_title_1030511000605020] 강적에게 도전! VS 노간주2
+[quest_title_1030511000601001] 도전자와 만들어 나가는 이야기
+[quest_title_1030511000601040] 도전! 챔피언 명희
+[quest_title_1030511000607000] 처음 만나는 가라르지방
+[quest_title_1030511000607010] VS 파시오의 트레이너
+[quest_title_1030511000607020] VS 파시오의 트레이너2
+[quest_title_1030511000607030] VS 파시오의 트레이너3
+[quest_title_1030511000607040] VS 파시오의 트레이너4
+[quest_group_title_10100900000] 공명
+(챔피언)
+[quest_group_title_10039400000] 비올라
+(23시즌)
+[quest_group_title_10136400000] 플라타느
+(23시즌)
+[quest_group_title_10101900000] 명희
+(챔피언)
 
 ===========
 story_quest_name_zh-TW.lsd
@@ -32256,6 +32775,76 @@ story_quest_name_zh-TW.lsd
 [quest_group_title_10656000000] 伊芙
 （寶可夢小朋友）
 [quest_group_title_10269000000] 步美
+[quest_title_1040001130001011] 與阿蜜的特別日子　前篇
+[quest_title_1040001130001021] 與阿蜜的特別日子　後篇
+[quest_title_1030110000600300] 與拍檔石的相似點
+[quest_title_1030511000602000] 推薦為新・冠軍
+[quest_title_1030511000602010] 合眾地區推薦的是……
+[quest_title_1030511000602050] ＶＳ　Ｎ
+[quest_title_1030511000602020] 感知情感的才能
+[quest_title_1030511000602060] ＶＳ　Ｎ２
+[quest_title_1030511000602030] 共平的強大
+[quest_title_1030511000602070] ＶＳ　Ｎ３
+[quest_title_1030511000602040] 伸向榮耀前方的手
+[quest_title_1030511000602080] ＶＳ　Ｎ４
+[quest_title_1030511000602090] １天僅限１次的高難度對戰！
+[quest_title_1030511000602100] 用挑戰對戰決勝負！
+[quest_title_1030511000602110] 用挑戰對戰決勝負！２
+[quest_title_1030220100900000] 某日的共平
+[quest_title_1030511000603010] 挑戰強敵！　ＶＳ　艾莉絲
+[quest_title_1030511000603020] 挑戰強敵！　ＶＳ　艾莉絲２
+[quest_title_1030511000601000] 歡迎，厲害的挑戰者！
+[quest_title_1030511000601020] 挑戰！冠軍共平
+[quest_title_1030511000610010] 挑戰最快速度
+[quest_title_1030451002101010] ＶＳ　火力全開的捩木
+[quest_title_1030511000606000] 攝影大賽開跑！
+[quest_title_1030511000606010] 時尚的密阿雷博士？
+[quest_title_1030511000606050] ＶＳ　志米
+[quest_title_1030511000606020] GO！GO！坐騎山羊
+[quest_title_1030511000606060] ＶＳ　志米２
+[quest_title_1030511000606030] 滿街都是按快門的最佳時機
+[quest_title_1030511000606070] ＶＳ　志米３
+[quest_title_1030511000606040] 無意間拍下的照片
+[quest_title_1030511000606080] ＶＳ　志米４
+[quest_title_1030511000606090] １天僅限１次的高難度對戰！
+[quest_title_1030511000606100] 用挑戰對戰決勝負！
+[quest_title_1030511000606110] 用挑戰對戰決勝負！２
+[quest_title_1030440708801010] ＶＳ　越橘
+[quest_title_1030440708802010] ＶＳ　越橘２
+[quest_title_1030440708803010] ＶＳ　越橘３
+[quest_title_1030440708804010] ＶＳ　越橘４
+[quest_title_1030440708805010] １天僅限１次的獎勵對戰！
+[quest_title_1030451100301010] ＶＳ　葉子
+[quest_title_1030511000604000] 推薦為新・冠軍２
+[quest_title_1030511000604010] 吸引心靈的表演？
+[quest_title_1030511000604050] ＶＳ　阿修
+[quest_title_1030511000604020] 鳴依和美洛耶塔的呈現方式
+[quest_title_1030511000604060] ＶＳ　阿修２
+[quest_title_1030511000604030] 開演！鳴依的音樂劇！
+[quest_title_1030511000604070] ＶＳ　阿修３
+[quest_title_1030511000604040] 美洛耶塔！！！
+[quest_title_1030511000604080] ＶＳ　阿修４
+[quest_title_1030511000604090] １天僅限１次的高難度對戰！
+[quest_title_1030511000604100] 用挑戰對戰決勝負！
+[quest_title_1030511000604110] 用挑戰對戰決勝負！２
+[quest_title_1030220101900000] 某日的鳴依
+[quest_title_1030511000605010] 挑戰強敵！　ＶＳ　阿戴克
+[quest_title_1030511000605020] 挑戰強敵！　ＶＳ　阿戴克２
+[quest_title_1030511000601001] 與挑戰者一同寫下的故事
+[quest_title_1030511000601040] 挑戰！　冠軍鳴依
+[quest_title_1030511000607000] 伽勒爾地區的「初次見面」
+[quest_title_1030511000607010] ＶＳ　帕希歐的訓練家
+[quest_title_1030511000607020] ＶＳ　帕希歐的訓練家２
+[quest_title_1030511000607030] ＶＳ　帕希歐的訓練家３
+[quest_title_1030511000607040] ＶＳ　帕希歐的訓練家４
+[quest_group_title_10100900000] 共平
+（冠軍）
+[quest_group_title_10039400000] 紫羅蘭
+（２０２３冬季）
+[quest_group_title_10136400000] 布拉塔諾
+（２０２３冬季）
+[quest_group_title_10101900000] 鳴依
+（冠軍）
 
 ===========
 trainer_description_de.lsd
@@ -33479,6 +34068,23 @@ besessen von dem Gedanken, immer stärker zu werden.
 [10000800001] Rot fühlt sich in dem Outfit, in dem er die Kanto-Region
 bereist hat, wie ein neuer Mensch. Er denkt oft an all die
 Freunde, die er auf seinen Abenteuern getroffen hat.
+[10100900000] Tony trägt ein Outfit, das seinem neu gewonnenen Titel
+als Passios Neo-Champ würdig ist. Er hat es geschafft,
+eine von tiefem Vertrauen geprägte Beziehung zu Maxax
+aufzubauen.
+[10101900000] Rosy trägt ein Outfit, das ihrem neu gewonnenen Titel als
+Passios Neo-Champ würdig ist. Ihre Bewegungen sind in
+absolutem Einklang mit Meloetta.
+[10136400000] Professor Platan nimmt an einem Fotowettbewerb teil.
+Weil er dabei in den Bildern anderer Leute auftauchen
+könnte, hat er Serena um Styling-Tipps gebeten.
+[10039400000] Viola nimmt an einem Fotowettbewerb teil. Sie hat sich
+bei der Wahl ihres Outfits viele Gedanken gemacht und
+ist bereit, als Fotomodell zu posieren. Ihr Partner Vivillon
+steht ihr auch bei Fotoshootings zur Seite.
+[10113000001] Diese Arenaleiterin mit einem Herz für Pokémon ist eher
+zurückhaltend, aber wenn sie von Stahl-Pokémon spricht,
+kommt sie richtig in Fahrt!
 
 ===========
 trainer_description_en.lsd
@@ -34564,6 +35170,21 @@ rebellious and fixated on becoming stronger.
 [10000800001] Red is feeling brand-new in this outfit that he wore back
 when he traveled the Kanto region. He often thinks about
 the friends he’s made on his journeys.
+[10100900000] Nate is dressed in an outfit honoring his earned title:
+Neo Champion of Pasio. He has built a deeply trusting
+relationship with Haxorus.
+[10101900000] Rosa is dressed in an outfit honoring her earned title:
+Neo Champion of Pasio. She performs perfectly in sync
+with Meloetta.
+[10136400000] Professor Sycamore is joining a photo contest. Since
+there is a chance that he might be in someone else’s
+picture, he’s asked Serena for help with fashion.
+[10039400000] Viola is joining a photo contest. She put effort into her
+look, so she’s ready to have her picture taken. Her Vivillon
+is both her partner Pokémon and assistant.
+[10113000001] This Gym Leader is known to have a heart that cares for
+Pokémon. While she appears calm and gentle, she can get
+quite fired up when talking about Steel-type Pokémon.
 
 ===========
 trainer_description_es.lsd
@@ -35834,6 +36455,22 @@ fuerte.
 [10000800001] Rojo se siente como nuevo con la indumentaria que
 llevaba cuando viajaba por la región de Kanto. Le
 recuerda a los amigos que hizo en aquella aventura.
+[10100900000] Rizzo vuelve vestido con un traje que hace honor a su
+recién adquirido título de Neocampeón de Passio. Ha
+construido una relación basada en la confianza absoluta
+con Haxorus.
+[10101900000] Nanci vuelve vestida con un traje que hace honor a su
+recién adquirido título de Neocampeona de Passio. Canta
+y baila en perfecta sincronía con Meloetta.
+[10136400000] El Profesor Ciprés se ha apuntado a un concurso de
+fotografía y le ha pedido ayuda a Serena con su atuendo
+por si acaba saliendo en las fotos de otras personas.
+[10039400000] Violeta se ha apuntado a un concurso de fotografía junto
+con Vivillon, su ayudante y compi Pokémon. Se ha vestido
+con esmero para estar a la altura como modelo.
+[10113000001] Líder de Gimnasio que muestra siempre gran aprecio por
+los Pokémon. Aunque aparente ser tranquila, la simple
+mención de "tipo Acero" enciende un fuego en su interior.
 
 ===========
 trainer_description_fr.lsd
@@ -37056,6 +37693,22 @@ aussi connu pour son obsession pour la puissance.
 sa tenue de Kanto. Il repense avec nostalgie
 aux nombreux amis qu'il s'est faits
 lors de ses aventures passées.
+[10100900000] Mélis porte une tenue faisant hommage à son nouveau
+titre : Néo-Maître de Passio. Son Tranchodon et lui
+se font une confiance absolue.
+[10101900000] Écho porte une tenue faisant hommage à son nouveau
+titre : Néo-Maître de Passio. Son Pokémon Meloetta
+et elle sont parfaitement compatibles sur scène.
+[10136400000] Le Professeur Platane participe à un concours photo.
+Il demande à Serena de l'aiguiller quant à ses choix
+vestimentaires au cas où il se ferait photographier.
+[10039400000] Violette participe à un concours photo. Elle a choisi
+sa tenue avec soin, et est maintenant prête à poser
+devant l'objectif. Son partenaire Prismillon l'assiste
+également pendant ses séances photo.
+[10113000001] Cette Championne d'Arène fait preuve d'une infinie
+gentillesse envers les Pokémon. Ses airs calmes et doux
+cachent une véritable passionnée de Pokémon Acier.
 
 ===========
 trainer_description_it.lsd
@@ -38248,6 +38901,21 @@ faceva affidamento unicamente sulla propria forza.
 [10000800001] Rosso fa un tuffo nel passato indossando nuovamente
 gli stessi abiti di quando viaggiava per Kanto. Ripensa
 spesso agli amici che si è fatto lungo il cammino.
+[10100900000] Sanzo indossa un abito che celebra il suo meritato titolo:
+Nuovo Campione di Pasio. Lui e il suo Haxorus 
+hanno fiducia assoluta l'uno nell'altro.
+[10101900000] Rina indossa un abito che celebra il suo meritato titolo:
+Nuova Campionessa di Pasio. Lei e Meloetta si esibiscono
+in perfetta sincronia.
+[10136400000] Il Professor Platan partecipa a un concorso fotografico.
+Vista la possibilità di comparire nelle foto altrui,
+ha chiesto consigli di moda a Serena.
+[10039400000] Violetta partecipa a un concorso fotografico. Si è
+agghindata di tutto punto ed è pronta a farsi scattare
+foto. Il suo compagno Vivillon le fa da assistente.
+[10113000001] Capopalestra dal cuore colmo di affetto per i Pokémon.
+Ha un carattere riservato, ma si entusiasma facilmente
+quando si parla dei Pokémon di tipo Acciaio.
 
 ===========
 trainer_description_ja.lsd
@@ -39326,6 +39994,21 @@ trainer_description_ja.lsd
 [10000800001] カントー地方を　旅していたときの　衣装を
 身にまとい　気持ちを　新たにした　レッド。
 かつて　冒険した　仲間たちに　思いをはせる。
+[10100900000] パシオの　ネオ・チャンピオンとして　認められ
+名誉ある衣装に　身を包んだ　キョウヘイ。
+オノノクスとは　お互いを　深く信じあえる　関係。
+[10101900000] パシオの　ネオ・チャンピオンとして　認められ
+名誉ある衣装に　身を包んだ　メイ。
+メロエッタと息のあった　パフォーマンスを披露する。
+[10136400000] フォトコンテストに　挑戦する　プラターヌ。
+自分も　誰かの写真に　写るかもしれないということで
+セレナたちにも　オシャレに　協力してもらった。
+[10039400000] フォトコンテストに　挑戦する　ビオラ。
+被写体になってもいいように　オシャレをがんばった。
+連れている　ビビヨンは　バディ兼アシスタント。
+[10113000001] ポケモンを　慈しむ　心を持つ　ジムリーダー。
+控え目な　性格だが　はがねタイプの
+話になると　テンションが　あがる。
 
 ===========
 trainer_description_ko.lsd
@@ -40403,6 +41086,21 @@ WPM 운영위원회의 대표도 맡고 있다.
 [10000800001] 관동지방을 여행하던 시절의 의상을 입고
 새로이 마음을 다잡은 레드.
 과거에 함께 모험한 동료들을 떠올린다.
+[10100900000] 파시오의 네오 챔피언으로 인정받아
+명예로운 의상을 입은 공명.
+액스라이즈와는 서로를 굳게 믿는 관계이다.
+[10101900000] 파시오의 네오 챔피언으로 인정받아
+명예로운 의상을 입은 명희.
+메로엣타와 척척 맞는 호흡으로 퍼포먼스를 펼친다.
+[10136400000] 사진 콘테스트에 도전하는 플라타느.
+자신도 다른 사람의 사진에 들어갈지도 모른다는 이유로
+세레나 일행의 도움을 받아서 꾸미게 되었다.
+[10039400000] 사진 콘테스트에 도전하는 비올라.
+피사체가 되어도 문제없도록 열심히 단장했다.
+데리고 다니는 비비용은 버디 겸 조수.
+[10113000001] 포켓몬을 아끼는 마음을 지닌 체육관 관장.
+얌전한 성격이지만 강철타입의
+이야기를 할 때면 조금 흥분한다.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -41480,6 +42178,21 @@ trainer_description_zh-TW.lsd
 [10000800001] 穿上在關都地區冒險時的服裝，
 心情煥然一新的赤紅。
 他懷念起過去曾一同冒險的夥伴們。
+[10100900000] 受認定成為帕希歐新・冠軍，
+穿上了代表榮譽的服裝的共平。
+與雙斧戰龍有著深厚的信賴關係。
+[10101900000] 受認定成為帕希歐新・冠軍，
+穿上了代表榮譽的服裝的鳴依。
+與美洛耶塔展現了默契十足的表演。
+[10136400000] 挑戰攝影大賽的布拉塔諾。
+考慮到自己也會被別人拍進照片裡，
+他請莎莉娜等人幫忙盛裝打扮了一番。
+[10039400000] 挑戰攝影大賽的紫羅蘭。為了讓自己也能
+成為被拍攝的對象而努力地打扮了一番。
+同行的彩粉蝶是她的拍檔兼助手。
+[10113000001] 對寶可夢有著一顆體貼之心的道館館主。
+個性低調，但是一提到鋼屬性寶可夢
+就會變得既活潑又健談。
 
 ===========
 trainer_name_de.lsd
@@ -43774,6 +44487,14 @@ trainer_verbose_name_de.lsd
 (Neo-Champ)
 [10017900000] Leaf 
 (Neo-Champ)
+[10100900000] Tony 
+(Neo-Champ)
+[10101900000] Rosy 
+(Neo-Champ)
+[10136400000] Platan 
+(Saison 2023)
+[10039400000] Viola 
+(Saison 2023)
 [10011100000] MaMo-Mica
 [10256100000] MaMo-Nezz
 [10656000000] Evi 
@@ -43986,6 +44707,14 @@ Acerola
 (Champion)
 [10017900000] Leaf 
 (Champion)
+[10100900000] Nate 
+(Champion)
+[10101900000] Rosa 
+(Champion)
+[10136400000] Sycamore 
+(Holiday 2023)
+[10039400000] Viola 
+(Holiday 2023)
 [10011100000] Sygna Suit Roxie
 [10256100000] Sygna Suit Piers
 [10656000000] Eve 
@@ -44168,6 +44897,14 @@ con Kimono)
 (Neocampeón)
 [10017900000] Hoja 
 (Neocampeona)
+[10100900000] Rizzo 
+(Neocampeón)
+[10101900000] Nanci 
+(Neocampeona)
+[10136400000] Ciprés 
+(Temporada 23)
+[10039400000] Violeta 
+(Temporada 23)
 [10011100000] Hiedra (Traje S)
 [10256100000] Nerio (Traje S)
 [10656000000] Eva (Pokéchica)
@@ -44364,6 +45101,14 @@ trainer_verbose_name_fr.lsd
 (Néo-Maître)
 [10017900000] Leaf 
 (Néo-Maître)
+[10100900000] Mélis 
+(Néo-Maître)
+[10101900000] Écho 
+(Néo-Maître)
+[10136400000] Platane 
+(Saison 2023)
+[10039400000] Violette 
+(Saison 2023)
 [10011100000] Strykna (Ultime)
 [10256100000] Peterson (Ultime)
 [10656000000] Éva 
@@ -44567,6 +45312,14 @@ trainer_verbose_name_it.lsd
 (Campione)
 [10017900000] Leaf 
 (Campionessa)
+[10100900000] Sanzo 
+(Campione)
+[10101900000] Rina 
+(Campionessa)
+[10136400000] Platan 
+(feste 2023)
+[10039400000] Violetta 
+(feste 2023)
 [10011100000] Velia Costumax
 [10256100000] Ginepro Costumax
 [10656000000] Ivetta 
@@ -44770,6 +45523,14 @@ trainer_verbose_name_ja.lsd
 （チャンピオン）
 [10017900000] リーフ
 （チャンピオン）
+[10100900000] キョウヘイ
+（チャンピオン）
+[10101900000] メイ
+（チャンピオン）
+[10136400000] プラターヌ
+（２３シーズン）
+[10039400000] ビオラ
+（２３シーズン）
 [10011100000] マジコスホミカ
 [10256100000] マジコスネズ
 [10656000000] イブ
@@ -44973,6 +45734,14 @@ trainer_verbose_name_ko.lsd
 (챔피언)
 [10017900000] 리프
 (챔피언)
+[10100900000] 공명
+(챔피언)
+[10101900000] 명희
+(챔피언)
+[10136400000] 플라타느
+(23시즌)
+[10039400000] 비올라
+(23시즌)
 [10011100000] 궁극코스 보미카
 [10256100000] 궁극코스 두송
 [10656000000] 이븐
@@ -45176,6 +45945,14 @@ trainer_verbose_name_zh-TW.lsd
 （冠軍）
 [10017900000] 葉子
 （冠軍）
+[10100900000] 共平
+（冠軍）
+[10101900000] 鳴依
+（冠軍）
+[10136400000] 布拉塔諾
+（２０２３冬季）
+[10039400000] 紫羅蘭
+（２０２３冬季）
 [10011100000] 美極套裝霍米加
 [10256100000] 美極套裝聶梓
 [10656000000] 伊芙
@@ -53742,6 +54519,7 @@ Schwierigkeitsgrad Normal abgeschlossen hast.
 bestimmte Anzahl des notwendigen
 Items erhalten hast.
 [home/quest_list_178] Diese Anzahl beinhaltet die bisher erhaltenen Items.
+[home/quest_list_179] Update in „Steine der Mysterien“
 [home/quest_list_180] Nebengebiet
 [home/quest_list_181] Gefährtenepisoden
 [home/quest_list_182] Fordere starke Trainer
@@ -54924,6 +55702,7 @@ the villain arc on Normal.
 [home/quest_list_176] Event Under Way!
 [home/quest_list_177] Unlocks when a specific item is gathered in an amount that exceeds the designated number.
 [home/quest_list_178] This number includes the items obtained so far.
+[home/quest_list_179] Mysterious Stones Chapter Update
 [home/quest_list_180] Side Area
 [home/quest_list_181] Sync Pair Stories
 [home/quest_list_182] Challenge the Strong
@@ -56055,6 +56834,7 @@ dificultad normal.
 [home/quest_list_177] Disponible tras reunir la cantidad
 especificada del objeto indicado.
 [home/quest_list_178] Nota: Se cuenta la cantidad que hayas obtenido en total.
+[home/quest_list_179] ¡Trama Piedras Misteriosas!
 [home/quest_list_180] Otras áreas
 [home/quest_list_181] Episodios compi
 [home/quest_list_182] Desafíos imposibles
@@ -57277,6 +58057,7 @@ au niveau Normal.
 un objet spécifique plus d'un certain
 nombre de fois.
 [home/quest_list_178] Ce nombre inclut les objets déjà obtenus.
+[home/quest_list_179] Mise à jour : Roches Mystérieuses
 [home/quest_list_180] Zone annexe
 [home/quest_list_181] Épisodes Duo
 [home/quest_list_182] Défi contre
@@ -58571,6 +59352,7 @@ di "I gruppi malvagi" in modalità normale.
 [home/quest_list_177] Si sblocca ottenendo la quantità
 specificata dello strumento indicato.
 [home/quest_list_178] Include la quantità di strumenti ottenuti finora.
+[home/quest_list_179] Le Pietre misteriose: aggiornamento
 [home/quest_list_180] Aree aggiuntive
 [home/quest_list_181] Episodi Unità
 [home/quest_list_182] Sfida l'asso
@@ -59822,6 +60604,7 @@ Lv.[Digit:2digits ]で解放
 [home/quest_list_177] 特定のどうぐの累計獲得数が
 指定数を超えると解放されます
 [home/quest_list_178] いままで獲得した数が対象です
+[home/quest_list_179] 謎の石編更新
 [home/quest_list_180] サイドエリア
 [home/quest_list_181] バディーズエピソード
 [home/quest_list_182] 強者への挑戦
@@ -61050,6 +61833,7 @@ Lv.[Digit:2digits ]에서 해방
 [home/quest_list_177] 특정 도구의 합계 획득 수가
 지정된 수를 넘으면 해방됩니다
 [home/quest_list_178] 지금까지 획득한 수가 대상입니다
+[home/quest_list_179] 수수께끼의 돌 편 갱신
 [home/quest_list_180] 사이드 에리어
 [home/quest_list_181] 버디즈 에피소드
 [home/quest_list_182] 강자에게 도전
@@ -62244,6 +63028,7 @@ home_zh-TW.lsd
 [home/quest_list_177] 特定道具的累計獲得數
 超過指定數量即可開放
 [home/quest_list_178] 對象為至今為止獲得的數量
+[home/quest_list_179] 神秘石篇更新
 [home/quest_list_180] 旁支區域
 [home/quest_list_181] 拍組劇情
 [home/quest_list_182] 向高手挑戰
@@ -63741,13 +64526,12 @@ durchzuführen?
 details
 [shop/scout_111] Bonus bei Erhalt ausgewählter Gefährten!
 [shop/scout_112] Ausgewählte Gefährten
-[shop/scout_113] Geschenk für die [Digit:2digits ]. Suche
-
+[shop/scout_113] Bonus für den [Digit:2digits ]. Erhalt
 [shop/scout_114] Hinweis: Diese Geschenke werden im Lager deiner
 Geschenkbox abgelegt.
 [shop/scout_116] Spezielle G-Suche × 11
 [shop/scout_117] Geschenkeliste
-[shop/scout_118] Geschenk ab der [Digit:2digits ]. Suche
+[shop/scout_118] Bonus ab dem [Digit:2digits ]. Erhalt
 [shop/scout_119] Garantierte 5★-Ticket-
 Gefährtensuche
 [shop/scout_120] Tausche deine Tickets gegen
@@ -64464,18 +65248,18 @@ now have Lv. [Digit:1digit ] moves!
 to scout 11 sync pairs?
 [shop/scout_107] Do you want to use [Digit:4digits ] paid gems
 to scout 11 sync pairs?
-[shop/scout_108] Bonus Present!
+[shop/scout_108] Present!
 [shop/scout_109] 1st time only
 [shop/scout_110] Present
 Details
-[shop/scout_111] Receive a present with featured sync pairs!
+[shop/scout_111] Present for obtaining the featured sync pairs!
 [shop/scout_112] Featured Sync Pair
-[shop/scout_113] Bonus presents for scout no. [Digit:2digits ]
+[shop/scout_113] Presents for obtaining [Digit:2digits ] [EN:Qty S="time" P="times" ]
 [shop/scout_114] Note: These presents will be sent to the Temp Storage
 section of your Present Box.
 [shop/scout_116] Special Scout ×11
-[shop/scout_117] Bonus Present Details
-[shop/scout_118] Bonus presents for scout no. [Digit:2digits ] onward
+[shop/scout_117] Present Details
+[shop/scout_118] Presents for obtaining [Digit:2digits ] [EN:Qty S="time" P="times" ] or more
 [shop/scout_119] 5★-Guaranteed Scout
 [shop/scout_120] You can use [Name:Item ]s
 to scout one 5★ sync pair!
@@ -65787,14 +66571,14 @@ payants pour passer 11 Appels Duo ?
 [shop/scout_109] Qu'une fois
 [shop/scout_110] Cadeaux
 (détails)
-[shop/scout_111] Recevez un cadeau avec les Duos en vedette !
+[shop/scout_111] Cadeau pour avoir obtenu les Duos en vedette !
 [shop/scout_112] Duo en vedette
-[shop/scout_113] Cadeaux bonus pour [Digit:2digits ] appel[FR:Qty P="s" ]
+[shop/scout_113] Cadeaux pour [Digit:2digits ] appel[FR:Qty P="s" ]
 [shop/scout_114] Les cadeaux ont été mis en attente dans le menu
 « Cadeaux ».
 [shop/scout_116] 11 Appels Duo (spécial)
-[shop/scout_117] Liste des cadeaux bonus
-[shop/scout_118] Cadeaux bonus à partir de [Digit:2digits ] appels
+[shop/scout_117] Liste des cadeaux
+[shop/scout_118] Cadeaux à partir de [Digit:2digits ] appels
 [shop/scout_119] Appel Duo avec
 Bons 5★ garanti
 [shop/scout_120] Vous pouvez obtenir un Duo 5★ avec :
