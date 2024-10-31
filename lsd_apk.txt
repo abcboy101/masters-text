@@ -2727,6 +2727,70 @@ sammeln!
 [quest_title_1030310000603050] Täglicher schwerer Kampf
 [quest_title_1030310000604050] Täglicher schwerer Kampf
 [quest_title_1030310000602050] Täglicher schwerer Kampf
+[quest_group_title_10115400000] Volkner (Saison 2022)
+[quest_group_title_10114400000] Sabrina (Saison 2022)
+[quest_group_title_10162000000] Lucius
+[quest_group_title_10091200000] MaMo-Cynthia (Version 2)
+[quest_group_title_100102] Sinnoh
+[quest_group_detail_100102] Ein dunkler Alptraum
+[quest_title_1030110000430100] Team Galaktik kehrt zurück
+[quest_title_1030110000430600] Vs. Galaktik Rüpel
+[quest_title_1030110000430200] Endlose Dunkelheit...
+[quest_title_1030110000430700] Vs. Galaktik Rüpel 2
+[quest_title_1030110000430300] Sturm auf das Versteck!
+[quest_title_1030110000430800] Vs. Galaktik Rüpel 3
+[quest_title_1030110000430400] Die wahren Pläne von Zyrus
+[quest_title_1030110000430900] Vs. Zyrus
+[quest_title_1030110000430500] Entscheidungen des Herzens
+[quest_title_1030431200401010] Neujahrs-Kampf
+[quest_title_1030312000601000] Wir, Team Galaktik...
+[quest_title_1030312000601020] Vs. Galaktik Rüpel
+[quest_title_1030312000601030] Vs. Galaktik Rüpel 2
+[quest_title_1030312000601040] Vs. Galaktik Rüpel 3
+[quest_title_1030312000601050] Täglicher schwerer Kampf
+[quest_title_1030312000601010] Vorstellung einer idealen
+Welt
+[quest_title_1030312000603000] Ein elektrisierendes Neujahr
+[quest_title_1030312000603010] Eine böse Vorahnung
+[quest_title_1030312000603050] Vs. Ignaz
+[quest_title_1030312000603020] Fortlaufende Kämpfe
+[quest_title_1030312000603060] Vs. Ignaz 2
+[quest_title_1030312000603030] Nachforschungen
+[quest_title_1030312000603070] Vs. Ignaz 3
+[quest_title_1030312000603040] Beruhigender Glockenklang
+[quest_title_1030312000603080] Vs. Ignaz 4
+[quest_title_1030312000603090] Täglicher schwerer Kampf
+[quest_title_1030312000603100] Herausforderungskampf 1
+[quest_title_1030312000603110] Herausforderungskampf 2
+[quest_title_1030431200501010] Vs. Dragan
+[quest_title_1030431200502010] Vs. Dragan 2
+[quest_title_1030431200503010] Vs. Dragan 3
+[quest_title_1030431200504010] Vs. Dragan 4
+[quest_title_1030431200700010] Ein unverzichtbarer Begleiter
+[quest_title_1030431200702010] Vs. Team Break 1
+[quest_title_1030431200703010] Vs. Team Break 2
+[quest_title_1030431200704010] Vs. Team Break 3
+[quest_title_1030431200705010] Vs. Team Break 4
+[quest_title_1030431200706010] Täglicher schwerer Kampf
+[quest_title_1030431200701010] Brillenträger vereint
+[quest_title_1030220162000000] Ein Tag mit Lucius
+[quest_title_1030220091200000] Ein Tag mit MaMo-Cynthia
+(Version 2)
+[quest_title_1030312000602070] Sinnoh-Kameraden
+[quest_title_1030312000602080] Sinnoh-Kameraden 2
+[quest_title_1030312000602010] Vs. Galaktik Rüpel
+[quest_title_1030312000602020] Vs. Galaktik Rüpel 2
+[quest_title_1030312000602030] Vs. Galaktik Rüpel 3
+[quest_title_1030312000602040] Täglicher schwerer Kampf
+[quest_title_1030312000602050] Herausforderungskampf 1
+[quest_title_1030312000602060] Herausforderungskampf 2
+[quest_title_1030312001010060] Vs. G-Cis 6
+[quest_title_1030312001020050] Vs. Platan 3
+[quest_title_1030312001040050] Vs. Gloria 5
+[quest_group_title_100207] Wackerer Schild der Ewigkeit
+[quest_group_title_100204] Vater oder Feind
+[quest_group_title_100203] Neue Welt, neue Gefühle
+[quest_group_title_100205] Geben und Nehmen
 
 ===========
 story_quest_name_en.lsd
@@ -4658,6 +4722,71 @@ story_quest_name_en.lsd
 [quest_title_1030310000603050] Daily Extreme Battle 1
 [quest_title_1030310000604050] Daily Extreme Battle 1
 [quest_title_1030310000602050] Daily Extreme Battle 1
+[quest_group_title_10115400000] Volkner
+(New Year’s 2022)
+[quest_group_title_10114400000] Sabrina
+(New Year’s 2022)
+[quest_group_title_10162000000] Lucas
+[quest_group_title_10091200000] Sygna Suit Cynthia
+(Renegade)
+[quest_group_title_100102] Sinnoh
+[quest_group_detail_100102] Dreaming in Darkness
+[quest_title_1030110000430100] Team Galactic on the Move
+[quest_title_1030110000430600] Challenge the Galactic Grunts: Part 1
+[quest_title_1030110000430200] The Darkest Nightmare
+[quest_title_1030110000430700] Challenge the Galactic Grunts: Part 2
+[quest_title_1030110000430300] The Galactic Hideout
+[quest_title_1030110000430800] Challenge the Galactic Grunts: Part 3
+[quest_title_1030110000430400] Cyrus’s True Ambitions
+[quest_title_1030110000430900] Challenge Cyrus: Part 1
+[quest_title_1030110000430500] Together in Spirit
+[quest_title_1030431200401010] New Year’s Challenge
+[quest_title_1030312000601000] Galactic Visitors
+[quest_title_1030312000601020] Challenge the Galactic Grunts: Part 1
+[quest_title_1030312000601030] Challenge the Galactic Grunts: Part 2
+[quest_title_1030312000601040] Challenge the Galactic Grunts: Part 3
+[quest_title_1030312000601050] Daily Extreme Battle 1
+[quest_title_1030312000601010] A Perfect World
+[quest_title_1030312000603000] A Thrilling New Year
+[quest_title_1030312000603010] Sabrina’s Premonition
+[quest_title_1030312000603050] Challenge Flint: Part 1
+[quest_title_1030312000603020] Pair Up and Battle!
+[quest_title_1030312000603060] Challenge Flint: Part 2
+[quest_title_1030312000603030] The Root Cause
+[quest_title_1030312000603070] Challenge Flint: Part 3
+[quest_title_1030312000603040] Calming Clamor
+[quest_title_1030312000603080] Challenge Flint: Part 4
+[quest_title_1030312000603090] Daily Extreme Battle 1
+[quest_title_1030312000603100] Battle Challenge! Round 1
+[quest_title_1030312000603110] Battle Challenge! Round 2
+[quest_title_1030431200501010] Challenge Drake: Part 1
+[quest_title_1030431200502010] Challenge Drake: Part 2
+[quest_title_1030431200503010] Challenge Drake: Part 3
+[quest_title_1030431200504010] Challenge Drake: Part 4
+[quest_title_1030431200700010] Fashion Sense
+[quest_title_1030431200702010] Challenge Team Break: Part 1
+[quest_title_1030431200703010] Challenge Team Break: Part 2
+[quest_title_1030431200704010] Challenge Team Break: Part 3
+[quest_title_1030431200705010] Challenge Team Break: Part 4
+[quest_title_1030431200706010] Daily Extreme Battle 1
+[quest_title_1030431200701010] Style Prevails
+[quest_title_1030220162000000] A Day with Lucas
+[quest_title_1030220091200000] A Day with Sygna Suit Cynthia
+[quest_title_1030312000602070] Sinnoh Buddies Unite: Part 1
+[quest_title_1030312000602080] Sinnoh Buddies Unite: Part 2
+[quest_title_1030312000602010] Challenge the Galactic Grunts: Part 1
+[quest_title_1030312000602020] Challenge the Galactic Grunts: Part 2
+[quest_title_1030312000602030] Challenge the Galactic Grunts: Part 3
+[quest_title_1030312000602040] Daily Extreme Battle 1
+[quest_title_1030312000602050] Battle Challenge! Round 1
+[quest_title_1030312000602060] Battle Challenge! Round 2
+[quest_title_1030312001010060] Challenge Ghetsis: Part 6
+[quest_title_1030312001020050] Challenge Professor Sycamore: Part 3
+[quest_title_1030312001040050] Challenge Gloria: Part 5
+[quest_group_title_100207] Howling Shield of Eternity
+[quest_group_title_100204] Father or Foe
+[quest_group_title_100203] New World Dilemma
+[quest_group_title_100205] Give and Take
 
 ===========
 story_quest_name_es.lsd
@@ -6722,6 +6851,87 @@ muy señaladas!
 [quest_title_1030310000603050] ¡Un combate difícil al día!
 [quest_title_1030310000604050] ¡Un combate difícil al día!
 [quest_title_1030310000602050] ¡Un combate difícil al día!
+[quest_group_title_10115400000] Lectro
+(Temporada 22)
+[quest_group_title_10114400000] Sabrina
+(Temporada 22)
+[quest_group_title_10162000000] León
+[quest_group_title_10091200000] Cintia (Traje S, arqueóloga)
+[quest_group_title_100102] Trama de Sinnoh
+[quest_group_detail_100102] La pesadilla infinita
+[quest_title_1030110000430100] El Equipo Galaxia se moviliza
+[quest_title_1030110000430600] VS. Reclutas del Equipo
+Galaxia
+[quest_title_1030110000430200] Sueños oscuros
+[quest_title_1030110000430700] VS. Reclutas del Equipo
+Galaxia (2)
+[quest_title_1030110000430300] Combate en el escondrijo del
+Equipo Galaxia
+[quest_title_1030110000430800] VS. Reclutas del Equipo
+Galaxia (3)
+[quest_title_1030110000430400] Las verdaderas intenciones
+de Helio
+[quest_title_1030110000430900] Vs. Helio
+[quest_title_1030110000430500] Sentimientos que nos unen
+[quest_title_1030431200401010] ¡El primer combate del año!
+[quest_title_1030312000601000] Nosotros, el Equipo Galaxia...
+[quest_title_1030312000601020] VS. Reclutas del Equipo
+Galaxia
+[quest_title_1030312000601030] VS. Reclutas del Equipo
+Galaxia (2)
+[quest_title_1030312000601040] VS. Reclutas del Equipo
+Galaxia (3)
+[quest_title_1030312000601050] ¡Un combate difícil al día!
+[quest_title_1030312000601010] La ocasión idónea para un
+nuevo mundo
+[quest_title_1030312000603000] Un Año Nuevo electrizante
+[quest_title_1030312000603010] Predicción de un desastre
+[quest_title_1030312000603050] VS. Fausto
+[quest_title_1030312000603020] La Liguilla de Año Nuevo
+[quest_title_1030312000603060] VS. Fausto (2)
+[quest_title_1030312000603030] ¿Quién es el causante?
+[quest_title_1030312000603070] VS. Fausto (3)
+[quest_title_1030312000603040] Un sonido muy relajante
+[quest_title_1030312000603080] VS. Fausto (4)
+[quest_title_1030312000603090] ¡Un combate difícil al día!
+[quest_title_1030312000603100] ¡Un combate desafiante!
+[quest_title_1030312000603110] ¡Un combate desafiante! (2)
+[quest_title_1030431200501010] VS. Dracón
+[quest_title_1030431200502010] VS. Dracón (2)
+[quest_title_1030431200503010] VS. Dracón (3)
+[quest_title_1030431200504010] VS. Dracón (4)
+[quest_title_1030431200700010] ¡Cada cual tiene su estilo!
+[quest_title_1030431200702010] VS. Team Break
+[quest_title_1030431200703010] VS. Team Break (2)
+[quest_title_1030431200704010] VS. Team Break (3)
+[quest_title_1030431200705010] VS. Team Break (4)
+[quest_title_1030431200706010] ¡Un combate difícil al día!
+[quest_title_1030431200701010] Distintivas, esenciales e
+irremplazables
+[quest_title_1030220162000000] Un día con León
+[quest_title_1030220091200000] Un día con Cintia (Traje S,
+arqueóloga)
+[quest_title_1030312000602070] Desafío con compis de
+Sinnoh
+[quest_title_1030312000602080] Desafío con compis de
+Sinnoh (2)
+[quest_title_1030312000602010] VS. Reclutas del Equipo
+Galaxia
+[quest_title_1030312000602020] VS. Reclutas del Equipo
+Galaxia (2)
+[quest_title_1030312000602030] VS. Reclutas del Equipo
+Galaxia (3)
+[quest_title_1030312000602040] ¡Un combate difícil al día!
+[quest_title_1030312000602050] ¡Un combate desafiante!
+[quest_title_1030312000602060] ¡Un combate desafiante! (2)
+[quest_title_1030312001010060] VS. Ghechis (6)
+[quest_title_1030312001020050] VS. Profesor Ciprés (3)
+[quest_title_1030312001040050] VS. Gloria (5)
+[quest_group_title_100207] Escudo frente a la eternidad
+[quest_group_title_100204] Un padre con dos caras
+[quest_group_title_100203] Almas unidas en un nuevo
+mundo
+[quest_group_title_100205] Los que dan y los que quitan
 
 ===========
 story_quest_name_fr.lsd
@@ -8919,6 +9129,89 @@ Dresseurs de Passio IV
 à une fois par jour !
 [quest_title_1030310000602050] Combat difficile limité
 à une fois par jour !
+[quest_group_title_10115400000] Tanguy (Saison 2022)
+[quest_group_title_10114400000] Morgane (Saison 2022)
+[quest_group_title_10162000000] Louka
+[quest_group_title_10091200000] Cynthia (Look Ultime 2)
+[quest_group_title_100102] Sinnoh
+[quest_group_detail_100102] Le sombre cauchemar
+[quest_title_1030110000430100] La Team Galaxie passe
+à l'action
+[quest_title_1030110000430600] Combat :
+Sbires Team Galaxie
+[quest_title_1030110000430200] Un rêve obscur
+[quest_title_1030110000430700] Combat :
+Sbires Team Galaxie II
+[quest_title_1030110000430300] À l'assaut du repaire
+de la Team Galaxie !
+[quest_title_1030110000430800] Combat :
+Sbires Team Galaxie III
+[quest_title_1030110000430400] Les véritables intentions
+d'Hélio
+[quest_title_1030110000430900] Combat : Hélio
+[quest_title_1030110000430500] Le choix du cœur
+[quest_title_1030431200401010] Joyeux Combats
+du Nouvel An !
+[quest_title_1030312000601000] La Team Galaxie
+[quest_title_1030312000601020] Combat :
+Sbires Team Galaxie
+[quest_title_1030312000601030] Combat :
+Sbires Team Galaxie II
+[quest_title_1030312000601040] Combat :
+Sbires Team Galaxie III
+[quest_title_1030312000601050] Combat difficile limité
+à une fois par jour !
+[quest_title_1030312000601010] Un monde parfait
+[quest_title_1030312000603000] Un Nouvel An électrisant
+[quest_title_1030312000603010] Un mauvais pressentiment
+[quest_title_1030312000603050] Combat : Adrien
+[quest_title_1030312000603020] Combats en série contre
+des Duos coriaces
+[quest_title_1030312000603060] Combat : Adrien II
+[quest_title_1030312000603030] La cause de l'incident
+[quest_title_1030312000603070] Combat : Adrien III
+[quest_title_1030312000603040] Un chaos étrangement
+relaxant
+[quest_title_1030312000603080] Combat : Adrien IV
+[quest_title_1030312000603090] Combat difficile limité
+à une fois par jour !
+[quest_title_1030312000603100] Combat difficile
+[quest_title_1030312000603110] Combat difficile II
+[quest_title_1030431200501010] Combat : Aragon
+[quest_title_1030431200502010] Combat : Aragon II
+[quest_title_1030431200503010] Combat : Aragon III
+[quest_title_1030431200504010] Combat : Aragon IV
+[quest_title_1030431200700010] Chacun son style !
+[quest_title_1030431200702010] Combat : Team Break
+[quest_title_1030431200703010] Combat : Team Break II
+[quest_title_1030431200704010] Combat : Team Break III
+[quest_title_1030431200705010] Combat : Team Break IV
+[quest_title_1030431200706010] Combat difficile limité
+à une fois par jour !
+[quest_title_1030431200701010] Un accessoire irremplaçable
+[quest_title_1030220162000000] Une journée avec Louka
+[quest_title_1030220091200000] Une journée avec Cynthia
+(Look Ultime 2)
+[quest_title_1030312000602070] Compagnons de Sinnoh
+[quest_title_1030312000602080] Compagnons de Sinnoh II
+[quest_title_1030312000602010] Combat :
+Sbires Team Galaxie
+[quest_title_1030312000602020] Combat :
+Sbires Team Galaxie II
+[quest_title_1030312000602030] Combat :
+Sbires Team Galaxie III
+[quest_title_1030312000602040] Combat difficile limité
+à une fois par jour !
+[quest_title_1030312000602050] Combat difficile
+[quest_title_1030312000602060] Combat difficile II
+[quest_title_1030312001010060] Combat : Ghetis VI
+[quest_title_1030312001020050] Combat :
+Professeur Platane III
+[quest_title_1030312001040050] Combat : Gloria V
+[quest_group_title_100207] Bouclier rouge de l'éternité
+[quest_group_title_100204] Père ou adversaire
+[quest_group_title_100203] Émotions du nouveau monde
+[quest_group_title_100205] Ils donnent, ils prennent
 
 ===========
 story_quest_name_it.lsd
@@ -10818,6 +11111,68 @@ story_quest_name_it.lsd
 [quest_title_1030310000603050] Lotta ad alta difficoltà (una al giorno)!
 [quest_title_1030310000604050] Lotta ad alta difficoltà (una al giorno)!
 [quest_title_1030310000602050] Lotta ad alta difficoltà (una al giorno)!
+[quest_group_title_10115400000] Corrado (feste 2022)
+[quest_group_title_10114400000] Sabrina (feste 2022)
+[quest_group_title_10162000000] Lucas
+[quest_group_title_10091200000] Camilla Costumax (archeologa)
+[quest_group_title_100102] Sinnoh
+[quest_group_detail_100102] L'incubo oscuro
+[quest_title_1030110000430100] Il Team Galassia in azione
+[quest_title_1030110000430600] VS Reclute del Team Galassia
+[quest_title_1030110000430200] Un sogno buio pesto
+[quest_title_1030110000430700] VS Reclute del Team Galassia 2
+[quest_title_1030110000430300] Lotta al covo del Team Galassia!
+[quest_title_1030110000430800] VS Reclute del Team Galassia 3
+[quest_title_1030110000430400] Le vere intenzioni di Cyrus
+[quest_title_1030110000430900] VS Cyrus
+[quest_title_1030110000430500] Spiriti affini
+[quest_title_1030431200401010] Lotta di buon anno!
+[quest_title_1030312000601000] Arriva il Team Galassia
+[quest_title_1030312000601020] VS Reclute del Team Galassia
+[quest_title_1030312000601030] VS Reclute del Team Galassia 2
+[quest_title_1030312000601040] VS Reclute del Team Galassia 3
+[quest_title_1030312000601050] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030312000601010] Un mondo di assoluta perfezione
+[quest_title_1030312000603000] Un nuovo anno elettrizzante
+[quest_title_1030312000603010] Una premonizione nefasta
+[quest_title_1030312000603050] VS Vulcano
+[quest_title_1030312000603020] Una serie di dure lotte
+[quest_title_1030312000603060] VS Vulcano 2
+[quest_title_1030312000603030] La causa del problema
+[quest_title_1030312000603070] VS Vulcano 3
+[quest_title_1030312000603040] Un'atmosfera animata, ma rilassante
+[quest_title_1030312000603080] VS Vulcano 4
+[quest_title_1030312000603090] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030312000603100] Sfida ad alta difficoltà
+[quest_title_1030312000603110] Sfida ad alta difficoltà 2
+[quest_title_1030431200501010] VS Drake
+[quest_title_1030431200502010] VS Drake 2
+[quest_title_1030431200503010] VS Drake 3
+[quest_title_1030431200504010] VS Drake 4
+[quest_title_1030431200700010] A ciascuno il suo stile
+[quest_title_1030431200702010] VS Team Break
+[quest_title_1030431200703010] VS Team Break 2
+[quest_title_1030431200704010] VS Team Break 3
+[quest_title_1030431200705010] VS Team Break 4
+[quest_title_1030431200706010] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030431200701010] Un tratto distintivo, e degli alleati preziosi
+[quest_title_1030220162000000] Un giorno con Lucas
+[quest_title_1030220091200000] Un giorno con Camilla Costumax (archeologa)
+[quest_title_1030312000602070] Insieme agli amici di Sinnoh
+[quest_title_1030312000602080] Insieme agli amici di Sinnoh 2
+[quest_title_1030312000602010] VS Reclute del Team Galassia
+[quest_title_1030312000602020] VS Reclute del Team Galassia 2
+[quest_title_1030312000602030] VS Reclute del Team Galassia 3
+[quest_title_1030312000602040] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030312000602050] Sfida ad alta difficoltà
+[quest_title_1030312000602060] Sfida ad alta difficoltà 2
+[quest_title_1030312001010060] VS Ghecis 6
+[quest_title_1030312001020050] VS Platan 3
+[quest_title_1030312001040050] VS Gloria 5
+[quest_group_title_100207] Lo scudo che ulula all'eternità
+[quest_group_title_100204] Padre... o nemico?
+[quest_group_title_100203] Spiriti in un nuovo mondo
+[quest_group_title_100205] Chi dà e chi prende
 
 ===========
 story_quest_name_ja.lsd
@@ -12750,6 +13105,71 @@ story_quest_name_ja.lsd
 [quest_title_1030310000603050] １日１回限定・高難度バトル！
 [quest_title_1030310000604050] １日１回限定・高難度バトル！
 [quest_title_1030310000602050] １日１回限定・高難度バトル！
+[quest_group_title_10115400000] デンジ
+（２２シーズン）
+[quest_group_title_10114400000] ナツメ
+（２２シーズン）
+[quest_group_title_10162000000] コウキ
+[quest_group_title_10091200000] マジコスシロナ
+（アナザー）
+[quest_group_title_100102] シンオウ編
+[quest_group_detail_100102] ギンガ団と黒き夢
+[quest_title_1030110000430100] 動きだすギンガ団
+[quest_title_1030110000430600] ＶＳ　ギンガ団のしたっぱ
+[quest_title_1030110000430200] 真っ黒な夢
+[quest_title_1030110000430700] ＶＳ　ギンガ団のしたっぱ２
+[quest_title_1030110000430300] ギンガ団アジトでの攻防戦！
+[quest_title_1030110000430800] ＶＳ　ギンガ団のしたっぱ３
+[quest_title_1030110000430400] アカギの真意
+[quest_title_1030110000430900] ＶＳ　アカギ
+[quest_title_1030110000430500] 結びつく心
+[quest_title_1030431200401010] ハッピーニューイヤーバトル！
+[quest_title_1030312000601000] ワレワレは……
+[quest_title_1030312000601020] ＶＳ　ギンガ団のしたっぱ
+[quest_title_1030312000601030] ＶＳ　ギンガ団のしたっぱ２
+[quest_title_1030312000601040] ＶＳ　ギンガ団のしたっぱ３
+[quest_title_1030312000601050] １日１回限定・高難度バトル！
+[quest_title_1030312000601010] 完全なる証明へ
+[quest_title_1030312000603000] しびれる新年
+[quest_title_1030312000603010] 騒がしさの予感
+[quest_title_1030312000603050] ＶＳ　オーバ
+[quest_title_1030312000603020] 連戦！　強敵バディーズ！
+[quest_title_1030312000603060] ＶＳ　オーバ２
+[quest_title_1030312000603030] 事件の原因は……？
+[quest_title_1030312000603070] ＶＳ　オーバ３
+[quest_title_1030312000603040] 不思議と落ち着く騒がしさ
+[quest_title_1030312000603080] ＶＳ　オーバ４
+[quest_title_1030312000603090] １日１回限定・高難度バトル！
+[quest_title_1030312000603100] チャレンジバトルで勝負！
+[quest_title_1030312000603110] チャレンジバトルで勝負！２
+[quest_title_1030431200501010] ＶＳ　ゲンジ
+[quest_title_1030431200502010] ＶＳ　ゲンジ２
+[quest_title_1030431200503010] ＶＳ　ゲンジ３
+[quest_title_1030431200504010] ＶＳ　ゲンジ４
+[quest_title_1030431200700010] それぞれの想いがあるんだ！
+[quest_title_1030431200702010] ＶＳ　ブレイク団
+[quest_title_1030431200703010] ＶＳ　ブレイク団２
+[quest_title_1030431200704010] ＶＳ　ブレイク団３
+[quest_title_1030431200705010] ＶＳ　ブレイク団４
+[quest_title_1030431200706010] １日１回限定・高難度バトル！
+[quest_title_1030431200701010] 譲れないトレードマーク
+[quest_title_1030220162000000] とある日のコウキ
+[quest_title_1030220091200000] とある日のマジコスシロナ
+[quest_title_1030312000602070] シンオウの仲間と挑戦
+[quest_title_1030312000602080] シンオウの仲間と挑戦２
+[quest_title_1030312000602010] ＶＳ　ギンガ団のしたっぱ
+[quest_title_1030312000602020] ＶＳ　ギンガ団のしたっぱ２
+[quest_title_1030312000602030] ＶＳ　ギンガ団のしたっぱ３
+[quest_title_1030312000602040] １日１回限定・高難度バトル！
+[quest_title_1030312000602050] チャレンジバトルで勝負！
+[quest_title_1030312000602060] チャレンジバトルで勝負！２
+[quest_title_1030312001010060] ＶＳ　ゲーチス６
+[quest_title_1030312001020050] ＶＳ　プラターヌ３
+[quest_title_1030312001040050] ＶＳ　ユウリ５
+[quest_group_title_100207] 流星にほえる赤き盾
+[quest_group_title_100204] 黒白の親子が求めた解
+[quest_group_title_100203] 新世界で交錯する心
+[quest_group_title_100205] 与えるものと奪うもの
 
 ===========
 story_quest_name_ko.lsd
@@ -14681,6 +15101,71 @@ story_quest_name_ko.lsd
 [quest_title_1030310000603050] 1일 1회 한정 고난도 배틀!
 [quest_title_1030310000604050] 1일 1회 한정 고난도 배틀!
 [quest_title_1030310000602050] 1일 1회 한정 고난도 배틀!
+[quest_group_title_10115400000] 전진
+(22시즌)
+[quest_group_title_10114400000] 초련
+(22시즌)
+[quest_group_title_10162000000] 광휘
+[quest_group_title_10091200000] 궁극코스 난천
+(어나더)
+[quest_group_title_100102] 신오지방 편
+[quest_group_detail_100102] 갤럭시단과 검은 꿈
+[quest_title_1030110000430100] 움직이기 시작한 갤럭시단
+[quest_title_1030110000430600] VS 갤럭시단의 조무래기
+[quest_title_1030110000430200] 새까만 꿈
+[quest_title_1030110000430700] VS 갤럭시단의 조무래기2
+[quest_title_1030110000430300] 갤럭시단 아지트에서 공방전!
+[quest_title_1030110000430800] VS 갤럭시단의 조무래기3
+[quest_title_1030110000430400] 태홍의 진의
+[quest_title_1030110000430900] VS 태홍
+[quest_title_1030110000430500] 이어지는 마음
+[quest_title_1030431200401010] 해피 뉴 이어 배틀!
+[quest_title_1030312000601000] 우리는...
+[quest_title_1030312000601020] VS 갤럭시단의 조무래기
+[quest_title_1030312000601030] VS 갤럭시단의 조무래기2
+[quest_title_1030312000601040] VS 갤럭시단의 조무래기3
+[quest_title_1030312000601050] 1일 1회 한정 고난도 배틀!
+[quest_title_1030312000601010] 완전한 증명
+[quest_title_1030312000603000] 짜릿한 새해
+[quest_title_1030312000603010] 소란스러운 예감
+[quest_title_1030312000603050] VS 대엽
+[quest_title_1030312000603020] 연속 배틀! 강적 버디즈!
+[quest_title_1030312000603060] VS 대엽2
+[quest_title_1030312000603030] 사건의 원인은...?
+[quest_title_1030312000603070] VS 대엽3
+[quest_title_1030312000603040] 신비롭게 진정된 소란스러움
+[quest_title_1030312000603080] VS 대엽4
+[quest_title_1030312000603090] 1일 1회 한정 고난도 배틀!
+[quest_title_1030312000603100] 챌린지배틀로 승부!
+[quest_title_1030312000603110] 챌린지배틀로 승부!2
+[quest_title_1030431200501010] VS 권수
+[quest_title_1030431200502010] VS 권수2
+[quest_title_1030431200503010] VS 권수3
+[quest_title_1030431200504010] VS 권수4
+[quest_title_1030431200700010] 각자의 마음이 있는 거야!
+[quest_title_1030431200702010] VS 브레이크단
+[quest_title_1030431200703010] VS 브레이크단2
+[quest_title_1030431200704010] VS 브레이크단3
+[quest_title_1030431200705010] VS 브레이크단4
+[quest_title_1030431200706010] 1일 1회 한정 고난도 배틀!
+[quest_title_1030431200701010] 양보할 수 없는 트레이드마크
+[quest_title_1030220162000000] 광휘의 어느 날
+[quest_title_1030220091200000] 궁극코스 난천의 어느 날
+[quest_title_1030312000602070] 신오지방의 동료와 도전하자
+[quest_title_1030312000602080] 신오지방의 동료와 도전하자2
+[quest_title_1030312000602010] VS 갤럭시단의 조무래기
+[quest_title_1030312000602020] VS 갤럭시단의 조무래기2
+[quest_title_1030312000602030] VS 갤럭시단의 조무래기3
+[quest_title_1030312000602040] 1일 1회 한정 고난도 배틀!
+[quest_title_1030312000602050] 챌린지배틀로 승부!
+[quest_title_1030312000602060] 챌린지배틀로 승부!2
+[quest_title_1030312001010060] VS 게치스6
+[quest_title_1030312001020050] VS 플라타느3
+[quest_title_1030312001040050] VS 우리5
+[quest_group_title_100207] 유성에 울부짖는 붉은 방패
+[quest_group_title_100204] 흑백의 가족이 추구한 답
+[quest_group_title_100203] 신세계에서 교착하는 마음
+[quest_group_title_100205] 주는 자와 뺏는 자
 
 ===========
 story_quest_name_zh-TW.lsd
@@ -16612,6 +17097,71 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030310000603050] １天僅限１次的高難度對戰！
 [quest_title_1030310000604050] １天僅限１次的高難度對戰！
 [quest_title_1030310000602050] １天僅限１次的高難度對戰！
+[quest_group_title_10115400000] 電次
+（２０２２新春）
+[quest_group_title_10114400000] 娜姿
+（２０２２新春）
+[quest_group_title_10162000000] 明輝
+[quest_group_title_10091200000] 美極套裝竹蘭
+（異裝）
+[quest_group_title_100102] 神奧篇
+[quest_group_detail_100102] 銀河隊與黑色的夢
+[quest_title_1030110000430100] 開始行動的銀河隊
+[quest_title_1030110000430600] ＶＳ　銀河隊手下
+[quest_title_1030110000430200] 漆黑的夢
+[quest_title_1030110000430700] ＶＳ　銀河隊手下２
+[quest_title_1030110000430300] 在銀河隊據點的攻防戰！
+[quest_title_1030110000430800] ＶＳ　銀河隊手下３
+[quest_title_1030110000430400] 赤日真正的目的
+[quest_title_1030110000430900] ＶＳ　赤日
+[quest_title_1030110000430500] 相連的心
+[quest_title_1030431200401010] 新年快樂大對戰！
+[quest_title_1030312000601000] 我們是……
+[quest_title_1030312000601020] ＶＳ　銀河隊手下
+[quest_title_1030312000601030] ＶＳ　銀河隊手下２
+[quest_title_1030312000601040] ＶＳ　銀河隊手下３
+[quest_title_1030312000601050] １天僅限１次的高難度對戰！
+[quest_title_1030312000601010] 邁向完美的證明
+[quest_title_1030312000603000] 令人酥麻的新年
+[quest_title_1030312000603010] 發生騷動的預感
+[quest_title_1030312000603050] ＶＳ　大葉
+[quest_title_1030312000603020] 連續對戰！強敵拍組！
+[quest_title_1030312000603060] ＶＳ　大葉２
+[quest_title_1030312000603030] 事件的原因是……？
+[quest_title_1030312000603070] ＶＳ　大葉３
+[quest_title_1030312000603040] 讓人莫名平靜的騷動
+[quest_title_1030312000603080] ＶＳ　大葉４
+[quest_title_1030312000603090] １天僅限１次的高難度對戰！
+[quest_title_1030312000603100] 用挑戰對戰決勝負！
+[quest_title_1030312000603110] 用挑戰對戰決勝負！２
+[quest_title_1030431200501010] ＶＳ　源治
+[quest_title_1030431200502010] ＶＳ　源治２
+[quest_title_1030431200503010] ＶＳ　源治３
+[quest_title_1030431200504010] ＶＳ　源治４
+[quest_title_1030431200700010] 各有各的想法！
+[quest_title_1030431200702010] ＶＳ　破壞隊
+[quest_title_1030431200703010] ＶＳ　破壞隊２
+[quest_title_1030431200704010] ＶＳ　破壞隊３
+[quest_title_1030431200705010] ＶＳ　破壞隊４
+[quest_title_1030431200706010] １天僅限１次的高難度對戰！
+[quest_title_1030431200701010] 不可妥協的個人特色
+[quest_title_1030220162000000] 某日的明輝
+[quest_title_1030220091200000] 某日的美極套裝竹蘭
+[quest_title_1030312000602070] 與神奧的夥伴一起挑戰
+[quest_title_1030312000602080] 與神奧的夥伴一起挑戰２
+[quest_title_1030312000602010] ＶＳ　銀河隊手下
+[quest_title_1030312000602020] ＶＳ　銀河隊手下２
+[quest_title_1030312000602030] ＶＳ　銀河隊手下３
+[quest_title_1030312000602040] １天僅限１次的高難度對戰！
+[quest_title_1030312000602050] 用挑戰對戰決勝負！
+[quest_title_1030312000602060] 用挑戰對戰決勝負！２
+[quest_title_1030312001010060] ＶＳ　魁奇思６
+[quest_title_1030312001020050] ＶＳ　布拉塔諾３
+[quest_title_1030312001040050] ＶＳ　小優５
+[quest_group_title_100207] 朝流星咆嘯的藏紅之盾
+[quest_group_title_100204] 黑白父子尋求的答案
+[quest_group_title_100203] 在新世界交錯的心
+[quest_group_title_100205] 給予者與掠奪者
 
 ===========
 trainer_description_de.lsd
@@ -17257,6 +17807,22 @@ beschützen.
 mysteriöser Anmut am Meeresufer stehend, lässt er das
 Schicksal mit einem Münzwurf über seine Pläne für die
 Zukunft entscheiden.
+[10162000000] Dieser Trainer aus Sinnoh ist der Assistent von Professor
+Eibe, einem Experten für die Entwicklung von Pokémon. 
+Sein freundliches Wesen sowie sein starker 
+Gerechtigkeitssinn zeichnen ihn aus.
+[10091200000] Cynthias Machtmontur verbreitet eine geheimnisvolle Aura.
+Gemeinsam mit ihrem Partner Giratina untersucht sie die
+Mythen und Legenden, die sich um Pokémon ranken.
+[10114400000] Sabrina hat sich in ein besonderes Kleid geworfen, um
+das neue Jahr willkommen zu heißen. In ihren
+Vorahnungen kann sie Bruchstücke der Zukunft sehen.
+Das Klingeln von Klingplims Kugel beruhigt ihren Geist und
+stählt sie für kommende Herausforderungen.
+[10115400000] Volkner hat sich in ein besonderes Outfit geworfen, um
+das neue Jahr willkommen zu heißen. Zusammen mit
+Elevoltek ist er ständig auf der Suche nach dem nächsten
+elektrisierenden Kampf gegen einen starken Gegner.
 
 ===========
 trainer_description_en.lsd
@@ -17847,6 +18413,19 @@ to protect humans and Pokémon alike.
 [10048800000] Grimsley’s back in something different from his usual look.
 He’s been spotted standing at the beach alone, 
 mysteriously flipping coins to decide tomorrow’s fate.
+[10162000000] This Trainer is from Sandgem Town in the Sinnoh region.
+With a kind soul and strong sense of justice, he’s also an
+assistant to Professor Rowan, the authority on
+Pokémon Evolution.
+[10091200000] Cynthia is wearing a mysterious-looking sygna suit.
+Together with her partner Giratina, she’s ready to uncover
+the mysteries hidden around the world.
+[10114400000] Sabrina is in a festive outfit to celebrate the new year.
+She soothes her mind, which at times shows her glimpses
+of the future, by listening to the chime of Chingling’s bell.
+[10115400000] Volkner is wearing a special outfit to celebrate the new
+year. With his partner Electivire, he’s hoping to find
+strong opponents to have electrifying battles with.
 
 ===========
 trainer_description_es.lsd
@@ -18539,6 +19118,21 @@ para proteger a los demás.
 [10048800000] Aza no parece el mismo de siempre con este kimono. 
 Un halo de misterio lo rodea en la apartada orilla donde
 confía su futuro al destino lanzando una moneda al aire.
+[10162000000] Entrenador procedente de Pueblo Arena, en la región de
+Sinnoh. Es el ayudante del Profesor Serbal, una autoridad
+en el campo de la evolución Pokémon. León destaca por
+su buen corazón y su gran sentido de la justicia.
+[10091200000] El nuevo Traje S de Cintia le da un aire enigmático. Junto
+a su compi Giratina, desentraña todos los misterios que se
+cruzan en su camino.
+[10114400000] Sabrina se ha vestido con un traje especial para dar la
+bienvenida al nuevo año. Gracias al relajante sonido que
+emite Chingling, su espíritu está en calma y dispuesto a
+enfrentarse a todo lo que le depare el porvenir.
+[10115400000] Lectro se ha puesto un traje nuevo para empezar bien el
+año. Él y su poderoso compi, Electivire, van siempre en
+busca de oponentes que den la talla para librar combates
+electrizantes.
 
 ===========
 trainer_description_fr.lsd
@@ -19175,6 +19769,20 @@ humains et Pokémon.
 [10048800000] Pieris, contrairement à son habitude, porte un kimono.
 Il tire à pile ou face et remet son destin entre les mains
 du hasard. Il apparaît très mystérieux, seul sur la côte.
+[10162000000] Un Dresseur originaire de Littorella, dans la région
+de Sinnoh. Il est l'assistant du Professeur Sorbier,
+expert reconnu en évolution. Il a bon cœur
+et un grand sens de la justice.
+[10091200000] Vêtue de son deuxième Look Ultime, Cynthia dégage
+une aura mystérieuse. Avec son partenaire Pokémon,
+Giratina, elle étudie les mythes et légendes
+du monde entier.
+[10114400000] Morgane a revêtu une tenue spéciale pour le Nouvel An.
+Elle se prépare à affronter un futur incertain en faisant
+le vide dans son esprit grâce au tintement de Korillon.
+[10115400000] Tanguy a revêtu une tenue spéciale pour le Nouvel An.
+Toujours à la recherche d'adversaires coriaces, il continue
+à relever des défis électrisants aux côtés d'Élekable.
 
 ===========
 trainer_description_it.lsd
@@ -19820,6 +20428,20 @@ per proteggere sia le persone che i Pokémon.
 [10048800000] Mirton ha scelto uno stile diverso dal solito e indossa
 un kimono. Ha un'aria molto misteriosa e lascia che sia
 il lancio di una moneta a indicargli la via verso il futuro.
+[10162000000] Un Allenatore proveniente da Sabbiafine, nella regione
+di Sinnoh. Lavora come assistente del Professor Rowan,
+un'autorità nel campo delle evoluzioni. Ha un animo
+gentile e un forte senso di giustizia.
+[10091200000] Camilla indossa un Costumax che emana un'aura
+misteriosa. Porta alla luce i segreti del mondo insieme
+al suo compagno Giratina.
+[10114400000] Sabrina indossa un abito speciale in onore dell'anno
+nuovo. Per prepararsi a un futuro che può palesarsi
+all'improvviso, calma la sua mente ascoltando i trilli
+di Chingling.
+[10115400000] Corrado indossa un abito speciale in onore dell'anno
+nuovo. Sempre in cerca di avversari capaci, continua
+a vivere sfide elettrizzanti insieme a Electivire.
 
 ===========
 trainer_description_ja.lsd
@@ -20409,6 +21031,18 @@ trainer_description_ja.lsd
 [10048800000] いつもとは　違う　着流し姿の　ギーマ。
 明日の　行方を　一枚の　コインに　委ね
 海辺に　ひとり　たたずむ姿は　謎めいている。
+[10162000000] シンオウ地方　マサゴタウン　出身の　トレーナー。
+進化の権威　ナナカマド博士の　助手を　している。
+正義感が　強く　優しい　性格。
+[10091200000] 不思議な　雰囲気の　マジコスを　身にまとった
+シロナ。　バディの　ギラティナと　共に
+世界に　秘められた　謎に　挑む。
+[10114400000] 新年を迎え　特別な衣装を　着た　ナツメ。
+ふとした瞬間に　みえる　未来に　備えて
+リーシャンの　鈴の音を　ききながら　心を静める。
+[10115400000] 新年を迎え　特別な衣装を　着た　デンジ。
+強者との　新しい　出会いを　求めて
+エレキブルと　共に　しびれる　勝負を　続ける。
 
 ===========
 trainer_description_ko.lsd
@@ -20998,6 +21632,18 @@ WPM 운영위원회의 대표도 맡고 있다.
 [10048800000] 평소와는 다른 편한 모습을 한 블래리.
 내일 있을 일을 코인 1개에 맡기고
 해변에서 혼자 서 있는 모습은 수수께끼와도 같다.
+[10162000000] 신오지방의 잔모래마을 출신 트레이너.
+진화의 권위자 마박사의 조수이다.
+정의감이 강하며 상냥한 성격을 가졌다.
+[10091200000] 신비한 분위기의 궁극코스를 입은 난천.
+버디인 기라티나와 함께
+세계에 숨겨진 비밀에 도전한다.
+[10114400000] 신년을 맞아 특별한 의상을 입은 초련.
+순간적으로 보이는 미래에 대비해
+랑딸랑의 방울 소리를 들으며 마음을 진정시킨다.
+[10115400000] 신년을 맞아 특별한 의상을 입은 전진.
+강한 자와의 새로운 만남을 추구하며
+에레키블과 함께 짜릿한 승부를 계속한다.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -21586,6 +22232,18 @@ trainer_description_zh-TW.lsd
 [10048800000] 打扮不同以往，身穿便裝的越橘。
 將未來的去向寄託於一枚硬幣，
 獨自佇立在海岸邊的身影很是神秘。
+[10162000000] 來自神奧地區真砂鎮的訓練家。
+他是研究進化的權威山梨博士的助手。
+正義感強烈，為人溫和柔順。
+[10091200000] 身穿神秘風格美極套裝的竹蘭。
+她和拍檔騎拉帝納一起面對
+隱藏在這世上的謎團。
+[10114400000] 穿上特別服裝來迎接新年的娜姿。
+她一邊聽著鈴鐺響的鈴聲，一邊沉澱心靈，
+為不經意間看到的未來做準備。
+[10115400000] 穿上特別服裝來迎接新年的電次。
+他渴望與新的強者相遇，
+不斷和電擊魔獸一起享受渾身酥麻的對戰。
 
 ===========
 trainer_name_de.lsd
@@ -21736,6 +22394,7 @@ trainer_name_de.lsd
 [ch0159] Perenus
 [ch0160] Tracy
 [ch0161] Hala
+[ch0162] Lucius
 [ch0170] Artie
 [ch0183] Marlon
 [ch0190] Ryuki
@@ -21747,6 +22406,10 @@ trainer_name_de.lsd
 [ch0198] Lotte
 [ch0205] Soir
 [ch0215] Xenia
+[ch0217] LeBelle
+[ch0225] Mars
+[ch0226] Jupiter
+[ch0227] Saturn
 [ch0240] Jessie
 [ch0241] James
 [ch0243] Gloria
@@ -21761,6 +22424,8 @@ trainer_name_de.lsd
 [ch0259] Sania
 [ch0640] Rüpel von Team Rocket
 [ch0641] Rüpel von Team Rocket
+[ch0538] Galaktik Rüpel
+[ch0539] Galaktik Rüpel
 
 ===========
 trainer_name_en.lsd
@@ -21911,6 +22576,7 @@ trainer_name_en.lsd
 [ch0159] Darach
 [ch0160] Lana
 [ch0161] Hala
+[ch0162] Lucas
 [ch0170] Burgh
 [ch0183] Molayne
 [ch0190] Ryuki
@@ -21922,6 +22588,10 @@ trainer_name_en.lsd
 [ch0198] Lucy
 [ch0205] Evelyn
 [ch0215] Lisia
+[ch0217] Looker
+[ch0225] Mars
+[ch0226] Jupiter
+[ch0227] Saturn
 [ch0240] Jessie
 [ch0241] James
 [ch0243] Gloria
@@ -21936,6 +22606,8 @@ trainer_name_en.lsd
 [ch0259] Sonia
 [ch0640] Team Rocket Grunt
 [ch0641] Team Rocket Grunt
+[ch0538] Team Galactic Grunt
+[ch0539] Team Galactic Grunt
 
 ===========
 trainer_name_es.lsd
@@ -22086,6 +22758,7 @@ trainer_name_es.lsd
 [ch0159] Kokuran
 [ch0160] Nereida
 [ch0161] Kaudan
+[ch0162] León
 [ch0170] Camus
 [ch0183] Lario
 [ch0190] Olano
@@ -22097,6 +22770,10 @@ trainer_name_es.lsd
 [ch0198] Fortunia
 [ch0205] Vésper
 [ch0215] Ariana
+[ch0217] Handsome
+[ch0225] Venus
+[ch0226] Ceres
+[ch0227] Saturno
 [ch0240] Jessie
 [ch0241] James
 [ch0243] Gloria
@@ -22111,6 +22788,8 @@ trainer_name_es.lsd
 [ch0259] Sonia
 [ch0640] Recluta del Team Rocket
 [ch0641] Recluta del Team Rocket
+[ch0538] Recluta del Equipo Galaxia
+[ch0539] Recluta del Equipo Galaxia
 
 ===========
 trainer_name_fr.lsd
@@ -22261,6 +22940,7 @@ trainer_name_fr.lsd
 [ch0159] Parsley
 [ch0160] Néphie
 [ch0161] Pectorius
+[ch0162] Louka
 [ch0170] Artie
 [ch0183] Molène
 [ch0190] Solane
@@ -22272,6 +22952,10 @@ trainer_name_fr.lsd
 [ch0198] Charline
 [ch0205] Vesper
 [ch0215] Atalante
+[ch0217] Beladonis
+[ch0225] Mars
+[ch0226] Jupiter
+[ch0227] Saturne
 [ch0240] Jessie
 [ch0241] James
 [ch0243] Gloria
@@ -22286,6 +22970,8 @@ trainer_name_fr.lsd
 [ch0259] Sonya
 [ch0640] Sbire Team Rocket
 [ch0641] Sbire Team Rocket
+[ch0538] Sbire Team Galaxie
+[ch0539] Sbire Team Galaxie
 
 ===========
 trainer_name_it.lsd
@@ -22436,6 +23122,7 @@ trainer_name_it.lsd
 [ch0159] Paride
 [ch0160] Suiren
 [ch0161] Hala
+[ch0162] Lucas
 [ch0170] Artemisio
 [ch0183] Tapso
 [ch0190] Morel
@@ -22447,6 +23134,10 @@ trainer_name_it.lsd
 [ch0198] Fortunata
 [ch0205] Vespera
 [ch0215] Orthilla
+[ch0217] Bellocchio
+[ch0225] Martes
+[ch0226] Giovia
+[ch0227] Saturno
 [ch0240] Jessie
 [ch0241] James
 [ch0243] Gloria
@@ -22461,6 +23152,8 @@ trainer_name_it.lsd
 [ch0259] Sonia
 [ch0640] Recluta del Team Rocket
 [ch0641] Recluta del Team Rocket
+[ch0538] Recluta del Team Galassia
+[ch0539] Recluta del Team Galassia
 
 ===========
 trainer_name_ja.lsd
@@ -22611,6 +23304,7 @@ trainer_name_ja.lsd
 [ch0159] コクラン
 [ch0160] スイレン
 [ch0161] ハラ
+[ch0162] コウキ
 [ch0170] アーティ
 [ch0183] マーレイン
 [ch0190] リュウキ
@@ -22622,6 +23316,10 @@ trainer_name_ja.lsd
 [ch0198] アザミ
 [ch0205] ルスワール
 [ch0215] ルチア
+[ch0217] ハンサム
+[ch0225] マーズ
+[ch0226] ジュピター
+[ch0227] サターン
 [ch0240] ムサシ
 [ch0241] コジロウ
 [ch0243] ユウリ
@@ -22636,6 +23334,8 @@ trainer_name_ja.lsd
 [ch0259] ソニア
 [ch0640] ロケットだんの　したっぱ
 [ch0641] ロケットだんの　したっぱ
+[ch0538] ギンガだんの　したっぱ
+[ch0539] ギンガだんの　したっぱ
 
 ===========
 trainer_name_ko.lsd
@@ -22786,6 +23486,7 @@ trainer_name_ko.lsd
 [ch0159] 코크런
 [ch0160] 수련
 [ch0161] 할라
+[ch0162] 광휘
 [ch0170] 아티
 [ch0183] 멀레인
 [ch0190] 용규
@@ -22797,6 +23498,10 @@ trainer_name_ko.lsd
 [ch0198] 다슬
 [ch0205] 르수아르
 [ch0215] 루티아
+[ch0217] 핸섬
+[ch0225] 마스
+[ch0226] 주피터
+[ch0227] 새턴
 [ch0240] 로사
 [ch0241] 로이
 [ch0243] 우리
@@ -22811,6 +23516,8 @@ trainer_name_ko.lsd
 [ch0259] 소니아
 [ch0640] 로켓단의 조무래기
 [ch0641] 로켓단의 조무래기
+[ch0538] 갤럭시단의 조무래기
+[ch0539] 갤럭시단의 조무래기
 
 ===========
 trainer_name_zh-TW.lsd
@@ -22961,6 +23668,7 @@ trainer_name_zh-TW.lsd
 [ch0159] 石蘭
 [ch0160] 水蓮
 [ch0161] 哈拉
+[ch0162] 明輝
 [ch0170] 亞堤
 [ch0183] 馬睿因
 [ch0190] 龍葵
@@ -22972,6 +23680,10 @@ trainer_name_zh-TW.lsd
 [ch0198] 小薊
 [ch0205] 夕絲
 [ch0215] 琉琪亞
+[ch0217] 帥哥
+[ch0225] 夥星
+[ch0226] 歲星
+[ch0227] 鎮星
 [ch0240] 武藏
 [ch0241] 小次郎
 [ch0243] 小優
@@ -22986,6 +23698,8 @@ trainer_name_zh-TW.lsd
 [ch0259] 索妮亞
 [ch0640] 火箭隊手下
 [ch0641] 火箭隊手下
+[ch0538] 銀河隊手下
+[ch0539] 銀河隊手下
 
 ===========
 trainer_verbose_name_de.lsd
@@ -23065,6 +23779,12 @@ trainer_verbose_name_de.lsd
 [10120100000] MaMo-Samantha
 [10106800000] Kamilla
 (Blond)
+[10091200000] MaMo-Cynthia
+(Version 2)
+[10114400000] Sabrina
+(Saison 2022)
+[10115400000] Volkner
+(Saison 2022)
 
 ===========
 trainer_verbose_name_en.lsd
@@ -23148,6 +23868,12 @@ Cynthia
 Lusamine
 [10106800000] Elesa
 (Classic)
+[10091200000] Sygna Suit Cynthia
+(Renegade)
+[10114400000] Sabrina
+(New Year’s 2022)
+[10115400000] Volkner
+(New Year’s 2022)
 
 ===========
 trainer_verbose_name_es.lsd
@@ -23219,6 +23945,12 @@ trainer_verbose_name_es.lsd
 (Temporada 21)
 [10120100000] Samina (Traje S)
 [10106800000] Camila (Original)
+[10091200000] Cintia (Traje S,
+arqueóloga)
+[10114400000] Sabrina
+(Temporada 22)
+[10115400000] Lectro
+(Temporada 22)
 
 ===========
 trainer_verbose_name_fr.lsd
@@ -23295,6 +24027,12 @@ trainer_verbose_name_fr.lsd
 [10120100000] Elsa-Mina
 (Ultime)
 [10106800000] Inezia (Classique)
+[10091200000] Cynthia
+(Ultime 2)
+[10114400000] Morgane
+(Saison 2022)
+[10115400000] Tanguy
+(Saison 2022)
 
 ===========
 trainer_verbose_name_it.lsd
@@ -23375,6 +24113,12 @@ trainer_verbose_name_it.lsd
 [10120100000] Samina Costumax
 [10106800000] Camelia
 (classica)
+[10091200000] Camilla Costumax
+(archeologa)
+[10114400000] Sabrina
+(feste 2022)
+[10115400000] Corrado
+(feste 2022)
 
 ===========
 trainer_verbose_name_ja.lsd
@@ -23455,6 +24199,12 @@ trainer_verbose_name_ja.lsd
 [10120100000] マジコスルザミーネ
 [10106800000] カミツレ
 （アナザー）
+[10091200000] マジコスシロナ
+（アナザー）
+[10114400000] ナツメ
+（２２シーズン）
+[10115400000] デンジ
+（２２シーズン）
 
 ===========
 trainer_verbose_name_ko.lsd
@@ -23535,6 +24285,12 @@ trainer_verbose_name_ko.lsd
 [10120100000] 궁극코스 루자미네
 [10106800000] 카밀레
 (어나더)
+[10091200000] 궁극코스 난천
+(어나더)
+[10114400000] 초련
+(22시즌)
+[10115400000] 전진
+(22시즌)
 
 ===========
 trainer_verbose_name_zh-TW.lsd
@@ -23615,6 +24371,12 @@ trainer_verbose_name_zh-TW.lsd
 [10120100000] 美極套裝露莎米奈
 [10106800000] 小菊兒
 （合眾）
+[10091200000] 美極套裝竹蘭
+（異裝）
+[10114400000] 娜姿
+（２０２２新春）
+[10115400000] 電次
+（２０２２新春）
 
 ===========
 common_widget_de.lsd
@@ -23650,6 +24412,10 @@ common_widget_de.lsd
 [common_widget/cell_043] Im Gang
 [common_widget/cell_045] 6★ EX
 [common_widget/cell_046] Nicht im Besitz
+[common_widget/cell_047] 1 Sieg
+[common_widget/cell_048] [Digit:3digits ] Siege in Folge
+[common_widget/cell_049] Nach [Digit:3digits ] Siegen in Folge
+[common_widget/cell_050] Hauptpreis
 [common_widget/button_001] OK
 [common_widget/button_002] Ja
 [common_widget/button_003] Nein
@@ -23802,6 +24568,10 @@ eingetauscht.
 [common_widget/dialog_077] Auf diesem Bildschirm ist die Schaltfläche, die dich zur vorherigen Ansicht zurückkehren lässt, nicht verfügbar.
 [common_widget/dialog_078] Hinweis: Nach dem Gefährten-Upgrade kann das Gefährtengespann nicht mehr in seinen ursprünglichen Zustand zurückkehren.
 [common_widget/dialog_079] Hinweis: Das Potenzial und der Level des Gefährtengespanns werden übernommen.
+[common_widget/dialog_081] Du kannst derzeit nicht beginnen, da
+sich Gefährten in deinem Team
+befinden, die bereits dem Team im
+Legenden-Turnier zugewiesen sind.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -24163,6 +24933,10 @@ common_widget_en.lsd
 [common_widget/cell_043] In progress
 [common_widget/cell_045] 6★ EX
 [common_widget/cell_046] Not Acquired
+[common_widget/cell_047] 1 win
+[common_widget/cell_048] [Digit:3digits ] wins
+[common_widget/cell_049] [Digit:3digits ]+ wins
+[common_widget/cell_050] Featured Rewards
 [common_widget/button_001] OK
 [common_widget/button_002] Yes
 [common_widget/button_003] No
@@ -24302,6 +25076,10 @@ moves and move level will level up.
 [common_widget/dialog_077] The back button cannot be used on this screen.
 [common_widget/dialog_078] After a power boost, the sync pair cannot be returned to its prior state.
 [common_widget/dialog_079] Any power-ups or level-ups already applied to this sync pair will be carried over.
+[common_widget/dialog_081] One or more sync pairs on your team
+have already participated in a
+Legendary Gauntlet battle. Please edit
+your team.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -24634,6 +25412,10 @@ common_widget_es.lsd
 [common_widget/cell_043] En curso
 [common_widget/cell_045] 6★ EX
 [common_widget/cell_046] No obtenidos
+[common_widget/cell_047] 1 victoria
+[common_widget/cell_048] [Digit:3digits ] victorias
+[common_widget/cell_049] Más de [Digit:3digits ] victorias
+[common_widget/cell_050] Premio especial
 [common_widget/button_001] Vale
 [common_widget/button_002] Sí
 [common_widget/button_003] No
@@ -24786,6 +25568,9 @@ de dicha pareja.
 compis no podrá volver a su estado anterior.
 [common_widget/dialog_079] Aviso: Se conservarán los aumentos de nivel y potencia
 que ya tuviera la pareja de compis.
+[common_widget/dialog_081] No puedes participar con compis que
+ya hayan participado en un combate
+de la Aventura Legendaria.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Nv.
 [common_widget/trainer_detail_004] MÁX.
@@ -25121,6 +25906,10 @@ common_widget_fr.lsd
 [common_widget/cell_043] En cours
 [common_widget/cell_045] 6★ EX
 [common_widget/cell_046] Non obtenu
+[common_widget/cell_047] 1 victoire
+[common_widget/cell_048] [Digit:3digits ] victoires consécutives
+[common_widget/cell_049] [Digit:3digits ] victoires consécutives ou plus
+[common_widget/cell_050] Grand prix
 [common_widget/button_001] OK
 [common_widget/button_002] Oui
 [common_widget/button_003] Non
@@ -25264,6 +26053,10 @@ Le niveau de ses capacités et de sa capacité Duo augmentera toutes les fois su
 [common_widget/dialog_077] L'utilisation du bouton retour est impossible ici.
 [common_widget/dialog_078] Une fois le renforcement effectué, le Duo ne pourra pas revenir à l'état précédant son amélioration.
 [common_widget/dialog_079] L'entraînement du Duo sera maintenu.
+[common_widget/dialog_081] Un ou plusieurs Duos de votre équipe
+ont déjà participé à un autre combat
+de l'Aventure Légendaire.
+Veuillez modifier votre équipe.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] N.
 [common_widget/trainer_detail_004] MAX
@@ -25447,7 +26240,7 @@ activer certaines cases du Plateau Duo-Gemme !
 [Name:PokemonName ]
 [common_widget/cutin_013] Puissance
 augmentée !
-[common_widget/cutin_014] SAUTER
+[common_widget/cutin_014] SAUT
 [common_widget/account_001] Transfert terminé
 [common_widget/account_002] Vos données de jeu de votre
 compte Nintendo ont bien été
@@ -25619,6 +26412,10 @@ common_widget_it.lsd
 [common_widget/cell_043] Sfida in corso
 [common_widget/cell_045] 6★ EX
 [common_widget/cell_046] Non ce l'hai
+[common_widget/cell_047] 1 vittoria
+[common_widget/cell_048] [Digit:3digits ] vittorie consecutive
+[common_widget/cell_049] [Digit:3digits ] o più vittorie consecutive
+[common_widget/cell_050] Ricompensa principale
 [common_widget/button_001] Ok
 [common_widget/button_002] Sì
 [common_widget/button_003] No
@@ -25759,6 +26556,9 @@ e delle sue Unimosse.
 [common_widget/dialog_078] Una volta rinforzata, l'Unità non potrà più tornare
 al suo stato originale.
 [common_widget/dialog_079] Lo stato di allenamento dell'Unità verrà mantenuto.
+[common_widget/dialog_081] Non puoi partire perché hai in squadra
+una o più Unità già partite per la Sfida
+Leggendaria.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] L.
 [common_widget/trainer_detail_004] MAX
@@ -26102,6 +26902,10 @@ common_widget_ja.lsd
 [common_widget/cell_043] 挑戦中
 [common_widget/cell_045] ★6EX
 [common_widget/cell_046] 未所持
+[common_widget/cell_047] 1勝
+[common_widget/cell_048] [Digit:3digits ]連勝
+[common_widget/cell_049] [Digit:3digits ]連勝以降
+[common_widget/cell_050] 目玉報酬
 [common_widget/button_001] OK
 [common_widget/button_002] はい
 [common_widget/button_003] いいえ
@@ -26237,6 +27041,9 @@ EXカラー衣装が　かくとくできます
 [common_widget/dialog_077] この画面でバックキーは使用できません
 [common_widget/dialog_078] ※獲得すると　強化前の状態に　戻すことはできません
 [common_widget/dialog_079] ※バディーズの育成状況は　引き継がれます
+[common_widget/dialog_081] レジェンドアドベンチャーの
+バトルで既に出発済みのバディーズが
+編成されているため出発できません
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -26593,6 +27400,10 @@ common_widget_ko.lsd
 [common_widget/cell_043] 도전 중
 [common_widget/cell_045] ★6EX
 [common_widget/cell_046] 미보유
+[common_widget/cell_047] 1승
+[common_widget/cell_048] [Digit:3digits ]연승
+[common_widget/cell_049] [Digit:3digits ]연승 이후
+[common_widget/cell_050] 주요 보상
 [common_widget/button_001] OK
 [common_widget/button_002] 네
 [common_widget/button_003] 아니요
@@ -26726,6 +27537,9 @@ EX컬러 의상을 획득할 수 있습니다
 [common_widget/dialog_077] 이 화면에서 뒤로 가기 버튼은 사용할 수 없습니다
 [common_widget/dialog_078] ※획득하면 강화 전 상태로 돌아갈 수 없습니다
 [common_widget/dialog_079] ※버디즈의 육성 상황은 유지됩니다
+[common_widget/dialog_081] 레전드 어드벤처 배틀에
+이미 출발한 버디즈가
+편성되어 있어 출발할 수 없습니다
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -27079,6 +27893,10 @@ common_widget_zh-TW.lsd
 [common_widget/cell_043] 挑戰中
 [common_widget/cell_045] ★6EX
 [common_widget/cell_046] 尚未持有
+[common_widget/cell_047] 1勝
+[common_widget/cell_048] [Digit:3digits ]連勝
+[common_widget/cell_049] [Digit:3digits ]連勝後
+[common_widget/cell_050] 特級報酬
 [common_widget/button_001] OK
 [common_widget/button_002] 是
 [common_widget/button_003] 否
@@ -27200,6 +28018,9 @@ common_widget_zh-TW.lsd
 [common_widget/dialog_077] 在這個畫面無法使用返回按鈕
 [common_widget/dialog_078] ※獲得後將無法回到強化前的狀態
 [common_widget/dialog_079] ※拍組的培育狀況會維持現狀
+[common_widget/dialog_081] 有已出發的拍組被編制在
+傳說冒險的對戰中
+因此無法出發
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -29866,6 +30687,47 @@ Boosts pro Tag gewinnen.
 [home/quest_detail_144] Hinweis: Stärke-Boni gelten für die folgenden Statuswerte: Angriff, Verteidigung, Sp.-Ang. und Sp.-Vert.
 Boni werden nicht addiert. Gefährten mit mehreren Attributen erhalten nur den Bonus mit dem größten Effekt. 
 [home/quest_detail_145] Im Besitz
+[home/quest_detail_146] Droprate
+[home/quest_detail_148] Siege bis zur nächsten Stufe: [Digit:3digits ]
+[home/quest_detail_149] Spezial-Drops
+[home/quest_detail_150] Legenden-Turnier
+[home/quest_detail_151] Baue deine Gewinnserie weiter aus, um
+Eventbelohnungen zu erhalten!
+[home/quest_detail_152] Aktuelle Gewinnserie
+[home/quest_detail_153] Längste Gewinnserie
+[home/quest_detail_154] Eventbelohnung
+[home/quest_detail_155] Erhalte Belohnungen, indem du deine Gewinnserie weiter ausbaust.
+[home/quest_detail_156] Erhöht sich die Droprate durch eine längere Gewinnserie,
+erhöht sich auch die Chance auf Spezial-Drops.
+[home/quest_detail_157] Nötige Gewinnserie zum Erreichen der Droprate
+[home/quest_detail_159] Hinweis: Belohnungen können nicht noch ein Mal abgeholt werden, selbst wenn du den Event zurücksetzt.
+[home/quest_detail_160] Spezial-Drop
+[home/quest_detail_161] Deine Droprate und Chance auf Spezial-Drops erhöhen sich, wenn du die nötige Gewinnserie erreichst.
+[home/quest_detail_162] Hinweis: Wenn du den Event zurücksetzt, fällt deine Droprate auf Stufe 1 zurück.
+
+Hinweis: Belohnungen sind wahrscheinlichkeitsabhängig. Es kann auch vorkommen, dass es keine Belohnung gibt.
+[home/quest_detail_163] Spezial-Drop
+[home/quest_detail_164] Eventbelohnung abholen
+[home/quest_detail_165] Da du alle Kämpfe gewonnen hast, kannst du diese nun mit neuen Gefährten noch ein Mal bestreiten! Baue deine Gewinnserie weiter aus!
+[home/quest_detail_166] Hinweis: Nach dem Zurücksetzen kannst du alle Kämpfe von vorne beginnen. Der bisherige Einsatz deiner Gefährten wird übernommen.
+[home/quest_detail_167] Beim Zurücksetzen des Events wird Folgendes zurückgesetzt:
+
+* der Fortschritt laufender Kämpfe
+* zugewiesene Gefährten
+* die aktuelle Gewinnserie
+* die Droprate
+[home/quest_detail_168] Hinweis: Der Status von abgeholten Belohnungen wird nicht zurückgesetzt. Die Droprate fällt beim Zurücksetzen auf Stufe 1 zurück.
+[home/quest_detail_169] Folgendes wurde zurückgesetzt:
+
+* der Fortschritt laufender Kämpfe
+* zugewiesene Gefährten
+* die aktuelle Gewinnserie
+* die Droprate
+[home/quest_detail_170] 1 Sieg
+[home/quest_detail_171] [Digit:2digits ] Siege in Folge
+[home/quest_detail_172] Stufe [Digit:2digits ]
+[home/quest_detail_173] MAX
+[home/quest_detail_174] ∞
 [home/home_001] Laden
 [home/home_002] Abenteuer
 [home/home_003] Team
@@ -29910,7 +30772,7 @@ Gefährtensuchen sind nun verfügbar:
 Schaue im Laden vorbei, um mehr zu
 erfahren.
 [home/home_036] Ticket-G-Suche
-[home/home_037] Ticket-G-Suche x10
+[home/home_037] G-Suche x10 verfügbar
 [home/home_038] Frohe G-Suche
 [home/home_039] Meisterfestival
 [home/home_040] PokéFestival
@@ -29918,6 +30780,8 @@ erfahren.
 [home/home_042] Die Frohe G-Suche läuft!
 [home/home_043] Trainings-Sets für Gefährten
 [home/home_044] Mit dem Kauf eines Trainings-Sets kannst du Items erhalten, die einige Gefährten auf Level 120 bringen können. Schaue im Laden unter „Spezial-Sets kaufen“ vorbei.
+[home/home_045] Spezial-G-Suche
+[home/home_046] Spezial-G-Suche verfügbar
 [home/home_048] Pokémon-Masters-Tag
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missionen
@@ -30666,6 +31530,58 @@ battle. You can win up to a total of three boosts per day.
 [home/quest_detail_144] Note: Strength bonuses apply to the following stats: Attack, Defense, Sp. Atk, Sp. Def.
 If multiple bonuses apply to the same sync pair, the larger bonus will take effect. (These bonuses do not stack.)
 [home/quest_detail_145] Stock
+[home/quest_detail_146] Drop Rate Level
+[home/quest_detail_148] Wins until Next Level: [Digit:3digits ]
+[home/quest_detail_149] Gauntlet Rewards
+[home/quest_detail_150] Legendary Gauntlet
+[home/quest_detail_151] Get rewards by beating your longest win streak!
+[home/quest_detail_152] Current Win Streak
+[home/quest_detail_153] Longest Win Streak
+[home/quest_detail_154] Event Rewards
+[home/quest_detail_155] You can earn rewards by beating
+your longest win streak.
+[home/quest_detail_156] Go on a win streak and increase your drop
+rate level to get more rewards!
+[home/quest_detail_157] Win streak required per drop rate level:
+[home/quest_detail_159] Rewards you have already received cannot be received
+again even if you perform a reset.
+[home/quest_detail_160] Gauntlet Rewards
+[home/quest_detail_161] Reaching set win streaks increases your
+drop rate level, which increases your
+chance of receiving certain rewards.
+[home/quest_detail_162] Note: Upon reset, your drop rate level will be reset to 1.
+
+Each battle reward has a drop rate. You may not receive
+all of the items shown.
+[home/quest_detail_163] Gauntlet Rewards
+[home/quest_detail_164] Event Rewards
+[home/quest_detail_165] You completed all of the battles, so
+you can now replay them. Try using
+sync pairs you haven’t used yet, and
+keep your win streak going!
+[home/quest_detail_166] Note: Sync pairs you have used will be carried over.
+In order to start over again with all of your sync pairs
+available, reset your progress using the reset button.
+[home/quest_detail_167] Performing a reset will
+reset the following:
+
+• Status of battles in progress
+• Sync pairs used
+• Your current win streak
+• Your drop rate level
+[home/quest_detail_168] Note: Event rewards you have already obtained will
+not be reset. Your drop rate level will be reset to 1.
+[home/quest_detail_169] The following have been reset:
+
+• Status of battles in progress
+• Sync pairs used
+• Your current win streak
+• Your drop rate level
+[home/quest_detail_170] 1 win
+[home/quest_detail_171] [Digit:2digits ] wins
+[home/quest_detail_172] Level [Digit:2digits ]
+[home/quest_detail_173] MAX
+[home/quest_detail_174] ∞
 [home/home_001] Shop
 [home/home_002] Explore
 [home/home_003] Team
@@ -30716,6 +31632,8 @@ Check out the shop for more details.
 items for raising certain sync pairs to
 Lv. 120. You can find them in the
 Purchase Bundles section of the shop.
+[home/home_045] Special Ticket Scout
+[home/home_046] Special Ticket Scout
 [home/home_048] Pokémon Masters Day
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missions
@@ -31344,7 +32262,7 @@ máximo de veces.
 [home/quest_detail_074] El evento ha terminado. No puedes
 seguir avanzando por este mapa.
 [home/quest_detail_075] Botín
-[home/quest_detail_076] *Cada botín tiene una tasa de obtención, por lo que es posible que no obtengas todos los objetos, e incluso que no obtengas ninguno.
+[home/quest_detail_076] Nota: Cada botín tiene una tasa de obtención, por lo que es posible que no obtengas todos los objetos, e incluso que no obtengas ninguno.
 [home/quest_detail_077] Índice de aparición de Huevos
 [home/quest_detail_078] Confirmar
 [home/quest_detail_079] Intentos restantes
@@ -31435,6 +32353,57 @@ características: Ataque, Defensa, At. Esp. y Def. Esp.
 Si una pareja de compis cuenta con más de un bonus,
 solo se aplicará el más alto.
 [home/quest_detail_145] Tienes:
+[home/quest_detail_146] Nivel tasa botín
+[home/quest_detail_148] Victorias para subir de nivel: [Digit:3digits ]
+[home/quest_detail_149] Botín especial
+[home/quest_detail_150] Aventura Legendaria
+[home/quest_detail_151] ¡Supera tu récord de victorias para obtener
+premios de evento!
+[home/quest_detail_152] Racha de victorias actual
+[home/quest_detail_153] Récord de victorias
+[home/quest_detail_154] Premios de evento
+[home/quest_detail_155] ¡Puedes obtener premios al superar tu
+récord de victorias!
+[home/quest_detail_156] ¡A mayor nivel de tasa de botín, mayor
+probabilidad de recibir premios especiales!
+[home/quest_detail_157] Victorias para subir nivel de tasa de botín:
+[home/quest_detail_159] Nota: No podrás volver a recibir los premios que ya hayas
+obtenido aunque elijas la opción Restablecer.
+[home/quest_detail_160] Botín especial
+[home/quest_detail_161] Al alcanzar cierto número de victorias,
+el nivel de tasa de botín aumentará, así
+como la probabilidad de recibir premios.
+[home/quest_detail_162] Nota: Si eliges la opción Restablecer, la tasa de botín se reiniciará al nivel 1.
+
+Nota: Cada botín tiene una tasa de obtención, por lo que es posible que no obtengas todos los objetos, e incluso que no obtengas ninguno.
+[home/quest_detail_163] Botín especial
+[home/quest_detail_164] Premios de evento
+[home/quest_detail_165] Has completado todos los combates,
+por lo que ahora puedes volver a
+jugarlos. Usa compis con los que no
+hayas participado todavía para seguir
+con tu racha de victorias.
+[home/quest_detail_166] Nota: El estado de tus compis se conservará tras cada
+combate. Si quieres empezar de cero, usa la opción
+Restablecer para reiniciar tu progreso.
+[home/quest_detail_167] Al usar esta opción, se restablecerán:
+
+• El progreso de los combates activos
+• Los compis usados
+• La racha de victorias actual
+• El nivel de tasa de botín
+[home/quest_detail_168] Nota: Los premios de evento que hayas obtenido no se restablecerán, pero la tasa de botín se reiniciará al nivel 1.
+[home/quest_detail_169] Se han restablecido:
+
+• El progreso de los combates activos
+• Los compis usados
+• La racha de victorias actual
+• El nivel de tasa de botín
+[home/quest_detail_170] 1 victoria
+[home/quest_detail_171] [Digit:2digits ] victorias
+[home/quest_detail_172] Nivel [Digit:2digits ]
+[home/quest_detail_173] MÁX.
+[home/quest_detail_174] ∞
 [home/home_001] Tienda
 [home/home_002] Aventura
 [home/home_003] Equipo
@@ -31488,6 +32457,8 @@ contienen objetos con los que puedes
 mejorar compis hasta el nivel 120.
 Puedes adquirirlos en la sección
 "Comprar lotes" de la tienda.
+[home/home_045] ¡Recl. billete especial!
+[home/home_046] ¡Recl. billete especial!
 [home/home_048] ¡Día de Pokémon Masters!
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Misiones
@@ -32075,7 +33046,7 @@ Nécessaire pour débloquer :
 [home/quest_list_170] Se débloque dans [Digit:3digits ] jour(s).
 [home/quest_list_171] Se débloque dans [Name:DateTime ].
 [home/quest_list_172] Débloqué après avoir terminé [Digit:2digits ]
-chapitres de « L'organisation maléfique »
+chapitre[FR:Qty P="s" ] de « L'organisation maléfique »
 au niveau Normal.
 [home/quest_detail_003] Types conseillés
 [home/quest_detail_005] Infos
@@ -32145,7 +33116,7 @@ tous vos essais disponibles.
 [home/quest_detail_074] Cet évènement est terminé. Vous ne
 pouvez plus progresser sur la carte.
 [home/quest_detail_075] Récomp. bonus
-[home/quest_detail_076] Le taux d'obtention des récompenses bonus est inférieur à 100 %. Il est donc possible de ne pas en obtenir.
+[home/quest_detail_076] Le taux d'obtention des objets du butin est inférieur à 100 %. Il est donc possible de ne pas en obtenir certains.
 [home/quest_detail_077] Taux d'obtention des Œufs
 [home/quest_detail_078] Confirmation
 [home/quest_detail_079] Essais restants
@@ -32236,6 +33207,51 @@ Déf., Atq. Spé. et Déf. Spé. Pour les Duos ayant plusieurs
 mots-clés et qui sont éligibles pour recevoir le bonus,
 seul le bonus avec l'effet le plus important s'applique.
 [home/quest_detail_145] Vous avez
+[home/quest_detail_146] Niveau du taux de butin
+[home/quest_detail_148] Victoires requises pour le niveau suivant : [Digit:3digits ]
+[home/quest_detail_149] Butin spécial
+[home/quest_detail_150] Aventure Légendaire
+[home/quest_detail_151] Battez votre record de victoires consécutives
+pour obtenir des récompenses !
+[home/quest_detail_152] Victoires consécutives actuelles
+[home/quest_detail_153] Record de victoires consécutives
+[home/quest_detail_154] Récompenses d'évènement
+[home/quest_detail_155] Obtenez des récompenses en battant
+votre record de victoires consécutives !
+[home/quest_detail_156] Plus vous accumulez les victoires, plus le niveau du taux de butin
+augmente ! Ainsi, vous aurez plus de chances d'avoir du butin spécial !
+[home/quest_detail_157] Victoires consécutives requises par niveau de taux de butin :
+[home/quest_detail_159] Vous ne pouvez pas obtenir à nouveau les récompenses déjà reçues, même en réinitialisant votre progression.
+[home/quest_detail_160] Butin spécial
+[home/quest_detail_161] Atteindre le nombre requis de victoires consécutives augmentera le niveau du taux de butin.
+[home/quest_detail_162] Si vous réinitialisez votre progression, le niveau
+du taux de butin reviendra à 1.
+
+Le taux d'obtention des objets du butin
+est inférieur à 100 %. Il est donc possible
+de ne pas en obtenir certains.
+[home/quest_detail_163] Butin spécial
+[home/quest_detail_164] Récompenses d'évènement
+[home/quest_detail_165] Puisque vous avez remporté tous les combats, vous avez maintenant la possibilité d'y participer à nouveau. Essayez d'employer des Duos différents et maintenez vos victoires consécutives.
+[home/quest_detail_166] Les Duos que vous aviez utilisés seront conservés. Pour tout recommencer depuis le début avec tous vos Duos de disponibles, réinitialisez vos progrès à l'aide du bouton de réinitialisation.
+[home/quest_detail_167] La réinitialisation entraînera la restauration à leur état initial des paramètres suivants :
+
+• la progression des combats en cours
+• le choix des Duos utilisés
+• le nombre de victoires consécutives
+• le niveau du taux de butin
+[home/quest_detail_168] Les récompenses d'évènement obtenues ne seront pas réinitialisées. En réinitialisant, le niveau du taux de butin redescendra à 1.
+[home/quest_detail_169] Les paramètres suivants ont été réinitialisés :
+
+• la progression des combats en cours
+• le choix des Duos utilisés
+• le nombre de victoires consécutives
+• le niveau du taux de butin
+[home/quest_detail_170] 1 victoire
+[home/quest_detail_171] [Digit:2digits ] victoires consécutives
+[home/quest_detail_172] Niveau [Digit:2digits ]
+[home/quest_detail_173] MAX
+[home/quest_detail_174] ∞
 [home/home_001] Boutique
 [home/home_002] Aventure
 [home/home_003] Équipe
@@ -32293,6 +33309,8 @@ contiennent les objets permettant
 le niveau 120. Vous pouvez
 les trouver dans la section
 « Achat de lots » de la boutique.
+[home/home_045] Appel Duo spécial avec Bons
+[home/home_046] Appel Duo spécial avec Bons disponible
 [home/home_048] Journée Pokémon Masters en cours
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missions
@@ -32673,13 +33691,13 @@ au Panthéon de Passio.
 [home/battle_villa_001] Saut d'échelon
 [home/battle_villa_002] Vous avez battu le dernier échelon lors
 de la précédente session de la Villa de
-Combat. Vous donc pouvez à présent sauter
+Combat. Vous pouvez donc à présent sauter
 les échelons jusqu'à celui de votre choix.
 Vous pourrez recevoir des récompenses
 de première fois pour les échelons passés.
 [home/battle_villa_003] Note : Si vous décidez de ne pas sauter d'échelons
 maintenant, vous ne pourrez plus le faire une fois
-la session dans Villa de Combat entamée.
+la session de la Villa de Combat entamée.
 [home/battle_villa_004] Sélectionnez un échelon à sauter
 [home/battle_villa_005] Annuler
 [home/battle_villa_006] Sauter jusqu'à l'échelon [Digit:2digits ] et recevoir
@@ -32694,7 +33712,7 @@ de première fois suivantes.
 [home/battle_villa_010] Participer à la Villa de Combat
 sans sauter d'échelons ?
 [home/battle_villa_011] Sauter à l'échelon [Digit:2digits ]
-[home/battle_villa_012] Échelon [Digit:2digits ] → [Name:QuestTitle ]
+[home/battle_villa_012] Échelon [Digit:2digits ] - [Name:QuestTitle ]
 
 ===========
 home_it.lsd
@@ -33085,6 +34103,62 @@ Attacco, Difesa, Attacco Speciale e Difesa Speciale.
 Nel caso di Unità appartenenti a più gruppi con bonus,
 si attiverà solo quello col valore più alto.
 [home/quest_detail_145] Ne hai:
+[home/quest_detail_146] Livello premio
+[home/quest_detail_148] Vittorie per il prossimo livello: [Digit:3digits ]
+[home/quest_detail_149] Premi sfida
+[home/quest_detail_150] Sfida Leggendaria
+[home/quest_detail_151] Migliora il tuo record di vittorie consecutive
+per ottenere premi nell'evento!
+[home/quest_detail_152] Vittorie consecutive attuali
+[home/quest_detail_153] Record vittorie consecutive
+[home/quest_detail_154] Ricompense
+[home/quest_detail_155] Migliorando il tuo record di vittorie
+consecutive potrai ottenere ricompense!
+[home/quest_detail_156] Se alzi il L. premio con le vittorie consecutive,
+la probabilità di ottenere premi sfida aumenta!
+[home/quest_detail_157] Vittorie necessarie per aumentare il L. premio
+[home/quest_detail_159] Le ricompense già ottenute non potranno essere ottenute
+di nuovo neanche dopo aver effettuato un ripristino.
+[home/quest_detail_160] Premi sfida
+[home/quest_detail_161] Raggiungi le vittorie consecutive indicate
+e il livello premio salirà, aumentando
+la probabilità di ricevere premi sfida.
+[home/quest_detail_162] Se effettui un ripristino, il livello premio tornerà a 1.
+
+L'ottenimento dei premi sfida si basa su probabilità
+variabili. È quindi possibile anche non ricevere alcuno
+strumento.
+[home/quest_detail_163] Premi sfida
+[home/quest_detail_164] Ricompense evento
+[home/quest_detail_165] Completando tutte le lotte, hai ottenuto
+la possibilità di affrontarle di nuovo.
+Inserisci in squadra Unità diverse
+da quelle partite finora, e allunga
+la tua serie di vittorie consecutive!
+[home/quest_detail_166] Lo stato di disponibilità delle Unità verrà conservato.
+Effettuando un ripristino, ti sarà possibile affrontare
+di nuovo le lotte dall'inizio con tutte le Unità disponibili.
+[home/quest_detail_167] Il ripristino riporterà allo stato iniziale
+quanto segue:
+
+• Stato sfide in corso
+• Unità già partite
+• Numero di vittorie consecutive
+• Livello premio
+[home/quest_detail_168] Le ricompense evento ottenute non verranno ripristinate.
+Effettuando un ripristino, il livello premio tornerà a 1.
+[home/quest_detail_169] È stato riportato allo stato iniziale
+quanto segue:
+
+• Stato sfide in corso
+• Unità già partite
+• Numero di vittorie consecutive
+• Livello premio
+[home/quest_detail_170] 1 vittoria
+[home/quest_detail_171] [Digit:2digits ] vittorie consecutive
+[home/quest_detail_172] Livello [Digit:2digits ]
+[home/quest_detail_173] MAX
+[home/quest_detail_174] ∞
 [home/home_001] Negozio
 [home/home_002] Avventura
 [home/home_003] Squadra
@@ -33142,6 +34216,8 @@ strumenti con i quali puoi portare
 alcune Unità al livello 120. Puoi trovarli
 nella sezione "Acquisto pacchetti"
 del negozio.
+[home/home_045] Unicerca con ticket speciale
+[home/home_046] Unicerca con ticket speciale
 [home/home_048] Pokémon Masters Day
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missioni
@@ -33821,7 +34897,7 @@ Lv.[Digit:2digits ]で解放
 [home/quest_detail_074] イベント期間が終了したため
 マップを進めることができません
 [home/quest_detail_075] ドロップ報酬
-[home/quest_detail_076] ※ドロップ報酬は確率によって決まるため、
+[home/quest_detail_076] ※ドロップ報酬は確率によって決まるため
 どうぐがドロップしない場合があります
 [home/quest_detail_077] タマゴの入手率
 [home/quest_detail_078] 出発確認
@@ -33910,6 +34986,58 @@ Lv.[Digit:2digits ]で解放
 ※複数のタグが対象になるバディーズのボーナスは
 加算されずにより高い値が適用されます
 [home/quest_detail_145] 所持
+[home/quest_detail_146] ドロップ率レベル
+[home/quest_detail_148] レベルアップまであと[Digit:3digits ]勝
+[home/quest_detail_149] 特別ドロップ報酬へ
+[home/quest_detail_150] レジェンドアドベンチャー
+[home/quest_detail_151] 最大連勝数を更新して
+イベント報酬を獲得しよう！
+[home/quest_detail_152] 現在の連勝数
+[home/quest_detail_153] 最大連勝数
+[home/quest_detail_154] イベント報酬へ
+[home/quest_detail_155] 最大連勝数を更新すると報酬を獲得できます
+[home/quest_detail_156] 連勝してドロップ率レベルを上げると
+特別ドロップ報酬の入手率がアップ！
+[home/quest_detail_157] ドロップ率レベル到達までの必要連勝数
+[home/quest_detail_159] ※一度獲得した報酬はリセットしても再度獲得できません
+[home/quest_detail_160] 特別ドロップ報酬
+[home/quest_detail_161] 特定の連勝数に達すると
+ドロップ率レベルがアップし
+特別ドロップ報酬の入手率がアップします
+[home/quest_detail_162] ※リセットするとドロップ率レベルが1に戻ります
+
+※ドロップ報酬は確率によって決まるため
+どうぐがドロップしない場合があります
+[home/quest_detail_163] 特別ドロップ報酬
+[home/quest_detail_164] イベント報酬受取
+[home/quest_detail_165] 全てのバトルに勝利したので
+再度同じバトルに挑戦可能になりました
+
+まだ挑戦していないバディーズで
+さらに連勝を目指しましょう
+[home/quest_detail_166] ※バディーズの使用状況は引き継がれます
+リセットボタンからリセットを実行することで
+バトルをはじめからやり直すことができます
+[home/quest_detail_167] リセットを実行すると
+以下がリセットされます
+
+・挑戦中バトルの状態
+・出発済みのバディーズ
+・現在の連勝数
+・ドロップ率レベル
+[home/quest_detail_168] ※イベント報酬の獲得状況はリセットされません
+リセットするとドロップ率レベルが1に戻ります
+[home/quest_detail_169] 以下がリセットされました
+
+・挑戦中バトルの状態
+・出発済みのバディーズ
+・現在の連勝数
+・ドロップ率レベル
+[home/quest_detail_170] 1勝
+[home/quest_detail_171] [Digit:2digits ]連勝
+[home/quest_detail_172] レベル[Digit:2digits ]
+[home/quest_detail_173] MAX
+[home/quest_detail_174] ∞
 [home/home_001] ショップ
 [home/home_002] ぼうけん
 [home/home_003] チーム
@@ -33953,7 +35081,7 @@ Lv.[Digit:2digits ]で解放
 
 さっそくショップに行ってみよう
 [home/home_036] 無料10連開催中
-[home/home_037] 無料10連Bサーチ開催中
+[home/home_037] 無料10連Bサーチ可能
 [home/home_038] ハッピーBサーチ
 [home/home_039] マスターフェス
 [home/home_040] ポケマスフェス
@@ -33965,6 +35093,8 @@ Lv.[Digit:2digits ]で解放
 強化に必要などうぐが獲得できます
 育成パックはショップの
 「おとくなパック購入」から購入できます
+[home/home_045] 特別チケットBサーチ
+[home/home_046] 特別チケットBサーチ可能
 [home/home_048] ポケマスデー開催チュウ
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] ミッション
@@ -34723,6 +35853,57 @@ Lv.[Digit:2digits ]에서 해방
 ※다수의 태그가 대상이 된 버디즈의 보너스는
 가산되지 않으며 더 높은 수치가 적용됩니다
 [home/quest_detail_145] 보유
+[home/quest_detail_146] 드롭률 레벨
+[home/quest_detail_148] 레벨업까지 앞으로 [Digit:3digits ]승
+[home/quest_detail_149] 특별 드롭 보상으로
+[home/quest_detail_150] 레전드 어드벤처
+[home/quest_detail_151] 최대 연승 횟수를 갱신하고
+이벤트 보상을 획득하자!
+[home/quest_detail_152] 현재 연승 수
+[home/quest_detail_153] 최대 연승 수
+[home/quest_detail_154] 이벤트 보상으로
+[home/quest_detail_155] 최대 연승 수를 갱신하면 보상을 획득할 수 있습니다
+[home/quest_detail_156] 연승해서 드롭률 레벨을 올리면
+특별 드롭 보상의 입수 확률이 상승한다!
+[home/quest_detail_157] 드롭률 레벨 도달까지 필요한 연승 수
+[home/quest_detail_159] ※한번 획득한 보상은 초기화하더라도 다시 획득할 수 없습니다
+[home/quest_detail_160] 특별 드롭 보상
+[home/quest_detail_161] 특정 연승 수를 달성하면
+드롭률 레벨이 상승하고
+특별 드롭 보상의 입수 확률이 상승합니다
+[home/quest_detail_162] ※초기화하면 드롭률 레벨이 1로 돌아갑니다
+
+※드롭 보상은 확률에 따라 정해지기 때문에
+도구가 드롭되지 않는 경우가 있습니다
+[home/quest_detail_163] 특별 드롭 보상
+[home/quest_detail_164] 이벤트 보상 받기
+[home/quest_detail_165] 모든 배틀에서 승리해서
+다시 같은 배틀에 도전할 수 있게 되었습니다
+아직 도전하지 않은 버디즈로
+추가로 연승을 노려봅시다
+[home/quest_detail_166] ※버디즈 사용 상황은 유지됩니다
+초기화 버튼을 눌러 초기화를 실행하면
+배틀을 처음부터 다시 시작할 수 있습니다
+[home/quest_detail_167] 초기화를 실행하면
+아래가 초기화됩니다
+
+・도전 중인 배틀 상태
+・이미 출발한 버디즈
+・현재 연승 수
+・드롭률 레벨
+[home/quest_detail_168] ※이벤트 보상의 획득 상황은 초기화되지 않습니다
+초기화하면 드롭률 레벨이 1로 돌아갑니다
+[home/quest_detail_169] 아래가 초기화되었습니다
+
+・도전 중인 배틀 상태
+・이미 출발한 버디즈
+・현재 연승 수
+・드롭률 레벨
+[home/quest_detail_170] 1승
+[home/quest_detail_171] [Digit:2digits ]연승
+[home/quest_detail_172] 레벨 [Digit:2digits ]
+[home/quest_detail_173] MAX
+[home/quest_detail_174] ∞
 [home/home_001] 숍
 [home/home_002] 모험
 [home/home_003] 팀
@@ -34763,7 +35944,7 @@ Lv.[Digit:2digits ]에서 해방
 출현했습니다!
 바로 숍으로 가봅시다
 [home/home_036] 무료 10연속 개최 중
-[home/home_037] 무료 10연속 B서치 개최 중
+[home/home_037] 무료 10연속 B서치 가능
 [home/home_038] 해피 B서치
 [home/home_039] 마스터페스티벌
 [home/home_040] PM페스티벌
@@ -34775,6 +35956,8 @@ Lv.[Digit:2digits ]에서 해방
 강화에 필요한 도구를 획득할 수 있습니다
 육성 팩은 숍의
 "스페셜 팩 구입"에서 구입할 수 있습니다
+[home/home_045] 특별 티켓 B서치
+[home/home_046] 특별 티켓 B서치 가능
 [home/home_048] 포켓몬 마스터즈 데이 개최 중
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] 미션
@@ -35418,7 +36601,8 @@ home_zh-TW.lsd
 [home/quest_detail_074] 活動期間已結束
 無法繼續前進
 [home/quest_detail_075] 掉落報酬
-[home/quest_detail_076] ※掉落報酬依機率而定，因此有時可能會沒有道具掉落。
+[home/quest_detail_076] ※掉落報酬依機率而定
+因此有時可能會沒有道具掉落
 [home/quest_detail_077] 獲得蛋的機率
 [home/quest_detail_078] 確認
 [home/quest_detail_079] 剩餘次數
@@ -35503,6 +36687,57 @@ home_zh-TW.lsd
 ※當指定拍組擁有多個標籤時
 將適用於數值較高的獎勵而不會重複累計
 [home/quest_detail_145] 持有
+[home/quest_detail_146] 掉落率等級
+[home/quest_detail_148] 離升級還剩[Digit:3digits ]勝
+[home/quest_detail_149] 前往特別掉落報酬
+[home/quest_detail_150] 傳說冒險
+[home/quest_detail_151] 刷新最高連勝數
+獲得活動報酬吧！
+[home/quest_detail_152] 目前的連勝數
+[home/quest_detail_153] 最高連勝數
+[home/quest_detail_154] 前往活動報酬
+[home/quest_detail_155] 刷新最高連勝數即可獲得報酬
+[home/quest_detail_156] 透過連勝提升掉落率等級後
+就會提高獲得特別掉落報酬的機率！
+[home/quest_detail_157] 提升掉落率等級所需的連勝數
+[home/quest_detail_159] ※已獲得的報酬即使重設也無法再次獲得
+[home/quest_detail_160] 特別掉落報酬
+[home/quest_detail_161] 達到指定的連勝數後
+掉落率等級就會提升
+獲得特別掉落報酬的機率也會提高
+[home/quest_detail_162] ※重設後，掉落率等級會回到1
+
+※掉落報酬依機率而定
+因此有時可能會沒有道具掉落
+[home/quest_detail_163] 特別掉落報酬
+[home/quest_detail_164] 領取活動報酬
+[home/quest_detail_165] 已贏得所有對戰
+因此已可再次挑戰相同對戰
+用還未上場挑戰過的拍組
+來取得更多連勝吧
+[home/quest_detail_166] ※拍組的組隊狀況會維持現狀
+按下重設按鈕進行重設
+即可從頭挑戰對戰
+[home/quest_detail_167] 進行重設後
+下列項目將會被重設
+
+・挑戰中對戰的狀態
+・已出發的拍組
+・目前的連勝數
+・掉落率等級
+[home/quest_detail_168] ※活動報酬的獲得狀態不會重設
+重設後，掉落率等級會回到1
+[home/quest_detail_169] 已重設下列項目
+
+・挑戰中對戰的狀態
+・已出發的拍組
+・目前的連勝數
+・掉落率等級
+[home/quest_detail_170] 1勝
+[home/quest_detail_171] [Digit:2digits ]連勝
+[home/quest_detail_172] 等級[Digit:2digits ]
+[home/quest_detail_173] MAX
+[home/quest_detail_174] ∞
 [home/home_001] 商店
 [home/home_002] 冒險
 [home/home_003] 隊伍
@@ -35543,7 +36778,7 @@ home_zh-TW.lsd
 出現了！
 快去商店看看吧！
 [home/home_036] 免費連續１０次現正舉辦中
-[home/home_037] 免費連續１０次拍組搜尋現正舉辦中
+[home/home_037] 可免費連續１０次拍組搜尋
 [home/home_038] 開心拍組搜尋
 [home/home_039] 大師盛典
 [home/home_040] 群星盛典
@@ -35555,6 +36790,8 @@ home_zh-TW.lsd
 強化至Lv.120所需的道具
 培育組合包可以從商店的
 「購買超值組合包」中購買
+[home/home_045] 特別票券拍組搜尋
+[home/home_046] 可進行特別票券拍組搜尋
 [home/home_048] 群星盛典日現正舉辦中
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] 任務
@@ -36475,6 +37712,8 @@ Dynamax
 kostenlos Gefährten ins Team holen!
 [shop/scout_155] Gefährten werden mit aktuellem Attacken-Level angezeigt.
 [shop/scout_156] Gefährtensuche x10
+[shop/scout_157] Setze spezielle Tickets ein, um
+Gefährten zu erhalten!
 [shop/scout_159] Die Erscheinungsraten für ★ werden nach der vierten Dezimalstelle aufgerundet, es kann also sein, dass sie addiert nicht 100 % ergeben. Die tatsächliche Erscheinungsrate wird nicht auf- oder abgerundet. Die Erscheinungsrate gilt für jede durchgeführte Gefährtensuche. Selbst wenn du eine Gefährtensuche mehrmals hintereinander durchführst, heißt das also nicht notwendigerweise, dass du ein bestimmtes Gefährtengespann erhalten wirst. Es ist möglich, dass du durch die Gefährtensuche die gleichen Gefährten erhältst. Selbst wenn du Gefährten schon hast und sich bei ihnen das Pokémon schon entwickelt hat, wird das Pokémon vor der Entwicklung angezeigt, wenn du sie durch Gefährtensuchen erhältst. Steht bei der Erscheinungsrate hinter dem Pokémon-Namen ein *, heißt das, dass sich das Pokémon durch eine Entwicklungs-Episode entwickeln kann.
 [shop/deck_item_sale_001] Ausrüstungstausch
 [shop/deck_item_sale_002] Ausrüstung
@@ -36964,6 +38203,8 @@ Sync Pairs
 cost using 10-Pair Scout Tickets!
 [shop/scout_155] Note: Sync pairs are shown at current move levels.
 [shop/scout_156] 10-Pair Scout
+[shop/scout_157] You can use special tickets to scout
+sync pairs!
 [shop/scout_159] The offering rate displayed for each ★ is cut to three decimal places, so adding them all up may not equal 100%. We do not round the actual offering rate up or down.
 
 The offering rate applies to each instance of sync pair scouting, so there is no guarantee that you will get any one sync pair, even if you scout many times in a row.
@@ -37426,6 +38667,8 @@ Dinamax
 usando un Billete Reclutamiento ×10!
 [shop/scout_155] Nota: Los movimientos se muestran en su nivel actual.
 [shop/scout_156] Reclutamiento billete ×10
+[shop/scout_157] ¡Puedes reclutar compis con los
+billetes especiales!
 [shop/scout_159] Ten en cuenta que las tasas de aparición de las ★ mostradas se redondean a partir del cuarto decimal; por ello, las cantidades no siempre suman un 100%. Las tasas de aparición no se redondean al efectuar el reclutamiento.
 Las tasas de aparición de cada pareja de compis se aplican cada vez que se efectúa un reclutamiento, de modo que realizarlo de forma consecutiva no garantiza la obtención de dicha pareja de compis.
 Es posible obtener una pareja de compis repetida en un reclutamiento. Aunque el Pokémon de la pareja de compis ya obtenida haya evolucionado, en la pantalla de reclutamiento aparecerá siempre la primera fase evolutiva.
@@ -37881,7 +39124,9 @@ sans frais avec des Bons 10 Appels Duo !
 [shop/scout_155] Les Duos s'affichent avec le niveau actuel de leurs capacités.
 [shop/scout_156] Appel Duo avec
 Bons 10 Appels Duo
-[shop/scout_159] Remarque : les pourcentages de chance par nombre d'★ affichés étant arrondis au troisième chiffre après la virgule, il peut arriver que leur somme totale ne soit pas égale à 100 %. Les pourcentages réels ne sont ni arrondis au supérieur, ni à l'inférieur. Les pourcentages s'appliquent à chaque Appel Duo indépendamment. Même si vous passez un certain nombre d'Appels Duo, il est possible qu'un certain Duo n'apparaisse pas du tout. Il est possible qu'un même Duo apparaisse plusieurs fois. Si vous appelez un Duo que vous avez déjà et dont vous avez fait évoluer le Pokémon, le Pokémon avant évolution apparaîtra dans le Duo affiché dans les résultats. Le dernier Appel Duo (le dixième si vous avez passé 10 Appels Duo d'affilée, le onzième si vous avez passé 11 Appels Duo d'affilée) vous permettra d'obtenir un Duo 5★. Pour connaître les pourcentages utilisés lors de l'Appel Duo garantissant un Duo 5★, touchez le bouton « 5★ garanti ! » sur l'écran de pourcentages. Un Duo saisonnier est un Duo apparaissant pendant une durée limitée, à l'occasion d'un Appel Duo saisonnier. Il est possible qu'un Duo saisonnier apparaisse à nouveau, même après la fin de son Appel Duo saisonnier. Les Duos ayant une astérisque (*) après le nom de leur Pokémon à côté du pourcentage peuvent faire évoluer leur Pokémon si vous débloquez leur épisode d'évolution.
+[shop/scout_157] Vous pouvez utiliser des Bons
+spéciaux pour obtenir des Duos !
+[shop/scout_159] Remarque : les pourcentages de chance par nombre d'★ affichés étant arrondis au troisième chiffre après la virgule, il peut arriver que la somme totale ne soit pas égale à 100 %. Les pourcentages réels ne sont ni arrondis au supérieur, ni à l'inférieur. Les pourcentages s'appliquent à chaque Appel Duo indépendamment. Même si vous passez un certain nombre d'Appels Duo, il est possible qu'un certain Duo n'apparaisse pas du tout. Il est possible qu'un même Duo apparaisse plusieurs fois. Si vous appelez un Duo que vous avez déjà et dont vous avez fait évoluer le Pokémon, le Pokémon avant évolution apparaîtra dans le Duo affiché dans les résultats. Le dernier Appel Duo (le dixième si vous avez passé 10 Appels Duo d'affilée, le onzième si vous avez passé 11 Appels Duo d'affilée) vous permettra d'obtenir un Duo 5★. Pour connaître les pourcentages utilisés lors de l'Appel Duo garantissant un Duo 5★, touchez le bouton « 5★ garanti ! » sur l'écran de pourcentages. Un Duo saisonnier est un Duo apparaissant pendant une durée limitée, à l'occasion d'un Appel Duo saisonnier. Il est possible qu'un Duo saisonnier apparaisse à nouveau, même après la fin de son Appel Duo saisonnier. Les Duos ayant une astérisque (*) après le nom de leur Pokémon à côté du pourcentage peuvent faire évoluer leur Pokémon si vous débloquez leur épisode d'évolution.
 [shop/deck_item_sale_001] Échanger équipement
 [shop/deck_item_sale_002] Équipement
 [shop/deck_item_sale_003] Filtrer
@@ -38406,6 +39651,7 @@ utilizzando un Ticket 10 ricerche Unità!
 [shop/scout_155] Le Unità sono visualizzate al livello mosse attuale.
 [shop/scout_156] Unicerca con ticket:
 10 ricerche Unità
+[shop/scout_157] Puoi ottenere delle Unità con dei ticket speciali!
 [shop/scout_159] Il tasso di comparsa per numero di ★ è arrotondato oltre la quarta cifra decimale, perciò è possibile che la somma delle percentuali non sia 100%.
 Il tasso di comparsa effettivo non viene arrotondato per eccesso o per difetto.
 A ogni ricerca Unità si applica lo stesso tasso di comparsa, pertanto ripetere la ricerca Unità più volte di seguito non garantisce la comparsa di una determinata Unità.
@@ -38937,6 +40183,7 @@ STEPによってはプレゼントが設定されている場合があります�
 バディーズを獲得しよう！
 [shop/scout_155] ※表示しているわざレベルは、所持バディーズの現在の値です
 [shop/scout_156] チケット専用　無料１０連Ｂサーチ
+[shop/scout_157] 特別チケットでバディーズを獲得しよう！
 [shop/scout_159] ※★ごとの提供割合は、小数第4位以下がある場合に切捨てて表示しており、全てを合算しても100％にならない場合があります。
 ※実際の提供割合は、小数第4位以下の四捨五入、切上げ、切捨て等を行っておりません。
 ※バディーズサーチは1回ごとにその提供割合にもとづいて抽選を行います。
@@ -39486,6 +40733,7 @@ STEP에 따라서는 선물이 포함된 경우가 있습니다.
 버디즈를 획득하자!
 [shop/scout_155] ※표시되고 있는 기술 레벨은 보유 중인 버디즈의 현재 수치입니다
 [shop/scout_156] 티켓 전용 무료 10연속 B서치
+[shop/scout_157] 특별 티켓으로 버디즈를 획득하자!
 [shop/scout_159] ※★에 따른 제공 확률은 표기상 소수점 4자리 이하는 버려지므로
 총합해도 100%가 되지 않는 경우가 있습니다.
 ※실제 제공 확률은 소수점 4자리 이하를 반올림, 올림, 내림 등을
@@ -39970,6 +41218,7 @@ shop_zh-TW.lsd
 來獲得拍組吧！
 [shop/scout_155] ※顯示的招式等級為持有拍組目前的數值
 [shop/scout_156] 票券專用　免費連續１０次拍組搜尋
+[shop/scout_157] 用特別票券來獲得拍組吧！
 [shop/scout_159] ※各種★的提供比例於顯示時會無條件捨去小數點第三位後的餘數，因此合計所有提供比例後可能會有未達100%的情形
 ※實際的提供比例並不會將小數點第三位後的餘數四捨五入、無條件捨去或無條件進位
 ※每1次的拍組搜尋皆會根據提供比例進行抽選
