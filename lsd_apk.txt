@@ -1429,7 +1429,10 @@ story_quest_name_de.lsd
 [quest_title_1030201001001550] Besiege den Drachen 2
 [quest_title_1030201001001610] Vs. Team Break
 [quest_title_1030201001001620] Vs. Team Break 2
+[quest_title_1030210137000000] Let’s Go mit Eich!
+[quest_title_1030210137000004] Ein Tag mit Eich
 [quest_group_title_10129000000] Amalia
+[quest_group_title_10137000000] Eich
 
 ===========
 story_quest_name_en.lsd
@@ -2176,7 +2179,10 @@ story_quest_name_en.lsd
 [quest_title_1030201001001550] The Sky-Rending Dragon, Part 2
 [quest_title_1030201001001610] Challenge Team Break, Part 1
 [quest_title_1030201001001620] Challenge Team Break, Part 2
+[quest_title_1030210137000000] Let’s Go, Professor Oak!
+[quest_title_1030210137000004] A Day with Professor Oak
 [quest_group_title_10129000000] Zinnia
+[quest_group_title_10137000000] Professor Oak
 
 ===========
 story_quest_name_es.lsd
@@ -2924,7 +2930,10 @@ hielo
 [quest_title_1030201001001550] El dragón que rasga los cielos (2)
 [quest_title_1030201001001610] VS. Team Break
 [quest_title_1030201001001620] VS. Team Break (2)
+[quest_title_1030210137000000] El compañero de Oak
+[quest_title_1030210137000004] Un día con Oak
 [quest_group_title_10129000000] Tristana
+[quest_group_title_10137000000] Oak
 
 ===========
 story_quest_name_fr.lsd
@@ -3672,7 +3681,10 @@ story_quest_name_fr.lsd
 cieux (2)
 [quest_title_1030201001001610] Combat : Team Break
 [quest_title_1030201001001620] Combat : Team Break II
+[quest_title_1030210137000000] Let's Go avec Chen !
+[quest_title_1030210137000004] Une journée avec Chen
 [quest_group_title_10129000000] Amaryllis
+[quest_group_title_10137000000] Raphaël Chen
 
 ===========
 story_quest_name_it.lsd
@@ -4417,7 +4429,10 @@ story_quest_name_it.lsd
 [quest_title_1030201001001550] Il drago che squarcia i cieli 2
 [quest_title_1030201001001610] VS Team Break
 [quest_title_1030201001001620] VS Team Break 2
+[quest_title_1030210137000000] Let's go con Oak!
+[quest_title_1030210137000004] Un giorno con Oak
 [quest_group_title_10129000000] Lyris
+[quest_group_title_10137000000] Oak
 
 ===========
 story_quest_name_ja.lsd
@@ -5165,7 +5180,10 @@ story_quest_name_ja.lsd
 [quest_title_1030201001001550] 空を裂く竜を倒せ２
 [quest_title_1030201001001610] ＶＳ　ブレイク団
 [quest_title_1030201001001620] ＶＳ　ブレイク団２
+[quest_title_1030210137000000] オーキドとレッツゴー！
+[quest_title_1030210137000004] とある日のオーキド
 [quest_group_title_10129000000] ヒガナ
+[quest_group_title_10137000000] オーキド
 
 ===========
 story_quest_name_ko.lsd
@@ -5912,7 +5930,10 @@ story_quest_name_ko.lsd
 [quest_title_1030201001001550] 하늘을 가르는 용을 쓰러뜨려라2
 [quest_title_1030201001001610] VS 브레이크단
 [quest_title_1030201001001620] VS 브레이크단2
+[quest_title_1030210137000000] 오박사와 레츠 고~!
+[quest_title_1030210137000004] 오박사의 어느 날
 [quest_group_title_10129000000] 피아나
+[quest_group_title_10137000000] 오박사
 
 ===========
 story_quest_name_zh-TW.lsd
@@ -6659,7 +6680,10 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030201001001550] 打倒裂天之龍２
 [quest_title_1030201001001610] ＶＳ　破壞隊
 [quest_title_1030201001001620] ＶＳ　破壞隊２
+[quest_title_1030210137000000] 和大木Let's Go！
+[quest_title_1030210137000004] 某日的大木
 [quest_group_title_10129000000] 希嘉娜
+[quest_group_title_10137000000] 大木
 
 ===========
 trainer_description_de.lsd
@@ -6921,6 +6945,9 @@ Kämpfe bestreiten.
 [10129000000] Eine geheimnisvolle Frau mit einem verwegenen Lächeln.
 In der Hoenn-Region hat sie versucht, ihre Mission als
 Wissenshüterin des Volks der Meteoraner zu erfüllen.
+[10137000000] Er ist eine Koryphäe in der Pokémon-Forschung und soll
+früher ein zielstrebiger Trainer gewesen sein. Er ist Blaus
+Großvater.
 
 ===========
 trainer_description_en.lsd
@@ -7183,6 +7210,9 @@ Legendary Pokémon.
 [10129000000] This mysterious Trainer journeyed throughout the Hoenn
 region to carry out her mission as the Lorekeeper of the
 Draconid people.
+[10137000000] This pioneering Pokémon Professor was an accomplished
+Trainer in his heyday and has since become an authority
+on Pokémon research. He is also Blue’s grandfather.
 
 ===========
 trainer_description_es.lsd
@@ -7479,6 +7509,9 @@ a su Pokémon legendario.
 es la Cronista heredera del legado del Clan Meteoro.
 Viajó por la región de Hoenn con el objetivo de cumplir
 la misión que le fue encomendada.
+[10137000000] Una eminencia en el mundo de la investigación Pokémon.
+Parece que en sus años mozos también era un portentoso
+Entrenador. Es el abuelo de Azul.
 
 ===========
 trainer_description_fr.lsd
@@ -7722,6 +7755,9 @@ Un Pokémon légendaire l'accompagne au combat.
 [10129000000] Une jeune fille mystérieuse au sourire énigmatique. Elle
 fera tout pour remplir sa mission en tant que Gardienne
 du Savoir du Peuple du Météore.
+[10137000000] Grand-père de Blue et l'une des plus grandes autorités
+en matière de recherche Pokémon. On dit qu'il était
+également un Dresseur chevronné dans sa jeunesse.
 
 ===========
 trainer_description_it.lsd
@@ -7985,6 +8021,9 @@ leggendario.
 [10129000000] Una ragazza misteriosa dal sorriso sprezzante. A Hoenn
 ha cercato di portare a termine la sua missione in qualità
 di Custode del segreto del popolo delle meteore.
+[10137000000] Un luminare nel campo della ricerca sui Pokémon.
+Pare che da giovane fosse un Allenatore davvero
+in gamba. È il nonno di Blu.
 
 ===========
 trainer_description_ja.lsd
@@ -8247,6 +8286,9 @@ trainer_description_ja.lsd
 [10129000000] 不敵な　笑みを　浮かべる　謎の　多い　少女。
 ホウエン地方では　流星の民の　伝承者として
 使命を　果たすために　行動していた。
+[10137000000] ポケモン研究の　第一人者にして　権威。
+昔は　バリバリの　トレーナーだった　らしい。
+グリーンの　祖父。
 
 ===========
 trainer_description_ko.lsd
@@ -8509,6 +8551,9 @@ trainer_description_ko.lsd
 [10129000000] 기분 나쁜 미소를 짓는 수수께끼 많은 소녀.
 호연지방에선 유성의 민족의 전승자로서
 사명을 다하기 위해 행동하고 있었다.
+[10137000000] 포켓몬 연구의 일인자이자 권위자.
+예전엔 이름 날리던 트레이너였던 듯하다.
+그린의 할아버지.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -8771,10 +8816,14 @@ trainer_description_zh-TW.lsd
 [10129000000] 面帶無懼笑容的謎樣少女。
 在豐緣地區時，身為流星之民傳承者的她
 曾經為了完成自己的使命而行動。
+[10137000000] 是寶可夢研究的第一把交椅，
+也是青綠的爺爺。
+據說年輕時是個非常活躍的訓練家。
 
 ===========
 trainer_name_de.lsd
 ===========
+[ch0000] Rot
 [ch0001] Kukui
 [ch0002] Lyra
 [ch0003] Kalem
@@ -8881,6 +8930,7 @@ trainer_name_de.lsd
 [ch0124] Maho
 [ch0127] Wassili
 [ch0129] Amalia
+[ch0137] Eich
 [ch0140] Giovanni
 [ch0153] Frosina
 [ch9000] 
@@ -8888,6 +8938,7 @@ trainer_name_de.lsd
 ===========
 trainer_name_en.lsd
 ===========
+[ch0000] Red
 [ch0001] Kukui
 [ch0002] Lyra
 [ch0003] Calem
@@ -8994,6 +9045,7 @@ trainer_name_en.lsd
 [ch0124] Mallow
 [ch0127] Wallace
 [ch0129] Zinnia
+[ch0137] Professor Oak
 [ch0140] Giovanni
 [ch0153] Glacia
 [ch9000] 
@@ -9001,6 +9053,7 @@ trainer_name_en.lsd
 ===========
 trainer_name_es.lsd
 ===========
+[ch0000] Rojo
 [ch0001] Kukui
 [ch0002] Lira
 [ch0003] Kalm
@@ -9107,6 +9160,7 @@ trainer_name_es.lsd
 [ch0124] Lulú
 [ch0127] Plubio
 [ch0129] Tristana
+[ch0137] Oak
 [ch0140] Giovanni
 [ch0153] Nívea
 [ch9000] 
@@ -9114,6 +9168,7 @@ trainer_name_es.lsd
 ===========
 trainer_name_fr.lsd
 ===========
+[ch0000] Red
 [ch0001] Euphorbe
 [ch0002] Célesta
 [ch0003] Kalem
@@ -9220,6 +9275,7 @@ trainer_name_fr.lsd
 [ch0124] Barbara
 [ch0127] Marc
 [ch0129] Amaryllis
+[ch0137] Chen
 [ch0140] Giovanni
 [ch0153] Glacia
 [ch9000] 
@@ -9227,6 +9283,7 @@ trainer_name_fr.lsd
 ===========
 trainer_name_it.lsd
 ===========
+[ch0000] Rosso
 [ch0001] Kukui
 [ch0002] Cetra
 [ch0003] Calem
@@ -9333,6 +9390,7 @@ trainer_name_it.lsd
 [ch0124] Ibis
 [ch0127] Adriano
 [ch0129] Lyris
+[ch0137] Professor Oak
 [ch0140] Giovanni
 [ch0153] Frida
 [ch9000] 
@@ -9340,6 +9398,7 @@ trainer_name_it.lsd
 ===========
 trainer_name_ja.lsd
 ===========
+[ch0000] レッド
 [ch0001] ククイ
 [ch0002] コトネ
 [ch0003] カルム
@@ -9446,6 +9505,7 @@ trainer_name_ja.lsd
 [ch0124] マオ
 [ch0127] ミクリ
 [ch0129] ヒガナ
+[ch0137] オーキド
 [ch0140] サカキ
 [ch0153] プリム
 [ch9000] 
@@ -9453,6 +9513,7 @@ trainer_name_ja.lsd
 ===========
 trainer_name_ko.lsd
 ===========
+[ch0000] 레드
 [ch0001] 쿠쿠이
 [ch0002] 금선
 [ch0003] 칼름
@@ -9559,6 +9620,7 @@ trainer_name_ko.lsd
 [ch0124] 마오
 [ch0127] 윤진
 [ch0129] 피아나
+[ch0137] 오박사
 [ch0140] 비주기
 [ch0153] 미혜
 [ch9000] 
@@ -9566,6 +9628,7 @@ trainer_name_ko.lsd
 ===========
 trainer_name_zh-TW.lsd
 ===========
+[ch0000] 赤紅
 [ch0001] 庫庫伊
 [ch0002] 琴音
 [ch0003] 卡魯穆
@@ -9672,6 +9735,7 @@ trainer_name_zh-TW.lsd
 [ch0124] 瑪奧
 [ch0127] 米可利
 [ch0129] 希嘉娜
+[ch0137] 大木
 [ch0140] 阪木
 [ch0153] 波妮
 [ch9000] 
@@ -9711,6 +9775,7 @@ common_widget_de.lsd
 [common_widget/button_008] Bestätigen
 [common_widget/button_009] Zurück
 [common_widget/button_010] Noch mal
+[common_widget/button_011] Missionen
 [common_widget/loading_001] Ladevorgang...
 [common_widget/loading_002] Los!
 [common_widget/loading_003] Verbindet...
@@ -9975,6 +10040,11 @@ in Kapitel 18 (Multimodus, Schwer) freigeschaltet.
 Kapitel 2 der Hauptgeschichte freigeschaltet.
 [common_widget/release_007] Wird nach Abschluss von „Alolas aufgehende Sterne 2“ in
 Kapitel 11 der Hauptgeschichte freigeschaltet.
+[common_widget/dialog_release_010] Wird nach Abschluss von „Nieder
+mit Team Break!“ in Kapitel 2 der
+Hauptgeschichte freigeschaltet.
+[common_widget/release_009] Wird nach Abschluss von „Nieder mit Team Break!“ in
+Kapitel 2 der Hauptgeschichte freigeschaltet.
 
 ===========
 common_widget_en.lsd
@@ -10010,6 +10080,7 @@ common_widget_en.lsd
 [common_widget/button_008] Confirm
 [common_widget/button_009] Back
 [common_widget/button_010] Battle Again
+[common_widget/button_011] Missions
 [common_widget/loading_001] Loading...
 [common_widget/loading_002] GO!
 [common_widget/loading_003] Loading...
@@ -10238,6 +10309,10 @@ Hilbert & Hilda in co-op mode on Hard.
 [common_widget/release_006] To unlock, complete Chapter 2: A Friendly New Rival.
 [common_widget/release_007] To unlock, complete
 Chapter 11: Alola’s Rising Stars: Part  2.
+[common_widget/dialog_release_010] To unlock, complete Chapter 2:
+Defeat Team Break!
+[common_widget/release_009] To unlock, complete Chapter 2:
+Defeat Team Break!
 
 ===========
 common_widget_es.lsd
@@ -10273,6 +10348,7 @@ common_widget_es.lsd
 [common_widget/button_008] Confirmar
 [common_widget/button_009] Atrás
 [common_widget/button_010] Otro combate
+[common_widget/button_011] Misiones
 [common_widget/loading_001] Cargando...
 [common_widget/loading_002] ¡Vamos!
 [common_widget/loading_003] Conectando...
@@ -10513,6 +10589,8 @@ principal.
 historia principal.
 [common_widget/release_007] Completa "Las estrellas de Alola (2)" del capítulo 11 de la
 historia principal.
+[common_widget/dialog_release_010] Disponible tras completar la ubicación "Hay que derrotar al Team Break" del capítulo 2 de la historia principal.
+[common_widget/release_009] Disponible tras completar la ubicación "Hay que derrotar al Team Break" del capítulo 2 de la historia principal.
 
 ===========
 common_widget_fr.lsd
@@ -10548,6 +10626,7 @@ common_widget_fr.lsd
 [common_widget/button_008] Confirmer
 [common_widget/button_009] Retour
 [common_widget/button_010] Recommencer
+[common_widget/button_011] Missions
 [common_widget/loading_001] Chargement...
 [common_widget/loading_002] Allez !
 [common_widget/loading_003] Connexion...
@@ -10792,6 +10871,11 @@ le chapitre 4.
 (difficile) dans le chapitre 18.
 [common_widget/release_006] Terminez « Un allié fiable » dans le chapitre 2.
 [common_widget/release_007] Terminez « Les espoirs d'Alola II » dans le chapitre 11.
+[common_widget/dialog_release_010] Débloqué après avoir terminé
+« Battons la Team Break »
+dans le chapitre 2.
+[common_widget/release_009] Terminez « Battons la Team Break ! »
+dans le chapitre 2.
 
 ===========
 common_widget_it.lsd
@@ -10827,6 +10911,7 @@ common_widget_it.lsd
 [common_widget/button_008] Conferma
 [common_widget/button_009] Indietro
 [common_widget/button_010] Lotta di nuovo
+[common_widget/button_011] Missioni
 [common_widget/loading_001] Caricamento
 [common_widget/loading_002] VIA!
 [common_widget/loading_003] Connessione...
@@ -11060,6 +11145,9 @@ del capitolo 18 della storia in modalità multigiocatore.
 [common_widget/release_006] Completa "Amicizie stimolanti" del capitolo 2 della storia.
 [common_widget/release_007] Completa "Gli astri di Alola (parte 2)" del capitolo 11
 della storia.
+[common_widget/dialog_release_010] Si sblocca completando "Sconfiggi il Team Break!"
+del capitolo 2.
+[common_widget/release_009] Completa "Sconfiggi il Team Break!" del capitolo 2.
 
 ===========
 common_widget_ja.lsd
@@ -11095,6 +11183,7 @@ common_widget_ja.lsd
 [common_widget/button_008] 確認
 [common_widget/button_009] もどる
 [common_widget/button_010] もういちどバトル
+[common_widget/button_011] ミッションへ
 [common_widget/loading_001] Loading...
 [common_widget/loading_002] 出発
 [common_widget/loading_003] 通信中……
@@ -11342,6 +11431,11 @@ HARDクリアで解放
 クリアで解放
 [common_widget/release_007] メインストーリー第１１章「アローラの新星！　後編」
 クリアで解放
+[common_widget/dialog_release_010] メインストーリー第２章
+「ブレイク団を倒せ！」
+クリアで解放されます
+[common_widget/release_009] メインストーリー第２章「ブレイク団を倒せ！」
+クリアで解放
 
 ===========
 common_widget_ko.lsd
@@ -11377,6 +11471,7 @@ common_widget_ko.lsd
 [common_widget/button_008] 확인
 [common_widget/button_009] 돌아가기
 [common_widget/button_010] 한번 더 출발
+[common_widget/button_011] 미션으로
 [common_widget/loading_001] Loading...
 [common_widget/loading_002] 출발
 [common_widget/loading_003] 통신 중...
@@ -11618,6 +11713,11 @@ Lv.MAX
 클리어하여 해방
 [common_widget/release_007] 메인 스토리 제11장 "알로라의 신성! 후편"을
 클리어하여 해방
+[common_widget/dialog_release_010] 메인 스토리 제2장
+"브레이크단을 쓰러뜨려라!"를
+클리어하면 해방됩니다
+[common_widget/release_009] 메인 스토리 제2장 "브레이크단을 쓰러뜨려라!"를
+클리어하면 해방
 
 ===========
 common_widget_zh-TW.lsd
@@ -11654,6 +11754,7 @@ common_widget_zh-TW.lsd
 [common_widget/button_008] 確認
 [common_widget/button_009] 返回
 [common_widget/button_010] 再次對戰
+[common_widget/button_011] 前往任務
 [common_widget/loading_001] Loading...
 [common_widget/loading_002] 出發
 [common_widget/loading_003] 正在連線……
@@ -11876,6 +11977,10 @@ Lv.MAX
 成功過關主線劇情第２章「可靠的夥伴」
 [common_widget/release_007] 開放條件：
 成功過關主線劇情第１１章「阿羅拉的新星！　後篇」
+[common_widget/dialog_release_010] 成功過關主線劇情第２章
+「打倒破壞隊！」即可開放
+[common_widget/release_009] 開放條件：
+成功過關主線劇情第２章「打倒破壞隊！」
 
 ===========
 error_dialog_contents_de.lsd
@@ -17733,6 +17838,9 @@ freuen!
 bitte eine Bewertung.
 
 Danke!
+[title/push_001] Pokémon Masters
+[title/push_002] Adventure is waiting for you on Pasio. Log in now!
+[title/push_003] Notification
 
 ===========
 title_en.lsd
@@ -18048,6 +18156,9 @@ We’d love to hear your feedback!
 If you have a moment to leave
 a review, we’d love to hear
 your feedback!
+[title/push_001] Pokémon Masters
+[title/push_002] Adventure is waiting for you on Pasio. Log in now!
+[title/push_003] Notification
 
 ===========
 title_es.lsd
@@ -18369,6 +18480,9 @@ juego. ¿Tienes algún comentario?
 [title/review_005] ¡Muchas gracias!
 
 ¿Por qué no dejas una valoración?
+[title/push_001] Pokémon Masters
+[title/push_002] Adventure is waiting for you on Pasio. Log in now!
+[title/push_003] Notification
 
 ===========
 title_fr.lsd
@@ -18703,6 +18817,9 @@ opinion nous est très importante.
 
 Si vous avez un moment, voulez-vous
 laisser un commentaire ?
+[title/push_001] Pokémon Masters
+[title/push_002] Adventure is waiting for you on Pasio. Log in now!
+[title/push_003] Notification
 
 ===========
 title_it.lsd
@@ -19023,6 +19140,9 @@ di gioco.
 [title/review_005] Grazie!
 
 Se vuoi, puoi lasciare una recensione.
+[title/push_001] Pokémon Masters
+[title/push_002] Adventure is waiting for you on Pasio. Log in now!
+[title/push_003] Notification
 
 ===========
 title_ja.lsd
@@ -19379,6 +19499,9 @@ OSの処理によってダウンロードが止まることがあります
 
 もしよろしければレビューに
 ご協力をお願いします
+[title/push_001] ポケモンマスターズ
+[title/push_002] パシオでの冒険をはじめよう！
+[title/push_003] Notification
 
 ===========
 title_ko.lsd
@@ -19708,6 +19831,9 @@ OS 처리 상황에 따라 다운로드가 중지될 수 있습니다
 
 괜찮으시다면
 리뷰를 남겨주세요
+[title/push_001] Pokémon Masters
+[title/push_002] Adventure is waiting for you on Pasio. Log in now!
+[title/push_003] Notification
 
 ===========
 title_zh-TW.lsd
@@ -20014,4 +20140,7 @@ OS 버전, OS 타입, 타게팅 광고의 제한에 관한 설정 상태, 단말
 [title/review_005] 非常感謝您！
 
 歡迎您留下評論！
+[title/push_001] Pokémon Masters
+[title/push_002] Adventure is waiting for you on Pasio. Log in now!
+[title/push_003] Notification
 
