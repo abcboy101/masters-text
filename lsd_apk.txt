@@ -2113,6 +2113,52 @@ Hoffnung
 [quest_title_1030301001002030] Vs. Flordelis 2
 [quest_title_1030301001002040] Vs. Professor Platan 2
 [quest_group_detail_100037] Starke Bande
+[quest_group_title_10247000000] Delion
+[quest_group_title_10245000000] Mary
+[quest_group_title_10158000000] Diantha
+[quest_title_1030210158000000] Ein Tag mit Diantha
+[quest_title_1030210247000000] Ein Tag mit Delion
+[quest_title_1030210245000000] Ein Tag mit Mary
+[quest_title_1030302000701001] Vs. Latias
+[quest_title_1030302010701001] Vs. Latias 2
+[quest_title_1030302020701001] Vs. Latias 3
+[quest_title_1030302000601000] Der unschlagbare Delion trifft
+auf Passio ein!
+[quest_title_1030302000601010] Bühne frei für die
+Schaukämpfe!
+[quest_title_1030302000601020] Die Macht der Zuversicht
+[quest_title_1030302000601030] It’s champ time!
+[quest_title_1030302000602050] Täglicher schwerer Kampf
+[quest_title_1030302000602060] Kollektivkampf 1
+[quest_title_1030302000602070] Kollektivkampf 2
+[quest_title_1030302000601040] Ver(w)irrter Champ
+[quest_title_1030302000601050] Setz dich durch!
+[quest_title_1030302000601060] Überraschungskonzert?
+[quest_title_1030302000601070] Champ time mit Stil
+[quest_title_1030302000601080] Der Trick fürs Lächeln
+[quest_title_1030302000601090] Camping mit Evoli
+[quest_title_1030302000601100] Einmal Freunde, immer
+Freunde
+[quest_title_1030302000601110] Marys Jubel-Truppe
+[quest_title_1030302000601120] Delions Mentor
+[quest_group_title_10092800000] Lilia (Champ)
+[quest_title_1030302000603010] Wenn ich hier auf Passio
+mein Bestes gebe...
+[quest_title_1030302000603020] Verwirklichen wir unsere
+Träume!
+[quest_title_1030302000605000] Das Fest der Champs
+beginnt!
+[quest_title_1030302000605010] Champs, versammelt euch!
+[quest_title_1030302000605020] Was einen Champ ausmacht
+[quest_title_1030302000605030] Trikephalos Herz
+[quest_title_1030302000605040] Eine ehrgeizige Prinzessin
+[quest_title_1030302000605050] Vs. Lilia
+[quest_title_1030302000605060] Vs. Lilia 2
+[quest_title_1030302000605070] Vs. Lilia 3
+[quest_title_1030302000605080] Vs. Lilia 4
+[quest_title_1030302000605090] Vs. Drachen-Gefährten
+[quest_title_1030210092800000] Ein Tag mit Lilia
+[quest_title_1030302001010060] Konfrontation: Zyrus 6
 
 ===========
 story_quest_name_en.lsd
@@ -3499,6 +3545,47 @@ story_quest_name_en.lsd
 [quest_title_1030301001002030] Challenge Lysandre: Part 2
 [quest_title_1030301001002040] Challenge Professor Sycamore: Part 2
 [quest_group_detail_100037] Shining Bonds
+[quest_group_title_10247000000] Leon
+[quest_group_title_10245000000] Marnie
+[quest_group_title_10158000000] Diantha
+[quest_title_1030210158000000] A Day with Diantha
+[quest_title_1030210247000000] A Day with Leon
+[quest_title_1030210245000000] A Day with Marnie
+[quest_title_1030302000701001] Latias’s Challenge: Part 1
+[quest_title_1030302010701001] Latias’s Challenge: Part 2
+[quest_title_1030302020701001] Latias’s Challenge: Part 3
+[quest_title_1030302000601000] The Unbeatable Leon Arrives
+[quest_title_1030302000601010] Exhibition Match Kick-Off
+[quest_title_1030302000601020] Believe to Achieve!
+[quest_title_1030302000601030] A Champion Time for All
+[quest_title_1030302000602050] Daily Super Tough Battle!
+[quest_title_1030302000602060] Full-Force Battle! Round 1
+[quest_title_1030302000602070] Full-Force Battle! Round 2
+[quest_title_1030302000601040] Lost Champion
+[quest_title_1030302000601050] Shout and Cheer!
+[quest_title_1030302000601060] Jam Session
+[quest_title_1030302000601070] Champion Taste
+[quest_title_1030302000601080] How to Smile
+[quest_title_1030302000601090] Adventures with Eevee
+[quest_title_1030302000601100] Partners Forever
+[quest_title_1030302000601110] Marnie’s Cheering Squad
+[quest_title_1030302000601120] Taught by the Best
+[quest_group_title_10092800000] Iris
+(Champion)
+[quest_title_1030302000603010] Fame and Glory
+[quest_title_1030302000603020] Teamwork Makes the Dream Work
+[quest_title_1030302000605000] Festival of Champions
+[quest_title_1030302000605010] The Champions Assemble
+[quest_title_1030302000605020] What Makes a Champion
+[quest_title_1030302000605030] Hydreigon’s Heart
+[quest_title_1030302000605040] The Rising Champion
+[quest_title_1030302000605050] Challenge Iris: Part 1
+[quest_title_1030302000605060] Challenge Iris: Part 2
+[quest_title_1030302000605070] Challenge Iris: Part 3
+[quest_title_1030302000605080] Challenge Iris: Part 4
+[quest_title_1030302000605090] Challenge the Dragon Sync Pairs
+[quest_title_1030210092800000] A Day with Iris
+[quest_title_1030302001010060] Take Down Cyrus! Round 6
 
 ===========
 story_quest_name_es.lsd
@@ -4929,6 +5016,51 @@ gratitud
 [quest_title_1030301001002030] VS. Lysson (2)
 [quest_title_1030301001002040] VS. Profesor Ciprés (2)
 [quest_group_detail_100037] Vínculos que iluminan
+[quest_group_title_10247000000] Lionel
+[quest_group_title_10245000000] Roxy
+[quest_group_title_10158000000] Dianta
+[quest_title_1030210158000000] Un día con Dianta
+[quest_title_1030210247000000] Un día con Lionel
+[quest_title_1030210245000000] Un día con Roxy
+[quest_title_1030302000701001] VS. Latias
+[quest_title_1030302010701001] VS. Latias (2)
+[quest_title_1030302020701001] VS. Latias (3)
+[quest_title_1030302000601000] ¡Ha llegado el imbatible Lionel!
+[quest_title_1030302000601010] ¡Que comiencen los combates
+de exhibición!
+[quest_title_1030302000601020] Quien la sigue la consigue
+[quest_title_1030302000601030] ¡Los Campeones pueden con
+todo!
+[quest_title_1030302000602050] ¡Un combate difícil al día!
+[quest_title_1030302000602060] ¡Un combate colectivo!
+[quest_title_1030302000602070] ¡Un combate colectivo! (2)
+[quest_title_1030302000601040] Perdido como un Campeón
+[quest_title_1030302000601050] ¡A grito pelao!
+[quest_title_1030302000601060] ¿Un concierto sorpresa?
+[quest_title_1030302000601070] Al gusto de cada Campeón
+[quest_title_1030302000601080] El mejor truco para sonreír
+[quest_title_1030302000601090] ¡De acampada con Eevee!
+[quest_title_1030302000601100] Recuerdos de un Pokémon
+[quest_title_1030302000601110] Los hinchas de Roxy
+[quest_title_1030302000601120] No hay maestro mejor
+[quest_group_title_10092800000] Iris (Campeona)
+[quest_title_1030302000603010] Es hora de pelear por Passio
+[quest_title_1030302000603020] Hagamos realidad nuestros
+sueños
+[quest_title_1030302000605000] ¡Comienza el Festival de
+Campeones!
+[quest_title_1030302000605010] ¡Campeones, reuníos!
+[quest_title_1030302000605020] Lo que nos hace Campeones
+[quest_title_1030302000605030] El corazón de Hydreigon
+[quest_title_1030302000605040] Una Campeona apuntando a
+lo más alto
+[quest_title_1030302000605050] VS. Iris
+[quest_title_1030302000605060] VS. Iris (2)
+[quest_title_1030302000605070] VS. Iris (3)
+[quest_title_1030302000605080] VS. Iris (4)
+[quest_title_1030302000605090] VS. Domadragones
+[quest_title_1030210092800000] Un día con Iris
+[quest_title_1030302001010060] ¡Vence a Helio! (6)
 
 ===========
 story_quest_name_fr.lsd
@@ -6435,6 +6567,55 @@ sublime
 [quest_title_1030301001002040] Combat :
 Professeur Platane II
 [quest_group_detail_100037] La lumière des liens
+[quest_group_title_10247000000] Tarak
+[quest_group_title_10245000000] Rosemary
+[quest_group_title_10158000000] Dianthéa
+[quest_title_1030210158000000] Une journée avec Dianthéa
+[quest_title_1030210247000000] Une journée avec Tarak
+[quest_title_1030210245000000] Une journée avec Rosemary
+[quest_title_1030302000701001] Combat : Latias
+[quest_title_1030302010701001] Combat : Latias II
+[quest_title_1030302020701001] Combat : Latias III
+[quest_title_1030302000601000] Le Maître Invaincu
+est à Passio !
+[quest_title_1030302000601010] Début des combats amicaux
+[quest_title_1030302000601020] La force de croire en soi
+[quest_title_1030302000601030] Le Maître Invaincu
+est dans la place !
+[quest_title_1030302000602050] Combat difficile limité
+à une fois par jour !
+[quest_title_1030302000602060] Combat Collectif :
+l'affrontement !
+[quest_title_1030302000602070] Combat Collectif :
+l'affrontement ! II
+[quest_title_1030302000601040] Un Maître égaré
+[quest_title_1030302000601050] Faites du bruit !
+[quest_title_1030302000601060] Concert surprise ?
+[quest_title_1030302000601070] Le style d'un Maître
+[quest_title_1030302000601080] Le secret d'un sourire sincère
+[quest_title_1030302000601090] Camping avec Évoli
+[quest_title_1030302000601100] Amis un jour,
+amis toujours
+[quest_title_1030302000601110] Les fans de Rosemary
+[quest_title_1030302000601120] Le maître de Tarak
+[quest_group_title_10092800000] Iris (Maître)
+[quest_title_1030302000603010] Gagner le cœur de Passio
+[quest_title_1030302000603020] Que tous les rêves
+deviennent réalité
+[quest_title_1030302000605000] Que le Festival des Maîtres
+commence !
+[quest_title_1030302000605010] Le rassemblement
+des Maîtres
+[quest_title_1030302000605020] L'étoffe d'un Maître
+[quest_title_1030302000605030] Le cœur de Trioxhydre
+[quest_title_1030302000605040] L'évolution d'un Maître
+[quest_title_1030302000605050] Combat : Iris
+[quest_title_1030302000605060] Combat : Iris II
+[quest_title_1030302000605070] Combat : Iris III
+[quest_title_1030302000605080] Combat : Iris IV
+[quest_title_1030302000605090] Combat : Dracologues
+[quest_title_1030210092800000] Une journée avec Iris
+[quest_title_1030302001010060] Contre Hélio VI
 
 ===========
 story_quest_name_it.lsd
@@ -7809,6 +7990,46 @@ story_quest_name_it.lsd
 [quest_title_1030301001002030] VS Elisio 2
 [quest_title_1030301001002040] VS Platan 2
 [quest_group_detail_100037] Lo splendore dei legami
+[quest_group_title_10247000000] Dandel
+[quest_group_title_10245000000] Mary
+[quest_group_title_10158000000] Diantha
+[quest_title_1030210158000000] Un giorno con Diantha
+[quest_title_1030210247000000] Un giorno con Dandel
+[quest_title_1030210245000000] Un giorno con Mary
+[quest_title_1030302000701001] VS Latias
+[quest_title_1030302010701001] VS Latias 2
+[quest_title_1030302020701001] VS Latias 3
+[quest_title_1030302000601000] Arriva l'invincibile Dandel!
+[quest_title_1030302000601010] Iniziano gli incontri amichevoli!
+[quest_title_1030302000601020] La forza della fiducia in se stessi
+[quest_title_1030302000601030] It's champion time!
+[quest_title_1030302000602050] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030302000602060] Una Lotta Collettiva!
+[quest_title_1030302000602070] Una Lotta Collettiva! 2
+[quest_title_1030302000601040] Il Campione si è perso
+[quest_title_1030302000601050] Un tifo da urlo!
+[quest_title_1030302000601060] Un concerto a sorpresa?
+[quest_title_1030302000601070] A ognuno il suo champion time
+[quest_title_1030302000601080] Il segreto per un sorriso smagliante
+[quest_title_1030302000601090] In campeggio con Eevee!
+[quest_title_1030302000601100] Ricordi di un Pokémon
+[quest_title_1030302000601110] Il fan club di Mary a Pasio!
+[quest_title_1030302000601120] Dandel e il suo maestro
+[quest_group_title_10092800000] Iris (Campionessa)
+[quest_title_1030302000603010] Se faccio del mio meglio qui a Pasio...
+[quest_title_1030302000603020] Realizziamo i nostri sogni insieme!
+[quest_title_1030302000605000] Inizia il Festival dei Campioni!
+[quest_title_1030302000605010] Il raduno dei Campioni!
+[quest_title_1030302000605020] Ciò che conta per una Campionessa
+[quest_title_1030302000605030] Il cuore di Hydreigon
+[quest_title_1030302000605040] Una Campionessa che mira più in alto
+[quest_title_1030302000605050] VS Iris
+[quest_title_1030302000605060] VS Iris 2
+[quest_title_1030302000605070] VS Iris 3
+[quest_title_1030302000605080] VS Iris 4
+[quest_title_1030302000605090] VS Unità Drago
+[quest_title_1030210092800000] Un giorno con Iris
+[quest_title_1030302001010060] Sconfiggi Cyrus! 6
 
 ===========
 story_quest_name_ja.lsd
@@ -9196,6 +9417,47 @@ story_quest_name_ja.lsd
 [quest_title_1030301001002030] ＶＳ　フラダリ２
 [quest_title_1030301001002040] ＶＳ　プラターヌ２
 [quest_group_detail_100037] 光り輝くきずな
+[quest_group_title_10247000000] ダンデ
+[quest_group_title_10245000000] マリィ
+[quest_group_title_10158000000] カルネ
+[quest_title_1030210158000000] とある日のカルネ
+[quest_title_1030210247000000] とある日のダンデ
+[quest_title_1030210245000000] とある日のマリィ
+[quest_title_1030302000701001] ＶＳ　ラティアス
+[quest_title_1030302010701001] ＶＳ　ラティアス２
+[quest_title_1030302020701001] ＶＳ　ラティアス３
+[quest_title_1030302000601000] 無敵のダンデ　パシオに登場！
+[quest_title_1030302000601010] 開幕！　エキシビション！！
+[quest_title_1030302000601020] 信じるからこそ生まれる力！
+[quest_title_1030302000601030] レッツ　チャンピオン　タイム！
+[quest_title_1030302000602050] １日１回限定・高難度バトル！
+[quest_title_1030302000602060] ソウリョクバトルで勝負！
+[quest_title_1030302000602070] ソウリョクバトルで勝負！２
+[quest_title_1030302000601040] 迷子のチャンピオン
+[quest_title_1030302000601050] とびっきりのエールを！
+[quest_title_1030302000601060] ゲリラライブ？
+[quest_title_1030302000601070] それぞれのチャンピオン　タイム
+[quest_title_1030302000601080] 笑顔のコツ
+[quest_title_1030302000601090] イーブイとレッツキャンプ！
+[quest_title_1030302000601100] 思い出のポケモン
+[quest_title_1030302000601110] マリィのパシオ応援団！
+[quest_title_1030302000601120] ダンデ　我が師を　思う
+[quest_group_title_10092800000] アイリス
+（アナザー）
+[quest_title_1030302000603010] パシオでがんばったら……
+[quest_title_1030302000603020] みんなで夢をかなえたい
+[quest_title_1030302000605000] チャンピオンフェスタ開催！
+[quest_title_1030302000605010] 集結！　チャンピオン！
+[quest_title_1030302000605020] チャンピオンに必要なもの
+[quest_title_1030302000605030] サザンドラの心
+[quest_title_1030302000605040] チャンピオンの上を目指す姫
+[quest_title_1030302000605050] ＶＳ　アイリス
+[quest_title_1030302000605060] ＶＳ　アイリス２
+[quest_title_1030302000605070] ＶＳ　アイリス３
+[quest_title_1030302000605080] ＶＳ　アイリス４
+[quest_title_1030302000605090] ＶＳ　ドラゴンバディーズ
+[quest_title_1030210092800000] とある日のアイリス
+[quest_title_1030302001010060] 対決！　アカギ６
 
 ===========
 story_quest_name_ko.lsd
@@ -10582,6 +10844,47 @@ story_quest_name_ko.lsd
 [quest_title_1030301001002030] VS 플라드리2
 [quest_title_1030301001002040] VS 플라타느2
 [quest_group_detail_100037] 눈부시게 빛나는 유대
+[quest_group_title_10247000000] 단델
+[quest_group_title_10245000000] 마리
+[quest_group_title_10158000000] 카르네
+[quest_title_1030210158000000] 카르네의 어느 날
+[quest_title_1030210247000000] 단델의 어느 날
+[quest_title_1030210245000000] 마리의 어느 날
+[quest_title_1030302000701001] VS 라티아스
+[quest_title_1030302010701001] VS 라티아스2
+[quest_title_1030302020701001] VS 라티아스3
+[quest_title_1030302000601000] 무적의 단델, 파시오에 등장!
+[quest_title_1030302000601010] 개막! 시범 경기!!
+[quest_title_1030302000601020] 신뢰하기에 움트는 힘
+[quest_title_1030302000601030] 레츠 챔피언 타임!
+[quest_title_1030302000602050] 1일 1회 한정 고난도 배틀!
+[quest_title_1030302000602060] 총력배틀로 승부!
+[quest_title_1030302000602070] 총력배틀로 승부!2
+[quest_title_1030302000601040] 길 잃은 챔피언
+[quest_title_1030302000601050] 최고의 응원을!
+[quest_title_1030302000601060] 즉석 공연?
+[quest_title_1030302000601070] 각자의 챔피언 타임
+[quest_title_1030302000601080] 미소 짓는 비결
+[quest_title_1030302000601090] 이브이와 레츠 캠핑!
+[quest_title_1030302000601100] 추억 어린 포켓몬
+[quest_title_1030302000601110] 마리의 파시오 응원단!
+[quest_title_1030302000601120] 단델, 그의 스승을 생각하다
+[quest_group_title_10092800000] 아이리스
+(어나더)
+[quest_title_1030302000603010] 파시오에서 노력하면...
+[quest_title_1030302000603020] 다 함께 꿈을 이루고 싶어
+[quest_title_1030302000605000] 챔피언 페스타 개최!
+[quest_title_1030302000605010] 챔피언 집합!
+[quest_title_1030302000605020] 챔피언에게 필요한 것
+[quest_title_1030302000605030] 삼삼드래의 마음
+[quest_title_1030302000605040] 챔피언 이상의 목표를 가진 소녀
+[quest_title_1030302000605050] VS 아이리스
+[quest_title_1030302000605060] VS 아이리스2
+[quest_title_1030302000605070] VS 아이리스3
+[quest_title_1030302000605080] VS 아이리스4
+[quest_title_1030302000605090] VS 드래곤 버디즈
+[quest_title_1030210092800000] 아이리스의 어느 날
+[quest_title_1030302001010060] 대결! 태홍6
 
 ===========
 story_quest_name_zh-TW.lsd
@@ -11968,6 +12271,47 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030301001002030] ＶＳ　弗拉達利２
 [quest_title_1030301001002040] ＶＳ　布拉塔諾２
 [quest_group_detail_100037] 光輝耀眼的牽絆
+[quest_group_title_10247000000] 丹帝
+[quest_group_title_10245000000] 瑪俐
+[quest_group_title_10158000000] 卡露妮
+[quest_title_1030210158000000] 某日的卡露妮
+[quest_title_1030210247000000] 某日的丹帝
+[quest_title_1030210245000000] 某日的瑪俐
+[quest_title_1030302000701001] ＶＳ　拉帝亞斯
+[quest_title_1030302010701001] ＶＳ　拉帝亞斯２
+[quest_title_1030302020701001] ＶＳ　拉帝亞斯３
+[quest_title_1030302000601000] 無敵丹帝在帕希歐登場！
+[quest_title_1030302000601010] 模擬戰開幕！！
+[quest_title_1030302000601020] 因信賴而生的力量！
+[quest_title_1030302000601030] 讓我們共度冠軍時刻吧！
+[quest_title_1030302000602050] １天僅限１次的高難度對戰！
+[quest_title_1030302000602060] 用大對戰決勝負！
+[quest_title_1030302000602070] 用大對戰決勝負！２
+[quest_title_1030302000601040] 迷路的冠軍
+[quest_title_1030302000601050] 最棒的聲援！
+[quest_title_1030302000601060] 快閃表演？
+[quest_title_1030302000601070] 各自的冠軍時刻
+[quest_title_1030302000601080] 笑容的訣竅
+[quest_title_1030302000601090] 和伊布一起露營！
+[quest_title_1030302000601100] 回憶中的寶可夢
+[quest_title_1030302000601110] 瑪俐的帕希歐加油團！
+[quest_title_1030302000601120] 丹帝思我師
+[quest_group_title_10092800000] 艾莉絲
+（冠軍）
+[quest_title_1030302000603010] 在帕希歐努力的話……
+[quest_title_1030302000603020] 想和大家一起實現夢想
+[quest_title_1030302000605000] 冠軍祭典開跑！
+[quest_title_1030302000605010] 冠軍大集合！
+[quest_title_1030302000605020] 冠軍必備的條件
+[quest_title_1030302000605030] 三首惡龍的心
+[quest_title_1030302000605040] 目標超越冠軍的公主
+[quest_title_1030302000605050] ＶＳ　艾莉絲
+[quest_title_1030302000605060] ＶＳ　艾莉絲２
+[quest_title_1030302000605070] ＶＳ　艾莉絲３
+[quest_title_1030302000605080] ＶＳ　艾莉絲４
+[quest_title_1030302000605090] ＶＳ　龍屬性拍組
+[quest_title_1030210092800000] 某日的艾莉絲
+[quest_title_1030302001010060] 一決勝負！　赤日６
 
 ===========
 trainer_description_de.lsd
@@ -12398,6 +12742,22 @@ mit ihrem Elfun..
 Fest der Freundschaft zu beginnen! Mithilfe von Pokusan
 wird sie mit viel Liebe allerlei süße Snacks für ihre
 Freunde auf den Tisch zaubern.
+[10158000000] Der Champ der Kalos-Region ist auch eine berühmte
+Schauspielerin. Diantha besitzt ein freundliches Wesen und
+hat Interesse an talentierten Trainern. Sie ist häufig in
+Cafés anzutreffen.
+[10092800000] Lilia hat sich als Champ von Einall behauptet. Ihr Auftreten
+ist ruhiger als in der Vergangenheit und strahlt eine damit
+verbundene Stärke aus. Sie genießt ernsthafte Kämpfe mit
+starken Trainern.
+[10245000000] Eine Trainerin, die Spikeford aus der Galar-Region
+repräsentiert. Für ihre Stadt hat sie es sich zum Ziel
+gesetzt, Champ zu werden. Ihre vielen Fans verdankt sie
+ihrem Kampfeseifer und ihrer Schönheit.
+[10247000000] Delion ist Champ der Galar-Region und besitzt eine
+unschlagbare Stärke. Als Superstar ist er unvergleichlich
+charismatisch und erfreut sich enormer Berühmtheit. Sein
+Orientierungssinn lässt jedoch zu wünschen übrig.
 
 ===========
 trainer_description_en.lsd
@@ -12814,6 +13174,18 @@ coordination with her Whimsicott is spot-on!
 [10116400000] Dawn is ready to start baking for a special event!
 Together with Alcremie, she’ll be whipping up some
 sweet snacks to give to her friends with all her heart.
+[10158000000] Diantha is the Kalos Champion and also a famous actress.
+She’s quite friendly and loves striking up conversations
+with skilled Trainers. She can often be found in cafés.
+[10092800000] Now Champion of the Unova region, Iris has calmed down
+slightly but is just as strong a Trainer as ever. She enjoys
+having serious battles with skilled Trainers.
+[10245000000] This Trainer from Spikemuth in the Galar region hopes to
+become Champion to liven up her hometown. Her battle
+tactics and cute appearance have earned her many fans.
+[10247000000] The Galar Champion, known as the unbeatable Leon, is a
+superstar who boasts unprecedented charisma and
+popularity. Rumor has it he is quite bad with directions.
 
 ===========
 trainer_description_es.lsd
@@ -13307,6 +13679,22 @@ conjuntada con su Whimsicott.
 Junto con Alcremie, la encontrarás recubriéndolos
 de nata para regalárselos a sus amigos con todo
 el cariño del mundo.
+[10158000000] La Campeona de la región de Kalos es también una actriz
+de renombre. Tiene un carácter amigable y se interesa
+por los Entrenadores con talento. Suele dejarse caer por
+las cafeterías.
+[10092800000] Ahora que es Campeona de Teselia, Iris ha adquirido más
+templanza, pero sigue siendo igual de combativa.
+Le encanta medir sus fuerzas con Entrenadores que la
+pongan a prueba.
+[10245000000] Una Entrenadora que representa a Pueblo Crampón, en la
+región de Galar. Quiere convertirse en Campeona para
+honrar a su pueblo natal. Su estilo y su dinamismo le han
+granjeado muchos admiradores.
+[10247000000] Este Campeón de Galar tiene una fuerza imbatible.
+Su inigualable carisma hace que sea venerado como una
+superestrella. La única pega que tiene es su terrible
+sentido de la orientación.
 
 ===========
 trainer_description_fr.lsd
@@ -13727,6 +14115,21 @@ spécial ! Avec son nouveau sac tout mignon, sa tenue
 [10116400000] Aurore s'apprête à préparer tout plein de bonnes choses
 pour un jour très spécial ! Avec Charmilly, elle va faire
 de délicieuses friandises pour ses amis !
+[10158000000] Dianthéa est le Maître de Kalos et une actrice de cinéma
+célèbre. Elle est d'une nature amicale et aime discuter
+avec les Dresseurs talentueux. On raconte
+qu'elle fréquente les cafés.
+[10092800000] Depuis qu'elle est devenue le Maître d'Unys, Iris a gagné
+en maturité. C'est une puissante Dresseuse qui aime
+se battre contre des Dresseurs tout aussi talentueux.
+[10245000000] Cette Dresseuse de Smashings rêve de devenir
+Maître de Galar afin de raviver sa petite ville.
+Son esprit stratège et son style lui ont fait gagner
+de nombreux admirateurs.
+[10247000000] Connu comme le Maître Invaincu de Galar,
+Tarak possède un charisme fou qui lui a valu
+son immense popularité. En revanche, on raconte
+qu'il n'a aucun sens de l'orientation.
 
 ===========
 trainer_description_it.lsd
@@ -14172,6 +14575,22 @@ perfettamente con il suo Whimsicott!
 [10116400000] Lucinda si cimenta in cucina per un evento speciale,
 impegnandosi con tutto il cuore per preparare dei dolci
 per i suoi amici insieme ad Alcremie.
+[10158000000] Campionessa della regione di Kalos, nonché attrice
+famosa, ha un carattere molto affabile e mostra
+sempre interesse verso i giovani talenti. È un'assidua
+frequentatrice dei caffè.
+[10092800000] Iris, diventata Campionessa della regione di Unima,
+dimostra la sua vera forza con modi più pacati rispetto
+a prima. Le piace affrontare Allenatori di alto calibro.
+[10245000000] Allenatrice della regione di Galar, mira a diventare
+Campionessa per il bene della propria città, Spikeville.
+Il suo aspetto grazioso e la sua risolutezza nelle lotte
+hanno conquistato il cuore di innumerevoli fan.
+[10247000000] Invincibile Campione di Galar dalla forza impareggiabile,
+è così popolare e amato per le sue doti che tutti
+lo seguirebbero in capo al mondo. Seguirlo, però,
+potrebbe non essere una buona idea, dato che manca
+completamente di senso dell'orientamento.
 
 ===========
 trainer_description_ja.lsd
@@ -14587,6 +15006,18 @@ trainer_description_ja.lsd
 [10116400000] サンクスデイに　お菓子作りに　挑戦した　ヒカリ。
 マホイップと　思いをこめた　スイーツを　届ける。
 ふたりからは　おいしそうな　甘い　匂いがする。
+[10158000000] カロス地方の　チャンピオンにして　大女優。
+実力のある　トレーナーに　興味を示し　声をかける
+気さくな性格。よくカフェに　いるらしい。
+[10092800000] イッシュ地方　チャンピオンになった　アイリス。
+以前より　落ち着いた言動で　本来の強さを　発揮する。
+強いトレーナーとの　真剣勝負が　楽しみ。
+[10245000000] ガラル地方　スパイクタウンを代表する　トレーナー。
+自分の街のために　チャンピオンを　目指している。
+かれんな　みた目と　試合運びから　ファンが多い。
+[10247000000] ガラル地方の　チャンピオンで　無敵の強さを　持つ。
+いまだかつてない　カリスマ性で　絶大な人気を　誇る
+スーパースター。じつは　かなりの　方向音痴。
 
 ===========
 trainer_description_ko.lsd
@@ -15002,6 +15433,18 @@ trainer_description_ko.lsd
 [10116400000] 스위트데이를 맞아 과자 만들기에 도전한 빛나.
 마휘핑과 함께 마음을 담은 디저트를 전달한다.
 둘에게서는 맛있을 것 같은 달콤한 향기가 난다.
+[10158000000] 칼로스지방의 챔피언이자 인기 여배우 카르네.
+실력 있는 트레이너에게 흥미를 보이며
+말을 거는 싹싹한 성격. 자주 카페에 들린다는 듯하다.
+[10092800000] 하나지방의 챔피언이 된 아이리스.
+이전보다 차분해진 행동으로 본래 가진 실력을 발휘한다.
+강한 트레이너와의 진검승부를 즐긴다.
+[10245000000] 가라르지방 스파이크마을을 대표하는 트레이너.
+자신의 마을을 위해 챔피언을 목표하고 있다.
+귀여운 외모와 냉정한 시합 운영 능력 때문에 팬이 많다.
+[10247000000] 가라르지방의 챔피언으로 무적의 실력을 갖추고 있다.
+이전까지 없던 카리스마로 절대적인 인기를 자랑하는 슈퍼스타.
+실은 꽤 길치다.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -15416,6 +15859,18 @@ trainer_description_zh-TW.lsd
 [10116400000] 為了感謝日而挑戰做點心的小光。
 和霜奶仙一起分送滿是心意的甜點。
 他們的身上散發出美味香甜的香氣。
+[10158000000] 卡洛斯地區的冠軍和大明星。
+她的性格直率親切，會直接向感興趣的
+強大訓練家搭話。聽說她常出現在咖啡店。
+[10092800000] 成為合眾地區冠軍的艾莉絲。她的言行舉止
+變得比以前更加穩重，並發揮出她真正的實力。
+她很期待和強大的訓練家來場認真的對戰。
+[10245000000] 代表伽勒爾地區尖釘鎮的訓練家。
+她為了自己的故鄉，以成為冠軍為目標。
+可愛的外表和戰術的運用為她吸引了許多粉絲。
+[10247000000] 伽勒爾地區的冠軍，擁有無人能敵的強大實力。
+他渾身上下充滿前所未有的領袖魅力，讓他成為
+人氣非凡的超級明星。但其實他是一個大路痴。
 
 ===========
 trainer_name_de.lsd
@@ -15553,6 +16008,7 @@ trainer_name_de.lsd
 [ch0153] Frosina
 [ch0157] Valerie
 [ch9000] 
+[ch0158] Diantha
 [ch0159] Perenus
 [ch0170] Artie
 [ch0183] Marlon
@@ -15564,6 +16020,8 @@ trainer_name_de.lsd
 [ch0240] Jessie
 [ch0241] James
 [ch0243] Gloria
+[ch0245] Mary
+[ch0247] Delion
 [ch0256] Nezz
 
 ===========
@@ -15702,6 +16160,7 @@ trainer_name_en.lsd
 [ch0153] Glacia
 [ch0157] Valerie
 [ch9000] 
+[ch0158] Diantha
 [ch0159] Darach
 [ch0170] Burgh
 [ch0183] Molayne
@@ -15713,6 +16172,8 @@ trainer_name_en.lsd
 [ch0240] Jessie
 [ch0241] James
 [ch0243] Gloria
+[ch0245] Marnie
+[ch0247] Leon
 [ch0256] Piers
 
 ===========
@@ -15851,6 +16312,7 @@ trainer_name_es.lsd
 [ch0153] Nívea
 [ch0157] Valeria
 [ch9000] 
+[ch0158] Dianta
 [ch0159] Kokuran
 [ch0170] Camus
 [ch0183] Lario
@@ -15862,6 +16324,8 @@ trainer_name_es.lsd
 [ch0240] Jessie
 [ch0241] James
 [ch0243] Gloria
+[ch0245] Roxy
+[ch0247] Lionel
 [ch0256] Nerio
 
 ===========
@@ -16000,6 +16464,7 @@ trainer_name_fr.lsd
 [ch0153] Glacia
 [ch0157] Valériane
 [ch9000] 
+[ch0158] Dianthéa
 [ch0159] Parsley
 [ch0170] Artie
 [ch0183] Molène
@@ -16011,6 +16476,8 @@ trainer_name_fr.lsd
 [ch0240] Jessie
 [ch0241] James
 [ch0243] Gloria
+[ch0245] Rosemary
+[ch0247] Tarak
 [ch0256] Peterson
 
 ===========
@@ -16149,6 +16616,7 @@ trainer_name_it.lsd
 [ch0153] Frida
 [ch0157] Valérie
 [ch9000] 
+[ch0158] Diantha
 [ch0159] Paride
 [ch0170] Artemisio
 [ch0183] Tapso
@@ -16160,6 +16628,8 @@ trainer_name_it.lsd
 [ch0240] Jessie
 [ch0241] James
 [ch0243] Gloria
+[ch0245] Mary
+[ch0247] Dandel
 [ch0256] Ginepro
 
 ===========
@@ -16298,6 +16768,7 @@ trainer_name_ja.lsd
 [ch0153] プリム
 [ch0157] マーシュ
 [ch9000] 
+[ch0158] カルネ
 [ch0159] コクラン
 [ch0170] アーティ
 [ch0183] マーレイン
@@ -16309,6 +16780,8 @@ trainer_name_ja.lsd
 [ch0240] ムサシ
 [ch0241] コジロウ
 [ch0243] ユウリ
+[ch0245] マリィ
+[ch0247] ダンデ
 [ch0256] ネズ
 
 ===========
@@ -16447,6 +16920,7 @@ trainer_name_ko.lsd
 [ch0153] 미혜
 [ch0157] 마슈
 [ch9000] 
+[ch0158] 카르네
 [ch0159] 코크런
 [ch0170] 아티
 [ch0183] 멀레인
@@ -16458,6 +16932,8 @@ trainer_name_ko.lsd
 [ch0240] 로사
 [ch0241] 로이
 [ch0243] 우리
+[ch0245] 마리
+[ch0247] 단델
 [ch0256] 두송
 
 ===========
@@ -16596,6 +17072,7 @@ trainer_name_zh-TW.lsd
 [ch0153] 波妮
 [ch0157] 瑪綉
 [ch9000] 
+[ch0158] 卡露妮
 [ch0159] 石蘭
 [ch0170] 亞堤
 [ch0183] 馬睿因
@@ -16607,6 +17084,8 @@ trainer_name_zh-TW.lsd
 [ch0240] 武藏
 [ch0241] 小次郎
 [ch0243] 小優
+[ch0245] 瑪俐
+[ch0247] 丹帝
 [ch0256] 聶梓
 
 ===========
@@ -16847,6 +17326,8 @@ aktuellen ★-Zahl.
 dieser Gefährten wechseln?
 
 [common_widget/trainer_detail_059] Hinweis: Danach kehrst du ins Pokémon-Center zurück.
+[common_widget/trainer_detail_060] Passivfähigkeit
+[common_widget/trainer_detail_061] Glücksfähigkeit
 [common_widget/dialog_special_item_001] [Name:Item ]
 erhalten!
 [common_widget/dialog_special_item_002] Noch [Digit:1digit ] Orden!
@@ -17307,6 +17788,8 @@ at Lv. 1
 [common_widget/trainer_detail_058] Would you like to switch looks?
 [common_widget/trainer_detail_059] Note: You will be returned to the Pokémon Center after
 the switch.
+[common_widget/trainer_detail_060] Passive Skills
+[common_widget/trainer_detail_061] Lucky Skills
 [common_widget/dialog_special_item_001] [Name:Item ]
 [common_widget/dialog_special_item_002] Only [Digit:1digit ] more [EN:Qty S="badge" P="badges" ] to go!
 [common_widget/dialog_special_item_003] All badges acquired! Time to compete in the PML!
@@ -17744,6 +18227,8 @@ se hará más fuerte.
 [common_widget/trainer_detail_058] ¿Quieres que cambie de traje?
 [common_widget/trainer_detail_059] Nota: Regresarás al Centro Pokémon tras efectuar el
 cambio de vestimenta.
+[common_widget/trainer_detail_060] Habilidades pasivas
+[common_widget/trainer_detail_061] Habilidades fortuitas
 [common_widget/dialog_special_item_001] Has conseguido:
 [Name:Item ]
 [common_widget/dialog_special_item_002] Medallas restantes: [Digit:1digit ]
@@ -18194,6 +18679,8 @@ et au niveau 1.
 de ce Duo ?
 [common_widget/trainer_detail_059] Vous retournerez au Centre Pokémon une fois
 le changement effectué.
+[common_widget/trainer_detail_060] Talents passifs
+[common_widget/trainer_detail_061] Talents surprise
 [common_widget/dialog_special_item_001] Vous avez obtenu
 1 [Name:Item ] !
 [common_widget/dialog_special_item_002] Encore [Digit:1digit ] Badge[FR:Qty P="s" ] à obtenir !
@@ -18642,6 +19129,8 @@ attuale e al livello massimo.
 attuale e al L. 1.
 [common_widget/trainer_detail_058] Vuoi far cambiare i vestiti all'Unità?
 [common_widget/trainer_detail_059] Dopo il cambio d'abito farai ritorno al Centro Pokémon.
+[common_widget/trainer_detail_060] Abilità passive
+[common_widget/trainer_detail_061] Talenti
 [common_widget/dialog_special_item_001] Hai ottenuto: [Name:Item ]!
 [common_widget/dialog_special_item_002] Medaglie mancanti: [Digit:1digit ]!
 [common_widget/dialog_special_item_003] Ora hai tutte le medaglie! Puoi affrontare il WPM!
@@ -19075,6 +19564,8 @@ MAX
 [common_widget/trainer_detail_058] EXカラーチェンジを実行します
 よろしいですか？
 [common_widget/trainer_detail_059] ※実行後ポケモンセンターに戻ります
+[common_widget/trainer_detail_060] パッシブスキル
+[common_widget/trainer_detail_061] ポテンシャル
 [common_widget/dialog_special_item_001] [Name:Item ]を
 獲得しました！
 [common_widget/dialog_special_item_002] のこるバッジは　あと[Digit:1digit ]個！
@@ -19518,6 +20009,8 @@ Lv.1 상태
 [common_widget/trainer_detail_058] EX컬러 체인지를 실행합니다
 괜찮겠습니까?
 [common_widget/trainer_detail_059] ※실행 후 포켓몬센터로 돌아갑니다
+[common_widget/trainer_detail_060] 패시브스킬
+[common_widget/trainer_detail_061] 포텐셜
 [common_widget/dialog_special_item_001] [Name:Item ][Kor:Particle char="wo" ]
 획득했습니다!
 [common_widget/dialog_special_item_002] 남은 배지는 앞으로 [Digit:1digit ]개!
@@ -19943,6 +20436,8 @@ MAX
 [common_widget/trainer_detail_057] ※在目前★數且等級為Lv.1時的狀態
 [common_widget/trainer_detail_058] 確定要執行EX換裝嗎？
 [common_widget/trainer_detail_059] ※執行後將回到寶可夢中心
+[common_widget/trainer_detail_060] 被動技能
+[common_widget/trainer_detail_061] 潛能
 [common_widget/dialog_special_item_001] 獲得了
 [Name:Item ]！
 [common_widget/dialog_special_item_002] 還剩下[Digit:1digit ]個徽章！
@@ -22478,6 +22973,8 @@ um mehr zu erfahren.
 [home/home_029] Mitteilung nicht mehr zeigen.
 [home/home_030] Gefährten
 [home/home_031] Kampfvilla
+[home/home_032] Ein Meisterfestival läuft!
+[home/home_033] Ein PokéFestival läuft!
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missionen
 [home/global_menu_008] Freunde
@@ -23199,6 +23696,8 @@ Check out the shop for more details.
 [home/home_029] Don’t show this again.
 [home/home_030] Sync Pairs
 [home/home_031] Battle Villa
+[home/home_032] Master Fair
+[home/home_033] Poké Fair
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missions
 [home/global_menu_008] Friends
@@ -23884,6 +24383,8 @@ va a finalizar dentro de poco.
 [home/home_029] No volver a mostrar.
 [home/home_030] Compis
 [home/home_031] Residencia Batalla
+[home/home_032] ¡Pokéfest. maestro en curso!
+[home/home_033] ¡Pokéfestival en curso!
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Misiones
 [home/global_menu_008] Amigos
@@ -24586,6 +25087,8 @@ en savoir plus !
 [home/home_029] Ne plus afficher ce message.
 [home/home_030] Duos
 [home/home_031] Villa de Combat
+[home/home_032] Master festival en cours !
+[home/home_033] Festival en cours !
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missions
 [home/global_menu_008] Amis
@@ -25327,6 +25830,8 @@ per approfittarne!
 [home/home_029] Non mostrare più.
 [home/home_030] Unità
 [home/home_031] Residenza Lotta
+[home/home_032] Mastergala
+[home/home_033] Masterparty in corso!
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missioni
 [home/global_menu_008] Amici
@@ -26048,6 +26553,8 @@ Lv.[Digit:2digits ]で解放
 [home/home_029] このお知らせは今後表示しない
 [home/home_030] バディーズ
 [home/home_031] バトルヴィラ
+[home/home_032] マスターフェス開催中
+[home/home_033] ポケマスフェス開催中
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] ミッション
 [home/global_menu_008] ともだち
@@ -26760,6 +27267,8 @@ Lv.[Digit:2digits ]에서 해방
 [home/home_029] 이 알림을 이후 표시하지 않는다
 [home/home_030] 버디즈
 [home/home_031] 배틀빌라
+[home/home_032] 마스터페스티벌 개최 중
+[home/home_033] PM페스티벌 개최 중
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] 미션
 [home/global_menu_008] 친구
@@ -27444,6 +27953,8 @@ home_zh-TW.lsd
 [home/home_029] 今後不再顯示此通知
 [home/home_030] 拍檔組合
 [home/home_031] 對戰莊園
+[home/home_032] 大師盛典舉辦中
+[home/home_033] 群星盛典舉辦中
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] 任務
 [home/global_menu_008] 朋友
@@ -27983,24 +28494,23 @@ geschickt.
 [shop/scout_046] Hinweis: Die Erscheinungsraten für ★ werden nach der
 vierten Dezimalstelle aufgerundet, es kann also sein, dass
 sie addiert nicht 100 % ergeben. Die tatsächliche
-Erscheinungsrate wird nicht auf- oder abgerundet.
-Die Erscheinungsrate gilt für jede durchgeführte
-Gefährtensuche. Selbst wenn du eine Gefährtensuche
-mehrmals hintereinander durchführst, heißt das also
-nicht notwendigerweise, dass du ein bestimmtes
+Erscheinungsrate wird nicht auf- oder abgerundet. Die
+Erscheinungsrate gilt für jede durchgeführte Gefährtensuche.
+Selbst wenn du eine Gefährtensuche mehrmals
+hintereinander durchführst, heißt das also nicht
+notwendigerweise, dass du ein bestimmtes
 Gefährtengespann erhalten wirst. Es ist möglich, dass du
 durch die Gefährtensuche die gleichen Gefährten erhältst.
-Festival-Gefährten sind Gefährten, die während dieses
-Festivals für begrenzte Zeit erscheinen. Es besteht die
-Möglichkeit, dass sie in Zukunft auch außerhalb dieses
-Festivals erscheinen werden.
 Selbst wenn du Gefährten schon hast und sich bei ihnen
 das Pokémon schon entwickelt hat, wird das Pokémon vor
 der Entwicklung angezeigt, wenn du sie durch
-Gefährtensuchen erhältst. Steht bei der Erscheinungsrate
-hinter dem Pokémon-Namen ein *, heißt das, dass sich
-das Pokémon durch eine Entwicklungs-Episode entwickeln
-kann.
+Gefährtensuchen erhältst. Festival-Gefährten sind
+Gefährten, die während dieses Festivals für begrenzte Zeit
+erscheinen. Es besteht die Möglichkeit, dass sie in Zukunft
+auch außerhalb dieses Festivals erscheinen werden. Steht
+bei der Erscheinungsrate hinter dem Pokémon-Namen
+ein *, heißt das, dass sich das Pokémon durch eine
+Entwicklungs-Episode entwickeln kann.
 [shop/scout_047] Ergebnis der Gefährtensuche
 [shop/scout_048] Bonus
 [shop/scout_049] Noch einmal
@@ -28242,6 +28752,29 @@ Entwicklungs-Episode entwickeln kann.
 [shop/scout_143] Ticket-Gefährtensuche
 [shop/scout_144] Du kannst ein weiteres
 5★-Gefährtengespann erhalten!
+[shop/scout_145] Meister-Gefährten
+[shop/scout_146] Meisterfestival-Gefährten
+[shop/scout_147] Hinweis: Die Erscheinungsraten für ★ werden nach der
+vierten Dezimalstelle aufgerundet, es kann also sein, dass
+sie addiert nicht 100 % ergeben. Die tatsächliche
+Erscheinungsrate wird nicht auf- oder abgerundet.
+Die Erscheinungsrate gilt für jede durchgeführte
+Gefährtensuche. Selbst wenn du eine Gefährtensuche
+mehrmals hintereinander durchführst, heißt das also
+nicht notwendigerweise, dass du ein bestimmtes
+Gefährtengespann erhalten wirst. Es ist möglich, dass du
+durch die Gefährtensuche die gleichen Gefährten erhältst.
+Selbst wenn du Gefährten schon hast und sich bei ihnen
+das Pokémon schon entwickelt hat, wird das Pokémon vor
+der Entwicklung angezeigt, wenn du sie durch
+Gefährtensuchen erhältst.
+Meisterfestival-Gefährten sind Gefährten, die während
+dieses Meisterfestivals für begrenzte Zeit erscheinen. Es
+besteht die Möglichkeit, dass sie in Zukunft auch außerhalb
+dieses Meisterfestivals erscheinen werden.
+Steht bei der Erscheinungsrate hinter dem Pokémon-Namen
+ein *, heißt das, dass sich das Pokémon durch eine
+Entwicklungs-Episode entwickeln kann.
 [shop/deck_item_sale_001] Ausrüstungstausch
 [shop/deck_item_sale_002] Ausrüstung
 [shop/deck_item_sale_003] Filter
@@ -28648,6 +29181,19 @@ When you see a * displayed after a Pokémon name in the offering rate, that mean
 [shop/scout_142] Scout ×[Digit:3digits ]
 [shop/scout_143] Ticket Scout
 [shop/scout_144] You can also choose a 5★ sync pair!
+[shop/scout_145] Master Sync Pair
+[shop/scout_146] Master Fair Sync Pairs
+[shop/scout_147] The offering rate for each ★ is rounded off past the fourth decimal, so adding them all up may not equal 100%. We do not round the actual offering rate up or down.
+
+The offering rate applies to each instance of sync pair scouting, so there is no guarantee that you will get any one sync pair, even if you scout many times in a row.
+
+When scouting, you may get sync pairs that you have already acquired.
+
+When scouting, you will see sync pairs with unevolved Pokémon even if you have previously acquired and evolved them.
+
+Master Fair sync pairs are sync pairs that will appear during this Master Fair. There is a possibility that they will appear outside of this Master Fair in the future.
+
+When you see a * displayed after a Pokémon name in the offering rate, that means the sync pair’s Pokémon can evolve through an Evolution sync pair story.
 [shop/deck_item_sale_001] Exchange Gear
 [shop/deck_item_sale_002] Gear
 [shop/deck_item_sale_003] Filter
@@ -28882,8 +29428,8 @@ Los Pokémon de las parejas de compis marcadas con un asterisco (*) en la pantal
 Los bonus se enviarán a la caja de regalos.
 [shop/scout_046] Ten en cuenta que las tasas de aparición de las ★ mostradas se redondean a partir del cuarto decimal; por ello, las cantidades no siempre suman un 100%. Las tasas de aparición no se redondean al efectuar el reclutamiento.
 Las tasas de aparición de cada pareja de compis se aplican cada vez que se efectúa un reclutamiento, de modo que realizarlo de forma consecutiva no garantiza la obtención de dicha pareja de compis.
-Es posible obtener una pareja de compis repetida en un reclutamiento.
-Los festicompis son parejas de compis que solamente aparecen durante un Pokéfestival determinado. Es posible que vuelvan a ofrecerse en el futuro, incluso fuera de un Pokéfestival.
+Es posible obtener una pareja de compis repetida en un reclutamiento. Aunque el Pokémon de la pareja de compis ya obtenida haya evolucionado, en la pantalla de reclutamiento aparecerá siempre la primera fase evolutiva.
+Los festicompis son parejas de compis que aparecen durante los Pokéfestivales. Es posible que vuelvan a ofrecerse en el futuro, incluso fuera de un Pokéfestival.
 Los Pokémon de las parejas de compis marcadas con un asterisco (*) en la pantalla de tasas de aparición podrán evolucionar tras completar el episodio de evolución correspondiente.
 [shop/scout_047] Resultados del reclutamiento
 [shop/scout_048] Bonus obtenidos
@@ -29024,6 +29570,13 @@ Los Pokémon de las parejas de compis marcadas con un asterisco (*) en la pantal
 [shop/scout_143] Reclutamiento billete
 [shop/scout_144] ¡Puedes eligir además una pareja de
 compis de 5★!
+[shop/scout_145] Compis maestros
+[shop/scout_146] Festicompis maestros
+[shop/scout_147] Ten en cuenta que las tasas de aparición de las ★ mostradas se redondean a partir del cuarto decimal; por ello, las cantidades no siempre suman un 100%. Las tasas de aparición no se redondean al efectuar el reclutamiento.
+Las tasas de aparición de cada pareja de compis se aplican cada vez que se efectúa un reclutamiento, de modo que realizarlo de forma consecutiva no garantiza la obtención de dicha pareja de compis.
+Es posible obtener una pareja de compis repetida en un reclutamiento. Aunque el Pokémon de la pareja de compis ya obtenida haya evolucionado, en la pantalla de reclutamiento aparecerá siempre la primera fase evolutiva.
+Los festicompis maestros son parejas de compis que aparecen durante los Pokéfestivales maestros. Es posible que vuelvan a ofrecerse en el futuro, incluso fuera de un Pokéfestival maestro.
+Los Pokémon de las parejas de compis marcadas con un asterisco (*) en la pantalla de las tasas de aparición podrán evolucionar tras completar el episodio de evolución correspondiente.
 [shop/deck_item_sale_001] Canjear accesorios
 [shop/deck_item_sale_002] Accesorios
 [shop/deck_item_sale_003] Filtrar
@@ -29247,7 +29800,17 @@ pour passer 10 Appels Duo ?
 [shop/scout_043] Remarque : les pourcentages de chance par nombre d'★ affichés étant arrondis après la quatrième décimale, il peut arriver que leur somme totale ne soit pas égale à 100 %. Les pourcentages réels ne sont ni arrondis au supérieur, ni à l'inférieur. Les pourcentages s'appliquent à chaque Appel Duo indépendamment. Même si vous passez un certain nombre d'Appels Duo, il est possible qu'un certain Duo n'apparaisse pas du tout. Il est possible qu'un même Duo apparaisse plusieurs fois. Si vous appelez un Duo que vous avez déjà et dont vous avez fait évoluer le Pokémon, le Pokémon avant évolution apparaîtra dans le Duo affiché dans les résultats. Le dixième Appel Duo vous permettra d'obtenir un Duo 5★. Pour connaître les pourcentages utilisés lors de l'Appel Duo garantissant un Duo 5★, touchez le bouton « 5★ garanti ! » sur l'écran de pourcentages. Lorsqu'un astérisque (*) est affiché après le nom d'un Pokémon sur l'écran des pourcentages, le Duo peut faire évoluer le Pokémon à travers un épisode d'évolution.
 [shop/scout_044] Avertissement
 [shop/scout_045] Le nombre de bonus pouvant être reçus lors de chaque Appel Duo est déterminé à l'avance. Il sera réinitialisé lorsque la prochaine période d'Appel Duo avec bonus inclus commencera. Les bonus seront envoyés sur la page « Cadeaux ».
-[shop/scout_046] Remarque : les pourcentages de chance par nombre d'★ affichés étant arrondis après la quatrième décimale, il peut arriver que leur somme totale ne soit pas égale à 100 %. Les pourcentages de chance réels ne sont ni arrondis au supérieur ni à l'inférieur. Les pourcentages de chance s'appliquent à chaque Appel Duo indépendamment. Même si vous passez un certain nombre d'Appels Duo, il est possible qu'un certain Duo n'apparaisse pas du tout. Il est possible qu'un même Duo apparaisse plusieurs fois. Un Duo Festival est un Duo apparaissant pendant une durée limitée, durant un festival en cours. Il est possible qu'un Duo Festival apparaisse à nouveau, même après la fin de leur festival. Lorsqu'un astérisque (*) est affiché après le nom d'un Pokémon sur l'écran des pourcentages, le Duo peut faire évoluer le Pokémon à travers un épisode d'évolution.
+[shop/scout_046] Remarque : les pourcentages de chance par nombre d'★ affichés étant arrondis après la quatrième décimale, il peut arriver que leur somme totale ne soit pas égale à 100 %. Les pourcentages réels ne sont ni arrondis au supérieur, ni à l'inférieur.
+
+Les pourcentages s'appliquent à chaque Appel Duo indépendamment. Même si vous passez un certain nombre d'Appels Duo, il est possible qu'un certain Duo n'apparaisse pas du tout.
+
+Il est possible qu'un même Duo apparaisse plusieurs fois.
+
+Si vous appelez un Duo que vous avez déjà et dont vous avez fait évoluer le Pokémon, le Pokémon avant évolution apparaîtra dans le Duo affiché dans les résultats.
+
+Un Duo Festival est un Duo apparaissant pendant une durée limitée, durant un festival en cours. Il est possible qu'un Duo Festival apparaisse à nouveau, même après la fin de leur festival.
+
+Lorsqu'un astérisque (*) est affiché après le nom d'un Pokémon sur l'écran des pourcentages, le Duo peut faire évoluer le Pokémon à travers un épisode d'évolution.
 [shop/scout_047] Résultats de l'Appel Duo
 [shop/scout_048] Bonus
 [shop/scout_049] Recommencer
@@ -29382,6 +29945,19 @@ Une fois le dernier palier franchi, cet Appel Duo ne sera plus accessible.
 [shop/scout_143] Appel Duo avec Bons
 [shop/scout_144] Choisissez en plus un des Duos 5★
 proposés !
+[shop/scout_145] Master Duos
+[shop/scout_146] Master Duos Festival
+[shop/scout_147] Remarque : les pourcentages de chance par nombre d'★ affichés étant arrondis après la quatrième décimale, il peut arriver que leur somme totale ne soit pas égale à 100 %. Les pourcentages réels ne sont ni arrondis au supérieur, ni à l'inférieur.
+
+Les pourcentages s'appliquent à chaque Appel Duo indépendamment. Même si vous passez un certain nombre d'Appels Duo, il est possible qu'un certain Duo n'apparaisse pas du tout.
+
+Il est possible qu'un même Duo apparaisse plusieurs fois.
+
+Si vous appelez un Duo que vous avez déjà et dont vous avez fait évoluer le Pokémon, le Pokémon avant évolution apparaîtra dans le Duo affiché dans les résultats.
+
+Les Master Duos sont des Duos disponibles pendant la durée du Master festival. Il est possible que les Master Duos apparaissent dans le futur en dehors des Master festivals.
+
+Lorsqu'un astérisque (*) est affiché après le nom d'un Pokémon sur l'écran des pourcentages, le Duo peut faire évoluer le Pokémon à travers un épisode d'évolution.
 [shop/deck_item_sale_001] Échanger équipement
 [shop/deck_item_sale_002] Équipement
 [shop/deck_item_sale_003] Filtrer
@@ -29633,17 +30209,12 @@ I Pokémon con un asterisco dopo il nome, visualizzato nel tasso di comparsa del
 - Il numero di volte in cui è possibile ricevere un bonus verrà ripristinato durante il periodo successivo di ricerche Unità che prevedono bonus.
 - I bonus appariranno nel menu Regali.
 [shop/scout_046] Il tasso di comparsa per numero di ★ è arrotondato oltre la quarta cifra decimale, perciò è possibile che la somma delle percentuali non sia 100%.
-
 Il tasso di comparsa effettivo non viene arrotondato per eccesso o per difetto.
-
 A ogni ricerca Unità si applica lo stesso tasso di comparsa, pertanto ripetere la ricerca Unità più volte di seguito non garantisce la comparsa di una determinata Unità.
-
 È possibile che la stessa Unità compaia più volte nella ricerca.
-
+Anche se il Pokémon di un'Unità già ottenuta si è evoluto, le Unità identiche nella ricerca Unità saranno visualizzate con un Pokémon non ancora evoluto.
 Le Unità Masterparty sono Unità che compariranno inizialmente durante questo Masterparty.
-
 È possibile che in futuro compaiano al di fuori di questo Masterparty.
-
 I Pokémon con un asterisco dopo il nome, visualizzato nel tasso di comparsa dell'Unità, possono evolversi tramite episodio evolutivo.
 [shop/scout_047] Risultati della ricerca Unità
 [shop/scout_048] Bonus
@@ -29835,6 +30406,16 @@ I Pokémon con un asterisco dopo il nome, visualizzato nel tasso di comparsa del
 [shop/scout_142] Unicerca ×[Digit:3digits ]:
 [shop/scout_143] Ricerca Unità con ticket
 [shop/scout_144] Puoi anche scegliere un'Unità 5★!
+[shop/scout_145] Unità master
+[shop/scout_146] Unità Mastergala
+[shop/scout_147] Il tasso di comparsa per numero di ★ è arrotondato oltre la quarta cifra decimale, perciò è possibile che la somma delle percentuali non sia 100%.
+Il tasso di comparsa effettivo non viene arrotondato per eccesso o per difetto.
+A ogni ricerca Unità si applica lo stesso tasso di comparsa, pertanto ripetere la ricerca Unità più volte di seguito non garantisce la comparsa di una determinata Unità.
+È possibile che la stessa Unità compaia più volte nella ricerca.
+Anche se il Pokémon di un'Unità già ottenuta si è evoluto, le Unità identiche nella ricerca Unità saranno visualizzate con un Pokémon non ancora evoluto.
+Le Unità Mastergala sono Unità che compariranno inizialmente durante questo Mastergala.
+È possibile che in futuro compaiano al di fuori di questo Mastergala.
+I Pokémon con un asterisco dopo il nome, visualizzato nel tasso di comparsa dell'Unità, possono evolversi tramite episodio evolutivo.
 [shop/deck_item_sale_001] Scambio accessori
 [shop/deck_item_sale_002] Accessori
 [shop/deck_item_sale_003] Filtra
@@ -30091,6 +30672,7 @@ ONにしてください
 ※バディーズサーチは1回ごとにその提供割合にもとづいて抽選を行います。
 そのため、バディーズサーチを特定回数繰り返しても、必ず特定のバディーズが出現するという仕組みではありません。
 ※バディーズサーチからは同じバディーズが出現する場合がございます。
+※ポケモン進化後の同一バディーズを既に所持している場合でも、バディーズサーチでは進化前のバディーズが表示されます。
 ※フェス限定バディーズとはこのポケマスフェスの期間中に出現するバディーズです。
 ※フェス限定バディーズは今後ポケマスフェス以外でも出現する可能性があります。
 ※提供割合にてポケモン名の後ろに(*)が表示されているバディーズは、進化エピソードを通してポケモンを進化させることができます。
@@ -30281,6 +30863,17 @@ STEPによってはプレゼントが設定されている場合があります�
 [shop/scout_142] [Digit:3digits ]連
 [shop/scout_143] チケット専用バディーズサーチ
 [shop/scout_144] 好きな★５バディーズをさらに1組獲得！
+[shop/scout_145] マスターバディーズ
+[shop/scout_146] マスターフェス限定バディーズ
+[shop/scout_147] ※★ごとの提供割合は、小数第4位以下がある場合に切捨てて表示しており、全てを合算しても100％にならない場合があります。
+※実際の提供割合は、小数第4位以下の四捨五入、切上げ、切捨て等を行っておりません。
+※バディーズサーチは1回ごとにその提供割合にもとづいて抽選を行います。
+そのため、バディーズサーチを特定回数繰り返しても、必ず特定のバディーズが出現するという仕組みではありません。
+※バディーズサーチからは同じバディーズが出現する場合がございます。
+※ポケモン進化後の同一バディーズを既に所持している場合でも、バディーズサーチでは進化前のバディーズが表示されます。
+※マスターフェス限定バディーズとはこのマスターフェスの期間中に出現するバディーズです。
+※マスターフェス限定バディーズは今後マスターフェス以外でも出現する可能性があります。
+※提供割合にてポケモン名の後ろに(*)が表示されているバディーズは、進化エピソードを通してポケモンを進化させることができます。
 [shop/deck_item_sale_001] 装備売却
 [shop/deck_item_sale_002] 装備
 [shop/deck_item_sale_003] フィルター
@@ -30546,6 +31139,8 @@ ON으로 바꿔주십시오
 따라서 버디즈서치를 특정 횟수 반복하더라도,
 특정 버디즈가 반드시 출현하는 구조가 아닙니다.
 ※버디즈서치에서는 같은 버디즈가 출현하는 경우가 있습니다.
+※포켓몬 진화 후의 같은 버디즈를 이미 보유하고 있는 경우에도,
+버디즈서치에서는 진화 전 버디즈가 표시됩니다.
 ※페스티벌 한정 버디즈는 본 PM페스티벌 기간 중에 출현하는 버디즈를 말합니다.
 ※페스티벌 한정 버디즈는 이후 PM페스티벌 이외에서도 출현할 가능성이 있습니다.
 ※제공 확률에서 포켓몬 이름의 뒤에 (*)이 표시되어 있는 버디즈는 진화 에피소드를 통하여 포켓몬을 진화시킬 수 있습니다.
@@ -30740,6 +31335,20 @@ STEP에 따라서는 선물이 포함된 경우가 있습니다.
 [shop/scout_142] [Digit:3digits ]연속
 [shop/scout_143] 티켓 전용 버디즈서치
 [shop/scout_144] 원하는 ★5 버디즈를 추가로 하나 획득!
+[shop/scout_145] 마스터 버디즈
+[shop/scout_146] 마스터페스티벌 한정 버디즈
+[shop/scout_147] ※★에 따른 제공 확률은 표기상 소수점 4자리 이하는 버려지므로
+총합해도 100%가 되지 않는 경우가 있습니다.
+※실제 제공 확률은 소수점 4자리 이하를 반올림, 올림, 내림 등을
+하지 않습니다.
+※버디즈서치는 1회마다 해당 제공 확률을 기반하여 추첨을 진행합니다.
+따라서 버디즈서치를 특정 횟수 반복하더라도,
+특정 버디즈가 반드시 출현하는 구조가 아닙니다.
+※버디즈서치에서는 같은 버디즈가 출현하는 경우가 있습니다.
+※포켓몬 진화 후의 같은 버디즈를 이미 보유하고 있는 경우에도 버디즈서치에서는 진화 전 버디즈가 표시됩니다
+※마스터페스티벌 한정 버디즈는 본 마스터페스티벌 기간 중에 출현하는 버디즈를 말합니다.
+※마스터페스티벌 한정 버디즈는 이후 마스터페스티벌 이외에서도 출현할 가능성이 있습니다.
+※제공 확률에서 포켓몬 이름의 뒤에 (*)이 표시되어 있는 버디즈는 진화 에피소드를 통하여 포켓몬을 진화시킬 수 있습니다.
 [shop/deck_item_sale_001] 장비 판매
 [shop/deck_item_sale_002] 장비
 [shop/deck_item_sale_003] 필터
@@ -30977,6 +31586,7 @@ shop_zh-TW.lsd
 ※每1次的拍組搜尋皆會根據提供比例進行抽選
 因此，即使反覆進行特定次數的拍組搜尋，也不保證會出現特定的拍組
 ※拍組搜尋的結果有可能會出現相同的拍組
+※即使玩家持有的是寶可夢進化後的拍組，在拍組搜尋時仍只會顯示寶可夢進化前的該拍組
 ※盛典限定拍組是會在本盛典期間出現的拍組
 ※盛典限定拍組今後有可能也會在非盛典期間出現
 ※在提供比例畫面中，若拍組的寶可夢名字後面標有(*)，則表示該寶可夢可透過進化劇情進化
@@ -31134,6 +31744,17 @@ shop_zh-TW.lsd
 [shop/scout_142] 連續[Digit:3digits ]次
 [shop/scout_143] 票券專用拍組搜尋
 [shop/scout_144] 另外可以自選１對喜歡的★５拍組！
+[shop/scout_145] 大師拍組
+[shop/scout_146] 大師盛典限定拍組
+[shop/scout_147] ※各種★的提供比例於顯示時會無條件捨去小數點第三位後的餘數，因此合計所有提供比例後可能會有未達100%的情形
+※實際的提供比例並不會將小數點第三位後的餘數四捨五入、無條件捨去或無條件進位
+※每1次的拍組搜尋皆會根據提供比例進行抽選
+因此，即使反覆進行特定次數的拍組搜尋，也不保證會出現特定的拍組
+※拍組搜尋的結果有可能會出現相同的拍組
+※即使玩家持有的是寶可夢進化後的拍組，在拍組搜尋時仍只會顯示寶可夢進化前的該拍組
+※大師盛典限定拍組是會在本大師盛典期間出現的拍組
+※大師盛典限定拍組今後有可能也會在非大師盛典期間出現
+※在提供比例畫面中，若拍組的寶可夢名字後面標有(*)，則表示該寶可夢可透過進化劇情進化
 [shop/deck_item_sale_001] 出售裝備
 [shop/deck_item_sale_002] 裝備
 [shop/deck_item_sale_003] 篩選
@@ -31310,6 +31931,10 @@ dort fortsetzen kannst, wo du es
 unterbrochen hast.
 
 Möchtest du den Cache leeren?
+[title/cache_007] Fehler beim Starten
+[title/cache_008] Das Spiel konnte nicht gestartet werden. Wenn das Spiel nicht korrekt startet, kann dies eventuell durch das Löschen des Cache behoben werden.
+[title/cache_009] Hinweis: Sei unbesorgt, Spieldaten und Kaufhistorie werden dabei nicht gelöscht.
+[title/cache_010] Falls das Spiel weiterhin nicht startet, wende dich bitte an den Kundenservice.
 [title/splash_001] Hinweis
 [title/splash_002] Diese App kann kostenlos gespielt werden.
 (Es werden In-App-Käufe angeboten.)
@@ -31838,6 +32463,11 @@ able to continue playing from where
 you left off, depending on how much
 storage you have left. Would you
 still like to clear the cache?
+[title/cache_007] Start-Up Error
+[title/cache_008] Failed to start the game.
+When the game fails to start correctly, clearing the cache may resolve the issue.
+[title/cache_009] Note: Clearing the cache will not delete player data or purchase data.
+[title/cache_010] If the game still fails to start after the cache has been cleared, please contact customer support.
 [title/splash_001] Attention
 [title/splash_002] This app can be played for free (there are purchasable items).
 [title/splash_003] Minors
@@ -32338,6 +32968,16 @@ la partida si no tienes suficiente
 espacio en tu dispositivo.
 
 ¿Quieres borrar la memoria caché?
+[title/cache_007] Error al iniciar el juego
+[title/cache_008] Se ha producido un error al iniciar el
+juego. Cuando esto sucede, borrar la
+caché puede solucionar el problema.
+[title/cache_009] Nota: Al vaciar la caché no se borrarán tus datos
+de guardado ni los de ninguna compra que hayas
+realizado.
+[title/cache_010] Si el problema persiste después de
+borrar la caché, contacta con Atención
+al cliente.
 [title/splash_001] Advertencia
 [title/splash_002] Puedes jugar a esta aplicación de forma gratuita
 (existen elementos de pago).
@@ -32852,6 +33492,11 @@ appareil, que vous ne puissiez pas
 redémarrer votre partie.
 
 Voulez-vous vraiment vider le cache ?
+[title/cache_007] Erreur de démarrage
+[title/cache_008] Le démarrage du jeu a échoué.
+Effacer les données en cache peut résoudre les problèmes de démarrage.
+[title/cache_009] L'opération n'affecte pas les données de sauvegarde de la partie en cours ni les achats qui ont été effectués précédemment.
+[title/cache_010] Si l'opération ne résout pas les problèmes de démarrage, veuillez contacter le Service client.
 [title/splash_001] Attention
 [title/splash_002] Vous pouvez jouer à ce jeu sans frais
 (certains objets sont payants).
@@ -33381,6 +34026,17 @@ se lo spazio di archiviazione residuo
 del dispositivo non fosse sufficiente.
 
 Vuoi svuotare la cache?
+[title/cache_007] Errore di avvio
+[title/cache_008] Si è verificato un errore all'avvio
+del gioco. Se il gioco non si avvia
+correttamente, svuotare la cache
+potrebbe risolvere il problema.
+[title/cache_009] I dati di gioco e la cronologia degli acquisti non saranno
+eliminati svuotando la cache.
+[title/cache_010] Qualora l'errore all'avvio dovesse
+continuare a verificarsi anche dopo
+aver svuotato la cache, si prega
+di contattare il servizio clienti.
 [title/splash_001] Attenzione
 [title/splash_002] Questa app può essere utilizzata senza alcun costo, ma sarà
 possibile acquistare alcuni strumenti all'interno del gioco.
@@ -33897,6 +34553,16 @@ title_ja.lsd
 ゲームプレイを再開できない場合があります
 
 キャッシュクリアを行いますか？
+[title/cache_007] 起動エラー
+[title/cache_008] ゲームの起動に失敗しました。
+
+正常に起動しない場合、キャッシュを
+削除すると解消することがあります。
+[title/cache_009] ※キャッシュクリアでプレイヤーデータ及び
+購入情報が削除されることはないのでご安心ください。
+[title/cache_010] それでも起動に失敗する場合は
+カスタマーサポートに
+お問い合わせください。
 [title/splash_001] ご注意
 [title/splash_002] このアプリは無料で遊ぶことができます
 （有料アイテムあり）
@@ -34447,6 +35113,14 @@ title_ko.lsd
 있습니다
 
 캐시 클리어를 진행하겠습니까?
+[title/cache_007] 실행 에러
+[title/cache_008] 게임 실행을 실패하였습니다.
+정상적으로 실행되지 않는 경우
+캐시를 삭제하면 해소되는 경우도 있습니다.
+[title/cache_009] ※캐시 클리어로 플레이어 데이터 및
+구입 정보는 삭제되지 않으니 안심해 주십시오.
+[title/cache_010] 계속해서 실행에 실패하는 경우에는
+고객 서포트로 문의해 주십시오.
 [title/splash_001] 주의
 [title/splash_002] 이 앱은 무료로 플레이할 수 있습니다
 (유료 아이템 있음)
@@ -34959,6 +35633,14 @@ title_zh-TW.lsd
 將有可能無法重新開始遊戲
 
 您要清除快取嗎？
+[title/cache_007] 啟動發生錯誤
+[title/cache_008] 遊戲啟動失敗
+當遊戲無法正常啟動時
+清除快取也許能夠解除該現象
+[title/cache_009] ※請放心，清除快取並不會
+刪除玩家資料及購買資訊
+[title/cache_010] 清除快取後還是無法啟動遊戲時
+請聯絡「用戶服務」
 [title/splash_001] 注意事項
 [title/splash_002] 本應用程式可以免費遊玩
 （遊戲內含付費道具）
