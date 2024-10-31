@@ -2843,6 +2843,7 @@ vollkommenen Geist
 [quest_group_title_10126410000] Maike (Jubiläum)
 [quest_group_title_10016410000] Géraldine (Jubiläum)
 [quest_group_title_10257400000] Roy (Jubiläum)
+[quest_group_title_10130100000] MaMo-Serena
 [quest_title_1030402000602010] Neue Freundschaften
 [quest_title_1030402000602110] Setze Psycho-Attacken ein! 1
 [quest_title_1030402000602120] Setze Psycho-Attacken ein! 2
@@ -2899,9 +2900,31 @@ vollkommenen Geist
 [quest_title_1030440200204010] Kampf voller Dankbarkeit 1
 [quest_title_1030440200205010] Kampf voller Dankbarkeit 2
 [quest_title_1030440200206010] Kampf voller Dankbarkeit 3
+[quest_title_1030402500601010] Professor Platans Zweifel
+[quest_title_1030402500601020] Drei Legenden
+[quest_title_1030402500601110] Vs. Team Break 1
+[quest_title_1030402500601030] Auf der Suche nach
+Zygarde-Zellen
+[quest_title_1030402500601120] Vs. Team Break 2
+[quest_title_1030402500601040] Eine hilfreiche Methode
+[quest_title_1030402500601130] Vs. Team Break 3
+[quest_title_1030402500601050] Seite an Seite
+[quest_title_1030402500601140] Vs. Team Break 4
+[quest_title_1030402500601150] Täglicher schwerer Kampf
+[quest_title_1030402500601160] Herausforderungskampf 1
+[quest_title_1030402500601170] Herausforderungskampf 2
+[quest_title_1030402500601060] Beschützer des Ökosystems
+[quest_title_1030402500602110] Kalos-Kameraden 1
+[quest_title_1030402500602120] Kalos-Kameraden 2
+[quest_title_1030440250101010] Vs. Silvana 1
+[quest_title_1030440250102010] Vs. Silvana 2
+[quest_title_1030440250103010] Vs. Silvana 3
+[quest_title_1030440250104010] Vs. Silvana 4
+[quest_title_1030440250105010] Täglicher Bonus-Kampf
 [quest_title_1030220126410000] Ein Tag mit Maike
 [quest_title_1030220016410000] Ein Tag mit Géraldine
 [quest_title_1030220257400000] Ein Tag mit Roy
+[quest_title_1030220130100000] Ein Tag mit MaMo-Serena
 [quest_title_1030440100101010] Der schwierige Weg zum
 Sieg
 [quest_title_1030440100103010] Rollen und Reihenfolgen 1
@@ -4983,6 +5006,7 @@ story_quest_name_en.lsd
 (Anniversary 2022)
 [quest_group_title_10257400000] Raihan
 (Anniversary 2022)
+[quest_group_title_10130100000] Sygna Suit Serena
 [quest_title_1030402000602010] When We Became Friends
 [quest_title_1030402000602110] Mesmerize with Psychic-Type Moves! Part 1
 [quest_title_1030402000602120] Mesmerize with Psychic-Type Moves! Part 2
@@ -5039,9 +5063,30 @@ story_quest_name_en.lsd
 [quest_title_1030440200204010] Battle with Pals! Part 1
 [quest_title_1030440200205010] Battle with Pals! Part 2
 [quest_title_1030440200206010] Battle with Pals! Part 3
+[quest_title_1030402500601010] Sycamore’s Suspicion
+[quest_title_1030402500601020] The Third Legendary
+[quest_title_1030402500601110] Challenge Team Break: Part 1
+[quest_title_1030402500601030] The Search for Cells
+[quest_title_1030402500601120] Challenge Team Break: Part 2
+[quest_title_1030402500601040] Misguided Methods
+[quest_title_1030402500601130] Challenge Team Break: Part 3
+[quest_title_1030402500601050] Together with You
+[quest_title_1030402500601140] Challenge Team Break: Part 4
+[quest_title_1030402500601150] Daily Extreme Battle 1
+[quest_title_1030402500601160] Battle Challenge! Round 1
+[quest_title_1030402500601170] Battle Challenge! Round 2
+[quest_title_1030402500601060] Guardian of the Ecosystem
+[quest_title_1030402500602110] Kalos Buddies Unite: Part 1
+[quest_title_1030402500602120] Kalos Buddies Unite: Part 2
+[quest_title_1030440250101010] Challenge Gardenia: Part 1
+[quest_title_1030440250102010] Challenge Gardenia: Part 2
+[quest_title_1030440250103010] Challenge Gardenia: Part 3
+[quest_title_1030440250104010] Challenge Gardenia: Part 4
+[quest_title_1030440250105010] Daily Bonus Battle 1
 [quest_title_1030220126410000] A Day with May
 [quest_title_1030220016410000] A Day with Skyla
 [quest_title_1030220257400000] A Day with Raihan
+[quest_title_1030220130100000] A Day with Sygna Suit Serena
 [quest_title_1030440100101010] The Road to Hard Mode
 [quest_title_1030440100103010] Roles and Tactics: Part 1
 [quest_title_1030440101001010] Challenge N
@@ -7276,6 +7321,7 @@ mundo
 [quest_group_title_10126410000] Aura (Aniversario)
 [quest_group_title_10016410000] Gerania (Aniversario)
 [quest_group_title_10257400000] Roy (Aniversario)
+[quest_group_title_10130100000] Serena (Traje S)
 [quest_title_1030402000602010] El día que comenzó nuestra
 amistad
 [quest_title_1030402000602110] ¡Al ataque con movimientos
@@ -7350,9 +7396,33 @@ agradecimiento!
 agradecimiento! (2)
 [quest_title_1030440200206010] ¡Un combate de
 agradecimiento! (3)
+[quest_title_1030402500601010] Las dudas del Profesor Ciprés
+[quest_title_1030402500601020] La tercera leyenda
+[quest_title_1030402500601110] VS. Team Break
+[quest_title_1030402500601030] En busca de las Células de
+Zygarde
+[quest_title_1030402500601120] VS. Team Break (2)
+[quest_title_1030402500601040] La mejor manera de reunir
+células
+[quest_title_1030402500601130] VS. Team Break (3)
+[quest_title_1030402500601050] Estaré a tu lado
+[quest_title_1030402500601140] VS. Team Break (4)
+[quest_title_1030402500601150] ¡Un combate difícil al día!
+[quest_title_1030402500601160] ¡Un combate desafiante!
+[quest_title_1030402500601170] ¡Un combate desafiante! (2)
+[quest_title_1030402500601060] El guardián del ecosistema
+[quest_title_1030402500602110] Desafío con compis de Kalos
+[quest_title_1030402500602120] Desafío con compis de
+Kalos (2)
+[quest_title_1030440250101010] VS. Gardenia
+[quest_title_1030440250102010] VS. Gardenia (2)
+[quest_title_1030440250103010] VS. Gardenia (3)
+[quest_title_1030440250104010] VS. Gardenia (4)
+[quest_title_1030440250105010] ¡Un combate extra al día!
 [quest_title_1030220126410000] Un día con Aura
 [quest_title_1030220016410000] Un día con Gerania
 [quest_title_1030220257400000] Un día con Roy
+[quest_title_1030220130100000] Un día con Serena (Traje S)
 [quest_title_1030440100101010] El camino hacia lo más alto
 en modo difícil
 [quest_title_1030440100103010] Las funciones y el orden de
@@ -9747,6 +9817,7 @@ Dresseurs de Passio IV
 (Anniversaire 2022)
 [quest_group_title_10257400000] Roy
 (Anniversaire 2022)
+[quest_group_title_10130100000] Serena (Look Ultime)
 [quest_title_1030402000602010] Le jour où nous sommes
 devenus amis
 [quest_title_1030402000602110] Attaquez avec des capacités
@@ -9821,9 +9892,37 @@ Dresseurs de Passio IV
 de gratitude II
 [quest_title_1030440200206010] Un combat plein
 de gratitude III
+[quest_title_1030402500601010] Les doutes du Professeur
+Platane
+[quest_title_1030402500601020] Le troisième Pokémon
+légendaire
+[quest_title_1030402500601110] Combat : Team Break
+[quest_title_1030402500601030] La recherche des Cellules
+de Zygarde
+[quest_title_1030402500601120] Combat : Team Break II
+[quest_title_1030402500601040] La meilleure des méthodes
+pour récolter des cellules
+[quest_title_1030402500601130] Combat : Team Break III
+[quest_title_1030402500601050] Côte à côte
+[quest_title_1030402500601140] Combat : Team Break IV
+[quest_title_1030402500601150] Combat difficile limité
+à une fois par jour !
+[quest_title_1030402500601160] Combat difficile
+[quest_title_1030402500601170] Combat difficile II
+[quest_title_1030402500601060] Le gardien de l'écosystème
+[quest_title_1030402500602110] Compagnons de Kalos
+[quest_title_1030402500602120] Compagnons de Kalos II
+[quest_title_1030440250101010] Combat : Flo
+[quest_title_1030440250102010] Combat : Flo II
+[quest_title_1030440250103010] Combat : Flo III
+[quest_title_1030440250104010] Combat : Flo IV
+[quest_title_1030440250105010] Combat bonus limité
+à une fois par jour !
 [quest_title_1030220126410000] Une journée avec Flora
 [quest_title_1030220016410000] Une journée avec Carolina
 [quest_title_1030220257400000] Une journée avec Roy
+[quest_title_1030220130100000] Une journée avec Serena
+(Look Ultime)
 [quest_title_1030440100101010] Visons toujours plus haut :
 la difficulté « Difficile » !
 [quest_title_1030440100103010] Rôles et positions
@@ -11866,6 +11965,7 @@ story_quest_name_it.lsd
 [quest_group_title_10126410000] Vera (2,5 anni)
 [quest_group_title_10016410000] Anemone (2,5 anni)
 [quest_group_title_10257400000] Laburno (2,5 anni)
+[quest_group_title_10130100000] Serena Costumax
 [quest_title_1030402000602010] Il giorno in cui siamo diventati amici
 [quest_title_1030402000602110] Attacca con mosse di tipo Psico!
 [quest_title_1030402000602120] Attacca con mosse di tipo Psico! 2
@@ -11922,9 +12022,30 @@ story_quest_name_it.lsd
 [quest_title_1030440200204010] Una lotta piena di gratitudine
 [quest_title_1030440200205010] Una lotta piena di gratitudine 2
 [quest_title_1030440200206010] Una lotta piena di gratitudine 3
+[quest_title_1030402500601010] I sospetti del Professor Platan
+[quest_title_1030402500601020] Il terzo Pokémon leggendario
+[quest_title_1030402500601110] VS Team Break
+[quest_title_1030402500601030] Alla ricerca delle cellule di Zygarde
+[quest_title_1030402500601120] VS Team Break 2
+[quest_title_1030402500601040] Il modo migliore per raccogliere le cellule
+[quest_title_1030402500601130] VS Team Break 3
+[quest_title_1030402500601050] Fianco a fianco
+[quest_title_1030402500601140] VS Team Break 4
+[quest_title_1030402500601150] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030402500601160] Sfida ad alta difficoltà
+[quest_title_1030402500601170] Sfida ad alta difficoltà 2
+[quest_title_1030402500601060] I protettori dell'ecosistema
+[quest_title_1030402500602110] Insieme agli amici di Kalos
+[quest_title_1030402500602120] Insieme agli amici di Kalos 2
+[quest_title_1030440250101010] VS Gardenia
+[quest_title_1030440250102010] VS Gardenia 2
+[quest_title_1030440250103010] VS Gardenia 3
+[quest_title_1030440250104010] VS Gardenia 4
+[quest_title_1030440250105010] Lotta bonus (una al giorno)!
 [quest_title_1030220126410000] Un giorno con Vera (2,5 anni)
 [quest_title_1030220016410000] Un giorno con Anemone (2,5 anni)
 [quest_title_1030220257400000] Un giorno con Laburno (2,5 anni)
+[quest_title_1030220130100000] Un giorno con Serena Costumax
 [quest_title_1030440100101010] La strada verso la modalità difficile
 [quest_title_1030440100103010] Ruoli e priorità 1
 [quest_title_1030440101001010] VS N
@@ -14003,6 +14124,7 @@ story_quest_name_ja.lsd
 （２２アニバーサリー）
 [quest_group_title_10257400000] キバナ
 （２２アニバーサリー）
+[quest_group_title_10130100000] マジコスセレナ
 [quest_title_1030402000602010] ともだちになった日
 [quest_title_1030402000602110] エスパーのわざで攻めよう！
 [quest_title_1030402000602120] エスパーのわざで攻めよう！２
@@ -14059,9 +14181,30 @@ story_quest_name_ja.lsd
 [quest_title_1030440200204010] 感謝を込めて素敵な勝負！１
 [quest_title_1030440200205010] 感謝を込めて素敵な勝負！２
 [quest_title_1030440200206010] 感謝を込めて素敵な勝負！３
+[quest_title_1030402500601010] プラターヌ博士の疑念
+[quest_title_1030402500601020] 三匹目の伝説
+[quest_title_1030402500601110] ＶＳ　ブレイク団
+[quest_title_1030402500601030] ジガルデ・セルを求めて
+[quest_title_1030402500601120] ＶＳ　ブレイク団２
+[quest_title_1030402500601040] セルを集める　さえたやり方
+[quest_title_1030402500601130] ＶＳ　ブレイク団３
+[quest_title_1030402500601050] アナタと共に歩む
+[quest_title_1030402500601140] ＶＳ　ブレイク団４
+[quest_title_1030402500601150] １日１回限定・高難度バトル！
+[quest_title_1030402500601160] チャレンジバトルで勝負！
+[quest_title_1030402500601170] チャレンジバトルで勝負！２
+[quest_title_1030402500601060] 生態系の守護者
+[quest_title_1030402500602110] カロスの仲間と挑戦
+[quest_title_1030402500602120] カロスの仲間と挑戦２
+[quest_title_1030440250101010] ＶＳ　ナタネ
+[quest_title_1030440250102010] ＶＳ　ナタネ２
+[quest_title_1030440250103010] ＶＳ　ナタネ３
+[quest_title_1030440250104010] ＶＳ　ナタネ４
+[quest_title_1030440250105010] １日１回限定・ボーナスバトル！
 [quest_title_1030220126410000] とある日のハルカ
 [quest_title_1030220016410000] とある日のフウロ
 [quest_title_1030220257400000] とある日のキバナ
+[quest_title_1030220130100000] とある日のマジコスセレナ
 [quest_title_1030440100101010] さらなる高み「ＨＡＲＤ」への道
 [quest_title_1030440100103010] 「ロール」と「狙われる順番」１
 [quest_title_1030440101001010] ＶＳ　N
@@ -16139,6 +16282,7 @@ story_quest_name_ko.lsd
 (22기념)
 [quest_group_title_10257400000] 금랑
 (22기념)
+[quest_group_title_10130100000] 궁극코스 세레나
 [quest_title_1030402000602010] 친구가 된 날
 [quest_title_1030402000602110] 에스퍼타입 기술로 공격하자!
 [quest_title_1030402000602120] 에스퍼타입 기술로 공격하자!2
@@ -16195,9 +16339,30 @@ story_quest_name_ko.lsd
 [quest_title_1030440200204010] 감사의 마음을 담아 멋진 승부!1
 [quest_title_1030440200205010] 감사의 마음을 담아 멋진 승부!2
 [quest_title_1030440200206010] 감사의 마음을 담아 멋진 승부!3
+[quest_title_1030402500601010] 플라타느박사의 의심
+[quest_title_1030402500601020] 세 번째 전설의 포켓몬
+[quest_title_1030402500601110] VS 브레이크단
+[quest_title_1030402500601030] 지가르데 셀을 찾아서
+[quest_title_1030402500601120] VS 브레이크단2
+[quest_title_1030402500601040] 셀을 모으는 효과적인 방법
+[quest_title_1030402500601130] VS 브레이크단3
+[quest_title_1030402500601050] 너와 함께 걸으며
+[quest_title_1030402500601140] VS 브레이크단4
+[quest_title_1030402500601150] 1일 1회 한정 고난도 배틀!
+[quest_title_1030402500601160] 챌린지배틀로 승부!
+[quest_title_1030402500601170] 챌린지배틀로 승부!2
+[quest_title_1030402500601060] 생태계의 수호자
+[quest_title_1030402500602110] 칼로스지방의 동료와 도전
+[quest_title_1030402500602120] 칼로스지방의 동료와 도전2
+[quest_title_1030440250101010] VS 유채
+[quest_title_1030440250102010] VS 유채2
+[quest_title_1030440250103010] VS 유채3
+[quest_title_1030440250104010] VS 유채4
+[quest_title_1030440250105010] 1일 1회 한정 보너스 배틀!
 [quest_title_1030220126410000] 봄이의 어느 날
 [quest_title_1030220016410000] 풍란의 어느 날
 [quest_title_1030220257400000] 금랑의 어느 날
+[quest_title_1030220130100000] 궁극코스 세레나의 어느 날
 [quest_title_1030440100101010] 더 높은 목표 "HARD"로 가는 길
 [quest_title_1030440100103010] "롤"과 "노려지는 순서"1
 [quest_title_1030440101001010] VS N
@@ -18275,6 +18440,7 @@ story_quest_name_zh-TW.lsd
 （2022週年慶）
 [quest_group_title_10257400000] 奇巴納
 （2022週年慶）
+[quest_group_title_10130100000] 美極套裝莎莉娜
 [quest_title_1030402000602010] 成為朋友的日子
 [quest_title_1030402000602110] 用超能力屬性招式猛攻吧！
 [quest_title_1030402000602120] 用超能力屬性招式猛攻吧！２
@@ -18331,9 +18497,30 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030440200204010] 滿懷謝意的絕佳對戰！１
 [quest_title_1030440200205010] 滿懷謝意的絕佳對戰！２
 [quest_title_1030440200206010] 滿懷謝意的絕佳對戰！３
+[quest_title_1030402500601010] 布拉塔諾博士的疑惑
+[quest_title_1030402500601020] 第三隻的傳說
+[quest_title_1030402500601110] ＶＳ　破壞隊
+[quest_title_1030402500601030] 尋找基格爾德・細胞
+[quest_title_1030402500601120] ＶＳ　破壞隊２
+[quest_title_1030402500601040] 聰明的細胞收集方法
+[quest_title_1030402500601130] ＶＳ　破壞隊３
+[quest_title_1030402500601050] 與你同行
+[quest_title_1030402500601140] ＶＳ　破壞隊４
+[quest_title_1030402500601150] １天僅限１次的高難度對戰！
+[quest_title_1030402500601160] 用挑戰對戰決勝負！
+[quest_title_1030402500601170] 用挑戰對戰決勝負！２
+[quest_title_1030402500601060] 生態系統的守護者
+[quest_title_1030402500602110] 與卡洛斯的夥伴一起挑戰
+[quest_title_1030402500602120] 與卡洛斯的夥伴一起挑戰２
+[quest_title_1030440250101010] ＶＳ　菜種
+[quest_title_1030440250102010] ＶＳ　菜種２
+[quest_title_1030440250103010] ＶＳ　菜種３
+[quest_title_1030440250104010] ＶＳ　菜種４
+[quest_title_1030440250105010] １天僅限１次的獎勵對戰！
 [quest_title_1030220126410000] 某日的小遙
 [quest_title_1030220016410000] 某日的風露
 [quest_title_1030220257400000] 某日的奇巴納
+[quest_title_1030220130100000] 某日的美極套裝莎莉娜
 [quest_title_1030440100101010] 通往更高境界「ＨＡＲＤ」之路
 [quest_title_1030440100103010] 「體系」與「迎擊順位」１
 [quest_title_1030440101001010] ＶＳ　N
@@ -19046,6 +19233,10 @@ auf der großen Bühne.
 [10257400000] Roy erscheint in einem festlichen Anzug und erzeugt mit
 seinem Partner Libelldra zur Feier von Passios Jubiläum
 einen gewaltigen Sandsturm.
+[10130100000] Serena trägt eine prachtvolle Machtmontur und hat sich
+passend dazu für eine schicke Kurzhaarfrisur entschieden.
+Zusammen mit ihrem Partner Zygarde hat sie stets ein
+wachsames Auge auf Passio.
 [10021900000] Der Enkel des berühmten Professor Eich ist einer der
 stärksten Trainer in ganz Kanto. Rot ist für ihn zugleich
 ewiger Rivale und enger Freund.
@@ -19673,6 +19864,9 @@ celebrate his Friendiversary with Hoopa.
 [10257400000] Raihan’s back in a dashing outfit! He’s doing what he
 does best by kicking up sandstorms with Flygon. He also
 is helping Lear celebrate his Friendiversary with Hoopa. 
+[10130100000] Serena’s dressed to impress in a chic sygna suit and
+updated her hairstyle for a more mature look. She and
+Zygarde are working together to protect all of Pasio.
 [10021900000] This highly skilled, powerhouse Trainer prominent in Kanto
 is the grandson of the famous Professor Oak. Red is both
 his lifelong rival and his best friend.
@@ -20408,6 +20602,9 @@ la amistad entre Alik y Hoopa.
 [10257400000] Roy viene hecho un pincel con motivo del aniversario de
 la amistad entre Alik y Hoopa. Está listo para desatar una
 tormenta de arena, la especialidad de su compi Flygon.
+[10130100000] Serena, en un Traje Summum muy refinado y con un
+peinado que le da un aire más formal, protege Passio
+de toda amenaza junto a su compi Zygarde.
 [10021900000] Nieto del renombrado Profesor Oak y uno de los
 Entrenadores más diestros de Kanto. Gran amigo,
 a la par que eterno rival, de Rojo.
@@ -21091,6 +21288,10 @@ l'anniversaire de l'amitié entre Alexis et Hoopa.
 À cette occasion, son partenaire Libégon et lui
 exécutent leur spécialité : des tempêtes de sable
 à faire s'envoler le stade !
+[10130100000] Serena a revêtu un magnifique Look Ultime.
+Elle a décidé d'opter pour une coiffure lui donnant
+un air plus mature. Elle protège Passio aux côtés
+de son partenaire, Zygarde.
 [10021900000] Un des plus puissants Dresseurs de Kanto, petit-fils
 du célèbre Professeur Chen et meilleur ami et éternel
 rival de Red.
@@ -21777,6 +21978,9 @@ dell'amicizia di Kelian e Hoopa.
 [10257400000] Laburno indossa un elegantissimo completo e festeggia
 l'anniversario dell'amicizia di Kelian e Hoopa scatenando
 tempeste di sabbia insieme a Flygon.
+[10130100000] Serena indossa un Costumax molto chic e sfoggia anche
+un taglio di capelli che le dona un'aria più elegante.
+Veglia su Pasio insieme al suo Pokémon, Zygarde.
 [10021900000] Nipote del celebre Professor Oak, nonché uno dei più forti
 Allenatori di Kanto. Rosso è per lui un amico e un rivale
 storico.
@@ -22402,6 +22606,9 @@ trainer_description_ja.lsd
 [10257400000] 華やかな　衣装を　身にまとった　キバナ。
 バディのフライゴンと　得意の　すなあらしを　起こし
 ライヤーとフーパの　ともだち記念日を　お祝いする。
+[10130100000] シックな　マジコスを　身にまとった　セレナ。
+髪型も　少し　大人っぽい　雰囲気に　チェンジ。
+バディの　ジガルデと　一緒に　パシオを　みまもる。
 [10021900000] 有名な　オーキド博士の孫で　カントー地方では
 指折りの　実力を持つ　強豪ポケモントレーナー。
 レッドという　終生のライバルにして　親友がいる。
@@ -23027,6 +23234,9 @@ WPM 운영위원회의 대표도 맡고 있다.
 [10257400000] 화려한 의상을 입은 금랑.
 버디인 플라이곤과 특기인 모래바람을 일으켜
 라이어와 후파의 친구 기념일을 축하한다.
+[10130100000] 시크한 궁극코스를 입은 세레나.
+헤어스타일도 조금 어른스러운 분위기로 체인지.
+버디인 지가르데와 함께 파시오를 지켜본다.
 [10021900000] 유명한 오박사의 손자이자 관동지방에서는
 손에 꼽힐만한 실력의 강호인 포켓몬 트레이너.
 레드라는 평생의 라이벌이자 친구가 있다.
@@ -23651,6 +23861,9 @@ trainer_description_zh-TW.lsd
 [10257400000] 身穿華麗服裝的奇巴納。
 他和拍檔沙漠蜻蜓使出拿手的沙暴，
 來祝賀鎯琊和胡帕的朋友紀念日。
+[10130100000] 身穿雅致風格美極套裝的莎莉娜。
+髮型也換成稍微成熟一點的風格。
+和拍檔基格爾德一起守護帕希歐。
 [10021900000] 著名的大木博士的孫子，關都地區
 屈指可數的實力派訓練家。赤紅是他
 永遠的勁敵，也是他最要好的朋友。
@@ -25207,6 +25420,7 @@ trainer_verbose_name_de.lsd
 (Jubiläum)
 [10257400000] Roy
 (Jubiläum)
+[10130100000] MaMo-Serena
 
 ===========
 trainer_verbose_name_en.lsd
@@ -25308,6 +25522,8 @@ Lusamine
 (Anniversary 2022)
 [10257400000] Raihan
 (Anniversary 2022)
+[10130100000] Sygna Suit
+Serena
 
 ===========
 trainer_verbose_name_es.lsd
@@ -25395,6 +25611,7 @@ arqueóloga)
 (Aniversario)
 [10126500000] Aura (Aniversario)
 [10257400000] Roy (Aniversario)
+[10130100000] Serena (Traje S)
 
 ===========
 trainer_verbose_name_fr.lsd
@@ -25489,6 +25706,7 @@ trainer_verbose_name_fr.lsd
 (Anniversaire 2022)
 [10257400000] Roy
 (Anniversaire 2022)
+[10130100000] Serena (Ultime)
 
 ===========
 trainer_verbose_name_it.lsd
@@ -25587,6 +25805,7 @@ trainer_verbose_name_it.lsd
 (2,5 anni)
 [10257400000] Laburno
 (2,5 anni)
+[10130100000] Serena Costumax
 
 ===========
 trainer_verbose_name_ja.lsd
@@ -25685,6 +25904,7 @@ trainer_verbose_name_ja.lsd
 （２２アニバーサリー）
 [10257400000] キバナ
 （２２アニバーサリー）
+[10130100000] マジコスセレナ
 
 ===========
 trainer_verbose_name_ko.lsd
@@ -25783,6 +26003,7 @@ trainer_verbose_name_ko.lsd
 (22기념)
 [10257400000] 금랑
 (22기념)
+[10130100000] 궁극코스 세레나
 
 ===========
 trainer_verbose_name_zh-TW.lsd
@@ -25881,6 +26102,7 @@ trainer_verbose_name_zh-TW.lsd
 （2022週年慶）
 [10257400000] 奇巴納
 （2022週年慶）
+[10130100000] 美極套裝莎莉娜
 
 ===========
 common_widget_de.lsd
