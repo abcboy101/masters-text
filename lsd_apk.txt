@@ -7460,6 +7460,84 @@ Entscheidung
 [quest_group_title_10289100000] MaMo-Nemila
 [quest_group_detail_100210] Die Stimme einer Gottheit
 erklingt
+[quest_title_1040001110001011] Ein besonderer Tag mit
+Siegfried (Teil 1)
+[quest_title_1040001110001021] Ein besonderer Tag mit
+Siegfried (Teil 2)
+[quest_title_1030220207000000] Ein Tag mit Matin
+[quest_title_1030110000610100] Cynthias Überzeugung
+[quest_title_1030110000610200] Troys Abenteuer
+[quest_title_1030110000610300] Siegfrieds Hürden
+[quest_title_1030110000610400] Der Arceus-Cup beginnt!
+[quest_title_1030110000610500] Von Arceus gesegnete Outfits
+[quest_title_1030460800700010] Vs. Lumius 1
+[quest_title_1030460800701010] Vs. Lumius 2
+[quest_title_1030460800702010] Vs. Lumius 3
+[quest_title_1030460800703010] Vs. Lumius 4
+[quest_title_1030460800707010] Vs. Günstlinge einer Gottheit
+[quest_title_1030220091900000] Ein Tag mit A-Mo-Cynthia
+[quest_title_1030220090900000] Ein Tag mit A-Mo-Troy
+[quest_title_1030220111900000] Ein Tag mit A-Mo-Siegfried
+[quest_title_1030608000602000] Lillys neues Outfit
+[quest_title_1030608000602040] Vs. Livestreamer 1
+[quest_title_1030608000602010] Ziehen wir los und haben
+Spaß!
+[quest_title_1030608000602050] Vs. Livestreamer 2
+[quest_title_1030608000602020] Ich wünschte, dieser Tag
+würde nie enden...
+[quest_title_1030608000602060] Vs. Livestreamer 3
+[quest_title_1030608000602030] Die Sonne und der Mond
+ziehen weiter ihre Kreise
+[quest_title_1030608000602070] Vs. Livestreamer 4
+[quest_title_1030608000602080] Täglicher schwerer Kampf
+[quest_title_1030460800401010] Vs. A-Mo-Cynthia
+[quest_title_1030460800402010] Vs. A-Mo-Troy
+[quest_title_1030460800403010] Vs. A-Mo-Siegfried
+[quest_title_1030608000603000] Geheimnisvolle alte Münzen
+auf Passio
+[quest_title_1030608000603010] Das Schatztruhen-Pokémon
+[quest_title_1030608000603020] Sind sie wertvoll?
+[quest_title_1030460800301010] Vs. Marc
+[quest_title_1030460800302010] Vs. Nuit
+[quest_title_1030460800303010] Vs. Amalia
+[quest_title_1030460800304010] Vs. MaMo-Delion
+[quest_title_1030460800305010] Vs. N
+[quest_title_1030460302101010] Vs. Entschlossene Soir
+[quest_title_1030220177000000] Ein Tag mit Pachira
+[quest_title_1030220171000000] Ein Tag mit Hartwig
+[quest_title_1030220181000000] Ein Tag mit Trovato
+[quest_title_1030608000601000] Sammelt 1 000 Freundschaften!
+[quest_title_1030608000601010] WPM-Erinnerungen
+[quest_title_1030608000601040] Vs. Trainer aus Passio 1
+[quest_title_1030608000601020] Lyers wahre Absicht
+[quest_title_1030608000601050] Vs. Trainer aus Passio 2
+[quest_title_1030608000601030] Eine Macht, die man nicht
+mit Gold aufwiegen kann
+[quest_title_1030608000601060] Vs. Trainer aus Passio 3
+[quest_title_1030608000601070] Vs. Trainer aus Passio 4
+[quest_title_1030608000601080] Täglicher schwerer Kampf
+[quest_title_1030608000601090] Herausforderungskampf 1
+[quest_title_1030608000601100] Herausforderungskampf 2
+[quest_title_1030220066100000] Ein Tag mit MaMo-Lyer
+[quest_group_title_10207000000] Matin
+[quest_group_title_100301] Kapitel 1
+[quest_group_title_10091900000] A-Mo-Cynthia
+[quest_group_title_10090900000] A-Mo-Troy
+[quest_group_title_10111900000] A-Mo-Siegfried
+[quest_group_title_10118510000] Lilly (Jubiläum 2024)
+[quest_group_title_10177000000] Pachira
+[quest_group_title_10171000000] Hartwig
+[quest_group_title_10181000000] Trovato
+[quest_group_title_10066100000] MaMo-Lyer
+[quest_group_detail_100301] Drei Champs
+[quest_title_1030460800100010] Vs. Spitzenteam aus Johto
+[quest_title_1030460800101010] Vs. Spitzenteam aus Alola
+[quest_title_1030460800102010] Vs. Spitzenteam aus Galar
+[quest_title_1030460800103010] Vs. Spitzenteam aus Einall
+[quest_title_1030460800104010] Vs. Spitzenteam aus Kanto
+[quest_title_1030608000604000] Champs, Seite an Seite!
+[quest_title_1030608000605010] Der Champ aus Hoenn
+erscheint!
 
 ===========
 story_quest_name_en.lsd
@@ -11506,6 +11584,76 @@ Part 2
 [quest_group_title_10317000000] Arven
 [quest_group_title_10289100000] Sygna Suit Nemona
 [quest_group_detail_100210] The Echo of a Deity’s Voice
+[quest_title_1040001110001011] A Special Day with Lance: Part 1
+[quest_title_1040001110001021] A Special Day with Lance: Part 2
+[quest_title_1030220207000000] A Day with Morgan
+[quest_title_1030110000610100] Cynthia’s Conviction
+[quest_title_1030110000610200] Steven’s Adventures
+[quest_title_1030110000610300] Lance’s Hardships
+[quest_title_1030110000610400] The Arceus Cup Begins!
+[quest_title_1030110000610500] Outfits Blessed by Arceus
+[quest_title_1030460800700010] Challenge Rei: Part 1
+[quest_title_1030460800701010] Challenge Rei: Part 2
+[quest_title_1030460800702010] Challenge Rei: Part 3
+[quest_title_1030460800703010] Challenge Rei: Part 4
+[quest_title_1030460800707010] Challenge: Those Blessed by a Deity
+[quest_title_1030220091900000] A Day with Arc Suit Cynthia
+[quest_title_1030220090900000] A Day with Arc Suit Steven
+[quest_title_1030220111900000] A Day with Arc Suit Lance
+[quest_title_1030608000602000] Lillie’s New Outfit
+[quest_title_1030608000602040] Challenge the Live Stream Team: Part 1
+[quest_title_1030608000602010] Let’s Go All Out and Enjoy!
+[quest_title_1030608000602050] Challenge the Live Stream Team: Part 2
+[quest_title_1030608000602020] I Wish It Could Last Forever
+[quest_title_1030608000602060] Challenge the Live Stream Team: Part 3
+[quest_title_1030608000602030] The Sun and Moon Will Rise and Set
+[quest_title_1030608000602070] Challenge the Live Stream Team: Part 4
+[quest_title_1030608000602080] Daily Extreme Battle 1
+[quest_title_1030460800401010] Challenge Arc Suit Cynthia
+[quest_title_1030460800402010] Challenge Arc Suit Steven
+[quest_title_1030460800403010] Challenge Arc Suit Lance
+[quest_title_1030608000603000] Mysterious Old Coins on Pasio
+[quest_title_1030608000603010] The Coin Chest Pokémon
+[quest_title_1030608000603020] What Value Do They Have?
+[quest_title_1030460800301010] Challenge Maxie
+[quest_title_1030460800302010] Challenge Nita
+[quest_title_1030460800303010] Challenge Zinnia
+[quest_title_1030460800304010] Challenge Sygna Suit Leon
+[quest_title_1030460800305010] Challenge N
+[quest_title_1030460302101010] Challenge a Super Serious Evelyn
+[quest_title_1030220177000000] A Day with Malva
+[quest_title_1030220171000000] A Day with Chuck
+[quest_title_1030220181000000] A Day with Trevor
+[quest_title_1030608000601000] Collect a Thousand Bonds!
+[quest_title_1030608000601010] PML Memories
+[quest_title_1030608000601040] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030608000601020] Lear’s True Intent
+[quest_title_1030608000601050] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030608000601030] A Power That Is Priceless
+[quest_title_1030608000601060] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030608000601070] Challenge Pasio’s Trainers: Part 4
+[quest_title_1030608000601080] Daily Extreme Battle 1
+[quest_title_1030608000601090] Battle Challenge! Round 1
+[quest_title_1030608000601100] Battle Challenge! Round 2
+[quest_title_1030220066100000] A Day with Sygna Suit Lear
+[quest_group_title_10207000000] Morgan
+[quest_group_title_100301] Chapter 1
+[quest_group_title_10091900000] Arc Suit Cynthia
+[quest_group_title_10090900000] Arc Suit Steven
+[quest_group_title_10111900000] Arc Suit Lance
+[quest_group_title_10118510000] Lillie (Anniversary 2024)
+[quest_group_title_10177000000] Malva
+[quest_group_title_10171000000] Chuck
+[quest_group_title_10181000000] Trevor
+[quest_group_title_10066100000] Sygna Suit Lear
+[quest_group_detail_100301] Three Champions
+[quest_title_1030460800100010] Challenge Johto’s Top-Tier Team
+[quest_title_1030460800101010] Challenge Alola’s Top-Tier Team
+[quest_title_1030460800102010] Challenge Galar’s Top-Tier Team
+[quest_title_1030460800103010] Challenge Unova’s Top-Tier Team
+[quest_title_1030460800104010] Challenge Kanto’s Top-Tier Team
+[quest_title_1030608000604000] Champions, Side by Side!
+[quest_title_1030608000605010] The Champion of Hoenn Appears!
 
 ===========
 story_quest_name_es.lsd
@@ -15919,6 +16067,79 @@ Misteriosas
 [quest_group_title_10317000000] Damián
 [quest_group_title_10289100000] Mencía (Traje S)
 [quest_group_detail_100210] El eco de una deidad
+[quest_title_1040001110001011] Un día especial con Lance
+[quest_title_1040001110001021] Un día especial con Lance (2)
+[quest_title_1030220207000000] Un día con Aurora
+[quest_title_1030110000610100] La convicción de Cintia
+[quest_title_1030110000610200] Las aventuras de Máximo
+[quest_title_1030110000610300] Las tribulaciones de Lance
+[quest_title_1030110000610400] ¡Comienza la Copa Arceus!
+[quest_title_1030110000610500] Una bendición de Arceus
+[quest_title_1030460800700010] VS. Luka
+[quest_title_1030460800701010] VS. Luka (2)
+[quest_title_1030460800702010] VS. Luka (3)
+[quest_title_1030460800703010] VS. Luka (4)
+[quest_title_1030460800707010] VS. Aquellos bendecidos por
+una deidad
+[quest_title_1030220091900000] Un día con Cintia (Architraje)
+[quest_title_1030220090900000] Un día con Máximo
+(Architraje)
+[quest_title_1030220111900000] Un día con Lance (Architraje)
+[quest_title_1030608000602000] El vestido nuevo de Lylia
+[quest_title_1030608000602040] VS. streamers
+[quest_title_1030608000602010] ¡A darlo todo y disfrutar!
+[quest_title_1030608000602050] VS. streamers (2)
+[quest_title_1030608000602020] Ojalá durara para siempre
+[quest_title_1030608000602060] VS. streamers (3)
+[quest_title_1030608000602030] Se pone el sol, sale la luna
+[quest_title_1030608000602070] VS. streamers (4)
+[quest_title_1030608000602080] ¡Un combate difícil al día!
+[quest_title_1030460800401010] VS. Cintia (Architraje)
+[quest_title_1030460800402010] VS. Máximo (Architraje)
+[quest_title_1030460800403010] VS. Lance (Architraje)
+[quest_title_1030608000603000] Monedas extrañas en Passio
+[quest_title_1030608000603010] El Pokémon Cofre
+[quest_title_1030608000603020] El valor oculto
+[quest_title_1030460800301010] VS. Magno
+[quest_title_1030460800302010] VS. Nocta
+[quest_title_1030460800303010] VS. Tristana
+[quest_title_1030460800304010] VS. Lionel (Traje S)
+[quest_title_1030460800305010] VS. N
+[quest_title_1030460302101010] VS. Vésper con todo
+[quest_title_1030220177000000] Un día con Malva
+[quest_title_1030220171000000] Un día con Aníbal
+[quest_title_1030220181000000] Un día con Trovato
+[quest_title_1030608000601000] ¡Objetivo: mil vínculos!
+[quest_title_1030608000601010] Recuerdos del WPM
+[quest_title_1030608000601040] VS. Entrenadores de Passio
+[quest_title_1030608000601020] La verdadera intención de
+Alik
+[quest_title_1030608000601050] VS. Entrenadores de Passio (2)
+[quest_title_1030608000601030] Un poder que no tiene precio
+[quest_title_1030608000601060] VS. Entrenadores de Passio (3)
+[quest_title_1030608000601070] VS. Entrenadores de Passio (4)
+[quest_title_1030608000601080] ¡Un combate difícil al día!
+[quest_title_1030608000601090] ¡Un combate desafiante!
+[quest_title_1030608000601100] ¡Un combate desafiante! (2)
+[quest_title_1030220066100000] Un día con Alik (Traje S)
+[quest_group_title_10207000000] Aurora
+[quest_group_title_100301] Capítulo 1
+[quest_group_title_10091900000] Cintia (Architraje)
+[quest_group_title_10090900000] Máximo (Architraje)
+[quest_group_title_10111900000] Lance (Architraje)
+[quest_group_title_10118510000] Lylia (5.º Aniversario)
+[quest_group_title_10177000000] Malva
+[quest_group_title_10171000000] Aníbal
+[quest_group_title_10181000000] Trovato
+[quest_group_title_10066100000] Alik (Traje S)
+[quest_group_detail_100301] Tres Campeones
+[quest_title_1030460800100010] VS. lo mejorcito de Johto
+[quest_title_1030460800101010] VS. lo mejorcito de Alola
+[quest_title_1030460800102010] VS. lo mejorcito de Galar
+[quest_title_1030460800103010] VS. lo mejorcito de Teselia
+[quest_title_1030460800104010] VS. lo mejorcito de Kanto
+[quest_title_1030608000604000] Historia de sendos Campeones
+[quest_title_1030608000605010] ¡Llega el Campeón de Hoenn!
 
 ===========
 story_quest_name_fr.lsd
@@ -20860,6 +21081,101 @@ avec Nidorino
 [quest_group_title_10317000000] Pepper
 [quest_group_title_10289100000] Menzi (Look Ultime)
 [quest_group_detail_100210] L'écho d'une voix divine
+[quest_title_1040001110001011] Une journée spéciale
+avec Peter
+[quest_title_1040001110001021] Une journée spéciale
+avec Peter II
+[quest_title_1030220207000000] Une journée avec Aurore
+[quest_title_1030110000610100] La conviction de Cynthia
+[quest_title_1030110000610200] L'aventure de Pierre Rochard
+[quest_title_1030110000610300] Les épreuves de Peter
+[quest_title_1030110000610400] Que la Coupe Arceus commence !
+[quest_title_1030110000610500] Des tenues décernées par Arceus
+[quest_title_1030460800700010] Combat : Aurel
+[quest_title_1030460800701010] Combat : Aurel II
+[quest_title_1030460800702010] Combat : Aurel III
+[quest_title_1030460800703010] Combat : Aurel IV
+[quest_title_1030460800707010] Combat :
+Les élus du Pokémon vénéré
+[quest_title_1030220091900000] Une journée avec Cynthia
+(Look Arceus)
+[quest_title_1030220090900000] Une journée avec Pierre
+Rochard (Look Arceus)
+[quest_title_1030220111900000] Une journée avec Peter
+(Look Arceus)
+[quest_title_1030608000602000] La nouvelle tenue de Lilie
+[quest_title_1030608000602040] Combat : Streameurs
+[quest_title_1030608000602010] Amusons-nous pleinement !
+[quest_title_1030608000602050] Combat : Streameurs II
+[quest_title_1030608000602020] Si seulement les bons moments
+pouvaient durer éternellement
+[quest_title_1030608000602060] Combat : Streameurs III
+[quest_title_1030608000602030] Quand une journée se termine,
+une autre commence
+[quest_title_1030608000602070] Combat : Streameurs IV
+[quest_title_1030608000602080] Combat difficile limité
+à une fois par jour !
+[quest_title_1030460800401010] Combat : Cynthia
+(Look Arceus)
+[quest_title_1030460800402010] Combat : Pierre Rochard
+(Look Arceus)
+[quest_title_1030460800403010] Combat : Peter
+(Look Arceus)
+[quest_title_1030608000603000] Mystérieuses pièces anciennes
+découvertes à Passio
+[quest_title_1030608000603010] Le Pokémon Coffrotrésor
+[quest_title_1030608000603020] Quelle est leur valeur ?
+[quest_title_1030460800301010] Combat : Max
+[quest_title_1030460800302010] Combat : Nix
+[quest_title_1030460800303010] Combat : Amaryllis
+[quest_title_1030460800304010] Combat : Tarak (Look Ultime)
+[quest_title_1030460800305010] Combat : N
+[quest_title_1030460302101010] Combat : Vesper sans merci
+[quest_title_1030220177000000] Une journée avec Malva
+[quest_title_1030220171000000] Une journée avec Chuck
+[quest_title_1030220181000000] Une journée avec Trovato
+[quest_title_1030608000601000] Collecter un millier de liens !
+[quest_title_1030608000601010] Souvenirs du WPM
+[quest_title_1030608000601040] Combat : Dresseurs de Passio
+[quest_title_1030608000601020] La véritable intention d'Alexis
+[quest_title_1030608000601050] Combat :
+Dresseurs de Passio II
+[quest_title_1030608000601030] Un pouvoir d'une valeur
+inestimable
+[quest_title_1030608000601060] Combat :
+Dresseurs de Passio III
+[quest_title_1030608000601070] Combat :
+Dresseurs de Passio IV
+[quest_title_1030608000601080] Combat difficile limité
+à une fois par jour !
+[quest_title_1030608000601090] Combat difficile
+[quest_title_1030608000601100] Combat difficile II
+[quest_title_1030220066100000] Une journée avec Alexis
+(Look Ultime)
+[quest_group_title_10207000000] Aurore
+[quest_group_title_100301] Chapitre 1
+[quest_group_title_10091900000] Cynthia (Look Arceus)
+[quest_group_title_10090900000] Pierre Rochard (Look Arceus)
+[quest_group_title_10111900000] Peter (Look Arceus)
+[quest_group_title_10118510000] Lilie
+(Anniversaire 2024)
+[quest_group_title_10177000000] Malva
+[quest_group_title_10171000000] Chuck
+[quest_group_title_10181000000] Trovato
+[quest_group_title_10066100000] Alexis (Look Ultime)
+[quest_group_detail_100301] Trois Maîtres
+[quest_title_1030460800100010] Combat :
+Meilleure équipe de Johto
+[quest_title_1030460800101010] Combat :
+Meilleure équipe d'Alola
+[quest_title_1030460800102010] Combat :
+Meilleure équipe de Galar
+[quest_title_1030460800103010] Combat :
+Meilleure équipe d'Unys
+[quest_title_1030460800104010] Combat :
+Meilleure équipe de Kanto
+[quest_title_1030608000604000] Deux Maîtres côte à côte
+[quest_title_1030608000605010] L'arrivée du Maître de Hoenn !
 
 ===========
 story_quest_name_it.lsd
@@ -24842,6 +25158,76 @@ Persone famose ovunque!
 [quest_group_title_10317000000] Pepe
 [quest_group_title_10289100000] Nemi Costumax
 [quest_group_detail_100210] La voce primeva
+[quest_title_1040001110001011] Un giorno speciale con Lance (1ª parte)
+[quest_title_1040001110001021] Un giorno speciale con Lance (2ª parte)
+[quest_title_1030220207000000] Un giorno con Aurora
+[quest_title_1030110000610100] La convinzione di Camilla
+[quest_title_1030110000610200] L'avventura di Rocco
+[quest_title_1030110000610300] La tenacia di Lance
+[quest_title_1030110000610400] Benvenuti alla Coppa Arceus!
+[quest_title_1030110000610500] Costumi col favore di Arceus
+[quest_title_1030460800700010] VS Luca
+[quest_title_1030460800701010] VS Luca 2
+[quest_title_1030460800702010] VS Luca 3
+[quest_title_1030460800703010] VS Luca 4
+[quest_title_1030460800707010] VS Allenatori col favore di una divinità
+[quest_title_1030220091900000] Un giorno con Camilla Arcicostume
+[quest_title_1030220090900000] Un giorno con Rocco Arcicostume
+[quest_title_1030220111900000] Un giorno con Lance Arcicostume
+[quest_title_1030608000602000] Il nuovo vestito di Lylia
+[quest_title_1030608000602040] VS squadra di streamer
+[quest_title_1030608000602010] Divertimento al massimo!
+[quest_title_1030608000602050] VS squadra di streamer 2
+[quest_title_1030608000602020] Magari durasse per sempre...
+[quest_title_1030608000602060] VS squadra di streamer 3
+[quest_title_1030608000602030] L'infinito alternarsi di sole e luna
+[quest_title_1030608000602070] VS squadra di streamer 4
+[quest_title_1030608000602080] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030460800401010] VS Camilla Arcicostume
+[quest_title_1030460800402010] VS Rocco Arcicostume
+[quest_title_1030460800403010] VS Lance Arcicostume
+[quest_title_1030608000603000] Strane monete a Pasio
+[quest_title_1030608000603010] Il Pokémon Scrigno
+[quest_title_1030608000603020] Che sia di valore...?
+[quest_title_1030460800301010] VS Max
+[quest_title_1030460800302010] VS Notturna
+[quest_title_1030460800303010] VS Lyris
+[quest_title_1030460800304010] VS Dandel Costumax
+[quest_title_1030460800305010] VS N
+[quest_title_1030460302101010] VS Vespera (risoluta)
+[quest_title_1030220177000000] Un giorno con Malva
+[quest_title_1030220171000000] Un giorno con Furio
+[quest_title_1030220181000000] Un giorno con Trovato
+[quest_title_1030608000601000] Commemorare mille legami!
+[quest_title_1030608000601010] Ricordi del WPM...
+[quest_title_1030608000601040] VS Allenatori di Pasio
+[quest_title_1030608000601020] Il vero intento di Kelian
+[quest_title_1030608000601050] VS Allenatori di Pasio 2
+[quest_title_1030608000601030] Un potere dal valore inestimabile
+[quest_title_1030608000601060] VS Allenatori di Pasio 3
+[quest_title_1030608000601070] VS Allenatori di Pasio 4
+[quest_title_1030608000601080] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030608000601090] Sfida ad alta difficoltà
+[quest_title_1030608000601100] Sfida ad alta difficoltà 2
+[quest_title_1030220066100000] Un giorno con Kelian Costumax
+[quest_group_title_10207000000] Aurora
+[quest_group_title_100301] Capitolo 1
+[quest_group_title_10091900000] Camilla Arcicostume
+[quest_group_title_10090900000] Rocco Arcicostume
+[quest_group_title_10111900000] Lance Arcicostume
+[quest_group_title_10118510000] Lylia (anniversario 2024)
+[quest_group_title_10177000000] Malva
+[quest_group_title_10171000000] Furio
+[quest_group_title_10181000000] Trovato
+[quest_group_title_10066100000] Kelian Costumax
+[quest_group_detail_100301] I tre Campioni
+[quest_title_1030460800100010] VS fiori all'occhiello di Johto
+[quest_title_1030460800101010] VS fiori all'occhiello di Alola
+[quest_title_1030460800102010] VS fiori all'occhiello di Galar
+[quest_title_1030460800103010] VS fiori all'occhiello di Unima
+[quest_title_1030460800104010] VS fiori all'occhiello di Kanto
+[quest_title_1030608000604000] Campioni fianco a fianco
+[quest_title_1030608000605010] L'arrivo di un Campione da Hoenn
 
 ===========
 story_quest_name_ja.lsd
@@ -28920,6 +29306,77 @@ story_quest_name_ja.lsd
 [quest_group_title_10317000000] ペパー
 [quest_group_title_10289100000] マジコスネモ
 [quest_group_detail_100210] パシオに響く神の声
+[quest_title_1040001110001011] ワタルとの特別な一日　前編
+[quest_title_1040001110001021] ワタルとの特別な一日　後編
+[quest_title_1030220207000000] とある日のルミタン
+[quest_title_1030110000610100] シロナが信じる力
+[quest_title_1030110000610200] ダイゴが経験した冒険
+[quest_title_1030110000610300] ワタルが乗りこえた苦労
+[quest_title_1030110000610400] アルセウス杯　開幕！
+[quest_title_1030110000610500] 神の加護を受けし衣
+[quest_title_1030460800700010] ＶＳ　テル
+[quest_title_1030460800701010] ＶＳ　テル２
+[quest_title_1030460800702010] ＶＳ　テル３
+[quest_title_1030460800703010] ＶＳ　テル４
+[quest_title_1030460800707010] ＶＳ　神の加護を受けし者
+[quest_title_1030220091900000] とある日のアルコスシロナ
+[quest_title_1030220090900000] とある日のアルコスダイゴ
+[quest_title_1030220111900000] とある日のアルコスワタル
+[quest_title_1030608000602000] リーリエの新衣装
+[quest_title_1030608000602040] ＶＳ　生配信タッグ！
+[quest_title_1030608000602010] ゼンリョクで楽しみます！
+[quest_title_1030608000602050] ＶＳ　生配信タッグ！２
+[quest_title_1030608000602020] ずっと続けばいいのに……
+[quest_title_1030608000602060] ＶＳ　生配信タッグ！３
+[quest_title_1030608000602030] 太陽と月が巡るように
+[quest_title_1030608000602070] ＶＳ　生配信タッグ！４
+[quest_title_1030608000602080] １日１回限定・高難度バトル！
+[quest_title_1030460800401010] ＶＳ　アルコスシロナ
+[quest_title_1030460800402010] ＶＳ　アルコスダイゴ
+[quest_title_1030460800403010] ＶＳ　アルコスワタル
+[quest_title_1030608000603000] パシオでウワサの古コイン
+[quest_title_1030608000603010] １日１回　たからばこポケモン
+[quest_title_1030608000603020] どんな価値が……？
+[quest_title_1030460800301010] ＶＳ　マツブサ
+[quest_title_1030460800302010] ＶＳ　ラニュイ
+[quest_title_1030460800303010] ＶＳ　ヒガナ
+[quest_title_1030460800304010] ＶＳ　マジコスダンデ
+[quest_title_1030460800305010] ＶＳ　Ｎ
+[quest_title_1030460302101010] ＶＳ　超本気のルスワール
+[quest_title_1030220177000000] とある日のパキラ
+[quest_title_1030220171000000] とある日のシジマ
+[quest_title_1030220181000000] とある日のトロバ
+[quest_title_1030608000601000] １０００のきずなを集めよ！
+[quest_title_1030608000601010] ＷＰＭの思い出
+[quest_title_1030608000601040] ＶＳ　パシオのトレーナー
+[quest_title_1030608000601020] ライヤーの本意
+[quest_title_1030608000601050] ＶＳ　パシオのトレーナー２
+[quest_title_1030608000601030] 金では買えない力
+[quest_title_1030608000601060] ＶＳ　パシオのトレーナー３
+[quest_title_1030608000601070] ＶＳ　パシオのトレーナー４
+[quest_title_1030608000601080] １日１回限定・高難度バトル！
+[quest_title_1030608000601090] チャレンジバトルで勝負！
+[quest_title_1030608000601100] チャレンジバトルで勝負！２
+[quest_title_1030220066100000] とある日のマジコスライヤー
+[quest_group_title_10207000000] ルミタン
+[quest_group_title_100301] 第１章
+[quest_group_title_10091900000] アルコスシロナ
+[quest_group_title_10090900000] アルコスダイゴ
+[quest_group_title_10111900000] アルコスワタル
+[quest_group_title_10118510000] リーリエ
+（２４アニバーサリー）
+[quest_group_title_10177000000] パキラ
+[quest_group_title_10171000000] シジマ
+[quest_group_title_10181000000] トロバ
+[quest_group_title_10066100000] マジコスライヤー
+[quest_group_detail_100301] ３人のチャンピオン
+[quest_title_1030460800100010] ＶＳ　ジョウトの精鋭チーム
+[quest_title_1030460800101010] ＶＳ　アローラの精鋭チーム
+[quest_title_1030460800102010] ＶＳ　ガラルの精鋭チーム
+[quest_title_1030460800103010] ＶＳ　イッシュの精鋭チーム
+[quest_title_1030460800104010] ＶＳ　カントーの精鋭チーム
+[quest_title_1030608000604000] 並び立つチャンピオン！
+[quest_title_1030608000605010] ホウエンチャンピオン登場！
 
 ===========
 story_quest_name_ko.lsd
@@ -32997,6 +33454,77 @@ story_quest_name_ko.lsd
 [quest_group_title_10317000000] 페퍼
 [quest_group_title_10289100000] 궁극코스 네모
 [quest_group_detail_100210] 파시오에 울리는 신의 목소리
+[quest_title_1040001110001011] 목호와의 특별한 하루 전편
+[quest_title_1040001110001021] 목호와의 특별한 하루 후편
+[quest_title_1030220207000000] 르마탱의 어느 날
+[quest_title_1030110000610100] 난천이 믿는 힘
+[quest_title_1030110000610200] 성호가 경험한 모험
+[quest_title_1030110000610300] 목호가 극복한 고생
+[quest_title_1030110000610400] 아르세우스 배 개막!
+[quest_title_1030110000610500] 신의 가호를 받은 의상
+[quest_title_1030460800700010] VS 영빈
+[quest_title_1030460800701010] VS 영빈2
+[quest_title_1030460800702010] VS 영빈3
+[quest_title_1030460800703010] VS 영빈4
+[quest_title_1030460800707010] VS 신의 가호를 받은 자
+[quest_title_1030220091900000] 아르코스 난천의 어느 날
+[quest_title_1030220090900000] 아르코스 성호의 어느 날
+[quest_title_1030220111900000] 아르코스 목호의 어느 날
+[quest_title_1030608000602000] 릴리에의 새로운 의상
+[quest_title_1030608000602040] VS 스트리머 태그!
+[quest_title_1030608000602010] 전력을 다해 즐길게요!
+[quest_title_1030608000602050] VS 스트리머 태그!2
+[quest_title_1030608000602020] 쭉 계속됐으면 좋겠다...
+[quest_title_1030608000602060] VS 스트리머 태그!3
+[quest_title_1030608000602030] 태양과 달이 돌고 돌듯이
+[quest_title_1030608000602070] VS 스트리머 태그!4
+[quest_title_1030608000602080] 1일 1회 한정 고난도 배틀!
+[quest_title_1030460800401010] VS 아르코스 난천
+[quest_title_1030460800402010] VS 아르코스 성호
+[quest_title_1030460800403010] VS 아르코스 목호
+[quest_title_1030608000603000] 파시오에서 소문난 오래된 코인
+[quest_title_1030608000603010] 1일 1회 보물상자포켓몬
+[quest_title_1030608000603020] 어떤 가치가...?
+[quest_title_1030460800301010] VS 마적
+[quest_title_1030460800302010] VS 라뉴이
+[quest_title_1030460800303010] VS 피아나
+[quest_title_1030460800304010] VS 궁극코스 단델
+[quest_title_1030460800305010] VS N
+[quest_title_1030460302101010] VS 진심으로 전력을 다하는 르수아르
+[quest_title_1030220177000000] 파키라의 어느 날
+[quest_title_1030220171000000] 사도의 어느 날
+[quest_title_1030220181000000] 트로바의 어느 날
+[quest_title_1030608000601000] 1000의 유대를 모아라!
+[quest_title_1030608000601010] WPM의 추억
+[quest_title_1030608000601040] VS 파시오의 트레이너
+[quest_title_1030608000601020] 라이어의 진짜 의도
+[quest_title_1030608000601050] VS 파시오의 트레이너2
+[quest_title_1030608000601030] 돈으로 살 수 없는 힘
+[quest_title_1030608000601060] VS 파시오의 트레이너3
+[quest_title_1030608000601070] VS 파시오의 트레이너4
+[quest_title_1030608000601080] 1일 1회 한정 고난도 배틀!
+[quest_title_1030608000601090] 챌린지배틀로 승부!
+[quest_title_1030608000601100] 챌린지배틀로 승부!2
+[quest_title_1030220066100000] 궁극코스 라이어의 어느 날
+[quest_group_title_10207000000] 르마탱
+[quest_group_title_100301] 제1장
+[quest_group_title_10091900000] 아르코스 난천
+[quest_group_title_10090900000] 아르코스 성호
+[quest_group_title_10111900000] 아르코스 목호
+[quest_group_title_10118510000] 릴리에
+(24기념)
+[quest_group_title_10177000000] 파키라
+[quest_group_title_10171000000] 사도
+[quest_group_title_10181000000] 트로바
+[quest_group_title_10066100000] 궁극코스 라이어
+[quest_group_detail_100301] 3명의 챔피언
+[quest_title_1030460800100010] VS 성도지방의 정예 팀
+[quest_title_1030460800101010] VS 알로라지방의 정예 팀
+[quest_title_1030460800102010] VS 가라르지방의 정예 팀
+[quest_title_1030460800103010] VS 하나지방의 정예 팀
+[quest_title_1030460800104010] VS 관동지방의 정예 팀
+[quest_title_1030608000604000] 나란히 선 챔피언!
+[quest_title_1030608000605010] 호연지방 챔피언 등장!
 
 ===========
 story_quest_name_zh-TW.lsd
@@ -37074,6 +37602,77 @@ story_quest_name_zh-TW.lsd
 [quest_group_title_10317000000] 派帕
 [quest_group_title_10289100000] 美極套裝妮莫
 [quest_group_detail_100210] 出現在帕希歐的神之聲
+[quest_title_1040001110001011] 與阿渡的特別日子　前篇
+[quest_title_1040001110001021] 與阿渡的特別日子　後篇
+[quest_title_1030220207000000] 某日的朝蜜
+[quest_title_1030110000610100] 竹蘭相信的力量
+[quest_title_1030110000610200] 大吾經歷的冒險
+[quest_title_1030110000610300] 阿渡熬過的苦
+[quest_title_1030110000610400] 阿爾宙斯盃開幕！
+[quest_title_1030110000610500] 受神庇佑的服裝
+[quest_title_1030460800700010] ＶＳ　明耀１
+[quest_title_1030460800701010] ＶＳ　明耀２
+[quest_title_1030460800702010] ＶＳ　明耀３
+[quest_title_1030460800703010] ＶＳ　明耀４
+[quest_title_1030460800707010] ＶＳ　受神庇佑之人
+[quest_title_1030220091900000] 某日的阿爾套裝竹蘭
+[quest_title_1030220090900000] 某日的阿爾套裝大吾
+[quest_title_1030220111900000] 某日的阿爾套裝阿渡
+[quest_title_1030608000602000] 莉莉艾的全新服裝
+[quest_title_1030608000602040] ＶＳ　直播雙人組！
+[quest_title_1030608000602010] 拿出全力享受樂趣！
+[quest_title_1030608000602050] ＶＳ　直播雙人組！２
+[quest_title_1030608000602020] 希望能永遠持續下去……
+[quest_title_1030608000602060] ＶＳ　直播雙人組！３
+[quest_title_1030608000602030] 如同太陽與月亮輪流升起
+[quest_title_1030608000602070] ＶＳ　直播雙人組！４
+[quest_title_1030608000602080] １天僅限１次的高難度對戰！
+[quest_title_1030460800401010] ＶＳ　阿爾套裝竹蘭
+[quest_title_1030460800402010] ＶＳ　阿爾套裝大吾
+[quest_title_1030460800403010] ＶＳ　阿爾套裝阿渡
+[quest_title_1030608000603000] 帕希歐傳聞中的舊硬幣
+[quest_title_1030608000603010] １天１次　寶箱寶可夢
+[quest_title_1030608000603020] 有什麼樣的價值……？
+[quest_title_1030460800301010] ＶＳ　赤焰松
+[quest_title_1030460800302010] ＶＳ　夜妮
+[quest_title_1030460800303010] ＶＳ　希嘉娜
+[quest_title_1030460800304010] ＶＳ　美極套裝丹帝
+[quest_title_1030460800305010] ＶＳ　Ｎ
+[quest_title_1030460302101010] ＶＳ　火力全開的夕絲
+[quest_title_1030220177000000] 某日的帕琦拉
+[quest_title_1030220171000000] 某日的阿四
+[quest_title_1030220181000000] 某日的多羅巴
+[quest_title_1030608000601000] 收集１０００組牽絆！
+[quest_title_1030608000601010] ＷＰＭ的回憶
+[quest_title_1030608000601040] ＶＳ　帕希歐的訓練家
+[quest_title_1030608000601020] 鎯琊的目的
+[quest_title_1030608000601050] ＶＳ　帕希歐的訓練家２
+[quest_title_1030608000601030] 用錢買不到的力量
+[quest_title_1030608000601060] ＶＳ　帕希歐的訓練家３
+[quest_title_1030608000601070] ＶＳ　帕希歐的訓練家４
+[quest_title_1030608000601080] １天僅限１次的高難度對戰！
+[quest_title_1030608000601090] 用挑戰對戰決勝負！
+[quest_title_1030608000601100] 用挑戰對戰決勝負！２
+[quest_title_1030220066100000] 某日的美極套裝鎯琊
+[quest_group_title_10207000000] 朝蜜
+[quest_group_title_100301] 第１章
+[quest_group_title_10091900000] 阿爾套裝竹蘭
+[quest_group_title_10090900000] 阿爾套裝大吾
+[quest_group_title_10111900000] 阿爾套裝阿渡
+[quest_group_title_10118510000] 莉莉艾
+（2024週年慶）
+[quest_group_title_10177000000] 帕琦拉
+[quest_group_title_10171000000] 阿四
+[quest_group_title_10181000000] 多羅巴
+[quest_group_title_10066100000] 美極套裝鎯琊
+[quest_group_detail_100301] ３位冠軍
+[quest_title_1030460800100010] ＶＳ　城都精英隊
+[quest_title_1030460800101010] ＶＳ　阿羅拉精英隊
+[quest_title_1030460800102010] ＶＳ　伽勒爾精英隊
+[quest_title_1030460800103010] ＶＳ　合眾精英隊
+[quest_title_1030460800104010] ＶＳ　關都精英隊
+[quest_title_1030608000604000] 並駕齊驅的冠軍！
+[quest_title_1030608000605010] 豐緣冠軍登場！
 
 ===========
 trainer_description_de.lsd
@@ -38527,6 +39126,72 @@ Großvater.
 [10021000002] Der Enkel des berühmten Professor Eich ist einer der
 stärksten Trainer in ganz Kanto. Rot ist für ihn zugleich
 ewiger Rivale und enger Freund.
+[10091900000] Cynthia hat die Macht ihres Ultimativen Gefährtensteins
+freigesetzt und die schützende Gunst von Arceus erlangt.
+Sie will ihre Verbindung zu Knakrack weiter vertiefen und
+folgt unbeirrt ihrem Herzen.
+[10090900000] Troy hat die Macht seines Ultimativen Gefährtensteins
+freigesetzt und die schützende Gunst von Arceus erlangt.
+Er beweist allen, welch enorme Stärke er durch die enge
+Verbindung zu Metagross besitzt.
+[10111900000] Siegfried hat die Macht seines Ultimativen Gefährtensteins
+freigesetzt und die schützende Gunst von Arceus erlangt.
+Seine tiefgreifende Freundschaft zu Dragoran hilft ihm
+dabei, jegliche Hindernisse zu überwinden.
+[10066100000] Lyer trägt eine Machtmontur. Er und Monetigo, das
+goldene Duo, schimmern heller als alles andere auf
+Passio. Sein Outfit verleitet ihn dazu, das Geld mit vollen
+Händen auszugeben.
+[10177000000] Dieses besonnene Mitglied der Top Vier aus Kalos ist auf
+Feuer-Pokémon spezialisiert und arbeitet zudem als die
+Nachrichtensprecherin des Holo-Logs. Ihre stürmische
+Persönlichkeit kommt mitunter im Kampf zum Vorschein.
+[10171000000] Dieser Leiter der Kampf-Arena in Johto stählt seinen
+Körper an der Seite seiner Pokémon. Er hat eine
+Schwäche für Süßes und isst heimlich Süßigkeiten
+zwischen seinen Trainingseinheiten.
+[10181000000] Dieser Trainer bereiste die Kalos-Region mit dem Ziel,
+seinen Pokédex zu vervollständigen. Er räumt bei jedem
+Test die volle Punktzahl ab, ist aber trotzdem sehr
+bescheiden.
+[10118510000] Lilly hat sich besonders schick gemacht. Sie freundet sich
+mit Solgaleo an, das sich nach Passio verirrt hat. Seine
+Macht ist so groß, dass es die Nacht zum Tag macht.
+[10207000000] Die Erstgeborene der vier Kampf-Châtelaine-Schwestern
+ist die Expertin für Reihumkämpfe im Kampfhaus. Da sie
+die verantwortungsvollste der vier ist, hält sie ihre
+eigensinnigen Schwestern im Zaum.
+[10017000002] Dieses fröhliche und umgängliche Mädchen hat ein
+unerschöpfliches Interesse an Pokémon und großes
+Vertrauen in sein Können im Pokémon-Kampf.
+[10111000002] Der Champ des Indigo-Plateaus legt Wert auf Vertrauen
+und Liebe zu Pokémon und mag faire Kämpfe. Er kümmert
+sich um andere und wird von vielen verehrt.
+[10133000002] Dieser junge Mann will der Stärkste der Welt werden.
+Seine Vergangenheit hat ihn gelehrt, dass es nicht nur
+auf Stärke ankommt, sondern auch auf Freundlichkeit.
+[10047000001] Ein maskierter Trainer, den der Drang nach Stärke um die
+Welt führte und der schließlich mit einem Platz unter den
+Top Vier von Kanto belohnt wurde.
+[10023000001] Sie ist ein fürsorglicher Trainer und kümmert sich sofort
+um im Kampf verletzte Pokémon. Laut eigener Aussage
+ist die Offensive ihre Schwäche.
+[10120000001] Samantha ist die attraktive Präsidentin der Æther
+Foundation und die Mutter von Lilly und Gladio.
+Sie liebt Pokémon über alles.
+[10262000001] Rose ist der Geschäftsführer des Industriekonglomerats
+Macro Cosmos in Galar. Auch auf Passio stellt er sein
+grandioses Talent zur Schau.
+(Hinweis: Dieser Text wurde von seiner Assistentin
+verfasst.)
+[10067010001] Sie ist schon in jungem Alter in Lyers Gefolgschaft 
+getreten und stellt sein Wohlergehen daher immer an
+erste Stelle. Trotz ihres lockeren Auftretens nimmt sie ihre
+Arbeit sehr ernst.
+[10068010001] Drival ist ein Gefolgsmann von Lyers Königsfamilie und
+der Vorsitzende des Organisationskomitees der WPM.
+Seine Gestalt wirkt einschüchternd, eigentlich ist er aber
+recht sentimental.
 
 ===========
 trainer_description_en.lsd
@@ -39814,6 +40479,66 @@ on Pokémon research. He is also Blue’s grandfather.
 [10021000002] This highly skilled, powerhouse Trainer prominent in Kanto
 is the grandson of the famous Professor Oak. Red is both
 his lifelong rival and his best friend.
+[10091900000] Cynthia has drawn out the power of her sync stone
+ultimate and received the blessing of Arceus. She’s
+continuing to deepen her bond with Garchomp and follow
+her heart.
+[10090900000] Steven has drawn out the power of his sync stone
+ultimate and received the blessing of Arceus. He’s
+showing off his strength through his deep bond with
+Metagross.
+[10111900000] Lance has drawn out the power of his sync stone
+ultimate and received the blessing of Arceus. His deep
+bond with Dragonite is helping them overcome obstacles.
+[10066100000] Lear is wearing a sygna suit. He and Gholdengo, the
+golden combination, shine brighter than anyone else
+on Pasio. In this outfit, he’s prone to spending money
+somewhat lavishly.
+[10177000000] This level-headed Fire-type user and member of the
+Kalos region’s Elite Four also works as a Holo Caster news
+reporter. Her fierce personality sometimes comes out
+when she’s battling.
+[10171000000] This Fighting Gym Leader from Johto trains his own body
+alongside his Pokémon. He loves sweets so much that he
+sneaks snack breaks between training sessions.
+[10181000000] This Trainer traveled around the Kalos region on a
+journey to complete his Pokédex. He’s a little shy, but he
+always gets perfect scores on his tests.
+[10118510000] Lillie’s wearing a fancy outfit. She befriended a Solgaleo
+that lost its way on Pasio. It had a power so intense that
+it made the night as bright as day.
+[10207000000] The firstborn of the four Battle Chatelaine sisters. She’s
+in charge of Rotation Battles at the Battle Maison. As the
+responsible one, she keeps her sisters’ strong
+personalities in check.
+[10017000002] This cheerful and friendly Trainer has an insatiable
+sense of adventure and absolute confidence in her
+battling skills.
+[10111000002] The Indigo League Champion prefers his battles
+fair and square, and many find his caring demeanor
+very endearing.
+[10133000002] Although known for aiming to be the strongest Trainer in
+the world, this boy no longer cares about strength alone.
+He’s also realized the importance of a kind heart.
+[10047000001] This stoic, masked Trainer has traveled the world and
+trained constantly in his pursuit of strength, rising to
+become one of Kanto’s Elite Four.
+[10023000001] She claims that attacking in battles is not her forte.
+She is a kind Trainer who quickly heals up Pokémon
+that have been injured in battle.
+[10120000001] Lusamine is the beautiful president of the Aether
+Foundation. She has a deep, maternal love for Pokémon
+and is the actual mother of Lillie and Gladion.
+[10262000001] Mr. Rose is the president of a large business
+conglomerate in Galar, Macro Cosmos. He is displaying
+his superb talents on Pasio as well. (NOTE: The text above
+was submitted by his secretary.)
+[10067010001] Having served as one of Lear’s retainers since she was
+young, she always has Lear on her mind. Despite her
+unique, lighthearted tone, she’s actually a hard worker.
+[10068010001] Sawyer is one of the retainers for Lear’s royal family and
+head of the PML staff. He looks scary but is actually
+quite sentimental.
 
 ===========
 trainer_description_es.lsd
@@ -41311,6 +42036,71 @@ Entrenador. Es el abuelo de Azul.
 [10021000002] Nieto del renombrado Profesor Oak y uno de los
 Entrenadores más diestros de Kanto. Gran amigo,
 a la par que eterno rival, de Rojo.
+[10091900000] Cintia ha conseguido extraer todo el potencial de su
+Archipiedra Compi y ha recibido el amparo de Arceus.
+Su vínculo con Garchomp sigue fortaleciéndose mientras
+hace lo posible por mantenerse fiel a su estilo.
+[10090900000] Máximo ha conseguido extraer todo el potencial de su
+Archipiedra Compi y ha recibido el amparo de Arceus.
+Está demostrando su verdadera fuerza a través de su
+estrecho vínculo con Metagross.
+[10111900000] Lance ha conseguido extraer todo el potencial de su
+Archipiedra Compi y ha recibido el amparo de Arceus.
+Gracias a su vínculo con Dragonite, hacer frente a
+cualquier obstáculo es más fácil que nunca.
+[10066100000] El Traje Summum de Alik combina a la perfección con el
+dorado de Gholdengo. Deslumbra a toda Passio allá
+donde va y despilfarra más dinero que nunca.
+[10177000000] Esta Experta en Pokémon de tipo Fuego no solo es
+miembro del Alto Mando de Kalos, sino que también
+presenta los informativos del Holomisor. Su personalidad
+ferviente se deja entrever cuando combate.
+[10171000000] Líder de Gimnasio de tipo Lucha de Johto que siempre
+está ejercitándose con sus Pokémon. Como le encantan
+los dulces, siempre tiene a mano algún tentempié entre
+entrenamientos.
+[10181000000] Este Entrenador viajó por toda Kalos para completar su
+Pokédex. Siempre saca sobresalientes pero nunca presume
+de ello.
+[10118510000] Lylia lleva un traje muy elegante y ha entablado amistad
+con Solgaleo, que se había perdido por Passio. Este es tan
+poderoso que es capaz de iluminar el cielo nocturno tanto
+como si fuese de día.
+[10207000000] Es la mayor de las cuatro hermanas conocidas como las
+Damas del Combate. Al ser la más responsable, mantiene
+bien a raya a las demás. En la Mansión Batalla es quien
+se encarga de los Combates Rotatorios.
+[10017000002] Alegre y simpática Entrenadora que posee una insaciable
+curiosidad por todo lo que concierne a los Pokémon y
+una gran confianza en sus habilidades combativas.
+[10111000002] El Campeón de la Meseta Añil. Valora la confianza y el
+amor por los Pokémon por encima de todas las cosas y
+aborrece a los que juegan sucio en combate. Se preocupa
+por la gente y causa admiración allá por donde va.
+[10133000002] Joven cuyo objetivo en la vida es ser el Entrenador más
+fuerte habido y por haber, aunque ya no solo piensa que
+la fuerza sea lo más importante, sino que también tiene
+en cuenta la amabilidad.
+[10047000001] Entrenador enmascarado que no cesa en su empeño
+de volverse más fuerte. Tras recorrer el mundo
+entrenando a conciencia, entró a formar parte del
+Alto Mando de Kanto.
+[10023000001] Dulce Entrenadora que centra sus esfuerzos en curar
+a los Pokémon heridos en combate. Según ella, el
+ataque no es su punto fuerte.
+[10120000001] La hermosa presidenta que lleva las riendas de la
+Fundación Æther y que profesa un amor infinito por
+todos los Pokémon. Es la madre de Lylia y Gladio.
+[10262000001] Rose es el presidente de un consorcio de grandes
+empresas de Galar, el grupo Macrocosmos, y ha decidido
+hacer gala de su talento también en Passio. (Este texto ha
+sido proporcionado por su secretaria, Olivia).
+[10067010001] Ha servido a Alik desde que era pequeña y antepone
+su jefe a todo lo demás. Su actitud despreocupada e
+impertinente esconde una faceta muy trabajadora.
+[10068010001] Sirviente y guardaespaldas de Alik y de la familia real, 
+también dirige el comité organizador del WPM. A pesar
+de su aspecto amenazador, es un alma sensible.
 
 ===========
 trainer_description_fr.lsd
@@ -42773,6 +43563,68 @@ en matière de recherche Pokémon. On dit qu'il était
 [10021000002] Un des plus puissants Dresseurs de Kanto, petit-fils
 du célèbre Professeur Chen et meilleur ami et éternel
 rival de Red.
+[10091900000] Cynthia a éveillé la puissance de sa Duo-Gemme Ultime
+et reçu la faveur d'Arceus. Elle continue de consolider
+ses liens avec Carchacrok et à toujours suivre son cœur.
+[10090900000] Pierre Rochard a éveillé la puissance de sa Duo-Gemme
+Ultime et reçu la faveur d'Arceus. Il démontre sa force
+par le biais de son lien solide avec Métalosse.
+[10111900000] Peter a éveillé la puissance de sa Duo-Gemme Ultime
+et reçu la faveur d'Arceus. Le lien profond
+qu'il partage avec Dracolosse les aide
+à surmonter n'importe quel obstacle.
+[10066100000] Alexis arborant son Look Ultime. Gromago et lui forment
+un Duo en or qui compte bien éblouir tout Passio.
+Ainsi vêtu, il est enclin à dépenser son argent
+sans compter.
+[10177000000] Cette adepte des Pokémon de type Feu et membre
+du Conseil 4 de Kalos a la tête sur les épaules.
+Elle est également présentatrice sur l'Holokit.
+Sa férocité ressort parfois en combat.
+[10171000000] Ce Champion d'Arène de Johto adepte du type Combat
+s'entraîne aux côtés de ses Pokémon. Il aime tant
+les sucreries qu'il fait des pauses goûter entre
+deux entraînements.
+[10181000000] Ce Dresseur a voyagé à travers Kalos avec pour objectif
+de compléter son Pokédex. On le décrit parfois comme
+un timide génie en herbe ayant réponse à tout.
+[10118510000] Lilie porte une magnifique tenue. Elle s'est liée d'amitié
+avec Solgaleo, qui s'est égaré à Passio. Il est si puissant
+qu'il a transformé une nuit étoilée en journée ensoleillée.
+[10207000000] L'aînée des Châtelaines Combat. En tant que grande
+sœur responsable, elle s'assure que ses cadettes
+restent sur le droit chemin malgré leurs forts
+caractères. Elle est à la tête des Combats
+Rotatifs à la Maison de Combat.
+[10017000002] Une jeune fille joyeuse et amicale. Son insatiable curiosité
+pour tout ce qui touche aux Pokémon en fait une
+formidable Dresseuse et une redoutable adversaire.
+[10111000002] Le Maître du Plateau Indigo. Il est accompagné
+d'un Pokémon qui lui voue une confiance et un amour
+absolu. Il aime les combats et aider les gens en difficulté.
+[10133000002] Un jeune Dresseur qui rêve de devenir le plus fort
+du monde. Au fil de son aventure, il a appris que la
+gentillesse était au moins aussi importante que la force.
+[10047000001] Un Dresseur masqué. Sa soif inextinguible de puissance
+l'a conduit jusqu'au Conseil 4 de la région de Kanto.
+[10023000001] Une Dresseuse douce qui déteste blesser les Pokémon
+en combat et consacre toute son énergie à les soigner.
+[10120000001] Cette beauté est la présidente de la Fondation Æther.
+Elle voue un amour profond aux Pokémon
+et à ses enfants : Lilie et Gladio.
+[10262000001] Monsieur Shehroz occupe aujourd'hui le poste de PDG
+d'un grand groupe industriel à Galar, Macro Cosmos.
+Il fait également démonstration de ses talents
+indéniables à Passio.
+(Texte fourni par l'assistante de M. Shehroz)
+[10067010001] Ayant été la domestique d'Alexis depuis sa plus tendre
+enfance, ce dernier occupe une place importante dans
+son cœur. Malgré sa personnalité unique et sa nature
+désinvolte, elle accomplit son travail avec assiduité.
+[10068010001] Un des plus fidèles employés de la famille royale d'Alexis,
+qui est également à la tête du comité d'organisation
+du WPM. Malgré son physique imposant,
+il a la larme facile.
 
 ===========
 trainer_description_it.lsd
@@ -44184,6 +45036,70 @@ in gamba. È il nonno di Blu.
 [10021000002] Nipote del celebre Professor Oak, nonché uno dei più forti
 Allenatori di Kanto.
 Rosso è per lui un amico e un rivale storico.
+[10091900000] Camilla ha risvegliato il potere della sua Pietra Unità
+omega, ricevendo la protezione di Arceus. Continua
+a rafforzare sempre di più il suo legame con Garchomp,
+seguendo ciò che le dice il cuore.
+[10090900000] Rocco ha risvegliato il potere della sua Pietra Unità
+omega, ricevendo la protezione di Arceus. Mette
+in mostra tutta la sua forza con il suo profondo
+legame con Metagross.
+[10111900000] Lance ha risvegliato il potere della sua Pietra Unità
+omega, ricevendo la protezione di Arceus. Il profondo
+legame che condivide con Dragonite li aiuta a superare
+ogni ostacolo.
+[10066100000] Kelian indossa un Costumax e splende di luce propria,
+illuminando Pasio insieme a Gholdengo. In questi abiti,
+tende a spendere denaro più volentieri.
+[10177000000] L'esperta di Pokémon di tipo Fuoco è una reporter per
+l'Holovox di Kalos, nonché membro dei Superquattro
+della Lega Pokémon. Ha un carattere focoso che emerge
+quando lotta.
+[10171000000] Capopalestra di Johto specializzato nel tipo Lotta, tempra
+il proprio fisico allenandosi insieme ai suoi Pokémon.
+È goloso di dolci, e si premia sempre con qualche
+spuntino tra un allenamento e l'altro.
+[10181000000] Allenatore che ha viaggiato per tutta la regione di Kalos
+per completare il suo Pokédex. È piuttosto modesto,
+nonostante prenda sempre il massimo dei voti.
+[10118510000] Lylia indossa un abito elegante e ha fatto amicizia
+con Solgaleo, che si era smarrito a Pasio. Il suo
+potere splende così tanto da illuminare a giorno
+la notte.
+[10207000000] La prima delle quattro Dame della lotta. È la più
+responsabile, e tiene sempre in riga le sue sorelle.
+All'interno della Villa Lotta si occupa delle Lotte
+a Rotazione.
+[10017000002] Una ragazza dal carattere solare e amichevole.
+Nutre una curiosità insaziabile verso i Pokémon e
+si fida ciecamente delle proprie capacità nelle lotte.
+[10111000002] Campione dell'Altopiano Blu. Dà molta importanza
+alla fiducia e all'affetto per i Pokémon e predilige lotte
+all'insegna della correttezza. È premuroso e molto amato.
+[10133000002] Un ragazzo che punta a diventare l'Allenatore più forte
+al mondo. Lasciandosi alle spalle il proprio passato,
+ha imparato che, oltre alla forza, è importante avere
+anche un animo gentile.
+[10047000001] Allenatore mascherato sempre in cerca della forza.
+Dopo aver girato il mondo allenandosi, è diventato
+uno dei Superquattro di Kanto.
+[10023000001] Allenatrice premurosa che nelle lotte si concentra
+nel curare i Pokémon feriti. Come lei stessa ammette,
+l'offensiva non è il suo forte.
+[10120000001] Direttrice alla guida della Fondazione Æther, dimostra
+un amore profondo verso i Pokémon. È la madre di Lylia
+e di Iridio.
+[10262000001] Dirigente di Macro Cosmos, un grande conglomerato
+di aziende di Galar, dimostra il suo notevole talento
+anche a Pasio. (Descrizione gentilmente fornita
+dalla segretaria personale di Rose.)
+[10067010001] Al servizio di Kelian sin da giovanissima, tiene a lui
+con tutta se stessa. A sentirla parlare potrebbe sembrare
+una persona un po' superficiale, ma in realtà lavora sodo.
+[10068010001] Fedele servitore di Kelian e della sua famiglia, nonché
+direttore del comitato organizzatore del WPM. A prima
+vista può sembrare minaccioso, ma in realtà ha il pianto
+facile.
 
 ===========
 trainer_description_ja.lsd
@@ -45448,6 +46364,60 @@ trainer_description_ja.lsd
 [10021000002] 有名な　オーキド博士の孫で　カントー地方では
 指折りの　実力を持つ　強豪ポケモントレーナー。
 レッドという　終生のライバルにして　親友がいる。
+[10091900000] アルティメットバディストーンの　力を　引きだし
+アルセウスの加護を受けた姿の　シロナ。
+ガブリアスとの　深いきずなで　己の想いを貫く。
+[10090900000] アルティメットバディストーンの　力を　引きだし
+アルセウスの加護を受けた姿の　ダイゴ。
+メタグロスとの　深いきずなで　強さを示す。
+[10111900000] アルティメットバディストーンの　力を　引きだし
+アルセウスの加護を受けた姿の　ワタル。
+カイリューとの　深いきずなで　苦難を乗り越える。
+[10066100000] マジコスを　身にまとった　ライヤー。
+サーフゴーとの　黄金コンビは　パシオいち　輝く。
+この衣装のときは　ちょっと　お金の使い方が　荒い。
+[10177000000] カロス地方　ほのお使いの　クールな　四天王で
+ホロキャスターの　ニュースキャスターも務めている。
+ポケモン勝負の際などに　時折　苛烈な性格がのぞく。
+[10171000000] かくとう使いの　ジョウト地方　ジムリーダー。
+ポケモンと　共に　自らの肉体も　鍛えている。
+修行の合間に　こっそり食べるほど　甘い物が大好き。
+[10181000000] カロス地方を　冒険した　トレーナー。
+ポケモン図鑑の　完成を目指して　旅をしていた。
+テストはいつも満点だが　性格は　ひかえめ。
+[10118510000] 華やかな　衣装を　身にまとった　リーリエ。
+パシオに迷いこみ　その力で　夜を昼のように照らした
+ソルガレオと　仲良くなった。
+[10207000000] バトルシャトレーヌ四姉妹の　長女。
+バトルハウスでは　ローテーションバトルを　担当。
+責任ある立場として　クセの強い妹たちを　まとめる。
+[10017000002] 明るく　親しみやすい　性格の　少女。
+ポケモンに　対して　あくなき　探求心を　持ち
+勝負の　腕前に　絶対の　自信がある。
+[10111000002] セキエイ高原の　チャンピオン。ポケモンとの　信頼や
+愛情を　大切にしていて　正々堂々の　勝負を　好む。
+面倒見が　よく　たくさんの　人から　慕われている。
+[10133000002] 世界で一番強い　トレーナーを　目指す　少年。
+過去を　乗りこえることで　強さだけではなく
+優しい心の　大切さを　知った。
+[10047000001] ストイックに　強さを求める　仮面の　トレーナー。
+世界中を　旅して　ポケモン勝負の　修行に明け暮れ
+カントー地方の　四天王にまで　のぼりつめた。
+[10023000001] 本人いわく　勝負で　攻撃するのは　苦手。
+戦いで　傷ついた　ポケモンを　すぐに
+手当してくれる　優しい　トレーナー。
+[10120000001] エーテル財団を　導く　美しき　代表。
+ポケモンたちを　深い愛で　包みこむ。
+リーリエと　グラジオの　母でも　ある。
+[10262000001] ガラル地方の　大企業　マクロコスモスの　総帥。
+パシオでも　その優れた手腕を　発揮なされています。
+（テキストは　秘書の方が　ご用意された　ものです）
+[10067010001] 幼い頃から　ライヤーに　仕えてきた　家臣。
+いつも　ライヤーのことを　第一に　考えている。
+独特な　軽い口調とは　裏腹に　努力家だ。
+[10068010001] ライヤーの　王家に　仕える　家臣で
+ＷＰＭ運営委員会の　代表も　務めている。
+みためは　怖いが　涙もろい。
 
 ===========
 trainer_description_ko.lsd
@@ -46711,6 +47681,60 @@ WPM 운영위원회의 대표도 맡고 있다.
 [10021000002] 유명한 오박사의 손자이자 관동지방에서는
 손에 꼽힐만한 실력의 강호인 포켓몬 트레이너.
 레드라는 평생의 라이벌이자 친구가 있다.
+[10091900000] 얼티메이트 버디스톤의 힘을 끌어내고
+아르세우스의 가호를 받은 모습의 난천.
+한카리아스와의 깊은 유대로 자신의 생각을 관철한다.
+[10090900000] 얼티메이트 버디스톤의 힘을 끌어내고
+아르세우스의 가호를 받은 모습의 성호.
+메타그로스와의 깊은 유대로 강함을 드러낸다.
+[10111900000] 얼티메이트 버디스톤의 힘을 끌어내고
+아르세우스의 가호를 받은 모습의 목호.
+망나뇽과의 깊은 유대로 고난을 뛰어넘는다.
+[10066100000] 궁극코스를 입은 라이어.
+타부자고와의 황금 콤비는 파시오에서 제일 빛난다.
+이 의상을 입고 있으면 돈을 약간 막 쓰게 된다.
+[10177000000] 칼로스지방의 불꽃포켓몬 전문가이자 쿨한 사천왕으로
+홀로캐스터의 뉴스 캐스터로도 일하고 있다.
+포켓몬 승부를 할 때면 종종 거친 성격이 엿보인다.
+[10171000000] 격투포켓몬 전문가인 성도지방 체육관 관장.
+포켓몬과 함께 자신의 육체도 단련하고 있다.
+수행하는 사이에 몰래 먹을 정도로 달콤한 음식을 아주 좋아한다.
+[10181000000] 칼로스지방을 모험한 트레이너.
+포켓몬 도감의 완성을 목표로 여행을 하고 있었다.
+테스트는 언제나 100점이지만 성격은 겸손한 편.
+[10118510000] 화려한 의상을 입은 릴리에.
+파시오에 흘러 들어와 그 힘으로
+밤을 낮처럼 비췄던 솔가레오와 친해졌다.
+[10207000000] 배틀샤틀레느 네 자매 중 첫째.
+배틀하우스에서는 로테이션배틀을 담당한다.
+책임을 지는 입장으로서 개성적인 동생들을 통솔한다.
+[10017000002] 밝고 친근한 성격의 소녀.
+포켓몬에 대한 끝없는 탐구심을 가지고 있으며
+포켓몬 승부의 실력에는 강한 자신감을 가지고 있다.
+[10111000002] 석영고원의 챔피언. 포켓몬과의 신뢰와 애정을
+소중하게 생각하며 정정당당한 승부를 선호한다.
+남을 잘 돌보기 때문에 많은 사람에게 존경받고 있다.
+[10133000002] 세계에서 가장 강한 트레이너를 목표하는 소년.
+과거를 이겨내면서 강함이 전부가 아니라는 점과
+상냥한 마음의 소중함을 깨달았다.
+[10047000001] 묵묵히 강함을 추구하는 가면을 쓴 트레이너.
+세계를 여행하며 포켓몬 승부에 대한 수행을 거듭해
+관동지방의 사천왕의 자리까지 올랐다.
+[10023000001] 본인은 승부에서 공격하는 것을 좋아하지 않는다고 한다.
+배틀로 상처 입은 포켓몬을 보면
+바로 치료해 주는 상냥한 트레이너.
+[10120000001] 에테르재단을 이끄는 아름다운 대표.
+포켓몬들을 깊은 사랑으로 감싸안는다.
+릴리에와 글라디오의 어머니이기도 하다.
+[10262000001] 가라르지방의 대기업 매크로코스모스의 총수.
+파시오에서도 그 뛰어난 수완을 발휘하고 계십니다.
+(위 텍스트는 비서가 직접 제출한 내용입니다)
+[10067010001] 어릴 때부터 라이어를 섬겨온 부하.
+언제나 라이어를 최우선으로 생각한다.
+독특하고 가벼운 말투와는 달리 노력가다.
+[10068010001] 라이어의 왕가를 섬기는 부하이며
+WPM 운영위원회의 대표도 맡고 있다.
+무서운 겉모습과 달리 눈물이 많다.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -47973,6 +48997,60 @@ trainer_description_zh-TW.lsd
 [10021000002] 著名的大木博士的孫子，關都地區
 屈指可數的實力派訓練家。赤紅是他
 永遠的勁敵，也是他最要好的朋友。
+[10091900000] 激發出究極拍檔石的力量，
+受到阿爾宙斯庇佑的竹蘭。
+她透過與烈咬陸鯊的深厚牽絆來貫徹自己的意念。
+[10090900000] 激發出究極拍檔石的力量，
+受到阿爾宙斯庇佑的大吾。
+他透過與巨金怪的深厚牽絆來展現強大。
+[10111900000] 激發出究極拍檔石的力量，
+受到阿爾宙斯庇佑的阿渡。
+他透過與快龍的深厚牽絆來克服苦難。
+[10066100000] 身穿美極套裝的鎯琊。
+他與賽富豪是帕希歐最耀眼的黃金組合。
+穿著這套服裝時會略有亂花錢的傾向。
+[10177000000] 沉著冷靜的卡洛斯地區火屬性四天王，
+同時還擔任全像投影通訊器的新聞主播。
+在寶可夢對戰等場合偶爾會看見她嚴酷的一面。
+[10171000000] 城都地區的格鬥屬性道館館主，
+會與寶可夢一起鍛鍊自己的身體。
+非常喜歡甜食，甚至會趁修行有空檔時偷吃。
+[10181000000] 在卡洛斯地區冒險過的訓練家。
+曾為了完成寶可夢圖鑑而踏上旅途。
+考試中總能拿滿分，但個性卻很內斂。
+[10118510000] 身穿華麗服裝的莉莉艾。
+她和誤入帕希歐並使出力量將夜晚
+照亮如白晝的索爾迦雷歐成為了好朋友。
+[10207000000] 對戰女城主四姐妹中的長女。
+在對戰屋中負責轉盤對戰，
+就立場上也負責統整風格強烈的妹妹們。
+[10017000002] 個性開朗親切的少女。
+對寶可夢懷著無止境的求知慾，
+對於自己的對戰實力有絕對的自信。
+[10111000002] 石英高原的冠軍。重視和寶可夢之間的
+信賴與情誼，喜歡光明正大的挑戰。
+善於照顧人的個性，使他受到很多人的愛戴。
+[10133000002] 以成為世界第一強訓練家為目標的少年。
+透過克服自己的過去而明白了
+除了實力之外，一顆溫柔的心也很重要。
+[10047000001] 刻苦耐勞，追求強大的假面訓練家。
+到世界各地旅行，日夜不斷修行的結果，
+讓他當上了城都地區的四天王。
+[10023000001] 據本人說，她在對戰中不擅長攻擊。
+會立刻治療在對戰中受傷的寶可夢，
+是一位心地善良的訓練家。
+[10120000001] 帶領以太基金會的美麗理事長。
+她用深深的愛呵護著寶可夢們。
+同時也是莉莉艾和格拉吉歐的母親。
+[10262000001] 伽勒爾地區大企業馬洛科蒙的領導者。
+在帕希歐他優秀的本事也發揮無遺。
+（本文是由秘書提供）
+[10067010001] 她從小就是服侍鎯琊的家臣，
+總是把鎯琊的事情擺在第一位。
+在獨特的輕佻語氣之下，其實是個很勤奮的人。
+[10068010001] 他是服侍鎯琊的王室家臣，
+也是ＷＰＭ主辦單位的理事長。
+外表雖可怕，卻是個容易掉眼淚的人。
 
 ===========
 trainer_name_de.lsd
@@ -48164,6 +49242,7 @@ trainer_name_de.lsd
 [ch0204] Nuit
 [ch0205] Soir
 [ch0206] Journée
+[ch0207] Matin
 [ch0212] Magno
 [ch0215] Xenia
 [ch0216] Eusin
@@ -48450,6 +49529,7 @@ trainer_name_en.lsd
 [ch0204] Nita
 [ch0205] Evelyn
 [ch0206] Dana
+[ch0207] Morgan
 [ch0212] Benga
 [ch0215] Lisia
 [ch0216] Eusine
@@ -48736,6 +49816,7 @@ trainer_name_es.lsd
 [ch0204] Nocta
 [ch0205] Vésper
 [ch0206] Meridia
+[ch0207] Aurora
 [ch0212] Guayo
 [ch0215] Ariana
 [ch0216] Eusine
@@ -49022,6 +50103,7 @@ trainer_name_fr.lsd
 [ch0204] Nix
 [ch0205] Vesper
 [ch0206] Méridia
+[ch0207] Aurore
 [ch0212] Guajava
 [ch0215] Atalante
 [ch0216] Eusine
@@ -49308,6 +50390,7 @@ trainer_name_it.lsd
 [ch0204] Notturna
 [ch0205] Vespera
 [ch0206] Meridia
+[ch0207] Aurora
 [ch0212] Fedio
 [ch0215] Orthilla
 [ch0216] Eugenius
@@ -49594,6 +50677,7 @@ trainer_name_ja.lsd
 [ch0204] ラニュイ
 [ch0205] ルスワール
 [ch0206] ラジュルネ
+[ch0207] ルミタン
 [ch0212] バンジロウ
 [ch0215] ルチア
 [ch0216] ミナキ
@@ -49880,6 +50964,7 @@ trainer_name_ko.lsd
 [ch0204] 라뉴이
 [ch0205] 르수아르
 [ch0206] 라쥬르네
+[ch0207] 르마탱
 [ch0212] 구아버
 [ch0215] 루티아
 [ch0216] 수호
@@ -50166,6 +51251,7 @@ trainer_name_zh-TW.lsd
 [ch0204] 夜妮
 [ch0205] 夕絲
 [ch0206] 晝珠
+[ch0207] 朝蜜
 [ch0212] 蕃石郎
 [ch0215] 琉琪亞
 [ch0216] 水京
@@ -50509,6 +51595,12 @@ trainer_verbose_name_de.lsd
 [10122800000] Elio 
 (Variante)
 [10289100000] MaMo-Nemila
+[10091900000] A-Mo-Cynthia
+[10090900000] A-Mo-Troy
+[10111900000] A-Mo-Siegfried
+[10066100000] MaMo-Lyer
+[10118510000] Lilly 
+(Jubiläum 2024)
 
 ===========
 trainer_verbose_name_en.lsd
@@ -50769,6 +51861,12 @@ Gladion
 (Alt.)
 [10289100000] Sygna Suit 
 Nemona
+[10091900000] Arc Suit Cynthia
+[10090900000] Arc Suit Steven
+[10111900000] Arc Suit Lance
+[10066100000] Sygna Suit Lear
+[10118510000] Lillie 
+(Anniversary 2024)
 
 ===========
 trainer_verbose_name_es.lsd
@@ -50988,6 +52086,13 @@ con Kimono)
 [10123800000] Selene (Ultra)
 [10122800000] Elio (Ultra)
 [10289100000] Mencía (Traje S)
+[10091900000] Cintia (Architraje)
+[10090900000] Máximo 
+(Architraje)
+[10111900000] Lance (Architraje)
+[10066100000] Alik (Traje S)
+[10118510000] Lylia 
+(5.º Aniversario)
 
 ===========
 trainer_verbose_name_fr.lsd
@@ -51225,6 +52330,13 @@ trainer_verbose_name_fr.lsd
 [10123800000] Selene (Ultra)
 [10122800000] Elio (Ultra)
 [10289100000] Menzi (Ultime)
+[10091900000] Cynthia (Arceus)
+[10090900000] Pierre Rochard 
+(Arceus)
+[10111900000] Peter (Arceus)
+[10066100000] Alexis (Ultime)
+[10118510000] Lilie 
+(Anniversaire 2024)
 
 ===========
 trainer_verbose_name_it.lsd
@@ -51474,6 +52586,15 @@ trainer_verbose_name_it.lsd
 [10122800000] Elio
 (alternativo)
 [10289100000] Nemi Costumax
+[10091900000] Camilla 
+Arcicostume
+[10090900000] Rocco 
+Arcicostume
+[10111900000] Lance 
+Arcicostume
+[10066100000] Kelian Costumax
+[10118510000] Lylia 
+(anniversario 2024)
 
 ===========
 trainer_verbose_name_ja.lsd
@@ -51723,6 +52844,12 @@ trainer_verbose_name_ja.lsd
 [10122800000] ヨウ
 （アナザー）
 [10289100000] マジコスネモ
+[10091900000] アルコスシロナ
+[10090900000] アルコスダイゴ
+[10111900000] アルコスワタル
+[10066100000] マジコスライヤー
+[10118510000] リーリエ
+（２４アニバーサリー）
 
 ===========
 trainer_verbose_name_ko.lsd
@@ -51972,6 +53099,12 @@ trainer_verbose_name_ko.lsd
 [10122800000] 영태
 (어나더)
 [10289100000] 궁극코스 네모
+[10091900000] 아르코스 난천
+[10090900000] 아르코스 성호
+[10111900000] 아르코스 목호
+[10066100000] 궁극코스 라이어
+[10118510000] 릴리에
+(24기념)
 
 ===========
 trainer_verbose_name_zh-TW.lsd
@@ -52221,6 +53354,12 @@ trainer_verbose_name_zh-TW.lsd
 [10122800000] 小陽
 （阿羅拉）
 [10289100000] 美極套裝妮莫
+[10091900000] 阿爾套裝竹蘭
+[10090900000] 阿爾套裝大吾
+[10111900000] 阿爾套裝阿渡
+[10066100000] 美極套裝鎯琊
+[10118510000] 莉莉艾
+（2024週年慶）
 
 ===========
 common_widget_de.lsd
@@ -52622,6 +53761,7 @@ durch Item-Tausch nicht in diesem Zustand erhalten werden.
 [common_widget/trainer_detail_087] Spezial-Angreifer
 [common_widget/trainer_detail_088] EX-Rolle
 [common_widget/trainer_detail_089] [Name:Type ]/[Name:Type Idx="1" ]
+[common_widget/trainer_detail_090] Variabel
 [common_widget/dialog_special_item_001] [Name:Item ]
 erhalten!
 [common_widget/dialog_special_item_002] Noch [Digit:1digit ] Orden!
@@ -52765,6 +53905,8 @@ wurde zu einem
 [common_widget/filter_110] Episodenstatus
 [common_widget/filter_111] Abgeschlossen
 [common_widget/filter_112] Nicht abgeschlossen
+[common_widget/filter_113] Passio
+[common_widget/filter_114] Variabel
 [common_widget/sort_001] ★-Zahl
 [common_widget/sort_002] Gefährtenattacke
 [common_widget/sort_003] KP
@@ -53445,6 +54587,7 @@ upgrades
 [common_widget/trainer_detail_087] Special Strike
 [common_widget/trainer_detail_088] EX role
 [common_widget/trainer_detail_089] [Name:Type ] / [Name:Type Idx="1" ]
+[common_widget/trainer_detail_090] Multi
 [common_widget/dialog_special_item_001] [Name:Item ]
 [common_widget/dialog_special_item_002] Only [Digit:1digit ] more [EN:Qty S="badge" P="badges" ] to go!
 [common_widget/dialog_special_item_003] All badges acquired! Time to compete in the PML!
@@ -53586,6 +54729,8 @@ into [Name:PokemonName ]!
 [common_widget/filter_110] Story Status
 [common_widget/filter_111] Complete
 [common_widget/filter_112] Incomplete
+[common_widget/filter_113] Pasio
+[common_widget/filter_114] Multi
 [common_widget/sort_001] Number of ★s
 [common_widget/sort_002] Sync Move
 [common_widget/sort_003] HP
@@ -54255,6 +55400,7 @@ ni al conseguirla mediante un canje.
 [common_widget/trainer_detail_087] Ataque Especial
 [common_widget/trainer_detail_088] Función EX
 [common_widget/trainer_detail_089] [Name:Type ]/[Name:Type Idx="1" ]
+[common_widget/trainer_detail_090] Multi
 [common_widget/dialog_special_item_001] Has conseguido:
 [Name:Item ]
 [common_widget/dialog_special_item_002] Medallas restantes: [Digit:1digit ]
@@ -54402,6 +55548,8 @@ evolución?
 [common_widget/filter_110] Estado del episodio
 [common_widget/filter_111] Completado
 [common_widget/filter_112] No completado
+[common_widget/filter_113] Passio
+[common_widget/filter_114] Multi
 [common_widget/sort_001] Número de ★
 [common_widget/sort_002] Movimiento compi
 [common_widget/sort_003] PS
@@ -55093,6 +56241,7 @@ via un Appel Duo ou le menu Échange d'objets.
 [common_widget/trainer_detail_087] Attaquant Spécial
 [common_widget/trainer_detail_088] Rôle EX
 [common_widget/trainer_detail_089] [Name:Type ]/[Name:Type Idx="1" ]
+[common_widget/trainer_detail_090] Multi
 [common_widget/dialog_special_item_001] Vous avez obtenu
 1 [Name:Item ] !
 [common_widget/dialog_special_item_002] Encore [Digit:1digit ] Badge[FR:Qty P="s" ] à obtenir !
@@ -55238,6 +56387,8 @@ additionnels
 [common_widget/filter_110] Statut de l'épisode
 [common_widget/filter_111] Terminé
 [common_widget/filter_112] En cours
+[common_widget/filter_113] Passio
+[common_widget/filter_114] Multi
 [common_widget/sort_001] Nombre d'★
 [common_widget/sort_002] Capacité Duo
 [common_widget/sort_003] PV
@@ -55924,6 +57075,7 @@ Non è possibile ottenerla in questo stato dall'Unicerca o dallo scambio strumen
 [common_widget/trainer_detail_087] Attaccante speciale
 [common_widget/trainer_detail_088] Ruolo EX
 [common_widget/trainer_detail_089] [Name:Type ] / [Name:Type Idx="1" ]
+[common_widget/trainer_detail_090] Multi
 [common_widget/dialog_special_item_001] Hai ottenuto: [Name:Item ]!
 [common_widget/dialog_special_item_002] Medaglie mancanti: [Digit:1digit ]!
 [common_widget/dialog_special_item_003] Ora hai tutte le medaglie! Puoi affrontare il WPM!
@@ -56065,6 +57217,8 @@ dell'evoluzione?
 [common_widget/filter_110] Completamento episodio
 [common_widget/filter_111] Completato
 [common_widget/filter_112] Non completato
+[common_widget/filter_113] Pasio
+[common_widget/filter_114] Multi
 [common_widget/sort_001] Numero di ★
 [common_widget/sort_002] Unimossa
 [common_widget/sort_003] PS
@@ -56742,6 +57896,7 @@ MAX
 [common_widget/trainer_detail_087] 特殊アタッカー
 [common_widget/trainer_detail_088] EXロール
 [common_widget/trainer_detail_089] [Name:Type ] / [Name:Type Idx="1" ]
+[common_widget/trainer_detail_090] マルチ
 [common_widget/dialog_special_item_001] [Name:Item ]を
 獲得しました！
 [common_widget/dialog_special_item_002] のこるバッジは　あと[Digit:1digit ]個！
@@ -56883,6 +58038,8 @@ Lv.MAX
 [common_widget/filter_110] エピソードクリア
 [common_widget/filter_111] クリア済
 [common_widget/filter_112] 未クリア
+[common_widget/filter_113] パシオ
+[common_widget/filter_114] マルチ
 [common_widget/sort_001] ★の数
 [common_widget/sort_002] バディーズわざ
 [common_widget/sort_003] HP
@@ -57571,6 +58728,7 @@ Lv.1 상태
 [common_widget/trainer_detail_087] 특수 어태커
 [common_widget/trainer_detail_088] EX롤
 [common_widget/trainer_detail_089] [Name:Type ] / [Name:Type Idx="1" ]
+[common_widget/trainer_detail_090] 멀티
 [common_widget/dialog_special_item_001] [Name:Item ][Kor:Particle char="wo" ]
 획득했습니다!
 [common_widget/dialog_special_item_002] 남은 배지는 앞으로 [Digit:1digit ]개!
@@ -57712,6 +58870,8 @@ Lv.MAX
 [common_widget/filter_110] 에피소드 클리어
 [common_widget/filter_111] 클리어 완료
 [common_widget/filter_112] 클리어 미완료
+[common_widget/filter_113] 파시오
+[common_widget/filter_114] 멀티
 [common_widget/sort_001] ★의 수
 [common_widget/sort_002] 버디즈기술
 [common_widget/sort_003] HP
@@ -58374,6 +59534,7 @@ MAX
 [common_widget/trainer_detail_087] 特殊攻擊型
 [common_widget/trainer_detail_088] EX體系
 [common_widget/trainer_detail_089] [Name:Type ] / [Name:Type Idx="1" ]
+[common_widget/trainer_detail_090] 複合型
 [common_widget/dialog_special_item_001] 獲得了
 [Name:Item ]！
 [common_widget/dialog_special_item_002] 還剩下[Digit:1digit ]個徽章！
@@ -58513,6 +59674,8 @@ Lv.MAX
 [common_widget/filter_110] 劇情過關狀態
 [common_widget/filter_111] 已過關
 [common_widget/filter_112] 未過關
+[common_widget/filter_113] 帕希歐
+[common_widget/filter_114] 複合型
 [common_widget/sort_001] ★數
 [common_widget/sort_002] 拍組招式
 [common_widget/sort_003] HP
@@ -61062,8 +62225,11 @@ Legendären Pokémon in dein Team holen.
 [home/quest_list_series_009] Legenden-Abenteuer
 [home/quest_list_series_010] Steine der Mysterien
 [home/quest_list_series_011] ???-Abenteuer
+[home/quest_list_series_012] Arceus-Abenteuer
 [home/quest_list_series_013] Das Erscheinen der Steine der Mysterien eröffnet neue Wege für
 Passios Gefährtengespanne. Bald beginnt ein neues Abenteuer!
+[home/quest_list_series_014] Passios Gefährten hören die Stimme von Arceus und erwecken
+dadurch eine neue Verbindung zwischen Trainern und Pokémon.
 [home/quest_list_013] Erf.
 [home/quest_list_017] Gemeinsam spielen
 [home/quest_list_018] Mit zufälligen
@@ -61285,6 +62451,7 @@ heraus!
 [home/quest_list_190] Du kannst Belohnungen erhalten, indem du Missionen abschließt!
 [home/quest_list_191] Du kannst Belohnungen erhalten, indem du Punkte sammelst!
 [home/quest_list_192] Rang
+[home/quest_list_195] Alpha-Montur-Event
 [home/quest_detail_003] Schwäche
 [home/quest_detail_005] Details
 [home/quest_detail_009] Teamauswahl
@@ -61657,6 +62824,8 @@ das nur für kurze Zeit erwerbbar ist!
 Du kannst es dir im Laden ansehen!
 [home/home_080] Starthilfe-Juwelen
 [home/home_081] Zeitl. begr. G-Suche
+[home/home_082] Alpha-Festival
+[home/home_083] Alpha-Festival
 [home/home_084] Eine Gefährtensuche mit vielen
 Festival-Gefährten ist für einen
 begrenzten Zeitraum von 72 Stunden
@@ -62416,8 +63585,11 @@ that have Legendary Pokémon.
 [home/quest_list_series_009] Legendary Adventures
 [home/quest_list_series_010] Mysterious Stones Chapter
 [home/quest_list_series_011] ??? Arc
+[home/quest_list_series_012] Arceus Arc
 [home/quest_list_series_013] Sync pairs start going down new paths after mysterious stones
 suddenly appear on Pasio. A new arc begins soon!
+[home/quest_list_series_014] Sync pairs on Pasio hear the voice of Arceus and awaken a
+new kind of bond between Trainers and Pokémon.
 [home/quest_list_013] XP
 [home/quest_list_017] Battle with other players!
 [home/quest_list_018] Quick
@@ -62626,6 +63798,7 @@ the villain arc on Normal.
 [home/quest_list_190] You can obtain rewards by completing missions!
 [home/quest_list_191] You can obtain rewards by collecting points!
 [home/quest_list_192] Score Rank
+[home/quest_list_195] Arc Suit Event
 [home/quest_detail_003] Weakness
 [home/quest_detail_005] Area Details
 [home/quest_detail_009] Preset Teams
@@ -62996,6 +64169,8 @@ available for a limited time has arrived!
 You can check it out in the shop!
 [home/home_080] New Player Gems
 [home/home_081] Limited-Time Scout
+[home/home_082] Arc Suit Fair
+[home/home_083] Arc Suit Fair
 [home/home_084] A sync pair scout with many
 fair-exclusive sync pairs is available
 for a limited time of 72 hours!
@@ -63703,8 +64878,11 @@ compuestas por Pokémon legendarios.
 [home/quest_list_series_009] Trama Pokémon legendarios
 [home/quest_list_series_010] Trama Piedras Misteriosas
 [home/quest_list_series_011] Trama ???
+[home/quest_list_series_012] Trama de Arceus
 [home/quest_list_series_013] En esta historia, ciertos compis exploran nuevas sendas tras la
 aparición de unas Piedras Misteriosas. ¡Disponible muy pronto!
+[home/quest_list_series_014] En esta historia, los compis de Passio oyen la voz de Arceus
+y descubren un nuevo vínculo entre Entrenadores y Pokémon.
 [home/quest_list_013] Exp.
 [home/quest_list_017] Multijugador
 [home/quest_list_018] Partida rápida
@@ -63918,6 +65096,7 @@ especificada del objeto indicado.
 [home/quest_list_190] ¡Completa misiones para obtener premios!
 [home/quest_list_191] ¡Reúne puntos para obtener premios!
 [home/quest_list_192] Rango puntuación
+[home/quest_list_195] Evento de Architrajes
 [home/quest_detail_003] Debilidad
 [home/quest_detail_005] Detalles
 [home/quest_detail_009] Elegir equipo
@@ -64304,6 +65483,8 @@ disponible solo por tiempo limitado!
 ¡Puedes adquirirlo en la tienda!
 [home/home_080] Joyas iniciación
 [home/home_081] Recl. tiempo lim.
+[home/home_082] ¡Archifestival en curso!
+[home/home_083] ¡Archifestival!
 [home/home_084] ¡Un reclutamiento con un montón de
 festicompis estará disponible durante
 72 horas!
@@ -65114,8 +66295,11 @@ qui comprennent un Pokémon légendaire.
 [home/quest_list_series_009] Les Pokémon légendaires
 [home/quest_list_series_010] Roches Mystérieuses
 [home/quest_list_series_011] ???
+[home/quest_list_series_012] Arceus
 [home/quest_list_series_013] Les Duos empruntent une nouvelle voie suite à l'apparition
 de Roches Mystérieuses à Passio. Nouvel arc narratif bientôt !
+[home/quest_list_series_014] Les Duos de Passio entendent la voix d'Arceus, et un nouveau
+type de lien s'éveille entre Dresseurs de Pokémon.
 [home/quest_list_013] Exp.
 [home/quest_list_017] Jeu en coop
 [home/quest_list_018] Connexion
@@ -65338,6 +66522,7 @@ les plus grands
 [home/quest_list_190] Terminez les missions pour obtenir des récompenses !
 [home/quest_list_191] Collectez des points pour obtenir des récompenses !
 [home/quest_list_192] Rang
+[home/quest_list_195] Évènement Looks Arceus
 [home/quest_detail_003] Faiblesse
 [home/quest_detail_005] Infos
 [home/quest_detail_009] Équipes
@@ -65730,6 +66915,8 @@ Rendez-vous dans la boutique
 pour en savoir plus !
 [home/home_080] Diamants nouveaux joueurs
 [home/home_081] Appel à durée limitée
+[home/home_082] Festival Arceus en cours !
+[home/home_083] Festival Arceus
 [home/home_084] Un Appel Duo avec beaucoup
 de Duos festival est disponible
 pendant 72 h !
@@ -66615,8 +67802,11 @@ che comprendono dei Pokémon leggendari.
 [home/quest_list_series_009] I Pokémon leggendari
 [home/quest_list_series_010] Le Pietre misteriose
 [home/quest_list_series_011] ???
+[home/quest_list_series_012] La saga di Arceus
 [home/quest_list_series_013] Storia che narra le nuove avventure delle Unità di Pasio dopo
 la comparsa di Pietre misteriose. Nuovi sviluppi a breve!
+[home/quest_list_series_014] Le Unità di Pasio sentono la voce di Arceus e scoprono
+un nuovo tipo di legame tra Allenatori e Pokémon.
 [home/quest_list_013] ESP.
 [home/quest_list_017] Gioca in compagnia
 [home/quest_list_018] Giocatori a caso
@@ -66831,6 +68021,7 @@ specificata dello strumento indicato.
 [home/quest_list_190] Puoi completare le missioni per ottenere ricompense!
 [home/quest_list_191] Puoi ottenere ricompense accumulando punti!
 [home/quest_list_192] Livello punteggio
+[home/quest_list_195] Evento Arcicostume
 [home/quest_detail_003] Punti deboli
 [home/quest_detail_005] Info area
 [home/quest_detail_009] Scegli squadra
@@ -67212,6 +68403,8 @@ di tempo limitato!
 Puoi vederlo subito nel negozio!
 [home/home_080] Gemme nuovi giocatori
 [home/home_081] Unicerca limitata
+[home/home_082] Arcifestival
+[home/home_083] Arcifestival
 [home/home_084] Un'Unicerca con tante Unità
 Masterparty sarà disponibile
 per 72 ore!
@@ -68059,8 +69252,11 @@ home_ja.lsd
 [home/quest_list_series_009] 伝説ポケモン編
 [home/quest_list_series_010] 謎の石編
 [home/quest_list_series_011] ？？？編
+[home/quest_list_series_012] アルセウス編
 [home/quest_list_series_013] 突如パシオに出現した　謎の石をきっかけに　バディーズたちが
 新たな道を　進み始める　物語です。　近日　新章開幕！
+[home/quest_list_series_014] パシオの　バディーズたちに　届いた　アルセウスの声を　めぐり
+トレーナーとポケモンが　新たな絆に　目覚める　ストーリーです
 [home/quest_list_013] EXP
 [home/quest_list_017] みんなで遊ぶ
 [home/quest_list_018] おまかせ
@@ -68272,6 +69468,7 @@ Lv.[Digit:2digits ]で解放
 [home/quest_list_190] ミッションを達成して報酬を獲得しよう！
 [home/quest_list_191] ポイントを集めて報酬を獲得しよう！
 [home/quest_list_192] スコアランク
+[home/quest_list_195] アルコスイベント
 [home/quest_detail_003] じゃくてんタイプ
 [home/quest_detail_005] エリア詳細
 [home/quest_detail_009] チーム選択
@@ -68647,6 +69844,8 @@ EXデイリーダイヤパックや
 ショップに行ってチェックしましょう！
 [home/home_080] 初心者ダイヤ
 [home/home_081] 時限Bサーチ
+[home/home_082] アルコスフェス開催中
+[home/home_083] アルコスフェス
 [home/home_084] フェス限定バディーズがたくさん出現する
 バディーズサーチが72時間限定で登場！
 
@@ -69472,8 +70671,11 @@ home_ko.lsd
 [home/quest_list_series_009] 전설 포켓몬 편
 [home/quest_list_series_010] 수수께끼의 돌 편
 [home/quest_list_series_011] ??? 편
+[home/quest_list_series_012] 아르세우스 편
 [home/quest_list_series_013] 갑자기 파시오에 나타난 수수께끼의 돌을 계기로 버디즈들이
 새로운 길을 걸어가기 시작하는 이야기입니다. 신규 스토리 곧 개막!
+[home/quest_list_series_014] 파시오의 버디즈들에게 전해진 아르세우스의 목소리를 둘러싸고
+트레이너와 포켓몬이 새로운 인연에 눈뜨게 되는 스토리입니다
 [home/quest_list_013] EXP
 [home/quest_list_017] 함께 즐긴다
 [home/quest_list_018] 자동
@@ -69685,6 +70887,7 @@ Lv.[Digit:2digits ]에서 해방
 [home/quest_list_190] 미션을 달성하고 보상을 획득하자!
 [home/quest_list_191] 포인트를 모아서 보상을 획득하자!
 [home/quest_list_192] 스코어 랭크
+[home/quest_list_195] 아르코스 이벤트
 [home/quest_detail_003] 약점타입
 [home/quest_detail_005] 에리어 상세
 [home/quest_detail_009] 팀 선택
@@ -70056,6 +71259,8 @@ EX일일 다이아 팩과
 숍으로 가서 확인합시다!
 [home/home_080] 초급자 다이아
 [home/home_081] 시한 B서치
+[home/home_082] 아르코스페스티벌 개최 중
+[home/home_083] 아르코스페스티벌
 [home/home_084] 페스티벌 한정 버디즈가 잔뜩 출현하는
 버디즈서치가 72시간 한정으로 등장!
 
@@ -70855,8 +72060,11 @@ home_zh-TW.lsd
 [home/quest_list_series_009] 傳說的寶可夢篇
 [home/quest_list_series_010] 神秘石篇
 [home/quest_list_series_011] ？？？篇
+[home/quest_list_series_012] 阿爾宙斯篇
 [home/quest_list_series_013] 這是拍組們因為突然出現在帕希歐的神秘石，
 而走上全新道路的故事。新章節將於近期開幕！
+[home/quest_list_series_014] 這是關於帕希歐的拍組們聽到阿爾宙斯的聲音，
+訓練家與寶可夢覺醒全新牽絆的故事。
 [home/quest_list_013] EXP
 [home/quest_list_017] 多隊模式
 [home/quest_list_018] 隨機配對
@@ -71065,6 +72273,7 @@ home_zh-TW.lsd
 [home/quest_list_190] 完成任務來獲得報酬吧！
 [home/quest_list_191] 收集點數來獲得報酬吧！
 [home/quest_list_192] 得分等級
+[home/quest_list_195] 阿爾套裝活動
 [home/quest_detail_003] 弱點屬性
 [home/quest_detail_005] 區域詳情
 [home/quest_detail_009] 選擇隊伍
@@ -71428,6 +72637,8 @@ EX每日鑽石組合包
 快去商店確認看看吧！
 [home/home_080] 初學者鑽石
 [home/home_081] 限時拍組搜尋
+[home/home_082] 阿爾套裝盛典現正舉辦中
+[home/home_083] 阿爾套裝盛典
 [home/home_084] 盛典限定拍組大量出現的
 拍組搜尋72小時限定登場！
 
@@ -72965,6 +74176,13 @@ verfügbar.
 [shop/scout_232] [Digit:3digits ] × [Name:Item ]
 einsetzen, um [Digit:2digits Idx="1" ] Mal eine Ticket-
 Gefährtensuche durchzuführen?
+[shop/scout_233] Alpha-Gefährten
+[shop/scout_234] Hinweis: Der Nimbus hinter Trainern von Alpha-Gefährten wird nur in ausgewählten Momenten, wie zum Beispiel beim Einsatz ihrer Gefährtenattacke, angezeigt.
+[shop/scout_235] Alpha-Festivalgefährten
+[shop/scout_236] 
+Alpha-Festivalgefährten sind Gefährten, die während dieses Alpha-Festivals für begrenzte Zeit erscheinen. Es besteht die Möglichkeit, dass sie in Zukunft auch außerhalb dieses Alpha-Festivals erscheinen werden.
+
+Der Nimbus hinter Trainern von Alpha-Gefährten wird nur in ausgewählten Momenten, wie zum Beispiel beim Einsatz ihrer Gefährtenattacke, angezeigt. Bitte beachte, dass die Animation an einigen Orten, wie zum Beispiel dem Pokémon-Center, möglicherweise nicht angezeigt wird.
 [shop/deck_item_sale_001] Ausrüstungstausch
 [shop/deck_item_sale_002] Ausrüstung
 [shop/deck_item_sale_003] Filter
@@ -73685,6 +74903,13 @@ Mix sync pairs may appear outside of mix-exclusive scouts in the future.
 [shop/scout_231] No ticket scouts available.
 [shop/scout_232] Use [Name:Item ] ×[Digit:3digits ]
 to scout [Digit:2digits Idx="1" ] [EN:Qty Ref="1" S="sync pair" P="sync pairs" ]?
+[shop/scout_233] Arc Suit Sync Pair
+[shop/scout_234] Note: The halo behind the Trainers of arc suit sync pairs will only be shown in certain scenes, such as their sync move animation.
+[shop/scout_235] Arc Suit Fair-exclusive Sync Pairs
+[shop/scout_236] 
+Arc Suit Fair-exclusive sync pairs are sync pairs that will appear for a limited time during this Arc Suit Fair. There is a possibility that they will appear outside of this Arc Suit Fair in the future.
+
+The halo behind the Trainers of arc suit sync pairs will only be shown in certain scenes, such as their sync move animation. Please note that it may not be shown in some places, including the Pokémon Center.
 [shop/deck_item_sale_001] Exchange Gear
 [shop/deck_item_sale_002] Gear
 [shop/deck_item_sale_003] Filter
@@ -74353,6 +75578,13 @@ dentro de este reclutamiento específico.
 realizar un reclutamiento billete
 [Digit:2digits Idx="1" ] ve[ES:Qty Ref="1" S="z" P="ces" ]?
 [Name:Item ] ×[Digit:3digits ]
+[shop/scout_233] Archicompis
+[shop/scout_234] Nota: El efecto de halo de los archicompis solo se mostrará en determinadas escenas, como en la animación de su movimiento compi.
+[shop/scout_235] Archifesticompis
+[shop/scout_236] 
+Los archifesticompis son parejas de compis que aparecen durante un tiempo limitado en este Archifestival, aunque es posible que vuelvan a aparecer en un futuro fuera de un Archifestival.
+
+Ten en cuenta que el efecto de halo de los archicompis solo se mostrará en determinadas escenas, como en la animación de su movimiento compi, pero no en otros lugares, como en el Centro Pokémon.
 [shop/deck_item_sale_001] Canjear accesorios
 [shop/deck_item_sale_002] Accesorios
 [shop/deck_item_sale_003] Filtrar
@@ -75060,6 +76292,13 @@ un Bon Appel Duo spécial !
 [shop/scout_232] Voulez-vous utiliser
 [Name:Item ] × [Digit:3digits ]
 pour passer [Digit:2digits Idx="1" ] Appel[FR:Qty Ref="1" P="s" ] Duo ?
+[shop/scout_233] Duos Look Arceus
+[shop/scout_234] L'auréole derrière les Dresseurs au Look Arceus n'apparaît que dans certaines scènes (ex. : l'animation de la capacité Duo).
+[shop/scout_235] Duos festival Looks Arceus
+[shop/scout_236] 
+Les Duos festival Looks Arceus sont des Duos qui apparaissent pendant la durée limitée des festivals Arceus. À l'avenir, les Duos festival Looks Arceus pourront aussi apparaître en dehors des festivals Arceus.
+
+L'auréole derrière les Dresseurs au Look Arceus n'apparaît que dans certaines scènes (ex. : l'animation de la capacité Duo), celle-ci n'est donc pas visible dans certains lieux tels que le Centre Pokémon.
 [shop/deck_item_sale_001] Échanger équipement
 [shop/deck_item_sale_002] Équipement
 [shop/deck_item_sale_003] Filtrer
@@ -75831,6 +77070,14 @@ per una ricerca Unità!
 [shop/scout_231] Nessuna Unicerca con ticket disponibile.
 [shop/scout_232] Vuoi usare [Digit:3digits ] [Name:Item ]
 per effettuare [Digit:2digits Idx="1" ] [IT:Qty Ref="1" S="Unicerca" P="Unicerche" ]?
+[shop/scout_233] Unità Arcicostume
+[shop/scout_234] L'aura luminosa attorno agli Allenatori delle Unità Arcicostume sarà visibile solo in alcune scene, ad esempio durante le animazioni delle loro Unimosse.
+[shop/scout_235] Unità Arcifestival
+[shop/scout_236] 
+Le Unità Arcifestival sono Unità che compariranno durante questo Arcifestival.
+È possibile che in futuro compaiano al di fuori dell'Arcifestival.
+
+L'aura luminosa attorno agli Allenatori delle Unità Arcicostume sarà visibile solo in alcune scene, ad esempio durante le animazioni delle loro Unimosse. Attenzione: l'aura potrebbe non essere visibile in alcuni ambienti, tra cui il Centro Pokémon.
 [shop/deck_item_sale_001] Scambio accessori
 [shop/deck_item_sale_002] Accessori
 [shop/deck_item_sale_003] Filtra
@@ -76603,6 +77850,12 @@ EXカラーがありません
 チケット専用バディーズサーチを[Digit:2digits Idx="1" ]回します
 
 よろしいですか？
+[shop/scout_233] アルコスバディーズ
+[shop/scout_234] ※アルコスバディーズのトレーナーの背後の光輪はバディーズわざの演出等の一部のシーンでのみ表示されます
+[shop/scout_235] アルコスフェス限定バディーズ
+[shop/scout_236] ※アルコスフェス限定バディーズとはこのアルコスフェスの期間中に出現するバディーズです。
+※アルコスフェス限定バディーズは今後アルコスフェス以外でも出現する可能性があります。
+※アルコスバディーズのトレーナーの背後の光輪はバディーズわざの演出等の一部のシーンでのみ表示されます。ポケモンセンターなどでは表示されないのでご注意ください。
 [shop/deck_item_sale_001] 装備売却
 [shop/deck_item_sale_002] 装備
 [shop/deck_item_sale_003] フィルター
@@ -77400,6 +78653,12 @@ EX컬러가 없습니다
 티켓 전용 버디즈서치를 [Digit:2digits Idx="1" ]회 진행합니다
 
 괜찮겠습니까?
+[shop/scout_233] 아르코스 버디즈
+[shop/scout_234] ※아르코스 버디즈 트레이너의 후광은 버디즈기술의 연출 등 일부 장면에서만 표시됩니다.
+[shop/scout_235] 아르코스페스티벌 한정 버디즈
+[shop/scout_236] ※아르코스페스티벌 한정 버디즈는 본 아르코스페스티벌 기간 중에 출현하는 버디즈를 말합니다.
+※아르코스페스티벌 한정 버디즈는 이후 아르코스페스티벌 이외에서도 출현할 가능성이 있습니다.
+※아르코스 버디즈 트레이너의 후광은 버디즈기술의 연출 등 일부 장면에서만 표시됩니다. 포켓몬센터 등에서는 표시되지 않으니 주의 바랍니다.
 [shop/deck_item_sale_001] 장비 판매
 [shop/deck_item_sale_002] 장비
 [shop/deck_item_sale_003] 필터
@@ -78108,6 +79367,12 @@ shop_zh-TW.lsd
 票券專用拍組搜尋
 [shop/scout_232] 確定要消耗[Digit:3digits ]張[Name:Item ]
 進行[Digit:2digits Idx="1" ]次票券專用拍組搜尋嗎？
+[shop/scout_233] 阿爾套裝拍組
+[shop/scout_234] ※阿爾套裝拍組訓練家背後的光輪僅會在拍組招式的演出效果等部分畫面中顯示
+[shop/scout_235] 阿爾套裝盛典限定拍組
+[shop/scout_236] ※阿爾套裝盛典限定拍組是會在阿爾套裝盛典期間出現的拍組
+※阿爾套裝盛典限定拍組今後有可能也會在非阿爾套裝盛典期間出現
+※阿爾套裝拍組訓練家背後的光輪僅會在拍組招式的演出效果等部分畫面中顯示。光輪不會在寶可夢中心等處顯示，敬請注意
 [shop/deck_item_sale_001] 出售裝備
 [shop/deck_item_sale_002] 裝備
 [shop/deck_item_sale_003] 篩選
@@ -80430,12 +81695,12 @@ sauvegardées. Elles seront conservées pendant
 [title/title_124] Les données de l'aventure interrompue
 ont été effacées (durée dépassée).
 [title/title_125] Des données supplémentaires peuvent
-être téléchargées pendant que
-vous jouez.
-Il est recommandé d'utiliser une
-connexion Wi-Fi pour les télécharger.
+être téléchargées pendant que vous
+jouez. Il est donc recommandé de
+se connecter via une connexion Wi-Fi.
 
-Taille du téléchargement : [Digit:3digits ] MB
+Taille des données téléchargeables :
+[Digit:3digits ] Mo
 [title/title_126] Transfert de données
 [title/title_127] Vous pouvez transférer des données de
 sauvegarde en vérifiant les identifiants
@@ -81722,8 +82987,10 @@ OS 버전, OS 타입, 타게팅 광고의 제한에 관한 설정 상태, 단말
 [title/title_124] 保持期間が切れたため
 中断データは破棄されました
 [title/title_125] ゲームをプレイしながら
-追加データのダウンロードを行うことが可能です
-Wi-Fi環境でのダウンロードをおすすめします
+追加データのダウンロードを
+行うことが可能です
+Wi-Fi環境でのダウンロードを
+おすすめします
 
 ダウンロードサイズ : [Digit:3digits ]MB
 [title/title_126] セーブデータ引き継ぎ
@@ -82368,8 +83635,10 @@ OS 버전, OS 타입, 타게팅 광고의 제한에 관한 설정 상태, 단말
 [title/title_124] 유지 기간이 끝나
 중단 데이터가 파기되었습니다
 [title/title_125] 게임을 플레이하면서
-추가 데이터 다운로드를 실행할 수 있습니다
-Wi-Fi 환경에서 다운로드를 추천합니다
+추가 데이터 다운로드를
+실행할 수 있습니다
+Wi-Fi 환경에서 다운로드를
+추천합니다
 
 다운로드 용량 : [Digit:3digits ]MB
 [title/title_126] 저장 데이터 이어받기
