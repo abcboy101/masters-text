@@ -622,6 +622,7 @@ error_dialog_title_de.lsd
 [maintenance] Wartung
 [asset_update] Aktualisierung
 [player_ban] Konto gesperrt
+[30110] <attr font='fallback'>승인의뢰실패</attr>
 
 ===========
 error_dialog_title_en.lsd
@@ -631,6 +632,7 @@ error_dialog_title_en.lsd
 [maintenance] Maintenance
 [asset_update] Update
 [player_ban] Account Suspended
+[30110] <attr font='fallback'>승인의뢰실패</attr>
 
 ===========
 error_dialog_title_es.lsd
@@ -640,6 +642,7 @@ error_dialog_title_es.lsd
 [maintenance] Mantenimiento
 [asset_update] Novedades
 [player_ban] Cuenta suspendida
+[30110] <attr font='fallback'>승인의뢰실패</attr>
 
 ===========
 error_dialog_title_fr.lsd
@@ -649,6 +652,7 @@ error_dialog_title_fr.lsd
 [maintenance] Maintenance
 [asset_update] Nouveau
 [player_ban] Compte suspendu
+[30110] <attr font='fallback'>승인의뢰실패</attr>
 
 ===========
 error_dialog_title_it.lsd
@@ -658,6 +662,7 @@ error_dialog_title_it.lsd
 [maintenance] Manutenzione
 [asset_update] Aggiornamento
 [player_ban] Account sospeso
+[30110] <attr font='fallback'>승인의뢰실패</attr>
 
 ===========
 error_dialog_title_ja.lsd
@@ -667,6 +672,7 @@ error_dialog_title_ja.lsd
 [maintenance] メンテナンス
 [asset_update] 更新
 [player_ban] アカウント利用停止
+[30110] 承認依頼失敗
 
 ===========
 error_dialog_title_ko.lsd
@@ -676,6 +682,7 @@ error_dialog_title_ko.lsd
 [maintenance] 점검
 [asset_update] 갱신
 [player_ban] 어카운트 이용 정지
+[30110] 승인의뢰실패
 
 ===========
 error_dialog_title_zh-TW.lsd
@@ -685,6 +692,7 @@ error_dialog_title_zh-TW.lsd
 [maintenance] 系統維護
 [asset_update] 更新
 [player_ban] 帳號停止使用
+[30110] <attr font='fallback'>승인의뢰실패</attr>
 
 ===========
 story_quest_name_de.lsd
@@ -1546,6 +1554,47 @@ story_quest_name_de.lsd
 [quest_title_1030210121000000] Ein Tag mit Fran
 [quest_title_1030210131000000] Ein Tag mit Citro
 [quest_title_1030202001001060] Mewtu greift an! 2
+[quest_title_1030204001001060] Ho-Oh erscheint!
+[quest_title_1030204001001010] Die Suche nach Ho-Oh!
+[quest_title_1030204001001020] Du suchst ein Kimono-Girl?
+[quest_title_1030204001001030] Siegfried und Silber
+[quest_title_1030204001001040] Der gewählte Weg
+[quest_title_1030204001001050] Von Ho-Oh anerkannt
+[quest_title_1030204001010010] Herausforderung an Ho-Oh!
+[quest_title_1030204001010020] Herausf. an Ho-Oh! 2
+[quest_title_1030204001010030] Herausf. an Ho-Oh! 3
+[quest_title_1030204001010040] Herausf. an Ho-Oh! 4
+[quest_title_1030204001010050] Herausf. an Ho-Oh! 5
+[quest_title_1030204001010060] Weitere Herausforderungen
+[quest_title_1030204001010070] Weitere Herausforderungen 2
+[quest_title_1030204001010080] Weitere Herausforderungen 3
+[quest_title_1030720400600026] Vs. Villa-Trainer 16
+[quest_title_1030720400600027] Vs. Villa-Trainer 17
+[quest_title_1030720400600028] Vs. Villa-Trainer 18
+[quest_title_1030720400600029] Vs. Anissa
+[quest_title_1030720400600030] Vs. Perenus
+[quest_title_1030204000701001] Der Walzer beginnt
+[quest_title_1030204010701001] Der Walzer walzt weiter
+[quest_title_1030204020701001] Der Walzer eskaliert
+[quest_title_1030204030701001] Der Walzer sprengt Grenzen
+[quest_title_1030204000701002] Erledige den Edelstein!
+[quest_title_1030204010701002] Lösche den Glanz des Juwels!
+[quest_title_1030204020701002] Stürze das stolze Kleinod!
+[quest_title_1030204000702001] Geballte Fäuste
+[quest_title_1030204010702001] Scheppernde Schellen
+[quest_title_1030204020702001] Fliegende Fäuste
+[quest_title_1030204030702001] Hämmernde Hiebe
+[quest_title_1030204000702002] Bekämpfe die stolze Blüte!
+[quest_title_1030204010702002] Besiege die Blütenpracht!
+[quest_title_1030204020702002] Bestehe das florale Finale!
+[quest_group_title_10127000000] Wassili
+[quest_title_1030210127000000] Ein Tag mit Wassili
+[quest_group_title_10133000000] Silber
+[quest_title_1030210133000000] Ein Tag mit Silber
+[quest_group_title_10113000000] Jasmin
+[quest_title_1030210113000000] Ein Tag mit Jasmin
+[quest_group_title_10128000000] Heiko
+[quest_title_1030210128000000] Ein Tag mit Heiko
 [quest_title_1030202000601080] Zwei auf Reisen
 [quest_title_1030202000601090] Andrang beim Fotoshooting
 [quest_title_1030202000601100] Das neueste Werk
@@ -2454,6 +2503,47 @@ story_quest_name_en.lsd
 [quest_title_1030210121000000] A Day with Plumeria
 [quest_title_1030210131000000] A Day with Clemont
 [quest_title_1030202001001060] Mewtwo Strikes! Round 2
+[quest_title_1030204001001060] Oh, Ho-Oh!
+[quest_title_1030204001001010] On the Lookout for Ho-Oh
+[quest_title_1030204001001020] Seek the Kimono Girl!
+[quest_title_1030204001001030] Lance and Silver
+[quest_title_1030204001001040] The Choices We Make
+[quest_title_1030204001001050] A Pure Heart Revealed
+[quest_title_1030204001010010] Ho-Oh’s Challenge: Part 1
+[quest_title_1030204001010020] Ho-Oh’s Challenge: Part 2
+[quest_title_1030204001010030] Ho-Oh’s Challenge: Part 3
+[quest_title_1030204001010040] Ho-Oh’s Challenge: Part 4
+[quest_title_1030204001010050] Ho-Oh’s Challenge: Part 5
+[quest_title_1030204001010060] The Road to Greatness: Part 1
+[quest_title_1030204001010070] The Road to Greatness: Part 2
+[quest_title_1030204001010080] The Road to Greatness: Part 3
+[quest_title_1030720400600026] Challenge in the Villa: Part 16
+[quest_title_1030720400600027] Challenge in the Villa: Part 17
+[quest_title_1030720400600028] Challenge in the Villa: Part 18
+[quest_title_1030720400600029] Challenge Shauntal
+[quest_title_1030720400600030] Challenge Darach
+[quest_title_1030204000701001] A Rolling Ball of Cuteness
+[quest_title_1030204010701001] An Unstoppable Spin
+[quest_title_1030204020701001] Whirling Destruction
+[quest_title_1030204030701001] Infinity Roll
+[quest_title_1030204000701002] Crumble the Adamantine Rock!
+[quest_title_1030204010701002] Shatter the Gleaming Gemstones!
+[quest_title_1030204020701002] Take Down the Queen of Jewels!
+[quest_title_1030204000702001] Flying Fists
+[quest_title_1030204010702001] Clashing Blows
+[quest_title_1030204020702001] Raging Strikes
+[quest_title_1030204030702001] Earth-Shattering Duel
+[quest_title_1030204000702002] Wilt the Beautiful Blooms!
+[quest_title_1030204010702002] Thrash the Colorful Bouquet!
+[quest_title_1030204020702002] Flatten the Thriving Wildflowers!
+[quest_group_title_10127000000] Wallace
+[quest_title_1030210127000000] A Day with Wallace
+[quest_group_title_10133000000] Silver
+[quest_title_1030210133000000] A Day with Silver
+[quest_group_title_10113000000] Jasmine
+[quest_title_1030210113000000] A Day with Jasmine
+[quest_group_title_10128000000] Wally
+[quest_title_1030210128000000] A Day with Wally
 [quest_title_1030202000601080] A Friendly Outing
 [quest_title_1030202000601090] Photo Shoot Frenzy
 [quest_title_1030202000601100] A Designer Debut
@@ -3356,6 +3446,47 @@ en la más oscura noche
 [quest_title_1030210121000000] Un día con Francine
 [quest_title_1030210131000000] Un día con Lem
 [quest_title_1030202001001060] ¡Mewtwo entra en acción! (2)
+[quest_title_1030204001001060] La aparición de Ho-Oh
+[quest_title_1030204001001010] En busca de Ho-Oh
+[quest_title_1030204001001020] ¿En busca de una Chica Kimono?
+[quest_title_1030204001001030] Lance y Plata
+[quest_title_1030204001001040] Decisiones importantes
+[quest_title_1030204001001050] La elección de Ho-Oh
+[quest_title_1030204001010010] ¡Reta a Ho-Oh!
+[quest_title_1030204001010020] ¡Reta a Ho-Oh! (2)
+[quest_title_1030204001010030] ¡Reta a Ho-Oh! (3)
+[quest_title_1030204001010040] ¡Reta a Ho-Oh! (4)
+[quest_title_1030204001010050] ¡Reta a Ho-Oh! (5)
+[quest_title_1030204001010060] En pos de más combates
+[quest_title_1030204001010070] En pos de más combates (2)
+[quest_title_1030204001010080] En pos de más combates (3)
+[quest_title_1030720400600026] VS. Entrenadores de la residencia (16)
+[quest_title_1030720400600027] VS. Entrenadores de la residencia (17)
+[quest_title_1030720400600028] VS. Entrenadores de la residencia (18)
+[quest_title_1030720400600029] VS. Anís
+[quest_title_1030720400600030] VS. Kokuran
+[quest_title_1030204000701001] ¡Calentamiento!
+[quest_title_1030204010701001] Ejercicios de estiramiento
+[quest_title_1030204020701001] Sudando la gota gorda
+[quest_title_1030204030701001] Entrenamiento intensivo
+[quest_title_1030204000701002] Duros como una piedra
+[quest_title_1030204010701002] Cristalización fulgurante
+[quest_title_1030204020701002] ¡Protectores de los filones!
+[quest_title_1030204000702001] ¡Que despegue el combate!
+[quest_title_1030204010702001] Puños fugaces
+[quest_title_1030204020702001] Lluvia de bofetadas
+[quest_title_1030204030702001] Golpes magistrales
+[quest_title_1030204000702002] ¡En plena flor!
+[quest_title_1030204010702002] Corona de flores vistosa
+[quest_title_1030204020702002] Gran flor resplandeciente
+[quest_group_title_10127000000] Plubio
+[quest_title_1030210127000000] Un día con Plubio
+[quest_group_title_10133000000] Plata
+[quest_title_1030210133000000] Un día con Plata
+[quest_group_title_10113000000] Yasmina
+[quest_title_1030210113000000] Un día con Yasmina
+[quest_group_title_10128000000] Blasco
+[quest_title_1030210128000000] Un día con Blasco
 [quest_title_1030202000601080] Aventuras en compañía
 [quest_title_1030202000601090] Sesión de fotos de calidad
 [quest_title_1030202000601100] Las últimas creaciones de Camila
@@ -4282,6 +4413,47 @@ adversaires ophite
 [quest_title_1030210121000000] Une journée avec Apocyne
 [quest_title_1030210131000000] Une journée avec Lem
 [quest_title_1030202001001060] Mewtwo attaque ! II
+[quest_title_1030204001001060] L'apparition de Ho-Oh
+[quest_title_1030204001001010] À la recherche de Ho-Oh
+[quest_title_1030204001001020] Une danseuse en kimono... ?
+[quest_title_1030204001001030] Peter et Silver
+[quest_title_1030204001001040] Un choix crucial
+[quest_title_1030204001001050] Ho-Oh choisit son Dresseur
+[quest_title_1030204001010010] À la rencontre de Ho-Oh
+[quest_title_1030204001010020] À la rencontre de Ho-Oh II
+[quest_title_1030204001010030] À la rencontre de Ho-Oh III
+[quest_title_1030204001010040] À la rencontre de Ho-Oh IV
+[quest_title_1030204001010050] À la rencontre de Ho-Oh V
+[quest_title_1030204001010060] Vers de nouveaux combats
+[quest_title_1030204001010070] Vers de nouveaux combats II
+[quest_title_1030204001010080] Vers de nouveaux combats III
+[quest_title_1030720400600026] Combats dans la Villa XVI
+[quest_title_1030720400600027] Combats dans la Villa XVII
+[quest_title_1030720400600028] Combats dans la Villa XVIII
+[quest_title_1030720400600029] Combat : Anis
+[quest_title_1030720400600030] Combat : Parsley
+[quest_title_1030204000701001] Les tours d'échauffement
+[quest_title_1030204010701001] Les roulades irrésistibles
+[quest_title_1030204020701001] Les tourbillons violents
+[quest_title_1030204030701001] Le tournoiement infini
+[quest_title_1030204000701002] Des cailloux têtus
+[quest_title_1030204010701002] Les cristaux brillants
+[quest_title_1030204020701002] Les protecteurs des gemmes
+[quest_title_1030204000702001] Prêt pour le combat !
+[quest_title_1030204010702001] Les poings de fer
+[quest_title_1030204020702001] Une pluie de coups
+[quest_title_1030204030702001] Ascèse dans la montagne
+[quest_title_1030204000702002] Les fleurs radieuses
+[quest_title_1030204010702002] Les corolles chatoyantes
+[quest_title_1030204020702002] Les fleurs géantes
+[quest_group_title_10127000000] Marc
+[quest_title_1030210127000000] Une journée avec Marc
+[quest_group_title_10133000000] Silver
+[quest_title_1030210133000000] Une journée avec Silver
+[quest_group_title_10113000000] Jasmine
+[quest_title_1030210113000000] Une journée avec Jasmine
+[quest_group_title_10128000000] Timmy
+[quest_title_1030210128000000] Une journée avec Timmy
 [quest_title_1030202000601080] Une balade à deux
 [quest_title_1030202000601090] Une séance photo prisée
 [quest_title_1030202000601100] La nouvelle œuvre révélée
@@ -5185,6 +5357,47 @@ story_quest_name_it.lsd
 [quest_title_1030210121000000] Un giorno con Plumeria
 [quest_title_1030210131000000] Un giorno con Lem
 [quest_title_1030202001001060] Mewtwo all'attacco! 2
+[quest_title_1030204001001060] L'apparizione di Ho-Oh
+[quest_title_1030204001001010] Alla ricerca di Ho-Oh!
+[quest_title_1030204001001020] Stiamo cercando... una Kimono Girl?
+[quest_title_1030204001001030] Lance e Argento
+[quest_title_1030204001001040] La scelta di Argento
+[quest_title_1030204001001050] L'Allenatore scelto da Ho-Oh
+[quest_title_1030204001010010] Affronta Ho-Oh!
+[quest_title_1030204001010020] Affronta Ho-Oh! 2
+[quest_title_1030204001010030] Affronta Ho-Oh! 3
+[quest_title_1030204001010040] Affronta Ho-Oh! 4
+[quest_title_1030204001010050] Affronta Ho-Oh! 5
+[quest_title_1030204001010060] Verso nuove sfide
+[quest_title_1030204001010070] Verso nuove sfide 2
+[quest_title_1030204001010080] Verso nuove sfide 3
+[quest_title_1030720400600026] VS Allenatori: residenza 16
+[quest_title_1030720400600027] VS Allenatori: residenza 17
+[quest_title_1030720400600028] VS Allenatori: residenza 18
+[quest_title_1030720400600029] VS Antemia
+[quest_title_1030720400600030] VS Paride
+[quest_title_1030204000701001] Un rotolamento che avanza
+[quest_title_1030204010701001] Un rotolamento senza fine
+[quest_title_1030204020701001] Un rotolamento devastante
+[quest_title_1030204030701001] Un rotolamento senza limiti
+[quest_title_1030204000701002] Fronteggia il minerale resistente!
+[quest_title_1030204010701002] Doma il cristallo sfolgorante!
+[quest_title_1030204020701002] Annienta colei che protegge le nobili gemme!
+[quest_title_1030204000702001] Pugni pronti a colpire
+[quest_title_1030204010702001] Un colpo incalzante
+[quest_title_1030204020702001] Un affondo che atterra
+[quest_title_1030204030702001] Un diretto che smuove le montagne
+[quest_title_1030204000702002] Fronteggia un avversario in piena fioritura!
+[quest_title_1030204010702002] Doma la corolla colorata!
+[quest_title_1030204020702002] Abbatti il grande fiore sgargiante!
+[quest_group_title_10127000000] Adriano
+[quest_title_1030210127000000] Un giorno con Adriano
+[quest_group_title_10133000000] Argento
+[quest_title_1030210133000000] Un giorno con Argento
+[quest_group_title_10113000000] Jasmine
+[quest_title_1030210113000000] Un giorno con Jasmine
+[quest_group_title_10128000000] Lino
+[quest_title_1030210128000000] Un giorno con Lino
 [quest_title_1030202000601080] Un'uscita in due
 [quest_title_1030202000601090] Un servizio di successo
 [quest_title_1030202000601100] Le ultime creazioni di Camelia
@@ -6086,6 +6299,47 @@ story_quest_name_ja.lsd
 [quest_title_1030210121000000] とある日のプルメリ
 [quest_title_1030210131000000] とある日のシトロン
 [quest_title_1030202001001060] 襲撃のミュウツー！２
+[quest_title_1030204001001060] ホウオウ現る！
+[quest_title_1030204001001010] ホウオウを探そう！
+[quest_title_1030204001001020] 探し人はまいこさん？
+[quest_title_1030204001001030] ワタルとシルバー
+[quest_title_1030204001001040] 選択した道
+[quest_title_1030204001001050] ホウオウが認めたトレーナー
+[quest_title_1030204001010010] ホウオウに挑め！
+[quest_title_1030204001010020] ホウオウに挑め！２
+[quest_title_1030204001010030] ホウオウに挑め！３
+[quest_title_1030204001010040] ホウオウに挑め！４
+[quest_title_1030204001010050] ホウオウに挑め！５
+[quest_title_1030204001010060] さらなる勝負への道
+[quest_title_1030204001010070] さらなる勝負への道２
+[quest_title_1030204001010080] さらなる勝負への道３
+[quest_title_1030720400600026] ＶＳ　屋敷のトレーナー１６
+[quest_title_1030720400600027] ＶＳ　屋敷のトレーナー１７
+[quest_title_1030720400600028] ＶＳ　屋敷のトレーナー１８
+[quest_title_1030720400600029] ＶＳ　シキミ
+[quest_title_1030720400600030] ＶＳ　コクラン
+[quest_title_1030204000701001] 動きだす回転のゆくえ
+[quest_title_1030204010701001] 止まらぬ強転のゆくえ
+[quest_title_1030204020701001] 爆走する剛転のゆくえ
+[quest_title_1030204030701001] 縦横無尽な猛転のゆくえ
+[quest_title_1030204000701002] 頑強な原石に立ち向かえ！
+[quest_title_1030204010701002] 輝き放つ結晶を制圧せよ！
+[quest_title_1030204020701002] 気高き宝珠の守護者を倒せ！
+[quest_title_1030204000702001] 構える拳のゆくえ
+[quest_title_1030204010702001] 打ちだす鉄拳のゆくえ
+[quest_title_1030204020702001] 叩き込む掌底のゆくえ
+[quest_title_1030204030702001] 山をも震わす張り手のゆくえ
+[quest_title_1030204000702002] 咲き誇る花に立ち向かえ！
+[quest_title_1030204010702002] 極彩の花冠を制圧せよ！
+[quest_title_1030204020702002] 鮮麗なる大輪を倒せ！
+[quest_group_title_10127000000] ミクリ
+[quest_title_1030210127000000] とある日のミクリ
+[quest_group_title_10133000000] シルバー
+[quest_title_1030210133000000] とある日のシルバー
+[quest_group_title_10113000000] ミカン
+[quest_title_1030210113000000] とある日のミカン
+[quest_group_title_10128000000] ミツル
+[quest_title_1030210128000000] とある日のミツル
 [quest_title_1030202000601080] ふたりでお出かけ
 [quest_title_1030202000601090] 撮影会は大人気
 [quest_title_1030202000601100] 新作お披露目会
@@ -6986,6 +7240,47 @@ story_quest_name_ko.lsd
 [quest_title_1030210121000000] 플루메리의 어느 날
 [quest_title_1030210131000000] 시트론의 어느 날
 [quest_title_1030202001001060] 뮤츠의 습격!2
+[quest_title_1030204001001060] 칠색조 등장!
+[quest_title_1030204001001010] 칠색조를 찾자!
+[quest_title_1030204001001020] 찾을 사람은 전통무용수?
+[quest_title_1030204001001030] 목호와 실버
+[quest_title_1030204001001040] 선택한 길
+[quest_title_1030204001001050] 칠색조가 인정한 트레이너
+[quest_title_1030204001010010] 칠색조에게 도전하라!
+[quest_title_1030204001010020] 칠색조에게 도전하라! 2
+[quest_title_1030204001010030] 칠색조에게 도전하라! 3
+[quest_title_1030204001010040] 칠색조에게 도전하라! 4
+[quest_title_1030204001010050] 칠색조에게 도전하라! 5
+[quest_title_1030204001010060] 더 높은 수준의 승부로 가는 길
+[quest_title_1030204001010070] 더 높은 수준의 승부로 가는 길2
+[quest_title_1030204001010080] 더 높은 수준의 승부로 가는 길3
+[quest_title_1030720400600026] VS 저택의 트레이너16
+[quest_title_1030720400600027] VS 저택의 트레이너17
+[quest_title_1030720400600028] VS 저택의 트레이너18
+[quest_title_1030720400600029] VS 망초
+[quest_title_1030720400600030] VS 코크런
+[quest_title_1030204000701001] 움직이기 시작한 회전의 행방
+[quest_title_1030204010701001] 멈추지 않는 강한 회전의 행방
+[quest_title_1030204020701001] 폭주하는 단단한 회전의 행방
+[quest_title_1030204030701001] 종횡무진인 맹렬한 회전의 행방
+[quest_title_1030204000701002] 완강한 원석에 맞서라!
+[quest_title_1030204010701002] 빛을 흩뿌리는 결정을 제압하라!
+[quest_title_1030204020701002] 긍지 높은 수호자를 쓰러뜨려라!
+[quest_title_1030204000702001] 준비된 주먹의 행방
+[quest_title_1030204010702001] 내지르는 철권의 행방
+[quest_title_1030204020702001] 때려 박는 손바닥의 행방
+[quest_title_1030204030702001] 산조차 부수는 손바닥 치기의 행방
+[quest_title_1030204000702002] 화려하게 핀 꽃에 맞서라!
+[quest_title_1030204010702002] 극채색의 화관을 제압하라!
+[quest_title_1030204020702002] 선명하고 화려한 꽃잎을 쓰러뜨려라!
+[quest_group_title_10127000000] 윤진
+[quest_title_1030210127000000] 윤진의 어느 날
+[quest_group_title_10133000000] 실버
+[quest_title_1030210133000000] 실버의 어느 날
+[quest_group_title_10113000000] 규리
+[quest_title_1030210113000000] 규리의 어느 날
+[quest_group_title_10128000000] 민진
+[quest_title_1030210128000000] 민진의 어느 날
 [quest_title_1030202000601080] 둘이서 외출
 [quest_title_1030202000601090] 촬영회는 대인기
 [quest_title_1030202000601100] 신상 피로연
@@ -7886,6 +8181,47 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030210121000000] 某日的布爾美麗
 [quest_title_1030210131000000] 某日的希特隆
 [quest_title_1030202001001060] 奇襲的超夢！２
+[quest_title_1030204001001060] 鳳王現身！
+[quest_title_1030204001001010] 尋找鳳王吧！
+[quest_title_1030204001001020] 尋找和服女孩？
+[quest_title_1030204001001030] 阿渡與小銀
+[quest_title_1030204001001040] 各自選擇的道路
+[quest_title_1030204001001050] 鳳王看中的訓練家
+[quest_title_1030204001010010] 挑戰鳳王！
+[quest_title_1030204001010020] 挑戰鳳王！２
+[quest_title_1030204001010030] 挑戰鳳王！３
+[quest_title_1030204001010040] 挑戰鳳王！４
+[quest_title_1030204001010050] 挑戰鳳王！５
+[quest_title_1030204001010060] 通往強大的對戰之路
+[quest_title_1030204001010070] 通往強大的對戰之路２
+[quest_title_1030204001010080] 通往強大的對戰之路３
+[quest_title_1030720400600026] ＶＳ　莊園的訓練家１６
+[quest_title_1030720400600027] ＶＳ　莊園的訓練家１７
+[quest_title_1030720400600028] ＶＳ　莊園的訓練家１８
+[quest_title_1030720400600029] ＶＳ　婉龍
+[quest_title_1030720400600030] ＶＳ　石蘭
+[quest_title_1030204000701001] 起始之旋轉的去向
+[quest_title_1030204010701001] 不止之強轉的去向
+[quest_title_1030204020701001] 爆走之剛轉的去向
+[quest_title_1030204030701001] 縱橫馳騁之猛轉的去向
+[quest_title_1030204000701002] 面對頑強原石！
+[quest_title_1030204010701002] 壓制熠熠結晶！
+[quest_title_1030204020701002] 打倒高潔的珍寶守護者！
+[quest_title_1030204000702001] 蓄勢待發的拳頭去向
+[quest_title_1030204010702001] 揮擊而出的鐵拳去向
+[quest_title_1030204020702001] 使勁猛拍的掌底去向
+[quest_title_1030204030702001] 撼動山峰的巴掌去向
+[quest_title_1030204000702002] 面對盛開的花朵！
+[quest_title_1030204010702002] 壓制多彩的花冠！
+[quest_title_1030204020702002] 打倒豔麗的大朵花！
+[quest_group_title_10127000000] 米可利
+[quest_title_1030210127000000] 某日的米可利
+[quest_group_title_10133000000] 小銀
+[quest_title_1030210133000000] 某日的小銀
+[quest_group_title_10113000000] 阿蜜
+[quest_title_1030210113000000] 某日的阿蜜
+[quest_group_title_10128000000] 滿充
+[quest_title_1030210128000000] 某日的滿充
 [quest_title_1030202000601080] 兩人去郊遊
 [quest_title_1030202000601090] 攝影會人氣旺
 [quest_title_1030202000601100] 新裝發表會
@@ -8211,6 +8547,18 @@ bekommt es mit ihr zu tun.
 [10131000000] Der Arenaleiter von Illumina City lebt für das Erfinden.
 Seine bahnbrechenden Maschinen helfen zahlreichen
 Trainern.
+[10127000000] Dieser Arenaleiter mit vornehmer Ausstrahlung ist ein
+Meister der Wasser-Illusionen. Sein eleganter Kampfstil
+beschert ihm viele weibliche Fans.
+[10113000000] Diese Arenaleiterin mit einem Herz für Pokémon ist eher
+zurückhaltend, aber wenn sie von Stahl-Pokémon spricht,
+kommt sie richtig in Fahrt!
+[10128000000] Dieser Junge liebt Pokémon und Pokémon-Kämpfe.
+Er hat sich richtig ins Zeug gelegt und alles gegeben,
+um ein starker Trainer zu werden.
+[10133000000] Dieser junge Mann will der Stärkste der Welt werden.
+Seine Vergangenheit hat ihn gelehrt, dass es nicht nur
+auf Stärke ankommt, sondern auch auf Freundlichkeit.
 
 ===========
 trainer_description_en.lsd
@@ -8500,6 +8848,18 @@ the Grunts and won’t forgive anyone who bullies them.
 [10131000000] This Lumiose City Gym Leader has a burning passion for
 inventing. His scientific discoveries lead the path to the
 future and help out a large number of other Trainers.
+[10127000000] A Gym Leader referred to as the “Prince of Water,”
+he carries an air of refinement about him. His elegant
+battle style has earned him many fans.
+[10113000000] This Gym Leader is known to have a heart that cares for
+Pokémon. While she appears calm and gentle, she can get
+quite fired up when talking about Steel-type Pokémon.
+[10128000000] Known as a boy who loves Pokémon, adventures, and
+battling, he has put everything into growing stronger as
+a Pokémon Trainer.
+[10133000000] Although known for aiming to be the strongest Trainer in
+the world, this boy no longer cares about strength alone.
+He’s also realized the importance of a kind heart.
 
 ===========
 trainer_description_es.lsd
@@ -8826,6 +9186,19 @@ ellos.
 Luminalia que ayuda a montones de Entrenadores con
 invenciones y avances científicos que alumbran el camino
 hacia el futuro.
+[10127000000] Líder de Gimnasio de aire distinguido al que se conoce
+como el Príncipe del Agua. Su refinado e impecable estilo
+de combate le han granjeado numerosas fans.
+[10113000000] Líder de Gimnasio que muestra siempre gran aprecio por
+los Pokémon. Aunque aparente ser tranquila, la simple
+mención de "tipo Acero" enciende un fuego en su interior.
+[10128000000] Joven que muestra gran entusiasmo por los Pokémon y
+los combates que se libran con ellos. Se ha empleado
+a fondo para convertirse en un Entrenador de primera.
+[10133000000] Joven cuyo objetivo en la vida es ser el Entrenador más
+fuerte habido y por haber, aunque ya no solo piensa que
+la fuerza sea lo más importante, sino que también tiene
+en cuenta la amabilidad.
 
 ===========
 trainer_description_fr.lsd
@@ -9096,6 +9469,18 @@ au moindre tracas, et ne supporte pas qu'on les humilie.
 Il vient en aide aux autres Dresseurs grâce à
 sa passion dévorante pour les découvertes
 scientifiques qui « ouvriront la voie ».
+[10127000000] Surnommé le « prince de l'eau », Marc est un Champion
+d'Arène dont le style de combat raffiné lui attire de
+nombreuses admiratrices.
+[10113000000] D'une tendresse infinie envers les Pokémon, Jasmine est
+une Championne d'Arène calme et réfléchie. Elle voue
+une passion dévorante aux Pokémon Acier.
+[10128000000] Timmy est un jeune homme passionné par les Pokémon et
+les combats. Il s'est entraîné de toutes ses forces afin de
+devenir un meilleur Dresseur Pokémon.
+[10133000000] Un jeune Dresseur qui rêve de devenir le plus fort du
+monde. Au fil de son aventure, il a appris que la
+gentillesse était au moins aussi importante que la force.
 
 ===========
 trainer_description_it.lsd
@@ -9385,6 +9770,19 @@ sopporta che i suoi subalterni vengano maltrattati.
 [10131000000] Capopalestra di Luminopoli, ha una grande passione per
 le invenzioni. Aiuta molti Allenatori con le sue scoperte
 scientifiche, aprendo la strada verso il futuro.
+[10127000000] Il Capopalestra chiamato "il principe dell'acqua"
+ha un'aria sempre molto raffinata. Il suo stile di lotta
+aggraziato gli ha fatto guadagnare molte ammiratrici.
+[10113000000] Capopalestra dal cuore colmo di affetto per i Pokémon.
+Ha un carattere riservato, ma si entusiasma facilmente
+quando si parla dei Pokémon di tipo Acciaio.
+[10128000000] Un ragazzo che ama i Pokémon e le lotte. Si è dato molto
+da fare per crescere, cercando di diventare più forte
+come Allenatore.
+[10133000000] Un ragazzo che punta a diventare l'Allenatore più forte
+al mondo. Lasciandosi alle spalle il proprio passato,
+ha imparato che, oltre alla forza, è importante avere
+anche un animo gentile.
 
 ===========
 trainer_description_ja.lsd
@@ -9674,6 +10072,18 @@ trainer_description_ja.lsd
 [10131000000] 発明に情熱を燃やす　ミアレシティの　ジムリーダー。
 未来を　切りひらく　サイエンスな　発明は
 多くの　トレーナーたちを　サポートしている。
+[10127000000] 水のプリンスと　呼ばれている　ジムリーダー。
+上品な　雰囲気を　かもしだしている。
+優雅な　勝負スタイルで　女性ファンも　多い。
+[10113000000] ポケモンを　慈しむ　心を持つ　ジムリーダー。
+控え目な　性格だが　はがねタイプの
+話になると　テンションが　あがる。
+[10128000000] ポケモンと　ポケモン勝負が　大好きな　少年。
+強い　トレーナーに　なるため
+一生懸命に　努力を重ね　成長してきた。
+[10133000000] 世界で一番強い　トレーナーを　目指す　少年。
+過去を　乗りこえることで　強さだけではなく
+優しい心の　大切さを　知った。
 
 ===========
 trainer_description_ko.lsd
@@ -9963,6 +10373,18 @@ trainer_description_ko.lsd
 [10131000000] 발명에 정열을 불태우는 미르시티의 체육관 관장.
 미래를 개척하는 과학적 발명이
 많은 트레이너를 도와주고 있다.
+[10127000000] 물의 왕자라고도 불리는 체육관 관장.
+고상한 분위기를 자아낸다.
+우아한 스타일의 승부로 여성 팬도 많다.
+[10113000000] 포켓몬을 아끼는 마음을 지닌 체육관 관장.
+얌전한 성격이지만 강철타입의
+이야기를 할 때면 조금 흥분한다.
+[10128000000] 포켓몬과 포켓몬 승부를 정말 좋아하는 소년.
+강한 트레이너를 목표로
+열심히 노력하여 성장해왔다.
+[10133000000] 세계에서 가장 강한 트레이너를 목표하는 소년.
+과거를 이겨내면서 강함이 전부가 아니라는 점과
+상냥한 마음의 소중함을 깨달았다.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -10251,6 +10673,18 @@ trainer_description_zh-TW.lsd
 [10131000000] 對發明燃燒著熱情的密阿雷市道館館主。
 他用各種開拓未來的科學發明
 幫助著許多訓練家們。
+[10127000000] 被稱為水之王子的道館館主。
+散發著高尚脫俗的氛圍。
+優雅的對戰風格吸引了大批女性粉絲。
+[10113000000] 對寶可夢有著一顆體貼之心的道館館主。
+個性低調，但是一提到鋼屬性寶可夢
+就會變得既活潑又健談。
+[10128000000] 不僅熱愛寶可夢，也熱愛寶可夢對戰的少年。
+為了成為強大的訓練家，
+他一直拼命努力，讓自己不停地成長。
+[10133000000] 以成為世界第一強訓練家為目標的少年。
+透過克服自己的過去而明白了
+除了實力之外，一顆溫柔的心也很重要。
 
 ===========
 trainer_name_de.lsd
@@ -10359,19 +10793,23 @@ trainer_name_de.lsd
 [ch0110] Misty
 [ch0111] Siegfried
 [ch0112] Klarin
+[ch0113] Jasmin
 [ch0114] Sabrina
 [ch0121] Fran
 [ch0124] Maho
 [ch0125] Bromley
 [ch0127] Wassili
+[ch0128] Heiko
 [ch0129] Amalia
 [ch0131] Citro
+[ch0133] Silber
 [ch0137] Eich
 [ch0140] Giovanni
 [ch0151] Lamina
 [ch0153] Frosina
 [ch0157] Valerie
 [ch9000] 
+[ch0159] Perenus
 
 ===========
 trainer_name_en.lsd
@@ -10480,19 +10918,23 @@ trainer_name_en.lsd
 [ch0110] Misty
 [ch0111] Lance
 [ch0112] Ethan
+[ch0113] Jasmine
 [ch0114] Sabrina
 [ch0121] Plumeria
 [ch0124] Mallow
 [ch0125] Guzma
 [ch0127] Wallace
+[ch0128] Wally
 [ch0129] Zinnia
 [ch0131] Clemont
+[ch0133] Silver
 [ch0137] Professor Oak
 [ch0140] Giovanni
 [ch0151] Fantina
 [ch0153] Glacia
 [ch0157] Valerie
 [ch9000] 
+[ch0159] Darach
 
 ===========
 trainer_name_es.lsd
@@ -10601,19 +11043,23 @@ trainer_name_es.lsd
 [ch0110] Misty
 [ch0111] Lance
 [ch0112] Eco
+[ch0113] Yasmina
 [ch0114] Sabrina
 [ch0121] Francine
 [ch0124] Lulú
 [ch0125] Guzmán
 [ch0127] Plubio
+[ch0128] Blasco
 [ch0129] Tristana
 [ch0131] Lem
+[ch0133] Plata
 [ch0137] Oak
 [ch0140] Giovanni
 [ch0151] Fantina
 [ch0153] Nívea
 [ch0157] Valeria
 [ch9000] 
+[ch0159] Kokuran
 
 ===========
 trainer_name_fr.lsd
@@ -10722,19 +11168,23 @@ trainer_name_fr.lsd
 [ch0110] Ondine
 [ch0111] Peter
 [ch0112] Luth
+[ch0113] Jasmine
 [ch0114] Morgane
 [ch0121] Apocyne
 [ch0124] Barbara
 [ch0125] Guzma
 [ch0127] Marc
+[ch0128] Timmy
 [ch0129] Amaryllis
 [ch0131] Lem
+[ch0133] Silver
 [ch0137] Chen
 [ch0140] Giovanni
 [ch0151] Kiméra
 [ch0153] Glacia
 [ch0157] Valériane
 [ch9000] 
+[ch0159] Parsley
 
 ===========
 trainer_name_it.lsd
@@ -10843,19 +11293,23 @@ trainer_name_it.lsd
 [ch0110] Misty
 [ch0111] Lance
 [ch0112] Armonio
+[ch0113] Jasmine
 [ch0114] Sabrina
 [ch0121] Plumeria
 [ch0124] Ibis
 [ch0125] Guzman
 [ch0127] Adriano
+[ch0128] Lino
 [ch0129] Lyris
 [ch0131] Lem
+[ch0133] Argento
 [ch0137] Professor Oak
 [ch0140] Giovanni
 [ch0151] Fannie
 [ch0153] Frida
 [ch0157] Valérie
 [ch9000] 
+[ch0159] Paride
 
 ===========
 trainer_name_ja.lsd
@@ -10964,19 +11418,23 @@ trainer_name_ja.lsd
 [ch0110] カスミ
 [ch0111] ワタル
 [ch0112] ヒビキ
+[ch0113] ミカン
 [ch0114] ナツメ
 [ch0121] プルメリ
 [ch0124] マオ
 [ch0125] グズマ
 [ch0127] ミクリ
+[ch0128] ミツル
 [ch0129] ヒガナ
 [ch0131] シトロン
+[ch0133] シルバー
 [ch0137] オーキド
 [ch0140] サカキ
 [ch0151] メリッサ
 [ch0153] プリム
 [ch0157] マーシュ
 [ch9000] 
+[ch0159] コクラン
 
 ===========
 trainer_name_ko.lsd
@@ -11085,19 +11543,23 @@ trainer_name_ko.lsd
 [ch0110] 이슬
 [ch0111] 목호
 [ch0112] 심향
+[ch0113] 규리
 [ch0114] 초련
 [ch0121] 플루메리
 [ch0124] 마오
 [ch0125] 구즈마
 [ch0127] 윤진
+[ch0128] 민진
 [ch0129] 피아나
 [ch0131] 시트론
+[ch0133] 실버
 [ch0137] 오박사
 [ch0140] 비주기
 [ch0151] 멜리사
 [ch0153] 미혜
 [ch0157] 마슈
 [ch9000] 
+[ch0159] 코크런
 
 ===========
 trainer_name_zh-TW.lsd
@@ -11206,19 +11668,23 @@ trainer_name_zh-TW.lsd
 [ch0110] 小霞
 [ch0111] 阿渡
 [ch0112] 阿響
+[ch0113] 阿蜜
 [ch0114] 娜姿
 [ch0121] 布爾美麗
 [ch0124] 瑪奧
 [ch0125] 古茲馬
 [ch0127] 米可利
+[ch0128] 滿充
 [ch0129] 希嘉娜
 [ch0131] 希特隆
+[ch0133] 小銀
 [ch0137] 大木
 [ch0140] 阪木
 [ch0151] 梅麗莎
 [ch0153] 波妮
 [ch0157] 瑪綉
 [ch9000] 
+[ch0159] 石蘭
 
 ===========
 common_widget_de.lsd
@@ -11248,6 +11714,9 @@ common_widget_de.lsd
 [common_widget/cell_036] Im Besitz
 [common_widget/cell_037] Anzahl
 [common_widget/cell_039] Kosten
+[common_widget/cell_040] × [Digit:3digits ]-[Digit:3digits Idx="1" ]
+[common_widget/cell_041] Stufe
+[common_widget/cell_042] × [Digit:3digits ]
 [common_widget/button_001] OK
 [common_widget/button_002] Ja
 [common_widget/button_003] Nein
@@ -11259,6 +11728,8 @@ common_widget_de.lsd
 [common_widget/button_009] Zurück
 [common_widget/button_010] Noch mal
 [common_widget/button_011] Missionen
+[common_widget/button_012] AN
+[common_widget/button_013] AUS
 [common_widget/loading_001] Ladevorgang...
 [common_widget/loading_002] Los!
 [common_widget/loading_003] Verbindet...
@@ -11373,6 +11844,11 @@ festgelegt!
 [common_widget/dialog_061] Der Veranstaltungszeitraum ist
 abgelaufen. Du kehrst ins
 Pokémon-Center zurück.
+[common_widget/dialog_063] Erhöht die Stärke der Gefährtenattacke
+und die Stärke der Attacken von
+[Name:TrainerName ] & [Name:PokemonName ].
+[common_widget/dialog_065] Hinweis: Wurde Attacken-Level 5 erreicht, wird ein
+Potenzialpass für die ursprüngliche Anzahl an ★ daraus.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -11440,6 +11916,9 @@ Lv. MAX
 [common_widget/cutin_trainer_014] Alle Animationen überspringen
 [common_widget/cutin_trainer_015] Du und [Name:PokemonName ]
 könnt jetzt ein Gefährtengespann bilden!
+[common_widget/cutin_trainer_016] Attacken-Level↑
+[common_widget/cutin_trainer_017] Attacken-Level MAX
+[common_widget/cutin_trainer_018] Der Attacken-Level ist gestiegen!
 [common_widget/balloon_menu_001] AUTO
 [common_widget/balloon_menu_002] Überspringen
 [common_widget/balloon_menu_003] Möchtest du diese Sequenz
@@ -11492,6 +11971,7 @@ wurde zu einem
 [common_widget/sort_016] Kategorie
 [common_widget/sort_021] Nr.
 [common_widget/sort_022] Grenzbruch
+[common_widget/sort_023] Attacken-Level
 [common_widget/cutin_001] Levelaufstieg!
 [common_widget/cutin_002] Lv.
 [common_widget/cutin_003] Potenzial erhöht!
@@ -11574,6 +12054,12 @@ mit Team Break!“ in Kapitel 2 der
 Hauptgeschichte freigeschaltet.
 [common_widget/release_009] Wird nach Abschluss von „Nieder mit Team Break!“ in
 Kapitel 2 der Hauptgeschichte freigeschaltet.
+[common_widget/egg_hatched_cutin_001] Oh?
+[common_widget/egg_hatched_cutin_002] Ein [Name:PokemonName ] ist aus
+dem Ei geschlüpft!
+[common_widget/egg_detail_001] Bitte gib einen Spitznamen ein.
+[common_widget/egg_detail_002] Hinweis: Du kannst den Spitznamen später ändern.
+[common_widget/egg_detail_003] Gib einen Spitznamen ein.
 
 ===========
 common_widget_en.lsd
@@ -11602,6 +12088,9 @@ common_widget_en.lsd
 [common_widget/cell_036] Stock
 [common_widget/cell_037] Number
 [common_widget/cell_039] Cost
+[common_widget/cell_040] ×[Digit:3digits ]–[Digit:3digits Idx="1" ]
+[common_widget/cell_041] Pool
+[common_widget/cell_042] ×[Digit:3digits ]
 [common_widget/button_001] OK
 [common_widget/button_002] Yes
 [common_widget/button_003] No
@@ -11613,6 +12102,8 @@ common_widget_en.lsd
 [common_widget/button_009] Back
 [common_widget/button_010] Battle Again
 [common_widget/button_011] Missions
+[common_widget/button_012] ON
+[common_widget/button_013] OFF
 [common_widget/loading_001] Loading...
 [common_widget/loading_002] GO!
 [common_widget/loading_003] Loading...
@@ -11714,6 +12205,11 @@ has been set!
 now available!
 [common_widget/dialog_061] This Battle Villa challenge has ended.
 Returning to the Pokémon Center.
+[common_widget/dialog_063] Levels up the sync move of
+[Name:TrainerName ] & [Name:PokemonName ]
+and may power up their other moves.
+[common_widget/dialog_065] Note: If moves are already Lv. 5, you’ll receive a
+★ power-up based on the sync pair’s initial potential.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -11778,6 +12274,10 @@ Lv. MAX!
 [common_widget/cutin_trainer_014] Skip Animation
 [common_widget/cutin_trainer_015] You formed a new sync pair with
 [Name:PokemonName ]!
+[common_widget/cutin_trainer_016] Level Up!
+[common_widget/cutin_trainer_017] Move Level
+MAX!
+[common_widget/cutin_trainer_018] Moves have been leveled up!
 [common_widget/balloon_menu_001] AUTO
 [common_widget/balloon_menu_002] Skip
 [common_widget/balloon_menu_003] Skip this conversation?
@@ -11828,6 +12328,7 @@ into [Name:PokemonName ]!
 [common_widget/sort_016] Category
 [common_widget/sort_021] No.
 [common_widget/sort_022] Unlock Level Cap
+[common_widget/sort_023] Move Level
 [common_widget/cutin_001] Level Up!
 [common_widget/cutin_002] Lv.
 [common_widget/cutin_003] Potential increased!
@@ -11885,6 +12386,13 @@ Where There’s a Will, There’s a Way.
 Defeat Team Break!
 [common_widget/release_009] To unlock, complete Chapter 2:
 Defeat Team Break!
+[common_widget/egg_hatched_cutin_001] Oh?
+[common_widget/egg_hatched_cutin_002] [Name:PokemonName ] hatched
+from the Egg!
+[common_widget/egg_detail_001] Please enter a nickname for
+your Pokémon.
+[common_widget/egg_detail_002] You can change your Pokémon’s nickname later.
+[common_widget/egg_detail_003] Pokémon Nickname
 
 ===========
 common_widget_es.lsd
@@ -11913,6 +12421,9 @@ common_widget_es.lsd
 [common_widget/cell_036] Tienes:
 [common_widget/cell_037] N.º
 [common_widget/cell_039] Coste:
+[common_widget/cell_040] × [Digit:3digits ] - [Digit:3digits Idx="1" ]
+[common_widget/cell_041] Fase
+[common_widget/cell_042] × [Digit:3digits ]
 [common_widget/button_001] Vale
 [common_widget/button_002] Sí
 [common_widget/button_003] No
@@ -11924,6 +12435,8 @@ common_widget_es.lsd
 [common_widget/button_009] Atrás
 [common_widget/button_010] Otro combate
 [common_widget/button_011] Misiones
+[common_widget/button_012] SÍ
+[common_widget/button_013] NO
 [common_widget/loading_001] Cargando...
 [common_widget/loading_002] ¡Vamos!
 [common_widget/loading_003] Conectando...
@@ -12033,6 +12546,11 @@ semanal.
 disponibles!
 [common_widget/dialog_061] Esta etapa ha terminado.
 Regresando al Centro Pokémon...
+[common_widget/dialog_063] Aumenta la potencia de los movimientos
+y del movimiento compi de
+[Name:TrainerName ] y [Name:PokemonName ].
+[common_widget/dialog_065] *Si el nivel de movimientos ya es 5, se intercambiará por
+un Potenciador del mismo número de ★ que los compis.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Nv.
 [common_widget/trainer_detail_004] MÁX.
@@ -12096,6 +12614,12 @@ Nv. máximo
 [common_widget/cutin_trainer_014] Omitir todas las animaciones
 [common_widget/cutin_trainer_015] ¡[Name:PokemonName ] y tú
 podéis ser ahora compis!
+[common_widget/cutin_trainer_016] ¡Nivel de
+movimientos ↑!
+[common_widget/cutin_trainer_017] ¡Nivel máximo
+de movimientos!
+[common_widget/cutin_trainer_018] Se ha aumentado el nivel
+de los movimientos.
 [common_widget/balloon_menu_001] AUTO
 [common_widget/balloon_menu_002] Omitir
 [common_widget/balloon_menu_003] ¿Quieres omitir esta conversación?
@@ -12148,6 +12672,7 @@ evolución?
 [common_widget/sort_016] Categoría
 [common_widget/sort_021] N.º
 [common_widget/sort_022] Nv. máx.
+[common_widget/sort_023] Nivel de movimientos
 [common_widget/cutin_001] ¡Sube de nivel!
 [common_widget/cutin_002] Nv.
 [common_widget/cutin_003] ¡Potencial aumentado!
@@ -12179,11 +12704,11 @@ Para cantidades superiores, recibirás
 avisos por cada 20 000 joyas que
 compres.
 [common_widget/template_001] Compis
-[common_widget/dialog_release_001] Disponible tras completar la ubicación "Corazones al unísono" del capítulo 1 de la historia principal.
-[common_widget/dialog_release_002] Disponible tras completar la ubicación "Un aliado esperanzador" del capítulo 2 de la historia principal.
-[common_widget/dialog_release_004] Disponible tras completar la ubicación "La más linda flor" del capítulo 4 de la historia principal.
-[common_widget/dialog_release_005] Disponible tras completar la ubicación "¡Que comience el WPM!" del primer interludio de la historia principal.
-[common_widget/dialog_release_006] Disponible tras completar la ubicación "VS. Cheren, Lucho y Liza" (Difícil) del capítulo 18 de la historia principal en modo multijugador.
+[common_widget/dialog_release_001] Completa la ubicación "Corazones al unísono" del capítulo 1 de la historia principal.
+[common_widget/dialog_release_002] Completa la ubicación "Un aliado esperanzador" del capítulo 2 de la historia principal.
+[common_widget/dialog_release_004] Completa la ubicación "La más linda flor" del capítulo 4 de la historia principal.
+[common_widget/dialog_release_005] Completa la ubicación "¡Que comience el WPM!" del primer interludio de la historia principal.
+[common_widget/dialog_release_006] Completa la ubicación "VS. Cheren, Lucho y Liza" (Difícil) del capítulo 18 de la historia principal en modo multijugador.
 [common_widget/dialog_release_007] Disponible tras completar la ubicación
 "Un aliado esperanzador" del capítulo 2
 de la historia principal.
@@ -12211,6 +12736,12 @@ del capítulo 7 de la historia principal.
 capítulo 2 de la historia principal.
 [common_widget/release_009] Completa "Hay que derrotar al Team Break" del
 capítulo 2 de la historia principal.
+[common_widget/egg_hatched_cutin_001] Anda...
+[common_widget/egg_hatched_cutin_002] El Huevo ha eclosionado y ha salido un
+[Name:PokemonName ].
+[common_widget/egg_detail_001] Ponle un apodo.
+[common_widget/egg_detail_002] *Puedes cambiarle el apodo más tarde.
+[common_widget/egg_detail_003] Apodo del Pokémon
 
 ===========
 common_widget_fr.lsd
@@ -12239,6 +12770,9 @@ common_widget_fr.lsd
 [common_widget/cell_036] Obtenu
 [common_widget/cell_037] Nombre
 [common_widget/cell_039] Coût
+[common_widget/cell_040] × [Digit:3digits ]-[Digit:3digits Idx="1" ]
+[common_widget/cell_041] Étape
+[common_widget/cell_042] × [Digit:3digits ]
 [common_widget/button_001] OK
 [common_widget/button_002] Oui
 [common_widget/button_003] Non
@@ -12250,6 +12784,8 @@ common_widget_fr.lsd
 [common_widget/button_009] Retour
 [common_widget/button_010] Recommencer
 [common_widget/button_011] Missions
+[common_widget/button_012] Oui
+[common_widget/button_013] Non
 [common_widget/loading_001] Chargement...
 [common_widget/loading_002] Allez !
 [common_widget/loading_003] Connexion...
@@ -12354,6 +12890,11 @@ la semaine a été validée !
 [common_widget/dialog_059] Nouvelles missions bingo disponibles !
 [common_widget/dialog_061] La session est terminée. Retour au
 Centre Pokémon...
+[common_widget/dialog_063] Augmente la puissance de la capacité Duo
+et des capacités de [Name:TrainerName ]
+& [Name:PokemonName ].
+[common_widget/dialog_065] Si les capacités du Duo sont déjà au N. 5, cet objet
+devient un Duo-Ticket du même nombre de ★.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] N.
 [common_widget/trainer_detail_004] MAX
@@ -12419,6 +12960,11 @@ N. MAX
 [common_widget/cutin_trainer_014] Passer toutes les scènes
 [common_widget/cutin_trainer_015] Vous pouvez maintenant former un Duo
 avec [Name:PokemonName ] !
+[common_widget/cutin_trainer_016] Capacités
+renforcées !
+[common_widget/cutin_trainer_017] Niveau des
+capacités max !
+[common_widget/cutin_trainer_018] Niveau des capacités augmenté !
 [common_widget/balloon_menu_001] AUTO
 [common_widget/balloon_menu_002] Passer
 [common_widget/balloon_menu_003] Voulez-vous passer la conversation ?
@@ -12470,6 +13016,7 @@ a évolué en
 [common_widget/sort_016] Catégorie
 [common_widget/sort_021] Nº
 [common_widget/sort_022] N. max. débloqué
+[common_widget/sort_023] Niveau des capacités
 [common_widget/cutin_001] Niveau ↑ !
 [common_widget/cutin_002] N.
 [common_widget/cutin_003] Potentiel augmenté !
@@ -12542,6 +13089,12 @@ au chapitre 7.
 dans le chapitre 2.
 [common_widget/release_009] Terminez « Battons la Team Break ! »
 dans le chapitre 2.
+[common_widget/egg_hatched_cutin_001] Oh ?!
+[common_widget/egg_hatched_cutin_002] Un [Name:PokemonName ] est
+sorti de l'Œuf !
+[common_widget/egg_detail_001] Donnez-lui un surnom !
+[common_widget/egg_detail_002] Vous aurez la possibilité de changer le surnom plus tard.
+[common_widget/egg_detail_003] Saisir le surnom
 
 ===========
 common_widget_it.lsd
@@ -12570,6 +13123,9 @@ common_widget_it.lsd
 [common_widget/cell_036] Ne hai
 [common_widget/cell_037] Numero
 [common_widget/cell_039] Costo
+[common_widget/cell_040] ×[Digit:3digits ]-[Digit:3digits Idx="1" ]
+[common_widget/cell_041] Scrigno
+[common_widget/cell_042] ×[Digit:3digits ]
 [common_widget/button_001] Ok
 [common_widget/button_002] Sì
 [common_widget/button_003] No
@@ -12581,6 +13137,8 @@ common_widget_it.lsd
 [common_widget/button_009] Indietro
 [common_widget/button_010] Lotta di nuovo
 [common_widget/button_011] Missioni
+[common_widget/button_012] On
+[common_widget/button_013] Off
 [common_widget/loading_001] Caricamento
 [common_widget/loading_002] VIA!
 [common_widget/loading_003] Connessione...
@@ -12678,6 +13236,12 @@ Scegli quali missioni affrontare questa settimana nella schermata del tris.
 [common_widget/dialog_059] Hai sbloccato nuove missioni tris!
 [common_widget/dialog_061] Periodo terminato.
 Ritorno al Centro Pokémon.
+[common_widget/dialog_063] Aumenta la potenza dell'Unimossa
+e delle mosse di
+[Name:TrainerName ] &
+[Name:PokemonName ]
+[common_widget/dialog_065] Se il livello delle mosse è 5, le Unità identiche diventano
+Uniticket corrispondenti al numero di ★ iniziale.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] L.
 [common_widget/trainer_detail_004] MAX
@@ -12742,6 +13306,10 @@ Unimossa
 [common_widget/cutin_trainer_014] Salta tutte le animazioni
 [common_widget/cutin_trainer_015] Ora puoi formare un'Unità con
 [Name:PokemonName ]!
+[common_widget/cutin_trainer_016] Nuovo livello mosse!
+[common_widget/cutin_trainer_017] Livello mosse
+al massimo!
+[common_widget/cutin_trainer_018] Il livello mosse è aumentato!
 [common_widget/balloon_menu_001] AUTO
 [common_widget/balloon_menu_002] Salta
 [common_widget/balloon_menu_003] Vuoi saltare il dialogo?
@@ -12792,6 +13360,7 @@ dell'evoluzione?
 [common_widget/sort_016] Categoria
 [common_widget/sort_021] Nº 
 [common_widget/sort_022] L. massimi sbloccati
+[common_widget/sort_023] Livello mosse
 [common_widget/cutin_001] NUOVO LIVELLO!
 [common_widget/cutin_002] L. 
 [common_widget/cutin_003] AUMENTO ★!
@@ -12856,6 +13425,11 @@ della storia.
 [common_widget/dialog_release_010] Si sblocca completando "Sconfiggi il Team Break!"
 del capitolo 2.
 [common_widget/release_009] Completa "Sconfiggi il Team Break!" del capitolo 2.
+[common_widget/egg_hatched_cutin_001] Oh!
+[common_widget/egg_hatched_cutin_002] Dall'Uovo è nato [Name:PokemonName ]!
+[common_widget/egg_detail_001] Inserisci un nome.
+[common_widget/egg_detail_002] Il nome può essere cambiato più tardi.
+[common_widget/egg_detail_003] Nome Pokémon
 
 ===========
 common_widget_ja.lsd
@@ -12884,6 +13458,9 @@ common_widget_ja.lsd
 [common_widget/cell_036] 所持
 [common_widget/cell_037] 個数
 [common_widget/cell_039] コスト
+[common_widget/cell_040] ×[Digit:3digits ]-[Digit:3digits Idx="1" ]
+[common_widget/cell_041] STEP
+[common_widget/cell_042] ×[Digit:3digits ]
 [common_widget/button_001] OK
 [common_widget/button_002] はい
 [common_widget/button_003] いいえ
@@ -12895,6 +13472,8 @@ common_widget_ja.lsd
 [common_widget/button_009] もどる
 [common_widget/button_010] もういちどバトル
 [common_widget/button_011] ミッションへ
+[common_widget/button_012] ON
+[common_widget/button_013] OFF
 [common_widget/loading_001] Loading...
 [common_widget/loading_002] 出発
 [common_widget/loading_003] 通信中……
@@ -12992,6 +13571,10 @@ common_widget_ja.lsd
 解放されました！
 [common_widget/dialog_061] 開催期間が終了したので
 ポケモンセンターに戻ります
+[common_widget/dialog_063] [Name:TrainerName ]＆[Name:PokemonName ]の
+バディーズわざと　わざの威力が上昇します
+[common_widget/dialog_065] ※わざレベルが５の場合　元の★の数の
+のびしろに変わります
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -13059,6 +13642,9 @@ Lv.MAX
 [common_widget/cutin_trainer_014] 演出を全てスキップする
 [common_widget/cutin_trainer_015] 新しく[Name:PokemonName ]と
 バディを組めるようになりました！
+[common_widget/cutin_trainer_016] わざレベルアップ！
+[common_widget/cutin_trainer_017] わざレベルMAX！
+[common_widget/cutin_trainer_018] わざレベルが上昇しました！
 [common_widget/balloon_menu_001] AUTO
 [common_widget/balloon_menu_002] スキップ
 [common_widget/balloon_menu_003] お話をスキップしますか？
@@ -13109,6 +13695,7 @@ Lv.MAX
 [common_widget/sort_016] 種類
 [common_widget/sort_021] No.
 [common_widget/sort_022] 上限突破
+[common_widget/sort_023] わざレベル
 [common_widget/cutin_001] レベルアップ!
 [common_widget/cutin_002] Lv.
 [common_widget/cutin_003] ★アップ!
@@ -13186,6 +13773,12 @@ HARDクリアで解放
 クリアで解放されます
 [common_widget/release_009] メインストーリー第２章「ブレイク団を倒せ！」
 クリアで解放
+[common_widget/egg_hatched_cutin_001] おや？
+[common_widget/egg_hatched_cutin_002] タマゴが　かえって
+[Name:PokemonName ]が　うまれた！
+[common_widget/egg_detail_001] ニックネームを入力してください
+[common_widget/egg_detail_002] ※ニックネームはあとから変更できます
+[common_widget/egg_detail_003] ニックネーム入力
 
 ===========
 common_widget_ko.lsd
@@ -13214,6 +13807,9 @@ common_widget_ko.lsd
 [common_widget/cell_036] 보유
 [common_widget/cell_037] 개수
 [common_widget/cell_039] 필요
+[common_widget/cell_040] ×[Digit:3digits ]-[Digit:3digits Idx="1" ]
+[common_widget/cell_041] STEP
+[common_widget/cell_042] ×[Digit:3digits ]
 [common_widget/button_001] OK
 [common_widget/button_002] 네
 [common_widget/button_003] 아니요
@@ -13225,6 +13821,8 @@ common_widget_ko.lsd
 [common_widget/button_009] 돌아가기
 [common_widget/button_010] 한번 더 출발
 [common_widget/button_011] 미션으로
+[common_widget/button_012] ON
+[common_widget/button_013] OFF
 [common_widget/loading_001] Loading...
 [common_widget/loading_002] 출발
 [common_widget/loading_003] 통신 중...
@@ -13321,6 +13919,10 @@ common_widget_ko.lsd
 해방되었습니다!
 [common_widget/dialog_061] 개최 기간이 종료되어
 포켓몬센터로 돌아갑니다
+[common_widget/dialog_063] [Name:TrainerName ]&[Name:PokemonName ]의
+버디즈기술과 기술의 위력이 상승합니다
+[common_widget/dialog_065] ※기술 레벨이 5인 경우에는
+원래 ★의 수의 잠재력으로 바뀝니다.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -13387,6 +13989,9 @@ Lv.MAX
 [common_widget/cutin_trainer_014] 모든 연출을 건너뛴다
 [common_widget/cutin_trainer_015] 새롭게 [Name:PokemonName ][Kor:Particle char="to" ]
 버디를 이룰 수 있게 되었습니다!
+[common_widget/cutin_trainer_016] 기술 레벨업!
+[common_widget/cutin_trainer_017] 기술 레벨MAX!
+[common_widget/cutin_trainer_018] 기술 레벨이 상승했습니다!
 [common_widget/balloon_menu_001] AUTO
 [common_widget/balloon_menu_002] 건너뛰기
 [common_widget/balloon_menu_003] 대화를 건너뛰겠습니까?
@@ -13437,6 +14042,7 @@ Lv.MAX
 [common_widget/sort_016] 종류
 [common_widget/sort_021] No.
 [common_widget/sort_022] 상한돌파
+[common_widget/sort_023] 기술 레벨
 [common_widget/cutin_001] 레벨업!
 [common_widget/cutin_002] Lv.
 [common_widget/cutin_003] ★상승!
@@ -13511,6 +14117,12 @@ Lv.MAX
 클리어하면 해방됩니다
 [common_widget/release_009] 메인 스토리 제2장 "브레이크단을 쓰러뜨려라!"를
 클리어하면 해방
+[common_widget/egg_hatched_cutin_001] 어라?
+[common_widget/egg_hatched_cutin_002] 알이 부화해서
+[Name:PokemonName ][Kor:Particle char="ga" ] 태어났다!
+[common_widget/egg_detail_001] 닉네임을 입력해 주십시오
+[common_widget/egg_detail_002] ※닉네임은 나중에 변경할 수 있습니다
+[common_widget/egg_detail_003] 닉네임 입력
 
 ===========
 common_widget_zh-TW.lsd
@@ -13540,6 +14152,9 @@ common_widget_zh-TW.lsd
 [common_widget/cell_036] 持有
 [common_widget/cell_037] 個數
 [common_widget/cell_039] 需消耗
+[common_widget/cell_040] ×[Digit:3digits ]-[Digit:3digits Idx="1" ]
+[common_widget/cell_041] STEP
+[common_widget/cell_042] ×[Digit:3digits ]
 [common_widget/button_001] OK
 [common_widget/button_002] 是
 [common_widget/button_003] 否
@@ -13551,6 +14166,8 @@ common_widget_zh-TW.lsd
 [common_widget/button_009] 返回
 [common_widget/button_010] 再次對戰
 [common_widget/button_011] 前往任務
+[common_widget/button_012] ON
+[common_widget/button_013] OFF
 [common_widget/loading_001] Loading...
 [common_widget/loading_002] 出發
 [common_widget/loading_003] 正在連線……
@@ -13635,6 +14252,10 @@ common_widget_zh-TW.lsd
 [common_widget/dialog_059] 新的賓果任務開放了！
 [common_widget/dialog_061] 開放期間已結束
 即將回到寶可夢中心
+[common_widget/dialog_063] 可提升[Name:TrainerName ]＆[Name:PokemonName ]的
+拍組招式和招式威力
+[common_widget/dialog_065] ※當招式已達到等級５時
+會變成與初始★數相同★數的成長潛力
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -13700,6 +14321,9 @@ Lv.MAX
 [common_widget/cutin_trainer_012] [Name:ClassName ]
 [common_widget/cutin_trainer_014] 跳過所有演出效果
 [common_widget/cutin_trainer_015] 可以和[Name:PokemonName ]結為拍組了！
+[common_widget/cutin_trainer_016] 招式等級提升！
+[common_widget/cutin_trainer_017] 招式等級MAX！
+[common_widget/cutin_trainer_018] 招式等級提升了！
 [common_widget/balloon_menu_001] AUTO
 [common_widget/balloon_menu_002] 跳過
 [common_widget/balloon_menu_003] 要跳過對話嗎？
@@ -13750,6 +14374,7 @@ Lv.MAX
 [common_widget/sort_016] 種類
 [common_widget/sort_021] No.
 [common_widget/sort_022] 突破上限
+[common_widget/sort_023] 招式等級
 [common_widget/cutin_001] 升級！
 [common_widget/cutin_002] Lv.
 [common_widget/cutin_003] ★提升！
@@ -13813,6 +14438,11 @@ Lv.MAX
 「打倒破壞隊！」即可開放
 [common_widget/release_009] 開放條件：
 成功過關主線劇情第２章「打倒破壞隊！」
+[common_widget/egg_hatched_cutin_001] ……咦？
+[common_widget/egg_hatched_cutin_002] 蛋孵化成[Name:PokemonName ]了！
+[common_widget/egg_detail_001] 請輸入暱稱
+[common_widget/egg_detail_002] ※暱稱以後仍可更改
+[common_widget/egg_detail_003] 輸入暱稱
 
 ===========
 error_dialog_contents_de.lsd
@@ -14044,6 +14674,44 @@ Die App wird geschlossen.
 Nintendo-Account eingeloggt.
 
 Die App wird geschlossen.
+[error_dialog_contents/31901] Verknüpfung mit dieser Apple-ID
+fehlgeschlagen.
+
+Diese Apple-ID ist gegenwärtig
+mit anderen Speicherdaten verknüpft.
+[error_dialog_contents/31902] Apple-ID-Verknüpfungsinformationen
+können nicht überprüft werden.
+
+Bitte verwende eine verknüpfte 
+Apple-ID.
+[error_dialog_contents/31903] Apple-ID-Verknüpfungsinformationen
+können nicht überprüft werden.
+
+Es wird erneut versucht, eine
+Verknüpfung zur Apple-ID herzustellen.
+[error_dialog_contents/31904] Die Verknüpfung mit der Apple-ID ist
+fehlgeschlagen.
+
+Noch mal versuchen?
+[error_dialog_contents/31905] Mit dieser Apple-ID wurden keine
+Speicherdaten verknüpft. Starte den
+Transfer erneut, nachdem du im
+Poryfon-Menü unter „Account“ eine
+Apple-ID verknüpft hast.
+[error_dialog_contents/31906] Beim Verknüpfen des Accounts ist ein
+Fehler aufgetreten. Das Spiel wird neu
+gestartet.
+[error_dialog_contents/30212] Mit diesem Nintendo-Account wurden
+keine Speicherdaten verknüpft. Starte
+den Transfer erneut, nachdem du im
+Poryfon-Menü unter „Account“ einen
+Nintendo-Account verknüpft hast.
+[error_dialog_contents/30109] <attr font='fallback'>법정대리인의 동의 내용에 변경이 있습니다
+계속해서 게임을 플레이하기 위해서는
+법정대리인의 승인이 필요합니다
+
+게임을 다시 시작합니다.</attr>
+[error_dialog_contents/30110] <attr font='fallback'>승인 의뢰에 실패하였습니다.</attr>
 
 ===========
 error_dialog_contents_en.lsd
@@ -14214,8 +14882,46 @@ your time settings. Closing the app.
 Please delete and reinstall the app.
 Closing the app.
 [error_dialog_contents/30103_2] Another device is currently logged in
-using this Nintendo Account.
+using this account.
 Closing the app.
+[error_dialog_contents/31901] Link to Apple ID has failed.
+
+This Apple ID is currently linked
+to a different set of save data.
+[error_dialog_contents/31902] Unable to verify the link information
+for this Apple ID.
+
+Please use a linked Apple ID.
+[error_dialog_contents/31903] Unable to verify the link information
+for this Apple ID.
+
+Attempting to link your Apple ID again.
+[error_dialog_contents/31904] Link to Apple ID has failed.
+
+Attempt to link again?
+[error_dialog_contents/31905] There is no existing save data linked to
+this Apple ID.
+
+Please go to Account on your Poryphone
+menu and try transferring again using
+an Apple ID with linked save data.
+[error_dialog_contents/31906] An error occurred while linking to
+your account.
+
+Restarting the game.
+[error_dialog_contents/30212] There is no existing save data linked to
+this Nintendo Account.
+
+Please go to Account on your
+Poryphone menu and try transferring
+again using a Nintendo Account with
+linked save data.
+[error_dialog_contents/30109] <attr font='fallback'>법정대리인의 동의 내용에 변경이 있습니다
+계속해서 게임을 플레이하기 위해서는
+법정대리인의 승인이 필요합니다
+
+게임을 다시 시작합니다.</attr>
+[error_dialog_contents/30110] <attr font='fallback'>승인 의뢰에 실패하였습니다.</attr>
 
 ===========
 error_dialog_contents_es.lsd
@@ -14410,8 +15116,44 @@ Desinstala la aplicación e instálala
 de nuevo.
 Se va a cerrar la aplicación.
 [error_dialog_contents/30103_2] Se ha iniciado sesión con esta cuenta
-Nintendo en otro dispositivo.
+en otro dispositivo.
 Se va a cerrar la aplicación.
+[error_dialog_contents/31901] Se ha producido un error al conectarse
+al ID de Apple.
+
+El ID de Apple ya está vinculado a
+otros datos de guardado.
+[error_dialog_contents/31902] No se ha podido establecer conexión
+con este ID de Apple.
+
+Usa un ID de Apple vinculado.
+[error_dialog_contents/31903] No se ha podido establecer conexión
+con este ID de Apple.
+
+Se va a intentar vincular de nuevo el
+ID de Apple.
+[error_dialog_contents/31904] Se ha producido un error al conectarse
+al ID de Apple.
+
+¿Quieres intentarlo de nuevo?
+[error_dialog_contents/31905] No existen datos de guardado
+vinculados a este ID de Apple.
+Accede a "Cuenta" en el Porygófono y
+prueba con un ID de Apple que tenga
+datos de guardado.
+[error_dialog_contents/31906] Se ha producido un error al vincular la
+cuenta. Se va a reiniciar el juego.
+[error_dialog_contents/30212] No existen datos de guardado
+vinculados a esta cuenta Nintendo.
+Accede a "Cuenta" en el Porygófono y
+prueba con una cuenta Nintendo que
+tenga datos de guardado.
+[error_dialog_contents/30109] <attr font='fallback'>법정대리인의 동의 내용에 변경이 있습니다
+계속해서 게임을 플레이하기 위해서는
+법정대리인의 승인이 필요합니다
+
+게임을 다시 시작합니다.</attr>
+[error_dialog_contents/30110] <attr font='fallback'>승인 의뢰에 실패하였습니다.</attr>
 
 ===========
 error_dialog_contents_fr.lsd
@@ -14600,9 +15342,48 @@ compte.
 Veuillez supprimer le jeu, puis le
 réinstaller.
 Fermeture du jeu.
-[error_dialog_contents/30103_2] Ce compte Nintendo est associé à
-un autre appareil.
+[error_dialog_contents/30103_2] Ce compte est associé à un autre
+appareil.
 Fermeture du jeu.
+[error_dialog_contents/31901] L'association à votre identifiant Apple
+a échoué.
+
+Cet identifiant Apple est déjà associé à
+d'autres données de sauvegarde.
+[error_dialog_contents/31902] Impossible de vérifier les informations
+relatives à l'association de l'identifiant
+Apple.
+
+Utilisez l'identifiant Appple associé.
+[error_dialog_contents/31903] Impossible de vérifier les informations
+relatives à l'association de l'identifiant
+Apple.
+Nouvelle tentative d'association à
+l'identifiant Apple.
+[error_dialog_contents/31904] L'association à votre identifiant Apple
+a échoué.
+
+Voulez-vous essayer à nouveau
+d'associer votre identifiant Apple ?
+[error_dialog_contents/31905] Aucune donnée de sauvegarde n'est
+associée à cet identifiant Apple.
+Sélectionnez « Compte » depuis le
+Porygophone et effectuez le transfert
+avec un identifiant Apple associé.
+[error_dialog_contents/31906] Une erreur est survenue pendant
+l'association au compte.
+Le jeu va redémarrer.
+[error_dialog_contents/30212] Aucune donnée de sauvegarde n'est
+associée à votre compte Nintendo.
+Sélectionnez « Compte » depuis le
+Porygophone et effectuez le transfert
+avec un compte Nintendo associé.
+[error_dialog_contents/30109] <attr font='fallback'>법정대리인의 동의 내용에 변경이 있습니다
+계속해서 게임을 플레이하기 위해서는
+법정대리인의 승인이 필요합니다
+
+게임을 다시 시작합니다.</attr>
+[error_dialog_contents/30110] <attr font='fallback'>승인 의뢰에 실패하였습니다.</attr>
 
 ===========
 error_dialog_contents_it.lsd
@@ -14805,9 +15586,42 @@ Elimina l'app e reinstallala.
 L'app verrà chiusa.
 [error_dialog_contents/30103_2] È stato usato un altro dispositivo
 per eseguire l'accesso con questo
-account Nintendo.
+account Nintendo. L'app verrà chiusa.
+[error_dialog_contents/31901] Collegamento all'ID Apple non riuscito.
 
-L'app verrà chiusa.
+Questo ID Apple è collegato a dati
+di salvataggio diversi.
+[error_dialog_contents/31902] Impossibile verificare le informazioni
+di collegamento dell'ID Apple.
+
+Utilizza un ID Apple già collegato.
+[error_dialog_contents/31903] Impossibile verificare le informazioni
+di collegamento dell'ID Apple.
+
+Il collegamento all'ID Apple verrà
+tentato di nuovo.
+[error_dialog_contents/31904] Collegamento all'ID Apple non riuscito.
+
+Vuoi provare di nuovo?
+[error_dialog_contents/31905] Non sono stati trovati dati
+di salvataggio collegati all'ID Apple.
+Seleziona "Gestione account" nel gioco
+ed effettua il trasferimento
+con un ID Apple già collegato.
+[error_dialog_contents/31906] Si è verificato un errore durante
+il collegamento dell'account.
+Il gioco verrà riavviato.
+[error_dialog_contents/30212] Non sono stati trovati dati
+di salvataggio collegati all'account
+Nintendo. Seleziona "Account"
+nel gioco ed effettua il trasferimento
+con un account Nintendo già collegato.
+[error_dialog_contents/30109] <attr font='fallback'>법정대리인의 동의 내용에 변경이 있습니다
+계속해서 게임을 플레이하기 위해서는
+법정대리인의 승인이 필요합니다
+
+게임을 다시 시작합니다.</attr>
+[error_dialog_contents/30110] <attr font='fallback'>승인 의뢰에 실패하였습니다.</attr>
 
 ===========
 error_dialog_contents_ja.lsd
@@ -15040,10 +15854,44 @@ error_dialog_contents_ja.lsd
 再インストールしてください
 
 アプリを終了します
-[error_dialog_contents/30103_2] このニンテンドーアカウントで
+[error_dialog_contents/30103_2] このアカウントで
 他の端末がログインしています
 
 アプリを終了します
+[error_dialog_contents/31901] Apple IDとの連携が失敗しました
+
+ご利用のApple IDは
+別のセーブデータと連携済みです
+[error_dialog_contents/31902] Apple IDの連携情報が確認できません
+
+連携済みのApple IDをお使いください
+[error_dialog_contents/31903] Apple IDの連携情報が確認できません
+
+Apple IDとの再連携を行います
+[error_dialog_contents/31904] Apple IDとの連携が失敗しました
+
+もう一度連携を行いますか？
+[error_dialog_contents/31905] Apple IDに連携されているセーブデータが
+存在しません
+
+ゲーム中の「アカウント管理」から連携した
+Apple IDで再度引き継ぎを行ってください
+[error_dialog_contents/31906] アカウントの連携中に
+エラーが発生しました
+
+ゲームを再起動します
+[error_dialog_contents/30212] ニンテンドーアカウントに連携されている
+セーブデータが存在しません
+
+ゲーム中の「アカウント管理」から連携した
+ニンテンドーアカウントで再度引き継ぎを
+行ってください
+[error_dialog_contents/30109] 法定代理人の同意内容に更新があります
+ひきつづきゲームをプレイするには
+法定代理人の承認が必要です
+
+ゲームを再起動します
+[error_dialog_contents/30110] 承認依頼に失敗しました
 
 ===========
 error_dialog_contents_ko.lsd
@@ -15245,16 +16093,46 @@ It was detected that the clock on the main unit was significantly different from
 
 앱을 종료합니다
 [error_dialog_contents/30105] 이 어카운트의
-세이브 데이터가 없습니다
+저장 데이터가 없습니다
 
 앱을 삭제하고
 다시 설치하여 주십시오
 
 앱을 종료합니다
-[error_dialog_contents/30103_2] 이 닌텐도 어카운트로
+[error_dialog_contents/30103_2] 이 어카운트로
 다른 단말기에서 로그인 중입니다
 
 앱을 종료합니다
+[error_dialog_contents/31901] Apple ID와의 연동을 실패했습니다
+
+이용 중이신 Apple ID는
+다른 저장 데이터와 연동되어 있습니다
+[error_dialog_contents/31902] Apple ID의 연동 정보를 확인할 수 없습니다
+
+연동이 완료된 Apple ID를 사용하여 주십시오
+[error_dialog_contents/31903] Apple ID의 연동 정보를 확인할 수 없습니다
+
+Apple ID와의 연동을 다시 진행합니다
+[error_dialog_contents/31904] Apple ID와의 연동에 실패하였습니다
+
+다시 연동을 진행하겠습니까?
+[error_dialog_contents/31905] Apple ID에 연동된 저장 데이터가
+존재하지 않습니다
+게임 내의 "어카운트 관리"에서 연동한
+Apple ID로 다시 이어받기를 진행하여 주십시오
+[error_dialog_contents/31906] 어카운트 연동 중에
+에러가 발생했습니다
+게임을 다시 시작합니다
+[error_dialog_contents/30212] 닌텐도 어카운트에 연동된 저장 데이터가
+존재하지 않습니다
+게임 내의 "어카운트 관리"에서 연동한
+Apple ID로 다시 이어받기를 진행하여 주십시오
+[error_dialog_contents/30109] 법정대리인의 동의 내용에 변경이 있습니다
+계속해서 게임을 플레이하기 위해서는
+법정대리인의 승인이 필요합니다
+
+게임을 다시 시작합니다.
+[error_dialog_contents/30110] 승인 의뢰에 실패하였습니다.
 
 ===========
 error_dialog_contents_zh-TW.lsd
@@ -15430,10 +16308,40 @@ Nintendo Account使用條款
 重新安裝程式
 
 應用程式即將關閉
-[error_dialog_contents/30103_2] 此Nintendo Account
-已在其他裝置登入遊戲
+[error_dialog_contents/30103_2] 此帳號已在其他裝置登入遊戲
 
 應用程式即將關閉
+[error_dialog_contents/31901] 和Apple ID連動失敗
+
+使用的Apple ID
+已和其他的儲存資料連動
+[error_dialog_contents/31902] 無法確認Apple ID的連動資訊
+
+請使用已完成連動的Apple ID
+[error_dialog_contents/31903] 無法確認Apple ID的連動資訊
+
+將和Apple ID重新進行連動
+[error_dialog_contents/31904] 和Apple ID連動失敗
+
+要再連動一次嗎？
+[error_dialog_contents/31905] 沒有和Apple ID連動的儲存資料
+
+請使用在遊戲的「帳號管理」中
+曾經完成連動的Apple ID
+再次進行資料轉移
+[error_dialog_contents/31906] 帳號連動時發生錯誤
+遊戲將重新啟動
+[error_dialog_contents/30212] 沒有和Nintendo Account連動的儲存資料
+
+請使用在遊戲的「帳號管理」中
+曾經完成連動的Nintendo Account
+再次進行資料轉移
+[error_dialog_contents/30109] <attr font='fallback'>법정대리인의 동의 내용에 변경이 있습니다
+계속해서 게임을 플레이하기 위해서는
+법정대리인의 승인이 필요합니다
+
+게임을 다시 시작합니다.</attr>
+[error_dialog_contents/30110] <attr font='fallback'>승인 의뢰에 실패하였습니다.</attr>
 
 ===========
 home_de.lsd
@@ -15542,6 +16450,9 @@ kann nicht aufgelöst oder entfernt
 werden.
 [home/quest_list_090] Du kannst nicht aufbrechen, weil du
 nicht drei Teams ausgewählt hast.
+[home/quest_list_091] Boxsuche
+[home/quest_list_092] Schnappe dir über die Boxsuche
+„[Name:QuestTitle ]“!
 [home/quest_list_093] freigeschaltet!
 [home/quest_detail_003] Empfohlener Typ
 [home/quest_detail_005] Details
@@ -15611,12 +16522,17 @@ um aufbrechen zu können.
 [home/quest_detail_073] Letzter Kampf (Details)
 [home/quest_detail_074] Der Event ist beendet. Du kannst nicht
 weiter auf der Karte fortschreiten.
+[home/quest_detail_075] Belohnung
+[home/quest_detail_076] Hinweis: Belohnungen sind wahrscheinlichkeitsabhängig. Es kann auch vorkommen, dass es keine Belohnung gibt.
 [home/home_001] Laden
 [home/home_002] Abenteuer
 [home/home_003] Team
 [home/home_007] Zeitraum abgelaufen
 [home/home_016] Ein Legenden-Event läuft!
 [home/home_017] Ein PokéFair läuft!
+[home/home_019] Jetzt mehr Versuche!
+[home/home_020] Ein Legenden-Event läuft!
+[home/home_021] PokéFestival!
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missionen
 [home/global_menu_008] Freunde
@@ -15751,7 +16667,7 @@ receive XP or rewards.
 [home/quest_list_049] [Digit:2digits ] remaining
 [home/quest_list_050] Confirm
 [home/quest_list_051] Pokémon will evolve upon completing
-this adventure. This cannot be undone.
+this area. This cannot be undone.
 
 Are you sure you want to continue?
 [home/quest_list_052] Single-Player
@@ -15763,8 +16679,8 @@ Are you sure you want to continue?
 [home/quest_list_060] Pokémon Masters League:
 New chapter
 unlocked!
-[home/quest_list_061] BATTLES
-[home/quest_list_062] STAGES
+[home/quest_list_061] Battles
+[home/quest_list_062] Stages
 [home/quest_list_064] Not Yet Evolved
 [home/quest_list_067] Party Number Search
 [home/quest_list_068] ×[Digit:1digit ]
@@ -15777,8 +16693,8 @@ unlocked!
 [home/quest_list_073] Hall [Digit:6digits ]
 [home/quest_list_074] COMPLETE
 [home/quest_list_075] Recover
-[home/quest_list_076] BATTLE
-[home/quest_list_077] STAGE
+[home/quest_list_076] Battle
+[home/quest_list_077] Stage
 [home/quest_list_078]   Put your sync pairs’ skills to the test!
 [home/quest_list_079] To unlock, complete [Name:QuestGroupTitle ],
 [Name:QuestTitle ]
@@ -15802,6 +16718,9 @@ than one team. Please edit your teams.
 [home/quest_list_088] New Difficulty
 [home/quest_list_089] Teams in the center position cannot be removed or disbanded.
 [home/quest_list_090] Your team is incomplete. All three team slots must be filled to continue.
+[home/quest_list_091] Prize Box
+[home/quest_list_092] Pull from the prize box to get
+[Name:QuestTitle ]!
 [home/quest_list_093] Unlocked!
 [home/quest_detail_003] Recommended Types
 [home/quest_detail_005] Area Details
@@ -15871,12 +16790,17 @@ To continue, collect more:
 [home/quest_detail_073] Final Battle Details
 [home/quest_detail_074] This event has ended. You can no
 longer progress through this map.
+[home/quest_detail_075] Battle Rewards
+[home/quest_detail_076] Note: Each battle reward has a drop rate. You may not receive all of the items shown.
 [home/home_001] Shop
 [home/home_002] Explore
 [home/home_003] Team
 [home/home_007] Attention!
-[home/home_016] Legendary event ongoing!
+[home/home_016] Legendary Event
 [home/home_017] Poké Fair
+[home/home_019] Extra Replays
+[home/home_020] Legendary Event
+[home/home_021] Poké Fair
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missions
 [home/global_menu_008] Friends
@@ -16066,6 +16990,9 @@ de [Name:QuestGroupTitle ].
 [home/quest_list_089] No puedes disolver el equipo
 de la posición central.
 [home/quest_list_090] Necesitas tres equipos para poder iniciar la aventura.
+[home/quest_list_091] Caja Búsqueda
+[home/quest_list_092] Obtén [Name:QuestTitle ]
+a través de la Caja Búsqueda.
 [home/quest_list_093] desbloqueada
 [home/quest_detail_003] Tipos recomendados
 [home/quest_detail_005] Detalles
@@ -16135,12 +17062,17 @@ máximo de veces.
 [home/quest_detail_073] Detalles combate final
 [home/quest_detail_074] El evento ha terminado. No puedes
 seguir avanzando por este mapa.
+[home/quest_detail_075] Botín
+[home/quest_detail_076] *Cada botín tiene una tasa de obtención, por lo que es posible que no obtengas todos los objetos, e incluso que no obtengas ninguno.
 [home/home_001] Tienda
 [home/home_002] Aventura
 [home/home_003] Equipo
 [home/home_007] Fecha límite rebasada
 [home/home_016] ¡Evento legendario en curso!
 [home/home_017] ¡Pokéfestival!
+[home/home_019] ¡Más intentos!
+[home/home_020] ¡Evento legendario!
+[home/home_021] ¡Pokéfestival!
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Misiones
 [home/global_menu_008] Amigos
@@ -16327,6 +17259,9 @@ Veuillez modifier vos équipes.
 peuvent pas être dissoutes ni retirées.
 [home/quest_list_090] Vous devez avoir trois équipes
 complètes avant de pouvoir continuer.
+[home/quest_list_091] Boîtes Surprise
+[home/quest_list_092] Obtenez via les Boîtes Surprise :
+[Name:QuestTitle ]
 [home/quest_list_093] débloquée !
 [home/quest_detail_003] Types conseillés
 [home/quest_detail_005] Infos
@@ -16395,12 +17330,17 @@ tous vos essais disponibles.
 [home/quest_detail_073] Infos (combat final)
 [home/quest_detail_074] Cet évènement est terminé. Vous ne
 pouvez plus progresser sur la carte.
+[home/quest_detail_075] Récomp. bonus
+[home/quest_detail_076] Le taux d'obtention des récompenses bonus est inférieur à 100 %. Il est donc possible de ne pas en obtenir.
 [home/home_001] Boutique
 [home/home_002] Aventure
 [home/home_003] Équipe
 [home/home_007] Pass expiré
 [home/home_016] Évènement légendaire !
 [home/home_017] Festival en cours !
+[home/home_019] Plus d'explorations !
+[home/home_020] Évènement légendaire !
+[home/home_021] Festival !
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missions
 [home/global_menu_008] Amis
@@ -16589,6 +17529,8 @@ in "[Name:QuestGroupTitle ]" in modalità [Name:SoloMulti ].
 la squadra centrale.
 [home/quest_list_090] Devi scegliere i componenti di tutte e
 tre le squadre per affrontare la sfida.
+[home/quest_list_091] Vai alla Scrignocerca
+[home/quest_list_092] Ottieni "[Name:QuestTitle ]" dalla Scrignocerca!
 [home/quest_list_093] sbloccata!
 [home/quest_detail_003] Tipi consigliati
 [home/quest_detail_005] Info area
@@ -16658,12 +17600,17 @@ Guida area.
 [home/quest_detail_073] Info lotta finale
 [home/quest_detail_074] L'evento è terminato, quindi non è più
 possibile proseguire sulla mappa.
+[home/quest_detail_075] Ricompensa lotta
+[home/quest_detail_076] L'ottenimento degli strumenti della ricompensa lotta si basa su probabilità variabili. È quindi possibile anche non ricevere alcuno strumento fra quelli mostrati.
 [home/home_001] Negozio
 [home/home_002] Avventura
 [home/home_003] Squadra
 [home/home_007] Tempo scaduto
 [home/home_016] Evento leggendario in corso!
 [home/home_017] Masterparty in corso!
+[home/home_019] Più tentativi disponibili
+[home/home_020] Evento leggendario in corso
+[home/home_021] Masterparty
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missioni
 [home/global_menu_008] Amici
@@ -16719,7 +17666,7 @@ per tutte le Unità? Consumerai:
 [Name:Item ] ×[Digit:1digit ]
 [home/quest_list_recovery_007] Utilizzi mosse
 ripristinati!
-[home/episode_event_001] Mappa episodio
+[home/episode_event_001] Mappa episodi
 [home/episode_event_002] Mettendo in squadra Unità specifiche,
 otterrai più Punti Movimento!
 [home/episode_event_003] Punti Movimento
@@ -16852,6 +17799,10 @@ Lv.[Digit:2digits ]で解放
 はずすことはできません
 [home/quest_list_090] 3チームが編成されていないため
 出発できません
+[home/quest_list_091] ボックスサーチへ
+[home/quest_list_092] ボックスサーチから獲得できる
+「[Name:QuestTitle ]」
+を入手しよう！
 [home/quest_list_093] 解放！
 [home/quest_detail_003] おすすめのタイプ
 [home/quest_detail_005] エリア詳細
@@ -16918,12 +17869,18 @@ Lv.[Digit:2digits ]で解放
 [home/quest_detail_073] 最終バトル詳細
 [home/quest_detail_074] イベント期間が終了したため
 マップを進めることができません
+[home/quest_detail_075] ドロップ報酬
+[home/quest_detail_076] ※ドロップ報酬は確率によって決まるため、
+どうぐがドロップしない場合があります
 [home/home_001] ショップ
 [home/home_002] ぼうけん
 [home/home_003] チーム
 [home/home_007] 期限切れ
 [home/home_016] 伝説ポケモンイベント開催中！
 [home/home_017] フェス開催中!
+[home/home_019] 挑戦回数アップ中
+[home/home_020] 伝説ポケモンイベント開催中
+[home/home_021] フェス開催中
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] ミッション
 [home/global_menu_008] ともだち
@@ -17118,6 +18075,10 @@ Lv.[Digit:2digits ]에서 해방
 제외할 수는 없습니다
 [home/quest_list_090] 세 팀이 편성되지 않았기 때문에
 출발할 수 없습니다
+[home/quest_list_091] 박스서치로
+[home/quest_list_092] 박스서치에서 획득할 수 있는
+"[Name:QuestTitle ]"[Kor:Particle char="wo" ]
+획득하자!
 [home/quest_list_093] 해방!
 [home/quest_detail_003] 추천타입
 [home/quest_detail_005] 에리어 상세
@@ -17183,12 +18144,18 @@ Lv.[Digit:2digits ]에서 해방
 [home/quest_detail_073] 최종 배틀 상세
 [home/quest_detail_074] 이벤트 기간이 종료되어
 맵을 이동할 수 없습니다
+[home/quest_detail_075] 드롭 보상
+[home/quest_detail_076] ※드롭 보상은 확률에 따라 정해지므로
+도구를 얻지 못할 수 있습니다
 [home/home_001] 숍
 [home/home_002] 모험
 [home/home_003] 팀
 [home/home_007] 기한종료
 [home/home_016] 전설 포켓몬 이벤트 개최 중!
 [home/home_017] 페스티벌 개최 중!
+[home/home_019] 도전 횟수 증가 중
+[home/home_020] 전설 포켓몬 이벤트 개최 중
+[home/home_021] 페스티벌 개최 중
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] 미션
 [home/global_menu_008] 친구
@@ -17382,6 +18349,9 @@ home_zh-TW.lsd
 [home/quest_list_089] 位於中鋒的隊伍無法解散或移除
 [home/quest_list_090] 尚未編制3組隊伍
 無法出發
+[home/quest_list_091] 前往開箱搜尋
+[home/quest_list_092] 從開箱搜尋來獲得
+「[Name:QuestTitle ]」吧！
 [home/quest_list_093] 開放！
 [home/quest_detail_003] 推薦屬性
 [home/quest_detail_005] 區域詳情
@@ -17445,12 +18415,17 @@ home_zh-TW.lsd
 [home/quest_detail_073] 最終對戰資訊
 [home/quest_detail_074] 活動期間已結束
 無法繼續前進
+[home/quest_detail_075] 掉落報酬
+[home/quest_detail_076] ※掉落報酬依機率而定，因此有時可能會沒有道具掉落。
 [home/home_001] 商店
 [home/home_002] 冒險
 [home/home_003] 隊伍
 [home/home_007] 已過期
 [home/home_016] 傳說的寶可夢活動現正舉辦中！
 [home/home_017] 盛典舉辦中
+[home/home_019] 挑戰次數增加中
+[home/home_020] 傳說的寶可夢活動現正舉辦中！
+[home/home_021] 盛典舉辦中
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] 任務
 [home/global_menu_008] 朋友
@@ -17907,6 +18882,9 @@ Ausgangszustand angezeigt.
 details
 [shop/scout_095] Chance auf 5★:
 [Digit:4digits ] %!
+[shop/scout_097] Tägliche Suche × 10
+[shop/scout_102] [Name:TrainerName ] & [Name:PokemonName ]
+haben Attacken-Level [Digit:1digit ] erreicht!
 [shop/deck_item_sale_001] Ausrüstungstausch
 [shop/deck_item_sale_002] Ausrüstung
 [shop/deck_item_sale_003] Filter
@@ -18128,7 +19106,7 @@ will be included during the game:
 • Trainer voice-over
 • Sync move name
 Note: Some Trainers may not have
-a voice.
+voice-over.
 [shop/scout_068] Do not show me this again.
 (Info can be found in FAQ.)
 [shop/scout_069] [Name:TrainerName ] and
@@ -18187,6 +19165,10 @@ base state.
 Details
 [shop/scout_095] [Digit:4digits ]% chance
 for 5★s!
+[shop/scout_097] Daily Scout ×10
+[shop/scout_102] [Name:TrainerName ]
+& [Name:PokemonName ]
+now have Lv. [Digit:1digit ] moves!
 [shop/deck_item_sale_001] Exchange Gear
 [shop/deck_item_sale_002] Gear
 [shop/deck_item_sale_003] Filter
@@ -18439,6 +19421,11 @@ en su estado inicial.
 los regalos
 [shop/scout_095] Probabilidad
 de 5★: [Digit:4digits ]%
+[shop/scout_097] 10 búsquedas diarias
+[shop/scout_102] El nivel de movimientos de
+[Name:TrainerName ] y
+[Name:PokemonName ]
+ha alcanzado el nivel [Digit:1digit ].
 [shop/deck_item_sale_001] Canjear accesorios
 [shop/deck_item_sale_002] Accesorios
 [shop/deck_item_sale_003] Filtrar
@@ -18672,6 +19659,11 @@ dans leur état initial.
 (détails)
 [shop/scout_095] Chances
 de 5★ : [Digit:4digits ] % !
+[shop/scout_097] 10 Appels Duo Journaliers
+[shop/scout_102] Les capacités de
+[Name:TrainerName ] &
+[Name:PokemonName ] sont
+passées au N. [Digit:1digit ].
 [shop/deck_item_sale_001] Échanger équipement
 [shop/deck_item_sale_002] Équipement
 [shop/deck_item_sale_003] Filtrer
@@ -18986,6 +19978,8 @@ I Pokémon con un asterisco dopo il nome, visualizzato nel tasso di comparsa del
 regali
 [shop/scout_095] Probabilità di 5★:
 [Digit:4digits ]%!
+[shop/scout_097] Unicerca giornaliera ×10
+[shop/scout_102] Il livello delle mosse di [Name:TrainerName ] & [Name:PokemonName ] è salito a [Digit:1digit ].
 [shop/deck_item_sale_001] Scambio accessori
 [shop/deck_item_sale_002] Accessori
 [shop/deck_item_sale_003] Filtra
@@ -19297,6 +20291,11 @@ Lv.[Digit:1digit ]になりました
 詳細
 [shop/scout_095] ★5確率
 [Digit:4digits ]％!
+[shop/scout_097] 10連デイリーサーチ
+[shop/scout_102] [Name:TrainerName ]＆
+[Name:PokemonName ]の
+わざレベルが
+Lv.[Digit:1digit ]になりました
 [shop/deck_item_sale_001] 装備売却
 [shop/deck_item_sale_002] 装備
 [shop/deck_item_sale_003] フィルター
@@ -19621,6 +20620,11 @@ Lv.[Digit:1digit ][Kor:Particle char="ga" ] 되었습니다
 상세 내용
 [shop/scout_095] ★5 확률
 [Digit:4digits ]%!
+[shop/scout_097] 10연속 일일서치
+[shop/scout_102] [Name:TrainerName ]＆
+[Name:PokemonName ]의
+기술 레벨이
+Lv.[Digit:1digit ][Kor:Particle char="ga" ] 되었습니다
 [shop/deck_item_sale_001] 장비 판매
 [shop/deck_item_sale_002] 장비
 [shop/deck_item_sale_003] 필터
@@ -19902,6 +20906,9 @@ shop_zh-TW.lsd
 [shop/scout_094] 禮物內容
 [shop/scout_095] ★5機率
 [Digit:4digits ]％！
+[shop/scout_097] 連續10次每日搜尋
+[shop/scout_102] [Name:TrainerName ]＆[Name:PokemonName ]
+的招式等級提升至Lv.[Digit:1digit ]了！
 [shop/deck_item_sale_001] 出售裝備
 [shop/deck_item_sale_002] 裝備
 [shop/deck_item_sale_003] 篩選
@@ -20310,6 +21317,56 @@ während du das Spiel spielst.
 Wir empfehlen für den Download eine
 WLAN-Verbindung.
 Download-Größe: [Digit:3digits ] MB
+[title/title_126] Speicherdatentransfer
+[title/title_127] Du kannst deine Speicherdaten
+übertragen, wenn du die verknüpfte
+ID bestätigst.
+
+Das geht jedoch nur, wenn du die App
+zum ersten Mal startest.
+[title/title_128] ID bestätigen
+[title/title_129] Verknüpfe einen
+Nintendo-Account
+[title/title_130] Was ist ein Nintendo-Account?
+[title/title_131] Weiter ohne
+Datentransfer
+[title/title_132] Speicherdaten können nur beim ersten
+Starten der App übertragen werden.
+
+Möchtest du Speicherdaten danach
+übertragen, installiere die App bitte
+erneut.
+[title/title_133] Hinweis: Es ist nicht möglich, die Speicherdaten mehrerer
+Spielstände mit dem gleichen Nintendo-Account oder der
+gleichen Apple-ID zu verknüpfen.
+[title/title_134] Hinweis: Es ist nicht möglich, die Speicherdaten mehrerer
+Spielstände mit dem gleichen Nintendo-Account zu 
+verknüpfen.
+[title/title_135] Deine gesicherten Spieldaten wurden
+erfolgreich von deiner Apple-ID auf
+dieses Gerät übertragen.
+
+Bitte starte die App neu, um mit
+diesen Spieldaten zu spielen.
+[title/title_136] Account verwalten
+[title/title_137] Die verwendeten Speicherdaten sind
+mit einem Nintendo-Account verknüpft.
+
+Bitte verknüpfe diesen
+Nintendo-Account erneut.
+[title/title_138] Account
+[title/title_139] Wenn du deine Speicherdaten mit einem
+Account verknüpfst, wird dadurch eine
+Sicherheitskopie erstellt.
+[title/title_140] Verknüpfung zur Apple-ID
+abgeschlossen.
+[title/title_141] Deine Speicherdaten wurden mit den folgenden
+Accounts verknüpft:
+[title/title_142] • Nintendo-Account
+[title/title_143] • Apple-ID
+[title/title_144] Nintendo-Account verwalten
+[title/title_145] Daten von einem
+Nintendo-Account übertragen
 [title/assetdl_004] 翻訳不要
 [title/assetdl_006] 翻訳不要
 [title/assetdl_007] 翻訳不要
@@ -20373,6 +21430,97 @@ Danke!
 [title/push_001] Pokémon Masters
 [title/push_002] Adventure is waiting for you on Pasio. Log in now!
 [title/push_003] Notification
+[title/egg_001] Ich wähle dieses Ei!
+[title/egg_002] Entscheidest du dich für dieses Ei?
+[title/egg_003] Du entscheidest dich für ein
+[Name:PokemonName ]-Ei!
+[title/egg_004] Man kann schon etwas hören!
+Es wird wohl bald schlüpfen!
+[title/egg_005] Kehre ins Pokémon-Center zurück und
+bringe es Professor Daisy!
+[title/egg_007] Entscheidest du dich für das
+[Name:PokemonName ]-Ei?
+[title/egg_008] [Name:PokemonName ]-Ei
+[title/approval_001] 토큰 발행에 대해서
+[title/approval_002] 만 14세 미만의 아동인 유저가 플레이를 하기 위해서는 부모님 등 법정대리인의 동의가 필요합니다. 아동이 플레이 하는 것을 허가할 경우, 개인정보처리방침을 확인하여 다음의 순서대로 승인을 진행해 주세요.
+
+①토큰 발행 버튼을 눌러서, 표시된 토큰을 아동에게 전달해 주세요.
+②승인 대기/승인 완료 ID 일람에서 아동이 보낸 승인 의뢰를 승인해 주세요.
+[title/approval_003] 개인정보처리방침
+[title/approval_004] 토큰을 발행하지 않고 진행한다.
+[title/approval_005] 토큰을 발행한다.
+[title/approval_006] <attr font='fallback'>토큰 발행 / 승인</attr>
+[title/approval_007] 승인 대기 / 승인 완료 ID 일람
+[title/approval_008] <attr font='fallback'>돌아가기</attr>
+[title/approval_009] 토큰 발행
+[title/approval_010] 토큰
+[title/approval_011] 아동에게 토큰을 전달해 주세요.
+[title/approval_013] 유효기한
+[Name:DateTime ]
+[title/approval_014] <attr font='fallback'>닫기</attr>
+[title/approval_015] 토큰 입력
+[title/approval_016] 만 14세 미만의 아동인 유저가 플레이를 하기 위해서는 부모님 등 법정대리인의 동의가 필요합니다.
+부모님 등 법정대리인으로 하여금 Pokémon Masters 앱을 다운로드하게 하여 토큰을 발행하도록 해주세요. 
+발행된 토큰을 입력 다이얼로그에 입력하고 승인의뢰 버튼을 눌러 주세요. 
+승인이 성공하면 게임을 계속해서 플레이할 수 있습니다.
+[title/approval_017] 승인 의뢰
+[title/approval_018] <attr font='fallback'>승인 상황 확인</attr>
+[title/approval_019] <attr font='fallback'>승인의뢰성공</attr>
+[title/approval_020] <attr font='fallback'>승인 의뢰에 성공하였습니다.</attr>
+[title/approval_023] <attr font='fallback'>승인 의뢰 일시
+[Name:DateTime ]
+ 
+현재 승인 의뢰 중입니다. 
+ 
+상황을 갱신하려면 다시 승인 상황 확인 버튼을 눌러 주세요. 
+
+부모님 등 법정대리인이 승인하면 플레이를 할 수 있습니다. 
+ 
+부모님 등 법정대리인이 승인을 하기 위해서는 
+토큰 발행/승인 화면 내
+승인 대기/승인 완료 ID 일람 버튼을 눌러 승인 대기 화면으로 이동하여 
+당신이 송신한 ID 옆의"확인" 버튼을 눌러 확인화면 내의 "승인"을 누르도록 하세요.</attr>
+[title/approval_024] <attr font='fallback'>현재 승인 의뢰는 없습니다. 
+승인 의뢰는 토큰 입력 화면에서 할 수 있습니다. 
+이미 승인 의뢰를 한 경우에는
+다시 승인 상황 확인 버튼을 눌러 표시를 갱신해 주세요.</attr>
+[title/approval_025] <attr font='fallback'>승인 의뢰 일시
+[Name:DateTime ]
+ 
+승인이 거부되었습니다.  
+ 
+플레이를 계속하고자 할 경우,  
+다시 한 번 부모님 등 법정대리인으로 하여금 토큰을  
+발행하도록 하여 토큰 입력 화면에서  
+승인 의뢰를 해 주세요.</attr>
+[title/approval_026] <attr font='fallback'>승인 의뢰 일시
+[Name:DateTime ]
+ 
+승인이 허가되었습니다.  
+계속해서 플레이를 즐겨 주세요.</attr>
+[title/approval_027] 승인 의뢰중입니다
+승인 상황을 확인해 주세요
+[title/approval_028] 승인 대기 / 승인 완료 ID
+[title/approval_029] 승인 대기
+[title/approval_030] 승인 완료
+[title/approval_031] <attr font='fallback'>확인</attr>
+[title/approval_032] 개인정보의 수집・이용에 대해서
+[title/approval_033] 승인은 개인정보의 수집・이용에 대해서에 동의하실 필요가 있습니다.
+[title/approval_034] 개인정보의 수집・이용에 대해서를 읽고 이해한 후 동의하였습니다.
+[title/approval_035] <attr font='fallback'>거부</attr>
+[title/approval_036] <attr font='fallback'>승인</attr>
+[title/approval_037] ID 승인에 성공하였습니다.
+[title/approval_038] ID 승인을 거부하였습니다.
+[title/approval_039] 승인 대상 유저의 법정대리인임을 보증합니다
+[title/approval_040] <attr font='fallback'>승인 철회</attr>
+[title/approval_041] 해당 유저의
+"개인정보의 수집・이용에 대한 동의"를 철회하시겠습니까?
+
+철회하면 해당 유저는
+Pokémon Masters를
+플레이 할 수 없게 됩니다.
+[title/approval_042] 해당 유저의 승인을 철회하였습니다.
+[title/approval_044] OK
 
 ===========
 title_en.lsd
@@ -20635,6 +21783,51 @@ has been deleted.
 [title/title_125] Additional data can be downloaded while you play the game. Connection to Wi-Fi is recommended.
 
 Download size: [Digit:3digits ] MB
+[title/title_126] Save data transfer
+[title/title_127] You can transfer existing save data
+to a different device if you can
+authenticate the ID the data is
+linked to.
+
+Save data can only be transferred
+during the application’s first start-up.
+[title/title_128] Authenticate ID
+[title/title_129] Link a Nintendo Account
+[title/title_130] What is a Nintendo Account?
+[title/title_131] Proceed without
+transferring
+[title/title_132] Save data can only be transferred
+during the application’s first start-up.
+
+If you wish to transfer save data after
+this point, please reinstall the application.
+[title/title_133] Note: Please be aware that you can’t link save data
+from multiple games to the same Nintendo Account
+or Apple ID.
+[title/title_134] Note: Please be aware that you can’t link save data
+from multiple games to the same Nintendo Account.
+[title/title_135] Your backup game data has been
+successfully transferred to this device
+from your Apple ID.
+
+Please restart the application to play
+using this game data.
+[title/title_136] Account
+[title/title_137] The save data you’re using is also
+linked to a Nintendo Account.
+
+Please link the Nintendo Account again.
+[title/title_138] Account
+[title/title_139] Link to your account to safely back up
+your save data.
+[title/title_140] Link to Apple ID completed.
+[title/title_141] The following accounts have been linked to your
+save data.
+[title/title_142] • Nintendo Account
+[title/title_143] • Apple ID
+[title/title_144] Manage Nintendo Account
+[title/title_145] Transfer Data from a
+Nintendo Account
 [title/assetdl_004] Would you like to participate
 in a survey?
 [title/assetdl_006] Please select where you’ve played or seen Pokémon in the past.
@@ -20699,6 +21892,97 @@ your feedback!
 [title/push_001] Pokémon Masters
 [title/push_002] Adventure is waiting for you on Pasio. Log in now!
 [title/push_003] Notification
+[title/egg_001] I choose you!
+[title/egg_002] Would you like to choose this Egg?
+[title/egg_003] You chose a
+[Name:PokemonName ] Egg!
+[title/egg_004] Sounds can be heard coming from inside!
+This Egg will hatch soon!
+[title/egg_005] Time to head to the Pokémon Center and
+find Professor Bellis!
+[title/egg_007] Choose the
+[Name:PokemonName ] Egg?
+[title/egg_008] [Name:PokemonName ] Egg
+[title/approval_001] 토큰 발행에 대해서
+[title/approval_002] 만 14세 미만의 아동인 유저가 플레이를 하기 위해서는 부모님 등 법정대리인의 동의가 필요합니다. 아동이 플레이 하는 것을 허가할 경우, 개인정보처리방침을 확인하여 다음의 순서대로 승인을 진행해 주세요.
+
+①토큰 발행 버튼을 눌러서, 표시된 토큰을 아동에게 전달해 주세요.
+②승인 대기/승인 완료 ID 일람에서 아동이 보낸 승인 의뢰를 승인해 주세요.
+[title/approval_003] 개인정보처리방침
+[title/approval_004] 토큰을 발행하지 않고 진행한다.
+[title/approval_005] 토큰을 발행한다.
+[title/approval_006] <attr font='fallback'>토큰 발행 / 승인</attr>
+[title/approval_007] 승인 대기 / 승인 완료 ID 일람
+[title/approval_008] <attr font='fallback'>돌아가기</attr>
+[title/approval_009] 토큰 발행
+[title/approval_010] 토큰
+[title/approval_011] 아동에게 토큰을 전달해 주세요.
+[title/approval_013] 유효기한
+[Name:DateTime ]
+[title/approval_014] <attr font='fallback'>닫기</attr>
+[title/approval_015] 토큰 입력
+[title/approval_016] 만 14세 미만의 아동인 유저가 플레이를 하기 위해서는 부모님 등 법정대리인의 동의가 필요합니다.
+부모님 등 법정대리인으로 하여금 Pokémon Masters 앱을 다운로드하게 하여 토큰을 발행하도록 해주세요. 
+발행된 토큰을 입력 다이얼로그에 입력하고 승인의뢰 버튼을 눌러 주세요. 
+승인이 성공하면 게임을 계속해서 플레이할 수 있습니다.
+[title/approval_017] 승인 의뢰
+[title/approval_018] <attr font='fallback'>승인 상황 확인</attr>
+[title/approval_019] <attr font='fallback'>승인의뢰성공</attr>
+[title/approval_020] <attr font='fallback'>승인 의뢰에 성공하였습니다.</attr>
+[title/approval_023] <attr font='fallback'>승인 의뢰 일시
+[Name:DateTime ]
+ 
+현재 승인 의뢰 중입니다. 
+ 
+상황을 갱신하려면 다시 승인 상황 확인 버튼을 눌러 주세요. 
+
+부모님 등 법정대리인이 승인하면 플레이를 할 수 있습니다. 
+ 
+부모님 등 법정대리인이 승인을 하기 위해서는 
+토큰 발행/승인 화면 내
+승인 대기/승인 완료 ID 일람 버튼을 눌러 승인 대기 화면으로 이동하여 
+당신이 송신한 ID 옆의"확인" 버튼을 눌러 확인화면 내의 "승인"을 누르도록 하세요.</attr>
+[title/approval_024] <attr font='fallback'>현재 승인 의뢰는 없습니다. 
+승인 의뢰는 토큰 입력 화면에서 할 수 있습니다. 
+이미 승인 의뢰를 한 경우에는
+다시 승인 상황 확인 버튼을 눌러 표시를 갱신해 주세요.</attr>
+[title/approval_025] <attr font='fallback'>승인 의뢰 일시
+[Name:DateTime ]
+ 
+승인이 거부되었습니다.  
+ 
+플레이를 계속하고자 할 경우,  
+다시 한 번 부모님 등 법정대리인으로 하여금 토큰을  
+발행하도록 하여 토큰 입력 화면에서  
+승인 의뢰를 해 주세요.</attr>
+[title/approval_026] <attr font='fallback'>승인 의뢰 일시
+[Name:DateTime ]
+ 
+승인이 허가되었습니다.  
+계속해서 플레이를 즐겨 주세요.</attr>
+[title/approval_027] 승인 의뢰중입니다
+승인 상황을 확인해 주세요
+[title/approval_028] 승인 대기 / 승인 완료 ID
+[title/approval_029] 승인 대기
+[title/approval_030] 승인 완료
+[title/approval_031] <attr font='fallback'>확인</attr>
+[title/approval_032] 개인정보의 수집・이용에 대해서
+[title/approval_033] 승인은 개인정보의 수집・이용에 대해서에 동의하실 필요가 있습니다.
+[title/approval_034] 개인정보의 수집・이용에 대해서를 읽고 이해한 후 동의하였습니다.
+[title/approval_035] <attr font='fallback'>거부</attr>
+[title/approval_036] <attr font='fallback'>승인</attr>
+[title/approval_037] ID 승인에 성공하였습니다.
+[title/approval_038] ID 승인을 거부하였습니다.
+[title/approval_039] 승인 대상 유저의 법정대리인임을 보증합니다
+[title/approval_040] <attr font='fallback'>승인 철회</attr>
+[title/approval_041] 해당 유저의
+"개인정보의 수집・이용에 대한 동의"를 철회하시겠습니까?
+
+철회하면 해당 유저는
+Pokémon Masters를
+플레이 할 수 없게 됩니다.
+[title/approval_042] 해당 유저의 승인을 철회하였습니다.
+[title/approval_044] OK
 
 ===========
 title_es.lsd
@@ -20974,6 +22258,53 @@ mientras juegas.
 Se recomienda estar conectado a una
 red Wi-Fi.
 Tamaño de la descarga: [Digit:3digits ] MB
+[title/title_126] Transf. datos guardado
+[title/title_127] Se pueden transferir datos de
+guardado a otro dispositivo tras
+verificar el ID al que están vinculados.
+
+Los datos de guardado tan solo se
+pueden transferir la primera vez que
+se inicia la aplicación.
+[title/title_128] Verificar ID
+[title/title_129] Vincular cuenta Nintendo
+[title/title_130] ¿Qué es una cuenta Nintendo?
+[title/title_131] Continuar sin
+transferir datos
+[title/title_132] Tan solo se pueden transferir los datos
+de guardado la primera vez que se
+inicia la aplicación.
+
+Para transferir datos de guardado
+durante una partida, es necesario
+instalar la aplicación de nuevo.
+[title/title_133] Aviso: no es posible vincular varios datos de guardado
+diferentes a la misma cuenta Nintendo o ID de Apple.
+[title/title_134] Aviso: no es posible vincular varios datos de guardado
+diferentes a la misma cuenta Nintendo.
+[title/title_135] Se ha completado la transferencia de
+datos de guardado del ID de Apple a
+este dispositivo.
+
+Reinicia la aplicación para usar estos
+datos.
+[title/title_136] Gestionar cuenta
+[title/title_137] Estos datos de guardado están
+vinculados a una cuenta Nintendo.
+
+Vuelve a vincular la cuenta Nintendo.
+[title/title_138] Cuenta
+[title/title_139] Si vinculas una cuenta, podrás crear una
+copia de seguridad de los datos de
+guardado.
+[title/title_140] Se ha vinculado el ID de Apple.
+[title/title_141] Los datos de guardado se han vinculado a las
+siguientes cuentas:
+[title/title_142] • Cuenta Nintendo
+[title/title_143] • ID de Apple
+[title/title_144] Gestionar cuenta Nintendo
+[title/title_145] Transferir datos de una cuenta
+Nintendo
 [title/assetdl_004] 翻訳不要
 [title/assetdl_006] 翻訳不要
 [title/assetdl_007] 翻訳不要
@@ -21035,6 +22366,97 @@ juego. ¿Tienes algún comentario?
 [title/push_001] Pokémon Masters
 [title/push_002] Adventure is waiting for you on Pasio. Log in now!
 [title/push_003] Notification
+[title/egg_001] ¡Me quedo este!
+[title/egg_002] ¿Quieres quedarte este Huevo?
+[title/egg_003] ¡Has elegido un Huevo de
+[Name:PokemonName ]!
+[title/egg_004] Se oye algo en su interior. Parece que va
+a eclosionar en breve.
+[title/egg_005] Regresa al Centro Pokémon y llévaselo a la
+Profesora Margarita.
+[title/egg_007] ¿Quieres quedarte con el Huevo de
+[Name:PokemonName ]?
+[title/egg_008] Huevo de [Name:PokemonName ]
+[title/approval_001] 토큰 발행에 대해서
+[title/approval_002] 만 14세 미만의 아동인 유저가 플레이를 하기 위해서는 부모님 등 법정대리인의 동의가 필요합니다. 아동이 플레이 하는 것을 허가할 경우, 개인정보처리방침을 확인하여 다음의 순서대로 승인을 진행해 주세요.
+
+①토큰 발행 버튼을 눌러서, 표시된 토큰을 아동에게 전달해 주세요.
+②승인 대기/승인 완료 ID 일람에서 아동이 보낸 승인 의뢰를 승인해 주세요.
+[title/approval_003] 개인정보처리방침
+[title/approval_004] 토큰을 발행하지 않고 진행한다.
+[title/approval_005] 토큰을 발행한다.
+[title/approval_006] <attr font='fallback'>토큰 발행 / 승인</attr>
+[title/approval_007] 승인 대기 / 승인 완료 ID 일람
+[title/approval_008] <attr font='fallback'>돌아가기</attr>
+[title/approval_009] 토큰 발행
+[title/approval_010] 토큰
+[title/approval_011] 아동에게 토큰을 전달해 주세요.
+[title/approval_013] 유효기한
+[Name:DateTime ]
+[title/approval_014] <attr font='fallback'>닫기</attr>
+[title/approval_015] 토큰 입력
+[title/approval_016] 만 14세 미만의 아동인 유저가 플레이를 하기 위해서는 부모님 등 법정대리인의 동의가 필요합니다.
+부모님 등 법정대리인으로 하여금 Pokémon Masters 앱을 다운로드하게 하여 토큰을 발행하도록 해주세요. 
+발행된 토큰을 입력 다이얼로그에 입력하고 승인의뢰 버튼을 눌러 주세요. 
+승인이 성공하면 게임을 계속해서 플레이할 수 있습니다.
+[title/approval_017] 승인 의뢰
+[title/approval_018] <attr font='fallback'>승인 상황 확인</attr>
+[title/approval_019] <attr font='fallback'>승인의뢰성공</attr>
+[title/approval_020] <attr font='fallback'>승인 의뢰에 성공하였습니다.</attr>
+[title/approval_023] <attr font='fallback'>승인 의뢰 일시
+[Name:DateTime ]
+ 
+현재 승인 의뢰 중입니다. 
+ 
+상황을 갱신하려면 다시 승인 상황 확인 버튼을 눌러 주세요. 
+
+부모님 등 법정대리인이 승인하면 플레이를 할 수 있습니다. 
+ 
+부모님 등 법정대리인이 승인을 하기 위해서는 
+토큰 발행/승인 화면 내
+승인 대기/승인 완료 ID 일람 버튼을 눌러 승인 대기 화면으로 이동하여 
+당신이 송신한 ID 옆의"확인" 버튼을 눌러 확인화면 내의 "승인"을 누르도록 하세요.</attr>
+[title/approval_024] <attr font='fallback'>현재 승인 의뢰는 없습니다. 
+승인 의뢰는 토큰 입력 화면에서 할 수 있습니다. 
+이미 승인 의뢰를 한 경우에는
+다시 승인 상황 확인 버튼을 눌러 표시를 갱신해 주세요.</attr>
+[title/approval_025] <attr font='fallback'>승인 의뢰 일시
+[Name:DateTime ]
+ 
+승인이 거부되었습니다.  
+ 
+플레이를 계속하고자 할 경우,  
+다시 한 번 부모님 등 법정대리인으로 하여금 토큰을  
+발행하도록 하여 토큰 입력 화면에서  
+승인 의뢰를 해 주세요.</attr>
+[title/approval_026] <attr font='fallback'>승인 의뢰 일시
+[Name:DateTime ]
+ 
+승인이 허가되었습니다.  
+계속해서 플레이를 즐겨 주세요.</attr>
+[title/approval_027] 승인 의뢰중입니다
+승인 상황을 확인해 주세요
+[title/approval_028] 승인 대기 / 승인 완료 ID
+[title/approval_029] 승인 대기
+[title/approval_030] 승인 완료
+[title/approval_031] <attr font='fallback'>확인</attr>
+[title/approval_032] 개인정보의 수집・이용에 대해서
+[title/approval_033] 승인은 개인정보의 수집・이용에 대해서에 동의하실 필요가 있습니다.
+[title/approval_034] 개인정보의 수집・이용에 대해서를 읽고 이해한 후 동의하였습니다.
+[title/approval_035] <attr font='fallback'>거부</attr>
+[title/approval_036] <attr font='fallback'>승인</attr>
+[title/approval_037] ID 승인에 성공하였습니다.
+[title/approval_038] ID 승인을 거부하였습니다.
+[title/approval_039] 승인 대상 유저의 법정대리인임을 보증합니다
+[title/approval_040] <attr font='fallback'>승인 철회</attr>
+[title/approval_041] 해당 유저의
+"개인정보의 수집・이용에 대한 동의"를 철회하시겠습니까?
+
+철회하면 해당 유저는
+Pokémon Masters를
+플레이 할 수 없게 됩니다.
+[title/approval_042] 해당 유저의 승인을 철회하였습니다.
+[title/approval_044] OK
 
 ===========
 title_fr.lsd
@@ -21322,6 +22744,58 @@ Il est recommandé d'utiliser une
 connexion Wi-Fi pour les télécharger.
 
 Taille du téléchargement : [Digit:3digits ] MB
+[title/title_126] Transfert de données
+[title/title_127] Vous pouvez transférer des données de
+sauvegarde en vérifiant les identifiants
+auxquels ces données sont associées.
+
+Vous ne pouvez transférer des données
+de sauvegarde que la première fois
+que vous démarrez l'application.
+[title/title_128] Vérifier un identifiant
+[title/title_129] Associer un compte Nintendo
+[title/title_130] Qu'est-ce qu'un compte Nintendo ?
+[title/title_131] Continuer sans
+transférer
+[title/title_132] Vous pouvez transférer vos données la
+première fois que vous démarrez
+l'application.
+
+Si vous souhaitez effectuer un
+transfert en cours de partie, il
+sera nécessaire de réinstaller
+l'application.
+[title/title_133] Attention : vous ne pouvez pas associer plusieurs
+données de sauvegarde au même compte Nintendo
+ou au même identifiant Apple.
+[title/title_134] Attention : vous ne pouvez pas associer plusieurs
+données de sauvegarde au même compte Nintendo.
+[title/title_135] Vos données de sauvegarde ont été
+transférées avec succès sur l'appareil
+depuis votre identifiant Apple.
+
+Redémarrez l'application pour jouer
+avec ces données de sauvegarde.
+[title/title_136] Gestion du compte
+[title/title_137] Ces données de sauvegarde sont déjà
+associées à un compte Nintendo.
+
+Veuillez réessayer l'association
+du compte Nintendo.
+[title/title_138] Compte
+[title/title_139] Associer votre compte vous permet de
+récupérer vos données de sauvegarde
+même si elles sont effacées.
+[title/title_140] Votre identifiant Apple a été associé
+avec succès à l'appareil.
+[title/title_141] Les données de sauvegarde que vous utilisez sont
+associées aux comptes ci-dessous.
+[title/title_142] • Compte Nintendo
+[title/title_143] • Identifiant Apple
+[title/title_144] Gérer les informations
+du compte Nintendo
+[title/title_145] Transférer des données depuis
+un compte Nintendo
 [title/assetdl_004] 翻訳不要
 [title/assetdl_006] 翻訳不要
 [title/assetdl_007] 翻訳不要
@@ -21384,6 +22858,98 @@ laisser un commentaire ?
 [title/push_001] Pokémon Masters
 [title/push_002] Adventure is waiting for you on Pasio. Log in now!
 [title/push_003] Notification
+[title/egg_001] Choisir cet Œuf !
+[title/egg_002] Voulez-vous cet Œuf ?
+[title/egg_003] Vous avez choisi l'Œuf de
+[Name:PokemonName ] !
+[title/egg_004] On peut entendre des petits bruits qui
+viennent de l'intérieur de l'Œuf.
+On dirait qu'il va bientôt éclore !
+[title/egg_005] Rendez-vous au Centre Pokémon et
+montrez-le à la Professeure Bellis !
+[title/egg_007] Voulez-vous l'Œuf de
+[Name:PokemonName ] ?
+[title/egg_008] Œuf de [Name:PokemonName ]
+[title/approval_001] 토큰 발행에 대해서
+[title/approval_002] 만 14세 미만의 아동인 유저가 플레이를 하기 위해서는 부모님 등 법정대리인의 동의가 필요합니다. 아동이 플레이 하는 것을 허가할 경우, 개인정보처리방침을 확인하여 다음의 순서대로 승인을 진행해 주세요.
+
+①토큰 발행 버튼을 눌러서, 표시된 토큰을 아동에게 전달해 주세요.
+②승인 대기/승인 완료 ID 일람에서 아동이 보낸 승인 의뢰를 승인해 주세요.
+[title/approval_003] 개인정보처리방침
+[title/approval_004] 토큰을 발행하지 않고 진행한다.
+[title/approval_005] 토큰을 발행한다.
+[title/approval_006] <attr font='fallback'>토큰 발행 / 승인</attr>
+[title/approval_007] 승인 대기 / 승인 완료 ID 일람
+[title/approval_008] <attr font='fallback'>돌아가기</attr>
+[title/approval_009] 토큰 발행
+[title/approval_010] 토큰
+[title/approval_011] 아동에게 토큰을 전달해 주세요.
+[title/approval_013] 유효기한
+[Name:DateTime ]
+[title/approval_014] <attr font='fallback'>닫기</attr>
+[title/approval_015] 토큰 입력
+[title/approval_016] 만 14세 미만의 아동인 유저가 플레이를 하기 위해서는 부모님 등 법정대리인의 동의가 필요합니다.
+부모님 등 법정대리인으로 하여금 Pokémon Masters 앱을 다운로드하게 하여 토큰을 발행하도록 해주세요. 
+발행된 토큰을 입력 다이얼로그에 입력하고 승인의뢰 버튼을 눌러 주세요. 
+승인이 성공하면 게임을 계속해서 플레이할 수 있습니다.
+[title/approval_017] 승인 의뢰
+[title/approval_018] <attr font='fallback'>승인 상황 확인</attr>
+[title/approval_019] <attr font='fallback'>승인의뢰성공</attr>
+[title/approval_020] <attr font='fallback'>승인 의뢰에 성공하였습니다.</attr>
+[title/approval_023] <attr font='fallback'>승인 의뢰 일시
+[Name:DateTime ]
+ 
+현재 승인 의뢰 중입니다. 
+ 
+상황을 갱신하려면 다시 승인 상황 확인 버튼을 눌러 주세요. 
+
+부모님 등 법정대리인이 승인하면 플레이를 할 수 있습니다. 
+ 
+부모님 등 법정대리인이 승인을 하기 위해서는 
+토큰 발행/승인 화면 내
+승인 대기/승인 완료 ID 일람 버튼을 눌러 승인 대기 화면으로 이동하여 
+당신이 송신한 ID 옆의"확인" 버튼을 눌러 확인화면 내의 "승인"을 누르도록 하세요.</attr>
+[title/approval_024] <attr font='fallback'>현재 승인 의뢰는 없습니다. 
+승인 의뢰는 토큰 입력 화면에서 할 수 있습니다. 
+이미 승인 의뢰를 한 경우에는
+다시 승인 상황 확인 버튼을 눌러 표시를 갱신해 주세요.</attr>
+[title/approval_025] <attr font='fallback'>승인 의뢰 일시
+[Name:DateTime ]
+ 
+승인이 거부되었습니다.  
+ 
+플레이를 계속하고자 할 경우,  
+다시 한 번 부모님 등 법정대리인으로 하여금 토큰을  
+발행하도록 하여 토큰 입력 화면에서  
+승인 의뢰를 해 주세요.</attr>
+[title/approval_026] <attr font='fallback'>승인 의뢰 일시
+[Name:DateTime ]
+ 
+승인이 허가되었습니다.  
+계속해서 플레이를 즐겨 주세요.</attr>
+[title/approval_027] 승인 의뢰중입니다
+승인 상황을 확인해 주세요
+[title/approval_028] 승인 대기 / 승인 완료 ID
+[title/approval_029] 승인 대기
+[title/approval_030] 승인 완료
+[title/approval_031] <attr font='fallback'>확인</attr>
+[title/approval_032] 개인정보의 수집・이용에 대해서
+[title/approval_033] 승인은 개인정보의 수집・이용에 대해서에 동의하실 필요가 있습니다.
+[title/approval_034] 개인정보의 수집・이용에 대해서를 읽고 이해한 후 동의하였습니다.
+[title/approval_035] <attr font='fallback'>거부</attr>
+[title/approval_036] <attr font='fallback'>승인</attr>
+[title/approval_037] ID 승인에 성공하였습니다.
+[title/approval_038] ID 승인을 거부하였습니다.
+[title/approval_039] 승인 대상 유저의 법정대리인임을 보증합니다
+[title/approval_040] <attr font='fallback'>승인 철회</attr>
+[title/approval_041] 해당 유저의
+"개인정보의 수집・이용에 대한 동의"를 철회하시겠습니까?
+
+철회하면 해당 유저는
+Pokémon Masters를
+플레이 할 수 없게 됩니다.
+[title/approval_042] 해당 유저의 승인을 철회하였습니다.
+[title/approval_044] OK
 
 ===========
 title_it.lsd
@@ -21660,6 +23226,54 @@ mentre si gioca.
 Si consiglia di utilizzare
 una connessione Wi-Fi.
 Dimensioni del download: [Digit:3digits ] MB
+[title/title_126] Trasferimento dati
+[title/title_127] È possibile trasferire i dati
+di salvataggio verificando l'ID a cui
+questi sono collegati.
+
+Il trasferimento dei dati di salvataggio
+è possibile soltanto al primo avvio
+dell'app.
+[title/title_128] Verifica ID
+[title/title_129] Collegare un account Nintendo
+[title/title_130] Che cos'è un account Nintendo?
+[title/title_131] Continua senza
+trasferire i dati
+[title/title_132] Il trasferimento è possibile soltanto
+al primo avvio dell'app.
+
+Se si vuole effettuare il trasferimento
+in seguito, sarà necessario reinstallare
+l'app.
+[title/title_133] Attenzione: non è possibile collegare più dati
+di salvataggio allo stesso account Nintendo
+o ID Apple.
+[title/title_134] Attenzione: non è possibile collegare più dati
+di salvataggio allo stesso account Nintendo.
+[title/title_135] Il trasferimento dei dati di gioco
+dall'ID Apple a questo dispositivo
+è stato completato con successo.
+
+Riavvia l'app per giocare usando
+questi dati.
+[title/title_136] Gestione account
+[title/title_137] I dati di salvataggio in uso sono
+collegati anche a un account Nintendo.
+
+Collega di nuovo l'account Nintendo.
+[title/title_138] Account
+[title/title_139] Collegare un account ti permette di fare
+un backup dei dati di salvataggio, così
+non dovrai preoccuparti di perderli.
+[title/title_140] Collegamento all'ID Apple completato.
+[title/title_141] I dati di salvataggio in uso sono collegati
+ai seguenti account:
+[title/title_142] • Account Nintendo
+[title/title_143] • ID Apple
+[title/title_144] Gestisci informazioni account
+Nintendo
+[title/title_145] Trasferisci dati
+da un account Nintendo
 [title/assetdl_004] 翻訳不要
 [title/assetdl_006] 翻訳不要
 [title/assetdl_007] 翻訳不要
@@ -21718,6 +23332,95 @@ Se vuoi, puoi lasciare una recensione.
 [title/push_001] Pokémon Masters
 [title/push_002] Adventure is waiting for you on Pasio. Log in now!
 [title/push_003] Notification
+[title/egg_001] Scelgo quest'Uovo!
+[title/egg_002] Vuoi confermare la tua scelta?
+[title/egg_003] Hai scelto l'Uovo di [Name:PokemonName ]!
+[title/egg_004] Si sentono dei rumori provenire dall'interno.
+Sta per schiudersi!
+[title/egg_005] Torna al Centro Pokémon e portalo
+dalla Professoressa Bellisperia!
+[title/egg_007] Vuoi l'Uovo di [Name:PokemonName ]?
+[title/egg_008] Uovo di [Name:PokemonName ]
+[title/approval_001] 토큰 발행에 대해서
+[title/approval_002] 만 14세 미만의 아동인 유저가 플레이를 하기 위해서는 부모님 등 법정대리인의 동의가 필요합니다. 아동이 플레이 하는 것을 허가할 경우, 개인정보처리방침을 확인하여 다음의 순서대로 승인을 진행해 주세요.
+
+①토큰 발행 버튼을 눌러서, 표시된 토큰을 아동에게 전달해 주세요.
+②승인 대기/승인 완료 ID 일람에서 아동이 보낸 승인 의뢰를 승인해 주세요.
+[title/approval_003] 개인정보처리방침
+[title/approval_004] 토큰을 발행하지 않고 진행한다.
+[title/approval_005] 토큰을 발행한다.
+[title/approval_006] <attr font='fallback'>토큰 발행 / 승인</attr>
+[title/approval_007] 승인 대기 / 승인 완료 ID 일람
+[title/approval_008] <attr font='fallback'>돌아가기</attr>
+[title/approval_009] 토큰 발행
+[title/approval_010] 토큰
+[title/approval_011] 아동에게 토큰을 전달해 주세요.
+[title/approval_013] 유효기한
+[Name:DateTime ]
+[title/approval_014] <attr font='fallback'>닫기</attr>
+[title/approval_015] 토큰 입력
+[title/approval_016] 만 14세 미만의 아동인 유저가 플레이를 하기 위해서는 부모님 등 법정대리인의 동의가 필요합니다.
+부모님 등 법정대리인으로 하여금 Pokémon Masters 앱을 다운로드하게 하여 토큰을 발행하도록 해주세요. 
+발행된 토큰을 입력 다이얼로그에 입력하고 승인의뢰 버튼을 눌러 주세요. 
+승인이 성공하면 게임을 계속해서 플레이할 수 있습니다.
+[title/approval_017] 승인 의뢰
+[title/approval_018] <attr font='fallback'>승인 상황 확인</attr>
+[title/approval_019] <attr font='fallback'>승인의뢰성공</attr>
+[title/approval_020] <attr font='fallback'>승인 의뢰에 성공하였습니다.</attr>
+[title/approval_023] <attr font='fallback'>승인 의뢰 일시
+[Name:DateTime ]
+ 
+현재 승인 의뢰 중입니다. 
+ 
+상황을 갱신하려면 다시 승인 상황 확인 버튼을 눌러 주세요. 
+
+부모님 등 법정대리인이 승인하면 플레이를 할 수 있습니다. 
+ 
+부모님 등 법정대리인이 승인을 하기 위해서는 
+토큰 발행/승인 화면 내
+승인 대기/승인 완료 ID 일람 버튼을 눌러 승인 대기 화면으로 이동하여 
+당신이 송신한 ID 옆의"확인" 버튼을 눌러 확인화면 내의 "승인"을 누르도록 하세요.</attr>
+[title/approval_024] <attr font='fallback'>현재 승인 의뢰는 없습니다. 
+승인 의뢰는 토큰 입력 화면에서 할 수 있습니다. 
+이미 승인 의뢰를 한 경우에는
+다시 승인 상황 확인 버튼을 눌러 표시를 갱신해 주세요.</attr>
+[title/approval_025] <attr font='fallback'>승인 의뢰 일시
+[Name:DateTime ]
+ 
+승인이 거부되었습니다.  
+ 
+플레이를 계속하고자 할 경우,  
+다시 한 번 부모님 등 법정대리인으로 하여금 토큰을  
+발행하도록 하여 토큰 입력 화면에서  
+승인 의뢰를 해 주세요.</attr>
+[title/approval_026] <attr font='fallback'>승인 의뢰 일시
+[Name:DateTime ]
+ 
+승인이 허가되었습니다.  
+계속해서 플레이를 즐겨 주세요.</attr>
+[title/approval_027] 승인 의뢰중입니다
+승인 상황을 확인해 주세요
+[title/approval_028] 승인 대기 / 승인 완료 ID
+[title/approval_029] 승인 대기
+[title/approval_030] 승인 완료
+[title/approval_031] <attr font='fallback'>확인</attr>
+[title/approval_032] 개인정보의 수집・이용에 대해서
+[title/approval_033] 승인은 개인정보의 수집・이용에 대해서에 동의하실 필요가 있습니다.
+[title/approval_034] 개인정보의 수집・이용에 대해서를 읽고 이해한 후 동의하였습니다.
+[title/approval_035] <attr font='fallback'>거부</attr>
+[title/approval_036] <attr font='fallback'>승인</attr>
+[title/approval_037] ID 승인에 성공하였습니다.
+[title/approval_038] ID 승인을 거부하였습니다.
+[title/approval_039] 승인 대상 유저의 법정대리인임을 보증합니다
+[title/approval_040] <attr font='fallback'>승인 철회</attr>
+[title/approval_041] 해당 유저의
+"개인정보의 수집・이용에 대한 동의"를 철회하시겠습니까?
+
+철회하면 해당 유저는
+Pokémon Masters를
+플레이 할 수 없게 됩니다.
+[title/approval_042] 해당 유저의 승인을 철회하였습니다.
+[title/approval_044] OK
 
 ===========
 title_ja.lsd
@@ -22017,6 +23720,51 @@ OS 버전, OS 타입, 타게팅 광고의 제한에 관한 설정 상태, 단말
 Wi-Fi環境でのダウンロードをおすすめします
 
 ダウンロードサイズ : [Digit:3digits ]MB
+[title/title_126] セーブデータ引き継ぎ
+[title/title_127] 連携済みのIDを認証すると
+セーブデータを引き継ぐことができます
+
+セーブデータの引き継ぎができるのは
+初回起動時のみです
+[title/title_128] IDを認証する
+[title/title_129] ニンテンドーアカウントを
+連携する
+[title/title_130] ニンテンドーアカウントとは？
+[title/title_131] 引き継がずに
+すすむ
+[title/title_132] 引き継ぎは初回起動時のみ
+行うことができます
+
+ゲームの途中で引き継ぎを行いたい
+場合はアプリを再インストールしてください
+[title/title_133] ※すでに連携済みのニンテンドーアカウントもしくはApple IDに複数のセーブデータを連携させることはできないのでお気をつけください
+[title/title_134] ※すでに連携済みのニンテンドーアカウントに複数のセーブデータを連携させることはできないのでお気をつけください
+[title/title_135] ゲームデータの引き継ぎが
+完了しました
+
+Apple IDに連携されていた
+セーブデータでゲームを再開できます
+[title/title_136] アカウント管理
+[title/title_137] お使いのセーブデータは
+ニンテンドーアカウントとも
+連携されています
+
+ニンテンドーアカウントの再連携を
+行ってください
+[title/title_138] アカウント
+[title/title_139] アカウントと連携すると
+セーブデータをバックアップできます
+もしセーブデータが消えても安心です
+[title/title_140] Apple IDとの
+連携が完了しました
+[title/title_141] ご利用のセーブデータは
+下記のアカウントと紐づいています
+[title/title_142] ・ニンテンドーアカウント
+[title/title_143] ・Apple ID
+[title/title_144] ニンテンドーアカウント
+情報を管理
+[title/title_145] ニンテンドーアカウントで
+引き継ぐ
 [title/assetdl_004] アンケートに
 ご協力をお願いします
 [title/assetdl_006] あなたが「ポケモン」について遊んだり見たりしたことがあるものを全てお選びください
@@ -22086,6 +23834,99 @@ OSの処理によってダウンロードが止まることがあります
 [title/push_001] ポケモンマスターズ
 [title/push_002] パシオでの冒険をはじめよう！
 [title/push_003] Notification
+[title/egg_001] このタマゴにする！
+[title/egg_002] このタマゴにする？
+[title/egg_003] [Name:PokemonName ]の
+タマゴに　決めた！
+[title/egg_004] なかから　おとが　きこえてくる！
+もうすぐ　うまれそう！
+[title/egg_005] ポケモンセンターに　戻って
+ヒナギク博士の　ところに
+持って　いこう！
+[title/egg_007] [Name:PokemonName ]のタマゴにしますか？
+[title/egg_008] [Name:PokemonName ]のタマゴ
+[title/approval_001] トークン発行について
+[title/approval_002] 満14歳未満の児童であるユーザーがプレイをするにはご両親など法定代理人の同意が必要です。児童がプレイをすることを許可する場合、プライバシーポリシーを確認して下記の手順で承認を行ってください。
+
+①トークン発行ボタンを押し、表示されたトークンを児童へお伝えください。
+②承認待ち/承認済みID一覧で児童から送られた承認依頼を承認してください。
+[title/approval_003] プライバシーポリシー
+[title/approval_004] トークンを発行せずに進む
+[title/approval_005] トークンを発行する
+[title/approval_006] トークン発行/承認
+[title/approval_007] 承認待ち/承認済みID一覧
+[title/approval_008] もどる
+[title/approval_009] トークン発行
+[title/approval_010] トークン
+[title/approval_011] 児童へトークンをお伝えください
+[title/approval_013] 有効期限
+[Name:DateTime ]
+[title/approval_014] とじる
+[title/approval_015] トークン入力
+[title/approval_016] 満14歳未満の児童であるユーザーがプレイをするにはご両親など法定代理人の同意が必要です。
+ご両親など法定代理人に
+ポケモンマスターズのアプリをダウンロードしてもらい、トークン発行をしてもらってください。
+発行されたトークンを入力ダイアログに入力して承認依頼ボタンを押してください。
+承認が成功するとゲームをプレイすることができます。
+[title/approval_017] 承認依頼
+[title/approval_018] 承認状況確認
+[title/approval_019] 承認依頼成功
+[title/approval_020] 承認依頼に成功しました
+[title/approval_023] 承認依頼日時
+[Name:DateTime ]
+
+現在承認依頼中です。
+
+状況の更新は、再度承認状況確認ボタンを押してください。
+
+ご両親など法定代理人の方に承認してもらうとプレイすることができます。
+
+ご両親など法定代理人の方が承認するには
+トークン発行/承認画面の中の
+承認待ち/承認済みID一覧ボタンを押し、承認待ち画面に行き
+あなたが送信したID横の「確認」ボタンを押し、確認画面内の
+「承認」を押してもらってください。
+[title/approval_024] 現在承認依頼はありません。
+承認依頼はトークン入力画面から行うことができます。
+すでに承認依頼をしている場合は、
+再度承認状況確認ボタンを押して表示を更新してください。
+[title/approval_025] 承認依頼日時
+[Name:DateTime ]
+
+承認が拒否されました。
+
+プレイを続けたい場合、
+改めてご両親などの法定代理人の方にトークンを
+発行してもらい、トークン入力画面から
+承認依頼を行ってください。
+[title/approval_026] 承認依頼日時
+[Name:DateTime ]
+
+承認が許可されました。
+ひきつづきプレイをお楽しみください。
+[title/approval_027] 承認依頼中です
+承認状況を確認してください
+[title/approval_028] 承認待ち/承認済みID
+[title/approval_029] 承認待ち
+[title/approval_030] 承認済み
+[title/approval_031] 確認
+[title/approval_032] 個人情報の収集・利用について
+[title/approval_033] 承認は個人情報の収集・利用についてに同意していただく必要があります
+[title/approval_034] 個人情報の収集・利用についてを読み理解した上で同意しました
+[title/approval_035] 拒否
+[title/approval_036] 承認
+[title/approval_037] IDの承認に成功しました
+[title/approval_038] IDの承認を拒否しました
+[title/approval_039] 承認対象ユーザーの法定代理人であることを保証します
+[title/approval_040] 承認撤回
+[title/approval_041] このユーザーの
+「個人情報の収集・利用に対する同意」を撤回しますか？
+
+撤回するとこのユーザーは
+ポケモンマスターズを
+プレイできなくなります
+[title/approval_042] このユーザーの承認を撤回しました
+[title/approval_044] OK
 
 ===========
 title_ko.lsd
@@ -22096,7 +23937,7 @@ title_ko.lsd
 [title/cache_002] 게임 화면 표시가 이상할 때
 캐시를 삭제하면
 해소되는 경우도 있습니다
-※플레이 중인 세이브 데이터는
+※플레이 중인 저장 데이터는
 삭제되지 않습니다
 캐시 클리어를 하겠습니까?
 [title/cache_003] 현재 실행 중입니다
@@ -22366,6 +24207,52 @@ OS 버전, OS 타입, 타게팅 광고의 제한에 관한 설정 상태, 단말
 Wi-Fi 환경에서 다운로드를 추천합니다
 
 다운로드 용량 : [Digit:3digits ]MB
+[title/title_126] 저장 데이터 이어받기
+[title/title_127] 이미 연동 중인 ID를 인증하면
+저장 데이터를 이어받을 수 있습니다
+
+저장 데이터의 이어받기는
+첫 기동 시에만 가능합니다
+[title/title_128] ID를 인증한다
+[title/title_129] 닌텐도 어카운트를 연동한다
+[title/title_130] 닌텐도 어카운트란?
+[title/title_131] 이어받지 않고
+진행한다
+[title/title_132] 이어받기는 첫 기동 시에만
+진행할 수 있습니다
+
+게임 플레이 도중에 이어받기를 원하시는 경우
+앱을 다시 설치하여 주십시오
+[title/title_133] ※이미 연동된 닌텐도 어카운트 혹은 Apple ID에
+여러 개의 저장 데이터를 연동할 수는 없으니 주의하여 주십시오
+[title/title_134] ※이미 연동된 닌텐도 어카운트에
+여러 개의 저장 데이터를 연동할 수는 없으니 주의하여 주십시오
+[title/title_135] 게임 데이터의 이어받기가
+완료되었습니다
+
+Apple ID에 연동되어 있던
+저장 데이터로 게임을 재개할 수 있습니다
+[title/title_136] 어카운트 관리
+[title/title_137] 사용하시는 저장 데이터는
+닌텐도 어카운트와도
+연동되어 있습니다
+
+닌텐도 어카운트와
+다시 연동해 주십시오
+[title/title_138] 어카운트
+[title/title_139] 어카운트와 연동하면 저장 데이터를
+백업할 수 있습니다 만약 저장 데이터가
+삭제되더라도 안심할 수 있게 됩니다
+[title/title_140] Apple ID와의
+연동이 완료되었습니다
+[title/title_141] 이용 중이신 저장 데이터는
+아래 어카운트와 연동되어 있습니다
+[title/title_142] ・닌텐도 어카운트
+[title/title_143] ・Apple ID
+[title/title_144] 닌텐도 어카운트
+정보 관리
+[title/title_145] 닌텐도 어카운트로
+이어받기
 [title/assetdl_004] 翻訳不要
 [title/assetdl_006] 翻訳不要
 [title/assetdl_007] 翻訳不要
@@ -22427,6 +24314,97 @@ OS 처리 상황에 따라 다운로드가 중지될 수 있습니다
 [title/push_001] Pokémon Masters
 [title/push_002] Adventure is waiting for you on Pasio. Log in now!
 [title/push_003] Notification
+[title/egg_001] 이 알로 할래요!
+[title/egg_002] 이 알로 할래?
+[title/egg_003] [Name:PokemonName ]의 알로 정했다!
+[title/egg_004] 안에서 소리가
+들려온다!
+이제 곧 태어날 것 같아!
+[title/egg_005] 포켓몬센터로 돌아가서
+데이지박사가 있는 곳에
+들고 가보자!
+[title/egg_007] [Name:PokemonName ]의 알로 하겠습니까?
+[title/egg_008] [Name:PokemonName ]의 알
+[title/approval_001] 토큰 발행에 대해서
+[title/approval_002] 만 14세 미만의 아동인 유저가 플레이를 하기 위해서는 부모님 등 법정대리인의 동의가 필요합니다. 아동이 플레이 하는 것을 허가할 경우, 개인정보처리방침을 확인하여 다음의 순서대로 승인을 진행해 주세요.
+
+①토큰 발행 버튼을 눌러서, 표시된 토큰을 아동에게 전달해 주세요.
+②승인 대기/승인 완료 ID 일람에서 아동이 보낸 승인 의뢰를 승인해 주세요.
+[title/approval_003] 개인정보처리방침
+[title/approval_004] 토큰을 발행하지 않고 진행한다.
+[title/approval_005] 토큰을 발행한다.
+[title/approval_006] 토큰 발행 / 승인
+[title/approval_007] 승인 대기 / 승인 완료 ID 일람
+[title/approval_008] 돌아가기
+[title/approval_009] 토큰 발행
+[title/approval_010] 토큰
+[title/approval_011] 아동에게 토큰을 전달해 주세요.
+[title/approval_013] 유효기한
+[Name:DateTime ]
+[title/approval_014] 닫기
+[title/approval_015] 토큰 입력
+[title/approval_016] 만 14세 미만의 아동인 유저가 플레이를 하기 위해서는 부모님 등 법정대리인의 동의가 필요합니다.
+부모님 등 법정대리인으로 하여금 Pokémon Masters 앱을 다운로드하게 하여 토큰을 발행하도록 해주세요. 
+발행된 토큰을 입력 다이얼로그에 입력하고 승인의뢰 버튼을 눌러 주세요. 
+승인이 성공하면 게임을 계속해서 플레이할 수 있습니다.
+[title/approval_017] 승인 의뢰
+[title/approval_018] 승인 상황 확인
+[title/approval_019] 승인의뢰성공
+[title/approval_020] 승인 의뢰에 성공하였습니다.
+[title/approval_023] 승인 의뢰 일시
+[Name:DateTime ]
+ 
+현재 승인 의뢰 중입니다. 
+ 
+상황을 갱신하려면 다시 승인 상황 확인 버튼을 눌러 주세요. 
+
+부모님 등 법정대리인이 승인하면 플레이를 할 수 있습니다. 
+ 
+부모님 등 법정대리인이 승인을 하기 위해서는 
+토큰 발행/승인 화면 내
+승인 대기/승인 완료 ID 일람 버튼을 눌러 승인 대기 화면으로 이동하여 
+당신이 송신한 ID 옆의"확인" 버튼을 눌러 확인화면 내의 "승인"을 누르도록 하세요.
+[title/approval_024] 현재 승인 의뢰는 없습니다. 
+승인 의뢰는 토큰 입력 화면에서 할 수 있습니다. 
+이미 승인 의뢰를 한 경우에는
+다시 승인 상황 확인 버튼을 눌러 표시를 갱신해 주세요.
+[title/approval_025] 승인 의뢰 일시
+[Name:DateTime ]
+ 
+승인이 거부되었습니다.  
+ 
+플레이를 계속하고자 할 경우,  
+다시 한 번 부모님 등 법정대리인으로 하여금 토큰을  
+발행하도록 하여 토큰 입력 화면에서  
+승인 의뢰를 해 주세요.
+[title/approval_026] 승인 의뢰 일시
+[Name:DateTime ]
+ 
+승인이 허가되었습니다.  
+계속해서 플레이를 즐겨 주세요.
+[title/approval_027] 승인 의뢰중입니다
+승인 상황을 확인해 주세요
+[title/approval_028] 승인 대기 / 승인 완료 ID
+[title/approval_029] 승인 대기
+[title/approval_030] 승인 완료
+[title/approval_031] 확인
+[title/approval_032] 개인정보의 수집・이용에 대해서
+[title/approval_033] 승인은 개인정보의 수집・이용에 대해서에 동의하실 필요가 있습니다.
+[title/approval_034] 개인정보의 수집・이용에 대해서를 읽고 이해한 후 동의하였습니다.
+[title/approval_035] 거부
+[title/approval_036] 승인
+[title/approval_037] ID 승인에 성공하였습니다.
+[title/approval_038] ID 승인을 거부하였습니다.
+[title/approval_039] 승인 대상 유저의 법정대리인임을 보증합니다
+[title/approval_040] 승인 철회
+[title/approval_041] 해당 유저의
+"개인정보의 수집・이용에 대한 동의"를 철회하시겠습니까?
+
+철회하면 해당 유저는
+Pokémon Masters를
+플레이 할 수 없게 됩니다.
+[title/approval_042] 해당 유저의 승인을 철회하였습니다.
+[title/approval_044] OK
 
 ===========
 title_zh-TW.lsd
@@ -22688,6 +24666,45 @@ OS 버전, OS 타입, 타게팅 광고의 제한에 관한 설정 상태, 단말
 我們建議您使用Wi-Fi下載
 
 下載資料大小：[Digit:3digits ]MB
+[title/title_126] 轉移儲存資料
+[title/title_127] 認證已連動的ID
+就能轉移儲存資料
+
+只限第一次啟動遊戲時
+才可以轉移儲存資料
+[title/title_128] 認證ID
+[title/title_129] 與Nintendo Account連動
+[title/title_130] 什麼是Nintendo Account？
+[title/title_131] 不轉移資料
+直接前往下一步
+[title/title_132] 只限第一次啟動遊戲時
+才可以轉移儲存資料
+
+若在遊戲已開始後希望轉移儲存資料
+請重新安裝應用程式
+[title/title_133] ※請注意，已與遊戲儲存資料連動的Nintendo Account或Apple ID就無法再與其他多個儲存資料連動
+[title/title_134] ※請注意，已與遊戲儲存資料連動的Nintendo Account就無法再與其他多個儲存資料連動
+[title/title_135] 遊戲資料已轉移
+
+您現在可使用Apple ID
+連動的儲存資料進行遊戲
+[title/title_136] 帳號管理
+[title/title_137] 您使用的儲存資料
+也有與Nintendo Account連動
+
+請與Nintendo Account重新進行連動
+[title/title_138] 帳號
+[title/title_139] 和Nintendo Account連動後
+即可備份儲存資料
+不需擔心儲存資料消失
+[title/title_140] 已和Apple ID完成連動
+[title/title_141] 您所使用的儲存資料
+已和下列帳號綁定
+[title/title_142] ・Nintendo Account
+[title/title_143] ・Apple ID
+[title/title_144] 管理Nintendo Account資訊
+[title/title_145] 使用Nintendo Account
+轉移儲存資料
 [title/assetdl_004] 翻訳不要
 [title/assetdl_006] 翻訳不要
 [title/assetdl_007] 翻訳不要
@@ -22745,4 +24762,93 @@ OS 버전, OS 타입, 타게팅 광고의 제한에 관한 설정 상태, 단말
 [title/push_001] Pokémon Masters
 [title/push_002] Adventure is waiting for you on Pasio. Log in now!
 [title/push_003] Notification
+[title/egg_001] 選擇這顆蛋！
+[title/egg_002] 要選擇這顆蛋嗎？
+[title/egg_003] 就決定是[Name:PokemonName ]的蛋了！
+[title/egg_004] 能聽到從裡面傳來的聲音！
+好像快要孵出來了！
+[title/egg_005] 回到寶可夢中心，
+把蛋拿給雛菊博士看看吧！
+[title/egg_007] 要選擇[Name:PokemonName ]的蛋嗎？
+[title/egg_008] [Name:PokemonName ]的蛋
+[title/approval_001] 토큰 발행에 대해서
+[title/approval_002] 만 14세 미만의 아동인 유저가 플레이를 하기 위해서는 부모님 등 법정대리인의 동의가 필요합니다. 아동이 플레이 하는 것을 허가할 경우, 개인정보처리방침을 확인하여 다음의 순서대로 승인을 진행해 주세요.
+
+①토큰 발행 버튼을 눌러서, 표시된 토큰을 아동에게 전달해 주세요.
+②승인 대기/승인 완료 ID 일람에서 아동이 보낸 승인 의뢰를 승인해 주세요.
+[title/approval_003] 개인정보처리방침
+[title/approval_004] 토큰을 발행하지 않고 진행한다.
+[title/approval_005] 토큰을 발행한다.
+[title/approval_006] <attr font='fallback'>토큰 발행 / 승인</attr>
+[title/approval_007] 승인 대기 / 승인 완료 ID 일람
+[title/approval_008] <attr font='fallback'>돌아가기</attr>
+[title/approval_009] 토큰 발행
+[title/approval_010] 토큰
+[title/approval_011] 아동에게 토큰을 전달해 주세요.
+[title/approval_013] 유효기한
+[Name:DateTime ]
+[title/approval_014] <attr font='fallback'>닫기</attr>
+[title/approval_015] 토큰 입력
+[title/approval_016] 만 14세 미만의 아동인 유저가 플레이를 하기 위해서는 부모님 등 법정대리인의 동의가 필요합니다.
+부모님 등 법정대리인으로 하여금 Pokémon Masters 앱을 다운로드하게 하여 토큰을 발행하도록 해주세요. 
+발행된 토큰을 입력 다이얼로그에 입력하고 승인의뢰 버튼을 눌러 주세요. 
+승인이 성공하면 게임을 계속해서 플레이할 수 있습니다.
+[title/approval_017] 승인 의뢰
+[title/approval_018] <attr font='fallback'>승인 상황 확인</attr>
+[title/approval_019] <attr font='fallback'>승인의뢰성공</attr>
+[title/approval_020] <attr font='fallback'>승인 의뢰에 성공하였습니다.</attr>
+[title/approval_023] <attr font='fallback'>승인 의뢰 일시
+[Name:DateTime ]
+ 
+현재 승인 의뢰 중입니다. 
+ 
+상황을 갱신하려면 다시 승인 상황 확인 버튼을 눌러 주세요. 
+
+부모님 등 법정대리인이 승인하면 플레이를 할 수 있습니다. 
+ 
+부모님 등 법정대리인이 승인을 하기 위해서는 
+토큰 발행/승인 화면 내
+승인 대기/승인 완료 ID 일람 버튼을 눌러 승인 대기 화면으로 이동하여 
+당신이 송신한 ID 옆의"확인" 버튼을 눌러 확인화면 내의 "승인"을 누르도록 하세요.</attr>
+[title/approval_024] <attr font='fallback'>현재 승인 의뢰는 없습니다. 
+승인 의뢰는 토큰 입력 화면에서 할 수 있습니다. 
+이미 승인 의뢰를 한 경우에는
+다시 승인 상황 확인 버튼을 눌러 표시를 갱신해 주세요.</attr>
+[title/approval_025] <attr font='fallback'>승인 의뢰 일시
+[Name:DateTime ]
+ 
+승인이 거부되었습니다.  
+ 
+플레이를 계속하고자 할 경우,  
+다시 한 번 부모님 등 법정대리인으로 하여금 토큰을  
+발행하도록 하여 토큰 입력 화면에서  
+승인 의뢰를 해 주세요.</attr>
+[title/approval_026] <attr font='fallback'>승인 의뢰 일시
+[Name:DateTime ]
+ 
+승인이 허가되었습니다.  
+계속해서 플레이를 즐겨 주세요.</attr>
+[title/approval_027] 승인 의뢰중입니다
+승인 상황을 확인해 주세요
+[title/approval_028] 승인 대기 / 승인 완료 ID
+[title/approval_029] 승인 대기
+[title/approval_030] 승인 완료
+[title/approval_031] <attr font='fallback'>확인</attr>
+[title/approval_032] 개인정보의 수집・이용에 대해서
+[title/approval_033] 승인은 개인정보의 수집・이용에 대해서에 동의하실 필요가 있습니다.
+[title/approval_034] 개인정보의 수집・이용에 대해서를 읽고 이해한 후 동의하였습니다.
+[title/approval_035] <attr font='fallback'>거부</attr>
+[title/approval_036] <attr font='fallback'>승인</attr>
+[title/approval_037] ID 승인에 성공하였습니다.
+[title/approval_038] ID 승인을 거부하였습니다.
+[title/approval_039] 승인 대상 유저의 법정대리인임을 보증합니다
+[title/approval_040] <attr font='fallback'>승인 철회</attr>
+[title/approval_041] 해당 유저의
+"개인정보의 수집・이용에 대한 동의"를 철회하시겠습니까?
+
+철회하면 해당 유저는
+Pokémon Masters를
+플레이 할 수 없게 됩니다.
+[title/approval_042] 해당 유저의 승인을 철회하였습니다.
+[title/approval_044] OK
 
