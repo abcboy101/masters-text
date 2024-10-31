@@ -5427,20 +5427,20 @@ Professor Platan (Teil 2)
 [quest_title_1030440600103011] Vs. Troy
 [quest_title_1030440600105011] Vs. Wassili
 [quest_title_1030110000470100] Hintergedanken
-[quest_title_1030110000470600] Vs. Team Magma 1
+[quest_title_1030110000470600] Vs. Magma Rüpel 1
 [quest_title_1030110000470200] Kampf um Naturenergie
-[quest_title_1030110000470700] Vs. Team Aqua 1
+[quest_title_1030110000470700] Vs. Aqua Rüpel 1
 [quest_title_1030110000470300] Urzeitliche Pokémon
-[quest_title_1030110000470800] Vs. Team Magma 2
+[quest_title_1030110000470800] Vs. Magma Rüpel 2
 [quest_title_1030110000470400] Unabänderliche Prinzipien
-[quest_title_1030110000470900] Vs. Team Aqua 2
+[quest_title_1030110000470900] Vs. Aqua Rüpel 2
 [quest_title_1030110000470500] Unkontrollierbare Kräfte
 [quest_title_1030110000480100] Der kosmische Passagier
-[quest_title_1030110000480600] Vs. Team Magma 3
+[quest_title_1030110000480600] Vs. Magma Rüpel 3
 [quest_title_1030110000480200] Marc und Adrian
-[quest_title_1030110000480700] Vs. Team Aqua 3
+[quest_title_1030110000480700] Vs. Aqua Rüpel 3
 [quest_title_1030110000480300] Wunder der Natur
-[quest_title_1030110000480800] Vs. Team Magma 4
+[quest_title_1030110000480800] Vs. Magma Rüpel 4
 [quest_title_1030110000480400] Die Zerstörung des Meteors
 [quest_title_1030110000480900] Vs. Jördis und Wolfgang
 [quest_title_1030110000480500] Drahtzieher des Chaos
@@ -5625,6 +5625,75 @@ Monsters
 (Teil 1)
 [quest_title_1040002570001021] Ein besonderer Tag mit Roy
 (Teil 2)
+[quest_group_title_10004100000] MaMo-Lotta
+[quest_group_title_10020100000] MaMo-Warren
+[quest_group_title_10147000000] Matisse
+[quest_group_title_10089100000] MaMo-N
+[quest_group_title_10191000000] Achromas
+[quest_group_title_100105] Einall
+[quest_group_detail_100105] Die Legende der zwei Helden
+[quest_title_1030110000500100] Der Herrscher dieser Welt
+[quest_title_1030110000500600] Vs. Plasma Rüpel 1
+[quest_title_1030110000500200] Vermisste Personen
+[quest_title_1030110000500700] Vs. Plasma Rüpel 2
+[quest_title_1030110000500300] Befreiung der Pokémon
+[quest_title_1030110000500800] Vs. Plasma Rüpel 3
+[quest_title_1030110000500400] Ein gutes Herz
+[quest_title_1030110000500900] Vs. Plasma Rüpel 4
+[quest_title_1030110000500500] Durch Gefühle verbunden
+[quest_title_1030110000510100] Die wahre Identität
+[quest_title_1030110000510600] Vs. Finstrio 1
+[quest_title_1030110000510200] N und Matisse
+[quest_title_1030110000510700] Vs. Finstrio 2
+[quest_title_1030110000510300] Eine Attacke zum Durchbruch
+[quest_title_1030110000510800] Vs. Finstrio 3
+[quest_title_1030110000510400] Nach vorne schauen
+[quest_title_1030110000510900] Vs. G-Cis
+[quest_title_1030110000510500] Zwei Helden
+[quest_title_1030410000602010] Vs. Plasma Rüpel 1
+[quest_title_1030410000602020] Vs. Plasma Rüpel 2
+[quest_title_1030410000602030] Vs. Plasma Rüpel 3
+[quest_title_1030410000602040] Täglicher schwerer Kampf
+[quest_title_1030410000602050] Herausforderungskampf 1
+[quest_title_1030410000602060] Herausforderungskampf 2
+[quest_title_1030410000603010] Vs. Plasma Rüpel 1
+[quest_title_1030410000603020] Vs. Plasma Rüpel 2
+[quest_title_1030410000603030] Vs. Plasma Rüpel 3
+[quest_title_1030410000603040] Täglicher schwerer Kampf
+[quest_title_1030410000603050] Herausforderungskampf 1
+[quest_title_1030410000603060] Herausforderungskampf 2
+[quest_title_1030410000601010] Stelle dich Achromas! 1
+[quest_title_1030410000601020] Stelle dich Achromas! 2
+[quest_title_1030410000601030] Stelle dich Rosy! 1
+[quest_title_1030410000601040] Stelle dich Rosy! 2
+[quest_title_1030410000604010] Stelle dich G-Cis! 1
+[quest_title_1030410000604020] Stelle dich G-Cis! 2
+[quest_title_1030440708101010] Vs. Galantho 1
+[quest_title_1030440708102010] Vs. Galantho 2
+[quest_title_1030440708103010] Vs. Galantho 3
+[quest_title_1030440708104010] Vs. Galantho 4
+[quest_title_1030440708105010] Täglicher Bonus-Kampf
+[quest_title_1030220004100000] Ein Tag mit MaMo-Lotta
+[quest_title_1030220020100000] Ein Tag mit MaMo-Warren
+[quest_title_1030220089100000] Ein Tag mit MaMo-N
+[quest_title_1030220147000000] Ein Tag mit Matisse
+[quest_title_1030220191000000] Ein Tag mit Achromas
+[quest_title_1030410000605000] Die vielen Seiten von Evoli
+[quest_title_1030410000605010] Kampf mit Evoli! 1
+[quest_title_1030410000605020] Kampf mit Evoli! 2
+[quest_title_1030410000605030] Kampf mit Evoli! 3
+[quest_title_1030410000605040] Kampf mit Evoli! 4
+[quest_title_1030410000605050] Täglicher schwerer Kampf
+[quest_title_1030410000605080] Herausforderung: Neun
+Möglichkeiten
+[quest_title_1030410000605060] Extremkampf: Neun
+Möglichkeiten 1
+[quest_title_1030410000605070] Extremkampf: Neun
+Möglichkeiten 2
+[quest_title_1040001060001011] Ein besonderer Tag mit
+Kamilla (Teil 1)
+[quest_title_1040001060001021] Ein besonderer Tag mit
+Kamilla (Teil 2)
 
 ===========
 story_quest_name_en.lsd
@@ -8066,20 +8135,20 @@ story_quest_name_en.lsd
 [quest_title_1030440600103011] Steven
 [quest_title_1030440600105011] Wallace
 [quest_title_1030110000470100] Differing Perspectives
-[quest_title_1030110000470600] Challenge Team Magma: Part 1
+[quest_title_1030110000470600] Challenge the Magma Grunts: Part 1
 [quest_title_1030110000470200] Battle over Natural Energy
-[quest_title_1030110000470700] Challenge Team Aqua: Part 1
+[quest_title_1030110000470700] Challenge the Aqua Grunts: Part 1
 [quest_title_1030110000470300] Super-Ancient Pokémon and People
-[quest_title_1030110000470800] Challenge Team Magma: Part 2
+[quest_title_1030110000470800] Challenge the Magma Grunts: Part 2
 [quest_title_1030110000470400] Justice Serving Beliefs
-[quest_title_1030110000470900] Challenge Team Aqua: Part 2
+[quest_title_1030110000470900] Challenge the Aqua Grunts: Part 2
 [quest_title_1030110000470500] Uncontrollable Power
 [quest_title_1030110000480100] The Meteor’s Passenger
-[quest_title_1030110000480600] Challenge Team Magma: Part 3
+[quest_title_1030110000480600] Challenge the Magma Grunts: Part 3
 [quest_title_1030110000480200] Maxie and Archie
-[quest_title_1030110000480700] Challenge Team Aqua: Part 3
+[quest_title_1030110000480700] Challenge the Aqua Grunts: Part 3
 [quest_title_1030110000480300] The Terrifying Power of Nature
-[quest_title_1030110000480800] Challenge Team Magma: Part 4
+[quest_title_1030110000480800] Challenge the Magma Grunts: Part 4
 [quest_title_1030110000480400] Destroy the Meteor
 [quest_title_1030110000480900] Challenge Courtney and Matt
 [quest_title_1030110000480500] In the Shadows of Pasio’s Crisis
@@ -8247,6 +8316,72 @@ story_quest_name_en.lsd
 [quest_title_1030220652680000] A Day with Helena
 [quest_title_1040002570001011] A Special Day with Raihan: Part 1
 [quest_title_1040002570001021] A Special Day with Raihan: Part 2
+[quest_group_title_10004100000] Sygna Suit Hilda
+[quest_group_title_10020100000] Sygna Suit Hilbert
+[quest_group_title_10147000000] Hugh
+[quest_group_title_10089100000] Sygna Suit N
+[quest_group_title_10191000000] Colress
+[quest_group_title_100105] Unova
+[quest_group_detail_100105] Team Plasma & Two Heroes
+[quest_title_1030110000500100] The One to Rule the World
+[quest_title_1030110000500600] Challenge the Plasma Grunts: Part 1
+[quest_title_1030110000500200] Two Gone Missing
+[quest_title_1030110000500700] Challenge the Plasma Grunts: Part 2
+[quest_title_1030110000500300] Pokémon Released
+[quest_title_1030110000500800] Challenge the Plasma Grunts: Part 3
+[quest_title_1030110000500400] For the Kind People
+[quest_title_1030110000500900] Challenge the Plasma Grunts: Part 4
+[quest_title_1030110000500500] Sync Pairs’ Hearts Align
+[quest_title_1030110000510100] Spoken Names
+[quest_title_1030110000510600] Challenge the Shadow Triad: Part 1
+[quest_title_1030110000510200] N and Hugh
+[quest_title_1030110000510700] Challenge the Shadow Triad: Part 2
+[quest_title_1030110000510300] One Blow to Break Through
+[quest_title_1030110000510800] Challenge the Shadow Triad: Part 3
+[quest_title_1030110000510400] Keep Moving Forward!
+[quest_title_1030110000510900] Challenge Ghetsis
+[quest_title_1030110000510500] Two Heroes
+[quest_title_1030410000602010] Challenge the Plasma Grunts: Part 1
+[quest_title_1030410000602020] Challenge the Plasma Grunts: Part 2
+[quest_title_1030410000602030] Challenge the Plasma Grunts: Part 3
+[quest_title_1030410000602040] Daily Extreme Battle 1
+[quest_title_1030410000602050] Battle Challenge! Round 1
+[quest_title_1030410000602060] Battle Challenge! Round 2
+[quest_title_1030410000603010] Challenge the Plasma Grunts: Part 1
+[quest_title_1030410000603020] Challenge the Plasma Grunts: Part 2
+[quest_title_1030410000603030] Challenge the Plasma Grunts: Part 3
+[quest_title_1030410000603040] Daily Extreme Battle 1
+[quest_title_1030410000603050] Battle Challenge! Round 1
+[quest_title_1030410000603060] Battle Challenge! Round 2
+[quest_title_1030410000601010] Take On Colress! Part 1
+[quest_title_1030410000601020] Take On Colress! Part 2
+[quest_title_1030410000601030] Take On Rosa! Part 1
+[quest_title_1030410000601040] Take On Rosa! Part 2
+[quest_title_1030410000604010] Take On Ghetsis! Part 1
+[quest_title_1030410000604020] Take On Ghetsis! Part 2
+[quest_title_1030440708101010] Challenge Wulfric: Part 1
+[quest_title_1030440708102010] Challenge Wulfric: Part 2
+[quest_title_1030440708103010] Challenge Wulfric: Part 3
+[quest_title_1030440708104010] Challenge Wulfric: Part 4
+[quest_title_1030440708105010] Daily Bonus Battle 1
+[quest_title_1030220004100000] A Day with Sygna Suit Hilda
+[quest_title_1030220020100000] A Day with Sygna Suit Hilbert
+[quest_title_1030220089100000] A Day with Sygna Suit N
+[quest_title_1030220147000000] A Day with Hugh
+[quest_title_1030220191000000] A Day with Colress
+[quest_title_1030410000605000] Eevee’s Evolution Memories
+[quest_title_1030410000605010] Vee-ctorious with You! Part 1
+[quest_title_1030410000605020] Vee-ctorious with You! Part 2
+[quest_title_1030410000605030] Vee-ctorious with You! Part 3
+[quest_title_1030410000605040] Vee-ctorious with You! Part 4
+[quest_title_1030410000605050] Daily Extreme Battle 1
+[quest_title_1030410000605080] A Challenge with Nine Possibilities!
+[quest_title_1030410000605060] Extreme Battle!
+Nine Possibilities: Part 1
+[quest_title_1030410000605070] Extreme Battle!
+Nine Possibilities: Part 2
+[quest_title_1040001060001011] A Special Day with Elesa: Part 1
+[quest_title_1040001060001021] A Special Day with Elesa: Part 2
 
 ===========
 story_quest_name_es.lsd
@@ -10900,24 +11035,28 @@ Profesor Ciprés (2)
 [quest_title_1030440600103011] VS. Máximo
 [quest_title_1030440600105011] VS. Plubio
 [quest_title_1030110000470100] Cada cual con su plan
-[quest_title_1030110000470600] VS. Equipo Magma
+[quest_title_1030110000470600] VS. Reclutas del Equipo
+Magma
 [quest_title_1030110000470200] Combate por la energía
 natural
-[quest_title_1030110000470700] VS. Equipo Aqua
+[quest_title_1030110000470700] VS. Reclutas del Equipo Aqua
 [quest_title_1030110000470300] Humanos y Pokémon
 ancestrales
-[quest_title_1030110000470800] VS. Equipo Magma (2)
+[quest_title_1030110000470800] VS. Reclutas del Equipo
+Magma (2)
 [quest_title_1030110000470400] La defensa de un ideal
 irrenunciable
-[quest_title_1030110000470900] VS. Equipo Aqua (2)
+[quest_title_1030110000470900] VS. Reclutas del Equipo Aqua (2)
 [quest_title_1030110000470500] Un poder desbocado
 [quest_title_1030110000480100] A lomos de un meteorito
-[quest_title_1030110000480600] VS. Equipo Magma (3)
+[quest_title_1030110000480600] VS. Reclutas del Equipo
+Magma (3)
 [quest_title_1030110000480200] Magno y Aquiles
-[quest_title_1030110000480700] VS. Equipo Aqua (3)
+[quest_title_1030110000480700] VS. Reclutas del Equipo Aqua (3)
 [quest_title_1030110000480300] El devastador poder de la
 naturaleza
-[quest_title_1030110000480800] VS. Equipo Magma (4)
+[quest_title_1030110000480800] VS. Reclutas del Equipo
+Magma (4)
 [quest_title_1030110000480400] La destrucción del meteorito
 [quest_title_1030110000480900] VS. Carola y Matías
 [quest_title_1030110000480500] En las sombras de la crisis
@@ -11109,6 +11248,84 @@ misterioso
 [quest_title_1030220652680000] Un día con Agnès
 [quest_title_1040002570001011] Un día especial con Roy
 [quest_title_1040002570001021] Un día especial con Roy (2)
+[quest_group_title_10004100000] Liza (Traje S)
+[quest_group_title_10020100000] Lucho (Traje S)
+[quest_group_title_10147000000] Matís
+[quest_group_title_10089100000] N (Traje S)
+[quest_group_title_10191000000] Acromo
+[quest_group_title_100105] Trama de Teselia
+[quest_group_detail_100105] Equipo Plasma y dos héroes
+[quest_title_1030110000500100] El futuro señor del mundo
+[quest_title_1030110000500600] VS. Reclutas del Equipo
+Plasma
+[quest_title_1030110000500200] Los dos desaparecidos
+[quest_title_1030110000500700] VS. Reclutas del Equipo
+Plasma (2)
+[quest_title_1030110000500300] Liberar a los Pokémon
+[quest_title_1030110000500800] VS. Reclutas del Equipo
+Plasma (3)
+[quest_title_1030110000500400] Por la gente benevolente
+[quest_title_1030110000500900] VS. Reclutas del Equipo
+Plasma (4)
+[quest_title_1030110000500500] Los vínculos entre compis
+[quest_title_1030110000510100] El nombre revelado
+[quest_title_1030110000510600] VS. el Trío Sombrío
+[quest_title_1030110000510200] N y Matís
+[quest_title_1030110000510700] VS. el Trío Sombrío (2)
+[quest_title_1030110000510300] Un golpe para avanzar
+[quest_title_1030110000510800] VS. el Trío Sombrío (3)
+[quest_title_1030110000510400] Hay que mirar hacia delante
+[quest_title_1030110000510900] VS. Ghechis
+[quest_title_1030110000510500] Dos héroes
+[quest_title_1030410000602010] VS. Reclutas del Equipo
+Plasma
+[quest_title_1030410000602020] VS. Reclutas del Equipo
+Plasma (2)
+[quest_title_1030410000602030] VS. Reclutas del Equipo
+Plasma (3)
+[quest_title_1030410000602040] ¡Un combate difícil al día!
+[quest_title_1030410000602050] ¡Un combate desafiante!
+[quest_title_1030410000602060] ¡Un combate desafiante! (2)
+[quest_title_1030410000603010] VS. Reclutas del Equipo
+Plasma
+[quest_title_1030410000603020] VS. Reclutas del Equipo
+Plasma (2)
+[quest_title_1030410000603030] VS. Reclutas del Equipo
+Plasma (3)
+[quest_title_1030410000603040] ¡Un combate difícil al día!
+[quest_title_1030410000603050] ¡Un combate desafiante!
+[quest_title_1030410000603060] ¡Un combate desafiante! (2)
+[quest_title_1030410000601010] ¡Enfréntate a Acromo!
+[quest_title_1030410000601020] ¡Enfréntate a Acromo! (2)
+[quest_title_1030410000601030] ¡Enfréntate a Nanci!
+[quest_title_1030410000601040] ¡Enfréntate a Nanci! (2)
+[quest_title_1030410000604010] ¡Enfréntate a Ghechis!
+[quest_title_1030410000604020] ¡Enfréntate a Ghechis! (2)
+[quest_title_1030440708101010] VS. Édel
+[quest_title_1030440708102010] VS. Édel (2)
+[quest_title_1030440708103010] VS. Édel (3)
+[quest_title_1030440708104010] VS. Édel (4)
+[quest_title_1030440708105010] ¡Un combate extra al día!
+[quest_title_1030220004100000] Un día con Liza (Traje S)
+[quest_title_1030220020100000] Un día con Lucho (Traje S)
+[quest_title_1030220089100000] Un día con N (Traje S)
+[quest_title_1030220147000000] Un día con Matís
+[quest_title_1030220191000000] Un día con Acromo
+[quest_title_1030410000605000] Recordando las evoluciones
+de Eevee
+[quest_title_1030410000605010] ¡Hacia la Eevee-ctoria!
+[quest_title_1030410000605020] ¡Hacia la Eevee-ctoria! (2)
+[quest_title_1030410000605030] ¡Hacia la Eevee-ctoria! (3)
+[quest_title_1030410000605040] ¡Hacia la Eevee-ctoria! (4)
+[quest_title_1030410000605050] ¡Un combate difícil al día!
+[quest_title_1030410000605080] ¡Enfréntate a las nueve
+posibilidades!
+[quest_title_1030410000605060] ¡Un combate difícil: las nueve
+posibilidades!
+[quest_title_1030410000605070] ¡Un combate difícil: las nueve
+posibilidades! (2)
+[quest_title_1040001060001011] Un día especial con Camila
+[quest_title_1040001060001021] Un día especial con Camila (2)
 
 ===========
 story_quest_name_fr.lsd
@@ -13976,20 +14193,25 @@ le Professeur Platane II
 [quest_title_1030440600103011] Combat : Pierre Rochard
 [quest_title_1030440600105011] Combat : Marc
 [quest_title_1030110000470100] Faire preuve de patience
-[quest_title_1030110000470600] Combat : Team Magma
+[quest_title_1030110000470600] Combat : Sbires Team Magma
 [quest_title_1030110000470200] Lutte pour l'énergie naturelle
-[quest_title_1030110000470700] Combat : Team Aqua
+[quest_title_1030110000470700] Combat : Sbires Team Aqua
 [quest_title_1030110000470300] Pokémon ancestraux
-[quest_title_1030110000470800] Combat : Team Magma II
+[quest_title_1030110000470800] Combat :
+Sbires Team Magma II
 [quest_title_1030110000470400] Faire ce qui est juste
-[quest_title_1030110000470900] Combat : Team Aqua II
+[quest_title_1030110000470900] Combat :
+Sbires Team Aqua II
 [quest_title_1030110000470500] Fureur destructrice
 [quest_title_1030110000480100] Le passager de la météorite
-[quest_title_1030110000480600] Combat : Team Magma III
+[quest_title_1030110000480600] Combat :
+Sbires Team Magma III
 [quest_title_1030110000480200] Max et Arthur
-[quest_title_1030110000480700] Combat : Team Aqua III
+[quest_title_1030110000480700] Combat :
+Sbires Team Aqua III
 [quest_title_1030110000480300] La puissance de la nature
-[quest_title_1030110000480800] Combat : Team Magma IV
+[quest_title_1030110000480800] Combat :
+Sbires Team Magma IV
 [quest_title_1030110000480400] La destruction
 de la météorite
 [quest_title_1030110000480900] Combat : Courtney
@@ -14210,6 +14432,94 @@ Dresseurs de Passio IV
 avec Roy
 [quest_title_1040002570001021] Une journée spéciale
 avec Roy II
+[quest_group_title_10004100000] Ludvina (Look Ultime)
+[quest_group_title_10020100000] Ludwig (Look Ultime)
+[quest_group_title_10147000000] Matis
+[quest_group_title_10089100000] N (Look Ultime)
+[quest_group_title_10191000000] Nikolaï
+[quest_group_title_100105] Unys
+[quest_group_detail_100105] Team Plasma & deux héros
+[quest_title_1030110000500100] L'homme qui veut diriger
+le monde
+[quest_title_1030110000500600] Combat : Sbires Team Plasma
+[quest_title_1030110000500200] Les deux disparus
+[quest_title_1030110000500700] Combat :
+Sbires Team Plasma II
+[quest_title_1030110000500300] La libération des Pokémon
+[quest_title_1030110000500800] Combat :
+Sbires Team Plasma III
+[quest_title_1030110000500400] Pour toutes les âmes
+bienveillantes
+[quest_title_1030110000500900] Combat :
+Sbires Team Plasma IV
+[quest_title_1030110000500500] Ce qui fait la force des Duos
+[quest_title_1030110000510100] Identité révélée
+[quest_title_1030110000510600] Combat : Le Trio des Ombres
+[quest_title_1030110000510200] N et Matis
+[quest_title_1030110000510700] Combat :
+Le Trio des Ombres II
+[quest_title_1030110000510300] En un coup !
+[quest_title_1030110000510800] Combat :
+Le Trio des Ombres III
+[quest_title_1030110000510400] Vers l'avenir, sans
+se retourner !
+[quest_title_1030110000510900] Combat : Ghetis
+[quest_title_1030110000510500] Les deux héros
+[quest_title_1030410000602010] Combat : Sbires Team Plasma
+[quest_title_1030410000602020] Combat :
+Sbires Team Plasma II
+[quest_title_1030410000602030] Combat :
+Sbires Team Plasma III
+[quest_title_1030410000602040] Combat difficile limité
+à une fois par jour !
+[quest_title_1030410000602050] Combat difficile
+[quest_title_1030410000602060] Combat difficile II
+[quest_title_1030410000603010] Combat : Sbires Team Plasma
+[quest_title_1030410000603020] Combat :
+Sbires Team Plasma II
+[quest_title_1030410000603030] Combat :
+Sbires Team Plasma III
+[quest_title_1030410000603040] Combat difficile limité
+à une fois par jour !
+[quest_title_1030410000603050] Combat difficile
+[quest_title_1030410000603060] Combat difficile II
+[quest_title_1030410000601010] Combat corsé : Nikolaï
+[quest_title_1030410000601020] Combat corsé : Nikolaï II
+[quest_title_1030410000601030] Combat corsé : Écho
+[quest_title_1030410000601040] Combat corsé : Écho II
+[quest_title_1030410000604010] Combat corsé : Ghetis
+[quest_title_1030410000604020] Combat corsé : Ghetis II
+[quest_title_1030440708101010] Combat : Urup
+[quest_title_1030440708102010] Combat : Urup II
+[quest_title_1030440708103010] Combat : Urup III
+[quest_title_1030440708104010] Combat : Urup IV
+[quest_title_1030440708105010] Combat bonus limité
+à une fois par jour !
+[quest_title_1030220004100000] Une journée avec Ludvina
+(Look Ultime)
+[quest_title_1030220020100000] Une journée avec Ludwig
+(Look Ultime)
+[quest_title_1030220089100000] Une journée avec N
+(Look Ultime)
+[quest_title_1030220147000000] Une journée avec Matis
+[quest_title_1030220191000000] Une journée avec Nikolaï
+[quest_title_1030410000605000] Souvenirs des évolutions
+d'Évoli
+[quest_title_1030410000605010] Combat avec Évoli
+[quest_title_1030410000605020] Combat avec Évoli II
+[quest_title_1030410000605030] Combat avec Évoli III
+[quest_title_1030410000605040] Combat avec Évoli IV
+[quest_title_1030410000605050] Combat difficile limité
+à une fois par jour !
+[quest_title_1030410000605080] Un défi, neuf possibilités !
+[quest_title_1030410000605060] Combat difficile :
+Neuf possibilités
+[quest_title_1030410000605070] Combat difficile :
+Neuf possibilités II
+[quest_title_1040001060001011] Une journée spéciale
+avec Inezia
+[quest_title_1040001060001021] Une journée spéciale
+avec Inezia II
 
 ===========
 story_quest_name_it.lsd
@@ -16604,20 +16914,20 @@ story_quest_name_it.lsd
 [quest_title_1030440600103011] VS Rocco
 [quest_title_1030440600105011] VS Adriano
 [quest_title_1030110000470100] A ognuno i propri piani
-[quest_title_1030110000470600] VS Team Magma
+[quest_title_1030110000470600] VS Reclute del Team Magma
 [quest_title_1030110000470200] La lotta per l'energia naturale
-[quest_title_1030110000470700] VS Team Idro
+[quest_title_1030110000470700] VS Reclute del Team Idro
 [quest_title_1030110000470300] Esseri umani e Pokémon millenari
-[quest_title_1030110000470800] VS Team Magma 2
+[quest_title_1030110000470800] VS Reclute del Team Magma 2
 [quest_title_1030110000470400] Ciò che è giusto fare per i propri ideali
-[quest_title_1030110000470900] VS Team Idro 2
+[quest_title_1030110000470900] VS Reclute del Team Idro 2
 [quest_title_1030110000470500] Una furia incontrollabile
 [quest_title_1030110000480100] Il passeggero del meteorite
-[quest_title_1030110000480600] VS Team Magma 3
+[quest_title_1030110000480600] VS Reclute del Team Magma 3
 [quest_title_1030110000480200] Max e Ivan
-[quest_title_1030110000480700] VS Team Idro 3
+[quest_title_1030110000480700] VS Reclute del Team Idro 3
 [quest_title_1030110000480300] Lo spettacolo della natura
-[quest_title_1030110000480800] VS Team Magma 4
+[quest_title_1030110000480800] VS Reclute del Team Magma 4
 [quest_title_1030110000480400] La distruzione del meteorite
 [quest_title_1030110000480900] VS Rossella e Alan
 [quest_title_1030110000480500] L'ombra dietro la minaccia su Pasio
@@ -16785,6 +17095,70 @@ story_quest_name_it.lsd
 [quest_title_1030220652680000] Un giorno con Neride
 [quest_title_1040002570001011] Un giorno speciale con Laburno (1ª parte)
 [quest_title_1040002570001021] Un giorno speciale con Laburno (2ª parte)
+[quest_group_title_10004100000] Anita Costumax
+[quest_group_title_10020100000] Alcide Costumax
+[quest_group_title_10147000000] Toni
+[quest_group_title_10089100000] N Costumax
+[quest_group_title_10191000000] Acromio
+[quest_group_title_100105] Unima
+[quest_group_detail_100105] Il Team Plasma e i due eroi
+[quest_title_1030110000500100] Colui che conquisterà il mondo
+[quest_title_1030110000500600] VS Reclute del Team Plasma
+[quest_title_1030110000500200] Due Allenatori scomparsi
+[quest_title_1030110000500700] VS Reclute del Team Plasma 2
+[quest_title_1030110000500300] La liberazione dei Pokémon
+[quest_title_1030110000500800] VS Reclute del Team Plasma 3
+[quest_title_1030110000500400] Per gli animi gentili
+[quest_title_1030110000500900] VS Reclute del Team Plasma 4
+[quest_title_1030110000500500] L'affetto che lega le Unità
+[quest_title_1030110000510100] Il nome rivelato
+[quest_title_1030110000510600] VS Trio Oscuro
+[quest_title_1030110000510200] N e Toni
+[quest_title_1030110000510700] VS Trio Oscuro 2
+[quest_title_1030110000510300] Un attacco per avanzare
+[quest_title_1030110000510800] VS Trio Oscuro 3
+[quest_title_1030110000510400] Senza voltarsi indietro!
+[quest_title_1030110000510900] VS Ghecis
+[quest_title_1030110000510500] I due eroi
+[quest_title_1030410000602010] VS Reclute del Team Plasma
+[quest_title_1030410000602020] VS Reclute del Team Plasma 2
+[quest_title_1030410000602030] VS Reclute del Team Plasma 3
+[quest_title_1030410000602040] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030410000602050] Sfida ad alta difficoltà
+[quest_title_1030410000602060] Sfida ad alta difficoltà 2
+[quest_title_1030410000603010] VS Reclute del Team Plasma
+[quest_title_1030410000603020] VS Reclute del Team Plasma 2
+[quest_title_1030410000603030] VS Reclute del Team Plasma 3
+[quest_title_1030410000603040] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030410000603050] Sfida ad alta difficoltà
+[quest_title_1030410000603060] Sfida ad alta difficoltà 2
+[quest_title_1030410000601010] Sfida un avversario potente: Acromio
+[quest_title_1030410000601020] Sfida un avversario potente: Acromio 2
+[quest_title_1030410000601030] Sfida un avversario potente: Rina
+[quest_title_1030410000601040] Sfida un avversario potente: Rina 2
+[quest_title_1030410000604010] Sfida un avversario potente: Ghecis
+[quest_title_1030410000604020] Sfida un avversario potente: Ghecis 2
+[quest_title_1030440708101010] VS Edel
+[quest_title_1030440708102010] VS Edel 2
+[quest_title_1030440708103010] VS Edel 3
+[quest_title_1030440708104010] VS Edel 4
+[quest_title_1030440708105010] Lotta bonus (una al giorno)!
+[quest_title_1030220004100000] Un giorno con Anita Costumax
+[quest_title_1030220020100000] Un giorno con Alcide Costumax
+[quest_title_1030220089100000] Un giorno con N Costumax
+[quest_title_1030220147000000] Un giorno con Toni
+[quest_title_1030220191000000] Un giorno con Acromio
+[quest_title_1030410000605000] Ricordi delle evoluzioni di Eevee
+[quest_title_1030410000605010] Scontri festivi!
+[quest_title_1030410000605020] Scontri festivi! 2
+[quest_title_1030410000605030] Scontri festivi! 3
+[quest_title_1030410000605040] Scontri festivi! 4
+[quest_title_1030410000605050] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030410000605080] Sfida con nove possibilità!
+[quest_title_1030410000605060] Lotta ad alta difficoltà - Nove possibilità
+[quest_title_1030410000605070] Lotta ad alta difficoltà - Nove possibilità 2
+[quest_title_1040001060001011] Un giorno speciale con Camelia (1ª parte)
+[quest_title_1040001060001021] Un giorno speciale con Camelia (2ª parte)
 
 ===========
 story_quest_name_ja.lsd
@@ -19228,20 +19602,20 @@ story_quest_name_ja.lsd
 [quest_title_1030440600103011] ＶＳ　ダイゴ
 [quest_title_1030440600105011] ＶＳ　ミクリ
 [quest_title_1030110000470100] それぞれの思惑
-[quest_title_1030110000470600] ＶＳ　マグマ団
+[quest_title_1030110000470600] ＶＳ　マグマ団のしたっぱ
 [quest_title_1030110000470200] 自然エネルギーを巡る争い
-[quest_title_1030110000470700] ＶＳ　アクア団
+[quest_title_1030110000470700] ＶＳ　アクア団のしたっぱ
 [quest_title_1030110000470300] 超古代ポケモンと人間たち
-[quest_title_1030110000470800] ＶＳ　マグマ団２
+[quest_title_1030110000470800] ＶＳ　マグマ団のしたっぱ２
 [quest_title_1030110000470400] 理念のための正義
-[quest_title_1030110000470900] ＶＳ　アクア団２
+[quest_title_1030110000470900] ＶＳ　アクア団のしたっぱ２
 [quest_title_1030110000470500] 暴走する力
 [quest_title_1030110000480100] 流星と共に
-[quest_title_1030110000480600] ＶＳ　マグマ団３
+[quest_title_1030110000480600] ＶＳ　マグマ団のしたっぱ３
 [quest_title_1030110000480200] マツブサとアオギリ
-[quest_title_1030110000480700] ＶＳ　アクア団３
+[quest_title_1030110000480700] ＶＳ　アクア団のしたっぱ３
 [quest_title_1030110000480300] 大自然の驚異
-[quest_title_1030110000480800] ＶＳ　マグマ団４
+[quest_title_1030110000480800] ＶＳ　マグマ団のしたっぱ４
 [quest_title_1030110000480400] 流星を砕け
 [quest_title_1030110000480900] ＶＳ　カガリ・ウシオ
 [quest_title_1030110000480500] パシオの危機に潜む影
@@ -19416,6 +19790,70 @@ story_quest_name_ja.lsd
 [quest_title_1030220652680000] とある日のサヨコ
 [quest_title_1040002570001011] キバナとの特別な一日　前編
 [quest_title_1040002570001021] キバナとの特別な一日　後編
+[quest_group_title_10004100000] マジコストウコ
+[quest_group_title_10020100000] マジコストウヤ
+[quest_group_title_10147000000] ヒュウ
+[quest_group_title_10089100000] マジコスN
+[quest_group_title_10191000000] アクロマ
+[quest_group_title_100105] イッシュ編
+[quest_group_detail_100105] プラズマ団と二人の英雄
+[quest_title_1030110000500100] 世界を支配する男
+[quest_title_1030110000500600] ＶＳ　プラズマ団のしたっぱ
+[quest_title_1030110000500200] いなくなった　ふたり
+[quest_title_1030110000500700] ＶＳ　プラズマ団のしたっぱ２
+[quest_title_1030110000500300] ポケモンたちの解放
+[quest_title_1030110000500800] ＶＳ　プラズマ団のしたっぱ３
+[quest_title_1030110000500400] 優しきヒトのために
+[quest_title_1030110000500900] ＶＳ　プラズマ団のしたっぱ４
+[quest_title_1030110000500500] バディーズの重なる想い
+[quest_title_1030110000510100] 語られる名前
+[quest_title_1030110000510600] ＶＳ　ダークトリニティ
+[quest_title_1030110000510200] Ｎとヒュウ
+[quest_title_1030110000510700] ＶＳ　ダークトリニティ２
+[quest_title_1030110000510300] 突破口を開く一撃
+[quest_title_1030110000510800] ＶＳ　ダークトリニティ３
+[quest_title_1030110000510400] 振り返らずに　前へ！
+[quest_title_1030110000510900] ＶＳ　ゲーチス
+[quest_title_1030110000510500] ふたりの英雄
+[quest_title_1030410000602010] ＶＳ　プラズマ団のしたっぱ
+[quest_title_1030410000602020] ＶＳ　プラズマ団のしたっぱ２
+[quest_title_1030410000602030] ＶＳ　プラズマ団のしたっぱ３
+[quest_title_1030410000602040] １日１回限定・高難度バトル！
+[quest_title_1030410000602050] チャレンジバトルで勝負！
+[quest_title_1030410000602060] チャレンジバトルで勝負！２
+[quest_title_1030410000603010] ＶＳ　プラズマ団のしたっぱ
+[quest_title_1030410000603020] ＶＳ　プラズマ団のしたっぱ２
+[quest_title_1030410000603030] ＶＳ　プラズマ団のしたっぱ３
+[quest_title_1030410000603040] １日１回限定・高難度バトル！
+[quest_title_1030410000603050] チャレンジバトルで勝負！
+[quest_title_1030410000603060] チャレンジバトルで勝負！２
+[quest_title_1030410000601010] 強敵に挑戦！　ＶＳ　アクロマ
+[quest_title_1030410000601020] 強敵に挑戦！　ＶＳ　アクロマ２
+[quest_title_1030410000601030] 強敵に挑戦！　ＶＳ　メイ
+[quest_title_1030410000601040] 強敵に挑戦！　ＶＳ　メイ２
+[quest_title_1030410000604010] 強敵に挑戦！　ＶＳ　ゲーチス
+[quest_title_1030410000604020] 強敵に挑戦！　ＶＳ　ゲーチス２
+[quest_title_1030440708101010] ＶＳ　ウルップ
+[quest_title_1030440708102010] ＶＳ　ウルップ２
+[quest_title_1030440708103010] ＶＳ　ウルップ３
+[quest_title_1030440708104010] ＶＳ　ウルップ４
+[quest_title_1030440708105010] １日１回限定・ボーナスバトル！
+[quest_title_1030220004100000] とある日のマジコストウコ
+[quest_title_1030220020100000] とある日のマジコストウヤ
+[quest_title_1030220089100000] とある日のマジコスN
+[quest_title_1030220147000000] とある日のヒュウ
+[quest_title_1030220191000000] とある日のアクロマ
+[quest_title_1030410000605000] イーブイと進化の思い出
+[quest_title_1030410000605010] きみと戦いたイーブイ！
+[quest_title_1030410000605020] きみと戦いたイーブイ！２
+[quest_title_1030410000605030] きみと戦いたイーブイ！３
+[quest_title_1030410000605040] きみと戦いたイーブイ！４
+[quest_title_1030410000605050] １日１回限定・高難度バトル！
+[quest_title_1030410000605080] 挑戦！　９つの可能性！
+[quest_title_1030410000605060] 高難度バトル！９つの可能性！
+[quest_title_1030410000605070] 高難度バトル！９つの可能性！２
+[quest_title_1040001060001011] カミツレとの特別な一日　前編
+[quest_title_1040001060001021] カミツレとの特別な一日　後編
 
 ===========
 story_quest_name_ko.lsd
@@ -21858,20 +22296,20 @@ story_quest_name_ko.lsd
 [quest_title_1030440600103011] VS 성호
 [quest_title_1030440600105011] VS 윤진
 [quest_title_1030110000470100] 각각의 속셈
-[quest_title_1030110000470600] VS 마그마단
+[quest_title_1030110000470600] VS 마그마단의 조무래기
 [quest_title_1030110000470200] 자연 에너지를 둘러싼 싸움
-[quest_title_1030110000470700] VS 아쿠아단
+[quest_title_1030110000470700] VS 아쿠아단의 조무래기
 [quest_title_1030110000470300] 초 고대포켓몬과 인간들
-[quest_title_1030110000470800] VS 마그마단2
+[quest_title_1030110000470800] VS 마그마단의 조무래기2
 [quest_title_1030110000470400] 이념을 위한 정의
-[quest_title_1030110000470900] VS 아쿠아단2
+[quest_title_1030110000470900] VS 아쿠아단의 조무래기2
 [quest_title_1030110000470500] 폭주하는 힘
 [quest_title_1030110000480100] 유성과 함께
-[quest_title_1030110000480600] VS 마그마단3
+[quest_title_1030110000480600] VS 마그마단의 조무래기3
 [quest_title_1030110000480200] 마적과 아강
-[quest_title_1030110000480700] VS 아쿠아단3
+[quest_title_1030110000480700] VS 아쿠아단의 조무래기3
 [quest_title_1030110000480300] 대자연의 경이로움
-[quest_title_1030110000480800] VS 마그마단4
+[quest_title_1030110000480800] VS 마그마단의 조무래기4
 [quest_title_1030110000480400] 유성을 부숴라
 [quest_title_1030110000480900] VS 구열, 해조
 [quest_title_1030110000480500] 파시오의 위기에 숨은 그림자
@@ -22046,6 +22484,70 @@ story_quest_name_ko.lsd
 [quest_title_1030220652680000] 소야의 어느 날
 [quest_title_1040002570001011] 금랑과의 특별한 하루 전편
 [quest_title_1040002570001021] 금랑과의 특별한 하루 후편
+[quest_group_title_10004100000] 궁극코스 투희
+[quest_group_title_10020100000] 궁극코스 투지
+[quest_group_title_10147000000] 휴이
+[quest_group_title_10089100000] 궁극코스 N
+[quest_group_title_10191000000] 아크로마
+[quest_group_title_100105] 하나지방 편
+[quest_group_detail_100105] 플라스마단과 두 영웅
+[quest_title_1030110000500100] 세계를 지배하는 남자
+[quest_title_1030110000500600] VS 플라스마단의 조무래기
+[quest_title_1030110000500200] 사라진 두 사람
+[quest_title_1030110000500700] VS 플라스마단의 조무래기2
+[quest_title_1030110000500300] 포켓몬들의 해방
+[quest_title_1030110000500800] VS 플라스마단의 조무래기3
+[quest_title_1030110000500400] 상냥한 사람을 위해
+[quest_title_1030110000500900] VS 플라스마단의 조무래기4
+[quest_title_1030110000500500] 버디즈의 하나 되는 마음
+[quest_title_1030110000510100] 불린 이름
+[quest_title_1030110000510600] VS 다크트리니티
+[quest_title_1030110000510200] N과 휴이
+[quest_title_1030110000510700] VS 다크트리니티2
+[quest_title_1030110000510300] 돌파구를 여는 일격
+[quest_title_1030110000510800] VS 다크트리니티3
+[quest_title_1030110000510400] 돌아보지 말고 앞으로!
+[quest_title_1030110000510900] VS 게치스
+[quest_title_1030110000510500] 두 영웅
+[quest_title_1030410000602010] VS 플라스마단의 조무래기
+[quest_title_1030410000602020] VS 플라스마단의 조무래기2
+[quest_title_1030410000602030] VS 플라스마단의 조무래기3
+[quest_title_1030410000602040] 1일 1회 한정 고난도 배틀!
+[quest_title_1030410000602050] 챌린지배틀로 승부!
+[quest_title_1030410000602060] 챌린지배틀로 승부!2
+[quest_title_1030410000603010] VS 플라스마단의 조무래기
+[quest_title_1030410000603020] VS 플라스마단의 조무래기2
+[quest_title_1030410000603030] VS 플라스마단의 조무래기3
+[quest_title_1030410000603040] 1일 1회 한정 고난도 배틀!
+[quest_title_1030410000603050] 챌린지배틀로 승부!
+[quest_title_1030410000603060] 챌린지배틀로 승부!2
+[quest_title_1030410000601010] 강적에게 도전! VS 아크로마
+[quest_title_1030410000601020] 강적에게 도전! VS 아크로마2
+[quest_title_1030410000601030] 강적에게 도전! VS 명희
+[quest_title_1030410000601040] 강적에게 도전! VS 명희2
+[quest_title_1030410000604010] 강적에게 도전! VS 게치스
+[quest_title_1030410000604020] 강적에게 도전! VS 게치스2
+[quest_title_1030440708101010] VS 우르프
+[quest_title_1030440708102010] VS 우르프2
+[quest_title_1030440708103010] VS 우르프3
+[quest_title_1030440708104010] VS 우르프4
+[quest_title_1030440708105010] 1일 1회 한정 보너스 배틀!
+[quest_title_1030220004100000] 궁극코스 투희의 어느 날
+[quest_title_1030220020100000] 궁극코스 투지의 어느 날
+[quest_title_1030220089100000] 궁극코스 N의 어느 날
+[quest_title_1030220147000000] 휴이의 어느 날
+[quest_title_1030220191000000] 아크로마의 어느 날
+[quest_title_1030410000605000] 이브이와 진화의 추억
+[quest_title_1030410000605010] 너랑 싸우고 싶다브이!
+[quest_title_1030410000605020] 너랑 싸우고 싶다브이!2
+[quest_title_1030410000605030] 너랑 싸우고 싶다브이!3
+[quest_title_1030410000605040] 너랑 싸우고 싶다브이!4
+[quest_title_1030410000605050] 1일 1회 한정 고난도 배틀!
+[quest_title_1030410000605080] 도전! 9가지 가능성!
+[quest_title_1030410000605060] 고난도 배틀! 9가지 가능성!
+[quest_title_1030410000605070] 고난도 배틀! 9가지 가능성!2
+[quest_title_1040001060001011] 카밀레와의 특별한 하루 전편
+[quest_title_1040001060001021] 카밀레와의 특별한 하루 후편
 
 ===========
 story_quest_name_zh-TW.lsd
@@ -24488,20 +24990,20 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030440600103011] ＶＳ　大吾
 [quest_title_1030440600105011] ＶＳ　米可利
 [quest_title_1030110000470100] 各自的意圖
-[quest_title_1030110000470600] ＶＳ　熔岩隊
+[quest_title_1030110000470600] ＶＳ　熔岩隊手下
 [quest_title_1030110000470200] 爭奪自然能量
-[quest_title_1030110000470700] ＶＳ　海洋隊
+[quest_title_1030110000470700] ＶＳ　海洋隊手下
 [quest_title_1030110000470300] 超古代寶可夢與人類
-[quest_title_1030110000470800] ＶＳ　熔岩隊２
+[quest_title_1030110000470800] ＶＳ　熔岩隊手下２
 [quest_title_1030110000470400] 堅持理念的正義
-[quest_title_1030110000470900] ＶＳ　海洋隊２
+[quest_title_1030110000470900] ＶＳ　海洋隊手下２
 [quest_title_1030110000470500] 失控的力量
 [quest_title_1030110000480100] 與流星一同
-[quest_title_1030110000480600] ＶＳ　熔岩隊３
+[quest_title_1030110000480600] ＶＳ　熔岩隊手下３
 [quest_title_1030110000480200] 赤焰松與水梧桐
-[quest_title_1030110000480700] ＶＳ　海洋隊３
+[quest_title_1030110000480700] ＶＳ　海洋隊手下３
 [quest_title_1030110000480300] 大自然的奇異現象
-[quest_title_1030110000480800] ＶＳ　熔岩隊４
+[quest_title_1030110000480800] ＶＳ　熔岩隊手下４
 [quest_title_1030110000480400] 粉碎流星
 [quest_title_1030110000480900] ＶＳ　火雁／阿潮
 [quest_title_1030110000480500] 潛伏在帕希歐危機中的影子
@@ -24676,6 +25178,70 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030220652680000] 某日的紗幽子
 [quest_title_1040002570001011] 與奇巴納的特別日子　前篇
 [quest_title_1040002570001021] 與奇巴納的特別日子　後篇
+[quest_group_title_10004100000] 美極套裝鬥子
+[quest_group_title_10020100000] 美極套裝鬥也
+[quest_group_title_10147000000] 阿修
+[quest_group_title_10089100000] 美極套裝N
+[quest_group_title_10191000000] 阿克羅瑪
+[quest_group_title_100105] 合眾篇
+[quest_group_detail_100105] 等離子隊與兩位英雄
+[quest_title_1030110000500100] 支配世界的男人
+[quest_title_1030110000500600] ＶＳ　等離子隊手下
+[quest_title_1030110000500200] 下落不明的兩人
+[quest_title_1030110000500700] ＶＳ　等離子隊手下２
+[quest_title_1030110000500300] 寶可夢們的解放
+[quest_title_1030110000500800] ＶＳ　等離子隊手下３
+[quest_title_1030110000500400] 為了善良的人們
+[quest_title_1030110000500900] ＶＳ　等離子隊手下４
+[quest_title_1030110000500500] 拍組的層層心意
+[quest_title_1030110000510100] 被道出的名字
+[quest_title_1030110000510600] ＶＳ　黑暗鐵三角
+[quest_title_1030110000510200] Ｎ與阿修
+[quest_title_1030110000510700] ＶＳ　黑暗鐵三角２
+[quest_title_1030110000510300] 打開突破口的一擊
+[quest_title_1030110000510800] ＶＳ　黑暗鐵三角３
+[quest_title_1030110000510400] 勇往直前不回頭！
+[quest_title_1030110000510900] ＶＳ　魁奇思
+[quest_title_1030110000510500] 兩位英雄
+[quest_title_1030410000602010] ＶＳ　等離子隊手下
+[quest_title_1030410000602020] ＶＳ　等離子隊手下２
+[quest_title_1030410000602030] ＶＳ　等離子隊手下３
+[quest_title_1030410000602040] １天僅限１次的高難度對戰！
+[quest_title_1030410000602050] 用挑戰對戰決勝負！
+[quest_title_1030410000602060] 用挑戰對戰決勝負！２
+[quest_title_1030410000603010] ＶＳ　等離子隊手下
+[quest_title_1030410000603020] ＶＳ　等離子隊手下２
+[quest_title_1030410000603030] ＶＳ　等離子隊手下３
+[quest_title_1030410000603040] １天僅限１次的高難度對戰！
+[quest_title_1030410000603050] 用挑戰對戰決勝負！
+[quest_title_1030410000603060] 用挑戰對戰決勝負！２
+[quest_title_1030410000601010] 挑戰強敵！　ＶＳ　阿克羅瑪
+[quest_title_1030410000601020] 挑戰強敵！　ＶＳ　阿克羅瑪２
+[quest_title_1030410000601030] 挑戰強敵！　ＶＳ　鳴依
+[quest_title_1030410000601040] 挑戰強敵！　ＶＳ　鳴依２
+[quest_title_1030410000604010] 挑戰強敵！　ＶＳ　魁奇思
+[quest_title_1030410000604020] 挑戰強敵！　ＶＳ　魁奇思２
+[quest_title_1030440708101010] ＶＳ　得撫
+[quest_title_1030440708102010] ＶＳ　得撫２
+[quest_title_1030440708103010] ＶＳ　得撫３
+[quest_title_1030440708104010] ＶＳ　得撫４
+[quest_title_1030440708105010] １天僅限１次的獎勵對戰！
+[quest_title_1030220004100000] 某日的美極套裝鬥子
+[quest_title_1030220020100000] 某日的美極套裝鬥也
+[quest_title_1030220089100000] 某日的美極套裝N
+[quest_title_1030220147000000] 某日的阿修
+[quest_title_1030220191000000] 某日的阿克羅瑪
+[quest_title_1030410000605000] 與伊布的進化回憶
+[quest_title_1030410000605010] 想與你對戰的伊布！
+[quest_title_1030410000605020] 想與你對戰的伊布！２
+[quest_title_1030410000605030] 想與你對戰的伊布！３
+[quest_title_1030410000605040] 想與你對戰的伊布！４
+[quest_title_1030410000605050] １天僅限１次的高難度對戰！
+[quest_title_1030410000605080] 挑戰！９種可能性！
+[quest_title_1030410000605060] 高難度對戰！９種可能性！
+[quest_title_1030410000605070] 高難度對戰！９種可能性！２
+[quest_title_1040001060001011] 與小菊兒的特別日子　前篇
+[quest_title_1040001060001021] 與小菊兒的特別日子　後篇
 
 ===========
 trainer_description_de.lsd
@@ -25553,6 +26119,35 @@ erklären lassen. Sie mag keine Menschenmengen.
 [10257000001] Dieser Trainer genießt den Ruf des stärksten Arenaleiters
 der Galar-Region. Sobald der Kampf beginnt, weicht
 seine typische Gelassenheit einem glühenden Siegeswillen.
+[10020100000] Warren ist in seiner Machtmontur zurück! Er liebt den
+Kampf und versteht sich ausgezeichnet mit Genesect,
+einem einst gefürchteten Jäger aus der Urzeit.
+[10004100000] Lotta ist in ihrer Machtmontur zurück! Gestärkt durch die
+Macht ihres Pokémon Victini strotzt sie nur so vor Energie!
+[10089100000] N ist in seiner Machtmontur zurück! Er schreitet weiter der
+Zukunft entgegen und wird dabei von seinem Freund
+Zekrom sowie von Kyurem, das ihm von Warren
+anvertraut wurde, begleitet.
+[10191000000] Dieser Wissenschaftler und ehemalige Boss von Team
+Plasma widmet sich Tag und Nacht der Forschung, um
+Pokémon ihr wahres Potenzial zu entlocken.
+[10147000000] Dieser Trainer aus Eventura City in der Einall-Region hat
+einen ausgeprägten Gerechtigkeitssinn und sorgt sich stets
+um seine kleine Schwester. Er vergibt niemandem, der
+versucht, Menschen und ihre Pokémon zu trennen.
+[10162000001] Dieser Trainer aus Sandgemme in der Sinnoh-Region ist
+der Assistent von Professor Eibe, einem Experten für die
+Entwicklung von Pokémon. Sein freundliches Wesen sowie
+sein starker Gerechtigkeitssinn zeichnen ihn aus.
+[10018000001] Sie ist ein reisefreudiger Trainer und stellt auch unterwegs
+ihr großes Wissen unter Beweis. Krista ist hilfsbereit und
+kümmert sich liebevoll um alle Pokémon.
+[10002000001] Lyra ist ein wissbegieriger und lebhafter Trainer. Das Band
+zu ihren Pokémon ist ihr sehr wichtig und sie kümmert sich
+jederzeit liebevoll um sie.
+[10106000001] Die auch als Model tätige Elektro-Arenaleiterin verzaubert
+alle, die ihr beim Kämpfen in ihrer einer prächtigen Bühne
+gleichenden Arena zuschauen.
 
 ===========
 trainer_description_en.lsd
@@ -26334,6 +26929,34 @@ She’s not the biggest fan of crowded places.
 [10257000001] Said to be the strongest Gym Leader in Galar, this Trainer
 has an easygoing personality that quickly changes to a
 fiery determination to win once he starts to battle.
+[10020100000] Hilbert is back in his sygna suit. With his love for battles,
+he makes the perfect partner for Genesect, the feared
+ancient hunter.
+[10004100000] Hilda is back in her sygna suit. She’s bursting with even
+more energy than ever, thanks to her partner
+Pokémon, Victini.
+[10089100000] N is back in his synga suit. Together with Kyurem, which
+Hilbert passed to him, and his friend Zekrom, he will
+forge a brighter future.
+[10191000000] This scientist and former boss of Team Plasma spends
+all his days and nights researching how to bring out
+the potential of Pokémon.
+[10147000000] This Trainer is from Aspertia City in Unova. He has a
+strong sense of justice and cares for his sister. He won’t
+tolerate evil that tries to tear people and Pokémon apart.
+[10162000001] This Trainer is from Sandgem Town in the Sinnoh region.
+With a kind soul and strong sense of justice, he’s also an
+assistant to Professor Rowan, the authority on
+Pokémon Evolution.
+[10018000001] Utilizing her deep knowledge of Pokémon on her journey,
+she looks out for all Pokémon and treats them with love.
+She is known for her kind personality.
+[10002000001] This highly curious, active young Trainer cherishes the
+bonds she has with her Pokémon. She is always doting
+on them.
+[10106000001] This Electric-type Gym Leader also works as a model.
+Watching her battle in the beautiful, bright lights of her
+Gym can be mesmerizing.
 
 ===========
 trainer_description_es.lsd
@@ -27256,6 +27879,35 @@ gustan demasiado las multitudes.
 fuerte como él. Tan simpático a primera vista como
 implacable en combate, su carácter se transforma por
 completo cuando pelea por la victoria.
+[10020100000] Lucho vuelve con su nuevo Traje Summum. Su pasión por
+el combate hace que él y el fiero cazador de la
+antigüedad Genesect sean la pareja perfecta.
+[10004100000] Liza regresa luciendo un nuevo Traje Summum. El poder
+que le aporta su compi, Victini, hace que esté aún más
+rebosante de energía de lo habitual.
+[10089100000] N porta un Traje Summum y sigue avanzando hacia el
+futuro con la ayuda de su amigo Zekrom y de Kyurem,
+quien solía acompañar a Lucho.
+[10191000000] Científico que solía ser el jefe del Equipo Plasma. Trabaja
+día y noche en su investigación sobre métodos de
+extracción de potencial de los Pokémon.
+[10147000000] Entrenador apasionado y con un fuerte sentido de la
+justicia, procedente de Ciudad Engobe en Teselia. Cuida
+mucho de su hermanita pequeña y no soporta a aquellos
+que intentan separar a la gente de sus Pokémon.
+[10162000001] Entrenador procedente de Pueblo Arena, en la región de
+Sinnoh. Es el ayudante del Profesor Serbal, una autoridad
+en el campo de la evolución Pokémon. León destaca por
+su buen corazón y su gran sentido de la justicia.
+[10018000001] Gentil Entrenadora que recorre el mundo para ampliar
+sus conocimientos sobre los Pokémon, por los que se
+desvive y profesa gran amor.
+[10002000001] Joven Entrenadora llena de vida e infinita curiosidad.
+Adora a los Pokémon por encima de todo y los cuida
+con esmero.
+[10106000001] Líder de Gimnasio experta en Pokémon de tipo Eléctrico
+que trabaja también como modelo. La gracilidad con la
+que combate encandila a cualquiera que la presencia.
 
 ===========
 trainer_description_fr.lsd
@@ -28129,6 +28781,38 @@ et le pouvoir des Pokémon ne peuvent pas expliquer.
 Elle ne raffole pas de lieux remplis de foule.
 [10257000001] Le Champion d'Arène le plus puissant de Galar.
 D'ordinaire amical, il est impitoyable en combat.
+[10020100000] Ludwig est de retour dans son Look Ultime !
+Sa passion pour les combats en fait le partenaire
+parfait pour Genesect, un Pokémon des temps
+anciens particulièrement féroce.
+[10004100000] Ludvina est de retour dans son Look Ultime !
+Grâce à son Pokémon, Victini, elle déborde
+d'énergie, et ce plus que jamais !
+[10089100000] N est de retour dans son Look Ultime !
+Grâce au Kyurem qu'il a reçu de son ami Ludwig
+ainsi qu'à son fidèle partenaire Zekrom, il est
+à présent capable de se tourner vers l'avenir
+et d'aller de l'avant.
+[10191000000] Ce scientifique est un ancien haut gradé de la Team
+Plasma. De jour comme de nuit, il ne pense qu'à
+une chose : ses recherches sur le potentiel des Pokémon.
+[10147000000] Ce Dresseur au tempérament fougueux est originaire
+de Pavonnay, dans la région d'Unys. Très protecteur
+envers sa sœur, il a un grand cœur et ne pardonne
+pas à ceux qui séparent les Pokémon de leur Dresseurs.
+[10162000001] Un Dresseur originaire de Littorella, dans la région
+de Sinnoh. Il est l'assistant du Professeur Sorbier,
+expert reconnu en évolution. Il a bon cœur
+et un grand sens de la justice.
+[10018000001] Capable de bien s'entendre avec n'importe quel
+Pokémon, cette Dresseuse voyage pour en apprendre
+plus à leur sujet.
+[10002000001] Une jeune Dresseuse énergique qui prend grand soin
+de ses Pokémon et renforce constamment ses liens
+avec eux.
+[10106000001] Une top model et Championne du type Électrik.
+Elle fait preuve d'une élégance incomparable lorsqu'elle
+se bat dans son Arène en forme de podium.
 
 ===========
 trainer_description_it.lsd
@@ -28986,6 +29670,35 @@ Non va matta per i luoghi affollati.
 [10257000001] Considerato da molti il Capopalestra più forte di Galar,
 ha un temperamento gioviale, ma mostra tutta la sua
 determinazione non appena comincia una lotta.
+[10020100000] Alcide, con la sua caratteristica passione per le lotte,
+indossa un Costumax e dimostra una compatibilità
+perfetta con l'antico e temuto cacciatore Genesect.
+[10004100000] Anita indossa un Costumax e, grazie alla carica che le dà
+il suo Pokémon, Victini, è più energica che mai!
+[10089100000] N indossa un Costumax e avanza verso il futuro unendo
+le forze con il suo amico Zekrom e il Kyurem che gli ha
+affidato Alcide.
+[10191000000] Scienziato ed ex-leader del Team Plasma, porta avanti
+le sue ricerche giorno e notte per comprendere come
+sviluppare appieno il potenziale dei Pokémon.
+[10147000000] Allenatore proveniente da Alisopoli, nella regione
+di Unima, è molto affezionato alla sua sorellina.
+Ha un temperamento focoso e un forte senso di giustizia,
+e non perdona i malvagi che separano le persone e
+i Pokémon.
+[10162000001] Un Allenatore proveniente da Sabbiafine, nella regione
+di Sinnoh. Lavora come assistente del Professor Rowan,
+un'autorità nel campo delle evoluzioni. Ha un animo
+gentile e un forte senso di giustizia.
+[10018000001] Allenatrice gentile e premurosa. Viaggia per sfruttare
+le sue vaste conoscenze sui Pokémon, di cui si prende
+cura alla perfezione.
+[10002000001] Giovane Allenatrice piena di curiosità ed entusiasmo.
+Tiene molto al legame con il suo Pokémon, che tratta
+sempre con gran cura.
+[10106000001] Capopalestra di tipo Elettro e modella di successo.
+Vederla lottare con eleganza nella sua Palestra,
+simile a una passerella, lascia estasiati gli spettatori.
 
 ===========
 trainer_description_ja.lsd
@@ -29764,6 +30477,33 @@ trainer_description_ja.lsd
 [10257000001] ガラル地方で　最強と　いわれる　ジムリーダー。
 ポケモン勝負になると　気さくな性格から　一変するが
 それは勝負に対して　全力であることの表れだ。
+[10020100000] マジコスを　身にまとった　トウヤ。
+勝負好きなトウヤと　古代のハンターとして
+恐れられていた　ゲノセクトとは　相性バッチリ。
+[10004100000] マジコスを　身にまとった　トウコ。
+バディの　ビクティニから　パワーをもらって
+いつも以上に　元気いっぱい。
+[10089100000] マジコスを　身にまとった　Ｎ。
+トウヤから　譲り受けた　キュレムと　トモダチの
+ゼクロムと　力をあわせ　未来へ　進む。
+[10191000000] プラズマ団の　元ボスだった　科学者。
+ポケモンの　潜在能力を　引きだすものに　ついて
+日夜　研究を　続けている。
+[10147000000] イッシュ地方　ヒオウギシティ出身の　トレーナー。
+妹想いの　熱い性格で　正義感が　強く
+人と　ポケモンを　引き離す　悪は　許さない。
+[10162000001] シンオウ地方　マサゴタウン　出身の　トレーナー。
+進化の権威　ナナカマド博士の　助手を　している。
+正義感が　強く　優しい　性格。
+[10018000001] ポケモンについて　詳しく　知識を　生かして
+旅をしている　トレーナー。　どんな　ポケモンにも
+愛情深く　接する　面倒見のいい　優しい性格。
+[10002000001] 好奇心が　強く　活発な　少女トレーナー。
+ポケモンとの　絆を　大切にしており　いつも
+連れている　ポケモンを　かわいがっている。
+[10106000001] モデルとしても　活躍している　でんきタイプの
+ジムリーダー。　華やかな　ステージのような
+ジムで　勝負する姿は　みる者を　魅了する。
 
 ===========
 trainer_description_ko.lsd
@@ -30541,6 +31281,33 @@ WPM 운영위원회의 대표도 맡고 있다.
 [10257000001] 가라르지방에서 최강이라 불리는 체육관 관장.
 포켓몬 승부가 시작되면 온화한 성격에서 매섭게 변하지만
 그건 승부에 전력을 다하기 때문이다.
+[10020100000] 궁극코스를 입은 투지.
+승부를 좋아하는 투지와 고대의 사냥꾼으로서
+모두를 두려움에 떨게 한 게노세크트는 합이 잘 맞는다.
+[10004100000] 궁극코스를 입은 투희.
+버디인 비크티니로부터 파워를 받아
+평소보다도 기운이 넘친다.
+[10089100000] 궁극코스를 입은 N.
+투지로부터 받은 큐레무와
+친구인 제크로무와 힘을 합쳐 미래로 나아간다.
+[10191000000] 플라스마단의 보스였었던 과학자.
+포켓몬의 잠재 능력을 이끌어내는 것에 관해
+밤낮으로 연구를 계속하고 있다.
+[10147000000] 하나지방 부채시티 출신의 트레이너.
+여동생을 소중히 생각하며 불같은 성격으로
+정의감이 강해 사람과 포켓몬을 떨어뜨리는 악은 용서하지 않는다.
+[10162000001] 신오지방의 잔모래마을 출신 트레이너.
+진화의 권위자 마박사의 조수이다.
+정의감이 강하며 상냥한 성격을 가졌다.
+[10018000001] 포켓몬에 대한 해박한 지식을 살려
+여행 중인 트레이너. 어떤 포켓몬이라도
+깊은 애정을 가지고 대하는 상냥한 성격을 가졌다.
+[10002000001] 호기심이 강하고 활발한 소녀 트레이너.
+포켓몬과의 유대를 소중히 생각해서 언제나
+데리고 다니는 포켓몬을 귀여워해 준다.
+[10106000001] 모델로서도 활약하고 있는 전기타입의 체육관 관장.
+화려한 스테이지 같은 체육관에서
+승부하는 모습은 보는 사람을 매료시킨다.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -31318,6 +32085,33 @@ trainer_description_zh-TW.lsd
 [10257000001] 被稱為伽勒爾最強的道館館主。
 在寶可夢對戰時，他平易近人的個性會徹底改變，
 但那正是他全力迎戰的證明。
+[10020100000] 身穿美極套裝的鬥也。
+熱愛對戰的鬥也和以古代獵手的身份
+受到畏懼的蓋諾賽克特是絕佳搭配。
+[10004100000] 身穿美極套裝的鬥子。
+她從拍檔比克提尼身上獲得了力量，
+活力比平時還要充沛。
+[10089100000] 身穿美極套裝的Ｎ。
+與鬥也交付給他的酋雷姆
+以及朋友捷克羅姆協力邁向未來。
+[10191000000] 等離子隊的前任老大，是位科學家。
+他日以繼夜地研究
+什麼會激發寶可夢的潛力。
+[10147000000] 來自合眾地區檜扇市的訓練家。
+有著疼愛妹妹火熱性格，且極具正義感。
+無法饒恕強行分離人類與寶可夢的壞人。
+[10162000001] 來自神奧地區真砂鎮的訓練家。
+他是研究進化的權威山梨博士的助手。
+正義感強烈，為人溫和柔順。
+[10018000001] 熟知寶可夢，把對寶可夢的豐富知識
+運用在旅行中的訓練家。個性溫柔體貼，
+不管任何寶可夢都能灌注愛心去照顧。
+[10002000001] 好奇心旺盛，個性活潑的少女訓練家。
+非常重視自己與寶可夢間的牽絆，
+無時無刻都對自己的寶可夢寵愛不已。
+[10106000001] 身兼人氣模特兒的電屬性道館館主。
+在舞台般華麗的道館對戰的模樣，
+總是令在場的所有人為她深深著迷。
 
 ===========
 trainer_name_de.lsd
@@ -31537,6 +32331,11 @@ trainer_name_de.lsd
 [ch0503] Aqua Rüpel
 [ch0651] Mathilda
 [ch0652] Helen
+[ch0265] Finstrio
+[ch0266] Finstrio
+[ch0267] Finstrio
+[ch0608] Plasma Rüpel
+[ch0609] Plasma Rüpel
 
 ===========
 trainer_name_en.lsd
@@ -31756,6 +32555,11 @@ trainer_name_en.lsd
 [ch0503] Team Aqua Grunt
 [ch0651] Naomi
 [ch0652] Helena
+[ch0265] The Shadow Triad
+[ch0266] The Shadow Triad
+[ch0267] The Shadow Triad
+[ch0608] Team Plasma Grunt
+[ch0609] Team Plasma Grunt
 
 ===========
 trainer_name_es.lsd
@@ -31975,6 +32779,11 @@ trainer_name_es.lsd
 [ch0503] Recluta del Equipo Aqua
 [ch0651] Berta
 [ch0652] Agnès
+[ch0265] Trío Sombrío
+[ch0266] Trío Sombrío
+[ch0267] Trío Sombrío
+[ch0608] Recluta del Equipo Plasma
+[ch0609] Recluta del Equipo Plasma
 
 ===========
 trainer_name_fr.lsd
@@ -32194,6 +33003,11 @@ trainer_name_fr.lsd
 [ch0503] Sbire Team Aqua
 [ch0651] Ninna
 [ch0652] Héléna
+[ch0265] Le Trio des Ombres
+[ch0266] Le Trio des Ombres
+[ch0267] Le Trio des Ombres
+[ch0608] Sbire Team Plasma
+[ch0609] Sbire Team Plasma
 
 ===========
 trainer_name_it.lsd
@@ -32413,6 +33227,11 @@ trainer_name_it.lsd
 [ch0503] Recluta del Team Idro
 [ch0651] Gaia
 [ch0652] Neride
+[ch0265] Trio Oscuro
+[ch0266] Trio Oscuro
+[ch0267] Trio Oscuro
+[ch0608] Recluta del Team Plasma
+[ch0609] Recluta del Team Plasma
 
 ===========
 trainer_name_ja.lsd
@@ -32632,6 +33451,11 @@ trainer_name_ja.lsd
 [ch0503] アクアだんの　したっぱ
 [ch0651] ナナセ
 [ch0652] サヨコ
+[ch0265] ダークトリニティ
+[ch0266] ダークトリニティ
+[ch0267] ダークトリニティ
+[ch0608] プラズマだんの　したっぱ
+[ch0609] プラズマだんの　したっぱ
 
 ===========
 trainer_name_ko.lsd
@@ -32851,6 +33675,11 @@ trainer_name_ko.lsd
 [ch0503] 아쿠아단의 조무래기
 [ch0651] 새나
 [ch0652] 소야
+[ch0265] 다크트리니티
+[ch0266] 다크트리니티
+[ch0267] 다크트리니티
+[ch0608] 플라스마단의 조무래기
+[ch0609] 플라스마단의 조무래기
 
 ===========
 trainer_name_zh-TW.lsd
@@ -33070,6 +33899,11 @@ trainer_name_zh-TW.lsd
 [ch0503] 海洋隊手下
 [ch0651] 奈奈彩
 [ch0652] 紗幽子
+[ch0265] 黑暗鐵三角
+[ch0266] 黑暗鐵三角
+[ch0267] 黑暗鐵三角
+[ch0608] 等離子隊手下
+[ch0609] 等離子隊手下
 
 ===========
 trainer_verbose_name_de.lsd
@@ -33208,6 +34042,9 @@ trainer_verbose_name_de.lsd
 [10128100000] MaMo-Heiko
 [10652680000] Helen 
 (Hexe)
+[10020100000] MaMo-Warren
+[10004100000] MaMo-Lotta
+[10089100000] MaMo-N
 
 ===========
 trainer_verbose_name_en.lsd
@@ -33354,6 +34191,9 @@ Brendan
 [10128100000] Sygna Suit Wally
 [10652680000] Helena 
 (Hex Maniac)
+[10020100000] Sygna Suit Hilbert
+[10004100000] Sygna Suit Hilda
+[10089100000] Sygna Suit N
 
 ===========
 trainer_verbose_name_es.lsd
@@ -33477,6 +34317,9 @@ Rayo)
 (Temporada 22)
 [10128100000] Blasco (Traje S)
 [10652680000] Agnès (Bruja)
+[10020100000] Lucho (Traje S)
+[10004100000] Liza (Traje S)
+[10089100000] N (Traje S)
 
 ===========
 trainer_verbose_name_fr.lsd
@@ -33612,6 +34455,9 @@ trainer_verbose_name_fr.lsd
 [10128100000] Timmy (Ultime)
 [10652680000] Héléna 
 (Mystimaniac)
+[10020100000] Ludwig (Ultime)
+[10004100000] Ludvina (Ultime)
+[10089100000] N (Ultime)
 
 ===========
 trainer_verbose_name_it.lsd
@@ -33751,6 +34597,9 @@ trainer_verbose_name_it.lsd
 [10128100000] Lino Costumax
 [10652680000] Neride 
 (Streghetta)
+[10020100000] Alcide Costumax
+[10004100000] Anita Costumax
+[10089100000] N Costumax
 
 ===========
 trainer_verbose_name_ja.lsd
@@ -33890,6 +34739,9 @@ trainer_verbose_name_ja.lsd
 [10128100000] マジコスミツル
 [10652680000] サヨコ
 （オカルトマニア）
+[10020100000] マジコストウヤ
+[10004100000] マジコストウコ
+[10089100000] マジコスN
 
 ===========
 trainer_verbose_name_ko.lsd
@@ -34029,6 +34881,9 @@ trainer_verbose_name_ko.lsd
 [10128100000] 궁극코스 민진
 [10652680000] 소야
 (오컬트마니아)
+[10020100000] 궁극코스 투지
+[10004100000] 궁극코스 투희
+[10089100000] 궁극코스 N
 
 ===========
 trainer_verbose_name_zh-TW.lsd
@@ -34168,6 +35023,9 @@ trainer_verbose_name_zh-TW.lsd
 [10128100000] 美極套裝滿充
 [10652680000] 紗幽子
 （靈異迷）
+[10020100000] 美極套裝鬥也
+[10004100000] 美極套裝鬥子
+[10089100000] 美極套裝N
 
 ===========
 common_widget_de.lsd
@@ -39798,6 +40656,25 @@ Reinicie o jogo
 Wartungsarbeiten derzeit nicht
 verfügbar. Wir entschuldigen uns für
 die Unannehmlichkeiten.
+[error_dialog_contents/32101] Du kannst gekaufte Juwelen, die durch
+einen exklusiven Login-Bonus erhalten
+wurden, beim Übertragen von Daten
+von einem Gerät mit einem anderen
+Betriebssystem (z. B. iOS oder Android)
+als dem, mit dem das entsprechende
+Set gekauft wurde, nicht beanspruchen.
+Übertrage die Daten erneut auf ein
+Gerät mit demselben Betriebssystem
+wie das für den Kauf verwendete, um
+die Juwelen beanspruchen zu können.
+[error_dialog_contents/32102] Die gekauften Juwelen konnten nicht in Anspruch genommen werden.
+
+Bitte wende dich an den Kundenservice.
+[error_dialog_contents/32103] Das Produkt konnte nach dem Kauf nicht in Anspruch genommen werden.
+
+Bitte überprüfe deine Verbindung und probiere es mit einem Neustart der App.
+
+Falls das Produkt noch immer nicht in Anspruch genommen werden kann, wende dich bitte an den Kundenservice.
 
 ===========
 error_dialog_contents_en.lsd
@@ -40028,6 +40905,21 @@ purchase the bundle.
 [error_dialog_contents/30913] This sync pair scout is currently
 unavailable due to maintenance.
 We apologize for any inconvenience.
+[error_dialog_contents/32101] If game data is transferred to a device with a
+different OS (such as iOS or Android) than the device
+on which a bundle was purchased, paid gems
+from the exclusive log-in bonus cannot be claimed.
+In order to claim paid gems, try transferring
+data to a device with the same OS as the one used to
+purchase the bundle.
+[error_dialog_contents/32102] The paid gems could not be claimed successfully.
+
+Please contact customer support.
+[error_dialog_contents/32103] The product could not be successfully claimed after purchase.
+
+Please check your connection and try restarting the application.
+
+If you are unable to claim the product, please contact customer support.
 
 ===========
 error_dialog_contents_es.lsd
@@ -40283,6 +41175,30 @@ que utilices durante la compra.
 [error_dialog_contents/30913] El reclutamiento no está disponible
 debido a labores de mantenimiento.
 Lamentamos las molestias.
+[error_dialog_contents/32101] Si transfieres tus datos de guardado a
+un dispositivo que tenga un sistema
+operativo (iOS o Android) distinto al
+dispositivo con el que compres un lote,
+no podrás obtener las joyas de pago
+de la bonificación de inicio de sesión.
+Para poder obtenerlas, vuelve a
+transferir los datos a un dispositivo con
+el mismo sistema operativo que el
+que utilices durante la compra.
+[error_dialog_contents/32102] No has podido obtener las joyas de
+pago.
+
+Ponte en contacto con Atención al
+cliente.
+[error_dialog_contents/32103] No has podido obtener los artículos
+adquiridos.
+
+Comprueba tu conexión y prueba a
+reiniciar el juego.
+
+Si sigues sin poder recibir los artículos,
+ponte en contacto con Atención al
+cliente.
 
 ===========
 error_dialog_contents_fr.lsd
@@ -40539,6 +41455,30 @@ maintenance, vous ne pouvez
 pas passer cet Appel Duo.
 Veuillez nous excuser pour
 la gêne occasionnée.
+[error_dialog_contents/32101] Si vous transférez vos données de
+sauvegarde vers un appareil doté d'un
+système d'exploitation (iOS ou Android)
+différent de l'appareil avec lequel vous
+achetez un lot, vous ne pourrez pas
+recevoir les Diamants payants
+du bonus de connexion exclusif.
+Pour les obtenir, transférez à nouveau
+les données vers un appareil doté
+du même système d'exploitation
+que celui utilisé lors de l'achat.
+[error_dialog_contents/32102] Les Diamants payants n'ont pas pu
+être obtenus.
+
+Veuillez contacter le service client.
+[error_dialog_contents/32103] Le produit acheté n'a pas pu
+être obtenu.
+
+Vérifiez votre connexion, puis
+redémarrez l'application.
+
+Si vous ne parvenez toujours pas
+à recevoir le produit acheté, veuillez
+contacter le service client.
 
 ===========
 error_dialog_contents_it.lsd
@@ -40798,6 +41738,25 @@ utilizzato all'acquisto.
 [error_dialog_contents/30913] Questa Unicerca non può essere
 effettuata per via di una manutenzione
 in corso. Ci scusiamo per il disagio.
+[error_dialog_contents/32101] Trasferendo i dati di gioco a
+un dispositivo con un sistema operativo
+diverso (come iOS o Android) da quello
+del dispositivo utilizzato per l'acquisto
+di un pacchetto, non sarà possibile
+ricevere le gemme a pagamento
+ottenute con il bonus accesso esclusivo.
+Per ricevere le gemme a pagamento
+puoi trasferire nuovamente i dati a
+un dispositivo dotato dello stesso
+sistema operativo utilizzato all'acquisto.
+[error_dialog_contents/32102] Non è stato possibile ricevere correttamente le gemme a pagamento.
+
+Si prega di contattare il servizio clienti.
+[error_dialog_contents/32103] Non è stato possibile ottenere correttamente il prodotto acquistato.
+
+Si prega di controllare la connessione e provare a riavviare il gioco.
+
+Qualora non dovesse essere ancora possibile ottenere il prodotto, si prega di contattare il servizio clienti.
 
 ===========
 error_dialog_contents_ja.lsd
@@ -41089,6 +42048,27 @@ OS（iOSやAndroidなど）の
 ご利用いただけません
 
 ご迷惑をおかけしております
+[error_dialog_contents/32101] 該当のパックを購入した端末と異なる
+OS（iOSやAndroidなど）の
+端末にデータを引き継いだ場合は
+購入者限定ログインボーナスの有償ダイヤを
+受け取ることはできません
+購入した端末と同じOSの端末に
+再度データを引き継いでお受け取りください
+[error_dialog_contents/32102] 有償ダイヤを受け取る処理が
+正常に完了できませんでした
+
+カスタマーサポートに
+お問い合わせください
+[error_dialog_contents/32103] 購入処理後の商品受取が
+正常に完了できませんでした
+
+通信環境を確認し
+アプリの再起動をお試しください
+
+購入した商品が受け取れない場合
+カスタマーサポートに
+お問い合わせください
 
 ===========
 error_dialog_contents_ko.lsd
@@ -41349,6 +42329,25 @@ OS(iOS 또는 Android 등)의
 [error_dialog_contents/30913] 본 버디즈서치는 점검 중이므로
 이용하실 수 없습니다
 추후에 다시 시도하여 주십시오
+[error_dialog_contents/32101] 해당 팩을 구입한 단말기와
+다른 OS(iOS 또는 Android 등)의 단말기로
+데이터를 이어받은 경우에는
+구입자 대상 로그인 보너스의 유료 다이아를
+받을 수 없습니다
+구입한 단말기와 같은 OS 단말기로
+다시 데이터 이어받기를 진행하여 주십시오
+[error_dialog_contents/32102] 유료 다이아 수령 처리가
+정상적으로 완료되지 않았습니다
+
+고객 서포트로 문의해 주십시오
+[error_dialog_contents/32103] 구입 처리 후 상품 수령이
+정상적으로 완료되지 않았습니다
+
+통신 환경을 확인한 다음
+앱을 재기동하여 주십시오
+
+구입한 상품을 받지 못한 경우
+고객 서포트로 문의해 주십시오
 
 ===========
 error_dialog_contents_zh-TW.lsd
@@ -41575,6 +42574,23 @@ Reinicie o jogo
 [error_dialog_contents/30913] 此拍組搜尋正在進行系統維護
 因此無法使用
 敬請見諒
+[error_dialog_contents/32101] 購買特定組合包後若將資料轉移到
+不同OS（iOS或Android等）的裝置上
+將無法領取購買者限定登入獎勵的付費鑽石
+請再次將資料轉移到與購買組合包時
+相同OS的裝置，以便領取鑽石
+[error_dialog_contents/32102] 無法正常完成
+領取付費鑽石程序
+
+請聯絡「用戶服務」
+[error_dialog_contents/32103] 無法正常領取
+已完成購買程序的商品
+
+請檢查通訊環境
+並嘗試重新啟動應用程式
+
+無法領取已購買的商品時
+請聯絡「用戶服務」
 
 ===========
 home_de.lsd
@@ -41813,6 +42829,7 @@ Belohnung erhalten!
 [home/quest_list_172] Wird freigeschaltet, wenn du ein Kapitel
 des Schurkenteams [Digit:2digits ] Mal auf dem
 Schwierigkeitsgrad Normal abgeschlossen hast.
+[home/quest_list_175] Kampfpunkte-Bonus
 [home/quest_detail_003] Empfohlener Typ
 [home/quest_detail_005] Details
 [home/quest_detail_009] Teamauswahl
@@ -42105,6 +43122,18 @@ verstärken
 [home/home_060] Schau mal rein!
 [home/home_061] Item-Limit
 [home/home_062] Event im Gang
+[home/home_063] Kampfpunkte-Bonus
+[home/home_064] Neue Angebotssets!
+[home/home_065] Das Tägliche Juwelenset (EX), mit dem
+du Juwelen zum Sonderpreis erhalten
+kannst, wenn du dich täglich einloggst,
+sowie das Kampfpunkte-Bonusticket,
+das die Anzahl an in Regionskämpfen
+erhältlichen Kampfpunkten erhöht, sind
+jetzt verfügbar!
+Diese neuen Produkte können im Laden
+unter „Spezial-Sets kaufen“ gekauft
+werden.
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missionen
 [home/global_menu_008] Freunde
@@ -42145,6 +43174,10 @@ nicht, es abzuholen!
 [home/login_bonus_015] Am zweiten und siebten Tag kannst du
 5★-Garantie-G-Suchetickets x30 erhalten und
 dir ein 5★-Gefährtengespann ins Team holen!
+[home/login_bonus_016] Du kannst keine weiteren Juwelen abholen, da du sonst das Limit überschreiten würdest.
+Verbrauche einige deiner Juwelen, bevor du neue abholst.
+
+Hinweis: Die Obergrenze an gekauften Juwelen in deinem Besitz beträgt [Digit:5digits ].
 [home/app_review_001] Bewertung
 [home/app_review_002] Vielen Dank, dass du
 [Name:TitleName ] spielst!
@@ -42729,6 +43762,7 @@ To unlock, collect more:
 [home/quest_list_171] Unlocks in [Name:DateTime ]
 [home/quest_list_172] To unlock, complete [Digit:2digits ] chapter(s) of
 the villain arc on Normal.
+[home/quest_list_175] BP Boost
 [home/quest_detail_003] Recommended Types
 [home/quest_detail_005] Area Details
 [home/quest_detail_009] Preset Teams
@@ -43028,6 +44062,10 @@ a Champion Bundle!
 [home/home_060] Check it out!
 [home/home_061] Inventory Limit
 [home/home_062] Event
+[home/home_063] BP Boost
+[home/home_064] New Special Bundles!
+[home/home_065] The Daily Gem Bundle EX, which provides you gems at a discount for logging in daily, and the battle point boost pass, which increases how much BP you can obtain from region rotation battles, are now available!
+These new products can be purchased in the Purchase Bundles section of the shop.
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missions
 [home/global_menu_008] Friends
@@ -43066,6 +44104,10 @@ Don’t forget to pick it up!
 [home/login_bonus_015] On day two and day seven, you can get
 5★-Guaranteed Scout Tickets ×30 and team up
 with a 5★ sync pair.
+[home/login_bonus_016] You can’t obtain any more gems because it would exceed the limit.
+Please reduce your number of gems before obtaining more.
+
+Note: The limit for how many paid gems you can have is [Digit:5digits ].
 [home/app_review_001] Review
 [home/app_review_002] Thank you for playing
 [Name:TitleName ]!
@@ -43625,6 +44667,7 @@ tienes bastante del siguiente objeto:
 [home/quest_list_172] Se desbloqueará al completar [Digit:2digits ]
 capítulo[ES:Qty P="s" ] de la trama equipo villano en
 dificultad normal.
+[home/quest_list_175] Puntos de combate ↑
 [home/quest_detail_003] Tipos recomendados
 [home/quest_detail_005] Detalles
 [home/quest_detail_009] Elegir equipo
@@ -43931,6 +44974,18 @@ Pokémon
 [home/home_060] ¡Echa un ojo!
 [home/home_061] Límite de objetos
 [home/home_062] Evento activo
+[home/home_063] Puntos de combate ↑
+[home/home_064] ¡Nuevos lotes especiales!
+[home/home_065] ¡Ya están disponibles el lote de joyas
+diario EX, con el que puedes obtener
+joyas a precio reducido al iniciar
+sesión, y el Pase Extra de Puntos de
+Combate, que aumenta los puntos de
+combate que recibes en los combates
+por regiones!
+
+Puedes adquirirlos en la sección
+"Comprar lotes" de la tienda.
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Misiones
 [home/global_menu_008] Amigos
@@ -43969,6 +45024,13 @@ regalos, no lo olvides.
 [home/login_bonus_015] En los días 2 y 7 puedes obtener 30 Billetes
 Reclutamiento 5★ para reclutar parejas de
 compis de 5★ con cada uno de ellos.
+[home/login_bonus_016] No puedes obtener más joyas porque
+has excedido el límite.
+
+Vuelve a intentarlo cuando hayas
+utilizado algunas.
+
+Límite de joyas de pago: [Digit:5digits ].
 [home/app_review_001] Valoración
 [home/app_review_002] ¡Muchas gracias por jugar a
 [Name:TitleName ]!
@@ -44568,6 +45630,7 @@ Nécessaire pour débloquer :
 [home/quest_list_172] Débloqué après avoir terminé [Digit:2digits ]
 chapitre[FR:Qty P="s" ] de « L'organisation maléfique »
 au niveau Normal.
+[home/quest_list_175] Boost Points de Combat
 [home/quest_detail_003] Types conseillés
 [home/quest_detail_005] Infos
 [home/quest_detail_009] Équipes
@@ -44875,6 +45938,18 @@ le Pack Maître !
 [home/home_060] Jetez un œil !
 [home/home_061] Limite d'inventaire
 [home/home_062] Évènement en cours
+[home/home_063] Boost Points de Combat
+[home/home_064] Nouveaux packs spéciaux !
+[home/home_065] Le Pack de Diamants Journalier EX,
+qui pour un prix réduit, vous procure
+des Diamants à chaque connexion,
+et le Pass Boost Pts de Combat, qui
+augmente le nombre de PCo que
+vous pouvez obtenir lors des combats
+régionaux, sont à présent disponibles !
+Ces nouveaux produits peuvent être
+achetés dans la boutique, depuis
+la section « Achat de lots ».
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missions
 [home/global_menu_008] Amis
@@ -44913,6 +45988,11 @@ Ne les oubliez pas !
 [home/login_bonus_015] Utilisez les 30 Bons Appel Duo 5★ Garanti
 reçus le deuxième et septième jour pour
 faire équipe avec un Duo 5★ !
+[home/login_bonus_016] Vous ne pouvez pas recevoir de
+Diamants car vous dépasseriez
+la limite. Veuillez en utiliser avant
+d'en recevoir à nouveau. La limite
+de Diamants payants est de [Digit:5digits ].
 [home/app_review_001] Avis
 [home/app_review_002] Merci d'avoir joué à
 [Name:TitleName ] !
@@ -45564,6 +46644,7 @@ Ti serve: [Name:Item ].
 [Name:DateTime ]
 [home/quest_list_172] Si sblocca completando [Digit:2digits ] capitol[IT:Qty S="o" P="i" ] qualsiasi
 di "I gruppi malvagi" in modalità normale.
+[home/quest_list_175] Bonus Punti Lotta
 [home/quest_detail_003] Tipi consigliati
 [home/quest_detail_005] Info area
 [home/quest_detail_009] Scegli squadra
@@ -45872,6 +46953,11 @@ più gemme!
 [home/home_060] Da non perdere!
 [home/home_061] Limite strumenti
 [home/home_062] Evento in corso
+[home/home_063] Bonus Punti Lotta
+[home/home_064] Nuovi pacchetti disponibili!
+[home/home_065] Sono ora disponibili il Pacchetto gemme giornaliere EX, con il quale puoi ricevere gemme effettuando l'accesso, e il Pass bonus Punti Lotta, che aumenta i Punti Lotta ottenibili nelle lotte regionali!
+
+Puoi acquistare questi nuovi prodotti nella sezione "Acquisto pacchetti" del negozio.
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missioni
 [home/global_menu_008] Amici
@@ -45910,6 +46996,11 @@ Ricordati di ritirarlo!
 [home/login_bonus_015] Il secondo e il settimo giorno puoi ricevere
 30 Ticket Unicerca 5★ e usarli per fare squadra
 con un'Unità 5★.
+[home/login_bonus_016] Non puoi ricevere altre gemme perché supererebbero il limite.
+
+Riduci il numero di gemme prima di riceverne altre.
+
+Attenzione: puoi avere al massimo [Digit:5digits ] gemme a pagamento.
 [home/app_review_001] Lascia una recensione
 [home/app_review_002] Grazie per aver giocato
 a [Name:TitleName ]!
@@ -46541,6 +47632,7 @@ Lv.[Digit:2digits ]で解放
 [home/quest_list_171] あと[Name:DateTime ]で解放
 [home/quest_list_172] 悪の組織編のいずれかの編のNORMALを
 [Digit:2digits ]種　全クリアすることで解放
+[home/quest_list_175] バトルポイントアップ
 [home/quest_detail_003] おすすめのタイプ
 [home/quest_detail_005] エリア詳細
 [home/quest_detail_009] チーム選択
@@ -46839,6 +47931,16 @@ Lv.[Digit:2digits ]で解放
 [home/home_060] 要チェック！
 [home/home_061] ストック上限
 [home/home_062] イベント中
+[home/home_063] バトルポイントアップ
+[home/home_064] おとくな新パック登場！
+[home/home_065] 毎日のログインでおとくにダイヤがもらえる
+EXデイリーダイヤパックや
+地方バトルでもらえる
+バトルptがアップする
+バトルポイントブーストパスが登場！
+
+新しい商品はショップの
+「おとくなパック購入」から購入できます
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] ミッション
 [home/global_menu_008] ともだち
@@ -46877,6 +47979,14 @@ Lv.[Digit:2digits ]で解放
 [home/login_bonus_015] ２日目と７日目にもらえる
 「★５確定Ｂサーチチケット×30」
 で★５バディーズが１組ずつ仲間に
+[home/login_bonus_016] ダイヤ所持数が上限を超えるため
+受け取れません
+
+ダイヤを減らしてから
+受け取ってください
+
+※ダイヤ(有償分)の所持上限は
+[Digit:5digits ]個です
 [home/app_review_001] レビュー
 [home/app_review_002] [Name:TitleName ]をプレイいただき
 ありがとうございます
@@ -47498,6 +48608,7 @@ Lv.[Digit:2digits ]에서 해방
 [home/quest_list_171] 앞으로 [Name:DateTime ] 뒤에 해방
 [home/quest_list_172] 악의 조직 편에 있는 편을 NORMAL로
 [Digit:2digits ] 종류 모두 클리어하면 해방
+[home/quest_list_175] 배틀포인트 업
 [home/quest_detail_003] 추천타입
 [home/quest_detail_005] 에리어 상세
 [home/quest_detail_009] 팀 선택
@@ -47792,6 +48903,16 @@ Lv.[Digit:2digits ]에서 해방
 [home/home_060] 확인 필요!
 [home/home_061] 비축 상한
 [home/home_062] 이벤트 중
+[home/home_063] 배틀포인트 업
+[home/home_064] 새로운 스페셜 팩 등장!
+[home/home_065] 매일 로그인하면 다이아를 받을 수 있는
+EX일일 다이아 팩과
+지방 배틀에서 받을 수 있는
+배틀pt가 증가하는
+배틀포인트 부스트 패스가 등장!
+
+새로운 상품은 숍의
+"스페셜 팩 구입"에서 구입할 수 있습니다
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] 미션
 [home/global_menu_008] 친구
@@ -47830,6 +48951,14 @@ Lv.[Digit:2digits ]에서 해방
 [home/login_bonus_015] 2일차와 7일차에 받을 수 있는
 "★5 확정 B서치 티켓 30장"으로
 ★5 버디즈를 하나씩 동료로 만들 수 있습니다
+[home/login_bonus_016] 다이아 보유 수량이 상한을 넘어
+받을 수 없습니다
+
+다이아를 소모한 다음에
+받아주십시오
+
+※다이아(유료분)의 보유 상한은
+[Digit:5digits ]개입니다
 [home/app_review_001] 리뷰
 [home/app_review_002] [Name:TitleName ][Kor:Particle char="wo" ] 플레이해주셔서
 감사합니다
@@ -48423,6 +49552,7 @@ home_zh-TW.lsd
 [home/quest_list_171] 還剩[Name:DateTime ]開放
 [home/quest_list_172] 成功過關邪惡組織篇中
 任[Digit:2digits ]篇的所有NORMAL後即可開放
+[home/quest_list_175] 對戰點數提升
 [home/quest_detail_003] 推薦屬性
 [home/quest_detail_005] 區域詳情
 [home/quest_detail_009] 選擇隊伍
@@ -48710,6 +49840,16 @@ home_zh-TW.lsd
 [home/home_060] 需確認！
 [home/home_061] 儲存上限
 [home/home_062] 活動舉辦中
+[home/home_063] 對戰點數提升
+[home/home_064] 物超所值的全新組合包登場！
+[home/home_065] 每天登入時可獲得超值鑽石的
+EX每日鑽石組合包
+以及在地區對戰能獲得的
+對戰點數會提升的
+對戰點數增量證登場！
+
+新商品可以從商店的
+「購買超值組合包」中購買
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] 任務
 [home/global_menu_008] 朋友
@@ -48744,6 +49884,13 @@ home_zh-TW.lsd
 [home/login_bonus_015] 利用在第２天和第７天可獲得的
 「必得★５拍組搜尋券×30」
 分別獲得１對★５拍組成為夥伴
+[home/login_bonus_016] 領取後將會使鑽石個數超過持有上限
+因此無法領取
+
+請減少鑽石數量後再重新領取
+
+※付費鑽石的持有上限為
+[Digit:5digits ]個
 [home/app_review_001] 評論
 [home/app_review_002] 非常感謝您對
 [Name:TitleName ]的支持！
@@ -49304,6 +50451,27 @@ abholst.
 Hinweis: Die Obergrenze an gekauften
 Juwelen in deinem Besitz beträgt
 [Digit:5digits ].
+[shop/shop_medal_094] Serienbonus
+[shop/shop_medal_095] Kampfpunkte-Bonusticket
+([Digit:2digits ] Tag[DE:Qty P="e" ])
+[shop/shop_medal_096] Gekaufte Juwelen
+([Digit:2digits ] Login[DE:Qty P="s" ])
+[shop/shop_medal_097] Noch [Digit:3digits ] Tag[DE:Qty P="e" ]
+[shop/shop_medal_098] Gekauftes Set
+(Tägliche Logins: [Digit:3digits ]/[Digit:3digits Idx="1" ])
+[shop/shop_medal_099] [Digit:3digits ] Tage nach dem Kauf eines Sets können
+alle verbleibenden gekauften Juwelen abgeholt
+werden, unabhängig von der Anzahl deiner Logins.
+[shop/shop_medal_100] Da der Gefährtendrops-Bonus eines
+anderen Produkts bereits aktiv ist, kann
+der Bonus dieses Produkts nicht aktiviert
+werden. Stattdessen wird Folgendes
+an deine Geschenkbox geschickt:
+[Name:Item ] × [Digit:6digits Idx="1" ] (Max. für [Digit:2digits ] Tag[DE:Qty P="e" ])
+[shop/shop_medal_101] Der Gefährtendrops-Bonus anderer Produkte bleibt aktiv.
+[shop/shop_medal_102] Da seit deinem Kauf des Täglichen Juwelenset (EX) [Digit:2digits ] Tage vergangen sind, wurden die verbleibenden gekauften Juwelen des Login-Bonus an deine Geschenkbox geschickt.
+[shop/shop_medal_103] Da seit deinem Kauf des Täglichen Juwelenset (EX) S [Digit:2digits ] Tage vergangen sind, wurden die verbleibenden gekauften Juwelen des Login-Bonus an deine Geschenkbox geschickt.
+[shop/shop_medal_104] Login-Boni, die keine gekauften Juwelen sind, können wie gewöhnlich beim Login abgeholt werden.
 [shop/shop_itemexchange_001] Item-Tausch
 [shop/shop_itemexchange_003] Tauschen
 [shop/shop_itemexchange_004] Tauschen
@@ -49797,9 +50965,12 @@ Hinweis: Das im Fokus stehende Gefährtengespann erscheint garantiert in dieser 
 [shop/scout_198] Pro Ticket kannst du eine entsprechende Ticket-G-Suche durchführen.
 Hinweis: Es besteht eine Chance von [Digit:3digits ] %, dass das im Fokus stehende Gefährtengespann in dieser G-Suche erscheint.
 [shop/scout_199] Sync-Attacken
+[shop/scout_200] Sync-Attacke
 [shop/scout_201] Mega-Entwicklung
 [shop/scout_202] G-Dynamax
 [shop/scout_203] Meister-Gefährten
+[shop/scout_204] Sonder-Gefährten
+[shop/scout_205] Sonder-Gefährten sind Gefährten, die im Rahmen dieser Sonder-Gefährtensuche für begrenzte Zeit erscheinen. Es besteht die Möglichkeit, dass sie in Zukunft auch außerhalb dieser Sonder-Gefährtensuche erscheinen werden.
 [shop/deck_item_sale_001] Ausrüstungstausch
 [shop/deck_item_sale_002] Ausrüstung
 [shop/deck_item_sale_003] Filter
@@ -50044,6 +51215,24 @@ before obtaining more.
 
 Note: The limit for how many paid
 gems you can have is [Digit:5digits ].
+[shop/shop_medal_094] Streak Bonus
+[shop/shop_medal_095] Battle Point Boost Pass
+([Digit:2digits ] days)
+[shop/shop_medal_096] Paid Gems
+([Digit:2digits ] log-in)
+[shop/shop_medal_097] Time Remaining: [Digit:3digits ] more day(s)
+[shop/shop_medal_098] Bundle Purchased
+(Days logged in: [Digit:3digits ]/[Digit:3digits Idx="1" ])
+[shop/shop_medal_099] You can claim all remaining paid gems [Digit:3digits ]
+days after purchasing a bundle regardless of
+the number of times you’ve logged in.
+[shop/shop_medal_100] The Sync Orb Reward Boost from another product is in effect, so the Sync Orb Reward Boost from this product will not activate.
+
+Instead, [Name:Item ] ×[Digit:6digits Idx="1" ] (the maximum that can be obtained in [Digit:2digits ] day(s)) will be sent to your Present Box.
+[shop/shop_medal_101] The Sync Orb Reward Boost from other products will remain in effect.
+[shop/shop_medal_102] Because [Digit:2digits ] days have passed since your purchase of Daily Gem Bundle EX, the remaining paid gems from the log-in bonus have been sent to your Present Box.
+[shop/shop_medal_103] Because [Digit:2digits ] days have passed since your purchase of Daily Gem Bundle EX +, the remaining paid gems from the log-in bonus have been sent to your Present Box.
+[shop/shop_medal_104] If there are log-in bonuses other than paid gems, those bonuses can be claimed as normal when logging in.
 [shop/shop_itemexchange_001] Exchange Items
 [shop/shop_itemexchange_003] Exchanged
 [shop/shop_itemexchange_004] Exchange
@@ -50421,9 +51610,12 @@ is 5★-guaranteed.
 [shop/scout_197] One ticket grants one use of the corresponding ticket scout. Note: The featured sync pair is guaranteed to appear in this sync pair scout.
 [shop/scout_198] One ticket grants one use of the corresponding ticket scout. Note: The featured sync pair has a [Digit:3digits ]% chance to appear in this sync pair scout.
 [shop/scout_199] Buddy Moves
+[shop/scout_200] Buddy Move
 [shop/scout_201] Mega Evolution
 [shop/scout_202] Dynamax
-[shop/scout_203] Master Sync Pairs
+[shop/scout_203] Master Sync Pair
+[shop/scout_204] Variety Sync Pairs
+[shop/scout_205] Variety sync pairs are sync pairs that will appear for a limited time during this variety scout. There is a possibility that they will appear outside of this variety scout in the future.
 [shop/deck_item_sale_001] Exchange Gear
 [shop/deck_item_sale_002] Gear
 [shop/deck_item_sale_003] Filter
@@ -50653,6 +51845,24 @@ has excedido el límite.
 Vuelve a intentarlo cuando hayas
 utilizado algunas.
 Límite de joyas de pago: [Digit:5digits ].
+[shop/shop_medal_094] Bonif. constancia
+[shop/shop_medal_095] Pase Extra de Puntos de Combate
+([Digit:2digits ] día[ES:Qty P="s" ])
+[shop/shop_medal_096] Joyas de pago
+([Digit:2digits ] inicio[ES:Qty P="s" ])
+[shop/shop_medal_097] Tiempo restante: [Digit:3digits ] día[ES:Qty P="s" ]
+[shop/shop_medal_098] Compra finalizada
+Días de conexión: [Digit:3digits ]/[Digit:3digits Idx="1" ]
+[shop/shop_medal_099] Podrás aceptar las joyas de pago restantes
+tras [Digit:3digits ] día[ES:Qty P="s" ] desde la compra del lote, sin
+importar cuántas veces hayas iniciado sesión.
+[shop/shop_medal_100] Ya hay activo un multiplicador de Orbes Compi de otro producto, por lo que no se activará el multiplicador de Orbes Compi de este producto.
+
+En su lugar, se enviará[ES:Qty Ref="1" P="n" ] a la caja de regalos [Digit:6digits Idx="1" ] unidad[ES:Qty Ref="1" P="es" ] de [Name:Item ] (es decir, la cantidad máxima que se puede obtener a lo largo de [Digit:2digits ] día[ES:Qty P="s" ]).
+[shop/shop_medal_101] Aviso: El multiplicador de Orbes Compi del otro producto seguirá estando activo.
+[shop/shop_medal_102] Han pasado [Digit:2digits ] días desde que compraste el lote de joyas diario EX, por lo que las joyas de pago restantes de la bonificación de inicio se han enviado a la caja de regalos.
+[shop/shop_medal_103] Han pasado [Digit:2digits ] días desde que compraste el lote de joyas diario EX S, por lo que las joyas de pago restantes de la bonificación de inicio se han enviado a la caja de regalos.
+[shop/shop_medal_104] Aviso: Si hay bonificaciones de inicio que no sean joyas de pago, puedes aceptarlas de la forma habitual al iniciar sesión.
 [shop/shop_itemexchange_001] Canjear objetos
 [shop/shop_itemexchange_003] Canjear
 [shop/shop_itemexchange_004] Canjear
@@ -50984,9 +52194,12 @@ Nota: La pareja destacada tiene total garantía de aparecer en este reclutamient
 Nota: La pareja de compis destacada tiene un [Digit:3digits ]% de probabilidades de aparecer en este reclutamiento.
 [shop/scout_199] Movimientos
 sincro
+[shop/scout_200] Mov. sincro
 [shop/scout_201] Megaevolución
 [shop/scout_202] Compis Dinamax
 [shop/scout_203] Compis maestros
+[shop/scout_204] Compis varios
+[shop/scout_205] Los compis varios son parejas de compis que aparecen durante un tiempo limitado en este reclutamiento variado, aunque es posible que vuelvan a aparecer en un futuro fuera de un reclutamiento variado.
 [shop/deck_item_sale_001] Canjear accesorios
 [shop/deck_item_sale_002] Accesorios
 [shop/deck_item_sale_003] Filtrar
@@ -51221,6 +52434,35 @@ Diamants car vous dépasseriez
 la limite. Veuillez en utiliser avant
 d'en recevoir à nouveau. La limite
 de Diamants payants est de [Digit:5digits ].
+[shop/shop_medal_094] Bonus de persévérance
+[shop/shop_medal_095] Pass Boost Pts de Combat
+([Digit:2digits ] jours)
+[shop/shop_medal_096] Diamants payants
+(après [Digit:2digits ] connexion[FR:Qty P="s" ])
+[shop/shop_medal_097] Temps restant : [Digit:3digits ] jour[FR:Qty P="s" ]
+[shop/shop_medal_098] Achat effectué
+(Jours de connexion : [Digit:3digits ]/[Digit:3digits Idx="1" ])
+[shop/shop_medal_099] Vous pouvez obtenir tous les Diamants
+payants [Digit:3digits ] jours après l'achat d'un pack,
+peu importe le nombre de connexions.
+[shop/shop_medal_100] L'effet « Duo-Sphères Reçues ↑ » d'un autre produit est actif, l'effet
+« Duo-Sphères Reçues ↑ » de ce produit ne sera donc pas activé.
+
+À la place, [Name:Item ] × [Digit:6digits Idx="1" ] (le nombre maximum pouvant être obtenu en [Digit:2digits ] jour[FR:Qty P="s" ]) ser[FR:Qty S="a" P="ont" ] envoyée[FR:Qty P="s" ] dans le menu « Cadeaux ».
+[shop/shop_medal_101] L'effet « Duo-Sphères Reçues ↑ » d'autres produits restera actif.
+[shop/shop_medal_102] [Digit:2digits ] jours se sont écoulés depuis
+votre achat du Pack de Diamants
+Journalier EX.
+Les Diamants payants restants
+du bonus de connexion ont été
+envoyés dans le menu « Cadeaux ».
+[shop/shop_medal_103] [Digit:2digits ] jours se sont écoulés depuis
+votre achat du Pack de Diamants
+Journ. EX S.
+Les Diamants payants restants
+du bonus de connexion ont été
+envoyés dans le menu « Cadeaux ».
+[shop/shop_medal_104] Si vous devez également recevoir des bonus de connexion autres que des Diamants payants, ces bonus pourront être récupérés comme tout autre bonus lors de votre connexion.
 [shop/shop_itemexchange_001] Échange d'objets
 [shop/shop_itemexchange_003] Échange
 [shop/shop_itemexchange_004] Échanger
@@ -51569,9 +52811,12 @@ Les chances d'apparition pour le Duo à l'affiche
 dans cet Appel Duo sont de [Digit:3digits ] %.
 [shop/scout_199] Les capacités
 Synchro
+[shop/scout_200] Capacité Synchro
 [shop/scout_201] Méga-Évolution
 [shop/scout_202] Duo Dynamax
 [shop/scout_203] Master Duo
+[shop/scout_204] Duo commun
+[shop/scout_205] Les Duos communs sont des Duos qui apparaissent pendant la durée limitée de l'Appel Duo commun. À l'avenir, les Duos communs pourront aussi apparaître en dehors de cet Appel Duo commun.
 [shop/deck_item_sale_001] Échanger équipement
 [shop/deck_item_sale_002] Équipement
 [shop/deck_item_sale_003] Filtrer
@@ -51817,6 +53062,22 @@ Riduci il numero di gemme prima
 di riceverne altre.
 Attenzione: puoi avere al massimo
 [Digit:5digits ] gemme a pagamento.
+[shop/shop_medal_094] Bonus costanza
+[shop/shop_medal_095] Pass bonus Punti Lotta ([Digit:2digits ] giorni)
+[shop/shop_medal_096] Gemme a pagamento
+(per [Digit:2digits ] [IT:Qty S="accesso" P="accessi" ])
+[shop/shop_medal_097] Scadenza tra: [Digit:3digits ] [IT:Qty S="giorno" P="giorni" ]
+[shop/shop_medal_098] Pacchetto acquistato (accessi: [Digit:3digits ]/[Digit:3digits Idx="1" ])
+[shop/shop_medal_099] Dopo [Digit:3digits ] giorni dall'acquisto di un pacchetto,
+puoi ricevere tutte le gemme a pagamento
+restanti, a prescindere dal numero di accessi.
+[shop/shop_medal_100] L'effetto "più Uniciondoli" di un altro prodotto è attivo, pertanto l'effetto "più Uniciondoli" di questo prodotto non si attiverà.
+
+Al suo posto, verranno inviati ai Regali i seguenti strumenti: [Name:Item ] ×[Digit:6digits Idx="1" ] (quantità massima ottenibile in [Digit:2digits ] giorni).
+[shop/shop_medal_101] Gli effetti "più Uniciondoli" di altri prodotti resteranno attivi.
+[shop/shop_medal_102] Sono trascorsi [Digit:2digits ] giorni da quando hai acquistato il Pacchetto gemme giornaliere EX, pertanto le restanti gemme a pagamento del bonus accesso sono state inviate ai Regali.
+[shop/shop_medal_103] Sono trascorsi [Digit:2digits ] giorni da quando hai acquistato il Pacchetto gemme giornaliere EX S, pertanto le restanti gemme a pagamento del bonus accesso sono state inviate ai Regali.
+[shop/shop_medal_104] Se ci sono altri bonus accesso che non siano gemme a pagamento, possono essere ricevuti normalmente quando viene effettuato l'accesso.
 [shop/shop_itemexchange_001] Scambio strumenti
 [shop/shop_itemexchange_003] Scambiati
 [shop/shop_itemexchange_004] Scambia
@@ -52233,9 +53494,13 @@ In questa ricerca Unità è garantita la comparsa dell'Unità in evidenza.
 [shop/scout_198] Un ticket consente un singolo utilizzo della corrispondente ricerca Unità con ticket.
 L'Unità in evidenza ha la seguente probabilità di comparire in questa ricerca Unità: [Digit:3digits ]%.
 [shop/scout_199] Sincromosse
+[shop/scout_200] Sincromossa
 [shop/scout_201] Megaevoluzione
 [shop/scout_202] Unità Dynamax
 [shop/scout_203] Unità master
+[shop/scout_204] Unità varietà
+[shop/scout_205] Le Unità varietà sono Unità che compariranno per un periodo limitato durante questa ricerca Unità varietà.
+È possibile che compaiano anche al di fuori di ricerche Unità varietà in futuro.
 [shop/deck_item_sale_001] Scambio accessori
 [shop/deck_item_sale_002] Accessori
 [shop/deck_item_sale_003] Filtra
@@ -52475,6 +53740,41 @@ SP報酬が解放されるおとくなパック！
 
 ※ダイヤ(有償分)の所持上限は
 [Digit:5digits ]個です
+[shop/shop_medal_094] 継続ボーナス
+[shop/shop_medal_095] バトルポイントブーストパス
+（[Digit:2digits ]日間）
+[shop/shop_medal_096] 有償ダイヤ
+（[Digit:2digits ]回分）
+[shop/shop_medal_097] 効果期間　あと　[Digit:3digits ]日
+[shop/shop_medal_098] 購入済み
+ログイン回数　[Digit:3digits ]/[Digit:3digits Idx="1" ]
+[shop/shop_medal_099] パック購入後[Digit:3digits ]日が経過した場合
+ログインした回数に関わらず
+残りの有償ダイヤを全て受取可能
+[shop/shop_medal_100] 他の商品による
+バディドロップ報酬アップが
+有効になっているため
+この商品のバディドロップ報酬アップは
+有効になりません
+
+代わりに[Digit:2digits ]日間の報酬アップで
+獲得可能な最大の量である
+[Name:Item ]×[Digit:6digits Idx="1" ]が
+プレゼントボックスに送られます
+[shop/shop_medal_101] ※他の商品によるバディドロップ報酬アップの効果は
+引き続き有効です
+[shop/shop_medal_102] EXデイリーダイヤパックの購入から
+[Digit:2digits ]日経過したため
+残りのログインボーナスによる
+有償ダイヤが
+プレゼントボックスに送られました
+[shop/shop_medal_103] EXデイリーダイヤパックSの購入から
+[Digit:2digits ]日経過したため
+残りのログインボーナスによる
+有償ダイヤが
+プレゼントボックスに送られました
+[shop/shop_medal_104] ※有償ダイヤ以外のログインボーナスがある場合は
+引き続き今後のログイン毎に受取可能です
 [shop/shop_itemexchange_001] どうぐ交換
 [shop/shop_itemexchange_003] 交換
 [shop/shop_itemexchange_004] 交換
@@ -52883,9 +54183,13 @@ STEP[Digit:2digits ]のみ★5確定となります
 （※）ピックアップバディーズの出現率が[Digit:3digits ]％の特別なバディーズサーチです
 [shop/scout_199] シンクロわざ
 とは
+[shop/scout_200] シンクロわざ
 [shop/scout_201] メガシンカ
 [shop/scout_202] Bダイマックス
 [shop/scout_203] マスターバディーズ
+[shop/scout_204] バラエティ限定バディーズ
+[shop/scout_205] ※バラエティ限定バディーズとはこのバラエティ限定バディーズサーチの期間中に出現するバディーズです。
+※バラエティ限定バディーズは今後バラエティ限定バディーズサーチ以外でも出現する可能性があります。
 [shop/deck_item_sale_001] 装備売却
 [shop/deck_item_sale_002] 装備
 [shop/deck_item_sale_003] フィルター
@@ -53119,6 +54423,38 @@ SP 보상이 해방되는 유용한 팩!
 구입하여 주십시오
 ※다이아(유료분)의 보유 상한은
 [Digit:5digits ]개입니다
+[shop/shop_medal_094] 지속 보너스
+[shop/shop_medal_095] 배틀포인트 부스트 패스
+([Digit:2digits ]일간)
+[shop/shop_medal_096] 유료 다이아
+([Digit:2digits ]회 분량)
+[shop/shop_medal_097] 효과 시간 앞으로 [Digit:3digits ]일
+[shop/shop_medal_098] 구입 완료
+로그인 횟수 [Digit:3digits ]/[Digit:3digits Idx="1" ]
+[shop/shop_medal_099] 팩 구입 후  [Digit:3digits ]일이 경과한 경우
+로그인한 횟수와 상관없이
+남은 유료 다이아를 모두 획득 가능
+[shop/shop_medal_100] 다른 상품에 의한
+버디드롭 보상 업이 유효하므로
+이 상품의 버디드롭 보상 업은
+유효하지 않습니다
+
+대신 [Digit:2digits ]일간 보상 증가로
+획득 가능한 최대 양인
+[Name:Item ] [Digit:6digits Idx="1" ]개를
+프레젠트박스에서 받을 수 있습니다
+[shop/shop_medal_101] ※다른 상품에 의한 버디드롭 보상 업 효과는
+계속해서 유효합니다
+[shop/shop_medal_102] EX일일 다이아 팩 구입으로부터
+[Digit:2digits ]일이 경과하여
+남은 로그인 보너스의 유료 다이아가
+프레젠트박스로 보내졌습니다
+[shop/shop_medal_103] EX일일 다이아 팩S 구입으로부터
+[Digit:2digits ]일이 경과하여
+남은 로그인 보너스의 유료 다이아가
+프레젠트박스로 보내졌습니다
+[shop/shop_medal_104] ※유료 다이아 이외의 로그인 보너스가 있는 경우에는
+앞으로도 계속해서 로그인할 때마다 받을 수 있습니다
 [shop/shop_itemexchange_001] 도구 교환
 [shop/shop_itemexchange_003] 교환
 [shop/shop_itemexchange_004] 교환
@@ -53561,9 +54897,13 @@ STEP[Digit:2digits ]만 ★5 확정입니다
 (※)픽업 버디즈의 출현율이 [Digit:3digits ]%인 특별한 버디즈서치입니다
 [shop/scout_199] 싱크로기술
 이란
+[shop/scout_200] 싱크로기술
 [shop/scout_201] 메가진화
 [shop/scout_202] B다이맥스
 [shop/scout_203] 마스터 버디즈
+[shop/scout_204] 버라이어티 한정 버디즈
+[shop/scout_205] ※버라이어티 한정 버디즈는 본 버라이어티 한정 버디즈서치 기간 중에 출현하는 버디즈를 말합니다.
+※버라이어티 한정 버디즈는 이후 버라이어티 한정 버디즈서치 이외에서도 출현할 가능성이 있습니다.
 [shop/deck_item_sale_001] 장비 판매
 [shop/deck_item_sale_002] 장비
 [shop/deck_item_sale_003] 필터
@@ -53787,6 +55127,40 @@ shop_zh-TW.lsd
 請減少鑽石數量後再重新領取
 ※付費鑽石的持有上限為
 [Digit:5digits ]個
+[shop/shop_medal_094] 連續報酬
+[shop/shop_medal_095] 對戰點數增量證
+（[Digit:2digits ]天）
+[shop/shop_medal_096] 付費鑽石
+（[Digit:2digits ]次份）
+[shop/shop_medal_097] 效果期間：還剩[Digit:3digits ]天
+[shop/shop_medal_098] 購買完成
+登入次數　[Digit:3digits ]/[Digit:3digits Idx="1" ]
+[shop/shop_medal_099] 購買組合包後經過[Digit:3digits ]天後
+無論登入過幾次
+都能夠領取所有剩餘的付費鑽石
+[shop/shop_medal_100] 由於其他商品的
+拍檔滴晶報酬增加效果
+正在生效中
+因此該商品的拍檔滴晶報酬增加效果
+無法生效
+
+原本在[Digit:2digits ]天內因報酬增加
+而能獲得的最大量
+[Name:Item ]×[Digit:6digits Idx="1" ]
+將會送到禮物箱
+[shop/shop_medal_101] ※其他商品的拍檔滴晶報酬增加效果仍然有效
+[shop/shop_medal_102] 由於購買EX每日鑽石組合包
+已經過[Digit:2digits ]天
+因此剩餘的登入獎勵
+付費鑽石
+已送到禮物箱
+[shop/shop_medal_103] 由於購買EX每日鑽石組合包S
+已經過[Digit:2digits ]天
+因此剩餘的登入獎勵
+付費鑽石
+已送到禮物箱
+[shop/shop_medal_104] ※如果有付費鑽石以外的登入獎勵
+仍可在今後的每次登入時領取
 [shop/shop_itemexchange_001] 交換道具
 [shop/shop_itemexchange_003] 交換
 [shop/shop_itemexchange_004] 交換
@@ -54155,9 +55529,13 @@ shop_zh-TW.lsd
 （※）精選拍組的出現機率為[Digit:3digits ]％的特別拍組搜尋
 [shop/scout_199] 什麼是
 同步招式
+[shop/scout_200] 同步招式
 [shop/scout_201] 超級進化
 [shop/scout_202] 拍組極巨化
 [shop/scout_203] 大師拍組
+[shop/scout_204] 繁星限定拍組
+[shop/scout_205] ※繁星限定拍組是會在繁星限定拍組搜尋期間出現的拍組
+※繁星限定拍組今後也有可能在非繁星限定拍組搜尋以外出現
 [shop/deck_item_sale_001] 出售裝備
 [shop/deck_item_sale_002] 裝備
 [shop/deck_item_sale_003] 篩選
@@ -54657,6 +56035,26 @@ Nintendo-Account übertragen
 이하의 내용을 확인하신 후 동의를 부탁드립니다.
 <attr color='EB1414'>※만 14세 미만인 분의 경우, 부모님 등 법정대리인이 이하의 내용을
 확인해 주세요.</attr>
+[title/title_147] Speicherdaten
+[title/title_148] Möchtest du neue Speicherdaten anlegen
+und das Spiel starten?
+
+Wenn du bereits eine verknüpfte ID hast,
+kannst du existierende Speicherdaten
+übertragen, indem du die mit den Daten
+verknüpfte ID bestätigst.
+[title/title_149] Speicherdaten können nur beim ersten Starten der App übertragen werden.
+
+Möchtest du Speicherdaten danach übertragen, installiere die App bitte erneut.
+[title/title_150] Neues Spiel starten
+[title/title_151] Datenübertragung
+[title/title_152] Bestätigen und
+zustimmen
+[title/title_153] Weiter
+[title/title_154] Nintendo-Account-Homepage
+[title/title_155] Accounts, die mit dieser App verknüpft sind, werden unter
+Umständen nicht angezeigt.
+Berühre die Info-Schaltfläche für weitere Details.
 [title/assetdl_004] 翻訳不要
 [title/assetdl_006] 翻訳不要
 [title/assetdl_007] 翻訳不要
@@ -55232,6 +56630,24 @@ Nintendo Account
 이하의 내용을 확인하신 후 동의를 부탁드립니다.
 <attr color='EB1414'>※만 14세 미만인 분의 경우, 부모님 등 법정대리인이 이하의 내용을
 확인해 주세요.</attr>
+[title/title_147] Save Data
+[title/title_148] Do you want to create new save data
+and start the game?
+
+If you have a linked ID, you can transfer
+existing save data by authenticating
+the ID the data is linked to.
+[title/title_149] Save data can only be transferred during the application’s first start-up.
+
+If you wish to transfer save data after this point, please reinstall the application.
+[title/title_150] Start a New Game
+[title/title_151] Transfer Data
+[title/title_152] Confirm All
+and Agree
+[title/title_153] Next
+[title/title_154] Nintendo Account Page
+[title/title_155] Accounts linked to this application may not be displayed
+Tap the information button above to learn more
 [title/assetdl_004] Would you like to participate
 in a survey?
 [title/assetdl_006] Please select where you’ve played or seen Pokémon in the past.
@@ -55826,6 +57242,26 @@ Nintendo
 이하의 내용을 확인하신 후 동의를 부탁드립니다.
 <attr color='EB1414'>※만 14세 미만인 분의 경우, 부모님 등 법정대리인이 이하의 내용을
 확인해 주세요.</attr>
+[title/title_147] Datos de guardado
+[title/title_148] ¿Quieres crear nuevos datos de guardado
+y empezar la partida?
+
+Si tienes vinculado un ID, puedes
+transferir los datos de guardado
+tras haberlo verificado.
+[title/title_149] Aviso: Tan solo se pueden transferir los datos de guardado
+la primera vez que se inicia la aplicación.
+Para transferir datos de guardado durante una partida, es
+necesario instalar la aplicación de nuevo.
+[title/title_150] Empezar de cero
+[title/title_151] Transferir datos
+[title/title_152] Confirmar todo
+y aceptar
+[title/title_153] Continuar
+[title/title_154] Página de la cuenta Nintendo
+[title/title_155] Es posible que no se muestren las cuentas vinculadas a la
+aplicación.
+Toca el botón de información para obtener más detalles.
 [title/assetdl_004] 翻訳不要
 [title/assetdl_006] 翻訳不要
 [title/assetdl_007] 翻訳不要
@@ -56431,6 +57867,27 @@ un compte Nintendo
 이하의 내용을 확인하신 후 동의를 부탁드립니다.
 <attr color='EB1414'>※만 14세 미만인 분의 경우, 부모님 등 법정대리인이 이하의 내용을
 확인해 주세요.</attr>
+[title/title_147] Données de sauvegarde
+[title/title_148] Voulez-vous créer de nouvelles données
+de sauvegarde et démarrer le jeu ?
+
+Si vous avez des identifiants associés,
+vous pouvez transférer des données de
+sauvegarde existantes en vous connectant
+avec les identifiants auxquels les données
+sont associées.
+[title/title_149] Vous ne pouvez transférer des données de sauvegarde que la première fois que vous démarrez l'application.
+
+Si vous souhaitez effectuer un transfert en cours de partie, il sera nécessaire de réinstaller l'application.
+[title/title_150] Nouvelle partie
+[title/title_151] Transfert de données
+[title/title_152] Tout confirmer
+et accepter
+[title/title_153] Continuer
+[title/title_154] Page du compte Nintendo
+[title/title_155] Il est possible que les comptes liés à l'application
+n'apparaissent pas.
+Touchez le bouton d'information pour en savoir plus.
 [title/assetdl_004] 翻訳不要
 [title/assetdl_006] 翻訳不要
 [title/assetdl_007] 翻訳不要
@@ -57029,6 +58486,27 @@ da un account Nintendo
 이하의 내용을 확인하신 후 동의를 부탁드립니다.
 <attr color='EB1414'>※만 14세 미만인 분의 경우, 부모님 등 법정대리인이 이하의 내용을
 확인해 주세요.</attr>
+[title/title_147] I dati di salvataggio
+[title/title_148] Vuoi creare dei nuovi dati di salvataggio
+e cominciare una nuova partita?
+
+Se hai un ID collegato, puoi trasferire
+i dati di salvataggio esistenti tramite
+l'autenticazione dell'ID al quale sono
+associati i dati.
+[title/title_149] Il trasferimento è possibile soltanto al primo avvio dell'app.
+
+Se si vuole effettuare il trasferimento in seguito,
+sarà necessario reinstallare l'app.
+[title/title_150] Nuova partita
+[title/title_151] Trasferimento dati
+[title/title_152] Conferma tutto
+e accetta
+[title/title_153] Avanti
+[title/title_154] Pagina account Nintendo
+[title/title_155] È possibile che gli account collegati a questa app
+non vengano visualizzati.
+Tocca "Info" per saperne di più.
 [title/assetdl_004] 翻訳不要
 [title/assetdl_006] 翻訳不要
 [title/assetdl_007] 翻訳不要
@@ -57639,6 +59117,26 @@ Apple IDに連携されていた
 이하의 내용을 확인하신 후 동의를 부탁드립니다.
 <attr color='EB1414'>※만 14세 미만인 분의 경우, 부모님 등 법정대리인이 이하의 내용을
 확인해 주세요.</attr>
+[title/title_147] セーブデータについて
+[title/title_148] セーブデータを新しく作成して
+ゲームを始めますか？
+
+連携済みのIDがある場合は
+認証することでセーブデータを
+引き継ぐことができます
+[title/title_149] ※引き継ぎは初回起動時のみ行うことができます
+※ゲームの途中で引き継ぎを行いたい場合はアプリを
+再インストールしてください
+[title/title_150] 新しく始める
+[title/title_151] データを引き継ぐ
+[title/title_152] 確認のうえ
+すべてに同意
+[title/title_153] すすむ
+[title/title_154] ニンテンドーアカウント
+ページ
+[title/title_155] 当アプリと連携しているアカウントが
+表示されない場合があります
+詳細はインフォボタンからご確認ください
 [title/assetdl_004] アンケートに
 ご協力をお願いします
 [title/assetdl_006] あなたが「ポケモン」について遊んだり見たりしたことがあるものを全てお選びください
@@ -58251,6 +59749,26 @@ Apple ID에 연동되어 있던
 이하의 내용을 확인하신 후 동의를 부탁드립니다.
 <attr color='EB1414'>※만 14세 미만인 분의 경우, 부모님 등 법정대리인이 이하의 내용을
 확인해 주세요.</attr>
+[title/title_147] 저장 데이터에 대해
+[title/title_148] 저장 데이터를 새로 작성하여
+게임을 시작하시겠습니까?
+
+이미 연동한 ID가 있는 경우
+인증하면 저장 데이터를
+이어받을 수 있습니다
+[title/title_149] ※이어받기는 첫 기동 시에만 진행할 수 있습니다
+※게임 플레이 도중에 이어받기를 원하시는 경우
+앱을 다시 설치하여 주십시오
+[title/title_150] 새로 시작하기
+[title/title_151] 데이터 이어받기
+[title/title_152] 확인 후
+모두 동의
+[title/title_153] 다음
+[title/title_154] 닌텐도 어카운트
+페이지
+[title/title_155] 본 앱과 연동한 어카운트가
+표시되지 않는 경우가 있습니다
+자세한 내용은 정보 버튼에서 확인하여 주십시오
 [title/assetdl_004] 翻訳不要
 [title/assetdl_006] 翻訳不要
 [title/assetdl_007] 翻訳不要
@@ -58820,6 +60338,26 @@ OS 버전, OS 타입, 타게팅 광고의 제한에 관한 설정 상태, 단말
 이하의 내용을 확인하신 후 동의를 부탁드립니다.
 <attr color='EB1414'>※만 14세 미만인 분의 경우, 부모님 등 법정대리인이 이하의 내용을
 확인해 주세요.</attr>
+[title/title_147] 關於儲存資料
+[title/title_148] 要建立新的儲存資料
+並開始遊戲嗎？
+
+若有已連動的ID
+透過認證就能
+轉移儲存資料
+[title/title_149] ※只限第一次啟動遊戲時才可以轉移儲存資料
+※若在遊戲已開始後希望轉移儲存資料
+請重新安裝應用程式
+[title/title_150] 從頭開始
+[title/title_151] 轉移資料
+[title/title_152] 確認並
+完全同意
+[title/title_153] 下一步
+[title/title_154] Nintendo Account
+頁面
+[title/title_155] 與本應用程式連動中的帳號
+有可能不會顯示
+詳情請點選資訊按鈕確認
 [title/assetdl_004] 翻訳不要
 [title/assetdl_006] 翻訳不要
 [title/assetdl_007] 翻訳不要
