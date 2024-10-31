@@ -2662,6 +2662,62 @@ Filmstar
 Lasst uns Items sammeln!
 [quest_title_1030309000603110] Herausforderungskampf 1
 [quest_title_1030309000603120] Herausforderungskampf 2
+[quest_group_title_100101] Kilians Weg
+[quest_group_title_10048800000] Astor (Kimono)
+[quest_group_title_10120100000] MaMo-Samantha
+[quest_group_title_10106800000] Kamilla (Blond)
+[quest_group_title_10247400000] Delion (Saison 2021)
+[quest_group_title_10249400000] Kate (Saison 2021)
+[quest_group_title_10259000000] Sania
+[quest_group_detail_100101] Der Pfad zum Sieg
+[quest_title_1030110000420100] Unerwartete Rivalin
+[quest_title_1030311000602000] Eine dunkle Ahnung
+[quest_title_1030311000602010] Dunkelheit zieht auf
+[quest_title_1030311000602020] Dunkelheit breitet sich aus
+[quest_title_1030311000602030] Licht im Herzen
+[quest_title_1030311000602040] Auf der Suche nach Licht
+[quest_title_1030311000602050] Vs. Team Break 1
+[quest_title_1030311000602060] Vs. Team Break 2
+[quest_title_1030311000602070] Vs. Team Break 3
+[quest_title_1030311000602080] Vs. Team Break 4
+[quest_title_1030311000602090] Täglicher schwerer Kampf
+[quest_title_1030311000602100] Herausforderungskampf 1
+[quest_title_1030311000602110] Herausforderungskampf 2
+[quest_title_1030311000604010] Bedingungslose Liebe 1
+[quest_title_1030311000604020] Bedingungslose Liebe 2
+[quest_title_1030431100201010] Vs. Trainer aus Passio 1
+[quest_title_1030431100202010] Vs. Trainer aus Passio 2
+[quest_title_1030431100203010] Vs. Trainer aus Passio 3
+[quest_title_1030431100204010] Vs. Trainer aus Passio 4
+[quest_title_1030311000603000] Ein spezieller Gast
+[quest_title_1030311000603030] Vs. Konzertbesucher 1
+[quest_title_1030311000603040] Vs. Konzertbesucher 2
+[quest_title_1030311000603050] Vs. Konzertbesucher 3
+[quest_title_1030311000603060] Vs. Konzertbesucher 4
+[quest_title_1030311000603070] Täglicher schwerer Kampf
+[quest_title_1030311000603010] Das hellste Leuchten
+[quest_title_1030311000603020] Ein Herz voller Dankbarkeit
+[quest_title_1030311000601000] Auf winterlicher Mission
+[quest_title_1030311000601010] Ein einsamer Winter
+[quest_title_1030311000601050] Lasst uns Items sammeln!
+[quest_title_1030311000601020] Kates Erinnerungen
+[quest_title_1030311000601060] Lasst uns Items sammeln! 2
+[quest_title_1030311000601030] Die Verantwortung eines
+Champs
+[quest_title_1030311000601070] Lasst uns Items sammeln! 3
+[quest_title_1030311000601040] Freunde für immer
+[quest_title_1030311000601080] Lasst uns Items sammeln! 4
+[quest_title_1030311000601090] Täglicher schwerer Kampf
+[quest_title_1030311000601100] Lasst uns noch mehr Items
+sammeln!
+[quest_title_1030311000601110] Herausforderungskampf 1
+[quest_title_1030311000601120] Herausforderungskampf 2
+[quest_title_1030431100102010] Ein winterliches Geschenk
+[quest_title_1030431100103010] Spezielle Herausforderung
+[quest_title_1030220048800000] Ein Tag mit Astor
+[quest_title_1030220120100000] Ein Tag mit MaMo-Samantha
+[quest_title_1030220106800000] Ein Tag mit Kamilla
+[quest_title_1030220259000000] Ein Tag mit Sania
 [quest_title_1030431000205010] Täglicher Bonus-Kampf
 [quest_title_1030431000101010] Vs. Trainer aus Passio 1
 [quest_title_1030431000102010] Vs. Trainer aus Passio 2
@@ -4535,6 +4591,64 @@ story_quest_name_en.lsd
 [quest_title_1030309000603100] Bountiful Bonus Battle 1
 [quest_title_1030309000603110] Battle Challenge! Round 1
 [quest_title_1030309000603120] Battle Challenge! Round 2
+[quest_group_title_100101] Paulo Interlude
+[quest_group_title_10048800000] Grimsley
+(Kimono)
+[quest_group_title_10120100000] Sygna Suit Lusamine
+[quest_group_title_10106800000] Elesa
+(Classic)
+[quest_group_title_10247400000] Leon
+(Holiday 2021)
+[quest_group_title_10249400000] Nessa
+(Holiday 2021)
+[quest_group_title_10259000000] Sonia
+[quest_group_detail_100101] The Path Forward
+[quest_title_1030110000420100] A Late Arrival
+[quest_title_1030311000602000] A Striking Familiarity
+[quest_title_1030311000602010] Dark Tidings
+[quest_title_1030311000602020] Encroaching Darkness
+[quest_title_1030311000602030] Confronting the Darkness
+[quest_title_1030311000602040] A Love That Conquers All
+[quest_title_1030311000602050] Challenge Team Break: Part 1
+[quest_title_1030311000602060] Challenge Team Break: Part 2
+[quest_title_1030311000602070] Challenge Team Break: Part 3
+[quest_title_1030311000602080] Challenge Team Break: Part 4
+[quest_title_1030311000602090] Daily Extreme Battle 1
+[quest_title_1030311000602100] Battle Challenge! Round 1
+[quest_title_1030311000602110] Battle Challenge! Round 2
+[quest_title_1030311000604010] A Mother’s Love: Part 1
+[quest_title_1030311000604020] A Mother’s Love: Part 2
+[quest_title_1030431100201010] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030431100202010] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030431100203010] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030431100204010] Challenge Pasio’s Trainers: Part 4
+[quest_title_1030311000603000] A Special Guest
+[quest_title_1030311000603030] Fan-tastic Battling! Stage 1
+[quest_title_1030311000603040] Fan-tastic Battling! Stage 2
+[quest_title_1030311000603050] Fan-tastic Battling! Stage 3
+[quest_title_1030311000603060] Fan-tastic Battling! Stage 4
+[quest_title_1030311000603070] Daily Extreme Battle 1
+[quest_title_1030311000603010] Sparkling, Shining Gratitude
+[quest_title_1030311000603020] Dazzling, Dizzying Gratitude
+[quest_title_1030311000601000] ’Tis the Season!
+[quest_title_1030311000601010] A Lonely Winter
+[quest_title_1030311000601050] Decoration Hunting: Part 1
+[quest_title_1030311000601020] Nessa’s Memories
+[quest_title_1030311000601060] Decoration Hunting: Part 2
+[quest_title_1030311000601030] Champion Responsibility
+[quest_title_1030311000601070] Decoration Hunting: Part 3
+[quest_title_1030311000601040] Friends to the End
+[quest_title_1030311000601080] Decoration Hunting: Part 4
+[quest_title_1030311000601090] Daily Extreme Battle 1
+[quest_title_1030311000601100] Ultimate Decoration Collection
+[quest_title_1030311000601110] Battle Challenge! Round 1
+[quest_title_1030311000601120] Battle Challenge! Round 2
+[quest_title_1030431100102010] The Season of Giving!
+[quest_title_1030431100103010] Special Pika-Challenge!
+[quest_title_1030220048800000] A Day with Grimsley
+[quest_title_1030220120100000] A Day with Sygna Suit Lusamine
+[quest_title_1030220106800000] A Day with Elesa
+[quest_title_1030220259000000] A Day with Sonia
 [quest_title_1030431000205010] Daily Bonus Battle 1
 [quest_title_1030431000101010] Challenge Pasio’s Trainers: Part 1
 [quest_title_1030431000102010] Challenge Pasio’s Trainers: Part 2
@@ -6535,6 +6649,70 @@ Kanto! (2)
 ¡Objetos por doquier!
 [quest_title_1030309000603110] ¡Un combate desafiante!
 [quest_title_1030309000603120] ¡Un combate desafiante! (2)
+[quest_group_title_100101] Trama de Paolo
+[quest_group_title_10048800000] Aza (Alola)
+[quest_group_title_10120100000] Samina (Traje S)
+[quest_group_title_10106800000] Camila (Original)
+[quest_group_title_10247400000] Lionel (Temporada 21)
+[quest_group_title_10249400000] Cathy (Temporada 21)
+[quest_group_title_10259000000] Sonia
+[quest_group_detail_100101] El camino que seguir
+[quest_title_1030110000420100] Una amiga recién llegada
+[quest_title_1030311000602000] Una luz familiar
+[quest_title_1030311000602010] Un rumor preocupante
+[quest_title_1030311000602020] El fin de la luz
+[quest_title_1030311000602030] Madre e hijos frente a la
+oscuridad
+[quest_title_1030311000602040] El amor todo lo puede
+[quest_title_1030311000602050] VS. Team Break
+[quest_title_1030311000602060] VS. Team Break (2)
+[quest_title_1030311000602070] VS. Team Break (3)
+[quest_title_1030311000602080] VS. Team Break (4)
+[quest_title_1030311000602090] ¡Un combate difícil al día!
+[quest_title_1030311000602100] ¡Un combate desafiante!
+[quest_title_1030311000602110] ¡Un combate desafiante! (2)
+[quest_title_1030311000604010] ¡Enfréntate al amor de una
+madre!
+[quest_title_1030311000604020] ¡Enfréntate al amor de una
+madre! (2)
+[quest_title_1030431100201010] VS. Entrenadores de Passio
+[quest_title_1030431100202010] VS. Entrenadores de Passio (2)
+[quest_title_1030431100203010] VS. Entrenadores de Passio (3)
+[quest_title_1030431100204010] VS. Entrenadores de Passio (4)
+[quest_title_1030311000603000] Una invitada especial
+[quest_title_1030311000603030] VS. nuestros amados fans
+[quest_title_1030311000603040] VS. nuestros amados fans (2)
+[quest_title_1030311000603050] VS. nuestros amados fans (3)
+[quest_title_1030311000603060] VS. nuestros amados fans (4)
+[quest_title_1030311000603070] ¡Un combate difícil al día!
+[quest_title_1030311000603010] Agradecimiento fulgurante
+[quest_title_1030311000603020] Agradecimiento de vuestro ídolo
+[quest_title_1030311000601000] ¡Misión invernal!
+[quest_title_1030311000601010] Un invierno solitario
+[quest_title_1030311000601050] En busca de muchos objetos
+[quest_title_1030311000601020] Los recuerdos de Cathy
+[quest_title_1030311000601060] En busca de muchos
+objetos (2)
+[quest_title_1030311000601030] Las responsabilidades del
+Campeón
+[quest_title_1030311000601070] En busca de muchos
+objetos (3)
+[quest_title_1030311000601040] El regalo son los amigos que
+hicimos por el camino
+[quest_title_1030311000601080] En busca de muchos
+objetos (4)
+[quest_title_1030311000601090] ¡Un combate difícil al día!
+[quest_title_1030311000601100] En busca de mogollón de
+objetos
+[quest_title_1030311000601110] ¡Un combate desafiante!
+[quest_title_1030311000601120] ¡Un combate desafiante! (2)
+[quest_title_1030431100102010] ¡Regalos para unas fechas
+muy señaladas!
+[quest_title_1030431100103010] ¡Desafío especial en curso!
+[quest_title_1030220048800000] Un día con Aza
+[quest_title_1030220120100000] Un día con Samina (Traje S)
+[quest_title_1030220106800000] Un día con Camila
+[quest_title_1030220259000000] Un día con Sonia
 [quest_title_1030431000205010] ¡Un combate extra al día!
 [quest_title_1030431000101010] VS. Entrenadores de Passio
 [quest_title_1030431000102010] VS. Entrenadores de Passio (2)
@@ -8618,7 +8796,7 @@ une actrice en herbe
 [quest_title_1030310000605040] Combat : Ludvina IV
 [quest_title_1030310000605060] La princesse et Bamboiselle
 [quest_title_1030431000402010] Cadeaux Pika Pika pour tous !
-[quest_title_1030431000403010] Pika-défi spécial en cours !
+[quest_title_1030431000403010] Pika-défi spécial !
 [quest_title_1030431000202010] Combat : Alyxia II
 [quest_title_1030431000203010] Combat : Alyxia III
 [quest_title_1030431000204010] Combat : Alyxia IV
@@ -8659,6 +8837,71 @@ Dresseurs de Passio IV
 Objets en folie !
 [quest_title_1030309000603110] Combat difficile
 [quest_title_1030309000603120] Combat difficile II
+[quest_group_title_100101] Kyrill
+[quest_group_title_10048800000] Pieris (Kimono)
+[quest_group_title_10120100000] Elsa-Mina (Look Ultime)
+[quest_group_title_10106800000] Inezia (Classique)
+[quest_group_title_10247400000] Tarak (Saison 2021)
+[quest_group_title_10249400000] Donna (Saison 2021)
+[quest_group_title_10259000000] Sonya
+[quest_group_detail_100101] La voie à suivre
+[quest_title_1030110000420100] Une arrivée tardive
+[quest_title_1030311000602000] Un sentiment familier
+[quest_title_1030311000602010] De sombres nouvelles
+[quest_title_1030311000602020] L'obscurité envahit Passio
+[quest_title_1030311000602030] Mère et fille face
+aux ténèbres
+[quest_title_1030311000602040] L'amour vient à bout de tout
+[quest_title_1030311000602050] Combat : Team Break
+[quest_title_1030311000602060] Combat : Team Break II
+[quest_title_1030311000602070] Combat : Team Break III
+[quest_title_1030311000602080] Combat : Team Break IV
+[quest_title_1030311000602090] Combat difficile limité
+à une fois par jour !
+[quest_title_1030311000602100] Combat difficile
+[quest_title_1030311000602110] Combat difficile II
+[quest_title_1030311000604010] La puissance de l'amour
+[quest_title_1030311000604020] La puissance de l'amour II
+[quest_title_1030431100201010] Combat : Dresseurs de Passio
+[quest_title_1030431100202010] Combat :
+Dresseurs de Passio II
+[quest_title_1030431100203010] Combat :
+Dresseurs de Passio III
+[quest_title_1030431100204010] Combat :
+Dresseurs de Passio IV
+[quest_title_1030311000603000] Une invitée spéciale
+[quest_title_1030311000603030] Combat : Nos fans adorés !
+[quest_title_1030311000603040] Combat :
+Nos fans adorés ! II
+[quest_title_1030311000603050] Combat :
+Nos fans adorés ! III
+[quest_title_1030311000603060] Combat :
+Nos fans adorés ! IV
+[quest_title_1030311000603070] Combat difficile limité
+à une fois par jour !
+[quest_title_1030311000603010] Briller de reconnaissance
+[quest_title_1030311000603020] Scintiller de reconnaissance
+[quest_title_1030311000601000] Mission hivernale !
+[quest_title_1030311000601010] Un hiver solitaire
+[quest_title_1030311000601050] Collecte d'objets
+[quest_title_1030311000601020] Les souvenirs de Donna
+[quest_title_1030311000601060] Collecte d'objets II
+[quest_title_1030311000601030] Le devoir d'un Maître
+[quest_title_1030311000601070] Collecte d'objets III
+[quest_title_1030311000601040] Amis pour la vie !
+[quest_title_1030311000601080] Collecte d'objets IV
+[quest_title_1030311000601090] Combat difficile limité
+à une fois par jour !
+[quest_title_1030311000601100] Collecte d'objets effrénée
+[quest_title_1030311000601110] Combat difficile
+[quest_title_1030311000601120] Combat difficile II
+[quest_title_1030431100102010] La saison des cadeaux
+[quest_title_1030431100103010] Pika-défi spécial !
+[quest_title_1030220048800000] Une journée avec Pieris
+[quest_title_1030220120100000] Une journée avec Elsa-Mina
+(Look Ultime)
+[quest_title_1030220106800000] Une journée avec Inezia
+[quest_title_1030220259000000] Une journée avec Sonya
 [quest_title_1030431000205010] Combat bonus limité
 à une fois par jour !
 [quest_title_1030431000101010] Combat : Dresseurs de Passio
@@ -10512,6 +10755,60 @@ story_quest_name_it.lsd
 [quest_title_1030309000603100] Lotta bonus: tanti strumenti!
 [quest_title_1030309000603110] Sfida ad alta difficoltà
 [quest_title_1030309000603120] Sfida ad alta difficoltà 2
+[quest_group_title_100101] La storia di Owen
+[quest_group_title_10048800000] Mirton (kimono)
+[quest_group_title_10120100000] Samina Costumax
+[quest_group_title_10106800000] Camelia (classica)
+[quest_group_title_10247400000] Dandel (feste 2021)
+[quest_group_title_10249400000] Azzurra (feste 2021)
+[quest_group_title_10259000000] Sonia
+[quest_group_detail_100101] Il cammino da percorrere
+[quest_title_1030110000420100] Il rivale tardivo
+[quest_title_1030311000602000] Le avvisaglie di un secondo incontro
+[quest_title_1030311000602010] Calano le tenebre
+[quest_title_1030311000602020] Oscurità su Pasio
+[quest_title_1030311000602030] Contro l'oscurità
+[quest_title_1030311000602040] L'amore protegge ogni cosa
+[quest_title_1030311000602050] VS Team Break
+[quest_title_1030311000602060] VS Team Break 2
+[quest_title_1030311000602070] VS Team Break 3
+[quest_title_1030311000602080] VS Team Break 4
+[quest_title_1030311000602090] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030311000602100] Sfida ad alta difficoltà
+[quest_title_1030311000602110] Sfida ad alta difficoltà 2
+[quest_title_1030311000604010] Sfida dell'amore sconfinato
+[quest_title_1030311000604020] Sfida dell'amore sconfinato 2
+[quest_title_1030431100201010] VS Allenatori di Pasio
+[quest_title_1030431100202010] VS Allenatori di Pasio 2
+[quest_title_1030431100203010] VS Allenatori di Pasio 3
+[quest_title_1030431100204010] VS Allenatori di Pasio 4
+[quest_title_1030311000603000] L'ospite di oggi
+[quest_title_1030311000603030] Lotta contro i fan al concerto
+[quest_title_1030311000603040] Lotta contro i fan al concerto 2
+[quest_title_1030311000603050] Lotta contro i fan al concerto 3
+[quest_title_1030311000603060] Lotta contro i fan al concerto 4
+[quest_title_1030311000603070] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030311000603010] Gratitudine splendente
+[quest_title_1030311000603020] Gratitudine brillante
+[quest_title_1030311000601000] Missione invernale
+[quest_title_1030311000601010] Un inverno solitario
+[quest_title_1030311000601050] Raccogliamo tanti strumenti! 1
+[quest_title_1030311000601020] I ricordi di Azzurra
+[quest_title_1030311000601060] Raccogliamo tanti strumenti! 2
+[quest_title_1030311000601030] Il dovere di un Campione
+[quest_title_1030311000601070] Raccogliamo tanti strumenti! 3
+[quest_title_1030311000601040] Opinioni inalterate
+[quest_title_1030311000601080] Raccogliamo tanti strumenti! 4
+[quest_title_1030311000601090] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030311000601100] Raccogliamo ancora più strumenti!
+[quest_title_1030311000601110] Sfida ad alta difficoltà
+[quest_title_1030311000601120] Sfida ad alta difficoltà 2
+[quest_title_1030431100102010] Un regalo coi fiocchi
+[quest_title_1030431100103010] Sfida speciale in corso!
+[quest_title_1030220048800000] Un giorno con Mirton
+[quest_title_1030220120100000] Un giorno con Samina Costumax
+[quest_title_1030220106800000] Un giorno con Camelia
+[quest_title_1030220259000000] Un giorno con Sonia
 [quest_title_1030431000205010] Lotta bonus (una al giorno)!
 [quest_title_1030431000101010] VS Allenatori di Pasio
 [quest_title_1030431000102010] VS Allenatori di Pasio 2
@@ -12386,6 +12683,64 @@ story_quest_name_ja.lsd
 [quest_title_1030309000603100] どうぐ大量・ボーナスバトル！
 [quest_title_1030309000603110] チャレンジバトルで勝負！
 [quest_title_1030309000603120] チャレンジバトルで勝負！２
+[quest_group_title_100101] キリヤ編
+[quest_group_title_10048800000] ギーマ
+（アナザー）
+[quest_group_title_10120100000] マジコスルザミーネ
+[quest_group_title_10106800000] カミツレ
+（アナザー）
+[quest_group_title_10247400000] ダンデ
+（２１シーズン）
+[quest_group_title_10249400000] ルリナ
+（２１シーズン）
+[quest_group_title_10259000000] ソニア
+[quest_group_detail_100101] 進むべき道
+[quest_title_1030110000420100] 遅れてきたライバル
+[quest_title_1030311000602000] 再会の予感
+[quest_title_1030311000602010] 降り立つ闇
+[quest_title_1030311000602020] パシオに広がる闇
+[quest_title_1030311000602030] 闇と向きあう親子
+[quest_title_1030311000602040] すべてを守る愛
+[quest_title_1030311000602050] ＶＳ　ブレイク団
+[quest_title_1030311000602060] ＶＳ　ブレイク団２
+[quest_title_1030311000602070] ＶＳ　ブレイク団３
+[quest_title_1030311000602080] ＶＳ　ブレイク団４
+[quest_title_1030311000602090] １日１回限定・高難度バトル！
+[quest_title_1030311000602100] チャレンジバトルで勝負！
+[quest_title_1030311000602110] チャレンジバトルで勝負！２
+[quest_title_1030311000604010] 深い深い愛で挑め！
+[quest_title_1030311000604020] 深い深い愛で挑め！２
+[quest_title_1030431100201010] ＶＳ　パシオのトレーナー
+[quest_title_1030431100202010] ＶＳ　パシオのトレーナー２
+[quest_title_1030431100203010] ＶＳ　パシオのトレーナー３
+[quest_title_1030431100204010] ＶＳ　パシオのトレーナー４
+[quest_title_1030311000603000] 本日のゲストは……
+[quest_title_1030311000603030] ライブでファンと勝負！
+[quest_title_1030311000603040] ライブでファンと勝負！２
+[quest_title_1030311000603050] ライブでファンと勝負！３
+[quest_title_1030311000603060] ライブでファンと勝負！４
+[quest_title_1030311000603070] １日１回限定・高難度バトル！
+[quest_title_1030311000603010] 輝きに感謝をこめて
+[quest_title_1030311000603020] キラキラに感謝をこめて
+[quest_title_1030311000601000] ウインターズ　ミッション！
+[quest_title_1030311000601010] ひとりぼっちの冬
+[quest_title_1030311000601050] どうぐをいっぱい集めよう
+[quest_title_1030311000601020] ルリナの思い出
+[quest_title_1030311000601060] どうぐをいっぱい集めよう２
+[quest_title_1030311000601030] チャンピオンの責任
+[quest_title_1030311000601070] どうぐをいっぱい集めよう３
+[quest_title_1030311000601040] 変わらぬ思いをあなたに
+[quest_title_1030311000601080] どうぐをいっぱい集めよう４
+[quest_title_1030311000601090] １日１回限定・高難度バトル！
+[quest_title_1030311000601100] どうぐをもっといっぱい集めよう
+[quest_title_1030311000601110] チャレンジバトルで勝負！
+[quest_title_1030311000601120] チャレンジバトルで勝負！２
+[quest_title_1030431100102010] 雪降る季節のプレゼント！
+[quest_title_1030431100103010] 特別チャレンジ開催チュウ！
+[quest_title_1030220048800000] とある日のギーマ
+[quest_title_1030220120100000] とある日のマジコスルザミーネ
+[quest_title_1030220106800000] とある日のカミツレ
+[quest_title_1030220259000000] とある日のソニア
 [quest_title_1030431000205010] １日１回限定・ボーナスバトル！
 [quest_title_1030431000101010] ＶＳ　パシオのトレーナー
 [quest_title_1030431000102010] ＶＳ　パシオのトレーナー２
@@ -14259,6 +14614,64 @@ story_quest_name_ko.lsd
 [quest_title_1030309000603100] 도구 대량 보너스 배틀!
 [quest_title_1030309000603110] 챌린지배틀로 승부!
 [quest_title_1030309000603120] 챌린지배틀로 승부!2
+[quest_group_title_100101] 고상 편
+[quest_group_title_10048800000] 블래리
+(어나더)
+[quest_group_title_10120100000] 궁극코스 루자미네
+[quest_group_title_10106800000] 카밀레
+(어나더)
+[quest_group_title_10247400000] 단델
+(21시즌)
+[quest_group_title_10249400000] 야청
+(21시즌)
+[quest_group_title_10259000000] 소니아
+[quest_group_detail_100101] 나아가야 할 길
+[quest_title_1030110000420100] 늦게 온 라이벌
+[quest_title_1030311000602000] 재회할 것 같은 예감
+[quest_title_1030311000602010] 어둠이 내려오다
+[quest_title_1030311000602020] 파시오에 퍼져가는 어둠
+[quest_title_1030311000602030] 어둠에 맞서는 가족
+[quest_title_1030311000602040] 모든 것을 지킬 사랑
+[quest_title_1030311000602050] VS 브레이크단
+[quest_title_1030311000602060] VS 브레이크단2
+[quest_title_1030311000602070] VS 브레이크단3
+[quest_title_1030311000602080] VS 브레이크단4
+[quest_title_1030311000602090] 1일 1회 한정 고난도 배틀!
+[quest_title_1030311000602100] 챌린지배틀로 승부!
+[quest_title_1030311000602110] 챌린지배틀로 승부!2
+[quest_title_1030311000604010] 깊고 깊은 사랑으로 도전하라!
+[quest_title_1030311000604020] 깊고 깊은 사랑으로 도전하라!2
+[quest_title_1030431100201010] VS 파시오의 트레이너
+[quest_title_1030431100202010] VS 파시오의 트레이너2
+[quest_title_1030431100203010] VS 파시오의 트레이너3
+[quest_title_1030431100204010] VS 파시오의 트레이너4
+[quest_title_1030311000603000] 오늘의 게스트는...
+[quest_title_1030311000603030] 라이브에서 팬과 승부!
+[quest_title_1030311000603040] 라이브에서 팬과 승부!2
+[quest_title_1030311000603050] 라이브에서 팬과 승부!3
+[quest_title_1030311000603060] 라이브에서 팬과 승부!4
+[quest_title_1030311000603070] 1일 1회 한정 고난도 배틀!
+[quest_title_1030311000603010] 찬란함에 감사의 마음을 담아서
+[quest_title_1030311000603020] 반짝반짝에 감사의 마음을 담아서
+[quest_title_1030311000601000] 윈터즈 미션!
+[quest_title_1030311000601010] 나 홀로 보내는 겨울
+[quest_title_1030311000601050] 도구를 많이 모으자
+[quest_title_1030311000601020] 야청의 추억
+[quest_title_1030311000601060] 도구를 많이 모으자2
+[quest_title_1030311000601030] 챔피언의 책임
+[quest_title_1030311000601070] 도구를 많이 모으자3
+[quest_title_1030311000601040] 변함없는 마음을 당신에게
+[quest_title_1030311000601080] 도구를 많이 모으자4
+[quest_title_1030311000601090] 1일 1회 한정 고난도 배틀!
+[quest_title_1030311000601100] 도구를 더 많이 모으자
+[quest_title_1030311000601110] 챌린지배틀로 승부!
+[quest_title_1030311000601120] 챌린지배틀로 승부!2
+[quest_title_1030431100102010] 눈 내리는 계절의 선물!
+[quest_title_1030431100103010] 특별 챌린지 개최 중!
+[quest_title_1030220048800000] 블래리의 어느 날
+[quest_title_1030220120100000] 궁극코스 루자미네의 어느 날
+[quest_title_1030220106800000] 카밀레의 어느 날
+[quest_title_1030220259000000] 소니아의 어느 날
 [quest_title_1030431000205010] 1일 1회 한정 보너스 배틀!
 [quest_title_1030431000101010] VS 파시오의 트레이너
 [quest_title_1030431000102010] VS 파시오의 트레이너2
@@ -16132,6 +16545,64 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030309000603100] 獲得大量道具的獎勵對戰！
 [quest_title_1030309000603110] 用挑戰對戰決勝負！
 [quest_title_1030309000603120] 用挑戰對戰決勝負！２
+[quest_group_title_100101] 梧桐篇
+[quest_group_title_10048800000] 越橘
+（便裝）
+[quest_group_title_10120100000] 美極套裝露莎米奈
+[quest_group_title_10106800000] 小菊兒
+（合眾）
+[quest_group_title_10247400000] 丹帝
+（２０２１冬季）
+[quest_group_title_10249400000] 露璃娜
+（２０２１冬季）
+[quest_group_title_10259000000] 索妮亞
+[quest_group_detail_100101] 該前進的道路
+[quest_title_1030110000420100] 遲來的勁敵
+[quest_title_1030311000602000] 重逢的預感
+[quest_title_1030311000602010] 黑暗的降臨
+[quest_title_1030311000602020] 在帕希歐擴展的黑暗
+[quest_title_1030311000602030] 對抗黑暗的親子
+[quest_title_1030311000602040] 守護一切的愛
+[quest_title_1030311000602050] ＶＳ　破壞隊
+[quest_title_1030311000602060] ＶＳ　破壞隊２
+[quest_title_1030311000602070] ＶＳ　破壞隊３
+[quest_title_1030311000602080] ＶＳ　破壞隊４
+[quest_title_1030311000602090] １天僅限１次的高難度對戰！
+[quest_title_1030311000602100] 用挑戰對戰決勝負！
+[quest_title_1030311000602110] 用挑戰對戰決勝負！２
+[quest_title_1030311000604010] 用深深的愛挑戰！
+[quest_title_1030311000604020] 用深深的愛挑戰！２
+[quest_title_1030431100201010] ＶＳ　帕希歐的訓練家
+[quest_title_1030431100202010] ＶＳ　帕希歐的訓練家２
+[quest_title_1030431100203010] ＶＳ　帕希歐的訓練家３
+[quest_title_1030431100204010] ＶＳ　帕希歐的訓練家４
+[quest_title_1030311000603000] 本日的嘉賓是……
+[quest_title_1030311000603030] 在現場表演中和粉絲對戰！
+[quest_title_1030311000603040] 在現場表演中和粉絲對戰！２
+[quest_title_1030311000603050] 在現場表演中和粉絲對戰！３
+[quest_title_1030311000603060] 在現場表演中和粉絲對戰！４
+[quest_title_1030311000603070] １天僅限１次的高難度對戰！
+[quest_title_1030311000603010] 將感謝融入光輝中
+[quest_title_1030311000603020] 將感謝融入閃亮亮中
+[quest_title_1030311000601000] 冬季任務！
+[quest_title_1030311000601010] 孤單的冬天
+[quest_title_1030311000601050] 收集許多的道具吧
+[quest_title_1030311000601020] 露璃娜的回憶
+[quest_title_1030311000601060] 收集許多的道具吧２
+[quest_title_1030311000601030] 冠軍的責任
+[quest_title_1030311000601070] 收集許多的道具吧３
+[quest_title_1030311000601040] 將不變的心意傳達給你
+[quest_title_1030311000601080] 收集許多的道具吧４
+[quest_title_1030311000601090] １天僅限１次的高難度對戰！
+[quest_title_1030311000601100] 收集更多的道具吧
+[quest_title_1030311000601110] 用挑戰對戰決勝負！
+[quest_title_1030311000601120] 用挑戰對戰決勝負！２
+[quest_title_1030431100102010] 雪季的禮物！
+[quest_title_1030431100103010] 特別挑戰現正舉辦中！
+[quest_title_1030220048800000] 某日的越橘
+[quest_title_1030220120100000] 某日的美極套裝露莎米奈
+[quest_title_1030220106800000] 某日的小菊兒
+[quest_title_1030220259000000] 某日的索妮亞
 [quest_title_1030431000205010] １天僅限１次的獎勵對戰！
 [quest_title_1030431000101010] ＶＳ　帕希歐的訓練家
 [quest_title_1030431000102010] ＶＳ　帕希歐的訓練家２
@@ -16762,6 +17233,30 @@ Kaguron hält sie stets glänzend sauber.
 fesselndsten Kämpfen denkt sie stets an den Sieg ihres
 Teams. Ihr Outfit gleicht Diancie, was ihr noch mehr
 Selbstvertrauen und Motivation verleiht.
+[10259000000] Diese junge Professorin untersucht Legenden in Galar und
+hat die Ergebnisse ihrer Forschung in einem Buch
+zusammengefasst. Sie ist seit Kindheitstagen eng mit dem
+Champ Delion befreundet und die beiden haben sich oft
+gemeinsam auf Reisen begeben.
+[10106800000] Kamilla hat sich wieder einmal in ein neues Outfit
+geworfen und macht ihre Gegner mit ihren blitzschnellen
+Attacken ganz schwindelig.
+[10249400000] Kate kann es kaum erwarten, endlich Geschenke zu
+verteilen. Ihre Erfahrung als Model nutzt sie dazu, andere
+zu unterhalten. Sie und ihr Kubuin sind beide begeisterte
+Angler.
+[10247400000] Delion kann es kaum erwarten, endlich Geschenke zu
+verteilen. Getreu seines Titels als Champ von Galar ist er
+mit seinem Coronospa jederzeit sofort zur Stelle, wenn
+jemand seine Hilfe braucht.
+[10120100000] Samantha trägt eine prächtig funkelnde Machtmontur. Mit
+Necrozma und Solgaleo stellt sie ihre wahre Stärke zur
+Schau, um Menschen und Pokémon gleichermaßen zu
+beschützen.
+[10048800000] Astor sieht in seinem Kimono ganz ungewohnt aus. In
+mysteriöser Anmut am Meeresufer stehend, lässt er das
+Schicksal mit einem Münzwurf über seine Pläne für die
+Zukunft entscheiden.
 
 ===========
 trainer_description_en.lsd
@@ -17334,6 +17829,24 @@ polishing Celesteela until its body is nice and shiny.
 [10004400000] Hilda is back in a special costume designed to match
 her partner, Diancie. Even as she captivates audiences
 in battle, she aims for victory without ever holding back.
+[10259000000] Sonia is a new professor researching the legends of Galar
+and has already published a book with her findings. She’s
+adventure buddies and childhood friends with Leon.
+[10106800000] Elesa’s back in a nostalgic outfit. She makes her
+opponents’ heads spin in battle with moves that are
+speedy as a roller coaster.
+[10249400000] Nessa’s ready to use her modeling experience to make
+things fun for everyone while delivering presents! She’s
+fishing buddies with her partner Pokémon, Eiscue.
+[10247400000] Leon’s ready to jump into delivering presents with Calyrex
+in tow. As the Champion of Galar, he’s prepared to go
+anywhere he’s called.
+[10120100000] Lusamine is back in a sygna suit that shines. Together with
+Necrozma and Solgaleo, she unleashes her true strength
+to protect humans and Pokémon alike.
+[10048800000] Grimsley’s back in something different from his usual look.
+He’s been spotted standing at the beach alone, 
+mysteriously flipping coins to decide tomorrow’s fate.
 
 ===========
 trainer_description_es.lsd
@@ -18006,6 +18519,26 @@ brillo al pulido cuerpo metálico de su compi Celesteela.
 su equipo en la Competición Pokémon. Incluso en los
 combates más intensos, su vestido y su compi Diancie
 relucen como los diamantes.
+[10259000000] Profesora Pokémon novata que recopiló en un libro toda 
+su investigación, centrada en las leyendas de la región 
+de Galar. Es amiga de la infancia de Lionel, el Campeón,
+junto al que ha viajado mucho.
+[10106800000] Camila se viste con su traje retro y desconcierta a sus
+rivales en frenéticos combates Pokémon que los dejan sin
+aliento.
+[10249400000] Cathy viene cargada de regalos. Gracias a su experiencia
+como modelo, está acostumbrada a ser el alma de la
+fiesta. Ella y su compi Eiscue se compenetran a la
+perfección cuando van de pesca.
+[10247400000] Lionel tiene el espíritu festivo por las nubes. Si alguien
+está en apuros, el Campeón de Galar no duda en acudir
+en su ayuda acompañado de Calyrex.
+[10120100000] Samina deslumbra con su radiante Traje Summum.
+Junto a Necrozma y Solgaleo, desata su verdadero poder
+para proteger a los demás.
+[10048800000] Aza no parece el mismo de siempre con este kimono. 
+Un halo de misterio lo rodea en la apartada orilla donde
+confía su futuro al destino lanzando una moneda al aire.
 
 ===========
 trainer_description_fr.lsd
@@ -18619,6 +19152,29 @@ afin de le faire briller.
 la victoire même lors des défis les plus difficiles afin
 de faire gagner son équipe. Sa tenue, assortie à Diancie,
 lui donne toute la motivation nécessaire.
+[10259000000] Professeure Pokémon depuis peu, elle étudie
+les légendes de Galar et a même écrit un livre
+à ce sujet. Elle a voyagé avec le Maître Tarak,
+son ami d'enfance.
+[10106800000] Inezia a une fois encore changé de tenue.
+Elle donne le tournis à ses adversaires
+avec des combats Pokémon dignes
+des plus rapides des montagnes russes.
+[10249400000] Donna a hâte de distribuer des cadeaux.
+Son expérience de top model l'aide
+à divertir la foule. Elle aime pêcher avec
+son partenaire Pokémon Bekaglaçon.
+[10247400000] Tarak a hâte de distribuer des cadeaux. En tant
+que Maître de Galar, il se doit de venir en aide
+à toute personne qui aurait besoin de lui
+et de Sylveroy.
+[10120100000] Le Look Ultime d'Elsa-Mina brille de mille feux.
+Aux côtés de Necrozma et Solgaleo, elle révèle
+sa véritable puissance afin de protéger
+humains et Pokémon.
+[10048800000] Pieris, contrairement à son habitude, porte un kimono.
+Il tire à pile ou face et remet son destin entre les mains
+du hasard. Il apparaît très mystérieux, seul sur la côte.
 
 ===========
 trainer_description_it.lsd
@@ -19244,6 +19800,26 @@ a specchio.
 di Diancie e che le dona tutto l'entusiasmo necessario
 per affrontare al meglio anche le sfide più ardue insieme
 alla sua squadra.
+[10259000000] Una Professoressa Pokémon alle prime armi che ha
+pubblicato un libro che raccoglie tutte le sue scoperte
+riguardanti le leggende di Galar. Lei e Dandel sono amici
+d'infanzia e hanno viaggiato a lungo assieme.
+[10106800000] Camelia torna a sfoggiare un look del suo passato e fa
+girare la testa agli avversari con uno stile di lotta ad alta
+velocità.
+[10249400000] Azzurra è in vena di elargire doni e ravvivare le feste
+a tutti usando il suo talento da modella. Lei e Eiscue
+sono legati dalla passione per la pesca.
+[10247400000] Dandel è in vena di elargire doni e, tenendo alto il suo
+onore di Campione di Galar, accorre sempre in soccorso
+di chi ha bisogno assieme al suo fidato Calyrex.
+[10120100000] Samina indossa un Costumax di una luminosità quasi
+abbagliante. Grazie al potere di Necrozma e di Solgaleo,
+è capace di esprimere una forza incredibile, che utilizza
+per proteggere sia le persone che i Pokémon.
+[10048800000] Mirton ha scelto uno stile diverso dal solito e indossa
+un kimono. Ha un'aria molto misteriosa e lascia che sia
+il lancio di una moneta a indicargli la via verso il futuro.
 
 ===========
 trainer_description_ja.lsd
@@ -19815,6 +20391,24 @@ trainer_description_ja.lsd
 [10004400000] スペシャルな　衣装を　身にまとった　トウコ。
 魅せる勝負も　手は抜かず　チームで勝利を　目指す。
 ディアンシーを　イメージした衣装で　気合いも充分。
+[10259000000] ガラル地方の　伝説を　調べている　新米博士。
+研究を　まとめた　本を　出版した。
+チャンピオンの　ダンデとは　共に旅した　幼なじみ。
+[10106800000] かつて　着ていた服を　再び　身につけた　カミツレ。
+ジェットコースターの　ように　スピーディーな
+ポケモン勝負で　相手を　クラクラ　させる。
+[10249400000] プレゼントを　届けるため　気合いを入れた　ルリナ。
+モデルの　経験を　いかして　みんなを　楽しませる。
+バディの　コオリッポとは　気のあう　釣り仲間。
+[10247400000] プレゼントを　届けるため　気合いを入れた　ダンデ。
+ガラルのチャンピオンとして　自分を呼ぶ　声があれば
+バドレックスと　共に　どこへでも　駆けつける。
+[10120100000] 光輝く　マジコスを　身にまとった　ルザミーネ。
+ネクロズマ　そして　ソルガレオと　共に
+人と　ポケモンを　守るため　真の力を　発揮する。
+[10048800000] いつもとは　違う　着流し姿の　ギーマ。
+明日の　行方を　一枚の　コインに　委ね
+海辺に　ひとり　たたずむ姿は　謎めいている。
 
 ===========
 trainer_description_ko.lsd
@@ -20386,6 +20980,24 @@ WPM 운영위원회의 대표도 맡고 있다.
 [10004400000] 스페셜 의상을 입은 투희.
 사람들을 매료시키는 승부도 봐주지 않고 팀으로 승리를 노린다.
 디안시를 표현한 의상으로 기합도 가득하다.
+[10259000000] 가라르지방의 전설을 조사하는 신참 박사.
+연구 내용을 정리한 책을 출판했다.
+챔피언인 단델과는 함께 여행했던 소꿉친구.
+[10106800000] 예전에 입었던 옷을 다시 꺼내 입은 카밀레.
+제트코스터처럼 스피디한
+포켓몬 승부로 상대를 어질어질하게 만든다.
+[10249400000] 선물을 전하기 위해 의상에 힘을 준 야청.
+모델 경험을 살려서 모두를 즐겁게 만든다.
+버디인 빙큐보와는 마음이 맞는 낚시 친구.
+[10247400000] 선물을 전하기 위해 의상에 힘을 준 단델.
+누군가가 자신을 부른다면 가라르지방의 챔피언으로서
+버드렉스와 함께 어디든지 달려간다.
+[10120100000] 환하게 빛나는 궁극코스를 입은 루자미네.
+네크로즈마, 솔가레오와 함께
+사람과 포켓몬을 지키기 위해 진정한 힘을 발휘한다.
+[10048800000] 평소와는 다른 편한 모습을 한 블래리.
+내일 있을 일을 코인 1개에 맡기고
+해변에서 혼자 서 있는 모습은 수수께끼와도 같다.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -20956,6 +21568,24 @@ trainer_description_zh-TW.lsd
 [10004400000] 身穿特別服裝的鬥子。即使是進行令人著迷的
 對戰也會和隊伍一起邁向勝利，不會因此鬆懈。
 以蒂安希為靈感的服裝也讓她幹勁十足。
+[10259000000] 正在調查伽勒爾地區傳說的新人博士。
+曾經出版過彙整了研究成果的書籍。
+與冠軍丹帝是一同冒險過的兒時玩伴。
+[10106800000] 再次穿上從前的服裝的小菊兒。
+她會用如同雲霄飛車般充滿速度感的
+寶可夢對戰讓對手神魂顛倒。
+[10249400000] 為了分送禮物而鼓足了幹勁的露璃娜。
+她會發揮自己模特兒的經驗娛樂大家。
+她的拍檔冰砌鵝是和她意氣相投的釣魚夥伴。
+[10247400000] 為了分送禮物而鼓足了幹勁的丹帝。
+身為伽勒爾的冠軍，只要有人呼喚他，
+他就會和蕾冠王一同趕到任何地方。
+[10120100000] 身穿光輝耀眼的美極套裝的露莎米奈。
+她將和奈克洛茲瑪以及索爾迦雷歐一起
+發揮出用來保護人與寶可夢的真正力量。
+[10048800000] 打扮不同以往，身穿便裝的越橘。
+將未來的去向寄託於一枚硬幣，
+獨自佇立在海岸邊的身影很是神秘。
 
 ===========
 trainer_name_de.lsd
@@ -21063,6 +21693,7 @@ trainer_name_de.lsd
 [ch0102] Bell
 [ch0103] Trixi
 [ch0104] Sasha
+[ch0105] Rika
 [ch0106] Kamilla
 [ch0108] Hin
 [ch0109] Her
@@ -21127,6 +21758,7 @@ trainer_name_de.lsd
 [ch0251] Nio
 [ch0256] Nezz
 [ch0257] Roy
+[ch0259] Sania
 [ch0640] Rüpel von Team Rocket
 [ch0641] Rüpel von Team Rocket
 
@@ -21236,6 +21868,7 @@ trainer_name_en.lsd
 [ch0102] Bianca
 [ch0103] Tricia
 [ch0104] Trinnia
+[ch0105] Tina
 [ch0106] Elesa
 [ch0108] Ingo
 [ch0109] Emmet
@@ -21300,6 +21933,7 @@ trainer_name_en.lsd
 [ch0251] Allister
 [ch0256] Piers
 [ch0257] Raihan
+[ch0259] Sonia
 [ch0640] Team Rocket Grunt
 [ch0641] Team Rocket Grunt
 
@@ -21409,6 +22043,7 @@ trainer_name_es.lsd
 [ch0102] Bel
 [ch0103] Tricia
 [ch0104] Trini
+[ch0105] Rina
 [ch0106] Camila
 [ch0108] Fero
 [ch0109] Caril
@@ -21473,6 +22108,7 @@ trainer_name_es.lsd
 [ch0251] Alistair
 [ch0256] Nerio
 [ch0257] Roy
+[ch0259] Sonia
 [ch0640] Recluta del Team Rocket
 [ch0641] Recluta del Team Rocket
 
@@ -21582,6 +22218,7 @@ trainer_name_fr.lsd
 [ch0102] Bianca
 [ch0103] Aglaé
 [ch0104] Euphrosyne
+[ch0105] Rika
 [ch0106] Inezia
 [ch0108] Chammal
 [ch0109] Chamsin
@@ -21646,6 +22283,7 @@ trainer_name_fr.lsd
 [ch0251] Alistair
 [ch0256] Peterson
 [ch0257] Roy
+[ch0259] Sonya
 [ch0640] Sbire Team Rocket
 [ch0641] Sbire Team Rocket
 
@@ -21755,6 +22393,7 @@ trainer_name_it.lsd
 [ch0102] Belle
 [ch0103] Tricia
 [ch0104] Tilia
+[ch0105] Lena
 [ch0106] Camelia
 [ch0108] Andy
 [ch0109] Torn
@@ -21819,6 +22458,7 @@ trainer_name_it.lsd
 [ch0251] Onion
 [ch0256] Ginepro
 [ch0257] Laburno
+[ch0259] Sonia
 [ch0640] Recluta del Team Rocket
 [ch0641] Recluta del Team Rocket
 
@@ -21928,6 +22568,7 @@ trainer_name_ja.lsd
 [ch0102] ベル
 [ch0103] トリカ
 [ch0104] サクサ
+[ch0105] リッカ
 [ch0106] カミツレ
 [ch0108] ノボリ
 [ch0109] クダリ
@@ -21992,6 +22633,7 @@ trainer_name_ja.lsd
 [ch0251] オニオン
 [ch0256] ネズ
 [ch0257] キバナ
+[ch0259] ソニア
 [ch0640] ロケットだんの　したっぱ
 [ch0641] ロケットだんの　したっぱ
 
@@ -22101,6 +22743,7 @@ trainer_name_ko.lsd
 [ch0102] 벨
 [ch0103] 트리커
 [ch0104] 사크사
+[ch0105] 리카
 [ch0106] 카밀레
 [ch0108] 상행
 [ch0109] 하행
@@ -22165,6 +22808,7 @@ trainer_name_ko.lsd
 [ch0251] 어니언
 [ch0256] 두송
 [ch0257] 금랑
+[ch0259] 소니아
 [ch0640] 로켓단의 조무래기
 [ch0641] 로켓단의 조무래기
 
@@ -22274,6 +22918,7 @@ trainer_name_zh-TW.lsd
 [ch0102] 白露
 [ch0103] 藍菫
 [ch0104] 綠菫
+[ch0105] 俐卡
 [ch0106] 小菊兒
 [ch0108] 北尚
 [ch0109] 南廈
@@ -22338,6 +22983,7 @@ trainer_name_zh-TW.lsd
 [ch0251] 歐尼奧
 [ch0256] 聶梓
 [ch0257] 奇巴納
+[ch0259] 索妮亞
 [ch0640] 火箭隊手下
 [ch0641] 火箭隊手下
 
@@ -22410,6 +23056,15 @@ trainer_verbose_name_de.lsd
 (Kostüm)
 [10004400000] Lotta
 (Kostüm)
+[10048800000] Astor
+(Kimono)
+[10247400000] Delion
+(Saison 2021)
+[10249400000] Kate
+(Saison 2021)
+[10120100000] MaMo-Samantha
+[10106800000] Kamilla
+(Blond)
 
 ===========
 trainer_verbose_name_en.lsd
@@ -22483,6 +23138,16 @@ Cynthia
 (Special Costume)
 [10004400000] Hilda
 (Special Costume)
+[10048800000] Grimsley
+(Kimono)
+[10247400000] Leon
+(Holiday 2021)
+[10249400000] Nessa
+(Holiday 2021)
+[10120100000] Sygna Suit
+Lusamine
+[10106800000] Elesa
+(Classic)
 
 ===========
 trainer_verbose_name_es.lsd
@@ -22547,6 +23212,13 @@ trainer_verbose_name_es.lsd
 [10113400000] Yasmina
 (Especial)
 [10004400000] Liza (Especial)
+[10048800000] Aza (Alola)
+[10247400000] Lionel
+(Temporada 21)
+[10249400000] Cathy
+(Temporada 21)
+[10120100000] Samina (Traje S)
+[10106800000] Camila (Original)
 
 ===========
 trainer_verbose_name_fr.lsd
@@ -22615,6 +23287,14 @@ trainer_verbose_name_fr.lsd
 (Spécial)
 [10004400000] Ludvina
 (Spécial)
+[10048800000] Pieris (Kimono)
+[10247400000] Tarak
+(Saison 2021)
+[10249400000] Donna
+(Saison 2021)
+[10120100000] Elsa-Mina
+(Ultime)
+[10106800000] Inezia (Classique)
 
 ===========
 trainer_verbose_name_it.lsd
@@ -22686,6 +23366,15 @@ trainer_verbose_name_it.lsd
 (speciale) 
 [10004400000] Anita
 (speciale)
+[10048800000] Mirton
+(kimono)
+[10247400000] Dandel
+(feste 2021)
+[10249400000] Azzurra
+(feste 2021)
+[10120100000] Samina Costumax
+[10106800000] Camelia
+(classica)
 
 ===========
 trainer_verbose_name_ja.lsd
@@ -22757,6 +23446,15 @@ trainer_verbose_name_ja.lsd
 （スペシャル）
 [10004400000] トウコ
 （スペシャル）
+[10048800000] ギーマ
+（アナザー）
+[10247400000] ダンデ
+（２１シーズン）
+[10249400000] ルリナ
+（２１シーズン）
+[10120100000] マジコスルザミーネ
+[10106800000] カミツレ
+（アナザー）
 
 ===========
 trainer_verbose_name_ko.lsd
@@ -22828,6 +23526,15 @@ trainer_verbose_name_ko.lsd
 (스페셜)
 [10004400000] 투희
 (스페셜)
+[10048800000] 블래리
+(어나더)
+[10247400000] 단델
+(21시즌)
+[10249400000] 야청
+(21시즌)
+[10120100000] 궁극코스 루자미네
+[10106800000] 카밀레
+(어나더)
 
 ===========
 trainer_verbose_name_zh-TW.lsd
@@ -22899,6 +23606,15 @@ trainer_verbose_name_zh-TW.lsd
 （禮服）
 [10004400000] 鬥子
 （禮服）
+[10048800000] 越橘
+（便裝）
+[10247400000] 丹帝
+（２０２１冬季）
+[10249400000] 露璃娜
+（２０２１冬季）
+[10120100000] 美極套裝露莎米奈
+[10106800000] 小菊兒
+（合眾）
 
 ===========
 common_widget_de.lsd
@@ -23146,6 +23862,7 @@ dieser Gefährten wechseln?
 [common_widget/trainer_detail_059] Hinweis: Danach kehrst du ins Pokémon-Center zurück.
 [common_widget/trainer_detail_060] Passivfähigkeit
 [common_widget/trainer_detail_061] Glücksfähigkeit
+[common_widget/trainer_detail_062] 
 [common_widget/dialog_special_item_001] [Name:Item ]
 erhalten!
 [common_widget/dialog_special_item_002] Noch [Digit:1digit ] Orden!
@@ -23267,6 +23984,7 @@ Erfüllung bestimmter Bedingungen freigeschaltet.
 [Name:PokemonName ]
 [common_widget/cutin_013] Die Gefährtenattacke
 wurde verstärkt!
+[common_widget/cutin_014] Überspringen
 [common_widget/account_001] Transfer abgeschlossen
 [common_widget/account_002] Deine gesicherten Spieldaten
 wurden erfolgreich von deinem
@@ -23641,6 +24359,7 @@ at Lv. 1
 the switch.
 [common_widget/trainer_detail_060] Passive Skills
 [common_widget/trainer_detail_061] Lucky Skills
+[common_widget/trainer_detail_062] 
 [common_widget/dialog_special_item_001] [Name:Item ]
 [common_widget/dialog_special_item_002] Only [Digit:1digit ] more [EN:Qty S="badge" P="badges" ] to go!
 [common_widget/dialog_special_item_003] All badges acquired! Time to compete in the PML!
@@ -23759,6 +24478,7 @@ have been unlocked.
 & [Name:PokemonName ]
 [common_widget/cutin_013] Sync Move
 Powered Up!
+[common_widget/cutin_014] Skip
 [common_widget/account_001] Transfer Complete
 [common_widget/account_002] Your backup game data has been
 successfully transferred to this device
@@ -24119,6 +24839,7 @@ se hará más fuerte.
 cambio de vestimenta.
 [common_widget/trainer_detail_060] Habilidades pasivas
 [common_widget/trainer_detail_061] Habilidades fortuitas
+[common_widget/trainer_detail_062] 
 [common_widget/dialog_special_item_001] Has conseguido:
 [Name:Item ]
 [common_widget/dialog_special_item_002] Medallas restantes: [Digit:1digit ]
@@ -24243,6 +24964,7 @@ Piedra Compi por cumplir ciertos requisitos.
 y [Name:PokemonName ]
 [common_widget/cutin_013] ¡Movimiento
 compi mejorado!
+[common_widget/cutin_014] ¡Salto realizado!
 [common_widget/account_001] Datos transferidos
 [common_widget/account_002] Se ha completado la transferencia
 de los datos de guardado desde tu
@@ -24532,7 +25254,7 @@ Couleur EX.
 [common_widget/dialog_070] Une nouvelle journée commence !
 Vous recevez une restauration totale.
 [common_widget/dialog_071] Villa de Combat
-[common_widget/dialog_072] Remarque : les objets ne seront automatiquement
+[common_widget/dialog_072] Remarque : les objets ne seront pas automatiquement
 convertis en Pièces.
 [common_widget/dialog_073] La restauration totale réinitialise les limites d'équipe.
 [common_widget/dialog_074] La restauration totale soigne vos Duos mis K.O.
@@ -24601,6 +25323,7 @@ de ce Duo ?
 le changement effectué.
 [common_widget/trainer_detail_060] Talents passifs
 [common_widget/trainer_detail_061] Talents surprise
+[common_widget/trainer_detail_062] 
 [common_widget/dialog_special_item_001] Vous avez obtenu
 1 [Name:Item ] !
 [common_widget/dialog_special_item_002] Encore [Digit:1digit ] Badge[FR:Qty P="s" ] à obtenir !
@@ -24724,6 +25447,7 @@ activer certaines cases du Plateau Duo-Gemme !
 [Name:PokemonName ]
 [common_widget/cutin_013] Puissance
 augmentée !
+[common_widget/cutin_014] SAUTER
 [common_widget/account_001] Transfert terminé
 [common_widget/account_002] Vos données de jeu de votre
 compte Nintendo ont bien été
@@ -25091,6 +25815,7 @@ attuale e al L. 1.
 [common_widget/trainer_detail_059] Dopo il cambio d'abito farai ritorno al Centro Pokémon.
 [common_widget/trainer_detail_060] Abilità passive
 [common_widget/trainer_detail_061] Talenti
+[common_widget/trainer_detail_062] 
 [common_widget/dialog_special_item_001] Hai ottenuto: [Name:Item ]!
 [common_widget/dialog_special_item_002] Medaglie mancanti: [Digit:1digit ]!
 [common_widget/dialog_special_item_003] Ora hai tutte le medaglie! Puoi affrontare il WPM!
@@ -25210,6 +25935,7 @@ Unità soddisfacendo determinati requisiti.
 [Name:PokemonName ]
 [common_widget/cutin_013] Unimossa
 potenziata!
+[common_widget/cutin_014] Salto effettuato
 [common_widget/account_001] Trasferimento effettuato
 [common_widget/account_002] I dati di salvataggio di backup sono
 stati trasferiti con successo dal tuo
@@ -25568,6 +26294,7 @@ MAX
 [common_widget/trainer_detail_059] ※実行後ポケモンセンターに戻ります
 [common_widget/trainer_detail_060] パッシブスキル
 [common_widget/trainer_detail_061] ポテンシャル
+[common_widget/trainer_detail_062] CV：
 [common_widget/dialog_special_item_001] [Name:Item ]を
 獲得しました！
 [common_widget/dialog_special_item_002] のこるバッジは　あと[Digit:1digit ]個！
@@ -25684,6 +26411,7 @@ Lv.MAX
 [common_widget/cutin_012] [Name:TrainerName ]＆[Name:PokemonName ]
 [common_widget/cutin_013] バディーズわざ
 パワーアップ!
+[common_widget/cutin_014] SKIP
 [common_widget/account_001] 引き継ぎ完了
 [common_widget/account_002] ゲームデータの引き継ぎが
 完了しました
@@ -26056,6 +26784,7 @@ Lv.1 상태
 [common_widget/trainer_detail_059] ※실행 후 포켓몬센터로 돌아갑니다
 [common_widget/trainer_detail_060] 패시브스킬
 [common_widget/trainer_detail_061] 포텐셜
+[common_widget/trainer_detail_062] 
 [common_widget/dialog_special_item_001] [Name:Item ][Kor:Particle char="wo" ]
 획득했습니다!
 [common_widget/dialog_special_item_002] 남은 배지는 앞으로 [Digit:1digit ]개!
@@ -26173,6 +26902,7 @@ Lv.MAX
 [common_widget/cutin_012] [Name:TrainerName ]&[Name:PokemonName ]
 [common_widget/cutin_013] 버디즈기술
 파워업!
+[common_widget/cutin_014] SKIP
 [common_widget/account_001] 이어받기 완료
 [common_widget/account_002] 게임 데이터의 이어받기가
 완료되었습니다
@@ -26525,6 +27255,7 @@ MAX
 [common_widget/trainer_detail_059] ※執行後將回到寶可夢中心
 [common_widget/trainer_detail_060] 被動技能
 [common_widget/trainer_detail_061] 潛能
+[common_widget/trainer_detail_062] 
 [common_widget/dialog_special_item_001] 獲得了
 [Name:Item ]！
 [common_widget/dialog_special_item_002] 還剩下[Digit:1digit ]個徽章！
@@ -26639,6 +27370,7 @@ EX服裝！
 [common_widget/cutin_012] [Name:TrainerName ]＆[Name:PokemonName ]
 [common_widget/cutin_013] 拍組招式
 威力提升！
+[common_widget/cutin_014] SKIP
 [common_widget/account_001] 完成資料轉移
 [common_widget/account_002] 遊戲資料已轉移
 您現在可使用Nintendo Account
@@ -28775,6 +29507,9 @@ das nach dem Ende der WPM auf Passio eingetroffen ist.
 [Name:DateTime ]
 [home/quest_list_series_007] Wird nach Abschluss von „Herzen im Einklang“
 in Kapitel 1 der Hauptgeschichte freigeschaltet.
+[home/quest_list_series_008] In dieser Geschichte kannst du dir Gefährtengespanne mit
+Legendären Pokémon in dein Team holen.
+[home/quest_list_series_009] Legenden-Abenteuer
 [home/quest_list_013] Erf.
 [home/quest_list_017] Gemeinsam spielen
 [home/quest_list_018] Mit zufälligen
@@ -28971,6 +29706,9 @@ Belohnung erhalten!
 [home/quest_list_170] Wird in [Digit:3digits ] Tag[DE:Qty P="en" ] freigeschaltet.
 [home/quest_list_171] Wird freigeschaltet in:
 [Name:DateTime ]
+[home/quest_list_172] Wird freigeschaltet, wenn du ein Kapitel
+des Schurkenteams [Digit:2digits ] Mal auf dem
+Schwierigkeitsgrad Normal abgeschlossen hast.
 [home/quest_detail_003] Empfohlener Typ
 [home/quest_detail_005] Details
 [home/quest_detail_009] Teamauswahl
@@ -29367,6 +30105,9 @@ lange zurückliegt.
 [home/sp_battle_005] Du hast den Kollektivkampf gewonnen!
 Versuche dich am besten gleich am
 nächsten!
+[home/sp_battle_006] Es ist während dieser Geschichte nicht möglich, an mehr als einem Kollektivkampf zugleich teilzunehmen. Wenn du trotzdem an einem anderen Kollektivkampf teilnehmen möchtest, musst du den aktuellen Kollektivkampf zuerst abbrechen.
+[home/sp_battle_007] Die Zahl der zu Kollektivkämpfen aufgebrochenen Gefährten sowie der gegnerische Zustand (KP etc.) werden für diese Geschichte zurückgesetzt. Möchtest du fortfahren?
+[home/sp_battle_008] Dein Fortschritt beim aktuellen Kollektivkampf für diese Geschichte wurde zurückgesetzt.
 [home/champion_battle_001] Champkampf
 [home/champion_battle_002] Verfügbar nachdem du in der
 Hauptgeschichte alle WPM-Orden
@@ -29529,6 +30270,18 @@ Bedingungen erfüllt hast:
 [home/champion_battle_066] Wird freigeschaltet, wenn du den
 Champ besiegt hast und du in die
 Ruhmeshalle eingezogen bist.
+[home/battle_villa_001] Ebenensprung
+[home/battle_villa_002] Da du in der letzten Kampfvilla-Veranstaltung die finale Ebene abgeschlossen hast, kannst du jetzt zu deiner gewünschten Ebene springen. Du kannst bis zu der Ebene, zu der du springst, Erstboni erhalten.
+[home/battle_villa_003] Hinweis: Du kannst nur zu Beginn des Veranstaltungszeitraums Ebenen überspringen. Später ist die Funktion nicht mehr verfügbar.
+[home/battle_villa_004] Ebene auswählen
+[home/battle_villa_005] Nicht überspringen
+[home/battle_villa_006] Möchtest du zu Ebene [Digit:2digits ] springen und die folgenden Erstboni erhalten?
+[home/battle_villa_007] Hinweis: Du kannst für übersprungene Ebenen keine Abschlussboni erhalten.
+[home/battle_villa_008] Du bist zu Ebene [Digit:2digits ] gesprungen und hast folgende Erstboni erhalten:
+[home/battle_villa_009] Überspringen
+[home/battle_villa_010] Möchtest du ohne Ebenensprung in die Kampfvilla eintreten?
+[home/battle_villa_011] Springe zu Ebene [Digit:2digits ]
+[home/battle_villa_012] Ebene [Digit:2digits ]: [Name:QuestTitle ]
 
 ===========
 home_en.lsd
@@ -29565,6 +30318,9 @@ now that the PML is over?
 [home/quest_list_series_007] To unlock, complete
 Main Story Chapter 1:
 The More the Merrier.
+[home/quest_list_series_008] A collection of stories in which you can team up with sync pairs
+that have Legendary Pokémon.
+[home/quest_list_series_009] Legendary Adventures
 [home/quest_list_013] XP
 [home/quest_list_017] Battle with other players!
 [home/quest_list_018] Quick
@@ -29752,6 +30508,8 @@ To unlock, collect more:
 [home/quest_list_169] Unlock
 [home/quest_list_170] Unlocks in [Digit:3digits ] day(s)
 [home/quest_list_171] Unlocks in [Name:DateTime ]
+[home/quest_list_172] To unlock, complete [Digit:2digits ] chapter(s) of
+the villain arc on Normal.
 [home/quest_detail_003] Recommended Types
 [home/quest_detail_005] Area Details
 [home/quest_detail_009] Preset Teams
@@ -30139,6 +30897,13 @@ You won this Full-Force Battle!
 
 Next, try testing your might against
 another opponent!
+[home/sp_battle_006] You can take on only one Full-Force Battle at a time during this story.
+
+If you’d like to take on a different Full-Force Battle, tap the Reset button.
+[home/sp_battle_007] The number of sync pairs engaged in Full-Force Battles, as well as your opponents’ HP and battle status, will be reset for this story.
+
+Are you sure you want to reset?
+[home/sp_battle_008] Your Full-Force Battle progress for this story has been reset.
 [home/champion_battle_001] Champion Stadium
 [home/champion_battle_002] You must collect all of the
 PML badges in the main story to
@@ -30265,6 +31030,18 @@ you meet the requirements starting
 [home/champion_battle_065] Option Details
 [home/champion_battle_066] To unlock, defeat the Champion
 and enter the Hall of Fame.
+[home/battle_villa_001] Hall Skip
+[home/battle_villa_002] Because you completed all halls during the last Battle Villa challenge, you can skip to a hall of your choice. You can still receive first-time rewards for any halls you skip.
+[home/battle_villa_003] Note: If you don’t skip any halls at this point, you will not be able to do so later during this Battle Villa challenge.
+[home/battle_villa_004] Select a Hall
+[home/battle_villa_005] Cancel
+[home/battle_villa_006] Would you like to skip all halls through Hall [Digit:2digits ] and receive the following first-time rewards?
+[home/battle_villa_007] Note: You will not receive bonus rewards for any halls you skip.
+[home/battle_villa_008] You skipped all halls through Hall [Digit:2digits ] and received the following rewards.
+[home/battle_villa_009] Skip
+[home/battle_villa_010] Are you sure you want to start this Battle Villa challenge without skipping any halls?
+[home/battle_villa_011] Skip all halls through Hall [Digit:2digits ]
+[home/battle_villa_012] Hall [Digit:2digits ]: [Name:QuestTitle ]
 
 ===========
 home_es.lsd
@@ -30302,6 +31079,9 @@ de villanos que amenaza Passio tras la clausura del WPM.
 [home/quest_list_series_007] Completa la ubicación "Corazones al
 unísono" del capítulo 1 de la historia
 principal.
+[home/quest_list_series_008] En esta historia, puedes formar equipo con parejas de compis
+compuestas por Pokémon legendarios.
+[home/quest_list_series_009] Trama Pokémon legendarios
 [home/quest_list_013] Exp.
 [home/quest_list_017] Multijugador
 [home/quest_list_018] Partida rápida
@@ -30492,6 +31272,9 @@ tienes bastante del siguiente objeto:
 [home/quest_list_169] Desbloquear
 [home/quest_list_170] Se desbloqueará en [Digit:3digits ] día[ES:Qty P="s" ].
 [home/quest_list_171] Se desbloqueará en [Name:DateTime ].
+[home/quest_list_172] Se desbloqueará al completar [Digit:2digits ]
+capítulo[ES:Qty P="s" ] de la trama equipo villano en
+dificultad Normal.
 [home/quest_detail_003] Tipos recomendados
 [home/quest_detail_005] Detalles
 [home/quest_detail_009] Elegir equipo
@@ -30881,6 +31664,17 @@ progreso.
 
 Ponte a prueba con otro combate
 colectivo.
+[home/sp_battle_006] No puedes librar un combate colectivo
+si ya estás llevando a cabo uno en la
+trama.
+Para disputar otro combate colectivo,
+usa la opción Restablecer.
+[home/sp_battle_007] Se restablecerá todo el progreso del
+combate colectivo, los PS restantes de
+los rivales y los compis usados.
+¿Quieres continuar?
+[home/sp_battle_008] Se ha restablecido el progreso del
+combate colectivo en esta trama.
 [home/champion_battle_001] Combates de Campeones
 [home/champion_battle_002] Consigue todas las medallas del
 WPM en la historia principal para
@@ -31021,6 +31815,29 @@ requisitos.
 [home/champion_battle_066] Se desbloqueará tras vencer al
 Campeón o Campeona e ingresar
 en el Hall de la Fama de Passio.
+[home/battle_villa_001] Saltar planta
+[home/battle_villa_002] Dado que anteriormente completaste la última
+planta, ahora tienes la posibilidad de avanzar
+automáticamente hasta la planta que prefieras
+y recibir los premios por primera vez de las
+plantas que te saltes.
+[home/battle_villa_003] Nota: Si no usas esta función ahora, no podrás hacerlo
+una vez hayas comenzado la etapa.
+[home/battle_villa_004] Elige la planta a la que quieras saltar.
+[home/battle_villa_005] No saltar nada
+[home/battle_villa_006] ¿Quieres saltar a la planta [Digit:2digits ] y recibir
+los premios por primera vez siguientes?
+[home/battle_villa_007] Nota: No recibirás los premios de bonificación de las
+plantas que hayas saltado.
+[home/battle_villa_008] Has saltado las plantas inferiores a la
+planta número [Digit:2digits ] y has recibido los
+premios por primera vez siguientes:
+[home/battle_villa_009] Saltar
+[home/battle_villa_010] ¿Quieres comenzar esta etapa de la
+Residencia Batalla sin saltar ninguna
+planta?
+[home/battle_villa_011] Saltar a la planta [Digit:2digits ]
+[home/battle_villa_012] Planta [Digit:2digits ] ([Name:QuestTitle ])
 
 ===========
 home_fr.lsd
@@ -31057,6 +31874,9 @@ maléfique venue à Passio après la fin du WPM.
 [home/quest_list_series_007] Débloqué après avoir terminé
 « L'écho des cœurs »
 dans le chapitre 1.
+[home/quest_list_series_008] Dans ce scénario, vous pouvez faire équipe avec des Duos
+qui comprennent un Pokémon légendaire.
+[home/quest_list_series_009] Les Pokémon légendaires
 [home/quest_list_013] Exp.
 [home/quest_list_017] Jeu en coop
 [home/quest_list_018] Connexion
@@ -31254,6 +32074,9 @@ Nécessaire pour débloquer :
 [home/quest_list_169] Débloquer
 [home/quest_list_170] Se débloque dans [Digit:3digits ] jour(s).
 [home/quest_list_171] Se débloque dans [Name:DateTime ].
+[home/quest_list_172] Débloqué après avoir terminé [Digit:2digits ]
+chapitres de « L'organisation maléfique »
+au niveau Normal.
 [home/quest_detail_003] Types conseillés
 [home/quest_detail_005] Infos
 [home/quest_detail_009] Équipes
@@ -31656,6 +32479,20 @@ de temps. Votre progression a
 
 Tentez votre chance dans le Combat
 Collectif suivant !
+[home/sp_battle_006] Vous ne pouvez participer qu'à
+un seul Combat Collectif à la fois
+pendant ce scénario.
+
+Pour prendre part à un autre Combat
+Collectif, veuillez réinitialiser celui
+en cours.
+[home/sp_battle_007] Les PV des ennemis seront restaurés
+et le nombre de Duos utilisés pendant
+le Combat Collectif retombera à 0.
+Voulez-vous réinitialiser ?
+[home/sp_battle_008] Votre progression dans
+le Combat Collectif de ce
+scénario a été réinitialisée.
 [home/champion_battle_001] Combat de Maître
 [home/champion_battle_002] Vous pourrez vous essayer au
 Combat de Maître après avoir
@@ -31833,6 +32670,31 @@ si les conditions sont remplies :
 [home/champion_battle_066] Débloqué après avoir vaincu le Maître
 une fois et fait votre entrée
 au Panthéon de Passio.
+[home/battle_villa_001] Saut d'échelon
+[home/battle_villa_002] Vous avez battu le dernier échelon lors
+de la précédente session de la Villa de
+Combat. Vous donc pouvez à présent sauter
+les échelons jusqu'à celui de votre choix.
+Vous pourrez recevoir des récompenses
+de première fois pour les échelons passés.
+[home/battle_villa_003] Note : Si vous décidez de ne pas sauter d'échelons
+maintenant, vous ne pourrez plus le faire une fois
+la session dans Villa de Combat entamée.
+[home/battle_villa_004] Sélectionnez un échelon à sauter
+[home/battle_villa_005] Annuler
+[home/battle_villa_006] Sauter jusqu'à l'échelon [Digit:2digits ] et recevoir
+les récompenses de première fois
+suivantes ?
+[home/battle_villa_007] Note : Vous ne pourrez pas recevoir de récompenses
+bonus pour les échelons sautés.
+[home/battle_villa_008] Vous avez sauté à l'échelon [Digit:2digits ]
+et avez reçu les récompenses
+de première fois suivantes.
+[home/battle_villa_009] Sauté
+[home/battle_villa_010] Participer à la Villa de Combat
+sans sauter d'échelons ?
+[home/battle_villa_011] Sauter à l'échelon [Digit:2digits ]
+[home/battle_villa_012] Échelon [Digit:2digits ] → [Name:QuestTitle ]
 
 ===========
 home_it.lsd
@@ -31870,6 +32732,9 @@ indicata di seguito:
 [Name:DateTime ]
 [home/quest_list_series_007] Si sblocca completando "Sintonia
 rinsaldata" del capitolo 1 della storia.
+[home/quest_list_series_008] Questa parte della storia ti permette di fare squadra con Unità
+che comprendono dei Pokémon leggendari.
+[home/quest_list_series_009] I Pokémon leggendari
 [home/quest_list_013] ESP.
 [home/quest_list_017] Gioca in compagnia
 [home/quest_list_018] Giocatori a caso
@@ -32061,6 +32926,8 @@ Ti serve: [Name:Item ].
 [home/quest_list_170] Giorni mancanti allo sblocco: [Digit:3digits ]
 [home/quest_list_171] Tempo mancante allo sblocco:
 [Name:DateTime ]
+[home/quest_list_172] Si sblocca completando [Digit:2digits ] capitol[IT:Qty S="o" P="i" ] qualsiasi
+di "I gruppi malvagi" in modalità normale.
 [home/quest_detail_003] Tipi consigliati
 [home/quest_detail_005] Info area
 [home/quest_detail_009] Scegli squadra
@@ -32457,6 +33324,20 @@ previsto.
 
 Ora perché non ti metti alla prova
 con un'altra Lotta Collettiva?
+[home/sp_battle_006] Se stai già affrontando una Lotta
+Collettiva, non puoi accedere alle altre
+della stessa storia.
+
+Se vuoi affrontare un'altra Lotta
+Collettiva della stessa storia, tocca
+il pulsante "Ripristina".
+[home/sp_battle_007] Il ripristino azzererà il numero di Unità
+alleate partite per la Lotta Collettiva
+e rimetterà del tutto in sesto i nemici.
+Vuoi procedere?
+[home/sp_battle_008] I tuoi progressi nella Lotta Collettiva
+in corso durante la storia sono stati
+ripristinati.
 [home/champion_battle_001] Lotte dei Campioni
 [home/champion_battle_002] Ottieni tutte le medaglie WPM
 nella storia per affrontare le Lotte
@@ -32622,6 +33503,27 @@ soddisfatte determinate condizioni:
 o la Campionessa per la prima volta,
 entrando così nella Sala d'Onore
 di Pasio.
+[home/battle_villa_001] Salta una sala
+[home/battle_villa_002] Visto che la volta scorsa hai completato
+l'ultima sala, puoi decidere di iniziare da una
+sala a tua scelta, saltando le precedenti.
+Riceverai le prime ricompense per ogni sala
+che salterai.
+[home/battle_villa_003] Se decidi di non saltare delle sale in questo momento,
+non ti sarà possibile farlo durante l'apertura.
+[home/battle_villa_004] Seleziona una sala
+[home/battle_villa_005] Annulla
+[home/battle_villa_006] Vuoi saltare fino alla sala [Digit:2digits ] ricevendo
+le seguenti prime ricompense?
+[home/battle_villa_007] Non puoi ricevere le ricompense bonus per le sale
+che vengono saltate.
+[home/battle_villa_008] Hai saltato le sale fino alla sala [Digit:2digits ] e hai
+ricevuto le seguenti prime ricompense.
+[home/battle_villa_009] SALTATA
+[home/battle_villa_010] Vuoi affrontare la Residenza Lotta
+senza saltare una sala?
+[home/battle_villa_011] Salta alla sala [Digit:2digits ]
+[home/battle_villa_012] Sala [Digit:2digits ] [Name:QuestTitle ]
 
 ===========
 home_ja.lsd
@@ -32659,6 +33561,9 @@ home_ja.lsd
 [home/quest_list_series_007] メインストーリー第１章
 「共鳴する心」
 クリアで解放されます
+[home/quest_list_series_008] 伝説ポケモンバディーズを
+仲間にすることができる　ストーリーです
+[home/quest_list_series_009] 伝説ポケモン編
 [home/quest_list_013] EXP
 [home/quest_list_017] みんなで遊ぶ
 [home/quest_list_018] おまかせ
@@ -32848,6 +33753,8 @@ Lv.[Digit:2digits ]で解放
 [home/quest_list_169] 解放
 [home/quest_list_170] あと[Digit:3digits ]日で解放
 [home/quest_list_171] あと[Name:DateTime ]で解放
+[home/quest_list_172] 悪の組織編のいずれかの編のNORMALを
+[Digit:2digits ]種　全クリアすることで解放
 [home/quest_detail_003] おすすめのタイプ
 [home/quest_detail_005] エリア詳細
 [home/quest_detail_009] チーム選択
@@ -33235,6 +34142,18 @@ GRADE一覧に戻ります
 [home/sp_battle_005] ソウリョクバトルに勝利しました！
 
 次のソウリョクバトルに挑戦しましょう
+[home/sp_battle_006] 同ストーリーに挑戦中ソウリョクバトルが
+ある場合、他のソウリョクバトルに
+挑戦できません
+
+他のソウリョクバトルに挑戦したい時は
+リセットを実行してください
+[home/sp_battle_007] リセットを実行すると同ストーリーの挑戦中
+ソウリョクバトルの味方の出発数や
+敵のＨＰなどの状態がリセットされます
+よろしいですか？
+[home/sp_battle_008] 同ストーリーの挑戦中ソウリョクバトルの
+進捗がリセットされました
 [home/champion_battle_001] チャンピオンバトル
 [home/champion_battle_002] メインストーリーで
 ＷＰＭバッジをすべて集めると
@@ -33400,6 +34319,26 @@ GRADE一覧に戻ります
 [home/champion_battle_065] オプション詳細
 [home/champion_battle_066] 一度チャンピオンを倒して
 パシオ殿堂入りすると解放されます
+[home/battle_villa_001] GRADEスキップ
+[home/battle_villa_002] 前回最終GRADEをクリアしたので
+指定のGRADEまでスキップできます
+スキップしたGRADEまでの
+初回報酬は受け取れます
+[home/battle_villa_003] ※スキップしない場合
+開催中はGRADEスキップできません
+[home/battle_villa_004] スキップするGRADEを選択
+[home/battle_villa_005] スキップしない
+[home/battle_villa_006] GRADE [Digit:2digits ]までスキップし
+以下の初回報酬を受け取りますか？
+[home/battle_villa_007] ※スキップしたGRADEの
+ボーナス報酬は受け取れません
+[home/battle_villa_008] GRADE [Digit:2digits ]までスキップし
+以下の初回報酬を受け取りました
+[home/battle_villa_009] SKIP
+[home/battle_villa_010] GRADEスキップを行わずに
+バトルヴィラに挑戦しますか？
+[home/battle_villa_011] GRADE [Digit:2digits ]までスキップ
+[home/battle_villa_012] GRADE [Digit:2digits ]　[Name:QuestTitle ]
 
 ===========
 home_ko.lsd
@@ -33437,6 +34376,9 @@ home_ko.lsd
 [home/quest_list_series_007] 메인 스토리 제1장
 "공명하는 마음"을
 클리어하면 해방됩니다
+[home/quest_list_series_008] 전설 포켓몬 버디즈를
+동료로 만들 수 있는 스토리입니다
+[home/quest_list_series_009] 전설 포켓몬 편
 [home/quest_list_013] EXP
 [home/quest_list_017] 함께 즐긴다
 [home/quest_list_018] 자동
@@ -33626,6 +34568,8 @@ Lv.[Digit:2digits ]에서 해방
 [home/quest_list_169] 해방
 [home/quest_list_170] 앞으로 [Digit:3digits ]일 뒤에 해방
 [home/quest_list_171] 앞으로 [Name:DateTime ] 뒤에 해방
+[home/quest_list_172] 악의 조직 편에 있는 편을 NORMAL로
+[Digit:2digits ] 종류 모두 클리어하면 해방
 [home/quest_detail_003] 추천타입
 [home/quest_detail_005] 에리어 상세
 [home/quest_detail_009] 팀 선택
@@ -34009,6 +34953,18 @@ GRADE 목록으로 돌아갑니다
 진척 상황이 초기화되었습니다
 [home/sp_battle_005] 총력배틀에서 승리하였습니다!
 다음 총력배틀에 도전합시다
+[home/sp_battle_006] 같은 스토리에 도전 중인 총력배틀이 있을 경우
+다른 총력배틀에 도전할 수 없습니다
+
+다른 총력배틀에 도전하고 싶을 때는
+초기화를 해 주십시오
+[home/sp_battle_007] 초기화하면 같은 스토리에서 도전 중인
+총력배틀에서 출발 가능한 같은 편의 버디즈 수나
+상대의 HP 등의 상태가 초기화됩니다
+
+괜찮겠습니까?
+[home/sp_battle_008] 같은 스토리에서 도전 중인 총력배틀의
+진척 상황이 초기화되었습니다
 [home/champion_battle_001] 챔피언배틀
 [home/champion_battle_002] 메인 스토리에서
 WPM배지를 모두 모으면
@@ -34153,6 +35109,26 @@ WPM배지를 모두 모으면
 [home/champion_battle_065] 옵션 상세
 [home/champion_battle_066] 한 번 챔피언을 쓰러뜨리고
 파시오 전당등록을 진행하면 해방됩니다
+[home/battle_villa_001] GRADE 스킵
+[home/battle_villa_002] 지난 회 최종 GRADE를 클리어했으므로
+지정된 GRADE까지 스킵할 수 있습니다
+스킵한 GRADE까지의
+첫 클리어 보상은 받을 수 있습니다
+[home/battle_villa_003] ※스킵하지 않는 경우
+개최 중에는 GRADE 스킵할 수 없습니다
+[home/battle_villa_004] 스킵할 GRADE를 선택
+[home/battle_villa_005] 스킵하지 않는다
+[home/battle_villa_006] GRADE [Digit:2digits ]까지 스킵해서
+아래의 첫 클리어 보상을 받겠습니까?
+[home/battle_villa_007] ※스킵한 GRADE의
+보너스 보상은 받을 수 없습니다
+[home/battle_villa_008] GRADE [Digit:2digits ]까지 스킵해서
+아래의 첫 클리어 보상을 받았습니다
+[home/battle_villa_009] SKIP
+[home/battle_villa_010] GRADE 스킵을 진행하지 않고
+배틀빌라에 도전하겠습니까?
+[home/battle_villa_011] GRADE [Digit:2digits ]까지 스킵
+[home/battle_villa_012] GRADE [Digit:2digits ]　[Name:QuestTitle ]
 
 ===========
 home_zh-TW.lsd
@@ -34189,6 +35165,9 @@ home_zh-TW.lsd
 [Name:DateTime ]
 [home/quest_list_series_007] 成功過關主線劇情第１章
 「心心相鳴」即可開放
+[home/quest_list_series_008] 能和傳說的寶可夢的拍組
+成為夥伴的故事
+[home/quest_list_series_009] 傳說的寶可夢篇
 [home/quest_list_013] EXP
 [home/quest_list_017] 多隊模式
 [home/quest_list_018] 隨機配對
@@ -34374,6 +35353,8 @@ home_zh-TW.lsd
 [home/quest_list_169] 開放
 [home/quest_list_170] 還剩[Digit:3digits ]天開放
 [home/quest_list_171] 還剩[Name:DateTime ]開放
+[home/quest_list_172] 成功過關邪惡組織篇中
+任[Digit:2digits ]篇的所有NORMAL後即可開放
 [home/quest_detail_003] 推薦屬性
 [home/quest_detail_005] 區域詳情
 [home/quest_detail_009] 選擇隊伍
@@ -34734,6 +35715,17 @@ home_zh-TW.lsd
 進度已重設
 [home/sp_battle_005] 大對戰獲勝了！
 快去挑戰下一個大對戰吧
+[home/sp_battle_006] 在本劇情內
+若有正在挑戰的大對戰
+將會無法挑戰其他的大對戰
+如果想要挑戰其他的大對戰
+請進行重設
+[home/sp_battle_007] 一旦進行重設，本劇情內挑戰中
+大對戰的我方出發數與敵人的
+ＨＰ狀態將會重設
+確定要重設嗎？
+[home/sp_battle_008] 本劇情內挑戰中大對戰的
+進度已重設
 [home/champion_battle_001] 冠軍對戰
 [home/champion_battle_002] 只要在主線劇情中
 收集到所有的ＷＰＭ徽章
@@ -34875,6 +35867,26 @@ home_zh-TW.lsd
 [home/champion_battle_065] 選項說明
 [home/champion_battle_066] 只要打敗一次冠軍
 並登入帕希歐名人堂即可開放
+[home/battle_villa_001] 跳過GRADE
+[home/battle_villa_002] 上期已成功過關最高GRADE
+因此可跳至指定的GRADE
+所有跳過的GRADE的
+首次過關報酬皆可領取
+[home/battle_villa_003] ※若是選擇不跳過
+舉辦期間內將無法跳過GRADE
+[home/battle_villa_004] 選擇要跳過的GRADE
+[home/battle_villa_005] 不跳過
+[home/battle_villa_006] 要跳至GRADE [Digit:2digits ]
+並領取下列首次過關報酬嗎？
+[home/battle_villa_007] ※無法領取已跳過的
+GRADE的獎勵報酬
+[home/battle_villa_008] 已跳至GRADE [Digit:2digits ]
+並領取了下列首次過關報酬
+[home/battle_villa_009] SKIP
+[home/battle_villa_010] 確定不跳過GRADE
+就挑戰對戰莊園嗎？
+[home/battle_villa_011] 跳至GRADE [Digit:2digits ]
+[home/battle_villa_012] GRADE [Digit:2digits ]　[Name:QuestTitle ]
 
 ===========
 shop_de.lsd
@@ -35353,8 +36365,8 @@ Geschenkbox abgelegt.
 [shop/scout_118] Geschenk ab der [Digit:2digits ]. Suche
 [shop/scout_119] Garantierte 5★-Ticket-
 Gefährtensuche
-[shop/scout_120] Erhalte ein 5★-Gefährtengespann
-mit [Name:Item ]s.
+[shop/scout_120] Tausche deine Tickets gegen
+ein 5★-Gefährtengespann.
 [shop/scout_121] [Digit:2digits ] × [Name:Item ] 
 einsetzen, um eine Ticket-
 Gefährtensuche durchzuführen?
@@ -35463,6 +36475,7 @@ Dynamax
 kostenlos Gefährten ins Team holen!
 [shop/scout_155] Gefährten werden mit aktuellem Attacken-Level angezeigt.
 [shop/scout_156] Gefährtensuche x10
+[shop/scout_159] Die Erscheinungsraten für ★ werden nach der vierten Dezimalstelle aufgerundet, es kann also sein, dass sie addiert nicht 100 % ergeben. Die tatsächliche Erscheinungsrate wird nicht auf- oder abgerundet. Die Erscheinungsrate gilt für jede durchgeführte Gefährtensuche. Selbst wenn du eine Gefährtensuche mehrmals hintereinander durchführst, heißt das also nicht notwendigerweise, dass du ein bestimmtes Gefährtengespann erhalten wirst. Es ist möglich, dass du durch die Gefährtensuche die gleichen Gefährten erhältst. Selbst wenn du Gefährten schon hast und sich bei ihnen das Pokémon schon entwickelt hat, wird das Pokémon vor der Entwicklung angezeigt, wenn du sie durch Gefährtensuchen erhältst. Steht bei der Erscheinungsrate hinter dem Pokémon-Namen ein *, heißt das, dass sich das Pokémon durch eine Entwicklungs-Episode entwickeln kann.
 [shop/deck_item_sale_001] Ausrüstungstausch
 [shop/deck_item_sale_002] Ausrüstung
 [shop/deck_item_sale_003] Filter
@@ -35731,7 +36744,7 @@ to scout 10 sync pairs?
 [shop/scout_037] Notes
 [shop/scout_039] 5★Guaranteed
 [shop/scout_040] Fair-Exclusive Sync Pairs
-[shop/scout_042] The offering rate for each ★ is rounded off past the fourth decimal, so adding them all up may not equal 100%. We do not round the actual offering rate up or down.
+[shop/scout_042] The offering rate displayed for each ★ is cut to three decimal places, so adding them all up may not equal 100%. We do not round the actual offering rate up or down.
 
 The offering rate applies to each instance of sync pair scouting, so there is no guarantee that you will get any one sync pair, even if you scout many times in a row.
 
@@ -35739,8 +36752,8 @@ You may get sync pairs that you have already acquired when you scout.
 
 When you are scouting, you will see sync pairs with unevolved Pokémon even if you have previously acquired and evolved them.
 
-When you see a * displayed after a Pokémon name in the offering rate, that means that sync pair can evolve their Pokémon through an Evolution sync pair story.
-[shop/scout_043] The offering rate for each ★ is rounded off past the fourth decimal, so adding them all up may not equal 100%. We do not round the actual offering rate up or down.
+When you see a * displayed after a Pokémon name in the offering rate, that means the sync pair’s Pokémon can evolve through an Evolution sync pair story.
+[shop/scout_043] The offering rate displayed for each ★ is cut to three decimal places, so adding them all up may not equal 100%. We do not round the actual offering rate up or down.
 
 The offering rate applies to each instance of sync pair scouting, so there is no guarantee that you will get any one sync pair, even if you scout many times in a row.
 
@@ -35750,10 +36763,10 @@ When you are scouting, sync pairs are shown with unevolved Pokémon even if you 
 
 The tenth sync pair scouted is selected from a pool of only 5★ sync pairs. You can see the offering rate for these draws by tapping the Only 5★ button on the offering rate screen.
 
-When you see a * displayed after a Pokémon name in the offering rate, that means that sync pair can evolve their Pokémon through an Evolution sync pair story.
+When you see a * displayed after a Pokémon name in the offering rate, that means the sync pair’s Pokémon can evolve through an Evolution sync pair story.
 [shop/scout_044] Notes
 [shop/scout_045] The number of rewards you receive from each sync pair scout is fixed. During the next period when you receive a bonus with your sync pair scout, the number of times you can receive a bonus will be refreshed. The rewards will be sent to your Present Box.
-[shop/scout_046] The offering rate for each ★ is rounded off past the fourth decimal, so adding them all up may not equal 100%. We do not round the actual offering rate up or down.
+[shop/scout_046] The offering rate displayed for each ★ is cut to three decimal places, so adding them all up may not equal 100%. We do not round the actual offering rate up or down.
 
 The offering rate applies to each instance of sync pair scouting, so there is no guarantee that you will get any one sync pair, even if you scout many times in a row.
 
@@ -35763,7 +36776,7 @@ Fair-exclusive sync pairs are sync pairs that will appear for a limited time dur
 
 When you are scouting, sync pairs are shown with unevolved Pokémon even if you have previously acquired and evolved them.
 
-When you see a * displayed after a Pokémon name in the offering rate, that means that sync pair can evolve their Pokémon through an Evolution sync pair story.
+When you see a * displayed after a Pokémon name in the offering rate, that means the sync pair’s Pokémon can evolve through an Evolution sync pair story.
 [shop/scout_047] Sync Pair Scout Result
 [shop/scout_048] Bonus
 [shop/scout_049] Again
@@ -35804,7 +36817,7 @@ up to Lv. [Digit:1digit ]!
 [shop/scout_072] This will use your paid gems. When you are scouting, sync pairs are shown with unevolved Pokémon even if you have previously acquired and evolved them.
 [shop/scout_073] This will use your non-paid gems first. When you are scouting, sync pairs are shown with unevolved Pokémon even if you have previously acquired and evolved them.
 [shop/scout_074] Bonus Items
-[shop/scout_075] The offering rate for each ★ is rounded off past the fourth decimal, so adding them all up may not equal 100%. We do not round the actual offering rate up or down.
+[shop/scout_075] The offering rate displayed for each ★ is cut to three decimal places, so adding them all up may not equal 100%. We do not round the actual offering rate up or down.
 
 The offering rate applies to each instance of sync pair scouting, so there is no guarantee that you will get any one sync pair, even if you scout many times in a row.
 
@@ -35812,9 +36825,9 @@ You may get sync pairs that you have already acquired when you scout.
 
 When you are scouting, sync pairs are shown with unevolved Pokémon even if you have previously acquired and evolved them.
 
-When you see a * displayed after a Pokémon name in the offering rate, that means that sync pair can evolve their Pokémon through an Evolution sync pair story.
+When you see a * displayed after a Pokémon name in the offering rate, that means the sync pair’s Pokémon can evolve through an Evolution sync pair story.
 
-This scout features sync pairs with certain type(s) of sync moves.
+This scout features sync pairs with certain types of sync moves.
 
 Sync pairs of the currently featured type(s) have a higher offering rate than other sync pairs with the same number of ★s.
 [shop/scout_077] You can also choose a 5★ sync pair!
@@ -35823,7 +36836,7 @@ Sync pairs of the currently featured type(s) have a higher offering rate than ot
 You may select your additional sync pair after the initial scout is complete. If a connection error occurs during this process and you need to reselect your sync pair, please select an available sync pair within one week of this special scout’s end date. You will not be able to obtain your additional sync pair after this time.
 [shop/scout_080] Choose your favorite 5★ sync pair!
 [shop/scout_081] This special sync pair scout allows you to choose one additional sync pair from the following list to team up with.
-[shop/scout_082] When you see a * displayed after a Pokémon name in the offering rate, that means that sync pair can evolve their Pokémon through an Evolution sync pair story.
+[shop/scout_082] When you see a * displayed after a Pokémon name in the offering rate, that means the sync pair’s Pokémon can evolve through an Evolution sync pair story.
 You may select your additional sync pair after the initial scout is complete. If a connection error occurs during this process and you need to reselect your sync pair, please select an available sync pair within one week of this special scout’s end date. You will not be able to obtain your additional sync pair after this time.
 [shop/scout_083] Are you sure you want to choose
 this sync pair?
@@ -35833,7 +36846,7 @@ this sync pair?
 [shop/scout_088] Choose a sync pair.
 [shop/scout_089] Acquire your favorite 5★ sync pair!
 [shop/scout_090] Seasonal Sync Pairs
-[shop/scout_091] The offering rate for each ★ is rounded off past the fourth decimal, so adding them all up may not equal 100%. We do not round the actual offering rate up or down.
+[shop/scout_091] The offering rate displayed for each ★ is cut to three decimal places, so adding them all up may not equal 100%. We do not round the actual offering rate up or down.
 
 The offering rate applies to each instance of sync pair scouting, so there is no guarantee that you will get any one sync pair, even if you scout many times in a row.
 
@@ -35843,7 +36856,7 @@ When you are scouting, you will see sync pairs with unevolved Pokémon even if y
 
 Seasonal sync pairs are sync pairs that will appear for a limited time during this seasonal scout. There is a possibility that they will appear outside of this seasonal scout in the future.
 
-When you see a * displayed after a Pokémon name in the offering rate, that means the sync pair can evolve their Pokémon through an Evolution sync pair story.
+When you see a * displayed after a Pokémon name in the offering rate, that means the sync pair’s Pokémon can evolve through an Evolution sync pair story.
 [shop/scout_092] Sync pairs are shown on the Offering Rate screen in their
 base state.
 [shop/scout_093] All the sync pairs listed are shown in their base state.
@@ -35904,7 +36917,7 @@ Completing the last tier will end this sync pair scout.
 [shop/scout_139] Present no. [Digit:2digits ]
 [shop/scout_140] Note: These presents will be sent to the Claim section
 of your Present Box.
-[shop/scout_141] The offering rate for each ★ is rounded off past the fourth decimal, so adding them all up may not equal 100%. We do not round the actual offering rate up or down.
+[shop/scout_141] The offering rate displayed for each ★ is cut to three decimal places, so adding them all up may not equal 100%. We do not round the actual offering rate up or down.
 
 The offering rate applies to each instance of sync pair scouting, so there is no guarantee that you will get any one sync pair, even if you scout many times in a row.
 
@@ -35914,19 +36927,19 @@ When you are scouting, you will see sync pairs with unevolved Pokémon even if y
 
 The final sync pair scouted (the 10th sync pair for ×10 scouts and 11th sync pair for ×11 scouts) is selected from a pool of only 5★ sync pairs. You can see the offering rate for these draws by tapping the 5★Guaranteed button on the offering rate screen.
 
-When you see a * displayed after a Pokémon name in the offering rate, that means the sync pair can evolve their Pokémon through an Evolution sync pair story.
+When you see a * displayed after a Pokémon name in the offering rate, that means the sync pair’s Pokémon can evolve through an Evolution sync pair story.
 [shop/scout_142] Scout ×[Digit:3digits ]
 [shop/scout_143] Ticket Scout
 [shop/scout_144] You can also choose a 5★ sync pair!
 [shop/scout_145] Master Sync Pair
 [shop/scout_146] Master Fair Sync Pairs
-[shop/scout_147] The offering rate for each ★ is rounded off past the fourth decimal, so adding them all up may not equal 100%. We do not round the actual offering rate up or down.
+[shop/scout_147] The offering rate displayed for each ★ is cut to three decimal places, so adding them all up may not equal 100%. We do not round the actual offering rate up or down.
 
 The offering rate applies to each instance of sync pair scouting, so there is no guarantee that you will get any one sync pair, even if you scout many times in a row.
 
-When scouting, you may get sync pairs that you have already acquired.
+You may get sync pairs that you have already acquired when you scout.
 
-When scouting, you will see sync pairs with unevolved Pokémon even if you have previously acquired and evolved them.
+When you are scouting, you will see sync pairs with unevolved Pokémon even if you have previously acquired and evolved them.
 
 Master Fair sync pairs are sync pairs that will appear during this Master Fair. There is a possibility that they will appear outside of this Master Fair in the future.
 
@@ -35951,6 +36964,19 @@ Sync Pairs
 cost using 10-Pair Scout Tickets!
 [shop/scout_155] Note: Sync pairs are shown at current move levels.
 [shop/scout_156] 10-Pair Scout
+[shop/scout_159] The offering rate displayed for each ★ is cut to three decimal places, so adding them all up may not equal 100%. We do not round the actual offering rate up or down.
+
+The offering rate applies to each instance of sync pair scouting, so there is no guarantee that you will get any one sync pair, even if you scout many times in a row.
+
+You may get sync pairs that you have already acquired when you scout.
+
+When you are scouting, you will see sync pairs with unevolved Pokémon even if you have previously acquired and evolved them.
+
+The final sync pair scouted (the 10th sync pair for ×10 scouts and 11th sync pair for ×11 scouts) is selected from a pool of only 5★ sync pairs. You can see the offering rate for these draws by tapping the 5★Guaranteed button on the offering rate screen.
+
+Seasonal sync pairs are sync pairs that will appear for a limited time during this seasonal scout. There is a possibility that they will appear outside of this seasonal scout in the future.
+
+When you see a * displayed after a Pokémon name in the offering rate, that means the sync pair’s Pokémon can evolve through an Evolution sync pair story.
 [shop/deck_item_sale_001] Exchange Gear
 [shop/deck_item_sale_002] Gear
 [shop/deck_item_sale_003] Filter
@@ -36074,8 +37100,7 @@ reciban la autorización de un padre o
 tutor legal.
 ¿Has recibido la autorización de un
 padre o tutor legal?
-[shop/shop_medal_026] Sobre la alerta
-límite de compra
+[shop/shop_medal_026] Alerta límite de compra
 [shop/shop_medal_027] Comprado
 [shop/shop_medal_028] Avisos
 [shop/shop_medal_029] Lotes de joyas
@@ -36401,6 +37426,12 @@ Dinamax
 usando un Billete Reclutamiento ×10!
 [shop/scout_155] Nota: Los movimientos se muestran en su nivel actual.
 [shop/scout_156] Reclutamiento billete ×10
+[shop/scout_159] Ten en cuenta que las tasas de aparición de las ★ mostradas se redondean a partir del cuarto decimal; por ello, las cantidades no siempre suman un 100%. Las tasas de aparición no se redondean al efectuar el reclutamiento.
+Las tasas de aparición de cada pareja de compis se aplican cada vez que se efectúa un reclutamiento, de modo que realizarlo de forma consecutiva no garantiza la obtención de dicha pareja de compis.
+Es posible obtener una pareja de compis repetida en un reclutamiento. Aunque el Pokémon de la pareja de compis ya obtenida haya evolucionado, en la pantalla de reclutamiento aparecerá siempre la primera fase evolutiva.
+La última pareja de compis de un reclutamiento (esto es, la 10.ª pareja en un reclutamiento ×10; o la 11.ª pareja en un reclutamiento ×11) se selecciona al azar de un conjunto de parejas de compis de 5★. Toca el botón "5★ garantizadas" para comprobar las tasas de aparición de dichas parejas de compis.
+Los compis de temporada son parejas de compis que aparecen durante un tiempo limitado en este reclutamiento de temporada, aunque es posible que vuelvan a aparecer en un futuro fuera de un reclutamiento de temporada.
+Los Pokémon de las parejas de compis marcadas con un asterisco (*) en la pantalla de las tasas de aparición podrán evolucionar tras completar el episodio de evolución correspondiente.
 [shop/deck_item_sale_001] Canjear accesorios
 [shop/deck_item_sale_002] Accesorios
 [shop/deck_item_sale_003] Filtrar
@@ -36850,6 +37881,7 @@ sans frais avec des Bons 10 Appels Duo !
 [shop/scout_155] Les Duos s'affichent avec le niveau actuel de leurs capacités.
 [shop/scout_156] Appel Duo avec
 Bons 10 Appels Duo
+[shop/scout_159] Remarque : les pourcentages de chance par nombre d'★ affichés étant arrondis au troisième chiffre après la virgule, il peut arriver que leur somme totale ne soit pas égale à 100 %. Les pourcentages réels ne sont ni arrondis au supérieur, ni à l'inférieur. Les pourcentages s'appliquent à chaque Appel Duo indépendamment. Même si vous passez un certain nombre d'Appels Duo, il est possible qu'un certain Duo n'apparaisse pas du tout. Il est possible qu'un même Duo apparaisse plusieurs fois. Si vous appelez un Duo que vous avez déjà et dont vous avez fait évoluer le Pokémon, le Pokémon avant évolution apparaîtra dans le Duo affiché dans les résultats. Le dernier Appel Duo (le dixième si vous avez passé 10 Appels Duo d'affilée, le onzième si vous avez passé 11 Appels Duo d'affilée) vous permettra d'obtenir un Duo 5★. Pour connaître les pourcentages utilisés lors de l'Appel Duo garantissant un Duo 5★, touchez le bouton « 5★ garanti ! » sur l'écran de pourcentages. Un Duo saisonnier est un Duo apparaissant pendant une durée limitée, à l'occasion d'un Appel Duo saisonnier. Il est possible qu'un Duo saisonnier apparaisse à nouveau, même après la fin de son Appel Duo saisonnier. Les Duos ayant une astérisque (*) après le nom de leur Pokémon à côté du pourcentage peuvent faire évoluer leur Pokémon si vous débloquez leur épisode d'évolution.
 [shop/deck_item_sale_001] Échanger équipement
 [shop/deck_item_sale_002] Équipement
 [shop/deck_item_sale_003] Filtrer
@@ -37374,6 +38406,16 @@ utilizzando un Ticket 10 ricerche Unità!
 [shop/scout_155] Le Unità sono visualizzate al livello mosse attuale.
 [shop/scout_156] Unicerca con ticket:
 10 ricerche Unità
+[shop/scout_159] Il tasso di comparsa per numero di ★ è arrotondato oltre la quarta cifra decimale, perciò è possibile che la somma delle percentuali non sia 100%.
+Il tasso di comparsa effettivo non viene arrotondato per eccesso o per difetto.
+A ogni ricerca Unità si applica lo stesso tasso di comparsa, pertanto ripetere la ricerca Unità più volte di seguito non garantisce la comparsa di una determinata Unità.
+È possibile che la stessa Unità compaia più volte nella ricerca.
+Anche se il Pokémon di un'Unità già ottenuta si è evoluto, le Unità identiche nella ricerca Unità saranno visualizzate con un Pokémon non ancora evoluto.
+Nell'ultima estrazione (la decima per un'Unicerca ×10, l'undicesima per un'Unicerca ×11), la selezione avverrà solo tra Unità con 5★.
+Per consultare il tasso di comparsa delle estrazioni che selezionano solo Unità con 5★, tocca il pulsante "Unità con 5★ garantita" nella schermata del tasso di comparsa.
+Le Unità festive sono Unità che compaiono durante questa ricerca Unità festiva.
+È possibile che le Unità festive compaiano anche in ricerche Unità successive, non necessariamente festive.
+I Pokémon con un asterisco dopo il nome, visualizzato nel tasso di comparsa dell'Unità, possono evolversi tramite episodio evolutivo.
 [shop/deck_item_sale_001] Scambio accessori
 [shop/deck_item_sale_002] Accessori
 [shop/deck_item_sale_003] Filtra
@@ -37895,6 +38937,16 @@ STEPによってはプレゼントが設定されている場合があります�
 バディーズを獲得しよう！
 [shop/scout_155] ※表示しているわざレベルは、所持バディーズの現在の値です
 [shop/scout_156] チケット専用　無料１０連Ｂサーチ
+[shop/scout_159] ※★ごとの提供割合は、小数第4位以下がある場合に切捨てて表示しており、全てを合算しても100％にならない場合があります。
+※実際の提供割合は、小数第4位以下の四捨五入、切上げ、切捨て等を行っておりません。
+※バディーズサーチは1回ごとにその提供割合にもとづいて抽選を行います。
+そのため、バディーズサーチを特定回数繰り返しても、必ず特定のバディーズが出現するという仕組みではありません。
+※バディーズサーチからは同じバディーズが出現する場合がございます。
+※ポケモン進化後の同一バディーズを既に所持している場合でも、バディーズサーチでは進化前のバディーズが表示されます。
+※最後の抽選（10連の場合は10回目の抽選、11連の場合は11回目の抽選）では★5のバディーズのみで抽選を行います。★5のみの抽選個別出現割合は提供割合画面の「★5確定」ボタンをタップして確認できます。
+※シーズン限定バディーズとはこのシーズン限定バディーズサーチの期間中に出現するバディーズです。
+※シーズン限定バディーズは今後シーズン限定バディーズサーチ以外でも出現する可能性があります。
+※提供割合にてポケモン名の後ろに(*)が表示されているバディーズは、進化エピソードを通してポケモンを進化させることができます。
 [shop/deck_item_sale_001] 装備売却
 [shop/deck_item_sale_002] 装備
 [shop/deck_item_sale_003] フィルター
@@ -38310,7 +39362,7 @@ Lv.[Digit:1digit ][Kor:Particle char="ga" ] 되었습니다
 따라서 버디즈서치를 특정 횟수 반복하더라도,
 특정 버디즈가 반드시 출현하는 구조가 아닙니다.
 ※버디즈서치에서는 같은 버디즈가 출현하는 경우가 있습니다.
-※포켓몬 진화 후의 같은 버디즈를 이미 보유하고 있는 경우에도 버디즈서치에서는 진화 전 버디즈가 표시됩니다
+※포켓몬 진화 후의 같은 버디즈를 이미 보유하고 있는 경우에도 버디즈서치에서는 진화 전 버디즈가 표시됩니다.
 ※시즌 한정 버디즈는 본 시즌 한정 버디즈서치 기간 중에 출현하는 버디즈를 말합니다.
 ※시즌 한정 버디즈는 이후 시즌 한정 버디즈서치 이외에서도 출현할 가능성이 있습니다.
 ※제공 확률에서 포켓몬 이름의 뒤에 (*)이 표시되어 있는 버디즈는 진화 에피소드를 통하여 포켓몬을 진화시킬 수 있습니다.
@@ -38395,7 +39447,7 @@ STEP에 따라서는 선물이 포함된 경우가 있습니다.
 따라서 버디즈서치를 특정 횟수 반복하더라도,
 특정 버디즈가 반드시 출현하는 구조가 아닙니다.
 ※버디즈서치에서는 같은 버디즈가 출현하는 경우가 있습니다.
-※포켓몬 진화 후의 같은 버디즈를 이미 보유하고 있는 경우에도 버디즈서치에서는 진화 전 버디즈가 표시됩니다
+※포켓몬 진화 후의 같은 버디즈를 이미 보유하고 있는 경우에도 버디즈서치에서는 진화 전 버디즈가 표시됩니다.
 ※마지막 추첨(10연속의 경우에는 10번째 추첨, 11연속의 경우에는 11번째 추첨)에서는 ★5의 버디즈로만 추첨을 진행합니다. ★5만으로 진행되는 추첨 개별 출현 확률은 제공 비율 화면의 "★5 확정" 버튼을 눌러서 확인할 수 있습니다.
 ※제공 확률에서 포켓몬 이름의 뒤에 (*)이 표시되어 있는 버디즈는
 진화 에피소드를 통하여 포켓몬을 진화시킬 수 있습니다.
@@ -38412,7 +39464,7 @@ STEP에 따라서는 선물이 포함된 경우가 있습니다.
 따라서 버디즈서치를 특정 횟수 반복하더라도,
 특정 버디즈가 반드시 출현하는 구조가 아닙니다.
 ※버디즈서치에서는 같은 버디즈가 출현하는 경우가 있습니다.
-※포켓몬 진화 후의 같은 버디즈를 이미 보유하고 있는 경우에도 버디즈서치에서는 진화 전 버디즈가 표시됩니다
+※포켓몬 진화 후의 같은 버디즈를 이미 보유하고 있는 경우에도 버디즈서치에서는 진화 전 버디즈가 표시됩니다.
 ※마스터페스티벌 한정 버디즈는 본 마스터페스티벌 기간 중에 출현하는 버디즈를 말합니다.
 ※마스터페스티벌 한정 버디즈는 이후 마스터페스티벌 이외에서도 출현할 가능성이 있습니다.
 ※제공 확률에서 포켓몬 이름의 뒤에 (*)이 표시되어 있는 버디즈는 진화 에피소드를 통하여 포켓몬을 진화시킬 수 있습니다.
@@ -38434,6 +39486,20 @@ STEP에 따라서는 선물이 포함된 경우가 있습니다.
 버디즈를 획득하자!
 [shop/scout_155] ※표시되고 있는 기술 레벨은 보유 중인 버디즈의 현재 수치입니다
 [shop/scout_156] 티켓 전용 무료 10연속 B서치
+[shop/scout_159] ※★에 따른 제공 확률은 표기상 소수점 4자리 이하는 버려지므로
+총합해도 100%가 되지 않는 경우가 있습니다.
+※실제 제공 확률은 소수점 4자리 이하를 반올림, 올림, 내림 등을
+하지 않습니다.
+※버디즈서치는 1회마다 해당 제공 확률을 기반하여 추첨을 진행합니다.
+따라서 버디즈서치를 특정 횟수 반복하더라도,
+특정 버디즈가 반드시 출현하는 구조가 아닙니다.
+※버디즈서치에서는 같은 버디즈가 출현하는 경우가 있습니다.
+※포켓몬 진화 후의 같은 버디즈를 이미 보유하고 있는 경우에도 버디즈서치에서는 진화 전 버디즈가 표시됩니다.
+※마지막 추첨(10연속의 경우에는 10번째 추첨, 11연속의 경우에는 11번째 추첨)에서는 ★5의 버디즈로만 추첨을 진행합니다. ★5만으로 진행되는 추첨 개별 출현 확률은 제공 비율 화면의 "★5 확정" 버튼을 눌러서 확인할 수 있습니다.
+※시즌 한정 버디즈는 본 시즌 한정 버디즈서치 기간 중에 출현하는 버디즈를 말합니다.
+※시즌 한정 버디즈는 이후 시즌 한정 버디즈서치 이외에서도 출현할 가능성이 있습니다.
+※제공 확률에서 포켓몬 이름의 뒤에 (*)이 표시되어 있는 버디즈는
+진화 에피소드를 통하여 포켓몬을 진화시킬 수 있습니다.
 [shop/deck_item_sale_001] 장비 판매
 [shop/deck_item_sale_002] 장비
 [shop/deck_item_sale_003] 필터
@@ -38904,6 +39970,16 @@ shop_zh-TW.lsd
 來獲得拍組吧！
 [shop/scout_155] ※顯示的招式等級為持有拍組目前的數值
 [shop/scout_156] 票券專用　免費連續１０次拍組搜尋
+[shop/scout_159] ※各種★的提供比例於顯示時會無條件捨去小數點第三位後的餘數，因此合計所有提供比例後可能會有未達100%的情形
+※實際的提供比例並不會將小數點第三位後的餘數四捨五入、無條件捨去或無條件進位
+※每1次的拍組搜尋皆會根據提供比例進行抽選
+因此，即使反覆進行特定次數的拍組搜尋，也不保證會出現特定的拍組
+※拍組搜尋的結果有可能會出現相同的拍組
+※即使玩家持有的是寶可夢進化後的拍組，在拍組搜尋時仍只會顯示寶可夢進化前的該拍組
+※最後一次的搜尋（連續10次時指第10次的搜尋，連續11次時指第11次的搜尋）會僅對★5的拍組進行。各對★5拍組的提供比例可由提供比例的畫面點選「必得★5」確認
+※季節限定拍組是會在本次季節限定拍組搜尋期間出現的拍組
+※季節限定拍組今後也有可能在季節限定拍組搜尋以外出現
+※在提供比例畫面中，若拍組的寶可夢名字後面標有(*)，則表示該寶可夢可透過進化劇情進化
 [shop/deck_item_sale_001] 出售裝備
 [shop/deck_item_sale_002] 裝備
 [shop/deck_item_sale_003] 篩選
