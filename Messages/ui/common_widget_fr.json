@@ -197,6 +197,7 @@
     "common_widget/dialog_138": "[Name:Item ]\n([Name:EventName ])",
     "common_widget/dialog_139": "La structure et les récompenses du\nscénario principal ont été ajustées.\nLes récompenses pour les zones\ndéjà complétées ont été obtenues.",
     "common_widget/dialog_140": "Remarques :\n- Les récompenses suivantes ont déjà été reçues.\n- Les Diamants seront distribués progressivement.",
+    "common_widget/dialog_141": "Détails de l'Icône",
     "common_widget/trainer_detail_001": "[Name:TrainerName ]",
     "common_widget/trainer_detail_002": "N.",
     "common_widget/trainer_detail_004": "MAX",
@@ -410,6 +411,9 @@
     "common_widget/filter_113": "Passio",
     "common_widget/filter_114": "Multi",
     "common_widget/filter_115": "Talent passif transcendance",
+    "common_widget/filter_117": "Salutations",
+    "common_widget/filter_118": "Annonces",
+    "common_widget/filter_120": "Autres",
     "common_widget/sort_001": "Nombre d'★",
     "common_widget/sort_002": "Capacité Duo",
     "common_widget/sort_003": "PV",
@@ -439,6 +443,7 @@
     "common_widget/sort_032": "Rang de joueur décroissant",
     "common_widget/sort_033": "Ordre de connexion",
     "common_widget/sort_034": "Niveau de transcendance",
+    "common_widget/sort_035": "Populaires",
     "common_widget/cutin_001": "Niveau ↑ !",
     "common_widget/cutin_002": "N.",
     "common_widget/cutin_003": "Potentiel augmenté !",
@@ -615,5 +620,6 @@
     "common_widget/short_cut_020": "Équipement",
     "common_widget/short_cut_021": "Infos de joueur",
     "common_widget/short_cut_022": "Profil",
-    "common_widget/short_cut_023": "Créateur de photo"
+    "common_widget/short_cut_023": "Créateur de photo",
+    "common_widget/short_cut_024": "Arène des Dresseurs"
 }

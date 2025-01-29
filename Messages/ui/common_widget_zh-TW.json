@@ -197,6 +197,7 @@
     "common_widget/dialog_138": "「[Name:EventName ]」\n[Name:Item ]",
     "common_widget/dialog_139": "已調整主線劇情的\n架構與報酬\n已獲得成功過關的\n區域資訊的報酬",
     "common_widget/dialog_140": "※已領取下列報酬\n※鑽石將依序發送",
+    "common_widget/dialog_141": "圖章說明",
     "common_widget/trainer_detail_001": "[Name:TrainerName ]",
     "common_widget/trainer_detail_002": "Lv.",
     "common_widget/trainer_detail_004": "MAX",
@@ -410,6 +411,9 @@
     "common_widget/filter_113": "帕希歐",
     "common_widget/filter_114": "複合型",
     "common_widget/filter_115": "超覺醒被動技能",
+    "common_widget/filter_117": "招呼語",
+    "common_widget/filter_118": "呼喚",
+    "common_widget/filter_120": "其他",
     "common_widget/sort_001": "★數",
     "common_widget/sort_002": "拍組招式",
     "common_widget/sort_003": "HP",
@@ -439,6 +443,7 @@
     "common_widget/sort_032": "玩家等級從高到低",
     "common_widget/sort_033": "登入時間",
     "common_widget/sort_034": "超覺醒等級",
+    "common_widget/sort_035": "使用順序",
     "common_widget/cutin_001": "升級！",
     "common_widget/cutin_002": "Lv.",
     "common_widget/cutin_003": "★提升！",
@@ -615,5 +620,6 @@
     "common_widget/short_cut_020": "裝備",
     "common_widget/short_cut_021": "冒險紀錄",
     "common_widget/short_cut_022": "個人資訊",
-    "common_widget/short_cut_023": "相片編輯器"
+    "common_widget/short_cut_023": "相片編輯器",
+    "common_widget/short_cut_024": "訓練家道館"
 }

@@ -26,5 +26,7 @@
     "inventory/compensation_14": "Cadeau de Diamants du Nouvel An (prix de participation)",
     "inventory/compensation_15": "Ajout automatique suite\nà un changement de\nfonctionnement du jeu",
     "inventory/compensation_16": "Ajout automatique\nd'objets grâce à l'effet\n« Récomp. Bonus ».",
+    "inventory/compensation_17": "Récompense de rang d'Arène ([Name:GymRank ])",
+    "inventory/compensation_18": "Récompense\n« bonus de connexion coopératif »",
     "inventory/autosold_item_2": "Vente automatique des objets expirés\n([Name:EventName ])"
 }

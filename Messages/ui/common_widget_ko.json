@@ -197,6 +197,7 @@
     "common_widget/dialog_138": "\"[Name:EventName ]\"\n[Name:Item ]",
     "common_widget/dialog_139": "메인 스토리의 구성과\n보상을 조정했습니다\n이미 클리어한 에리어 정보의 보상을\n획득했습니다",
     "common_widget/dialog_140": "※아래의 보상은 이미 수령한 보상입니다\n※다이아는 순차적으로 배포됩니다",
+    "common_widget/dialog_141": "스탬프 상세",
     "common_widget/trainer_detail_001": "[Name:TrainerName ]",
     "common_widget/trainer_detail_002": "Lv.",
     "common_widget/trainer_detail_004": "MAX",
@@ -410,6 +411,9 @@
     "common_widget/filter_113": "파시오",
     "common_widget/filter_114": "멀티",
     "common_widget/filter_115": "초각성 패시브스킬",
+    "common_widget/filter_117": "인사",
+    "common_widget/filter_118": "호출",
+    "common_widget/filter_120": "기타",
     "common_widget/sort_001": "★의 수",
     "common_widget/sort_002": "버디즈기술",
     "common_widget/sort_003": "HP",
@@ -422,7 +426,7 @@
     "common_widget/sort_010": "약점타입",
     "common_widget/sort_011": "한계돌파",
     "common_widget/sort_012": "레벨",
-    "common_widget/sort_013": "입수순",
+    "common_widget/sort_013": "입수 순",
     "common_widget/sort_014": "잠재력",
     "common_widget/sort_015": "타입",
     "common_widget/sort_016": "종류",
@@ -439,6 +443,7 @@
     "common_widget/sort_032": "PR이 높은 순",
     "common_widget/sort_033": "로그인 순",
     "common_widget/sort_034": "초각성 레벨",
+    "common_widget/sort_035": "사용 순",
     "common_widget/cutin_001": "레벨업!",
     "common_widget/cutin_002": "Lv.",
     "common_widget/cutin_003": "★상승!",
@@ -615,5 +620,6 @@
     "common_widget/short_cut_020": "장비",
     "common_widget/short_cut_021": "모험 기록",
     "common_widget/short_cut_022": "프로필",
-    "common_widget/short_cut_023": "사진 메이커"
+    "common_widget/short_cut_023": "사진 메이커",
+    "common_widget/short_cut_024": "트레이너즈 체육관"
 }

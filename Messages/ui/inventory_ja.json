@@ -26,5 +26,7 @@
     "inventory/compensation_14": "謹賀新年ダイヤプレゼント　参加賞",
     "inventory/compensation_15": "仕様変更に伴うバディーズの自動付与",
     "inventory/compensation_16": "報酬アップ効果の重複による\nどうぐの自動付与",
+    "inventory/compensation_17": "ジムランク[Name:GymRank ]達成報酬",
+    "inventory/compensation_18": "「協力ログインボーナス」報酬",
     "inventory/autosold_item_2": "「[Name:EventName ]」\n期限切れどうぐの自動売却"
 }

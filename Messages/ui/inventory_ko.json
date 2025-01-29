@@ -26,5 +26,7 @@
     "inventory/compensation_14": "근하신년 다이아 선물 참가상",
     "inventory/compensation_15": "사양 변경에 따른 버디즈의 자동 교환",
     "inventory/compensation_16": "보상 증가 효과 중복에 따른\n도구 자동 부여",
+    "inventory/compensation_17": "체육관 랭크 [Name:GymRank ] 달성 보상",
+    "inventory/compensation_18": "\"협력 로그인 보너스\" 보상",
     "inventory/autosold_item_2": "\"[Name:EventName ]\"\n수령 기한이 만료된 도구 자동판매"
 }

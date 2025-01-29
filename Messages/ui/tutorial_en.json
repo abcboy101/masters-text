@@ -672,5 +672,20 @@
     "tutorial/tutorial_monthly_happy_boxsearch_001_10": "Event Details",
     "tutorial/tutorial_monthly_happy_boxsearch_001_20": "The monthly Happy Prize Box is\nan event in which you collect\nhappy prize box coins to pull from\nthe prize box for rewards.",
     "tutorial/tutorial_monthly_happy_boxsearch_001_30": "The grand prize for Pool 6 is a\nFair-Exclusive Scout Ticket!",
-    "tutorial/tutorial_monthly_happy_boxsearch_001_40": "You can get happy prize box coins\nfrom log-in bonuses and daily\nbattles, so don’t forget to take those\non every day!"
+    "tutorial/tutorial_monthly_happy_boxsearch_001_40": "You can get happy prize box coins\nfrom log-in bonuses and daily\nbattles, so don’t forget to take those\non every day!",
+    "tutorial/tutorial_gymtop_001_10": "Trainer Gyms",
+    "tutorial/tutorial_gymtop_001_20": "Welcome to Trainer Gyms!\nTrainer Gyms are a feature in which\nyou raise your gym rank while\ninteracting with other players!",
+    "tutorial/tutorial_gymtop_001_30": "You can choose whether to establish\na Trainer Gym of your own or join\nanother player’s Trainer Gym.",
+    "tutorial/tutorial_gymtop_001_40": "You can complete group missions with\nother members of a Trainer Gym to\ncollect gym points that will help you\nraise your gym rank.",
+    "tutorial/tutorial_gymtop_001_50": "When you raise your gym rank,\nyou can get awesome rewards!\nWork together with everyone,\nand have fun with Trainer Gyms!",
+    "tutorial/tutorial_gymhome_001_10": "Welcome to Trainer Gyms!",
+    "tutorial/tutorial_gymhome_001_11": "Interacting with Gym Members",
+    "tutorial/tutorial_gymhome_001_12": "Group Log-In Bonuses",
+    "tutorial/tutorial_gymhome_001_13": "Seasons and Gym Missions",
+    "tutorial/tutorial_gymhome_001_14": "Gym Ranks",
+    "tutorial/tutorial_gymhome_001_20": "Trainer Gyms have a variety of\nfeatures, including the message\nboard, activity log, log-in bonuses,\nspecial missions, and more.",
+    "tutorial/tutorial_gymhome_001_30": "In the activity log and message\nboard, you can see how others\nare playing the game and interact\nusing emotes and fixed phrases.",
+    "tutorial/tutorial_gymhome_001_40": "The group log-in bonus counts who\nlogged in the previous day. The more\ngym members that log in, the better\nthe rewards you can receive!",
+    "tutorial/tutorial_gymhome_001_50": "You can raise your gym rank by\ncompleting group missions in the\nseason missions list.",
+    "tutorial/tutorial_gymhome_001_60": "The higher your gym rank, the better\nthe rewards you can earn at the end\nof the season!"
 }

@@ -197,6 +197,7 @@
     "common_widget/dialog_138": "[Name:EventName ]\n[Name:Item ]",
     "common_widget/dialog_139": "The structure and rewards of the main\nstory have been adjusted.\nRewards for area info that you’ve\nalready completed have been obtained.",
     "common_widget/dialog_140": "Note: The following rewards have already been claimed.\nGems will be distributed gradually.",
+    "common_widget/dialog_141": "Emote Details",
     "common_widget/trainer_detail_001": "[Name:TrainerName ]",
     "common_widget/trainer_detail_002": "Lv.",
     "common_widget/trainer_detail_004": "MAX",
@@ -410,6 +411,9 @@
     "common_widget/filter_113": "Pasio",
     "common_widget/filter_114": "Multi",
     "common_widget/filter_115": "Superawakened Passive Skill",
+    "common_widget/filter_117": "Greetings",
+    "common_widget/filter_118": "Callouts",
+    "common_widget/filter_120": "Other",
     "common_widget/sort_001": "Number of ★s",
     "common_widget/sort_002": "Sync Move",
     "common_widget/sort_003": "HP",
@@ -439,6 +443,7 @@
     "common_widget/sort_032": "Highest to Lowest Player Rank",
     "common_widget/sort_033": "Log-In Order",
     "common_widget/sort_034": "Superawakening Level",
+    "common_widget/sort_035": "Most Used",
     "common_widget/cutin_001": "Level Up!",
     "common_widget/cutin_002": "Lv.",
     "common_widget/cutin_003": "Potential increased!",
@@ -615,5 +620,6 @@
     "common_widget/short_cut_020": "Gear",
     "common_widget/short_cut_021": "Adventure Log",
     "common_widget/short_cut_022": "Profile",
-    "common_widget/short_cut_023": "Photo Creator"
+    "common_widget/short_cut_023": "Photo Creator",
+    "common_widget/short_cut_024": "Trainer Gyms"
 }

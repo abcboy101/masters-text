@@ -197,6 +197,7 @@
     "common_widget/dialog_138": "[Name:Item ]\n([Name:EventName ])",
     "common_widget/dialog_139": "Se han ajustado la estructura y los\npremios de la historia principal. Has\nrecibido los premios de las ubicaciones\nque ya hubieras completado.",
     "common_widget/dialog_140": "Nota: Ya has obtenido los siguientes premios.\nLas joyas se distribuirán de forma gradual.",
+    "common_widget/dialog_141": "Detalles del icono",
     "common_widget/trainer_detail_001": "[Name:TrainerName ]",
     "common_widget/trainer_detail_002": "Nv.",
     "common_widget/trainer_detail_004": "MÁX.",
@@ -281,7 +282,7 @@
     "common_widget/cutin_trainer_003": "[Name:TrainerName ]",
     "common_widget/cutin_trainer_004": "",
     "common_widget/cutin_trainer_005": "Movimiento compi",
-    "common_widget/cutin_trainer_006": "Nv. ",
+    "common_widget/cutin_trainer_006": "Nv. ",
     "common_widget/cutin_trainer_007": "[Digit:1digit ]",
     "common_widget/cutin_trainer_008": "/[Digit:1digit ]",
     "common_widget/cutin_trainer_009": "Movimiento compi\nNv. máximo",
@@ -410,6 +411,9 @@
     "common_widget/filter_113": "Passio",
     "common_widget/filter_114": "Multi",
     "common_widget/filter_115": "Habilidad pasiva del poder excelso",
+    "common_widget/filter_117": "Saludos",
+    "common_widget/filter_118": "Llamamientos",
+    "common_widget/filter_120": "Otros",
     "common_widget/sort_001": "Número de ★",
     "common_widget/sort_002": "Movimiento compi",
     "common_widget/sort_003": "PS",
@@ -439,6 +443,7 @@
     "common_widget/sort_032": "Rango de jugador de más alto a más bajo",
     "common_widget/sort_033": "Último inicio de sesión",
     "common_widget/sort_034": "Nivel del poder excelso",
+    "common_widget/sort_035": "Más usados",
     "common_widget/cutin_001": "¡Sube de nivel!",
     "common_widget/cutin_002": "Nv.",
     "common_widget/cutin_003": "¡Potencial aumentado!",
@@ -615,5 +620,6 @@
     "common_widget/short_cut_020": "Accesorios",
     "common_widget/short_cut_021": "Diario de aventuras",
     "common_widget/short_cut_022": "Perfil",
-    "common_widget/short_cut_023": "Fotomatón"
+    "common_widget/short_cut_023": "Fotomatón",
+    "common_widget/short_cut_024": "Gimnasio de Entren."
 }

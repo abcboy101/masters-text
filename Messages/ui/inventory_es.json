@@ -26,5 +26,7 @@
     "inventory/compensation_14": "Joyas de regalo por Año Nuevo (por participar)",
     "inventory/compensation_15": "Compis añadidos automáticamente debido a cambios de diseño",
     "inventory/compensation_16": "Añadido automáticamente debido a bonificaciones duplicadas",
+    "inventory/compensation_17": "Premio rango del gimnasio [Name:GymRank ]",
+    "inventory/compensation_18": "Premio bonificación de inicio grupal",
     "inventory/autosold_item_2": "Canje automático de objetos caducados\n([Name:EventName ])"
 }

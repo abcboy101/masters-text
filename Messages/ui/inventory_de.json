@@ -26,5 +26,7 @@
     "inventory/compensation_14": "Juwelengeschenk zum Neujahr (Trostpreis)",
     "inventory/compensation_15": "Gefährten aufgrund einer Funktionsänderung automatisch hinzugefügt",
     "inventory/compensation_16": "Aufgrund eines doppelten\nBelohnungsbonus\nautomatisch hinzugefügt",
+    "inventory/compensation_17": "Belohnung für Arena-Rang [Name:GymRank ]",
+    "inventory/compensation_18": "Gruppen-Login-Bonus",
     "inventory/autosold_item_2": "[Name:EventName ]\nAutomatischer Tausch von abgelaufenen Items"
 }

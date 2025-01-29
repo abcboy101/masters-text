@@ -197,6 +197,7 @@
     "common_widget/dialog_138": "「[Name:EventName ]」\n[Name:Item ]",
     "common_widget/dialog_139": "メインストーリーの構成と\n報酬を調整しました\n既にクリアしているエリア情報の報酬を\n獲得しました",
     "common_widget/dialog_140": "※以下の報酬は既に受け取り済みです\n※ダイヤは順次配布されます",
+    "common_widget/dialog_141": "スタンプ詳細",
     "common_widget/trainer_detail_001": "[Name:TrainerName ]",
     "common_widget/trainer_detail_002": "Lv.",
     "common_widget/trainer_detail_004": "MAX",
@@ -410,6 +411,9 @@
     "common_widget/filter_113": "パシオ",
     "common_widget/filter_114": "マルチ",
     "common_widget/filter_115": "超覚醒パッシブスキル",
+    "common_widget/filter_117": "あいさつ",
+    "common_widget/filter_118": "よびかけ",
+    "common_widget/filter_120": "その他",
     "common_widget/sort_001": "★の数",
     "common_widget/sort_002": "バディーズわざ",
     "common_widget/sort_003": "HP",
@@ -439,6 +443,7 @@
     "common_widget/sort_032": "PRが高い順",
     "common_widget/sort_033": "ログイン順",
     "common_widget/sort_034": "超覚醒レベル",
+    "common_widget/sort_035": "使用順",
     "common_widget/cutin_001": "レベルアップ!",
     "common_widget/cutin_002": "Lv.",
     "common_widget/cutin_003": "★アップ!",
@@ -615,5 +620,6 @@
     "common_widget/short_cut_020": "装備",
     "common_widget/short_cut_021": "ぼうけんのきろく",
     "common_widget/short_cut_022": "プロフィール",
-    "common_widget/short_cut_023": "フォトメーカー"
+    "common_widget/short_cut_023": "フォトメーカー",
+    "common_widget/short_cut_024": "トレーナーズジム"
 }

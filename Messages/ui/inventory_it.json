@@ -26,5 +26,7 @@
     "inventory/compensation_14": "Gemme in regalo per l'anno nuovo (premio di partecipazione)",
     "inventory/compensation_15": "Unità aggiunta automaticamente in seguito a modifiche al gioco",
     "inventory/compensation_16": "Invio automatico di strumenti in seguito ad aumento delle ricompense doppio",
+    "inventory/compensation_17": "Ricompensa rango Palestra [Name:GymRank ]",
+    "inventory/compensation_18": "Ricompensa bonus accesso collaborativo",
     "inventory/autosold_item_2": "Scambio automatico degli strumenti scaduti\n([Name:EventName ])"
 }
