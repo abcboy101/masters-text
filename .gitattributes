@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+lsd_dl.txt filter=lfs diff=lfs merge=lfs -text
+lsd_apk.txt filter=lfs diff=lfs merge=lfs -text

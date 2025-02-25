@@ -19,7 +19,7 @@
     "gym/gym_025": "Vous avez atteint\nle rang d'Arène [Name:GymRank ] !",
     "gym/gym_026": "Récompenses obtenues !",
     "gym/gym_027": "Prochaine saison dans [Digit:2digits ] [FR:Qty S=\"jour\" P=\"jours\" ]",
-    "gym/gym_028": "Vous êtes à présent l[FR:Gen Ref=\"255\" M=\"e\" F=\"a\" ] leader.\nVeuillez consulter les privilèges\nattribués à ce rôle.",
+    "gym/gym_028": "Vous avez à présent le rôle de leader.\nVeuillez consulter les privilèges\nattribués à ce rôle.",
     "gym/gym_029": "NOUVEAU",
     "gym/gym_030": "Aucune publication",
     "gym/gym_031": "Paramètres des publications",
