@@ -1,0 +1,22 @@
+{
+    "ch0101_42_mei/0101_0701_01_10": "Oh, [Name:PlayerNickname ] ! Tu es prêt[FR:Gen Ref=\"255\" F=\"e\" ]\nà étudier ?",
+    "ch0101_42_mei/0101_0701_02_10": "On va apprendre tout un tas de choses,\naujourd'hui, hein !",
+    "ch0101_42_mei/7101_0701_01_10": "J'ai toujours envie de quelque chose de sucré\naprès avoir étudié !",
+    "ch0101_42_mei/7101_0701_02_10": "Oh, j'ai une idée ! Tu voudras aller dans un café\nune fois notre cours terminé ?",
+    "ch0101_42_mei/7101_0701_03_10": "On pourra faire nos devoirs en grignotant\ndes bonbons, héhé !",
+    "ch0101_42_mei/7105_0701_01_10": "Monsieur Clavel nous a demandé de trouver\nquelque chose qu'on pourrait chérir\npour toujours...",
+    "ch0101_42_mei/7105_0701_02_10": "Tu as trouvé, toi, [Name:PlayerNickname ] ?",
+    "ch0101_42_mei/7105_0701_03_10": "J'ai beau y réfléchir, je n'arrive pas\nà me décider...",
+    "ch0101_42_mei/7105_0701_04_10": "Il y a tellement de choses qui sont importantes\nà mes yeux, comment je suis censée savoir\nlaquelle est la plus précieuse ?!",
+    "ch0101_42_mei/1701_0701_01_10": "Tiens, pour égayer un peu ta journée !",
+    "ch0101_42_mei/1701_0702_01_10": "On va travailler dur, tou[FR:Gen Ref=\"255\" M=\"s\" F=\"tes\" ] les deux, OK ?",
+    "ch0101_42_mei/2501_0701_01_10": "J'ai vraiment trop hâte d'aller à l'école !",
+    "ch0101_42_mei/2501_0701_02_10": "Être tous ensemble dans la même classe,\nà apprendre la même chose... Puis se\nretrouver pour discuter après les cours...",
+    "ch0101_42_mei/2501_0701_03_10": "C'est tout ce que j'aime !",
+    "ch0101_42_mei/2501_0702_01_10": "Je n'y suis jamais allée, mais il y a une super\nécole à Unys !",
+    "ch0101_42_mei/2501_0702_02_10": "Elle s'appelle l'Institut Myrtille !",
+    "ch0101_42_mei/2501_0702_03_10": "C'est une école qui a son propre Conseil 4 !\nJ'espère pouvoir y aller un jour, même si\nc'est juste pour une visite rapide !",
+    "ch0101_42_mei/3001_0701_01_10": "Salut ! Allez, on se motive !",
+    "ch0101_42_mei/3003_0701_01_10": "Ah, j'ai super envie de me battre !\nC'est quand qu'on se bat, hein ?",
+    "ch0101_42_mei/3005_0701_01_10": "Quoi, il fait déjà nuit ?! Il faut que je pense\nà me coucher plus tôt..."
+}
