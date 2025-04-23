@@ -216,6 +216,7 @@
     "gym/guest_092": "That gym name is unavailable.",
     "gym/guest_093": "Maximum 16 characters",
     "gym/guest_094": "No pending requests.",
+    "gym/guest_095": "You have been removed from a Trainer Gym. You will be unable to establish or join a new gym until [Name:Time ] hour(s) have passed.\n\nYou can establish or join a new gym in [Name:Time ] hour(s).",
     "gym/mission_001": "Gym Missions",
     "gym/mission_002": "Current Gym Rank",
     "gym/mission_003": "Next Gym Rank",

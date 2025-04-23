@@ -216,6 +216,7 @@
     "gym/guest_092": "Ese nombre no es válido.",
     "gym/guest_093": "Máximo de 16 caracteres.",
     "gym/guest_094": "No hay solicitudes pendientes.",
+    "gym/guest_095": "Se te ha expulsado de un gimnasio.\nNo podrás unirte a ningún gimnasio ni \nfundar uno hasta que hayan pasado\n[Name:Time ] horas.\n\nHoras restantes: [Name:Time ].",
     "gym/mission_001": "Misiones de gimnasio",
     "gym/mission_002": "Rango actual:",
     "gym/mission_003": "Rango siguiente:",

@@ -216,6 +216,7 @@
     "gym/guest_092": "Vous ne pouvez pas utiliser ce nom.",
     "gym/guest_093": "Maximum : 16 caractères",
     "gym/guest_094": "Aucune demande en attente.",
+    "gym/guest_095": "Vous avez été retiré(e) d'une Arène.\nVous ne pourrez plus rejoindre\nou établir d'Arène pendant\n[Name:Time ] heure(s).\n\nVous pourrez rejoindre ou établir\nune Arène dans [Name:Time ] heure(s).",
     "gym/mission_001": "Missions d'Arène",
     "gym/mission_002": "Rang d'Arène actuel",
     "gym/mission_003": "Prochain rang d'Arène",

@@ -216,6 +216,7 @@
     "gym/guest_092": "Dieser Name kann nicht verwendet werden.",
     "gym/guest_093": "Der Name darf maximal 16 Zeichen lang sein.",
     "gym/guest_094": "Keine offenen Anfragen",
+    "gym/guest_095": "Du wurdest aus einer Trainer-Arena\nentfernt. Erst nach dem Ablauf von\n[Name:Time ] Stunde(n) kannst du einer anderen\nArena beitreten oder eine neue\ngründen.\n\nDu kannst in [Name:Time ] Stunde(n) eine neue Trainer-Arena\ngründen oder einer anderen beitreten.",
     "gym/mission_001": "Arena-Missionen",
     "gym/mission_002": "Aktueller Arena-Rang",
     "gym/mission_003": "Nächster Arena-Rang",

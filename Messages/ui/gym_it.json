@@ -216,6 +216,7 @@
     "gym/guest_092": "Non puoi usare quel nome.",
     "gym/guest_093": "Massimo 16 caratteri.",
     "gym/guest_094": "Nessuna richiesta in attesa.",
+    "gym/guest_095": "Sei stat[IT:Gen Ref=\"255\" M=\"o\" F=\"a\" ] rimoss[IT:Gen Ref=\"255\" M=\"o\" F=\"a\" ] da una Palestra\nAllenatori. Non potrai iscriverti\na un'altra Palestra o fondarne\nuna nuova per [Name:Time ] ore.\n\nPotrai fondare una nuova Palestra, \no iscriverti a un'altra, tra [Name:Time ] ore.",
     "gym/mission_001": "Missioni Palestra",
     "gym/mission_002": "Rango Palestra attuale",
     "gym/mission_003": "Rango Palestra successivo",
