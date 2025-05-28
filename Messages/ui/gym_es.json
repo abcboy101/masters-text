@@ -13,7 +13,7 @@
     "gym/gym_018": "Últ. conex. hace [Digit:4digits ] hora[ES:Qty P=\"s\" ]",
     "gym/gym_019": "Últ. conex. hace [Digit:2digits ] minuto[ES:Qty P=\"s\" ]",
     "gym/gym_020": "Bonificación de inicio grupal",
-    "gym/gym_021": "¡Bonificaciones extra si todo el mundo se conecta!\n¡Puedes obtener 10 Monedas de Gimnasio por\ncada miembro que inicie sesión!",
+    "gym/gym_021": "¡Cuantos más miembros se conecten, más\njugosos serán los premios! ¡Puedes iniciar\nsesión cada día para recibirlos!",
     "gym/gym_022": "Miembros conectados ayer:",
     "gym/gym_024": "¡Nuevo rango del gimnasio!",
     "gym/gym_025": "¡Tu gimnasio ha alcanzado el\nrango [Name:GymRank ]!",

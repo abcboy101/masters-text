@@ -13,7 +13,7 @@
     "gym/gym_018": "Letzter Login vor [Digit:4digits ] [DE:Qty S=\"Stunde\" P=\"Stunden\" ]",
     "gym/gym_019": "Letzter Login vor [Digit:2digits ] [DE:Qty S=\"Minute\" P=\"Minuten\" ]",
     "gym/gym_020": "Gruppen-Login-Bonus",
-    "gym/gym_021": "Wenn sich alle einloggen, sind zusätzliche Boni\nverfügbar! Für jede Person, die sich einloggt,\nkannst du zehn Arena-Münzen erhalten!",
+    "gym/gym_021": "Je mehr Personen sich einloggen, desto bessere\nBelohnungen sind verfügbar! Du kannst dich\ntäglich einloggen, um Belohnungen zu erhalten!",
     "gym/gym_022": "Gestrige Anzahl an Arena-Logins",
     "gym/gym_024": "Arena-Rang aktualisiert!",
     "gym/gym_025": "Deine Arena hat Rang [Name:GymRank ] erreicht!",

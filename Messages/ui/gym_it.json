@@ -13,7 +13,7 @@
     "gym/gym_018": "Accesso [Digit:4digits ] [IT:Qty S=\"ora\" P=\"ore\" ] fa",
     "gym/gym_019": "Accesso [Digit:2digits ] [IT:Qty S=\"minuto\" P=\"minuti\" ] fa",
     "gym/gym_020": "Bonus accesso collaborativo",
-    "gym/gym_021": "Per ciascun membro che effettua l'accesso,\npuoi ottenere 10 monete Palestra come\nricompensa aggiuntiva!",
+    "gym/gym_021": "Le ricompense diventano tanto più strabilianti\nquante più persone effettuano l'accesso!\nPuoi accedere ogni giorno per riceverle!",
     "gym/gym_022": "Accessi alla Palestra effettuati ieri",
     "gym/gym_024": "Rango Palestra aggiornato!",
     "gym/gym_025": "Raggiunto il rango Palestra [Name:GymRank ]!",
