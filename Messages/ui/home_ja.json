@@ -893,6 +893,7 @@
     "home/battle_rally_070": "現在のラリーpt",
     "home/battle_rally_071": "獲得できるバトルラリーの勲章",
     "home/battle_rally_072": "ラリーptが足りません",
+    "home/battle_rally_074": "バトルラリーパスを消費して\nバトルラリーに挑戦しますか？\n消費数に比例して終了時の\npt変換倍率が高くなります",
     "home/damage_challenge_001": "ベストスコア",
     "home/damage_challenge_002": "スコアログ",
     "home/damage_challenge_003": "今までのベストスコア",
@@ -951,7 +952,7 @@
     "home/academy_056": "ボード選択",
     "home/academy_057": "ボードが選択されていません",
     "home/academy_058": "バディストーンボードの　強化内容を\n完成ボードに上書きすると\n解放されます",
-    "home/academy_059": "３ターン目に解放されます",
+    "home/academy_059": "3ターン目に解放されます",
     "home/academy_060": "WIN",
     "home/academy_061": "LOSE",
     "home/academy_062": "アカデミー育成バディーズの\nバディストーンボードの強化内容は\n反映できません"
