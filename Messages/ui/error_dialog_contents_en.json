@@ -55,7 +55,7 @@
     "error_dialog_contents/31902": "Unable to verify the link information\nfor this Apple Account.\n\nPlease use a linked Apple Account.",
     "error_dialog_contents/31903": "Unable to verify the link information for\nthis Apple Account.\n\nAttempting to link your Apple Account\nagain.",
     "error_dialog_contents/31904": "Link to Apple Account has failed.\n\nAttempt to link again?",
-    "error_dialog_contents/31905": "There is no existing save data linked to\nthis Apple Account.\n\nPlease go to Account on your Poryphone\nmenu and try transferring again using\nan Apple Account with linked save data.",
+    "error_dialog_contents/31905": "There is no existing save data linked to\nthis Apple Account.\n\nPlease go to Account on your\nPoryphone menu and try transferring\nagain using an Apple Account with\nlinked save data.",
     "error_dialog_contents/31906": "An error occurred while linking to\nyour account.\n\nRestarting the game.",
     "error_dialog_contents/31907": "This save data is linked to a different\nNintendo Account.\n\nPlease specify the Nintendo Account to\nwhich this save data is linked.",
     "error_dialog_contents/30212": "There is no existing save data linked to\nthis Nintendo Account.\n\nPlease go to Account on your\nPoryphone menu and try transferring\nagain using a Nintendo Account with\nlinked save data.",
