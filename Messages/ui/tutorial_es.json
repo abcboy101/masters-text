@@ -404,9 +404,9 @@
     "tutorial/tutorial_champion_battle_elitemode_intro_1": "Al completar el emblema, se\ndesbloqueará el modo élite, que te\npermitirá hacer frente a desafíos\naún más difíciles.",
     "tutorial/tutorial_champion_battle_elitemode_intro_2": "En \"Hall de la Fama de Passio\"\npuedes comprobar el progreso del\nemblema.",
     "tutorial/tutorial_champion_battle_hard_open_0": "¡Enhorabuena por completar los\nCombates de Campeones en Normal!",
-    "tutorial/tutorial_champion_battle_hard_open_1": "Se han desbloqueado las dificultades\nDifícil (nivel 1) y superiores por si\nquieres hacer frente a un desafío\naún mayor.",
+    "tutorial/tutorial_champion_battle_hard_open_1": "Se han desbloqueado las dificultades\ndifícil (nivel 1) y superiores por si\nquieres hacer frente a un desafío\naún mayor.",
     "tutorial/tutorial_champion_battle_hard_open_2": "Estas dificultades están clasificadas\npor regiones. La región a la que\ndebes enfrentarte cambia de forma\nperiódica.",
-    "tutorial/tutorial_champion_battle_hard_open_3": "Además, a partir de la dificultad\nDifícil (nivel 1), los combates varían\nsemanalmente, de modo que podrás\nobtener premios cada semana.",
+    "tutorial/tutorial_champion_battle_hard_open_3": "Además, a partir de la dificultad\ndifícil (nivel 1), los combates varían\nsemanalmente, de modo que podrás\nobtener premios cada semana.",
     "tutorial/tutorial_unlock_anyquest_001": "¡Has desbloqueado\n[Name:QuestTitle ]!",
     "tutorial/tutorial_denpoke_006_01": "Emplea las Monedas Legendarias que\nrecolectes para activar la Caja\nBúsqueda y avanzar en el evento.",
     "tutorial/tutorial_board_autoconvert_title_01": "El canjeo automático de Orbes Compi Multi",
@@ -750,5 +750,9 @@
     "tutorial/tutorial_beginners_mission_01": "¡Tu aventura en Passio no ha hecho\nmás que comenzar!",
     "tutorial/tutorial_beginners_mission_02": "Para ir entrando en materia, te\nrecomendamos seguir la guía para\nprincipiantes a medida que explores.",
     "tutorial/tutorial_beginners_mission_03": "¡Completar esas misiones tiene\npremios de lo más jugoso, como\nun total de 10 000 joyas!",
-    "tutorial/tutorial_beginners_mission_04": "Si te cuesta superar alguna misión,\nrevisa el consejo que la acompaña\no toca el botón de información para\nver pistas más detalladas."
+    "tutorial/tutorial_beginners_mission_04": "Si te cuesta superar alguna misión,\nrevisa el consejo que la acompaña\no toca el botón de información para\nver pistas más detalladas.",
+    "tutorial/tutorial_eventstoryclear_001_01": "Obj. mejora Juliana y amigos",
+    "tutorial/tutorial_eventstoryclear_001_02": "Al completar el episodio indicado,\nobtendrás objetos de mejora para\nJuliana y Sprigatito y otros compis.\nMás detalles en Novedades.",
+    "tutorial/tutorial_eventstory_001_01": "En el evento del sexto aniversario\npodrás obtener premios jugosos y, si\nconsigues 30 000 puntos, ¡un Billete\nRecl. Garant. Pokéfestival Maestro!",
+    "tutorial/tutorial_eventstory_001_02": "Podrás hacerte con un marco del\nevento y formar equipo con Juliana\ny Sprigatito, entre otros. ¡Dale un\ntiento! Más detalles en Novedades."
 }

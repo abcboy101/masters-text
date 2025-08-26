@@ -468,6 +468,8 @@
     "home/home_084": "¡Un reclutamiento con un montón de\nfesticompis estará disponible durante\n72 horas!\n\n¡Une fuerzas con parejas de compis de\ndistintos tipos y enfréntate a los\nCombates de Campeones!",
     "home/home_086": "Gimnasio",
     "home/home_087": "¡Lotes especiales\ndisponibles!",
+    "home/home_088": "¡Lotes especiales de\njoyas disponibles!",
+    "home/home_089": "¡Reclutamiento\nespecial!",
     "home/global_menu_001": "[Name:PlayerNickname ]",
     "home/global_menu_007": "Misiones",
     "home/global_menu_008": "Amigos",
@@ -1026,6 +1028,6 @@
     "home/beginners_018": "Consejo para la misión [Digit:3digits ]",
     "home/beginners_019": "Guía de Tris",
     "home/beginners_020": "Bingo de\nmisiones",
-    "home/beginners_021": "Disponible tras completar la misión [Digit:3digits ].",
+    "home/beginners_021": "Disponible tras completar la misión [Digit:3digits ].",
     "home/beginners_022": "Detalles de la misión"
 }

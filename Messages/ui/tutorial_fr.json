@@ -750,5 +750,9 @@
     "tutorial/tutorial_beginners_mission_01": "Vos aventures à Passio ont\nofficiellement commencé !",
     "tutorial/tutorial_beginners_mission_02": "Avant tout, il est recommandé\nde suivre le Guide de débutant\nlors de vos explorations !",
     "tutorial/tutorial_beginners_mission_03": "Vous pouvez obtenir d'incroyables\nrécompenses de mission,\ndont 10 000 Diamants !",
-    "tutorial/tutorial_beginners_mission_04": "Si vous avez du mal à terminer une\nmission, consultez les astuces.\nAppuyez sur le bouton d'informations\npour des astuces plus détaillées."
+    "tutorial/tutorial_beginners_mission_04": "Si vous avez du mal à terminer une\nmission, consultez les astuces.\nAppuyez sur le bouton d'informations\npour des astuces plus détaillées.",
+    "tutorial/tutorial_eventstoryclear_001_01": "Objets pour renforcer Juliana\net les autres",
+    "tutorial/tutorial_eventstoryclear_001_02": "Terminez l'épisode indiqué pour\nrenforcer Juliana & Poussacha\net d'autres avec des objets. Plus\nde détails sur l'écran des actualités.",
+    "tutorial/tutorial_eventstory_001_01": "D'incroyables récompenses à obtenir\nlors de l'évènement des six ans.\nAtteignez un total de 30 000 points\npour un Bon Master festival garanti !",
+    "tutorial/tutorial_eventstory_001_02": "Vous pouvez obtenir un cadre photo\nd'évènement et faire équipe avec\nJuliana & Poussacha et d'autres ! Plus\nde détails sur l'écran des actualités."
 }
