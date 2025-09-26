@@ -505,6 +505,8 @@
     "home/login_bonus_014": "プレゼントボックスに\n送っておきますね！\n忘れずに　受け取ってください！",
     "home/login_bonus_015": "２日目と７日目にもらえる\n「★５確定Ｂサーチチケット×30」\nで★５バディーズが１組ずつ仲間に",
     "home/login_bonus_016": "ダイヤ所持数が上限を超えるため\n受け取れません\n\nダイヤを減らしてから\n受け取ってください\n\n※ダイヤ(有償分)の所持上限は\n[Digit:5digits ]個です",
+    "home/login_bonus_017": "マンスリーログインボーナス",
+    "home/login_bonus_019": "目玉報酬獲得まで　あと[Digit:3digits ]日！",
     "home/app_review_001": "レビュー",
     "home/app_review_002": "[Name:TitleName ]をプレイいただき\nありがとうございます\n\nよろしければレビューに\nご協力お願いします",
     "home/app_review_003": "Google Play Storeで\nレビューする",

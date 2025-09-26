@@ -505,6 +505,8 @@
     "home/login_bonus_014": "Vos objets sont dans\nle menu « Cadeaux ».\nNe les oubliez pas !",
     "home/login_bonus_015": "Utilisez les 30 Bons Appel Duo 5★ Garanti\nreçus le deuxième et septième jour pour\nfaire équipe avec un Duo 5★ !",
     "home/login_bonus_016": "Vous ne pouvez pas recevoir de\nDiamants car vous dépasseriez\nla limite. Veuillez en utiliser avant\nd'en recevoir à nouveau. La limite\nde Diamants payants est de [Digit:5digits ].",
+    "home/login_bonus_017": "Bonus de connexion mensuel",
+    "home/login_bonus_019": "Plus que [Digit:3digits ] [FR:Qty S=\"jour\" P=\"jours\" ] avant d'obtenir\nvos Grands prix !",
     "home/app_review_001": "Avis",
     "home/app_review_002": "Merci d'avoir joué à\n[Name:TitleName ] !\n\nN'hésitez pas à donner votre avis\nsur le jeu si vous le souhaitez !",
     "home/app_review_003": "Donner son avis sur\nle Google Play Store",

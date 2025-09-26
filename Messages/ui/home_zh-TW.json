@@ -505,6 +505,8 @@
     "home/login_bonus_014": "道具會送到禮物箱！\n請不要忘記領取！",
     "home/login_bonus_015": "利用在第２天和第７天可獲得的\n「必得★５拍組搜尋券×30」\n分別獲得１對★５拍組成為夥伴",
     "home/login_bonus_016": "領取後將會使鑽石個數超過持有上限\n因此無法領取\n\n請減少鑽石數量後再重新領取\n\n※付費鑽石的持有上限為\n[Digit:5digits ]個",
+    "home/login_bonus_017": "每月登入獎勵",
+    "home/login_bonus_019": "離獲得特級報酬還剩[Digit:3digits ]天！",
     "home/app_review_001": "評論",
     "home/app_review_002": "非常感謝您對\n[Name:TitleName ]的支持！\n歡迎您留下評論！",
     "home/app_review_003": "到Google Play Store\n留下評論",

@@ -505,6 +505,8 @@
     "home/login_bonus_014": "La bonificación se\nenviará a la caja de\nregalos, no lo olvides.",
     "home/login_bonus_015": "En los días 2 y 7 puedes obtener 30 Billetes\nReclutamiento 5★ para reclutar parejas de\ncompis de 5★ con cada uno de ellos.",
     "home/login_bonus_016": "No puedes obtener más joyas porque\nhas excedido el límite.\n\nVuelve a intentarlo cuando hayas\nutilizado algunas.\n\nLímite de joyas de pago: [Digit:5digits ].",
+    "home/login_bonus_017": "Bonificación de inicio mensual",
+    "home/login_bonus_019": "¡Falta[ES:Qty P=\"n\" ] [Digit:3digits ] día[ES:Qty P=\"s\" ] para que puedas\nhacerte con premios especiales!",
     "home/app_review_001": "Valoración",
     "home/app_review_002": "¡Muchas gracias por jugar a\n[Name:TitleName ]!\n\n¿Por qué no dejas una valoración?",
     "home/app_review_003": "Dejar una valoración\nen Google Play Store",
