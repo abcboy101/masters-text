@@ -753,6 +753,10 @@
     "tutorial/tutorial_beginners_mission_04": "Si vous avez du mal à terminer une\nmission, consultez les astuces.\nAppuyez sur le bouton d'informations\npour des astuces plus détaillées.",
     "tutorial/tutorial_eventstoryclear_001_01": "Objets pour renforcer Juliana\net les autres",
     "tutorial/tutorial_eventstoryclear_001_02": "Terminez l'épisode indiqué pour\nrenforcer Juliana & Poussacha\net d'autres avec des objets. Plus\nde détails sur l'écran des actualités.",
-    "tutorial/tutorial_eventstory_001_01": "D'incroyables récompenses à obtenir\nlors de l'évènement des six ans.\nAtteignez un total de 30 000 points\npour un Bon Master festival garanti !",
-    "tutorial/tutorial_eventstory_001_02": "Vous pouvez obtenir un cadre photo\nd'évènement et faire équipe avec\nJuliana & Poussacha et d'autres ! Plus\nde détails sur l'écran des actualités."
+    "tutorial/tutorial_eventstory_001_01": "D'incroyables récompenses à obtenir\nlors de l'évènement des six ans.\nAtteignez un total de 30 000 points\npour un Bon Master Festival Garanti !",
+    "tutorial/tutorial_eventstory_001_02": "Vous pouvez obtenir un cadre photo\nd'évènement et faire équipe avec\nJuliana & Poussacha et d'autres ! Plus\nde détails sur l'écran des actualités.",
+    "tutorial/tutorial_academyestablish_title_01": "Naissance de l'académie",
+    "tutorial/tutorial_academyestablish_image_01": "L'arc narratif de la naissance de\nl'académie est un prélude qui décrit\nles évènements qui ont mené à la\ncréation de l'Académie de Passio.",
+    "tutorial/tutorial_academyestablish_image_02": "Vous pouvez progresser dans\nle scénario comme bon vous semble\nlorsqu'un évènement de l'académie\nest en cours.",
+    "tutorial/tutorial_academyestablish_image_03": "Vous pouvez en apprendre plus sur\nl'histoire de l'Académie de Passio\nen progressant dans le scénario !"
 }

@@ -17,7 +17,7 @@
     "tutorial/tutorial_ctarget_121": "Selecciona a un rival que sea débil\nante el tipo de tus ataques.",
     "tutorial/tutorial_ctarget_211": "Toca a un Pokémon para\ncambiar de objetivo.",
     "tutorial/tutorial_ctarget_221": "El borde del panel y el nombre del\nmovimiento cambian de color si el\nrival es débil ante tus ataques.",
-    "tutorial/tutorial_ctarget_231": "¡Aprovecha la debilidad del rival!",
+    "tutorial/tutorial_ctarget_231": "¡Aprovecha la debilidad\ndel rival!",
     "tutorial/tutorial_ctarget_241": "¡Aprovecha la debilidad del rival\ncon el Onix de Brock!",
     "tutorial/tutorial_ctarget_251": "¡Alterna entre los distintos\npaneles y aprovecha las\ndebilidades de tus rivales!",
     "tutorial/tutorial_ctarget_261": "¡Aprovecha la debilidad del rival\ncon el Starmie de Misty!",
@@ -754,5 +754,9 @@
     "tutorial/tutorial_eventstoryclear_001_01": "Obj. mejora Juliana y amigos",
     "tutorial/tutorial_eventstoryclear_001_02": "Al completar el episodio indicado,\nobtendrás objetos de mejora para\nJuliana y Sprigatito y otros compis.\nMás detalles en Novedades.",
     "tutorial/tutorial_eventstory_001_01": "En el evento del sexto aniversario\npodrás obtener premios jugosos y, si\nconsigues 30 000 puntos, ¡un Billete\nRecl. Garant. Pokéfestival Maestro!",
-    "tutorial/tutorial_eventstory_001_02": "Podrás hacerte con un marco del\nevento y formar equipo con Juliana\ny Sprigatito, entre otros. ¡Dale un\ntiento! Más detalles en Novedades."
+    "tutorial/tutorial_eventstory_001_02": "Podrás hacerte con un marco del\nevento y formar equipo con Juliana\ny Sprigatito, entre otros. ¡Dale un\ntiento! Más detalles en Novedades.",
+    "tutorial/tutorial_academyestablish_title_01": "Trama fund. de la academia",
+    "tutorial/tutorial_academyestablish_image_01": "La trama fundación de la academia\nes un preludio en el que se narran\nlos acontecimientos que llevaron a la\nfundación de la Academia de Passio.",
+    "tutorial/tutorial_academyestablish_image_02": "Podrás volver a leerla cuando haya\nun evento académico disponible.",
+    "tutorial/tutorial_academyestablish_image_03": "¡Descubre la historia de la Academia\nde Passio mediante esta trama!"
 }
