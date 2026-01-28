@@ -158,6 +158,8 @@
     "battle/battle_207": "F.-Att.-Schadensabsorp.-v.-Mitstr.",
     "battle/battle_208": "Phys.-Att.-Anfälligkeit",
     "battle/battle_209": "Spez.-Att.-Anfälligkeit",
+    "battle/battle_210": "Bejubelt von [Name:PlayerNickname ]",
+    "battle/battle_211": "Deine Attacken wurden verstärkt, weil dir ein\nArena-Mitglied zugejubelt hat!",
     "battle/battle_release_76": "Angriff",
     "battle/battle_release_243": "Stopp",
     "battle/battle_release_368": "Stopp",
@@ -238,5 +240,9 @@
     "battle/315": "TREFFER",
     "battle/316": "Punktzahl",
     "battle/317": "Nur noch [Digit:3digits ] Sekunden!",
-    "battle/318": "ZEIT VORBEI!"
+    "battle/318": "ZEIT VORBEI!",
+    "battle/319": "Hinweis: Du erhältst die von dir verwendeten\nArenakampf-Tickets zurück.",
+    "battle/320": "Deine Arenakampf-Tickets wurden\nzurückerstattet.",
+    "battle/321": "Dieser Kampf wurde bereits von einem\nanderen Nutzer abgeschlossen.\n\nDeine Arenakampf-Tickets wurden\nzurückerstattet.",
+    "battle/322": "Neustart des Kampfes mit aktuellen\nKampfinformationen.\n\nDeine Arenakampf-Tickets wurden\nzurückerstattet."
 }

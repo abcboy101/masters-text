@@ -241,6 +241,8 @@
     "cafe/deck_item_skill_047": "You were interrupted while\nunlocking skills.",
     "cafe/deck_item_skill_048": "Note: Ever Pins expended will not be returned.",
     "cafe/deck_item_skill_049": "Confirm overwrite",
+    "cafe/deck_item_skill_050": "If you use an item to protect this skill,\nthe skill will not be overwritten when\nyou unlock skills.\n\nWould you like to use this item?",
+    "cafe/deck_item_skill_051": "Note: Each category will be sorted with protected\nthemes and effects at the top.",
     "cafe/rarityup_001": "Increase Potential",
     "cafe/rarityup_003": "Increase sync pair’s potential using\nthese items?",
     "cafe/rarityup_006": "Power-Up:",

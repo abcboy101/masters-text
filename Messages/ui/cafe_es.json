@@ -241,6 +241,8 @@
     "cafe/deck_item_skill_047": "Se ha interrumpido el proceso de\ndesbloqueo de habilidades.",
     "cafe/deck_item_skill_048": "Aviso: No recuperarás los Imperdibles Inmutables que\nhayas usado.",
     "cafe/deck_item_skill_049": "Sustituir",
+    "cafe/deck_item_skill_050": "¿Quieres usar el objeto seleccionado\npara fijar esta habilidad?\n\nLas habilidades fijadas no se sustituirán\nal desbloquear nuevas habilidades.",
+    "cafe/deck_item_skill_051": "Aviso: Los distintivos y efectos fijados aparecerán en la\nparte superior de sus respectivas categorías.",
     "cafe/rarityup_001": "Aumentar potencial",
     "cafe/rarityup_003": "¿Quieres usar estos objetos para\naumentar el potencial (★)?",
     "cafe/rarityup_006": "Potenciadores:",

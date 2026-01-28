@@ -158,6 +158,8 @@
     "battle/battle_207": "Attira prossima mossa diffusa",
     "battle/battle_208": "Aumento danni fisici",
     "battle/battle_209": "Aumento danni speciali",
+    "battle/battle_210": "Incoraggiamento da [Name:PlayerNickname ]",
+    "battle/battle_211": "Grazie all'incoraggiamento di un membro della tua\nPalestra, i tuoi attacchi sono potenziati!",
     "battle/battle_release_76": "Attacco",
     "battle/battle_release_243": "Stop",
     "battle/battle_release_368": "Stop",
@@ -238,5 +240,9 @@
     "battle/315": "COLPI",
     "battle/316": "Punteggio",
     "battle/317": "Mancano [Digit:3digits ] secondi!",
-    "battle/318": "Tempo scaduto!"
+    "battle/318": "Tempo scaduto!",
+    "battle/319": "I Biglietti Lotta delle Palestre che hai usato\nti verranno restituiti.",
+    "battle/320": "Ti sono stati restituiti i Biglietti\nLotta delle Palestre.",
+    "battle/321": "Questa lotta è già stata completata\nda un altro membro della Palestra.\n\nTi sono stati restituiti i Biglietti\nLotta delle Palestre.",
+    "battle/322": "Riproverai ad affrontare questa lotta\ncon le condizioni di lotta più aggiornate.\n\nTi sono stati restituiti i Biglietti\nLotta delle Palestre."
 }

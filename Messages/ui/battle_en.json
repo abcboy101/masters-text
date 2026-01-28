@@ -158,6 +158,8 @@
     "battle/battle_207": "Take Next “All” Move",
     "battle/battle_208": "Physical Move Break",
     "battle/battle_209": "Special Move Break",
+    "battle/battle_210": "Cheer from [Name:PlayerNickname ]",
+    "battle/battle_211": "Your attacks have been powered up by a fellow\ngym member’s cheering!",
     "battle/battle_release_76": "(attack)",
     "battle/battle_release_243": "(release)",
     "battle/battle_release_368": "(release)",
@@ -238,5 +240,9 @@
     "battle/315": "HITS",
     "battle/316": "Score",
     "battle/317": "[Digit:3digits ] seconds left!",
-    "battle/318": "Time’s up!"
+    "battle/318": "Time’s up!",
+    "battle/319": "Note: Gym Battle Challenge Tickets that you used will\nbe returned.",
+    "battle/320": "Your Gym Battle Challenge Tickets\nwere returned.",
+    "battle/321": "This battle has already been completed\nby another user.\n\nYour Gym Battle Challenge Tickets\nwere returned.",
+    "battle/322": "Retrying this battle with the latest\ninformation.\n\nYour Gym Battle Challenge Tickets\nwere returned."
 }

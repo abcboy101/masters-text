@@ -241,6 +241,8 @@
     "cafe/deck_item_skill_047": "Le déblocage de talent\na été interrompu.",
     "cafe/deck_item_skill_048": "Remarque : vous ne pourrez pas récupérer\nles Épingles Stase utilisées.",
     "cafe/deck_item_skill_049": "Confirmer",
+    "cafe/deck_item_skill_050": "Si vous utilisez un objet pour fixer\nce talent, celui-ci ne sera pas\nremplacé lorsque vous débloquerez\ndes talents.\n\nVoulez-vous utiliser cet objet ?",
+    "cafe/deck_item_skill_051": "Remarque : chaque catégorie triée grâce\nà des mots-clés et effets fixés sera affichée en haut.",
     "cafe/rarityup_001": "Augmenter potentiel",
     "cafe/rarityup_003": "Voulez-vous utiliser cet objet\npour augmenter le potentiel ?",
     "cafe/rarityup_006": "Duo-Ticket(s)",

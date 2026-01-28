@@ -158,6 +158,8 @@
     "battle/battle_207": "Encaisse pro. dég. pour tous",
     "battle/battle_208": "Rupture physique",
     "battle/battle_209": "Rupture spéciale",
+    "battle/battle_210": "[Name:PlayerNickname ] vous encourage",
+    "battle/battle_211": "Vos attaques sont renforcées grâce aux\nencouragements d'autres membres d'Arène !",
     "battle/battle_release_76": "Attaque",
     "battle/battle_release_243": "Stop !",
     "battle/battle_release_368": "Stop !",
@@ -238,5 +240,9 @@
     "battle/315": "COUPS",
     "battle/316": "Score",
     "battle/317": "Plus que [Digit:3digits ] secondes !",
-    "battle/318": "Temps écoulé !"
+    "battle/318": "Temps écoulé !",
+    "battle/319": "Remarque : les Bons défi Combat d'Arène que vous avez\nutilisés vous seront rendus.",
+    "battle/320": "Vos Bons défi Combat d'Arène\nvous ont été rendus.",
+    "battle/321": "Ce combat a déjà été terminé par\nun autre utilisateur.\n\nVos Bons défi Combat d'Arène\nvous ont été rendus.",
+    "battle/322": "Ce combat va être relancé avec\nles dernières données disponibles.\n\nVos Bons défi Combat d'Arène\nvous ont été rendus."
 }

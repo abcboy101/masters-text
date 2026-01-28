@@ -158,6 +158,8 @@
     "battle/battle_207": "차회전체기술받아내기",
     "battle/battle_208": "물리기술브레이크",
     "battle/battle_209": "특수기술브레이크",
+    "battle/battle_210": "[Name:PlayerNickname ]의 응원",
+    "battle/battle_211": "동료의 응원을 받아\n공격의 위력이 상승했습니다",
     "battle/battle_release_76": "공격",
     "battle/battle_release_243": "해제",
     "battle/battle_release_368": "해제",
@@ -238,5 +240,9 @@
     "battle/315": "HITS",
     "battle/316": "스코어",
     "battle/317": "앞으로 [Digit:3digits ]초!!",
-    "battle/318": "TIME UP!!"
+    "battle/318": "TIME UP!!",
+    "battle/319": "※사용한 체육관배틀 도전권은 돌려받습니다",
+    "battle/320": "체육관배틀 도전권을 돌려받았습니다",
+    "battle/321": "이 배틀은 다른 유저에 의해\n이미 종료되었습니다\n\n체육관배틀 도전권을 돌려받았습니다",
+    "battle/322": "최신 정보로 배틀을 다시 시작합니다\n\n체육관배틀 도전권을 돌려받았습니다"
 }

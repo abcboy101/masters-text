@@ -241,6 +241,8 @@
     "cafe/deck_item_skill_047": "Das Freischalten der Fähigkeiten wurde\nunterbrochen.",
     "cafe/deck_item_skill_048": "Hinweis: Fixier-Broschen erhältst du nach ihrer\nVerwendung nicht zurück.",
     "cafe/deck_item_skill_049": "Bestätigen",
+    "cafe/deck_item_skill_050": "Wenn du diese Fähigkeit mithilfe eines\nItems fixierst, wird sie nach dem\nFreischalten anderer Fähigkeiten nicht\nersetzt.\n\nMöchtest du dieses Item einsetzen?",
+    "cafe/deck_item_skill_051": "Hinweis: Beim Sortieren einer Kategorie werden fixierte\nAttribute und Effekte oben angezeigt.",
     "cafe/rarityup_001": "Potenzial erhöhen",
     "cafe/rarityup_003": "Möchtest du diese Items einsetzen,\num die Anzahl der ★ zu erhöhen?",
     "cafe/rarityup_006": "Potenzialpässe",

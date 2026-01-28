@@ -241,6 +241,8 @@
     "cafe/deck_item_skill_047": "스킬 해방의 처리가\n중단되었습니다",
     "cafe/deck_item_skill_048": "※변함없는 핀은 반환되지 않습니다",
     "cafe/deck_item_skill_049": "덮어쓰기 확인",
+    "cafe/deck_item_skill_050": "도구를 사용해서 보호를 진행하면\n스킬 해방으로 인해\n덮어써지지 않게 됩니다\n\n괜찮겠습니까?",
+    "cafe/deck_item_skill_051": "※보호한 태그와 효과는\n각 항목의 위쪽에 정렬됩니다",
     "cafe/rarityup_001": "★상승",
     "cafe/rarityup_003": "도구를 사용하여 ★상승을 진행합니다\n괜찮겠습니까?",
     "cafe/rarityup_006": "까지",

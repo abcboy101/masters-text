@@ -241,6 +241,8 @@
     "cafe/deck_item_skill_047": "開放技能的處理過程已中斷",
     "cafe/deck_item_skill_048": "※不變別針不會歸還給您",
     "cafe/deck_item_skill_049": "確認更新內容",
+    "cafe/deck_item_skill_050": "因使用道具而受保護的技能\n將不會因開放技能而被更新\n\n確定要繼續嗎？",
+    "cafe/deck_item_skill_051": "※受保護的標籤和效果\n會排序顯示在各項目的上方",
     "cafe/rarityup_001": "提升★",
     "cafe/rarityup_003": "要使用這個道具來提升★嗎？",
     "cafe/rarityup_006": "已累積",

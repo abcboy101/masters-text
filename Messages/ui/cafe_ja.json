@@ -241,6 +241,8 @@
     "cafe/deck_item_skill_047": "スキル解放の処理が\n中断されています",
     "cafe/deck_item_skill_048": "※かわらずのピンは返却されません",
     "cafe/deck_item_skill_049": "上書き確認",
+    "cafe/deck_item_skill_050": "どうぐを使用して保護すると\nスキル解放によって\n上書きされなくなります\n\nよろしいですか？",
+    "cafe/deck_item_skill_051": "※保護したタグと効果は\n各項目の上部にソートされます",
     "cafe/rarityup_001": "★アップ",
     "cafe/rarityup_003": "どうぐを使用して★アップします\nよろしいですか？",
     "cafe/rarityup_006": "まで",

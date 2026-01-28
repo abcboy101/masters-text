@@ -158,6 +158,8 @@
     "battle/battle_207": "次回全体技引受け",
     "battle/battle_208": "物理技ブレイク",
     "battle/battle_209": "特殊技ブレイク",
+    "battle/battle_210": "[Name:PlayerNickname ] からの応援",
+    "battle/battle_211": "仲間の応援で\n攻撃の威力が上昇しました",
     "battle/battle_release_76": "こうげき",
     "battle/battle_release_243": "かいじょ",
     "battle/battle_release_368": "かいじょ",
@@ -238,5 +240,9 @@
     "battle/315": "HITS",
     "battle/316": "スコア",
     "battle/317": "あと　[Digit:3digits ]秒！！",
-    "battle/318": "TIME UP!!"
+    "battle/318": "TIME UP!!",
+    "battle/319": "※使用したジムバトル挑戦券は返却されます",
+    "battle/320": "ジムバトル挑戦券が返却されました",
+    "battle/321": "他のユーザーによって\nこのバトルはすでに終了しています\n\nジムバトル挑戦券が返却されました",
+    "battle/322": "最新の情報でバトルをやりなおします\n\nジムバトル挑戦券が返却されました"
 }

@@ -158,6 +158,8 @@
     "battle/battle_207": "Absorbe daño sig. mov. a todos",
     "battle/battle_208": "Vulnerabilidad a físicos",
     "battle/battle_209": "Vulnerabilidad a especiales",
+    "battle/battle_210": "Ánimos de [Name:PlayerNickname ]",
+    "battle/battle_211": "¡Otro miembro del gimnasio te está animando!\n¡La potencia de tus ataques aumenta!",
     "battle/battle_release_76": "Atacar",
     "battle/battle_release_243": "Cancelar",
     "battle/battle_release_368": "Cancelar",
@@ -238,5 +240,9 @@
     "battle/315": "golpes",
     "battle/316": "Puntuación",
     "battle/317": "¡Quedan [Digit:3digits ] segundos!",
-    "battle/318": "¡Se acabó!"
+    "battle/318": "¡Se acabó!",
+    "battle/319": "Nota: Recuperarás las Entradas Combates de Gimnasio\nque has usado.",
+    "battle/320": "Has recuperado las Entradas\nCombates de Gimnasio.",
+    "battle/321": "Otra persona ha completado ya\neste combate.\n\nHas recuperado las Entradas\nCombates de Gimnasio.",
+    "battle/322": "Se va a reiniciar el combate con\nel estado más reciente.\n\nHas recuperado las Entradas\nCombates de Gimnasio."
 }
