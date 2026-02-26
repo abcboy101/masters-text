@@ -1038,6 +1038,7 @@
     "home/beginners_020": "Bingo-\nMissionen",
     "home/beginners_021": "Alle [Digit:3digits ]-Missionsbingos vervollständigt",
     "home/beginners_022": "Missionsinhalt",
+    "home/beginners_023": "Zusammenfassung",
     "home/gym_battle_001": "Du kannst Arena-\nMitgliedern zujubeln!",
     "home/gym_battle_002": "Die Angriffe bejubelter Arena-Mitglieder\nwerden verstärkt!",
     "home/gym_battle_003": "Jubel-Nachrichten",
@@ -1111,7 +1112,7 @@
     "home/gym_battle_083": "Hinweis: Es werden maximal fünf angezeigt.\nEs gibt keine Belohnungen für diese Rangliste.",
     "home/gym_battle_084": "Bis [Name:DateTime ]",
     "home/gym_battle_086": "[Digit:8digits ] [DE:Qty S=\"Punkt\" P=\"Punkte\" ]",
-    "home/gym_battle_088": "Arena-Punktzahlboni",
+    "home/gym_battle_088": "Arena-Ranglistenboni",
     "home/gym_battle_090": "Vor [Digit:3digits ] [DE:Qty S=\"Stunde\" P=\"Stunden\" ]",
     "home/gym_battle_091": "Vor [Digit:3digits ] [DE:Qty S=\"Minute\" P=\"Minuten\" ]",
     "home/gym_battle_092": "Vor [Digit:3digits ] [DE:Qty S=\"Tag\" P=\"Tagen\" ]",
@@ -1140,5 +1141,6 @@
     "home/gym_battle_119": "Jubel",
     "home/gym_battle_120": "[Name:PlayerNickname ]\njubelt dir zu!",
     "home/gym_battle_121": "Wird nach dem Abschluss von\ndrei Runden freigeschaltet.",
-    "home/gym_battle_122": "Meister"
+    "home/gym_battle_122": "Meister",
+    "home/bingo_mission_01": "Doppeljubiläums-\nBingo"
 }

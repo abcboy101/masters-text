@@ -123,7 +123,7 @@
     "cafe/deck_079": "Co-op Teams",
     "cafe/deck_080": "Sync pairs in the center position\ncannot be removed.",
     "cafe/deck_081": "This sync pair is already in the center\nposition. Please choose another.",
-    "cafe/deck_082": "A Trainer with the same name is\nalready on this team.\nPlease choose another.",
+    "cafe/deck_082": "This sync pair cannot join your\ncurrent team.",
     "cafe/deck_083": "Preset Teams",
     "cafe/deck_084": "You cannot remove all sync pairs.",
     "cafe/deck_085": "Selected:",

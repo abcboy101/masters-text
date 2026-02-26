@@ -123,7 +123,7 @@
     "cafe/deck_079": "Multijugador",
     "cafe/deck_080": "No puedes cambiar a los compis en\nposición central.",
     "cafe/deck_081": "Estos compis ya ocupan la posición\ncentral del equipo.\nNo puedes seleccionarlos de nuevo.",
-    "cafe/deck_082": "Una pareja de compis idéntica a esta\nforma ya parte del equipo.\nNo puedes seleccionarlos.",
+    "cafe/deck_082": "Esta pareja de compis no puede unirse\na tu equipo actual.",
     "cafe/deck_083": "Elegir equipo",
     "cafe/deck_084": "El equipo debe estar formado por al\nmenos una pareja de compis.",
     "cafe/deck_085": "Selección:",

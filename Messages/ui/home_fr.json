@@ -1038,6 +1038,7 @@
     "home/beginners_020": "Missions\nbingo",
     "home/beginners_021": "Débloqué après avoir terminé\nla mission [Digit:3digits ].",
     "home/beginners_022": "Détails de la mission",
+    "home/beginners_023": "Résumé",
     "home/gym_battle_001": "Vous pouvez encourager les\nmembres de votre Arène !",
     "home/gym_battle_002": "Encourager des membres d'Arène renforcera\nleurs attaques !",
     "home/gym_battle_003": "Messages d'encouragement",
@@ -1140,5 +1141,6 @@
     "home/gym_battle_119": "Encouragements",
     "home/gym_battle_120": "[Name:PlayerNickname ]\nvous encourage !",
     "home/gym_battle_121": "Pour débloquer, terminez trois tours.",
-    "home/gym_battle_122": "Master Ball"
+    "home/gym_battle_122": "Master Ball",
+    "home/bingo_mission_01": "Bingo double\nanniversaire"
 }

@@ -1038,6 +1038,7 @@
     "home/beginners_020": "賓果任務",
     "home/beginners_021": "成功過關任務[Digit:3digits ]\n即可開放",
     "home/beginners_022": "任務內容",
+    "home/beginners_023": "複習一下",
     "home/gym_battle_001": "聲援道館成員吧！",
     "home/gym_battle_002": "受到聲援的道館成員\n攻擊威力提升！",
     "home/gym_battle_003": "聲援訊息",
@@ -1140,5 +1141,6 @@
     "home/gym_battle_119": "聲援",
     "home/gym_battle_120": "[Name:PlayerNickname ]\n正在聲援！",
     "home/gym_battle_121": "成功過關３個回合即可開放",
-    "home/gym_battle_122": "大師"
+    "home/gym_battle_122": "大師",
+    "home/bingo_mission_01": "雙重週年慶\n賓果"
 }

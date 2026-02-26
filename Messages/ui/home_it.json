@@ -1038,6 +1038,7 @@
     "home/beginners_020": "Missioni tris",
     "home/beginners_021": "Si sblocca completando la missione [Digit:3digits ].",
     "home/beginners_022": "Dettagli missione",
+    "home/beginners_023": "Riassunto",
     "home/gym_battle_001": "Puoi incoraggiare i membri\ndella tua Palestra!",
     "home/gym_battle_002": "Gli attacchi dei membri della Palestra che hanno\nricevuto un incoraggiamento sono potenziati!",
     "home/gym_battle_003": "Messaggi di incoraggiamento",
@@ -1140,5 +1141,6 @@
     "home/gym_battle_119": "Incoraggiamenti",
     "home/gym_battle_120": "Un incoraggiamento da\n[Name:PlayerNickname ]!",
     "home/gym_battle_121": "Si sblocca completando tre gironi.",
-    "home/gym_battle_122": "Master"
+    "home/gym_battle_122": "Master",
+    "home/bingo_mission_01": "Missioni tris\ndoppio ann."
 }

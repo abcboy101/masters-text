@@ -375,7 +375,7 @@
     "home/quest_detail_204": "Premios clasificación",
     "home/quest_detail_205": "Puesto actual",
     "home/quest_detail_206": "Master\n[Digit:8digits ] mejores",
-    "home/quest_detail_207": "Nota: Puedes obtener todos los títulos de los puestos\ninferiores al tuyo.",
+    "home/quest_detail_207": "Nota: Puedes obtener todos los títulos de los\npuestos inferiores al tuyo.",
     "home/quest_detail_208": "Tus compis",
     "home/quest_detail_210": "Puntuación",
     "home/quest_detail_211": "Master\nPuesto [Digit:8digits ]",
@@ -1038,6 +1038,7 @@
     "home/beginners_020": "Bingo de\nmisiones",
     "home/beginners_021": "Disponible tras completar la misión [Digit:3digits ].",
     "home/beginners_022": "Detalles de la misión",
+    "home/beginners_023": "Resumen",
     "home/gym_battle_001": "¡Anima a los demás\nmiembros del gimnasio!",
     "home/gym_battle_002": "¡Animar a un miembro del gimnasio aumenta\nla potencia de sus ataques!",
     "home/gym_battle_003": "Mensajes de ánimo",
@@ -1140,5 +1141,6 @@
     "home/gym_battle_119": "Ánimos",
     "home/gym_battle_120": "¡Te está animando\n[Name:PlayerNickname ]!",
     "home/gym_battle_121": "Disponible tras completar tres rondas.",
-    "home/gym_battle_122": "Maestro"
+    "home/gym_battle_122": "Maestro",
+    "home/bingo_mission_01": "Bingo del\ndoble aniv."
 }

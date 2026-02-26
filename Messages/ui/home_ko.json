@@ -1038,6 +1038,7 @@
     "home/beginners_020": "빙고\n미션",
     "home/beginners_021": "미션 [Digit:3digits ][Kor:Particle char=\"wo\" ] 클리어하면\n해방됩니다",
     "home/beginners_022": "미션 내용",
+    "home/beginners_023": "복습",
     "home/gym_battle_001": "체육관 멤버를\n응원하자!",
     "home/gym_battle_002": "응원을 받은 체육관 멤버는\n공격의 위력이 상승!",
     "home/gym_battle_003": "응원 메시지",
@@ -1140,5 +1141,6 @@
     "home/gym_battle_119": "응원",
     "home/gym_battle_120": "[Name:PlayerNickname ]\n응원 중!",
     "home/gym_battle_121": "3라운드를 클리어하면 해방",
-    "home/gym_battle_122": "마스터"
+    "home/gym_battle_122": "마스터",
+    "home/bingo_mission_01": "더블 애니버서리\n빙고"
 }

@@ -1038,6 +1038,7 @@
     "home/beginners_020": "ビンゴ\nミッション",
     "home/beginners_021": "ミッション[Digit:3digits ]をクリアすると\n解放されます",
     "home/beginners_022": "ミッション内容",
+    "home/beginners_023": "おさらい",
     "home/gym_battle_001": "ジムメンバーを\n応援しよう！",
     "home/gym_battle_002": "応援されたジムメンバーは\n攻撃の威力がアップ！",
     "home/gym_battle_003": "応援メッセージ",
@@ -1140,5 +1141,6 @@
     "home/gym_battle_119": "応援",
     "home/gym_battle_120": "[Name:PlayerNickname ]\n応援中！",
     "home/gym_battle_121": "３ラウンドをクリアすると解放",
-    "home/gym_battle_122": "マスター"
+    "home/gym_battle_122": "マスター",
+    "home/bingo_mission_01": "Ｗアニバ\nビンゴ"
 }

@@ -1038,6 +1038,7 @@
     "home/beginners_020": "Bingo\nMissions",
     "home/beginners_021": "To unlock, complete mission [Digit:3digits ].",
     "home/beginners_022": "Mission Details",
+    "home/beginners_023": "Recap",
     "home/gym_battle_001": "You can cheer on your\nfellow gym members!",
     "home/gym_battle_002": "Gym members who’ve been cheered for will\nhave their attacks powered up!",
     "home/gym_battle_003": "Cheer messages",
@@ -1140,5 +1141,6 @@
     "home/gym_battle_119": "Cheer",
     "home/gym_battle_120": "[Name:PlayerNickname ]\nis cheering!",
     "home/gym_battle_121": "To unlock, complete three circuits.",
-    "home/gym_battle_122": "Master"
+    "home/gym_battle_122": "Master",
+    "home/bingo_mission_01": "Double Anniv.\nBingo"
 }
