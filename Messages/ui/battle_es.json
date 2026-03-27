@@ -72,7 +72,7 @@
     "battle/battle_107": "At. físicos ↓",
     "battle/battle_108": "At. especiales ↓",
     "battle/battle_109": "Rebote probl. estado",
-    "battle/battle_110": "Rebote ↓ caract.",
+    "battle/battle_110": "Rebote caract. ↓",
     "battle/battle_111": "Bloqueo at. estado",
     "battle/battle_112": "Bloqueo caract. ↓",
     "battle/battle_113": "Bloqueo críticos",
@@ -244,6 +244,6 @@
     "battle/318": "¡Se acabó!",
     "battle/319": "Nota: Recuperarás las Entradas Combates de Gimnasio\nque has usado.",
     "battle/320": "Has recuperado las Entradas\nCombates de Gimnasio.",
-    "battle/321": "Otra persona ha completado ya\neste combate.\n\nHas recuperado las Entradas\nCombates de Gimnasio.",
+    "battle/321": "Ya se ha completado este combate.\n\nHas recuperado las Entradas\nCombates de Gimnasio.",
     "battle/322": "Se va a reiniciar el combate con\nel estado más reciente.\n\nHas recuperado las Entradas\nCombates de Gimnasio."
 }
