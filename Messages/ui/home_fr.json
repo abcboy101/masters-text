@@ -203,6 +203,8 @@
     "home/quest_list_201": "Faites équipe avec un Duo",
     "home/quest_list_202": "Débloqué après avoir fait équipe avec\nun Duo de l'évènement suivant :\n\n• [Name:EventName ]",
     "home/quest_list_203": "Débloqué après avoir obtenu le Duo spécifié",
+    "home/quest_list_211": "Le calcul du classement se termine le [Name:DateTime ]",
+    "home/quest_list_212": "Le classement sera disponible jusqu'au [Name:DateTime ]",
     "home/quest_detail_003": "Faiblesse",
     "home/quest_detail_005": "Infos",
     "home/quest_detail_009": "Équipes",

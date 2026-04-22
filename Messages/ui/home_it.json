@@ -203,6 +203,8 @@
     "home/quest_list_201": "Fai squadra con un'Unità.",
     "home/quest_list_202": "Si sblocca facendo squadra con\nun'Unità che ha preso parte a:\n\n• [Name:EventName ]",
     "home/quest_list_203": "Si sblocca ottenendo l'Unità indicata.",
+    "home/quest_list_211": "Termine fase di calcolo classifica: [Name:DateTime ]",
+    "home/quest_list_212": "Potrai consultare la classifica fino al giorno [Name:DateTime ]",
     "home/quest_detail_003": "Punti deboli",
     "home/quest_detail_005": "Info area",
     "home/quest_detail_009": "Scegli squadra",

@@ -203,6 +203,8 @@
     "home/quest_list_201": "與拍組成為夥伴",
     "home/quest_list_202": "與可在下列活動中獲得的\n拍組成為夥伴即可開放\n\n・[Name:EventName ]",
     "home/quest_list_203": "獲得特定拍組後即可開放",
+    "home/quest_list_211": "排名統計期間：至[Name:DateTime ]為止",
+    "home/quest_list_212": "排名顯示期間：至[Name:DateTime ]為止",
     "home/quest_detail_003": "弱點屬性",
     "home/quest_detail_005": "區域詳情",
     "home/quest_detail_009": "選擇隊伍",

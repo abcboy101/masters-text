@@ -203,6 +203,8 @@
     "home/quest_list_201": "Team up with a sync pair",
     "home/quest_list_202": "To unlock, team up with a sync pair from the following event:\n\n• [Name:EventName ]",
     "home/quest_list_203": "To unlock, obtain the specified sync pair",
+    "home/quest_list_211": "Rankings calculated until [Name:DateTime ]",
+    "home/quest_list_212": "Rankings shown until [Name:DateTime ]",
     "home/quest_detail_003": "Weakness",
     "home/quest_detail_005": "Area Details",
     "home/quest_detail_009": "Preset Teams",

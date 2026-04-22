@@ -67,5 +67,6 @@
     "error_dialog_contents/30913": "En raison d'une opération de\nmaintenance, vous ne pouvez\npas passer cet Appel Duo.\nVeuillez nous excuser pour\nla gêne occasionnée.",
     "error_dialog_contents/32101": "Si vous transférez vos données de\nsauvegarde vers un appareil doté d'un\nsystème d'exploitation (iOS ou Android)\ndifférent de l'appareil avec lequel vous\nachetez un lot, vous ne pourrez pas\nrecevoir les Diamants payants\ndu bonus de connexion exclusif.\nPour les obtenir, transférez à nouveau\nles données vers un appareil doté\ndu même système d'exploitation\nque celui utilisé lors de l'achat.",
     "error_dialog_contents/32102": "Les Diamants payants n'ont pas pu\nêtre obtenus.\n\nVeuillez contacter le service client.",
-    "error_dialog_contents/32103": "Le produit acheté n'a pas pu\nêtre obtenu.\n\nVérifiez votre connexion, puis\nredémarrez l'application.\n\nSi vous ne parvenez toujours pas\nà recevoir le produit acheté, veuillez\ncontacter le service client."
+    "error_dialog_contents/32103": "Le produit acheté n'a pas pu\nêtre obtenu.\n\nVérifiez votre connexion, puis\nredémarrez l'application.\n\nSi vous ne parvenez toujours pas\nà recevoir le produit acheté, veuillez\ncontacter le service client.",
+    "error_dialog_contents/player_ban_001": "Ce compte ne peut pas être utilisé\npour le moment.\n\nSi vous avez des questions, veuillez\nnous contacter à l'adresse e-mail\nindiquée sur le site internet officiel,\nen incluant votre ID client."
 }

@@ -67,5 +67,6 @@
     "error_dialog_contents/30913": "El reclutamiento no está disponible\ndebido a labores de mantenimiento.\nLamentamos las molestias.",
     "error_dialog_contents/32101": "Si transfieres tus datos de guardado a\nun dispositivo que tenga un sistema\noperativo (iOS o Android) distinto al\ndispositivo con el que compres un lote,\nno podrás obtener las joyas de pago\nde la bonificación de inicio de sesión.\nPara poder obtenerlas, vuelve a\ntransferir los datos a un dispositivo con\nel mismo sistema operativo que el\nque utilices durante la compra.",
     "error_dialog_contents/32102": "No has podido obtener las joyas de\npago.\n\nPonte en contacto con Atención al\ncliente.",
-    "error_dialog_contents/32103": "No has podido obtener los artículos\nadquiridos.\n\nComprueba tu conexión y prueba a\nreiniciar el juego.\n\nSi sigues sin poder recibir los artículos,\nponte en contacto con Atención al\ncliente."
+    "error_dialog_contents/32103": "No has podido obtener los artículos\nadquiridos.\n\nComprueba tu conexión y prueba a\nreiniciar el juego.\n\nSi sigues sin poder recibir los artículos,\nponte en contacto con Atención al\ncliente.",
+    "error_dialog_contents/player_ban_001": "Esta cuenta no puede utilizarse en\nestos momentos.\n\nSi tienes alguna pregunta, ponte en\ncontacto con nosotros a través de la\ndirección de correo electrónico que\naparece en el sitio web oficial del\njuego. No olvides proporcionar tu\nID de cliente."
 }

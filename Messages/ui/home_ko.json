@@ -203,6 +203,8 @@
     "home/quest_list_201": "버디즈를 동료로 만들자",
     "home/quest_list_202": "아래 이벤트에서 획득할 수 있는 버디즈를\n동료로 만들면 해방됩니다\n\n・[Name:EventName ]",
     "home/quest_list_203": "특정 버디즈를 획득하면 해방",
+    "home/quest_list_211": "랭킹 집계 기간 : [Name:DateTime ]까지",
+    "home/quest_list_212": "랭킹 표시 기간 : [Name:DateTime ]까지",
     "home/quest_detail_003": "약점타입",
     "home/quest_detail_005": "에리어 상세",
     "home/quest_detail_009": "팀 선택",

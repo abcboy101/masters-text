@@ -203,6 +203,8 @@
     "home/quest_list_201": "バディーズを仲間にしよう",
     "home/quest_list_202": "以下のイベントで獲得できるバディーズを\n仲間にすると解放されます\n\n・[Name:EventName ]",
     "home/quest_list_203": "特定のバディーズを獲得すると解放",
+    "home/quest_list_211": "ランキング集計期間：[Name:DateTime ]まで",
+    "home/quest_list_212": "ランキング表示期間：[Name:DateTime ]まで",
     "home/quest_detail_003": "じゃくてんタイプ",
     "home/quest_detail_005": "エリア詳細",
     "home/quest_detail_009": "チーム選択",

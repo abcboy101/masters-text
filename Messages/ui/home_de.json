@@ -203,6 +203,8 @@
     "home/quest_list_201": "Hol dir ein Gefährtengespann.",
     "home/quest_list_202": "Wird freigeschaltet, wenn du dir das\nGefährtengespann aus dem folgenden\nEvent ins Team holst:\n\n• [Name:EventName ]",
     "home/quest_list_203": "Wird freigeschaltet, wenn du das\nangegebene Gefährtengespann erhalten\nhast.",
+    "home/quest_list_211": "Berechnung der Rangliste bis: [Name:DateTime ]",
+    "home/quest_list_212": "Anzeige der Rangliste bis: [Name:DateTime ]",
     "home/quest_detail_003": "Schwäche",
     "home/quest_detail_005": "Details",
     "home/quest_detail_009": "Teamauswahl",
