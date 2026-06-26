@@ -656,7 +656,7 @@
     "home/champion_battle_060": "Optionen",
     "home/champion_battle_061": "Je stärker du deine Gegner machst, desto\nmehr Punkte und Boni kannst du erhalten.",
     "home/champion_battle_062": "Erreichte Punktzahl",
-    "home/champion_battle_063": "Hinweis: Deine Gesamtpunkzahl wird am folgenden Datum zurückgesetzt. wodurch du bereits abgeholte Belohnungen erneut erhalten kannst: [Name:DateTime ] Durch die „Zurücksetzen“-Schaltfläche kannst du bereits abgeholte Belohnungen nicht erneut erhalten. ",
+    "home/champion_battle_063": "Hinweis: Deine Gesamtpunktzahl wird am [Name:DateTime ] zurückgesetzt, wodurch du bereits abgeholte Belohnungen erneut erhalten kannst. Durch „Zurücksetzen“ kannst du diese nicht erneut erhalten.",
     "home/champion_battle_064": "Wird freigeschaltet, wenn du bis zum\nfolgenden Datum die notwendigen\nBedingungen erfüllt hast:\n[Name:DateTime ]",
     "home/champion_battle_065": "Optionen (Details)",
     "home/champion_battle_066": "Wird freigeschaltet, wenn du den\nChamp besiegt hast und du in die\nRuhmeshalle eingezogen bist.",
