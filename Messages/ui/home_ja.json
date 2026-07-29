@@ -1125,7 +1125,7 @@
     "home/gym_battle_061": "ボルテージ",
     "home/gym_battle_062": "ジムバトル挑戦券",
     "home/gym_battle_063": "この内容で出発しますか？",
-    "home/gym_battle_064": "他のジムメンバーと同時にバトルすると\n最新のバトルの状態が\n反映されないことがあります\n\n続けて出発しますか？",
+    "home/gym_battle_064": "他のジムメンバーと同時にバトルする場合\n先に終了したバトルの結果のみが\n反映されます\n\n出発しますか？",
     "home/gym_battle_065": "総合スコア報酬",
     "home/gym_battle_066": "総合スコア",
     "home/gym_battle_067": "pt",
@@ -1175,5 +1175,6 @@
     "home/gym_battle_122": "マスター",
     "home/gym_battle_123": "ラウンド [Digit:3digits ]",
     "home/gym_battle_124": "まもなく開始！",
+    "home/gym_battle_125": "バトル挑戦中に\n他のジムメンバーが\n先にバトルを終了したため\n結果を反映できませんでした\n\nジムバトル挑戦券は返却されました",
     "home/bingo_mission_01": "Ｗアニバ\nビンゴ"
 }

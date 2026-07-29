@@ -1125,7 +1125,7 @@
     "home/gym_battle_061": "Détermination",
     "home/gym_battle_062": "Bons défi Combat d'Arène",
     "home/gym_battle_063": "Continuer avec cette sélection ?",
-    "home/gym_battle_064": "Si vous participez à ce combat\nen même temps qu'un autre membre\nd'Arène, le statut de combat le plus\nrécent pourrait ne pas être reflété.\n\nVoulez-vous continuer ?",
+    "home/gym_battle_064": "Si vous participez à ce combat\nen même temps qu'un autre membre\nd'Arène, seuls les résultats du premier\ncombat terminé seront pris en compte.\n\nVoulez-vous continuer ?",
     "home/gym_battle_065": "Récompenses collectives",
     "home/gym_battle_066": "Score collectif",
     "home/gym_battle_067": "pts",
@@ -1175,5 +1175,6 @@
     "home/gym_battle_122": "Master Ball",
     "home/gym_battle_123": "Tour [Digit:3digits ]",
     "home/gym_battle_124": "Bientôt disponible !",
+    "home/gym_battle_125": "Un autre membre d'Arène a terminé\nce combat pendant que le vôtre était\nen cours, vos résultats n'ont donc\npas été pris en compte.\n\nVos Bons défi Combat d'Arène\nvous ont été rendus.",
     "home/bingo_mission_01": "Bingo double\nanniversaire"
 }

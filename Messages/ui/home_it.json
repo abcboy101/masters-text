@@ -1125,7 +1125,7 @@
     "home/gym_battle_061": "Tensione",
     "home/gym_battle_062": "Biglietti Lotta delle Palestre",
     "home/gym_battle_063": "Vuoi procedere con questa selezione?",
-    "home/gym_battle_064": "Se affronti questa lotta in contemporanea a un altro membro della tua Palestra, le condizioni di lotta più recenti potrebbero non venire registrate.\n\nVuoi comunque procedere?",
+    "home/gym_battle_064": "Se affronti questa lotta in contemporanea a un altro membro della tua Palestra, verranno registrati solo i risultati della lotta che finisce per prima.\n\nVuoi comunque procedere?",
     "home/gym_battle_065": "Ricompense punteggio collettivo",
     "home/gym_battle_066": "Punteggio collettivo",
     "home/gym_battle_067": "punti",
@@ -1175,5 +1175,6 @@
     "home/gym_battle_122": "Master",
     "home/gym_battle_123": "Girone [Digit:3digits ]",
     "home/gym_battle_124": "Inizierà a breve!",
+    "home/gym_battle_125": "Siccome un altro membro della tua Palestra ha finito questa lotta prima di te, i tuoi risultati non sono stati registrati.\n\nTi sono stati restituiti i Biglietti Lotta delle Palestre.",
     "home/bingo_mission_01": "Missioni tris\ndoppio ann."
 }

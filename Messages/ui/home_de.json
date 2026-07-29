@@ -1125,7 +1125,7 @@
     "home/gym_battle_061": "Spannung",
     "home/gym_battle_062": "Arenakampf-Tickets",
     "home/gym_battle_063": "Möchtest du mit dieser Auswahl fortfahren?",
-    "home/gym_battle_064": "Wenn du dich zur selben Zeit wie ein\nanderes Arena-Mitglied an diesem\nKampf versuchst, wird der aktuellste\nStand des Kampfes gegebenenfalls\nnicht widergespiegelt.\n\nMöchtest du fortfahren?",
+    "home/gym_battle_064": "Wenn du dich zur selben Zeit wie ein\nanderes Arena-Mitglied an diesem\nKampf versuchst, werden nur die\nErgebnisse des ersten abgeschlossenen\nKampfes widergespiegelt.\n\nMöchtest du fortfahren?",
     "home/gym_battle_065": "Arena-Punktzahlboni",
     "home/gym_battle_066": "Arena-Punktzahl",
     "home/gym_battle_067": "Pkt.",
@@ -1175,5 +1175,6 @@
     "home/gym_battle_122": "Meister",
     "home/gym_battle_123": "Runde [Digit:3digits ]",
     "home/gym_battle_124": "Beginnt bald!",
+    "home/gym_battle_125": "Da ein anderes Arena-Mitglied den\nKampf bereits abgeschlossen hat,\nwährend dein Kampf noch lief, werden\ndeine Ergebnisse nicht widergespiegelt.\n\nDeine Arenakampf-Tickets erhältst du\nzurück.",
     "home/bingo_mission_01": "Doppeljubiläums-\nBingo"
 }

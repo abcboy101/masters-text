@@ -1125,7 +1125,7 @@
     "home/gym_battle_061": "Sync buff",
     "home/gym_battle_062": "Gym Battle Challenge Tickets",
     "home/gym_battle_063": "Proceed with this selection?",
-    "home/gym_battle_064": "If you attempt this battle at the same\ntime as another gym member, the most\nrecent state of battle may not be\nreflected.\n\nProceed anyway?",
+    "home/gym_battle_064": "If you attempt this battle at the same\ntime as another gym member, only the\nresults of the first battle to finish will\nbe reflected.\n\nProceed anyway?",
     "home/gym_battle_065": "Combined score rewards",
     "home/gym_battle_066": "Combined score",
     "home/gym_battle_067": "pts",
@@ -1175,5 +1175,6 @@
     "home/gym_battle_122": "Master",
     "home/gym_battle_123": "Round [Digit:3digits ]",
     "home/gym_battle_124": "Starting soon!",
+    "home/gym_battle_125": "Since another gym member completed\nthis battle while your battle was in\nprogress, your results have not been\nreflected.\n\nYour Gym Battle Challenge Tickets\nhave been returned.",
     "home/bingo_mission_01": "Double Anniv.\nBingo"
 }

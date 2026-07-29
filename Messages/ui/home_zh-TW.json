@@ -1125,7 +1125,7 @@
     "home/gym_battle_061": "氣魄",
     "home/gym_battle_062": "道館對戰挑戰券",
     "home/gym_battle_063": "確定要以此內容出發嗎？",
-    "home/gym_battle_064": "若和其他道館成員同時進行對戰\n可能不會反映最新的對戰狀態\n\n確定要繼續嗎？",
+    "home/gym_battle_064": "若和其他道館成員同時進行對戰\n僅會反映先結束的那場對戰的結果\n\n確定要出發嗎？",
     "home/gym_battle_065": "總得分報酬",
     "home/gym_battle_066": "總得分",
     "home/gym_battle_067": "pt",
@@ -1175,5 +1175,6 @@
     "home/gym_battle_122": "大師",
     "home/gym_battle_123": "回合：[Digit:3digits ]",
     "home/gym_battle_124": "即將開始！",
+    "home/gym_battle_125": "由於在挑戰對戰時\n其他道館成員已先結束對戰\n因此無法反映結果\n\n已歸還道館對戰挑戰券",
     "home/bingo_mission_01": "雙重週年慶\n賓果"
 }

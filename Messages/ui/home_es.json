@@ -1125,7 +1125,7 @@
     "home/gym_battle_061": "Determinación",
     "home/gym_battle_062": "Entradas Combates de Gimnasio",
     "home/gym_battle_063": "¿Quieres continuar?",
-    "home/gym_battle_064": "Otro miembro del gimnasio está\nlibrando este combate ahora mismo.\nSi combates al mismo tiempo que otro\nmiembro, es posible que el estado del\ncombate más reciente no quede\nregistrado.\n\n¿Quieres continuar de todos modos?",
+    "home/gym_battle_064": "Otro miembro del gimnasio está\nlibrando este combate ahora mismo.\nSi combates al mismo tiempo que otro\nmiembro, solo quedará registrado\nel resultado del primero que termine.\n\n¿Quieres continuar de todos modos?",
     "home/gym_battle_065": "Premios punt. colectiva",
     "home/gym_battle_066": "Puntuación colectiva",
     "home/gym_battle_067": "ptos.",
@@ -1175,5 +1175,6 @@
     "home/gym_battle_122": "Maestro",
     "home/gym_battle_123": "Ronda [Digit:3digits ]",
     "home/gym_battle_124": "¡Disponibles muy pronto!",
+    "home/gym_battle_125": "Otro miembro del gimnasio ha\ncompletado este mismo combate\nmientras combatías, por lo que tu\nresultado no ha quedado registrado.\n\nHas recuperado las Entradas\nCombates de Gimnasio.",
     "home/bingo_mission_01": "Bingo del\ndoble aniv."
 }
