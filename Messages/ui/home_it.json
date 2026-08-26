@@ -1048,6 +1048,7 @@
     "home/pasio_tower_045": "Tentativi al massimo",
     "home/pasio_tower_046": "Puoi ottenere ricompense fisse in base\nal numero complessivo di piani completati.",
     "home/pasio_tower_047": "La prima volta che completi il quinto piano puoi ottenere\nun Lasciapassare Torre.\nProva ad affrontare la sfida iniziando con la Torre\ndi un tipo col quale te la cavi bene.",
+    "home/pasio_tower_048": "Bonus gemme!",
     "home/beginners_001": "Guida per principianti",
     "home/beginners_002": "Guida per\nprincipianti",
     "home/beginners_003": "Guida per principianti",
@@ -1176,5 +1177,6 @@
     "home/gym_battle_123": "Girone [Digit:3digits ]",
     "home/gym_battle_124": "Inizierà a breve!",
     "home/gym_battle_125": "Siccome un altro membro della tua Palestra ha finito questa lotta prima di te, i tuoi risultati non sono stati registrati.\n\nTi sono stati restituiti i Biglietti Lotta delle Palestre.",
-    "home/bingo_mission_01": "Missioni tris\ndoppio ann."
+    "home/bingo_mission_01": "Missioni tris\ndoppio ann.",
+    "home/bingo_mission_02": "Missioni tris\nmegavigliose"
 }

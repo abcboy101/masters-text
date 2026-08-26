@@ -520,7 +520,7 @@
     "common_widget/rank_009": "Tu nivel de aguante ha aumentado en [Digit:3digits ].",
     "common_widget/stamina_001": "Restablecimiento de aguante",
     "common_widget/stamina_002": "Otra vez",
-    "common_widget/stamina_003": "Aviso: Se usan antes las joyas sin coste para dicho fin.\nHoy puedes restablecer tu aguante con joyas [Digit:3digits ]/[Digit:3digits Idx=\"1\" ] veces.",
+    "common_widget/stamina_003": "Aviso: Se usan antes las joyas sin coste para dicho fin.\nHoy puedes restablecer tu aguante con joyas [Digit:3digits ]/[Digit:3digits Idx=\"1\" ] veces.",
     "common_widget/stamina_004": "¿Quieres usar [Digit:3digits ] joya[ES:Qty S=\"\" P=\"s\" ] para\nrestablecer tu aguante?",
     "common_widget/stamina_005": "Se ha restablecido tu aguante.",
     "common_widget/stamina_006": "Joyas insuficientes",

@@ -1048,6 +1048,7 @@
     "home/pasio_tower_045": "Número de intentos al máximo",
     "home/pasio_tower_046": "Obtendrás premios fijos según el número\nde plantas que hayas completado en total.",
     "home/pasio_tower_047": "Aviso: Conseguirás un Pase de la Torre la primera vez\nque completes la planta 5. Intenta empezar por la torre\ndel tipo que mejor se te dé.",
+    "home/pasio_tower_048": "¡Bonificación de joyas!",
     "home/beginners_001": "Guía para principiantes",
     "home/beginners_002": "Guía para\nprincipiantes",
     "home/beginners_003": "Guía para principiantes",
@@ -1067,7 +1068,7 @@
     "home/beginners_018": "Consejo para la misión [Digit:3digits ]",
     "home/beginners_019": "Guía de Tris",
     "home/beginners_020": "Bingo de\nmisiones",
-    "home/beginners_021": "Disponible tras completar la misión [Digit:3digits ].",
+    "home/beginners_021": "Disponible tras completar la misión [Digit:3digits ].",
     "home/beginners_022": "Detalles de la misión",
     "home/beginners_023": "Resumen",
     "home/gym_battle_001": "¡Anima a los demás\nmiembros del gimnasio!",
@@ -1176,5 +1177,6 @@
     "home/gym_battle_123": "Ronda [Digit:3digits ]",
     "home/gym_battle_124": "¡Disponibles muy pronto!",
     "home/gym_battle_125": "Otro miembro del gimnasio ha\ncompletado este mismo combate\nmientras combatías, por lo que tu\nresultado no ha quedado registrado.\n\nHas recuperado las Entradas\nCombates de Gimnasio.",
-    "home/bingo_mission_01": "Bingo del\ndoble aniv."
+    "home/bingo_mission_01": "Bingo del\ndoble aniv.",
+    "home/bingo_mission_02": "Bingo\nmegaespecial"
 }

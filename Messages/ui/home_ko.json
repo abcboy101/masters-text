@@ -1048,6 +1048,7 @@
     "home/pasio_tower_045": "도전 횟수는 MAX입니다",
     "home/pasio_tower_046": "고정 보상은 타워의 총 클리어 수에 따라\n획득할 수 있습니다",
     "home/pasio_tower_047": "※타워 입장 허가증은 5층을 처음 클리어할 때 획득할 수 있습니다\n※우선은 잘 다루는 타입의 타워부터 도전해 봅시다",
+    "home/pasio_tower_048": "다이아 보너스!!",
     "home/beginners_001": "비기너즈 가이드",
     "home/beginners_002": "비기너즈\n가이드",
     "home/beginners_003": "비기너즈 가이드",
@@ -1176,5 +1177,6 @@
     "home/gym_battle_123": "라운드 [Digit:3digits ]",
     "home/gym_battle_124": "곧 있으면 시작!",
     "home/gym_battle_125": "배틀 도전 중\n다른 체육관 멤버가\n먼저 배틀을 종료하여\n결과를 반영할 수 없었습니다\n\n체육관배틀 도전권을 돌려받았습니다",
-    "home/bingo_mission_01": "더블 애니버서리\n빙고"
+    "home/bingo_mission_01": "더블 애니버서리\n빙고",
+    "home/bingo_mission_02": "메가급\n빙고"
 }

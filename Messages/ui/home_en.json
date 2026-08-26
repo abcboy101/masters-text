@@ -1048,6 +1048,7 @@
     "home/pasio_tower_045": "Max Attempts Remaining",
     "home/pasio_tower_046": "You can obtain fixed rewards based on the\ntotal number of tower floors completed.",
     "home/pasio_tower_047": "Note: You can earn a tower pass the first time you\ncomplete the fifth floor.\nNote: Try starting your challenge with a tower type\nyou’re good with.",
+    "home/pasio_tower_048": "Gem Bonus!",
     "home/beginners_001": "Beginner’s Guide",
     "home/beginners_002": "Beginner’s\nGuide",
     "home/beginners_003": "Beginner’s Guide",
@@ -1176,5 +1177,6 @@
     "home/gym_battle_123": "Round [Digit:3digits ]",
     "home/gym_battle_124": "Starting soon!",
     "home/gym_battle_125": "Since another gym member completed\nthis battle while your battle was in\nprogress, your results have not been\nreflected.\n\nYour Gym Battle Challenge Tickets\nhave been returned.",
-    "home/bingo_mission_01": "Double Anniv.\nBingo"
+    "home/bingo_mission_01": "Double Anniv.\nBingo",
+    "home/bingo_mission_02": "Marvelous\nMega Bingo"
 }

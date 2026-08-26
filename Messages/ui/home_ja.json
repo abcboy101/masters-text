@@ -1048,6 +1048,7 @@
     "home/pasio_tower_045": "挑戦回数はMAXです",
     "home/pasio_tower_046": "固定報酬はタワーの総クリア数に応じて\n獲得することができます",
     "home/pasio_tower_047": "※入塔許可証は５階の初回クリア時に獲得できます\n※始めは得意なタイプのタワーから挑みましょう",
+    "home/pasio_tower_048": "ダイヤボーナス！！",
     "home/beginners_001": "ビギナーズガイド",
     "home/beginners_002": "ビギナーズ\nガイド",
     "home/beginners_003": "ビギナーズガイド",
@@ -1176,5 +1177,6 @@
     "home/gym_battle_123": "ラウンド [Digit:3digits ]",
     "home/gym_battle_124": "まもなく開始！",
     "home/gym_battle_125": "バトル挑戦中に\n他のジムメンバーが\n先にバトルを終了したため\n結果を反映できませんでした\n\nジムバトル挑戦券は返却されました",
-    "home/bingo_mission_01": "Ｗアニバ\nビンゴ"
+    "home/bingo_mission_01": "Ｗアニバ\nビンゴ",
+    "home/bingo_mission_02": "メガ盛り\nビンゴ"
 }

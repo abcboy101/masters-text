@@ -1048,6 +1048,7 @@
     "home/pasio_tower_045": "Nombre d'essais restants au maximum",
     "home/pasio_tower_046": "Vous pouvez obtenir des récompenses fixes\nselon le nombre total d'étages terminés.",
     "home/pasio_tower_047": "Remarque : vous pouvez obtenir un Permis d'Accès\n(Tour) la première fois que vous terminez l'étage 5.\nRemarque : essayez de relever le défi d'une tour\ndont vous maîtrisez bien le type.",
+    "home/pasio_tower_048": "Bonus de Diamants !",
     "home/beginners_001": "Guide de débutant",
     "home/beginners_002": "Guide de\ndébutant",
     "home/beginners_003": "Guide de débutant",
@@ -1176,5 +1177,6 @@
     "home/gym_battle_123": "Tour [Digit:3digits ]",
     "home/gym_battle_124": "Bientôt disponible !",
     "home/gym_battle_125": "Un autre membre d'Arène a terminé\nce combat pendant que le vôtre était\nen cours, vos résultats n'ont donc\npas été pris en compte.\n\nVos Bons défi Combat d'Arène\nvous ont été rendus.",
-    "home/bingo_mission_01": "Bingo double\nanniversaire"
+    "home/bingo_mission_01": "Bingo double\nanniversaire",
+    "home/bingo_mission_02": "Bingo\nméga-célébration"
 }
