@@ -120,7 +120,7 @@
     "shop/shop_medal_084": "Kann nach erfolgreichem Abschluss aller Kämpfe\nim Champkampf auf dem Schwierigkeitsgrad\nNormal oder [Digit:2digits ] Tage nach dem Kauf abgeholt\nwerden.",
     "shop/shop_medal_085": "Kann nach erfolgreichem Abschluss aller Kämpfe\nim Champkampf einer beliebigen Region und\ndem Einzug in die Ruhmeshalle auf dem\nSchwierigkeitsgrad Schwer Lv. 1 oder [Digit:2digits ] Tage\nnach dem Kauf abgeholt werden.",
     "shop/shop_medal_086": "Kann nach Erhalt aller Fragmente des Emblems\neiner beliebigen Region im Champkampf auf dem\nSchwierigkeitsgrad Schwer Lv. 1 oder [Digit:2digits ] Tage\nnach dem Kauf abgeholt werden.",
-    "shop/shop_medal_087": "Kann [Digit:2digits ] Tage nach dem Kauf oder nach\nAbschluss des folgenden Kapitels des\nWPM-Handlungsbogens auf dem\nSchwierigkeitsgrad Normal abgeholt werden:\n\n[Name:QuestGroupTitle ]",
+    "shop/shop_medal_087": "Kann [Digit:2digits ] Tage nach dem Kauf oder nach\nAbschluss des folgenden Kapitels des\nWPM-Handlungsbogens abgeholt werden:\n\n[Name:QuestGroupTitle ]",
     "shop/shop_medal_088": "Kapitel-Set",
     "shop/shop_medal_089": "Champ-Set",
     "shop/shop_medal_090": "Spezialbelohnung",

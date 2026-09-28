@@ -302,6 +302,7 @@
     "tutorial/tutorial_labo_text_01": "Aquí puedes usar Incubadoras para\nhacer eclosionar los Huevos y obtener\nPokémon que se conviertan en tus\nnuevos compis.",
     "tutorial/tutorial_labo_title_02": "Obtener Huevos",
     "tutorial/tutorial_labo_text_02": "¡La Profesora Margarita te entregará\nHuevos a medida que ganes diversos\ncombates!",
+    "tutorial/tutorial_labo_text_02_8090update": "Libra combates en el área de Huevos\ndel área de entrenamiento para\nrecibir Huevos Pokémon de parte de\nla Profesora Margarita.",
     "tutorial/tutorial_labo_title_03": "Eclosión de los Huevos",
     "tutorial/tutorial_labo_text_03": "En el Laboratorio Pokémon de la\nProfesora Margarita puedes emplear\nlas Incubadoras para hacer eclosionar\nlos Huevos que ella te entregue.",
     "tutorial/tutorial_labo_title_04": "Eclosión de los Huevos (2)",
@@ -797,5 +798,13 @@
     "tutorial/tutorial_8080_RampageMega_02": "Bonus de fuerza",
     "tutorial/tutorial_8080_RampageMega_02_01": "Los compis aliados que puedan\nmegaevolucionar obtendrán un bonus\nde fuerza, ¡así que prueba a incluirlos\nen tu formación!",
     "tutorial/tutorial_8080_RampageMega_03": "Reglas especiales",
-    "tutorial/tutorial_8080_RampageMega_03_01": "Estos combates también cuentan con\nreglas especiales que te benefician\nsi haces uso de la megaevolución.\n¡Léetelas bien antes de afrontar el\ncombate!"
+    "tutorial/tutorial_8080_RampageMega_03_01": "Estos combates también cuentan con\nreglas especiales que te benefician\nsi haces uso de la megaevolución.\n¡Léetelas bien antes de afrontar el\ncombate!",
+    "tutorial/tutorial_8090_Potential_01": "Las habilidades fortuitas",
+    "tutorial/tutorial_8090_Potential_01_01": "¡Has desbloqueado una nueva mejora!\n\nAhora podrás enseñar habilidades\nfortuitas a tus compis para que se\nvuelvan aún más fuertes.",
+    "tutorial/tutorial_8090_Potential_01_02": "Para aprender una habilidad fortuita,\nprimero tienes que desbloquear una\nranura para las habilidades fortuitas\nmediante el uso de Rollos Fortuna.",
+    "tutorial/tutorial_8090_Potential_01_03": "Una vez desbloqueada la ranura,\npodrás utilizar una Galleta Fortuna\npara aprender la habilidad fortuita\nen sí.",
+    "tutorial/tutorial_8090_Potential_01_04": "Podrás obtener los objetos necesarios\nen ciertos eventos y en el área de\nentrenamiento.",
+    "tutorial/tutorial_8090_BPChallenge_01": "El reto mensual de ptos. de c.",
+    "tutorial/tutorial_8090_BPChallenge_01_01": "El reto mensual de puntos de\ncombate te permite obtener premios\nalucinantes a medida que reúnas\npuntos de combate.",
+    "tutorial/tutorial_8090_BPChallenge_01_02": "Toca el botón de información en la\nparte superior derecha de la pantalla\npara saber más acerca de los puntos\nde combate y cómo obtenerlos."
 }

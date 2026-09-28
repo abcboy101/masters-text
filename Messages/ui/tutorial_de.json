@@ -302,6 +302,7 @@
     "tutorial/tutorial_labo_text_01": "Hier kannst du mit Brutmaschinen\nEier ausbrüten und mit bereits\ngeschlüpften Pokémon ein\nGefährtengespann bilden.",
     "tutorial/tutorial_labo_title_02": "Eier erhalten",
     "tutorial/tutorial_labo_text_02": "Gewinne Kämpfe, um von Professor\nDaisy Eier zu erhalten.",
+    "tutorial/tutorial_labo_text_02_8090update": "Versuche dich am Eiergebiet im\nTrainingsgebiet, um Eier von\nProfessor Daisy zu erhalten!",
     "tutorial/tutorial_labo_title_03": "Eier ausbrüten 1",
     "tutorial/tutorial_labo_text_03": "Lege die von Professor Daisy\nerhaltenen Eier in Brutmaschinen im\nPokémon-Labor ab.",
     "tutorial/tutorial_labo_title_04": "Eier ausbrüten 2",
@@ -797,5 +798,13 @@
     "tutorial/tutorial_8080_RampageMega_02": "Kraftboni",
     "tutorial/tutorial_8080_RampageMega_02_01": "Zur Mega-Entwicklung fähige\nverbündete Gefährten erhalten einen\nKraftbonus. Versuche daher, sie in\ndein Team aufzunehmen!",
     "tutorial/tutorial_8080_RampageMega_03": "Besondere Regeln",
-    "tutorial/tutorial_8080_RampageMega_03_01": "Diese Kämpfe umfassen zudem einige\nbesondere Regeln, die dir einen\nVorteil bieten, wenn du im Kampf\neine Mega-Entwicklung durchführst.\nLies sie dir gut durch, bevor du einen\nKampf beginnst!"
+    "tutorial/tutorial_8080_RampageMega_03_01": "Diese Kämpfe umfassen zudem einige\nbesondere Regeln, die dir einen\nVorteil bieten, wenn du im Kampf\neine Mega-Entwicklung durchführst.\nLies sie dir gut durch, bevor du einen\nKampf beginnst!",
+    "tutorial/tutorial_8090_Potential_01": "Glücksfähigkeiten",
+    "tutorial/tutorial_8090_Potential_01_01": "Neue Verstärkung freigeschaltet!\n\nDu kannst Gefährtengespanne noch\nweiter verbessern, indem du ihnen\nGlücksfähigkeiten beibringst!",
+    "tutorial/tutorial_8090_Potential_01_02": "Um eine Glücksfähigkeit zu erlernen,\nmusst du erst einen Glücksfähigkeits-\nSlot mithilfe einer Glücksrolle\nfreischalten.",
+    "tutorial/tutorial_8090_Potential_01_03": "Sobald du einen Slot freigeschaltet\nhast, kannst du einen Glückskeks\nverwenden, um eine Glücksfähigkeit\nzu erlernen.",
+    "tutorial/tutorial_8090_Potential_01_04": "Du kannst die für Verstärkungen\nbenötigten Items im Rahmen von\nEvents sowie im Trainingsgebiet\nerhalten.",
+    "tutorial/tutorial_8090_BPChallenge_01": "Monatl. Kampfpkt.-Herausforderung",
+    "tutorial/tutorial_8090_BPChallenge_01_01": "Du kannst fantastische Belohnungen\nerhalten, indem du im Rahmen der\nMonatl. Kampfpkt.-Herausforderung\nKampfpunkte sammelst.",
+    "tutorial/tutorial_8090_BPChallenge_01_02": "Nähere Informationen zur Spielweise\nund dem Sammeln von Kampfpunkten\nerhältst du über die Schaltfläche oben\nrechts."
 }

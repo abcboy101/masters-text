@@ -120,7 +120,7 @@
     "shop/shop_medal_084": "Ottenibile completando la Lotta dei Campioni\nin difficoltà \"Normale\", oppure [Digit:2digits ] [IT:Qty S=\"giorno\" P=\"giorni\" ] dopo\nl'acquisto.",
     "shop/shop_medal_085": "Ottenibile entrando nella Sala d'Onore di Pasio\nin difficoltà \"Difficile L. 1\" dopo aver completato\ntutte le sfide della Lotta dei Campioni di una\nqualsiasi regione, oppure [Digit:2digits ] [IT:Qty S=\"giorno\" P=\"giorni\" ] dopo\nl'acquisto.",
     "shop/shop_medal_086": "Ottenibile completando l'emblema \"Sala d'Onore\"\ndi una qualsiasi regione in difficoltà \"Difficile\nL. 1\", oppure [Digit:2digits ] [IT:Qty S=\"giorno\" P=\"giorni\" ] dopo l'acquisto.",
-    "shop/shop_medal_087": "Ottenibile completando il seguente capitolo\ndella storia \"Il WPM\" in difficoltà \"Normale\",\noppure [Digit:2digits ] [IT:Qty S=\"giorno\" P=\"giorni\" ] dopo l'acquisto:\n\n[Name:QuestGroupTitle ]",
+    "shop/shop_medal_087": "Ottenibile completando il seguente capitolo\ndella storia \"Il WPM\", oppure [Digit:2digits ] [IT:Qty S=\"giorno\" P=\"giorni\" ]\ndopo l'acquisto:\n\n[Name:QuestGroupTitle ]",
     "shop/shop_medal_088": "Pacchetto storia",
     "shop/shop_medal_089": "Pacchetto dei Campioni",
     "shop/shop_medal_090": "Ricompense speciali",

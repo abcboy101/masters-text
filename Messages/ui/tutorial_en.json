@@ -302,6 +302,7 @@
     "tutorial/tutorial_labo_text_01": "Use this screen to place Eggs in\nincubators and form sync pairs with\nthe Pokémon that hatch from them!",
     "tutorial/tutorial_labo_title_02": "Obtaining Eggs",
     "tutorial/tutorial_labo_text_02": "You can receive Eggs from Professor\nBellis after completing battles!",
+    "tutorial/tutorial_labo_text_02_8090update": "Try taking on the Egg Area in the\nTraining Area to receive Eggs from\nProfessor Bellis!",
     "tutorial/tutorial_labo_title_03": "Hatching Eggs: Step 1",
     "tutorial/tutorial_labo_text_03": "Place an Egg you receive from\nProfessor Bellis into an incubator at\nBellis’s lab.",
     "tutorial/tutorial_labo_title_04": "Hatching Eggs: Step 2",
@@ -797,5 +798,13 @@
     "tutorial/tutorial_8080_RampageMega_02": "Strength Bonuses",
     "tutorial/tutorial_8080_RampageMega_02_01": "Allied sync pairs able to Mega Evolve\nwill be given a strength bonus, so try\nadding them to your team! ",
     "tutorial/tutorial_8080_RampageMega_03": "Special Rules",
-    "tutorial/tutorial_8080_RampageMega_03_01": "These battles also include special\nrules that provide advantages when\nyou Mega Evolve during battle.\nBe sure to check them carefully\nbefore battling!"
+    "tutorial/tutorial_8080_RampageMega_03_01": "These battles also include special\nrules that provide advantages when\nyou Mega Evolve during battle.\nBe sure to check them carefully\nbefore battling!",
+    "tutorial/tutorial_8090_Potential_01": "Lucky Skills",
+    "tutorial/tutorial_8090_Potential_01_01": "New upgrade unlocked!\n\nYou can make sync pairs even\nstronger by teaching them lucky skills!",
+    "tutorial/tutorial_8090_Potential_01_02": "To learn a lucky skill, you first need\nto unlock a skill slot with a lucky\nscroll.",
+    "tutorial/tutorial_8090_Potential_01_03": "Once you unlock a skill slot, you can\nuse a lucky cookie to learn a lucky\nskill.",
+    "tutorial/tutorial_8090_Potential_01_04": "You can obtain items necessary for\nupgrades from events and the\nTraining Area.",
+    "tutorial/tutorial_8090_BPChallenge_01": "Monthly BP Challenge",
+    "tutorial/tutorial_8090_BPChallenge_01_01": "In the Monthly BP Challenge, you\ncan obtain awesome rewards by\nearning battle points.",
+    "tutorial/tutorial_8090_BPChallenge_01_02": "For more details on how to play and\nhow to earn battle points, tap the\nbutton in the top right."
 }

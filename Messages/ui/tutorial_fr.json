@@ -302,6 +302,7 @@
     "tutorial/tutorial_labo_text_01": "Vous pouvez utiliser ici des\nIncubateurs pour faire éclore un Œuf\net faire équipe avec le Pokémon qui\nen sortira !",
     "tutorial/tutorial_labo_title_02": "Recevoir des Œufs",
     "tutorial/tutorial_labo_text_02": "En remportant des combats, vous\npourrez recevoir des Œufs de la part\nde la Professeure Bellis !",
+    "tutorial/tutorial_labo_text_02_8090update": "Vous pouvez essayer les défis dans\nla zone à Œufs qui se trouve dans\nla zone d'entraînement afin de\nrecevoir des Œufs de la part\nde la Professeure Bellis !",
     "tutorial/tutorial_labo_title_03": "Faire éclore les Œufs 1",
     "tutorial/tutorial_labo_text_03": "Mettez les Œufs que la Professeure\nBellis vous a confiés dans\nles Incubateurs du Laboratoire\nPokémon Bellis.",
     "tutorial/tutorial_labo_title_04": "Faire éclore les Œufs 2",
@@ -797,5 +798,13 @@
     "tutorial/tutorial_8080_RampageMega_02": "Bonus de force",
     "tutorial/tutorial_8080_RampageMega_02_01": "Les Duos alliés capables d'utiliser\nla Méga-Évolution recevront\nun bonus de force, alors faire équipe\navec eux pourrait vous être utile !",
     "tutorial/tutorial_8080_RampageMega_03": "Règles spéciales",
-    "tutorial/tutorial_8080_RampageMega_03_01": "Il existe aussi des règles spéciales\nqui peuvent vous offrir des avantages\npendant les combats dans lesquels\nvous utilisez la Méga-Évolution.\nVous pouvez consulter ces règles\navant de commencer un combat."
+    "tutorial/tutorial_8080_RampageMega_03_01": "Il existe aussi des règles spéciales\nqui peuvent vous offrir des avantages\npendant les combats dans lesquels\nvous utilisez la Méga-Évolution.\nVous pouvez consulter ces règles\navant de commencer un combat.",
+    "tutorial/tutorial_8090_Potential_01": "Talents surprises",
+    "tutorial/tutorial_8090_Potential_01_01": "Nouveau renforcement disponible !\n\nVous pouvez renforcer encore plus\nvos Duos en leur faisant apprendre\ndes talents surprises !",
+    "tutorial/tutorial_8090_Potential_01_02": "Pour apprendre un talent surprise,\nil est nécessaire de débloquer\nun emplacement avec\nun Rouleau Surprise.",
+    "tutorial/tutorial_8090_Potential_01_03": "Une fois l'emplacement de talent\nsurprise débloqué, vous pourrez\nutiliser un Biscuit Surprise pour\napprendre un talent surprise.",
+    "tutorial/tutorial_8090_Potential_01_04": "Vous pouvez obtenir les objets requis\npour des renforcements pendant\ndes évènements et dans la zone\nd'entraînement.",
+    "tutorial/tutorial_8090_BPChallenge_01": "Défi PCo mensuel",
+    "tutorial/tutorial_8090_BPChallenge_01_01": "Vous pouvez obtenir des récompenses\nexceptionnelles pendant le défi PCo\nmensuel en gagnant des points\nde combat.",
+    "tutorial/tutorial_8090_BPChallenge_01_02": "Pour en savoir plus sur comment\njouer et gagner des points\nde combat, vous pouvez appuyer\nsur le bouton en haut à droite."
 }

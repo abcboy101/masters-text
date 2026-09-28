@@ -302,6 +302,7 @@
     "tutorial/tutorial_labo_text_01": "この画面では　ふかそうちを使って\\nタマゴをかえしたり　タマゴから\\nかえったポケモンと　バディに\\nなることができます！",
     "tutorial/tutorial_labo_title_02": "タマゴを預かるには？",
     "tutorial/tutorial_labo_text_02": "バトルに勝利して　ヒナギク博士から\\nタマゴを預かろう！",
+    "tutorial/tutorial_labo_text_02_8090update": "トレーニングエリアの\nタマゴエリアに　挑戦して\nヒナギク博士から　タマゴを預かろう！",
     "tutorial/tutorial_labo_title_03": "タマゴをかえす方法１",
     "tutorial/tutorial_labo_text_03": "ヒナギクポケモン研究所の\\nふかそうちにヒナギク博士から\\n預かったタマゴを　セットしよう",
     "tutorial/tutorial_labo_title_04": "タマゴをかえす方法２",
@@ -797,5 +798,13 @@
     "tutorial/tutorial_8080_RampageMega_02": "つよさボーナス",
     "tutorial/tutorial_8080_RampageMega_02_01": "メガシンカできる　味方バディーズには\nつよさボーナスが　かかるので\n積極的に　チームに編成しましょう！",
     "tutorial/tutorial_8080_RampageMega_03": "特殊ルール",
-    "tutorial/tutorial_8080_RampageMega_03_01": "メガシンカすると　バトルが有利になる\n特殊ルールも　設定されています\nバトルに　挑戦する前に\nしっかり　確認しておきましょう"
+    "tutorial/tutorial_8080_RampageMega_03_01": "メガシンカすると　バトルが有利になる\n特殊ルールも　設定されています\nバトルに　挑戦する前に\nしっかり　確認しておきましょう",
+    "tutorial/tutorial_8090_Potential_01": "ポテンシャル",
+    "tutorial/tutorial_8090_Potential_01_01": "新しい強化が　解放されました\n\n「ポテンシャル」を　習得することで\nバディーズを　さらに　強くできます",
+    "tutorial/tutorial_8090_Potential_01_02": "ポテンシャルを　習得するには\nまずは　「ポテンシャルの巻物」で\nスロットを　解放する必要があります",
+    "tutorial/tutorial_8090_Potential_01_03": "スロットを解放したら\nＰクッキーを　使って\nポテンシャルを　習得しましょう",
+    "tutorial/tutorial_8090_Potential_01_04": "強化に　必要などうぐは\nイベントや　トレーニングエリアなどで\n獲得できます",
+    "tutorial/tutorial_8090_BPChallenge_01": "マンスリーＢＰチャレンジ",
+    "tutorial/tutorial_8090_BPChallenge_01_01": "マンスリーＢＰチャレンジでは\nバトルポイントを　集めることで\n豪華な報酬を　獲得できます",
+    "tutorial/tutorial_8090_BPChallenge_01_02": "バトルポイントの　集め方や\n詳しい遊び方は　右上のボタンから\n確認できます"
 }

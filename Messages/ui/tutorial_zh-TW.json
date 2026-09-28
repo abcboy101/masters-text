@@ -302,6 +302,7 @@
     "tutorial/tutorial_labo_text_01": "在這個畫面可以使用孵化器\n來孵化寶可夢\n並且還能和從蛋孵出來的\n寶可夢成為拍檔！",
     "tutorial/tutorial_labo_title_02": "如何得到蛋？",
     "tutorial/tutorial_labo_text_02": "贏得對戰，\n從雛菊博士那裡\n取得蛋吧！",
+    "tutorial/tutorial_labo_text_02_8090update": "挑戰訓練區域的蛋區域\n從雛菊博士那裡取得蛋吧！",
     "tutorial/tutorial_labo_title_03": "如何孵化蛋１",
     "tutorial/tutorial_labo_text_03": "將雛菊博士給的蛋設置在\n雛菊寶可夢研究所的\n孵化器裡吧",
     "tutorial/tutorial_labo_title_04": "如何孵化蛋２",
@@ -797,5 +798,13 @@
     "tutorial/tutorial_8080_RampageMega_02": "戰力加成",
     "tutorial/tutorial_8080_RampageMega_02_01": "能夠超級進化的我方拍組\n會獲得戰力加成\n積極地將這些拍組編制到隊伍中吧！",
     "tutorial/tutorial_8080_RampageMega_03": "特殊規則",
-    "tutorial/tutorial_8080_RampageMega_03_01": "當中也設有超級進化後\n會讓對戰更有利的特殊規則\n挑戰對戰之前\n先仔細地確認看看吧"
+    "tutorial/tutorial_8080_RampageMega_03_01": "當中也設有超級進化後\n會讓對戰更有利的特殊規則\n挑戰對戰之前\n先仔細地確認看看吧",
+    "tutorial/tutorial_8090_Potential_01": "潛能",
+    "tutorial/tutorial_8090_Potential_01_01": "新的強化已開放\n\n可透過學習「潛能」\n來讓拍組變得更強",
+    "tutorial/tutorial_8090_Potential_01_02": "要學習潛能\n首先要使用「潛能卷軸」\n來開放潛能槽",
+    "tutorial/tutorial_8090_Potential_01_03": "開放潛能槽後\n就使用潛能餅乾\n來學習潛能吧",
+    "tutorial/tutorial_8090_Potential_01_04": "強化時所需的道具\n可在活動或訓練區域等處獲得",
+    "tutorial/tutorial_8090_BPChallenge_01": "每月對戰點數挑戰",
+    "tutorial/tutorial_8090_BPChallenge_01_01": "在每月對戰點數挑戰中\n可透過收集對戰點數\n來獲得豪華報酬",
+    "tutorial/tutorial_8090_BPChallenge_01_02": "對戰點數的收集方法\n和詳細的遊玩方法\n請點選畫面右上角的按鈕確認"
 }

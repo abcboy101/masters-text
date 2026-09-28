@@ -302,6 +302,7 @@
     "tutorial/tutorial_labo_text_01": "In questa schermata è possibile usare\ndelle Incubatrici per fare schiudere\nle Uova e poi formare un'Unità\ncon i Pokémon che ne nascono!",
     "tutorial/tutorial_labo_title_02": "Ottenere le Uova",
     "tutorial/tutorial_labo_text_02": "Vinci le lotte per ricevere delle Uova\ndalla Professoressa Bellisperia!",
+    "tutorial/tutorial_labo_text_02_8090update": "Prova ad affrontare le aree Uova\nnelle aree allenamento per ricevere\nUova dalla Professoressa Bellisperia.",
     "tutorial/tutorial_labo_title_03": "Fare schiudere le Uova 1",
     "tutorial/tutorial_labo_text_03": "Inserisci le Uova ricevute\nnelle Incubatrici del Laboratorio\nPokémon.",
     "tutorial/tutorial_labo_title_04": "Fare schiudere le Uova 2",
@@ -797,5 +798,13 @@
     "tutorial/tutorial_8080_RampageMega_02": "Bonus potenza",
     "tutorial/tutorial_8080_RampageMega_02_01": "Le Unità alleate il cui Pokémon può\nmegaevolversi riceveranno un bonus\npotenza, quindi prova a inserirle\nin squadra!",
     "tutorial/tutorial_8080_RampageMega_03": "Regole speciali",
-    "tutorial/tutorial_8080_RampageMega_03_01": "Queste lotte hanno regole speciali\nche offrono vantaggi durante la lotta\nquando i Pokémon si megaevolvono.\nLeggile attentamente prima di lottare!"
+    "tutorial/tutorial_8080_RampageMega_03_01": "Queste lotte hanno regole speciali\nche offrono vantaggi durante la lotta\nquando i Pokémon si megaevolvono.\nLeggile attentamente prima di lottare!",
+    "tutorial/tutorial_8090_Potential_01": "Talenti",
+    "tutorial/tutorial_8090_Potential_01_01": "Hai sbloccato un nuovo rinforzo!\n\nPuoi rendere le Unità ancora più forti\nfacendogli scoprire talenti!",
+    "tutorial/tutorial_8090_Potential_01_02": "Per imparare un talento devi prima\nsbloccare uno spazio apposito\ncon una Pergamena talento.",
+    "tutorial/tutorial_8090_Potential_01_03": "Una volta sbloccato uno spazio, puoi\nusare un Biscottalento per imparare\nun talento.",
+    "tutorial/tutorial_8090_Potential_01_04": "Puoi ottenere gli strumenti necessari\nper i rinforzi negli eventi e nelle aree\nallenamento.",
+    "tutorial/tutorial_8090_BPChallenge_01": "Sfida PL mensile",
+    "tutorial/tutorial_8090_BPChallenge_01_01": "Nella sfida PL mensile, puoi ottenere\nfantastiche ricompense accumulando\nPunti Lotta.",
+    "tutorial/tutorial_8090_BPChallenge_01_02": "Per saperne di più su come giocare\ne come accumulare Punti Lotta,\ntocca l'icona in alto a destra."
 }
